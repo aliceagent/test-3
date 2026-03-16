@@ -144,4 +144,10 @@ Shabbat Shalom.
 
 ---
 
+## Tags
+
+#DvarTorah #Shabbat #TorahStudy #ShabbatTable #JewishLearning #Parsha #WeeklyPortion #JewishTradition #FamilyWisdom #Hillel #PirkeiAvot #Rashi #JewishCommentary #ChineseJews #家教 #安息日
+
+---
+
 *Torah Light (Torah之光) is a project creating educational articles about Orthodox Judaism for native Mandarin speakers. For more articles, visit our repository.*
