@@ -10,6 +10,7 @@ const navSections = [
     category: "foundations",
     items: [
       { key: "torahStudy", href: "/torah-study" },
+      { key: "weeklyParsha", href: "/weekly-parsha" },
       { key: "thirteenPrinciples", href: "/thirteen-principles" },
       { key: "tenCommandments", href: "/ten-commandments" },
       { key: "fiveMegillot", href: "/five-megillot" },
@@ -23,6 +24,9 @@ const navSections = [
       { key: "passoverSeder", href: "/passover-seder" },
       { key: "prayer", href: "/prayer" },
       { key: "kosherFood", href: "/kosher-food" },
+      { key: "blessings", href: "/blessings" },
+      { key: "mitzvahObjects", href: "/mitzvah-objects" },
+      { key: "jewishCalendar", href: "/jewish-calendar" },
       { key: "clothingModesty", href: "/clothing-modesty" },
       { key: "familyPurity", href: "/family-purity" },
       { key: "moneyLaws", href: "/money-laws" },
@@ -34,6 +38,8 @@ const navSections = [
     items: [
       { key: "jewishTexts", href: "/jewish-texts" },
       { key: "philosophy", href: "/philosophy" },
+      { key: "pirkeiAvot", href: "/pirkei-avot" },
+      { key: "mussar", href: "/mussar" },
       { key: "chabad", href: "/chabad" },
       { key: "hebrewLearning", href: "/hebrew-learning" },
     ],
@@ -46,6 +52,7 @@ const navSections = [
       { key: "tabernacle", href: "/tabernacle" },
       { key: "ashkenaziSephardi", href: "/ashkenazi-sephardi" },
       { key: "jewsInAsia", href: "/jews-in-asia" },
+      { key: "israel", href: "/israel" },
       { key: "antisemitism", href: "/antisemitism" },
     ],
   },
@@ -53,6 +60,7 @@ const navSections = [
     category: "communityLife",
     items: [
       { key: "lifeCycle", href: "/life-cycle" },
+      { key: "conversion", href: "/conversion" },
       { key: "matchmaking", href: "/matchmaking" },
       { key: "community", href: "/community" },
       { key: "mentorship", href: "/mentorship" },
