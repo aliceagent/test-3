@@ -100,13 +100,28 @@ The Torah was given to the Jewish people at Mount Sinai approximately 3,300 year
 
 ## Bibliography
 
-- **Primary Source**: *Bereishit* (Genesis) 1:1-2:3, from the Hebrew Bible
-- **Aish HaTorah**: "The Purpose of Creation" by Rabbi Noson Weisz, https://www.aish.com/the-purpose-of-creation/ — Explores the concept of a perfectible world and human free will
-- **Chabad.org**: "Coming Into Being - G-d looked into the Torah and created the world," https://www.chabad.org/kabbalah/article_cdo/aid/379297/jewish/Coming-Into-Being.htm — Explains the Torah as the blueprint for creation
-- **Chabad.org**: "Torah Studies: Bereishit," https://www.chabad.org/therebbe/article_cdo/aid/110297/jewish/Torah-Studies-Bereishit.htm — Teachings from the Lubavitcher Rebbe on the purpose of creation
-- **Sefaria.org**: Genesis Chapter 1 with classical commentaries (Rashi, Ramban, Ibn Ezra), https://www.sefaria.org/Genesis.1
-- **Classical Commentary**: Rashi on Genesis 1:1 — explains the word *bereishit* and the purpose of creation
-- **Midrash Rabbah**: Genesis Rabbah 1:1 — "God looked into the Torah and created the world"
+1. **Genesis (Bereishit) 1:1-2:3** — Sefaria.org (Primary text with commentaries)  
+   https://www.sefaria.org/Genesis.1
+
+2. **"The Purpose of Creation"** by Rabbi Noson Weisz — Aish.com  
+   https://www.aish.com/the-purpose-of-creation/  
+   *(Explores the concept of a perfectible world and human free will)*
+
+3. **"Coming Into Being"** — Chabad.org Kabbalah  
+   https://www.chabad.org/kabbalah/article_cdo/aid/379297/jewish/Coming-Into-Being.htm  
+   *(God looked into the Torah and created the world)*
+
+4. **"Torah Studies: Bereishit"** — Chabad.org  
+   https://www.chabad.org/therebbe/article_cdo/aid/110297/jewish/Torah-Studies-Bereishit.htm  
+   *(Teachings from the Lubavitcher Rebbe on the purpose of creation)*
+
+5. **Rashi on Genesis 1:1** — Sefaria.org  
+   https://www.sefaria.org/Rashi_on_Genesis.1.1  
+   *(Explains the word bereishit and the purpose of creation)*
+
+6. **Midrash Rabbah, Genesis 1:1** — Sefaria.org  
+   https://www.sefaria.org/Bereishit_Rabbah.1.1  
+   *("God looked into the Torah and created the world")*
 
 ---
 

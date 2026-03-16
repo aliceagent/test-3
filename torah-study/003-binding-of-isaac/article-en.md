@@ -4,7 +4,7 @@
 
 Have you ever been asked to give up something you deeply love? Perhaps a dream, a relationship, or a cherished possession? That moment when you must choose between what you want and what you believe is right cuts to the very core of who you are.
 
-Nearly four thousand years ago, Abraham faced such a test — but of unimaginable magnitude. After waiting a lifetime for a son, after receiving divine promises that through Isaac his legacy would continue forever, God asked Abraham to do the unthinkable: sacrifice that very son on a mountain altar.
+Nearly four thousand years ago — during what corresponds to China's Shang Dynasty (商朝, ~1600-1046 BCE) — Abraham faced such a test, but of unimaginable magnitude. After waiting a lifetime for a son, after receiving divine promises that through Isaac his legacy would continue forever, God asked Abraham to do the unthinkable: sacrifice that very son on a mountain altar.
 
 This story, known in Hebrew as the *Akeidat Yitzchak* (the Binding of Isaac), stands as one of the most profound moments in Jewish history. It speaks not of blind obedience, but of complete trust in God even when we cannot understand His ways.
 
@@ -85,15 +85,24 @@ For Chinese readers, think of the Binding like the stories of *zhongxin* (忠心
 
 ## Bibliography
 
-1. "The Binding of Isaac," Aish.com. Available at: https://aish.com/chumash-themes-6-the-binding-of-isaac/ (Based on Rabbi E.E. Dessler's *Michtav M'Eliyahu* and traditional Midrashic sources)
+1. **"The Binding of Isaac"** — Aish.com  
+   https://aish.com/chumash-themes-6-the-binding-of-isaac/  
+   *(Based on Rabbi E.E. Dessler's Michtav M'Eliyahu and traditional Midrashic sources)*
 
-2. "The Binding," Aish.com. Available at: https://aish.com/the-binding/ (Analysis of Abraham's tenth and final test)
+2. **"The Binding"** — Aish.com  
+   https://aish.com/the-binding/  
+   *(Analysis of Abraham's tenth and final test)*
 
-3. "Isaac's Age at the Binding (Akeidah)," Aish.com. Available at: https://aish.com/isaacs-age-at-the-binding-akeidah/ (Discussion of Isaac's age and willing participation)
+3. **"Isaac's Age at the Binding (Akeidah)"** — Aish.com  
+   https://aish.com/isaacs-age-at-the-binding-akeidah/  
+   *(Discussion of Isaac's age and willing participation)*
 
-4. Genesis Chapter 22, Hebrew Bible with commentary. Accessed via Sefaria.org
+4. **Genesis Chapter 22** — Sefaria.org (Hebrew Bible with commentaries)  
+   https://www.sefaria.org/Genesis.22
 
-5. Midrash Rabbah, Genesis 56 (Classical rabbinic interpretation of the Binding narrative)
+5. **Midrash Rabbah, Genesis 56** — Sefaria.org  
+   https://www.sefaria.org/Bereishit_Rabbah.56  
+   *(Classical rabbinic interpretation of the Binding narrative)*
 
 ---
 

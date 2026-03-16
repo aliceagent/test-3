@@ -127,15 +127,20 @@ Shabbat Shalom.
 
 ## Bibliography
 
-1. Chabad.org. "How to Craft an Amazing Dvar Torah." Accessed March 2026. https://www.chabad.org/library/article_cdo/aid/3562825/jewish/What-Is-a-Dvar-Torah.htm
+1. **"What Is a Dvar Torah?"** — Chabad.org  
+   https://www.chabad.org/library/article_cdo/aid/3562825/jewish/What-Is-a-Dvar-Torah.htm
 
-2. Chabad.org. "Weekly Torah Portion (Parshah)." Accessed March 2026. https://www.chabad.org/parshah/default_cdo/jewish/Parshah.htm
+2. **Weekly Torah Portion (Parshah)** — Chabad.org  
+   https://www.chabad.org/parshah/default_cdo/jewish/Parshah.htm
 
-3. Aish.com. "Shabbat: Heaven on Earth." Accessed March 2026. https://www.aish.com/shabbat/
+3. **Shabbat: Heaven on Earth** — Aish.com  
+   https://www.aish.com/shabbat/
 
-4. Sefaria.org. "A Living Library of Jewish Texts." Accessed March 2026. https://www.sefaria.org
+4. **Sefaria: A Living Library of Jewish Texts**  
+   https://www.sefaria.org
 
-5. Pirkei Avot (Ethics of the Fathers), Chapter 2, Mishnah 4.
+5. **Pirkei Avot (Ethics of the Fathers), Chapter 2, Mishnah 4** — Sefaria.org  
+   https://www.sefaria.org/Pirkei_Avot.2.4
 
 ---
 
