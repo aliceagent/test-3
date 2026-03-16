@@ -9,16 +9,16 @@ export default function PrayerPage() {
       titleKey="title"
       subtitleKey="subtitle"
       sections={[
-        { titleKey: "overview", descKey: "overviewDesc" },
-        { titleKey: "morningPrayer", descKey: "morningPrayerDesc" },
-        { titleKey: "afternoonPrayer", descKey: "afternoonPrayerDesc" },
-        { titleKey: "eveningPrayer", descKey: "eveningPrayerDesc" },
-        { titleKey: "shema", descKey: "shemaDesc" },
-        { titleKey: "amidah", descKey: "amidahDesc" },
-        { titleKey: "blessings", descKey: "blessingsDesc" },
-        { titleKey: "graceMeals", descKey: "graceMealsDesc" },
-        { titleKey: "holidayPrayers", descKey: "holidayPrayersDesc" },
-        { titleKey: "shabbatPrayers", descKey: "shabbatPrayersDesc" },
+        { titleKey: "overview" },
+        { titleKey: "morningPrayer" },
+        { titleKey: "afternoonPrayer" },
+        { titleKey: "eveningPrayer" },
+        { titleKey: "shema" },
+        { titleKey: "amidah" },
+        { titleKey: "blessings" },
+        { titleKey: "graceMeals" },
+        { titleKey: "holidayPrayers" },
+        { titleKey: "shabbatPrayers" },
         { titleKey: "audioSection", descKey: "audioDesc", audioPlaceholder: true },
       ]}
       relatedLinks={[

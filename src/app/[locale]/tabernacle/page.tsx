@@ -9,15 +9,15 @@ export default function TabernaclePage() {
       titleKey="title"
       subtitleKey="subtitle"
       sections={[
-        { titleKey: "overview", descKey: "overviewDesc" },
-        { titleKey: "structure", descKey: "structureDesc", imagePlaceholder: true },
-        { titleKey: "holyItems", descKey: "holyItemsDesc" },
-        { titleKey: "ark", descKey: "arkDesc" },
-        { titleKey: "menorah", descKey: "menorahDesc" },
-        { titleKey: "altars", descKey: "altarsDesc" },
-        { titleKey: "priestGarments", descKey: "priestGarmentsDesc", imagePlaceholder: true },
-        { titleKey: "service", descKey: "serviceDesc" },
-        { titleKey: "spiritualMeaning", descKey: "spiritualMeaningDesc" },
+        { titleKey: "overview" },
+        { titleKey: "structure", imagePlaceholder: true },
+        { titleKey: "holyItems" },
+        { titleKey: "ark" },
+        { titleKey: "menorah" },
+        { titleKey: "altars" },
+        { titleKey: "priestGarments", imagePlaceholder: true },
+        { titleKey: "service" },
+        { titleKey: "spiritualMeaning" },
       ]}
       relatedLinks={[
         { href: "/jewish-history", labelKey: "Jewish History", labelNs: "nav" },

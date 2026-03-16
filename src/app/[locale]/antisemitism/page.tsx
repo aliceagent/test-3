@@ -9,11 +9,11 @@ export default function AntisemitismPage() {
       titleKey="title"
       subtitleKey="subtitle"
       sections={[
-        { titleKey: "history", descKey: "historyDesc" },
-        { titleKey: "tropes", descKey: "tropesDesc" },
-        { titleKey: "genocide", descKey: "genocideDesc" },
-        { titleKey: "modern", descKey: "modernDesc" },
-        { titleKey: "howToRespond", descKey: "howToRespondDesc" },
+        { titleKey: "history" },
+        { titleKey: "tropes" },
+        { titleKey: "genocide" },
+        { titleKey: "modern" },
+        { titleKey: "howToRespond" },
       ]}
       relatedLinks={[
         { href: "/jewish-history", labelKey: "Jewish History", labelNs: "nav" },

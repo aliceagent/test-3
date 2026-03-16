@@ -9,12 +9,12 @@ export default function NonJewishRelationsPage() {
       titleKey="title"
       subtitleKey="subtitle"
       sections={[
-        { titleKey: "overview", descKey: "overviewDesc" },
-        { titleKey: "noahideLaws", descKey: "noahideLawsDesc" },
-        { titleKey: "wineRules", descKey: "wineRulesDesc" },
-        { titleKey: "milkBreadRules", descKey: "milkBreadRulesDesc" },
-        { titleKey: "friendship", descKey: "friendshipDesc" },
-        { titleKey: "workplace", descKey: "workplaceDesc" },
+        { titleKey: "overview" },
+        { titleKey: "noahideLaws" },
+        { titleKey: "wineRules" },
+        { titleKey: "milkBreadRules" },
+        { titleKey: "friendship" },
+        { titleKey: "workplace" },
       ]}
       relatedLinks={[
         { href: "/kosher-food", labelKey: "Kosher Food", labelNs: "nav" },

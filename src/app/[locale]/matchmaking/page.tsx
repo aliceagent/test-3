@@ -9,9 +9,9 @@ export default function MatchmakingPage() {
       titleKey="title"
       subtitleKey="subtitle"
       sections={[
-        { titleKey: "whatIsShidduch", descKey: "whatIsShidduchDesc" },
-        { titleKey: "process", descKey: "processDesc" },
-        { titleKey: "dating", descKey: "datingDesc" },
+        { titleKey: "whatIsShidduch" },
+        { titleKey: "process" },
+        { titleKey: "dating" },
         { titleKey: "contactMatchmaker", descKey: "contactDesc" },
       ]}
       relatedLinks={[

@@ -9,17 +9,17 @@ export default function KosherFoodPage() {
       titleKey="title"
       subtitleKey="subtitle"
       sections={[
-        { titleKey: "whatIsKosher", descKey: "whatIsKosherDesc" },
-        { titleKey: "identifyingKosher", descKey: "identifyingKosherDesc" },
-        { titleKey: "kosherSymbols", descKey: "kosherSymbolsDesc", imagePlaceholder: true },
-        { titleKey: "meatAndMilk", descKey: "meatAndMilkDesc" },
-        { titleKey: "kosherKitchen", descKey: "kosherKitchenDesc" },
-        { titleKey: "bugChecking", descKey: "bugCheckingDesc" },
-        { titleKey: "passoverCooking", descKey: "passoverCookingDesc" },
-        { titleKey: "wineRules", descKey: "wineRulesDesc" },
-        { titleKey: "milkRules", descKey: "milkRulesDesc" },
-        { titleKey: "breadRules", descKey: "breadRulesDesc" },
-        { titleKey: "eatingOut", descKey: "eatingOutDesc" },
+        { titleKey: "whatIsKosher" },
+        { titleKey: "identifyingKosher" },
+        { titleKey: "kosherSymbols", imagePlaceholder: true },
+        { titleKey: "meatAndMilk" },
+        { titleKey: "kosherKitchen" },
+        { titleKey: "bugChecking" },
+        { titleKey: "passoverCooking" },
+        { titleKey: "wineRules" },
+        { titleKey: "milkRules" },
+        { titleKey: "breadRules" },
+        { titleKey: "eatingOut" },
       ]}
     />
   );

@@ -9,13 +9,13 @@ export default function PhilosophyPage() {
       titleKey="title"
       subtitleKey="subtitle"
       sections={[
-        { titleKey: "godExistence", descKey: "godExistenceDesc" },
-        { titleKey: "connectingToGod", descKey: "connectingToGodDesc" },
-        { titleKey: "purposeOfLife", descKey: "purposeOfLifeDesc" },
-        { titleKey: "whyNotChristianity", descKey: "whyNotChristianityDesc" },
-        { titleKey: "whyNotIslam", descKey: "whyNotIslamDesc" },
-        { titleKey: "torahTruth", descKey: "torahTruthDesc" },
-        { titleKey: "freeWill", descKey: "freeWillDesc" },
+        { titleKey: "godExistence" },
+        { titleKey: "connectingToGod" },
+        { titleKey: "purposeOfLife" },
+        { titleKey: "whyNotChristianity" },
+        { titleKey: "whyNotIslam" },
+        { titleKey: "torahTruth" },
+        { titleKey: "freeWill" },
       ]}
       relatedLinks={[
         { href: "/thirteen-principles", labelKey: "13 Principles", labelNs: "nav" },

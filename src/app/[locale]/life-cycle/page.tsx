@@ -9,16 +9,16 @@ export default function LifeCyclePage() {
       titleKey="title"
       subtitleKey="subtitle"
       sections={[
-        { titleKey: "birth", descKey: "birthDesc" },
-        { titleKey: "brisMilah", descKey: "brisMilahDesc" },
-        { titleKey: "barBatMitzvah", descKey: "barBatMitzvahDesc" },
-        { titleKey: "wedding", descKey: "weddingDesc" },
-        { titleKey: "chuppah", descKey: "chuppahDesc" },
-        { titleKey: "shevaBrachot", descKey: "shevaBrachotDesc" },
-        { titleKey: "funeral", descKey: "funeralDesc" },
-        { titleKey: "shiva", descKey: "shivaDesc" },
-        { titleKey: "mourningPeriods", descKey: "mourningPeriodsDesc" },
-        { titleKey: "yahrzeit", descKey: "yahrzeitDesc" },
+        { titleKey: "birth" },
+        { titleKey: "brisMilah" },
+        { titleKey: "barBatMitzvah" },
+        { titleKey: "wedding" },
+        { titleKey: "chuppah" },
+        { titleKey: "shevaBrachot" },
+        { titleKey: "funeral" },
+        { titleKey: "shiva" },
+        { titleKey: "mourningPeriods" },
+        { titleKey: "yahrzeit" },
       ]}
       relatedLinks={[
         { href: "/family-purity", labelKey: "Family Purity", labelNs: "nav" },

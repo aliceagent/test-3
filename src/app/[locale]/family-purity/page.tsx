@@ -9,12 +9,12 @@ export default function FamilyPurityPage() {
       titleKey="title"
       subtitleKey="subtitle"
       sections={[
-        { titleKey: "overview", descKey: "overviewDesc" },
-        { titleKey: "whatIsMikvah", descKey: "whatIsMikvahDesc" },
-        { titleKey: "womenMikvah", descKey: "womenMikvahDesc" },
-        { titleKey: "dishesMikvah", descKey: "dishesMikvahDesc" },
-        { titleKey: "buildingMikvah", descKey: "buildingMikvahDesc" },
-        { titleKey: "findMikvah", descKey: "findMikvahDesc" },
+        { titleKey: "overview" },
+        { titleKey: "whatIsMikvah" },
+        { titleKey: "womenMikvah" },
+        { titleKey: "dishesMikvah" },
+        { titleKey: "buildingMikvah" },
+        { titleKey: "findMikvah" },
       ]}
       relatedLinks={[
         { href: "/life-cycle", labelKey: "Life Cycle", labelNs: "nav" },

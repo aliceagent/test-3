@@ -9,11 +9,11 @@ export default function JewsInAsiaPage() {
       titleKey="title"
       subtitleKey="subtitle"
       sections={[
-        { titleKey: "kaifeng", descKey: "kaifengDesc" },
-        { titleKey: "shanghai", descKey: "shanghaiDesc" },
-        { titleKey: "japan", descKey: "japanDesc" },
-        { titleKey: "india", descKey: "indiaDesc" },
-        { titleKey: "modernAsia", descKey: "modernAsiaDesc" },
+        { titleKey: "kaifeng" },
+        { titleKey: "shanghai" },
+        { titleKey: "japan" },
+        { titleKey: "india" },
+        { titleKey: "modernAsia" },
       ]}
       relatedLinks={[
         { href: "/ashkenazi-sephardi", labelKey: "Ashkenazi & Sephardi", labelNs: "nav" },

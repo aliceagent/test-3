@@ -83,7 +83,7 @@ export default function HomePage() {
             <Link
               href="/community"
               className="inline-block rounded-full border-2 border-white px-8 py-4 text-base font-semibold text-white transition-all duration-200 hover:bg-white"
-              style={{ hover: { color: "var(--color-primary)" } } as React.CSSProperties}
+              style={{ color: "#ffffff" }}
             >
               {tHome("joinCommunity")}
             </Link>
@@ -106,14 +106,8 @@ export default function HomePage() {
             className="mb-4 text-center text-3xl font-bold md:text-4xl"
             style={{ color: "var(--color-text)" }}
           >
-            {tHome("exploreTopics")}
+            {tHome("featuredSections")}
           </h2>
-          <p
-            className="mb-12 text-center text-base md:text-lg"
-            style={{ color: "var(--color-text-light)" }}
-          >
-            {tHome("exploreTopicsSub")}
-          </p>
           <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
             {featuredSections.map((section) => (
               <Link
@@ -177,7 +171,7 @@ export default function HomePage() {
               className="inline-block rounded-full px-8 py-3 text-base font-semibold text-white transition-all duration-200 hover:opacity-90 hover:shadow-lg"
               style={{ backgroundColor: "#25D366" }}
             >
-              {tHome("whatsappCTA")}
+              {tHome("joinCommunity")}
             </a>
           </div>
         </div>
@@ -192,12 +186,6 @@ export default function HomePage() {
           >
             {tHome("videoHighlights")}
           </h2>
-          <p
-            className="mb-12 text-center text-base md:text-lg"
-            style={{ color: "var(--color-text-light)" }}
-          >
-            {tHome("videoHighlightsSub")}
-          </p>
           <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
             {[1, 2, 3].map((i) => (
               <div

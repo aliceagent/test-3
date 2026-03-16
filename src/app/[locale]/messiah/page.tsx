@@ -9,11 +9,11 @@ export default function MessiahPage() {
       titleKey="title"
       subtitleKey="subtitle"
       sections={[
-        { titleKey: "whoIsMashiach", descKey: "whoIsMashiachDesc" },
-        { titleKey: "requirements", descKey: "requirementsDesc" },
-        { titleKey: "whatWillHappen", descKey: "whatWillHappenDesc" },
-        { titleKey: "rebuildingTemple", descKey: "rebuildingTempleDesc" },
-        { titleKey: "falseMessiahs", descKey: "falseMessiahsDesc" },
+        { titleKey: "whoIsMashiach" },
+        { titleKey: "requirements" },
+        { titleKey: "whatWillHappen" },
+        { titleKey: "rebuildingTemple" },
+        { titleKey: "falseMessiahs" },
       ]}
       relatedLinks={[
         { href: "/jewish-history", labelKey: "Jewish History", labelNs: "nav" },

@@ -59,7 +59,6 @@ const samplePosts: ForumPost[] = [
 
 export default function CommunityPage() {
   const t = useTranslations("community");
-  const tCommon = useTranslations("common");
   const [posts, setPosts] = useState<ForumPost[]>(getStoredPosts);
   const [showForm, setShowForm] = useState(false);
   const [newTitle, setNewTitle] = useState("");

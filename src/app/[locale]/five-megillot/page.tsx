@@ -9,11 +9,11 @@ export default function FiveMegillotPage() {
       titleKey="title"
       subtitleKey="subtitle"
       sections={[
-        { titleKey: "songOfSongs", descKey: "songOfSongsDesc" },
-        { titleKey: "ruth", descKey: "ruthDesc" },
-        { titleKey: "lamentations", descKey: "lamentationsDesc" },
-        { titleKey: "ecclesiastes", descKey: "ecclesiastesDesc" },
-        { titleKey: "esther", descKey: "estherDesc" },
+        { titleKey: "songOfSongs" },
+        { titleKey: "ruth" },
+        { titleKey: "lamentations" },
+        { titleKey: "ecclesiastes" },
+        { titleKey: "esther" },
       ]}
       relatedLinks={[
         { href: "/torah-study", labelKey: "Torah Study", labelNs: "nav" },

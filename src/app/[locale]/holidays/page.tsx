@@ -9,18 +9,18 @@ export default function HolidaysPage() {
       titleKey="title"
       subtitleKey="subtitle"
       sections={[
-        { titleKey: "roshHashana", descKey: "roshHashanaDesc" },
-        { titleKey: "yomKippur", descKey: "yomKippurDesc" },
-        { titleKey: "sukkot", descKey: "sukkotDesc" },
-        { titleKey: "simchatTorah", descKey: "simchatTorahDesc" },
-        { titleKey: "chanukah", descKey: "chanukahDesc" },
-        { titleKey: "purim", descKey: "purimDesc" },
-        { titleKey: "pesach", descKey: "pesachDesc" },
-        { titleKey: "shavuot", descKey: "shavuotDesc" },
-        { titleKey: "tishaBav", descKey: "tishaBavDesc" },
-        { titleKey: "tuBishvat", descKey: "tuBishvatDesc" },
-        { titleKey: "lagBaomer", descKey: "lagBaomerDesc" },
-        { titleKey: "fastDays", descKey: "fastDaysDesc" },
+        { titleKey: "roshHashana" },
+        { titleKey: "yomKippur" },
+        { titleKey: "sukkot" },
+        { titleKey: "simchatTorah" },
+        { titleKey: "chanukah" },
+        { titleKey: "purim" },
+        { titleKey: "pesach" },
+        { titleKey: "shavuot" },
+        { titleKey: "tishaBav" },
+        { titleKey: "tuBishvat" },
+        { titleKey: "lagBaomer" },
+        { titleKey: "fastDays" },
       ]}
     />
   );

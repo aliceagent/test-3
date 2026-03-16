@@ -9,12 +9,12 @@ export default function HebrewLearningPage() {
       titleKey="title"
       subtitleKey="subtitle"
       sections={[
-        { titleKey: "alphabet", descKey: "alphabetDesc" },
-        { titleKey: "basicWords", descKey: "basicWordsDesc" },
-        { titleKey: "prayerHebrew", descKey: "prayerHebrewDesc" },
-        { titleKey: "torahReading", descKey: "torahReadingDesc" },
-        { titleKey: "audioLessons", descKey: "audioLessonsDesc", audioPlaceholder: true },
-        { titleKey: "resources", descKey: "resourcesDesc" },
+        { titleKey: "alphabet" },
+        { titleKey: "basicWords" },
+        { titleKey: "prayerHebrew" },
+        { titleKey: "torahReading" },
+        { titleKey: "audioLessons", audioPlaceholder: true },
+        { titleKey: "resources" },
       ]}
       relatedLinks={[
         { href: "/prayer", labelKey: "Prayer", labelNs: "nav" },

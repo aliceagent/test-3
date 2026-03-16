@@ -1,7 +1,7 @@
 "use client";
 
 import { useTranslations } from "next-intl";
-import { useState, useEffect } from "react";
+import { useState } from "react";
 
 interface Article {
   id: string;
@@ -59,17 +59,11 @@ export default function AdminPage() {
   const t = useTranslations("admin");
   const [authenticated, setAuthenticated] = useState(false);
   const [password, setPassword] = useState("");
-  const [articles, setArticles] = useState<Article[]>([]);
+  const [articles, setArticles] = useState<Article[]>(() => getArticles());
   const [editing, setEditing] = useState<Article | null>(null);
   const [filterSection, setFilterSection] = useState("all");
   const [showSaved, setShowSaved] = useState(false);
   const [activeTab, setActiveTab] = useState<"en" | "zh" | "he">("en");
-
-  useEffect(() => {
-    if (authenticated) {
-      setArticles(getArticles());
-    }
-  }, [authenticated]);
 
   function handleLogin(e: React.FormEvent) {
     e.preventDefault();
@@ -406,7 +400,7 @@ export default function AdminPage() {
             first piece of content.
           </p>
           <p className="text-[var(--color-text-light)] text-sm">
-            还没有文章。点击"添加新文章"创建您的第一篇内容。
+            还没有文章。点击&ldquo;添加新文章&rdquo;创建您的第一篇内容。
           </p>
         </div>
       ) : (

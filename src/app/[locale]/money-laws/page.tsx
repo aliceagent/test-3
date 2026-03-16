@@ -9,12 +9,12 @@ export default function MoneyLawsPage() {
       titleKey="title"
       subtitleKey="subtitle"
       sections={[
-        { titleKey: "overview", descKey: "overviewDesc" },
-        { titleKey: "honesty", descKey: "honestyDesc" },
-        { titleKey: "charity", descKey: "charityDesc" },
-        { titleKey: "lending", descKey: "lendingDesc" },
-        { titleKey: "employees", descKey: "employeesDesc" },
-        { titleKey: "maaser", descKey: "maaserDesc" },
+        { titleKey: "overview" },
+        { titleKey: "honesty" },
+        { titleKey: "charity" },
+        { titleKey: "lending" },
+        { titleKey: "employees" },
+        { titleKey: "maaser" },
       ]}
       relatedLinks={[
         { href: "/ten-commandments", labelKey: "Ten Commandments", labelNs: "nav" },

@@ -9,10 +9,10 @@ export default function AshkenaziSephardiPage() {
       titleKey="title"
       subtitleKey="subtitle"
       sections={[
-        { titleKey: "overview", descKey: "overviewDesc" },
-        { titleKey: "differences", descKey: "differencesDesc" },
-        { titleKey: "similarities", descKey: "similaritiesDesc" },
-        { titleKey: "history", descKey: "historyDesc" },
+        { titleKey: "overview" },
+        { titleKey: "differences" },
+        { titleKey: "similarities" },
+        { titleKey: "history" },
       ]}
       relatedLinks={[
         { href: "/jewish-history", labelKey: "Jewish History", labelNs: "nav" },

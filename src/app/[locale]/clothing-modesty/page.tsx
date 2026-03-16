@@ -9,16 +9,16 @@ export default function ClothingModestyPage() {
       titleKey="title"
       subtitleKey="subtitle"
       sections={[
-        { titleKey: "overview", descKey: "overviewDesc" },
-        { titleKey: "mensClothing", descKey: "mensClothingDesc" },
-        { titleKey: "womensClothing", descKey: "womensClothingDesc" },
-        { titleKey: "hairCovering", descKey: "hairCoveringDesc" },
-        { titleKey: "hairCoveringStyles", descKey: "hairCoveringStylesDesc", imagePlaceholder: true },
-        { titleKey: "tichels", descKey: "tichelsDesc", videoPlaceholder: true },
-        { titleKey: "wigs", descKey: "wigsDesc", imagePlaceholder: true },
-        { titleKey: "interactionRules", descKey: "interactionRulesDesc" },
-        { titleKey: "yichud", descKey: "yichudDesc" },
-        { titleKey: "negiah", descKey: "neigiahDesc" },
+        { titleKey: "overview" },
+        { titleKey: "mensClothing" },
+        { titleKey: "womensClothing" },
+        { titleKey: "hairCovering" },
+        { titleKey: "hairCoveringStyles", imagePlaceholder: true },
+        { titleKey: "tichels", videoPlaceholder: true },
+        { titleKey: "wigs", imagePlaceholder: true },
+        { titleKey: "interactionRules" },
+        { titleKey: "yichud" },
+        { titleKey: "negiah" },
       ]}
     />
   );

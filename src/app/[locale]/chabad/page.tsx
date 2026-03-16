@@ -9,12 +9,12 @@ export default function ChabadPage() {
       titleKey="title"
       subtitleKey="subtitle"
       sections={[
-        { titleKey: "whatIsChabad", descKey: "whatIsChabadDesc" },
-        { titleKey: "history", descKey: "historyDesc" },
-        { titleKey: "rebbes", descKey: "rebbесDesc" },
-        { titleKey: "philosophy_section", descKey: "philosophy_sectionDesc" },
-        { titleKey: "globalInfluence", descKey: "globalInfluenceDesc" },
-        { titleKey: "findCenter", descKey: "findCenterDesc" },
+        { titleKey: "whatIsChabad" },
+        { titleKey: "history" },
+        { titleKey: "rebbes" },
+        { titleKey: "philosophy_section" },
+        { titleKey: "globalInfluence" },
+        { titleKey: "findCenter" },
       ]}
       relatedLinks={[
         { href: "/jewish-texts", labelKey: "Jewish Texts", labelNs: "nav" },
