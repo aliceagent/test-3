@@ -20,6 +20,7 @@ const navSections = [
     items: [
       { key: "shabbat", href: "/shabbat" },
       { key: "holidays", href: "/holidays" },
+      { key: "passoverSeder", href: "/passover-seder" },
       { key: "prayer", href: "/prayer" },
       { key: "kosherFood", href: "/kosher-food" },
       { key: "clothingModesty", href: "/clothing-modesty" },

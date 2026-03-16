@@ -32,7 +32,8 @@
     "nonJewishRelations": "Relations with Non-Jews",
     "community": "Community Forum",
     "mentorship": "Mentorship",
-    "admin": "Admin Panel"
+    "admin": "Admin Panel",
+    "passoverSeder": "Passover Seder"
   },
   "navCategories": {
     "foundations": "Foundations",
@@ -395,6 +396,32 @@
     "mentorDesc": "Share your knowledge and guide someone on their journey to Torah living",
     "menteeDesc": "Get paired with an experienced mentor who can answer your questions and guide you",
     "whatsappConnect": "Mentors and mentees communicate through WhatsApp for convenient, personal connection"
+  },
+  "passoverSeder": {
+    "title": "How to Run a Passover Seder",
+    "subtitle": "A step-by-step guide to leading the Seder night",
+    "whatIsSeder": "What is the Passover Seder?",
+    "sederPlate": "The Seder Plate (Ka'arah)",
+    "fourCups": "The Four Cups of Wine",
+    "fifteenSteps": "The 15 Steps of the Seder",
+    "kadesh": "1. Kadesh - Sanctification (Kiddush)",
+    "urchatz": "2. Urchatz - Washing Hands",
+    "karpas": "3. Karpas - Vegetable Dipped in Salt Water",
+    "yachatz": "4. Yachatz - Breaking the Middle Matzah",
+    "maggid": "5. Maggid - Telling the Story of the Exodus",
+    "fourQuestions": "The Four Questions (Mah Nishtanah)",
+    "fourSons": "The Four Sons",
+    "rachtzah": "6. Rachtzah - Washing Hands Before Matzah",
+    "motzimatzah": "7-8. Motzi Matzah - Blessing and Eating Matzah",
+    "maror": "9. Maror - Bitter Herbs",
+    "korech": "10. Korech - Hillel Sandwich",
+    "shulchanOrech": "11. Shulchan Orech - The Festive Meal",
+    "tzafun": "12. Tzafun - Eating the Afikoman",
+    "barech": "13. Barech - Grace After Meals",
+    "hallel": "14. Hallel - Songs of Praise",
+    "nirtzah": "15. Nirtzah - Conclusion and 'Next Year in Jerusalem'",
+    "preparationChecklist": "Seder Preparation Checklist",
+    "sederWithChildren": "Making the Seder Fun for Children"
   },
   "admin": {
     "title": "Content Administration",

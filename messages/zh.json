@@ -32,7 +32,8 @@
     "nonJewishRelations": "与非犹太人的关系",
     "community": "社区论坛",
     "mentorship": "导师制度",
-    "admin": "管理面板"
+    "admin": "管理面板",
+    "passoverSeder": "逾越节家宴"
   },
   "navCategories": {
     "foundations": "基础",
@@ -395,6 +396,32 @@
     "mentorDesc": "分享您的知识，指导他人走上Torah生活之路",
     "menteeDesc": "与一位经验丰富的导师配对，他可以回答您的问题并指导您",
     "whatsappConnect": "导师和学员通过WhatsApp进行方便的个人联系"
+  },
+  "passoverSeder": {
+    "title": "如何举办逾越节家宴",
+    "subtitle": "主持逾越节家宴的分步指南",
+    "whatIsSeder": "什么是逾越节家宴（Seder）？",
+    "sederPlate": "家宴盘 (Ka'arah)",
+    "fourCups": "四杯葡萄酒",
+    "fifteenSteps": "家宴的15个步骤",
+    "kadesh": "一、Kadesh - 圣化（Kiddush祈祷）",
+    "urchatz": "二、Urchatz - 洗手",
+    "karpas": "三、Karpas - 蔬菜蘸盐水",
+    "yachatz": "四、Yachatz - 掰开中间的无酵饼",
+    "maggid": "五、Maggid - 讲述出埃及的故事",
+    "fourQuestions": "四个问题 (Mah Nishtanah)",
+    "fourSons": "四个儿子",
+    "rachtzah": "六、Rachtzah - 吃无酵饼前洗手",
+    "motzimatzah": "七-八、Motzi Matzah - 祝福并食用无酵饼",
+    "maror": "九、Maror - 苦菜",
+    "korech": "十、Korech - 希勒尔三明治",
+    "shulchanOrech": "十一、Shulchan Orech - 节日盛宴",
+    "tzafun": "十二、Tzafun - 食用Afikoman",
+    "barech": "十三、Barech - 饭后感恩祷告",
+    "hallel": "十四、Hallel - 赞美诗歌",
+    "nirtzah": "十五、Nirtzah - 结束语与「明年在耶路撒冷」",
+    "preparationChecklist": "家宴准备清单",
+    "sederWithChildren": "让家宴对孩子们更有趣"
   },
   "admin": {
     "title": "内容管理",
