@@ -100,13 +100,28 @@
 
 ## ביבליוגרפיה
 
-- **מקור ראשוני**: *בראשית* א:א-ב:ג, מהתנ"ך העברי
-- **Aish HaTorah**: "מטרת הבריאה" מאת הרב נתן וייס, https://www.aish.com/the-purpose-of-creation/ — חוקר את המושג של עולם ניתן לשכלול ובחירה חופשית אנושית
-- **Chabad.org**: "בא אל ההוויה - הקב״ה נסתכל בתורה וברא את העולם", https://www.chabad.org/kabbalah/article_cdo/aid/379297/jewish/Coming-Into-Being.htm — מסביר את התורה כתכנית לבריאה
-- **Chabad.org**: "לימודי תורה: בראשית", https://www.chabad.org/therebbe/article_cdo/aid/110297/jewish/Torah-Studies-Bereishit.htm — לימודי הרבי מליובאוויטש על מטרת הבריאה
-- **Sefaria.org**: בראשית פרק א עם פירושים קלאסיים (רש"י, רמב"ן, אבן עזרא), https://www.sefaria.org/Genesis.1
-- **פירוש קלאסי**: רש"י על בראשית א:א — מסביר את המילה *בראשית* ואת מטרת הבריאה
-- **מדרש רבה**: בראשית רבה א:א — "נסתכל הקב"ה בתורה וברא את העולם"
+1. **בראשית א:א-ב:ג** — Sefaria.org (טקסט ראשוני עם פירושים)  
+   https://www.sefaria.org/Genesis.1
+
+2. **"מטרת הבריאה" (The Purpose of Creation)** מאת הרב נתן וייס — Aish.com  
+   https://www.aish.com/the-purpose-of-creation/  
+   *(חוקר את המושג של עולם ניתן לשכלול ובחירה חופשית אנושית)*
+
+3. **"בא אל ההוויה" (Coming Into Being)** — Chabad.org קבלה  
+   https://www.chabad.org/kabbalah/article_cdo/aid/379297/jewish/Coming-Into-Being.htm  
+   *(הקב״ה נסתכל בתורה וברא את העולם)*
+
+4. **"לימודי תורה: בראשית" (Torah Studies: Bereishit)** — Chabad.org  
+   https://www.chabad.org/therebbe/article_cdo/aid/110297/jewish/Torah-Studies-Bereishit.htm  
+   *(לימודי הרבי מליובאוויטש על מטרת הבריאה)*
+
+5. **רש"י על בראשית א:א** — Sefaria.org  
+   https://www.sefaria.org/Rashi_on_Genesis.1.1  
+   *(מסביר את המילה בראשית ואת מטרת הבריאה)*
+
+6. **מדרש רבה, בראשית א:א** — Sefaria.org  
+   https://www.sefaria.org/Bereishit_Rabbah.1.1  
+   *("נסתכל הקב"ה בתורה וברא את העולם")*
 
 ---
 

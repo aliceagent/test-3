@@ -127,15 +127,20 @@
 
 ## 参考书目
 
-1. Chabad.org. "如何制作精彩的妥拉之言(How to Craft an Amazing Dvar Torah)。" 访问于2026年3月。https://www.chabad.org/library/article_cdo/aid/3562825/jewish/What-Is-a-Dvar-Torah.htm
+1. **"什么是妥拉之言？"（What Is a Dvar Torah?）** — Chabad.org  
+   https://www.chabad.org/library/article_cdo/aid/3562825/jewish/What-Is-a-Dvar-Torah.htm
 
-2. Chabad.org. "每周妥拉章节(Weekly Torah Portion / Parshah)。" 访问于2026年3月。https://www.chabad.org/parshah/default_cdo/jewish/Parshah.htm
+2. **每周妥拉章节（Weekly Torah Portion）** — Chabad.org  
+   https://www.chabad.org/parshah/default_cdo/jewish/Parshah.htm
 
-3. Aish.com. "安息日:人间天堂(Shabbat: Heaven on Earth)。" 访问于2026年3月。https://www.aish.com/shabbat/
+3. **安息日：人间天堂（Shabbat: Heaven on Earth）** — Aish.com  
+   https://www.aish.com/shabbat/
 
-4. Sefaria.org. "犹太文本的活图书馆(A Living Library of Jewish Texts)。" 访问于2026年3月。https://www.sefaria.org
+4. **Sefaria：犹太文本的活图书馆**  
+   https://www.sefaria.org
 
-5. 《先贤章》(Pirkei Avot / Ethics of the Fathers),第2章,米示拿4。
+5. **《先贤章》第2章第4条（Pirkei Avot 2:4）** — Sefaria.org  
+   https://www.sefaria.org/Pirkei_Avot.2.4
 
 ---
 

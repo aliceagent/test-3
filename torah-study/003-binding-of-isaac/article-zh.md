@@ -4,7 +4,7 @@
 
 你是否曾被要求放弃你深爱的东西?也许是一个梦想、一段关系或一件珍贵的财物?当你必须在你想要的和你认为正确的之间做出选择时,那一刻触及了你是谁的核心。
 
-大约四千年前,亚伯拉罕面临了这样一个考验——但规模之大难以想象。在等待了一生才有了儿子,在接受了神的应许——通过以撒他的遗产将永远延续之后,神要求亚伯拉罕做不可思议的事:在山上的祭坛上献祭那个儿子。
+大约四千年前——相当于中国的商朝时期(商朝,约公元前1600-1046年)——亚伯拉罕面临了这样一个考验,但规模之大难以想象。在等待了一生才有了儿子,在接受了神的应许——通过以撒他的遗产将永远延续之后,神要求亚伯拉罕做不可思议的事:在山上的祭坛上献祭那个儿子。
 
 这个故事,在希伯来语中被称为*Akeidat Yitzchak*(以撒的捆绑),是犹太历史上最深刻的时刻之一。它讲的不是盲目服从,而是即使在我们无法理解神的方式时对神的完全信任。
 
@@ -85,15 +85,24 @@
 
 ## 参考书目
 
-1. "The Binding of Isaac"(以撒的捆绑),Aish.com。可从以下网址获得:https://aish.com/chumash-themes-6-the-binding-of-isaac/(基于拉比E.E. Dessler的*Michtav M'Eliyahu*和传统的米德拉什来源)
+1. **"The Binding of Isaac"（以撒的捆绑）** — Aish.com  
+   https://aish.com/chumash-themes-6-the-binding-of-isaac/  
+   *（基于拉比E.E. Dessler的Michtav M'Eliyahu和传统米德拉什来源）*
 
-2. "The Binding"(捆绑),Aish.com。可从以下网址获得:https://aish.com/the-binding/(对亚伯拉罕第十次也是最后一次考验的分析)
+2. **"The Binding"（捆绑）** — Aish.com  
+   https://aish.com/the-binding/  
+   *（对亚伯拉罕第十次也是最后一次考验的分析）*
 
-3. "Isaac's Age at the Binding (Akeidah)"(以撒在捆绑时的年龄),Aish.com。可从以下网址获得:https://aish.com/isaacs-age-at-the-binding-akeidah/(讨论以撒的年龄和自愿参与)
+3. **"Isaac's Age at the Binding"（以撒在捆绑时的年龄）** — Aish.com  
+   https://aish.com/isaacs-age-at-the-binding-akeidah/  
+   *（讨论以撒的年龄和自愿参与）*
 
-4. 创世记第22章,希伯来圣经附评注。通过Sefaria.org访问
+4. **创世记第22章** — Sefaria.org（希伯来圣经附评注）  
+   https://www.sefaria.org/Genesis.22
 
-5. 米德拉什拉巴,创世记56(对"捆绑"叙述的古典拉比解释)
+5. **米德拉什拉巴，创世记56** — Sefaria.org  
+   https://www.sefaria.org/Bereishit_Rabbah.56  
+   *（对"捆绑"叙述的古典拉比解释）*
 
 ---
 

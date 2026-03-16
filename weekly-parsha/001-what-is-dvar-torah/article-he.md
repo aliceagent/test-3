@@ -127,15 +127,20 @@
 
 ## ביבליוגרפיה
 
-1. Chabad.org. "כיצד ליצור דבר תורה מדהים (How to Craft an Amazing Dvar Torah)." ניגש במרץ 2026. https://www.chabad.org/library/article_cdo/aid/3562825/jewish/What-Is-a-Dvar-Torah.htm
+1. **"מהו דבר תורה?" (What Is a Dvar Torah?)** — Chabad.org  
+   https://www.chabad.org/library/article_cdo/aid/3562825/jewish/What-Is-a-Dvar-Torah.htm
 
-2. Chabad.org. "פרשת השבוע (Weekly Torah Portion / Parshah)." ניגש במרץ 2026. https://www.chabad.org/parshah/default_cdo/jewish/Parshah.htm
+2. **פרשת השבוע (Weekly Torah Portion)** — Chabad.org  
+   https://www.chabad.org/parshah/default_cdo/jewish/Parshah.htm
 
-3. Aish.com. "שבת: גן עדן עלי אדמות (Shabbat: Heaven on Earth)." ניגש במרץ 2026. https://www.aish.com/shabbat/
+3. **שבת: גן עדן עלי אדמות (Shabbat: Heaven on Earth)** — Aish.com  
+   https://www.aish.com/shabbat/
 
-4. Sefaria.org. "ספרייה חיה של טקסטים יהודיים (A Living Library of Jewish Texts)." ניגש במרץ 2026. https://www.sefaria.org
+4. **Sefaria: ספרייה חיה של טקסטים יהודיים**  
+   https://www.sefaria.org
 
-5. פרקי אבות (Pirkei Avot / Ethics of the Fathers), פרק 2, משנה 4.
+5. **פרקי אבות ב:ד (Pirkei Avot 2:4)** — Sefaria.org  
+   https://www.sefaria.org/Pirkei_Avot.2.4
 
 ---
 

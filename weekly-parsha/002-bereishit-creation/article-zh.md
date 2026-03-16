@@ -100,13 +100,28 @@ Aish HaTorah的诺森·魏斯拉比(Rabbi Noson Weisz)解释得很美:"上帝创
 
 ## 参考书目
 
-- **主要来源**:《贝雷希特》(创世记)1:1-2:3,摘自希伯来圣经
-- **Aish HaTorah**:"创造的目的",诺森·魏斯拉比著,https://www.aish.com/the-purpose-of-creation/ — 探讨可完善世界和人类自由意志的概念
-- **Chabad.org**:"形成存在——上帝审视《托拉》并创造了世界",https://www.chabad.org/kabbalah/article_cdo/aid/379297/jewish/Coming-Into-Being.htm — 解释《托拉》作为创造蓝图
-- **Chabad.org**:"托拉研究:贝雷希特",https://www.chabad.org/therebbe/article_cdo/aid/110297/jewish/Torah-Studies-Bereishit.htm — 卢巴维奇拉比关于创造目的的教导
-- **Sefaria.org**:创世记第1章及经典注释(拉什、拉姆班、伊本·埃兹拉),https://www.sefaria.org/Genesis.1
-- **经典注释**:拉什对创世记1:1的注释——解释*bereishit*这个词和创造的目的
-- **米德拉什·拉巴**:创世记拉巴1:1——"上帝审视《托拉》并创造了世界"
+1. **创世记（Bereishit）1:1-2:3** — Sefaria.org（主要文本及注释）  
+   https://www.sefaria.org/Genesis.1
+
+2. **"创造的目的"（The Purpose of Creation）** 诺森·魏斯拉比著 — Aish.com  
+   https://www.aish.com/the-purpose-of-creation/  
+   *（探讨可完善世界和人类自由意志的概念）*
+
+3. **"形成存在"（Coming Into Being）** — Chabad.org 卡巴拉  
+   https://www.chabad.org/kabbalah/article_cdo/aid/379297/jewish/Coming-Into-Being.htm  
+   *（上帝审视托拉并创造了世界）*
+
+4. **"托拉研究：贝雷希特"（Torah Studies: Bereishit）** — Chabad.org  
+   https://www.chabad.org/therebbe/article_cdo/aid/110297/jewish/Torah-Studies-Bereishit.htm  
+   *（卢巴维奇拉比关于创造目的的教导）*
+
+5. **拉什对创世记1:1的注释** — Sefaria.org  
+   https://www.sefaria.org/Rashi_on_Genesis.1.1  
+   *（解释bereishit这个词和创造的目的）*
+
+6. **米德拉什拉巴，创世记1:1** — Sefaria.org  
+   https://www.sefaria.org/Bereishit_Rabbah.1.1  
+   *（"上帝审视托拉并创造了世界"）*
 
 ---
 
