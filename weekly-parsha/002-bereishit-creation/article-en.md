@@ -1,5 +1,9 @@
 # Bereishit: Why God Created the World — And What It Means for You
 
+> **Header Image Description (DALL-E prompt):** A majestic Chinese brushstroke landscape depicting the moment of creation. Swirling cosmic mists emerging from darkness into light, rendered in traditional ink wash style. The composition shows the separation of heaven and earth — mountains rising from primordial waters, the first light breaking through clouds. Yin-yang elements subtly present in the contrast of light and shadow. Style: Chinese shan shui (山水) painting meets cosmic creation, with deep indigo blues transitioning to warm golden dawn light. Ethereal, awe-inspiring, vast and timeless.
+
+---
+
 ## Introduction
 
 Every great journey begins with a single step. Every magnificent building starts with a foundation stone. But what about the universe itself? Where did everything begin, and more importantly, *why*?

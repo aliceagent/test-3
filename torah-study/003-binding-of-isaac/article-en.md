@@ -1,5 +1,9 @@
 # The Binding of Isaac: Faith, Sacrifice, and the Test of Abraham
 
+> **Header Image Description (DALL-E prompt):** A dramatic Chinese brushstroke landscape depicting Mount Moriah at dawn. A lone figure (Abraham) and a young man (Isaac) ascending a misty mountain path together, carrying wood. The composition emphasizes the journey upward through swirling clouds and ancient pine trees. A ram is subtly visible caught in a thicket near the mountain peak. Style: traditional Chinese shan shui (山水) ink wash painting with dramatic vertical composition. Colors: muted earth tones with hints of crimson dawn sky. Mood: solemn, reverent, depicting ultimate faith and sacrifice. The mountain dominates, symbolizing the test of ascent.
+
+---
+
 ## A Test That Changed Everything
 
 Have you ever been asked to give up something you deeply love? Perhaps a dream, a relationship, or a cherished possession? That moment when you must choose between what you want and what you believe is right cuts to the very core of who you are.

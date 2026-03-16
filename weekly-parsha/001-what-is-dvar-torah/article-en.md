@@ -1,5 +1,9 @@
 # What is a Dvar Torah and How to Prepare One
 
+> **Header Image Description (DALL-E prompt):** A serene Chinese brushstroke style landscape painting depicting a traditional family gathered around a table in a peaceful mountain setting. Soft ink wash technique with muted earth tones. A warm glow emanates from candles on the table. An open scroll or book lies before them. Misty mountains in the background, bamboo and pine trees frame the scene. Style: traditional Chinese shan shui (山水) landscape painting with subtle gold accents suggesting sacred wisdom being shared. Peaceful, contemplative mood.
+
+---
+
 ## Introduction: The Gift of Words at Your Table
 
 Imagine this: It's Friday night. The candles flicker gently, the challah sits waiting under its cover, and everyone around your Shabbat table has just finished singing Shalom Aleichem. The kiddush has been recited, hands have been washed, and the meal is about to begin. Then someone — maybe your father, maybe your older sister, maybe you — shares a brief Torah thought. A question. An insight. A connection between this week's Torah portion and daily life.
