@@ -1,10 +1,11 @@
 "use client";
 
 import { useTranslations } from "next-intl";
-import { useState } from "react";
+import { useState, useEffect } from "react";
+import { supabase } from "@/lib/supabase";
 
 interface Article {
-  id: string;
+  id?: number;
   section: string;
   title_en: string;
   title_zh: string;
@@ -12,8 +13,8 @@ interface Article {
   body_en: string;
   body_zh: string;
   body_he: string;
-  createdAt: string;
-  updatedAt: string;
+  created_at?: string;
+  updated_at?: string;
 }
 
 const SECTIONS = [
@@ -41,29 +42,45 @@ const SECTIONS = [
   "jews-in-asia",
   "tabernacle",
   "non-jewish-relations",
+  "weekly-parsha",
+  "blessings",
+  "mitzvah-objects",
+  "conversion",
+  "pirkei-avot",
+  "israel",
+  "mussar",
+  "jewish-calendar",
 ];
 
 const ADMIN_PASSWORD = "torahlight2026";
-
-function getArticles(): Article[] {
-  if (typeof window === "undefined") return [];
-  const stored = localStorage.getItem("torahlight-articles");
-  return stored ? JSON.parse(stored) : [];
-}
-
-function saveArticles(articles: Article[]) {
-  localStorage.setItem("torahlight-articles", JSON.stringify(articles));
-}
 
 export default function AdminPage() {
   const t = useTranslations("admin");
   const [authenticated, setAuthenticated] = useState(false);
   const [password, setPassword] = useState("");
-  const [articles, setArticles] = useState<Article[]>(() => getArticles());
+  const [articles, setArticles] = useState<Article[]>([]);
   const [editing, setEditing] = useState<Article | null>(null);
   const [filterSection, setFilterSection] = useState("all");
   const [showSaved, setShowSaved] = useState(false);
   const [activeTab, setActiveTab] = useState<"en" | "zh" | "he">("en");
+  const [loading, setLoading] = useState(false);
+  const [refreshKey, setRefreshKey] = useState(0);
+
+  useEffect(() => {
+    if (!authenticated) return;
+    let cancelled = false;
+    const load = async () => {
+      const { data } = await supabase
+        .from("articles")
+        .select("*")
+        .order("created_at", { ascending: false });
+      if (!cancelled) {
+        if (data) setArticles(data);
+      }
+    };
+    load();
+    return () => { cancelled = true; };
+  }, [authenticated, refreshKey]);
 
   function handleLogin(e: React.FormEvent) {
     e.preventDefault();
@@ -76,7 +93,6 @@ export default function AdminPage() {
 
   function createNewArticle() {
     const article: Article = {
-      id: Date.now().toString(),
       section: SECTIONS[0],
       title_en: "",
       title_zh: "",
@@ -84,38 +100,54 @@ export default function AdminPage() {
       body_en: "",
       body_zh: "",
       body_he: "",
-      createdAt: new Date().toISOString(),
-      updatedAt: new Date().toISOString(),
     };
     setEditing(article);
   }
 
-  function saveArticle() {
+  async function saveArticle() {
     if (!editing) return;
-    const updated = { ...editing, updatedAt: new Date().toISOString() };
-    const existing = articles.findIndex((a) => a.id === updated.id);
-    let newArticles: Article[];
-    if (existing >= 0) {
-      newArticles = [...articles];
-      newArticles[existing] = updated;
+
+    if (editing.id) {
+      // Update existing
+      await supabase
+        .from("articles")
+        .update({
+          section: editing.section,
+          title_en: editing.title_en,
+          title_zh: editing.title_zh,
+          title_he: editing.title_he,
+          body_en: editing.body_en,
+          body_zh: editing.body_zh,
+          body_he: editing.body_he,
+          updated_at: new Date().toISOString(),
+        })
+        .eq("id", editing.id);
     } else {
-      newArticles = [updated, ...articles];
+      // Insert new
+      await supabase.from("articles").insert({
+        section: editing.section,
+        title_en: editing.title_en,
+        title_zh: editing.title_zh,
+        title_he: editing.title_he,
+        body_en: editing.body_en,
+        body_zh: editing.body_zh,
+        body_he: editing.body_he,
+      });
     }
-    setArticles(newArticles);
-    saveArticles(newArticles);
+
     setEditing(null);
     setShowSaved(true);
     setTimeout(() => setShowSaved(false), 3000);
+    setRefreshKey((k) => k + 1);
   }
 
-  function deleteArticle(id: string) {
+  async function deleteArticle(id: number) {
     if (!confirm(t("confirmDelete"))) return;
-    const newArticles = articles.filter((a) => a.id !== id);
-    setArticles(newArticles);
-    saveArticles(newArticles);
+    await supabase.from("articles").delete().eq("id", id);
+    setRefreshKey((k) => k + 1);
   }
 
-  function exportArticles() {
+  async function exportArticles() {
     const blob = new Blob([JSON.stringify(articles, null, 2)], {
       type: "application/json",
     });
@@ -127,17 +159,27 @@ export default function AdminPage() {
     URL.revokeObjectURL(url);
   }
 
-  function importArticles(e: React.ChangeEvent<HTMLInputElement>) {
+  async function importArticles(e: React.ChangeEvent<HTMLInputElement>) {
     const file = e.target.files?.[0];
     if (!file) return;
     const reader = new FileReader();
-    reader.onload = (ev) => {
+    reader.onload = async (ev) => {
       try {
         const imported = JSON.parse(ev.target?.result as string);
         if (Array.isArray(imported)) {
-          setArticles(imported);
-          saveArticles(imported);
+          // Insert all imported articles
+          const toInsert = imported.map((a: Article) => ({
+            section: a.section,
+            title_en: a.title_en || "",
+            title_zh: a.title_zh || "",
+            title_he: a.title_he || "",
+            body_en: a.body_en || "",
+            body_zh: a.body_zh || "",
+            body_he: a.body_he || "",
+          }));
+          await supabase.from("articles").insert(toInsert);
           alert(`Imported ${imported.length} articles`);
+          setRefreshKey((k) => k + 1);
         }
       } catch {
         alert("Invalid JSON file");
@@ -177,9 +219,6 @@ export default function AdminPage() {
               {t("login")}
             </button>
           </form>
-          <p className="text-xs text-[var(--color-text-light)] mt-4 text-center">
-            Default password: torahlight2026
-          </p>
         </div>
       </div>
     );
@@ -190,7 +229,7 @@ export default function AdminPage() {
       <div className="max-w-4xl mx-auto px-4 py-8">
         <div className="flex items-center justify-between mb-6">
           <h1 className="text-2xl font-bold text-[var(--color-primary)]">
-            {editing.title_en ? t("editContent") : t("addArticle")}
+            {editing.id ? t("editContent") : t("addArticle")}
           </h1>
           <button
             onClick={() => setEditing(null)}
@@ -393,7 +432,11 @@ export default function AdminPage() {
       </div>
 
       {/* Articles list */}
-      {filteredArticles.length === 0 ? (
+      {loading ? (
+        <div className="bg-[var(--color-bg-alt)] rounded-xl p-12 text-center">
+          <p className="text-[var(--color-text-light)]">Loading articles...</p>
+        </div>
+      ) : filteredArticles.length === 0 ? (
         <div className="bg-[var(--color-bg-alt)] rounded-xl p-12 text-center">
           <p className="text-[var(--color-text-light)] mb-4">
             No articles yet. Click &quot;Add New Article&quot; to create your
@@ -415,9 +458,11 @@ export default function AdminPage() {
                   <span className="px-2 py-0.5 bg-[var(--color-cream)] rounded text-xs text-[var(--color-text-light)]">
                     {article.section}
                   </span>
-                  <span className="text-xs text-[var(--color-text-light)]">
-                    {new Date(article.updatedAt).toLocaleDateString()}
-                  </span>
+                  {article.updated_at && (
+                    <span className="text-xs text-[var(--color-text-light)]">
+                      {new Date(article.updated_at).toLocaleDateString()}
+                    </span>
+                  )}
                 </div>
                 <h3 className="font-medium truncate">
                   {article.title_en || article.title_zh || article.title_he || "(Untitled)"}
@@ -436,7 +481,7 @@ export default function AdminPage() {
                   {t("editContent")}
                 </button>
                 <button
-                  onClick={() => deleteArticle(article.id)}
+                  onClick={() => deleteArticle(article.id!)}
                   className="px-3 py-1.5 bg-red-100 text-red-700 rounded text-xs hover:bg-red-200"
                 >
                   {t("delete")}

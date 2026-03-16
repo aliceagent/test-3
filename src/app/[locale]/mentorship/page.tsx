@@ -2,6 +2,7 @@
 
 import { useTranslations } from "next-intl";
 import { useState } from "react";
+import { supabase } from "@/lib/supabase";
 
 export default function MentorshipPage() {
   const t = useTranslations("mentorship");
@@ -17,9 +18,17 @@ export default function MentorshipPage() {
   });
   const [submitted, setSubmitted] = useState(false);
 
-  function handleSubmit(e: React.FormEvent) {
+  async function handleSubmit(e: React.FormEvent) {
     e.preventDefault();
-    // In production, this would send to a backend or WhatsApp API
+    // Save to Supabase
+    await supabase.from("mentorship_requests").insert({
+      name: formData.name,
+      email: formData.email,
+      role: activeTab === "become" ? "mentor" : "mentee",
+      languages: formData.languages,
+      message: formData.message || formData.experience || formData.interests,
+    });
+    // Also send via WhatsApp
     const whatsappMessage = encodeURIComponent(
       `[Torah Light ${activeTab === "become" ? "Mentor" : "Mentee"} Signup]\n` +
         `Name: ${formData.name}\n` +

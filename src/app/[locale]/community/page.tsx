@@ -1,112 +1,90 @@
 "use client";
 
 import { useTranslations } from "next-intl";
-import { useState } from "react";
+import { useState, useEffect } from "react";
+import { supabase } from "@/lib/supabase";
+
+interface ForumReply {
+  id: number;
+  author_name: string;
+  body: string;
+  created_at: string;
+}
 
 interface ForumPost {
-  id: string;
-  author: string;
+  id: number;
+  author_name: string;
   title: string;
   body: string;
-  timestamp: string;
-  replies: { author: string; body: string; timestamp: string }[];
+  category: string;
+  created_at: string;
+  forum_replies: ForumReply[];
 }
-
-function getStoredPosts(): ForumPost[] {
-  if (typeof window === "undefined") return [];
-  const stored = localStorage.getItem("torahlight-forum-posts");
-  return stored ? JSON.parse(stored) : samplePosts;
-}
-
-const samplePosts: ForumPost[] = [
-  {
-    id: "1",
-    author: "Sarah L.",
-    title: "How do I start keeping Shabbat?",
-    body: "I am new to Judaism and want to begin observing Shabbat. Where should I start? What are the most essential things to do first?",
-    timestamp: "2026-03-14",
-    replies: [
-      {
-        author: "Rabbi Chen",
-        body: "Welcome! Start with lighting candles on Friday evening, and try to have a special meal. Don't try to do everything at once.",
-        timestamp: "2026-03-14",
-      },
-    ],
-  },
-  {
-    id: "2",
-    author: "Wei Zhang",
-    title: "Finding kosher food in China",
-    body: "I live in Chengdu and it's hard to find kosher food. Any tips for maintaining kashrut in areas without Jewish communities?",
-    timestamp: "2026-03-12",
-    replies: [],
-  },
-  {
-    id: "3",
-    author: "David M.",
-    title: "Best way to learn Hebrew?",
-    body: "As a native Mandarin speaker, what approach works best for learning Hebrew? The alphabet seems manageable but grammar is challenging.",
-    timestamp: "2026-03-10",
-    replies: [
-      {
-        author: "Li Wei",
-        body: "I found that learning through prayers was the most motivating approach. Start with the Shema and blessings.",
-        timestamp: "2026-03-11",
-      },
-    ],
-  },
-];
 
 export default function CommunityPage() {
   const t = useTranslations("community");
-  const [posts, setPosts] = useState<ForumPost[]>(getStoredPosts);
+  const [posts, setPosts] = useState<ForumPost[]>([]);
   const [showForm, setShowForm] = useState(false);
   const [newTitle, setNewTitle] = useState("");
   const [newBody, setNewBody] = useState("");
   const [newAuthor, setNewAuthor] = useState("");
-  const [replyingTo, setReplyingTo] = useState<string | null>(null);
+  const [replyingTo, setReplyingTo] = useState<number | null>(null);
   const [replyBody, setReplyBody] = useState("");
   const [replyAuthor, setReplyAuthor] = useState("");
+  const [loadingPosts, setLoadingPosts] = useState(true);
+  const [refreshKey, setRefreshKey] = useState(0);
 
-  function addPost() {
+  useEffect(() => {
+    let cancelled = false;
+    supabase
+      .from("forum_posts")
+      .select("*, forum_replies(*)")
+      .order("created_at", { ascending: false })
+      .then(({ data, error }) => {
+        if (!cancelled) {
+          if (!error && data) setPosts(data);
+          setLoadingPosts(false);
+        }
+      });
+    return () => { cancelled = true; };
+  }, [refreshKey]);
+
+  async function addPost() {
     if (!newTitle.trim() || !newBody.trim() || !newAuthor.trim()) return;
-    const post: ForumPost = {
-      id: Date.now().toString(),
-      author: newAuthor,
+
+    const { error } = await supabase.from("forum_posts").insert({
+      author_name: newAuthor,
       title: newTitle,
       body: newBody,
-      timestamp: new Date().toISOString().split("T")[0],
-      replies: [],
-    };
-    const updated = [post, ...posts];
-    setPosts(updated);
-    localStorage.setItem("torahlight-forum-posts", JSON.stringify(updated));
-    setNewTitle("");
-    setNewBody("");
-    setShowForm(false);
+      category: "general",
+    });
+
+    if (!error) {
+      setNewTitle("");
+      setNewBody("");
+      setShowForm(false);
+      setRefreshKey((k) => k + 1);
+    }
   }
 
-  function addReply(postId: string) {
+  async function addReply(postId: number) {
     if (!replyBody.trim() || !replyAuthor.trim()) return;
-    const updated = posts.map((p) =>
-      p.id === postId
-        ? {
-            ...p,
-            replies: [
-              ...p.replies,
-              {
-                author: replyAuthor,
-                body: replyBody,
-                timestamp: new Date().toISOString().split("T")[0],
-              },
-            ],
-          }
-        : p
-    );
-    setPosts(updated);
-    localStorage.setItem("torahlight-forum-posts", JSON.stringify(updated));
-    setReplyingTo(null);
-    setReplyBody("");
+
+    const { error } = await supabase.from("forum_replies").insert({
+      post_id: postId,
+      author_name: replyAuthor,
+      body: replyBody,
+    });
+
+    if (!error) {
+      setReplyingTo(null);
+      setReplyBody("");
+      setRefreshKey((k) => k + 1);
+    }
+  }
+
+  function formatDate(dateStr: string) {
+    return new Date(dateStr).toLocaleDateString();
   }
 
   return (
@@ -204,81 +182,97 @@ export default function CommunityPage() {
       <h2 className="text-xl font-bold text-[var(--color-primary)] mb-4">
         {t("recentDiscussions")}
       </h2>
-      <div className="space-y-4">
-        {posts.map((post) => (
-          <div
-            key={post.id}
-            className="bg-white border rounded-xl p-6 shadow-sm"
-          >
-            <div className="flex items-start justify-between mb-3">
-              <div>
-                <h3 className="font-semibold text-[var(--color-primary)]">
-                  {post.title}
-                </h3>
-                <p className="text-xs text-[var(--color-text-light)]">
-                  {post.author} · {post.timestamp}
-                </p>
-              </div>
-            </div>
-            <p className="text-sm text-[var(--color-text)] mb-4">{post.body}</p>
 
-            {/* Replies */}
-            {post.replies.length > 0 && (
-              <div className="border-l-2 border-[var(--color-gold)] pl-4 space-y-3 mb-4">
-                {post.replies.map((reply, i) => (
-                  <div key={i} className="bg-[var(--color-cream)] rounded-lg p-3">
-                    <p className="text-xs text-[var(--color-text-light)] mb-1">
-                      {reply.author} · {reply.timestamp}
-                    </p>
-                    <p className="text-sm">{reply.body}</p>
-                  </div>
-                ))}
-              </div>
-            )}
-
-            {/* Reply form */}
-            {replyingTo === post.id ? (
-              <div className="bg-[var(--color-bg-alt)] rounded-lg p-4">
-                <input
-                  type="text"
-                  placeholder="Your name / 您的名字"
-                  value={replyAuthor}
-                  onChange={(e) => setReplyAuthor(e.target.value)}
-                  className="w-full px-3 py-2 border rounded-lg mb-2 text-sm"
-                />
-                <textarea
-                  placeholder="Your reply / 您的回复"
-                  value={replyBody}
-                  onChange={(e) => setReplyBody(e.target.value)}
-                  rows={2}
-                  className="w-full px-3 py-2 border rounded-lg mb-2 text-sm"
-                />
-                <div className="flex gap-2">
-                  <button
-                    onClick={() => addReply(post.id)}
-                    className="px-3 py-1.5 bg-[var(--color-gold)] text-white rounded text-xs font-medium"
-                  >
-                    Reply / 回复
-                  </button>
-                  <button
-                    onClick={() => setReplyingTo(null)}
-                    className="px-3 py-1.5 bg-gray-200 rounded text-xs"
-                  >
-                    Cancel
-                  </button>
+      {loadingPosts ? (
+        <div className="bg-[var(--color-bg-alt)] rounded-xl p-12 text-center">
+          <p className="text-[var(--color-text-light)]">Loading...</p>
+        </div>
+      ) : posts.length === 0 ? (
+        <div className="bg-[var(--color-bg-alt)] rounded-xl p-12 text-center">
+          <p className="text-[var(--color-text-light)]">
+            No posts yet. Be the first to start a discussion!
+          </p>
+          <p className="text-[var(--color-text-light)] text-sm mt-1">
+            还没有帖子。成为第一个发起讨论的人！
+          </p>
+        </div>
+      ) : (
+        <div className="space-y-4">
+          {posts.map((post) => (
+            <div
+              key={post.id}
+              className="bg-white border rounded-xl p-6 shadow-sm"
+            >
+              <div className="flex items-start justify-between mb-3">
+                <div>
+                  <h3 className="font-semibold text-[var(--color-primary)]">
+                    {post.title}
+                  </h3>
+                  <p className="text-xs text-[var(--color-text-light)]">
+                    {post.author_name} · {formatDate(post.created_at)}
+                  </p>
                 </div>
               </div>
-            ) : (
-              <button
-                onClick={() => setReplyingTo(post.id)}
-                className="text-sm text-[var(--color-primary-light)] hover:text-[var(--color-primary)]"
-              >
-                Reply / 回复
-              </button>
-            )}
-          </div>
-        ))}
-      </div>
+              <p className="text-sm text-[var(--color-text)] mb-4">{post.body}</p>
+
+              {/* Replies */}
+              {post.forum_replies && post.forum_replies.length > 0 && (
+                <div className="border-l-2 border-[var(--color-gold)] pl-4 space-y-3 mb-4">
+                  {post.forum_replies.map((reply) => (
+                    <div key={reply.id} className="bg-[var(--color-cream)] rounded-lg p-3">
+                      <p className="text-xs text-[var(--color-text-light)] mb-1">
+                        {reply.author_name} · {formatDate(reply.created_at)}
+                      </p>
+                      <p className="text-sm">{reply.body}</p>
+                    </div>
+                  ))}
+                </div>
+              )}
+
+              {/* Reply form */}
+              {replyingTo === post.id ? (
+                <div className="bg-[var(--color-bg-alt)] rounded-lg p-4">
+                  <input
+                    type="text"
+                    placeholder="Your name / 您的名字"
+                    value={replyAuthor}
+                    onChange={(e) => setReplyAuthor(e.target.value)}
+                    className="w-full px-3 py-2 border rounded-lg mb-2 text-sm"
+                  />
+                  <textarea
+                    placeholder="Your reply / 您的回复"
+                    value={replyBody}
+                    onChange={(e) => setReplyBody(e.target.value)}
+                    rows={2}
+                    className="w-full px-3 py-2 border rounded-lg mb-2 text-sm"
+                  />
+                  <div className="flex gap-2">
+                    <button
+                      onClick={() => addReply(post.id)}
+                      className="px-3 py-1.5 bg-[var(--color-gold)] text-white rounded text-xs font-medium"
+                    >
+                      Reply / 回复
+                    </button>
+                    <button
+                      onClick={() => setReplyingTo(null)}
+                      className="px-3 py-1.5 bg-gray-200 rounded text-xs"
+                    >
+                      Cancel
+                    </button>
+                  </div>
+                </div>
+              ) : (
+                <button
+                  onClick={() => setReplyingTo(post.id)}
+                  className="text-sm text-[var(--color-primary-light)] hover:text-[var(--color-primary)]"
+                >
+                  Reply / 回复
+                </button>
+              )}
+            </div>
+          ))}
+        </div>
+      )}
     </div>
   );
 }

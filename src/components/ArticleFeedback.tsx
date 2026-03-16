@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useEffect, useCallback } from "react";
+import { supabase } from "@/lib/supabase";
 
 const REPORT_EMAIL = "Jonathancaras+chinesetorah@gmail.com";
 
@@ -10,30 +11,14 @@ interface ArticleFeedbackProps {
   pageUrl?: string;
 }
 
-function getVotes(sectionId: string): { up: number; down: number } {
-  if (typeof window === "undefined") return { up: 0, down: 0 };
-  const stored = localStorage.getItem(`tl-votes-${sectionId}`);
-  return stored ? JSON.parse(stored) : { up: 0, down: 0 };
-}
-
-function saveVotes(sectionId: string, votes: { up: number; down: number }) {
-  localStorage.setItem(`tl-votes-${sectionId}`, JSON.stringify(votes));
-}
-
-function getUserVote(sectionId: string): "up" | "down" | null {
-  if (typeof window === "undefined") return null;
-  return localStorage.getItem(`tl-uservote-${sectionId}`) as
-    | "up"
-    | "down"
-    | null;
-}
-
-function saveUserVote(sectionId: string, vote: "up" | "down" | null) {
-  if (vote) {
-    localStorage.setItem(`tl-uservote-${sectionId}`, vote);
-  } else {
-    localStorage.removeItem(`tl-uservote-${sectionId}`);
+function getFingerprint(): string {
+  if (typeof window === "undefined") return "";
+  let fp = localStorage.getItem("tl-fingerprint");
+  if (!fp) {
+    fp = crypto.randomUUID();
+    localStorage.setItem("tl-fingerprint", fp);
   }
+  return fp;
 }
 
 export default function ArticleFeedback({
@@ -43,41 +28,113 @@ export default function ArticleFeedback({
 }: ArticleFeedbackProps) {
   const [votes, setVotes] = useState({ up: 0, down: 0 });
   const [userVote, setUserVote] = useState<"up" | "down" | null>(null);
+  const [loading, setLoading] = useState(false);
 
   useEffect(() => {
-    setVotes(getVotes(sectionId));
-    setUserVote(getUserVote(sectionId));
+    const fp = getFingerprint();
+
+    // Fetch aggregate votes
+    supabase
+      .from("article_votes")
+      .select("thumbs_up, thumbs_down")
+      .eq("section_id", sectionId)
+      .single()
+      .then(({ data }) => {
+        if (data) {
+          setVotes({ up: data.thumbs_up, down: data.thumbs_down });
+        }
+      });
+
+    // Fetch user's vote
+    supabase
+      .from("user_votes")
+      .select("vote")
+      .eq("section_id", sectionId)
+      .eq("user_fingerprint", fp)
+      .single()
+      .then(({ data }) => {
+        if (data) {
+          setUserVote(data.vote as "up" | "down");
+        }
+      });
   }, [sectionId]);
 
   const handleVote = useCallback(
-    (direction: "up" | "down") => {
-      const current = getVotes(sectionId);
-      const currentUserVote = getUserVote(sectionId);
+    async (direction: "up" | "down") => {
+      if (loading) return;
+      setLoading(true);
 
-      const newVotes = { ...current };
+      const fp = getFingerprint();
+      const previousVote = userVote;
 
-      if (currentUserVote === direction) {
-        // Undo vote
-        newVotes[direction] = Math.max(0, newVotes[direction] - 1);
-        saveUserVote(sectionId, null);
-        setUserVote(null);
-      } else {
-        // Remove previous vote if switching
-        if (currentUserVote) {
-          newVotes[currentUserVote] = Math.max(
-            0,
-            newVotes[currentUserVote] - 1
+      try {
+        if (previousVote === direction) {
+          // Undo vote — remove user vote and decrement
+          await supabase
+            .from("user_votes")
+            .delete()
+            .eq("section_id", sectionId)
+            .eq("user_fingerprint", fp);
+
+          const newVotes = {
+            ...votes,
+            [direction === "up" ? "up" : "down"]: Math.max(
+              0,
+              direction === "up" ? votes.up - 1 : votes.down - 1
+            ),
+          };
+
+          await supabase.from("article_votes").upsert({
+            section_id: sectionId,
+            thumbs_up: newVotes.up,
+            thumbs_down: newVotes.down,
+            updated_at: new Date().toISOString(),
+          });
+
+          setVotes(newVotes);
+          setUserVote(null);
+        } else {
+          // New vote or switch vote
+          const newVotes = { ...votes };
+
+          // Remove previous vote count if switching
+          if (previousVote) {
+            if (previousVote === "up") newVotes.up = Math.max(0, newVotes.up - 1);
+            else newVotes.down = Math.max(0, newVotes.down - 1);
+          }
+
+          // Add new vote count
+          if (direction === "up") newVotes.up += 1;
+          else newVotes.down += 1;
+
+          // Upsert user vote
+          await supabase.from("user_votes").upsert(
+            {
+              section_id: sectionId,
+              user_fingerprint: fp,
+              vote: direction,
+            },
+            { onConflict: "section_id,user_fingerprint" }
           );
-        }
-        newVotes[direction] = newVotes[direction] + 1;
-        saveUserVote(sectionId, direction);
-        setUserVote(direction);
-      }
 
-      saveVotes(sectionId, newVotes);
-      setVotes(newVotes);
+          // Upsert aggregate
+          await supabase.from("article_votes").upsert({
+            section_id: sectionId,
+            thumbs_up: newVotes.up,
+            thumbs_down: newVotes.down,
+            updated_at: new Date().toISOString(),
+          });
+
+          setVotes(newVotes);
+          setUserVote(direction);
+        }
+      } catch {
+        // Silently fail — votes are non-critical
+      } finally {
+        setLoading(false);
+      }
     },
-    [sectionId]
+    [sectionId, userVote, votes, loading]
   );
 
   const handleReport = useCallback(() => {
@@ -104,11 +161,12 @@ export default function ArticleFeedback({
       {/* Thumbs Up */}
       <button
         onClick={() => handleVote("up")}
+        disabled={loading}
         className={`inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full text-sm transition-colors ${
           userVote === "up"
             ? "bg-green-100 text-green-700 border border-green-300"
             : "bg-[var(--color-bg-alt)] text-[var(--color-text-light)] hover:bg-green-50 hover:text-green-600 border border-transparent"
-        }`}
+        } ${loading ? "opacity-50 cursor-not-allowed" : ""}`}
         aria-label="Thumbs up"
       >
         <svg
@@ -130,11 +188,12 @@ export default function ArticleFeedback({
       {/* Thumbs Down */}
       <button
         onClick={() => handleVote("down")}
+        disabled={loading}
         className={`inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full text-sm transition-colors ${
           userVote === "down"
             ? "bg-red-100 text-red-700 border border-red-300"
             : "bg-[var(--color-bg-alt)] text-[var(--color-text-light)] hover:bg-red-50 hover:text-red-600 border border-transparent"
-        }`}
+        } ${loading ? "opacity-50 cursor-not-allowed" : ""}`}
         aria-label="Thumbs down"
       >
         <svg
