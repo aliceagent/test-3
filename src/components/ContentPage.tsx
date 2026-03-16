@@ -1,7 +1,8 @@
 "use client";
 
-import { Link } from "@/i18n/navigation";
+import { Link, usePathname } from "@/i18n/navigation";
 import { useTranslations } from "next-intl";
+import ArticleFeedback from "./ArticleFeedback";
 
 interface ContentSection {
   titleKey: string;
@@ -29,6 +30,7 @@ export default function ContentPage({
 }: ContentPageProps) {
   const t = useTranslations(namespace);
   const tCommon = useTranslations("common");
+  const pathname = usePathname();
 
   return (
     <div className="max-w-4xl mx-auto px-4 py-8">
@@ -142,6 +144,12 @@ export default function ContentPage({
                 </div>
               </div>
             )}
+
+            <ArticleFeedback
+              sectionId={`${namespace}-${section.titleKey}`}
+              sectionTitle={t(section.titleKey)}
+              pageUrl={typeof window !== "undefined" ? `${window.location.origin}${pathname}#section-${i}` : undefined}
+            />
           </article>
         ))}
       </div>
