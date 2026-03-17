@@ -1,0 +1,112 @@
+{
+  "id": "020",
+  "number": 20,
+  "category": "shabbat",
+  "subcategory": "havdalah",
+  "title": {
+    "en": "Havdalah: How to End Shabbat Beautifully",
+    "he": "הבדלה: איך לסיים את השבת ביופי",
+    "zh": "Havdalah：如何美丽地结束安息日"
+  },
+  "description": {
+    "en": "Complete guide to Havdalah ceremony with Hebrew text, English and Chinese translations, explanations of symbolism, and practical instructions for this beautiful weekly ritual marking the end of Shabbat.",
+    "he": "מדריך מלא לטקס ההבדלה עם טקסט בעברית, תרגומים באנגלית ובסינית, הסברים על הסמליות, והוראות מעשיות לטקס השבועי היפה הזה המציין את סוף השבת.",
+    "zh": "完整的Havdalah仪式指南，包含希伯来语原文、英文和中文翻译、象征意义解释，以及这个标志安息日结束的美丽周仪式的实用指导。"
+  },
+  "keywords": [
+    "Havdalah",
+    "הבדלה", 
+    "Shabbat ending",
+    "wine blessing",
+    "spices",
+    "braided candle",
+    "distinctions",
+    "sacred and ordinary",
+    "Jewish ceremony",
+    "weekly ritual",
+    "separation",
+    "transition",
+    "blessing texts",
+    "practical guide"
+  ],
+  "difficulty": "beginner",
+  "readingTime": {
+    "en": "25-30 minutes",
+    "he": "25-30 דקות", 
+    "zh": "25-30分钟"
+  },
+  "sections": [
+    "Introduction",
+    "What is Havdalah?",
+    "The Elements of Havdalah: Symbolism and Meaning",
+    "Complete Havdalah Text",
+    "Practical Guide: How to Perform Havdalah",
+    "The Deeper Meaning: Living With Distinctions",
+    "Cultural Connection: Transitions and Tea Ceremonies",
+    "Common Questions",
+    "Practical Application: Making Havdalah Your Own"
+  ],
+  "languages": ["en", "he", "zh"],
+  "files": {
+    "en": "article-en.md",
+    "he": "article-he.md", 
+    "zh": "article-zh.md"
+  },
+  "created": "2026-03-17",
+  "lastModified": "2026-03-17",
+  "author": "Torah Light Team",
+  "tags": [
+    "Shabbat",
+    "Havdalah", 
+    "ShabbatRituals",
+    "Wine",
+    "Spices",
+    "Candle",
+    "Transitions",
+    "Distinction",
+    "ShabbatEnding", 
+    "JewishCeremonies",
+    "Blessings",
+    "神圣与世俗",
+    "区分",
+    "安息日",
+    "仪式", 
+    "犹太传统",
+    "KiddushCup",
+    "Besamim",
+    "MultipleLights",
+    "Unity",
+    "WeeklyRhythm"
+  ],
+  "relatedArticles": [
+    "019-kiddush",
+    "018-shabbat-candles",
+    "021-shabbat-songs"
+  ],
+  "culturalConnections": [
+    "Chinese tea ceremony",
+    "Confucian distinctions (li 礼)",
+    "Daoist transitions (dao 道)",
+    "Song Dynasty aesthetics",
+    "Yi Jing (Book of Changes)"
+  ],
+  "practicalElements": {
+    "supplies": ["wine", "spice box", "braided candle", "kiddush cup"],
+    "duration": "10-15 minutes",
+    "participants": "individual or group",
+    "timing": "Saturday evening after three stars appear",
+    "difficulty": "easy"
+  },
+  "blessings": {
+    "wine": "בורא פרי הגפן",
+    "spices": "בורא מיני בשמים", 
+    "fire": "בורא מאורי האש",
+    "havdalah": "המבדיל בין קדש לחול"
+  },
+  "educational": {
+    "hebrewLearning": "includes Hebrew text with transliteration",
+    "culturalBridge": "connects Jewish and Chinese traditions",
+    "practicalGuide": "step-by-step instructions included",
+    "symbolism": "deep explanation of each element's meaning"
+  }
+}
