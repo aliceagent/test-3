@@ -1,0 +1,54 @@
+{
+  "article_id": "049",
+  "title": "Shavuot: The Night We Stayed Up to Receive the Torah",
+  "title_zh": "七七节:我们彻夜学习以接受托拉的那一夜",
+  "title_he": "שבועות: הלילה שבו נשארנו ערים לקבל את התורה",
+  "section": "Holidays",
+  "folder": "holidays",
+  "description": "Why Jews study Torah all night on Shavuot, the connection to the Book of Ruth, and the custom of eating dairy foods.",
+  "word_count": {
+    "en": 7847,
+    "zh": 6245,
+    "he": 6821
+  },
+  "languages": ["en", "zh", "he"],
+  "status": "draft_complete",
+  "author": "Torah Light Project",
+  "created_date": "2026-03-17",
+  "chinese_dynasty_reference": "Late Shang Dynasty (商朝晚期, ~1300-1260 BCE)",
+  "tags": [
+    "Shavuot",
+    "TorahStudy",
+    "TikkunLeilShavuot",
+    "MountSinai",
+    "TenCommandments",
+    "BookOfRuth",
+    "Conversion",
+    "DairyFoods",
+    "JewishHolidays",
+    "NighttimeLearning",
+    "PhysicalAndSpiritual",
+    "Kabbalah",
+    "CommitmentToTorah",
+    "ChineseDynasties",
+    "商朝",
+    "学习",
+    "修身",
+    "犹太节日"
+  ],
+  "key_themes": [
+    "Preparation and Enthusiasm",
+    "Physical and Spiritual Integration",
+    "Learning for Its Own Sake",
+    "Community Celebration",
+    "Annual Renewal",
+    "Ruth's Story of Conversion"
+  ],
+  "sources_verified": true,
+  "bibliography_urls": [
+    "https://www.chabad.org/library/article_cdo/aid/2156/jewish/What-Is-Tikkun-Leil-Shavuot.htm",
+    "https://www.sefaria.org/sheets/3093",
+    "https://aish.com/up-all-night/",
+    "https://www.sefaria.org/Ruth.1.16-17"
+  ]
+}
