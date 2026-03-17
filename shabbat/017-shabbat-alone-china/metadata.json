@@ -1,0 +1,48 @@
+{
+  "id": 17,
+  "title": "Shabbat Without a Jewish Community: Keeping Shabbat Alone in China",
+  "title_zh": "没有犹太社区的安息日:在中国独自守安息日",
+  "title_he": "שבת ללא קהילה יהודית: שמירת שבת לבד בסין",
+  "section": "Shabbat",
+  "folder": "shabbat",
+  "description": "Practical advice for observing Shabbat when you're the only Jewish person in your city, with tips for creating a meaningful experience.",
+  "word_count": {
+    "en": 4250,
+    "zh": 4180,
+    "he": 4150
+  },
+  "status": "ready_for_upload",
+  "drafted_date": "2026-03-17",
+  "tags": [
+    "Shabbat",
+    "ShabbatAlone",
+    "Isolation",
+    "China",
+    "JewsInAsia",
+    "PersonalObservance",
+    "SpiritualPractice",
+    "ChineseCulture",
+    "DaoistPhilosophy",
+    "Community",
+    "Solitude",
+    "JewishLaw",
+    "Halacha",
+    "KiddushAlone",
+    "Kaifeng",
+    "ChineseLiteratiTradition",
+    "ShabbatInChina"
+  ],
+  "chinese_dynasty_references": [
+    "Shang Dynasty (商朝, ~1600-1046 BCE)",
+    "Song Dynasty (宋朝, 960-1279 CE)"
+  ],
+  "cultural_parallels": [
+    "Daoist wu wei concept",
+    "Chinese literati retreat tradition (文人雅集)",
+    "Tea ceremony as solitary practice",
+    "Scholar's contemplative isolation",
+    "Kaifeng Jewish community historical resilience"
+  ],
+  "bibliography_count": 5,
+  "all_urls_verified": true
+}
