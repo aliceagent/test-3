@@ -139,7 +139,7 @@
 
 ## תגיות
 
-#כשרות #Kashrut #קדושה #אכילה_רוחנית #תורה #ויקרא #מהרל #משמעת_עצמית #העלאה #Kedushah #קדושה #כשרות #修身 #道家 #商朝 #明朝 #元朝 #אוכל_יהודי
+#כשרות #קדושה #אכילה_רוחנית #תורה #ויקרא #מהרל #משמעת_עצמית #העלאה #Kashrut #Holiness #SpiritualEating #Torah #Leviticus #Maharal #SelfDiscipline #Elevation #Kedushah #修身 #道家 #商朝 #明朝 #元朝 #אוכל_כשר
 
 ---
 
