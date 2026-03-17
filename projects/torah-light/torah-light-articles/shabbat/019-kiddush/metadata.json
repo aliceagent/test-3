@@ -1,214 +1,182 @@
 {
-  "article": {
-    "id": "019",
-    "slug": "kiddush-full-text-translation-meaning",
-    "title": {
-      "en": "Kiddush: The Full Text, Translation, and Meaning",
-      "he": "קידוש: הטקסט המלא, התרגום והמשמעות",
-      "zh": "קידוש: הטקסט המלא, התרגום והמשמעות"
+  "article_id": 19,
+  "title": {
+    "en": "Kiddush: The Full Text, Translation, and Meaning",
+    "zh": "קידוש：完整经文、翻译与深意",
+    "he": "קידוש: הטקסט המלא, התרגום והמשמעות"
+  },
+  "section": "Shabbat", 
+  "folder": "shabbat",
+  "description": "Complete guide to Kiddush for Friday night and Shabbat day, with full Hebrew text, English and Chinese translations, transliteration, and deep meaning behind every word.",
+  "author": "Torah Light Editorial Team",
+  "date_written": "2026-03-17",
+  "word_count": {
+    "en": 8500,
+    "zh": 3200,
+    "he": 6800
+  },
+  "target_audience": "Jewish learners and practitioners seeking comprehensive understanding of Kiddush",
+  "difficulty_level": "Intermediate to Advanced",
+  "estimated_reading_time": {
+    "en": "35 minutes",
+    "zh": "20 minutes",
+    "he": "30 minutes"
+  },
+  "languages": ["en", "zh", "he"],
+  "key_topics": [
+    "Kiddush ceremony",
+    "Friday night Kiddush",
+    "Shabbat day Kiddush", 
+    "Wine blessing",
+    "Vayechulu",
+    "Sanctification of time",
+    "Shabbat meaning",
+    "Creation narrative",
+    "Exodus commemoration",
+    "Jewish ritual practice",
+    "Hebrew prayers",
+    "Practical observance"
+  ],
+  "historical_periods_referenced": [
+    {
+      "period": "Creation",
+      "chinese_context": "Biblical foundation for Sabbath observance and divine rest"
     },
-    "category": "shabbat",
-    "subcategory": "ritual",
-    "author": {
-      "name": "Torah Light Editorial Team",
-      "email": "editorial@torahlight.org"
+    {
+      "period": "Mount Sinai Revelation (c. 1300 BCE)", 
+      "chinese_context": "Corresponds to Late Shang Dynasty period (商朝晚期, 1300-1046 BCE)"
     },
-    "date": {
-      "created": "2026-03-17",
-      "updated": "2026-03-17",
-      "published": "2026-03-17"
+    {
+      "period": "Mishnaic Period (200 BCE - 220 CE)",
+      "chinese_context": "Corresponds to Han Dynasty period (汉朝, 206 BCE – 220 CE)"
     },
-    "content": {
-      "languages": ["en", "he", "zh"],
-      "word_count": {
-        "en": 8500,
-        "he": 6800,
-        "zh": 8500
-      },
-      "reading_time": {
-        "en": "25 minutes",
-        "he": "20 minutes",
-        "zh": "25 minutes"
-      }
+    {
+      "period": "Rashi Commentary (1040-1105 CE)",
+      "chinese_context": "Corresponds to Northern Song Dynasty (北宋, 960-1127 CE)" 
     },
-    "tags": [
-      "Kiddush",
-      "Shabbat",
-      "ShabbatMeal",
-      "Wine",
-      "Sanctification",
-      "Blessing",
-      "FridayNight",
-      "SaturdayMorning",
-      "Torah",
-      "Creation",
-      "Exodus",
-      "Jewish Ritual",
-      "Prayer",
-      "ShabbatTable",
-      "ChallahAndWine",
-      "KiddushCup",
-      "圣化",
-      "安息日",
-      "葡萄酒祝福",
-      "犹太仪式"
-    ],
-    "keywords": [
-      "Kiddush blessing",
-      "Shabbat wine blessing",
-      "Friday night Kiddush",
-      "Saturday morning Kiddush",
-      "Jewish sanctification",
-      "Sabbath ritual",
-      "Hebrew prayers",
-      "Wine blessing",
-      "Shabbat table",
-      "Jewish tradition",
-      "Torah commandment",
-      "Creation remembrance",
-      "Exodus memorial",
-      "Holy time",
-      "Kiddush cup",
-      "Jewish learning China"
-    ],
-    "description": {
-      "en": "Complete guide to the Kiddush blessing recited over wine on Shabbat, including full Hebrew text, English translation, pronunciation guide, and detailed explanation of its meaning and significance in Jewish tradition.",
-      "he": "מדריך מלא לברכת הקידוש הנאמרת על יין בשבת, כולל טקסט עברי מלא, תרגום לאנגלית, מדריך הגייה והסבר מפורט של המשמעות והחשיבות שלה במסורת היהודית.",
-      "zh": "安息日葡萄酒祝福完全指南，包括完整希伯来文本、英文翻译、发音指南以及对其在犹太传统中的意义和重要性的详细解释。"
-    },
-    "difficulty": "beginner",
-    "target_audience": [
-      "beginners",
-      "families",
-      "individuals_learning_Judaism",
-      "Chinese_Jewish_community",
-      "interfaith_couples",
-      "students"
-    ],
-    "prerequisites": [],
-    "related_articles": [
-      "018-shabbat-candles",
-      "020-havdalah",
-      "021-challah-blessing",
-      "065-chabad-houses-china"
-    ],
-    "sections": [
-      {
-        "title": "Introduction",
-        "subsections": []
-      },
-      {
-        "title": "What Does 'Kiddush' Mean?",
-        "subsections": []
-      },
-      {
-        "title": "Why Wine?",
-        "subsections": []
-      },
-      {
-        "title": "The Kiddush Cup",
-        "subsections": []
-      },
-      {
-        "title": "Friday Night Kiddush",
-        "subsections": [
-          "Full Hebrew Text",
-          "Transliteration",
-          "English Translation",
-          "Section-by-Section Explanation"
-        ]
-      },
-      {
-        "title": "Shabbat Day Kiddush",
-        "subsections": [
-          "Full Hebrew Text",
-          "Transliteration",
-          "English Translation",
-          "Explanation"
-        ]
-      },
-      {
-        "title": "Practical Observance",
-        "subsections": [
-          "Friday Night",
-          "Shabbat Morning"
-        ]
-      },
-      {
-        "title": "Cultural Connection: Kiddush and Chinese Ritual Wine Culture",
-        "subsections": []
-      },
-      {
-        "title": "Historical Context",
-        "subsections": []
-      },
-      {
-        "title": "Common Questions About Kiddush",
-        "subsections": []
-      },
-      {
-        "title": "Conclusion",
-        "subsections": []
-      },
-      {
-        "title": "Bibliography",
-        "subsections": []
-      }
-    ],
-    "features": {
-      "has_hebrew_text": true,
-      "has_transliteration": true,
-      "has_audio": false,
-      "has_images": false,
-      "has_video": false,
-      "has_interactive_elements": false,
-      "cultural_bridge": "Chinese",
-      "practical_guidance": true,
-      "beginner_friendly": true
-    },
-    "sources": {
-      "primary": [
-        "Torah (Genesis 2:1-3, Exodus 20:8-11, Exodus 31:16-17)",
-        "Mishnah",
-        "Talmud (Pesachim 106a)"
-      ],
-      "secondary": [
-        "Wikipedia: Kiddush",
-        "My Jewish Learning",
-        "Aish.com",
-        "Reform Judaism",
-        "Sefaria.org"
-      ]
-    },
-    "verification": {
-      "fact_checked": true,
-      "hebrew_reviewed": true,
-      "cultural_sensitivity_reviewed": true,
-      "bibliography_verified": true,
-      "url_verification_date": "2026-03-17"
-    },
-    "seo": {
-      "meta_title": "Kiddush: Complete Hebrew Text, Translation & Meaning - Torah Light",
-      "meta_description": "Learn the complete Kiddush blessing for Shabbat with Hebrew text, English translation, pronunciation guide, and cultural context. Perfect for beginners learning Judaism.",
-      "canonical_url": "/shabbat/kiddush-complete-guide",
-      "structured_data": {
-        "type": "Article",
-        "headline": "Kiddush: The Full Text, Translation, and Meaning",
-        "datePublished": "2026-03-17",
-        "dateModified": "2026-03-17",
-        "author": "Torah Light Editorial Team",
-        "publisher": "Torah Light",
-        "mainEntityOfPage": "/shabbat/kiddush-complete-guide",
-        "articleSection": "Shabbat Ritual",
-        "keywords": "Kiddush, Shabbat, Jewish blessing, wine blessing, Hebrew prayers"
-      }
-    },
-    "accessibility": {
-      "screen_reader_friendly": true,
-      "high_contrast_support": true,
-      "transliteration_included": true,
-      "multiple_languages": true,
-      "clear_structure": true
+    {
+      "period": "Tang Dynasty (618-907 CE)",
+      "chinese_context": "Traditional Chinese timekeeping parallels with Jewish day calculation"
     }
+  ],
+  "hebrew_terms_explained": [
+    "Kiddush",
+    "Vayechulu", 
+    "Savri maranan",
+    "Borei pri hagafen",
+    "Zachor et yom ha-Shabbat",
+    "Brit olam", 
+    "Vayinafash",
+    "Kedoshim",
+    "Zikaron l'ma'aseh v'reishit",
+    "Zecher l'yitziat Mitzrayim"
+  ],
+  "chinese_cultural_connections": [
+    "Shang Dynasty oracle bone parallels",
+    "Han Dynasty time calculation systems", 
+    "Song Dynasty landscape painting aesthetics",
+    "Daoist wu wei philosophy",
+    "Confucian yi (righteousness) concepts",
+    "Traditional Chinese wine culture",
+    "Tang Dynasty shichen time divisions",
+    "Zhou Dynasty cosmic order concepts"
+  ],
+  "philosophical_themes": [
+    "Sanctification of time vs space",
+    "Work-rest rhythm in cosmic order", 
+    "Wine as symbol of joy and abundance",
+    "Covenant vs contract relationships",
+    "Freedom and slavery dialectics",
+    "Creation and redemption theology",
+    "Individual and communal practice",
+    "Sacred and profane boundaries"
+  ],
+  "practical_elements": {
+    "required_items": [
+      "Kiddush cup (minimum 3.3 fl oz)",
+      "Wine or grape juice", 
+      "Two covered challahs",
+      "Candles (for Friday night)",
+      "Prayer book or text"
+    ],
+    "timing": {
+      "friday_night": "After evening service, before Friday meal",
+      "saturday_day": "After morning service, before midday meal" 
+    },
+    "procedure_steps": [
+      "Stand holding Kiddush cup in right hand",
+      "Look at candles briefly (Friday night only)",
+      "Recite full Kiddush text",
+      "Drink at least cheek-full of wine",
+      "Distribute wine to others if customary"
+    ],
+    "who_can_perform": "Any Jewish adult over bar/bat mitzvah age"
+  },
+  "theological_concepts": [
+    "God as Creator and Sustainer",
+    "Sabbath as memorial of Creation", 
+    "Sabbath as memorial of Exodus",
+    "Divine election of Israel",
+    "Eternal covenant relationship",
+    "Sanctification through mitzvot",
+    "Joy in religious observance",
+    "Time as vehicle for holiness"
+  ],
+  "accessibility_notes": {
+    "language_options": "Hebrew original with English and Chinese translations",
+    "pronunciation_guide": "Full transliteration provided",
+    "substitutions": "Grape juice acceptable alternative to wine",
+    "solo_practice": "Instructions for individual observance included",
+    "learning_progression": "Suitable for intermediate to advanced learners"
+  },
+  "bibliography": {
+    "count": 5,
+    "all_urls_verified": true,
+    "sources": [
+      {
+        "title": "Friday Night Kiddush: How To",
+        "url": "https://aish.com/friday-night-kiddush-how-to/",
+        "organization": "Aish.com"
+      },
+      {
+        "title": "What Is the Kiddush?", 
+        "url": "https://www.myjewishlearning.com/article/kiddush/",
+        "organization": "My Jewish Learning"
+      },
+      {
+        "title": "Kiddush Topic Page",
+        "url": "https://www.sefaria.org/topics/kiddush", 
+        "organization": "Sefaria"
+      },
+      {
+        "title": "Kiddush (Halacha L'Maaseh)",
+        "url": "https://www.ou.org/torah/halacha/halacha-lmaaseh/kiddush/",
+        "organization": "Orthodox Union"
+      },
+      {
+        "title": "Shabbat General Overview",
+        "url": "https://aish.com/h/sh/",
+        "organization": "Aish.com"
+      }
+    ]
+  },
+  "cultural_adaptations": {
+    "chinese_context": "Extensive references to Chinese historical periods and philosophical parallels",
+    "universal_themes": "Sacred time, divine rest, family gathering, gratitude, and spiritual renewal",
+    "comparative_philosophy": "Daoist wu wei and Confucian concepts integrated with Jewish thought"
+  },
+  "learning_outcomes": [
+    "Understand the complete text and meaning of Kiddush",
+    "Perform Friday night and Sabbath day Kiddush correctly", 
+    "Appreciate the theological depth of Sabbath observance",
+    "Connect Jewish concepts with universal human experiences",
+    "Recognize cultural parallels between Jewish and Chinese traditions"
+  ],
+  "status": "complete",
+  "qa_checklist": {
+    "bibliography_urls_verified": true,
+    "hebrew_translation_complete": true, 
+    "metadata_complete": true,
+    "ready_for_publication": true
   }
 }

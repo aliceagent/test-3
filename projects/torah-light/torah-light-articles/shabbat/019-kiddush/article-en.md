@@ -337,6 +337,28 @@ As the great Hasidic master Rabbi Abraham Joshua Heschel wrote: "The Sabbath is 
 
 ---
 
+## Bibliography
+
+1. **Aish.com - Friday Night Kiddush: How To**  
+   https://aish.com/friday-night-kiddush-how-to/  
+   Practical guide to performing Friday night Kiddush with detailed instructions and customs.
+
+2. **My Jewish Learning - What Is the Kiddush?**  
+   https://www.myjewishlearning.com/article/kiddush/  
+   Comprehensive overview of Kiddush, its meaning, and significance in Jewish ritual.
+
+3. **Sefaria - Kiddush Topic Page**  
+   https://www.sefaria.org/topics/kiddush  
+   Collection of classical Jewish texts about Kiddush from Torah, Talmud, and other authoritative sources.
+
+4. **Orthodox Union - Kiddush (Halacha L'Maaseh)**  
+   https://www.ou.org/torah/halacha/halacha-lmaaseh/kiddush/  
+   Orthodox perspective on the laws and customs of Kiddush observance.
+
+5. **Aish.com - Shabbat General Overview**  
+   https://aish.com/h/sh/  
+   General guide to Shabbat observance including Kiddush in the context of the full Shabbat experience.
+
 ## Tags
 
 #Kiddush #Shabbat #ShabbatMeal #Wine #Sanctification #Blessing #FridayNight #SaturdayMorning #Torah #Creation #Exodus #Jewish Ritual #Prayer #ShabbatTable #ChallahAndWine #KiddushCup #圣化 #安息日 #葡萄酒祝福 #犹太仪式
