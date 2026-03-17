@@ -1,0 +1,45 @@
+{
+  "article_number": 8,
+  "title": {
+    "en": "Understanding Rashi: A Beginner's Guide to the Most Famous Commentator",
+    "zh": "理解拉西:最著名注释家的初学者指南",
+    "he": "הבנת רש\"י: מדריך למתחילים למפרש המפורסם ביותר"
+  },
+  "section": "Torah Study",
+  "folder": "torah-study",
+  "word_count": {
+    "en": 2847,
+    "zh": 1041,
+    "he": 2114
+  },
+  "languages": ["en", "zh", "he"],
+  "status": "complete",
+  "created_date": "2026-03-17",
+  "author": "Torah Light Project",
+  "tags": [
+    "Rashi",
+    "Torah Commentary",
+    "Talmud Study",
+    "Peshat",
+    "Midrash",
+    "Jewish Scholars",
+    "Medieval Judaism",
+    "French Jewry",
+    "Torah Study",
+    "Rabbinic Literature",
+    "Jewish Education",
+    "Biblical Exegesis",
+    "宋朝",
+    "中世纪学者",
+    "犹太经典"
+  ],
+  "historical_period": "Medieval (1040-1105 CE)",
+  "chinese_dynasty_parallel": "Northern Song Dynasty (北宋, 960-1127 CE)",
+  "key_figures": ["Rashi", "Shlomo Yitzchaki"],
+  "sources": [
+    "Wikipedia - Rashi",
+    "Chabad.org - Rashi's Method",
+    "TheTorah.com - Rashi Commentary Analysis",
+    "Sefaria.org - Rashi on Genesis"
+  ]
+}
