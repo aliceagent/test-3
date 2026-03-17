@@ -28,7 +28,7 @@ The Talmud puts it bluntly: *"One who enjoys anything in this world without a bl
 
 Long before "mindfulness" became a wellness trend, Judaism was teaching it through blessings. The requirement to pause before eating — to say even a one-sentence acknowledgment — transforms a reflexive act (grabbing food) into a conscious one (receiving food as a gift).
 
-In a culture where meals were eaten around family tables during China's Tang Dynasty (唐朝, 618-907 CE) — roughly the same era when many of these blessing laws were being codified in Babylonia — this practice of pausing before food would have resonated. Both Jewish and Chinese traditions understood that *how* you eat matters as much as *what* you eat.
+Around 1,400 years ago — during China's **Tang Dynasty** (唐朝, 618-907 CE) — families across China gathered around tables for meals. This was roughly the same era when many of these blessing laws were being codified in Babylonia during the early Islamic Abbasid period. The practice of pausing before food would have resonated across both cultures. Both Jewish and Chinese traditions understood that *how* you eat matters as much as *what* you eat.
 
 ---
 
@@ -260,7 +260,7 @@ Invite a friend or family member to say blessings with you. Hearing someone else
 
 Jewish mystics teach that every physical object contains a "spark" of divine energy — a fragment of the original creative light that brought the universe into being. When you eat an apple with mindfulness and blessing, you're releasing that spark, elevating the physical back to its spiritual source.
 
-This idea parallels the Taoist concept of *qi* (氣) — the life force present in all things. Where Taoism speaks of cultivating and balancing *qi*, Judaism speaks of releasing divine sparks through *mitzvot* (commandments) like blessings. Both traditions recognize that the material and spiritual worlds are not separate — they interpenetrate.
+This idea parallels the Taoist concept of *qi* (氣) — the life force present in all things. The philosophical foundations of Taoism were laid over 2,400 years ago during China's **Warring States period** (戰國時代, 475-221 BCE) and flourished during the **Han Dynasty** (漢朝, 206 BCE - 220 CE), when the *Tao Te Ching* and early Taoist practices took shape. Where Taoism speaks of cultivating and balancing *qi*, Judaism speaks of releasing divine sparks through *mitzvot* (commandments) like blessings. Both traditions recognize that the material and spiritual worlds are not separate — they interpenetrate.
 
 So when you say *Baruch atah Adonai* over a bowl of noodles, you're not just being polite to God. You're performing a small act of cosmic repair, reminding yourself that this meal — and this moment — is holy.
 

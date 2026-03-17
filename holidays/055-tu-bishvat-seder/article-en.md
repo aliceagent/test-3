@@ -22,7 +22,7 @@ In this article, you'll discover the origins of Tu BiShvat, learn how to conduct
 
 ### Historical Origins
 
-Tu BiShvat first appears in the Mishnah (compiled around 200 CE—during what corresponds to China's **Later Han Dynasty 后汉, 25-220 CE**). The Mishnah states: "There are four new years... The first of Shevat is the new year for trees, according to the school of Shammai; but the school of Hillel says: On the fifteenth thereof" (Rosh Hashanah 1:1).
+Tu BiShvat first appears in the Mishnah (compiled around 200 CE — during China's **Eastern Han Dynasty** 东汉/後漢, 25-220 CE). The Mishnah states: "There are four new years... The first of Shevat is the new year for trees, according to the school of Shammai; but the school of Hillel says: On the fifteenth thereof" (Rosh Hashanah 1:1).
 
 Why did the sages need a "new year for trees"? In biblical times, Jewish farmers were commanded to tithe a portion of their fruit harvest to support the Temple and the poor (Leviticus 19:23-25). The tithing laws required knowing which fruits belonged to which agricultural year. The 15th of Shevat became the cut-off date: fruits that budded before this date belonged to the previous year; those budding after belonged to the new year.
 
