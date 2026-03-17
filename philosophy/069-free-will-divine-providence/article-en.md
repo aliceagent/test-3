@@ -36,7 +36,7 @@ Without free will, morality collapses. Commands become meaningless. Reward and p
 
 ### Divine Providence is Absolute
 
-Yet simultaneously, Judaism insists that nothing occurs outside God's will. The Talmud teaches:
+Yet simultaneously, Judaism insists that nothing occurs outside God's will. The Talmud (compiled ~200-500 CE, during China's Three Kingdoms through Northern and Southern Dynasties period 三国至南北朝, 220-589 CE) teaches:
 
 > "A person does not bruise their finger below unless it was decreed from Above." (*Chullin 7b*)
 
