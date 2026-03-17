@@ -1,50 +1,20 @@
 {
   "id": 2,
-  "title": "Bereishit: Why God Created the World — And What It Means for You",
-  "title_zh": "创世记:上帝为何创造世界——以及这对你意味着什么",
-  "title_he": "בראשית: למה ברא ה' את העולם — ומה זה אומר לך",
-  "section": "Weekly Parsha",
-  "description": "An exploration of the opening verses of Genesis and what they teach about creation, human purpose, and our partnership with God in perfecting the world.",
-  "word_count_en": 1594,
-  "word_count_zh": 160,
-  "word_count_he": 1301,
-  "languages": ["en", "zh", "he"],
-  "author": "Alice (Torah Light Writer)",
-  "date_created": "2026-03-17",
-  "status": "complete",
-  "tags": [
-    "Bereishit",
-    "Genesis",
-    "Creation",
-    "Torah Study",
-    "Weekly Parsha",
-    "Purpose of Life",
-    "Free Will",
-    "Tikkun Olam",
-    "Partnership",
-    "God and Humanity",
-    "Rashi",
-    "Midrash Rabbah",
-    "Taoism",
-    "Yin Yang",
-    "Shang Dynasty",
-    "商朝",
-    "Chinese Philosophy",
-    "Jewish Philosophy",
-    "创世记"
-  ],
-  "sources": [
-    "Genesis (Bereishit) 1:1-2:3 - Sefaria.org",
-    "The Purpose of Creation by Rabbi Noson Weisz - Aish.com",
-    "Coming Into Being - Chabad.org Kabbalah",
-    "Torah Studies: Bereishit - Chabad.org",
-    "Rashi on Genesis 1:1 - Sefaria.org",
-    "Midrash Rabbah, Genesis 1:1 - Sefaria.org"
-  ],
-  "historical_period_mapping": {
-    "jewish_period": "Creation / Patriarchal Period",
-    "jewish_dates": "~1800-1500 BCE (traditional chronology)",
-    "chinese_equivalent": "Shang Dynasty (商朝)",
-    "chinese_dates": "~1600-1046 BCE"
+  "title": {
+    "en": "Bereishit: Why God Created the World — And What It Means for You",
+    "zh": "创世记:上帝为何创造世界——以及这对你意味着什么",
+    "he": "בראשית: למה ברא ה' את העולם — ומה זה אומר לך"
+  },
+  "author": "Rabbi with Alice (AI)",
+  "date": "2026-03-17",
+  "tags": {
+    "en": ["Bereishit", "Genesis", "Creation", "Torah Study", "Weekly Parsha", "Purpose of Life", "Free Will", "Tikkun Olam", "Partnership", "God and Humanity", "Rashi", "Midrash Rabbah"],
+    "zh": ["创世记", "Genesis", "创造", "Torah Study", "Weekly Parsha", "生命的目的", "自由意志", "修复世界", "伙伴关系", "神与人类", "拉西", "米德拉什"],
+    "he": ["בראשית", "בריאה", "לימוד תורה", "פרשת השבוע", "מטרת החיים", "בחירה חופשית", "תיקון עולם", "שותפות", "אלוהים והאנושות", "רש״י", "מדרש רבה"]
+  },
+  "summary": {
+    "en": "An exploration of the opening verses of Genesis, examining why God created the world and humanity's unique role as partners in perfecting creation through free will and moral choice.",
+    "zh": "探讨创世记的开篇经文，审视上帝为何创造世界以及人类作为伙伴通过自由意志和道德选择来完善创造的独特作用。",
+    "he": "חקירה של הפסוקים הפותחים של בראשית, בוחנת מדוע ה' ברא את העולם ותפקידה הייחודי של האנושות כשותפה בשכלול הבריאה באמצעות בחירה חופשית ובחירה מוסרית."
   }
 }
