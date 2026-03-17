@@ -1,0 +1,74 @@
+{
+  "articleId": "077",
+  "category": "philosophy",
+  "subcategory": "torah-and-science",
+  "title": {
+    "en": "Torah and Science: Are They Compatible?",
+    "he": "תורה ומדע: האם הם תואמים?",
+    "zh": "《托拉》与科学：它们是否兼容？"
+  },
+  "description": {
+    "en": "An exploration of how Jewish thinkers throughout history have reconciled Torah with scientific knowledge, examining different approaches to apparent conflicts between religion and science.",
+    "he": "חקירה כיצד הוגים יהודיים לאורך ההיסטוריה פיישרו בין תורה למדע, ובחינת גישות שונות לסתירות לכאורה בין דת למדע.",
+    "zh": "探索犹太思想家如何协调《托拉》与科学知识，审视处理宗教与科学之间明显冲突的不同方法。"
+  },
+  "tags": [
+    "torah-and-science",
+    "faith-and-reason",
+    "creation",
+    "evolution",
+    "big-bang",
+    "rambam",
+    "maimonides",
+    "jewish-philosophy",
+    "modern-orthodoxy",
+    "intelligent-design",
+    "natural-law",
+    "科学与托拉",
+    "创造论",
+    "理性与信仰"
+  ],
+  "targetAudience": {
+    "primary": "intermediate",
+    "cultural": ["western", "chinese"],
+    "background": "some familiarity with both Jewish and scientific concepts helpful"
+  },
+  "wordCount": {
+    "en": 6500,
+    "he": 7000,
+    "zh": 6100
+  },
+  "headerImage": {
+    "prompt": "A serene Chinese shan shui landscape in traditional ink wash style, featuring a misty mountain valley with an ancient scholar's study pavilion perched on a cliff. Through the open pavilion windows, two streams of light converge — one golden (representing divine wisdom/Torah) descending from ethereal clouds above, and one silver-blue (representing scientific inquiry) rising from a flowing river below. Where the two lights meet at a stone desk covered with scrolls, they blend into a harmonious glow. Pine trees frame the scene, symbolizing enduring wisdom. The color palette features muted grays, subtle gold accents, and soft blue tones. The mood is contemplative and harmonious, suggesting that different paths to truth can complement rather than contradict each other.",
+    "description": "Two streams of light representing Torah and science converging in harmony"
+  },
+  "difficulty": "intermediate",
+  "estimatedReadTime": {
+    "en": "24-26 minutes",
+    "he": "26-28 minutes",
+    "zh": "22-24 minutes"
+  },
+  "practicalElements": [
+    "historical-approaches",
+    "modern-perspectives",
+    "key-texts",
+    "further-reading"
+  ],
+  "keyLearningObjectives": [
+    "Understand different Jewish approaches to Torah-science questions",
+    "Learn the views of major Jewish thinkers on this topic",
+    "Develop a personal framework for integrating faith and reason",
+    "Appreciate the richness of Jewish philosophical thought"
+  ],
+  "culturalConnections": {
+    "confucian": ["harmony-of-knowledge", "scholarly-inquiry"],
+    "universal": ["science-and-religion", "philosophy-of-science"]
+  },
+  "prerequisites": "Basic familiarity with Jewish concepts and some scientific background helpful",
+  "relatedArticles": ["creation-narrative", "rambam-guide", "jewish-thought-introduction"],
+  "author": "Torah Light Editorial",
+  "dateCreated": "2026-03-17",
+  "lastUpdated": "2026-03-17",
+  "version": "1.0",
+  "status": "published"
+}

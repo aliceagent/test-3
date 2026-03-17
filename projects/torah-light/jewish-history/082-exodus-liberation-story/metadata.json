@@ -1,0 +1,76 @@
+{
+  "articleId": "082",
+  "category": "jewish-history",
+  "subcategory": "biblical-narratives",
+  "title": {
+    "en": "The Exodus: History's Greatest Liberation Story",
+    "he": "יציאת מצרים: סיפור הגאולה הגדול בהיסטוריה",
+    "zh": "出埃及记：历史上最伟大的解放故事"
+  },
+  "description": {
+    "en": "The foundational narrative of the Jewish people — the Exodus from Egypt — exploring its historical context, theological significance, and enduring impact on concepts of freedom and liberation.",
+    "he": "הנראטיב המייסד של עם ישראל — יציאת מצרים — בחינת ההקשר ההיסטורי, המשמעות התיאולוגית וההשפעה המתמשכת על מושגי חופש וגאולה.",
+    "zh": "犹太人民的奠基叙事——出埃及记——探索其历史背景、神学意义以及对自由与解放概念的长远影响。"
+  },
+  "tags": [
+    "exodus",
+    "yetziat-mitzrayim",
+    "moses",
+    "passover",
+    "pesach",
+    "liberation",
+    "slavery",
+    "freedom",
+    "ten-plagues",
+    "red-sea",
+    "mt-sinai",
+    "torah",
+    "出埃及记",
+    "摩西",
+    "逾越节",
+    "自由"
+  ],
+  "targetAudience": {
+    "primary": "beginners-to-intermediate",
+    "cultural": ["western", "chinese"],
+    "background": "accessible to all readers"
+  },
+  "wordCount": {
+    "en": 7200,
+    "he": 7800,
+    "zh": 6800
+  },
+  "headerImage": {
+    "prompt": "A Chinese ink wash (shan shui) landscape depicting the parting of the Red Sea in traditional brushstroke style. Two towering walls of water rise on either side, rendered in deep indigo and midnight blue with subtle gradients. Between them, a narrow path of dry land stretches forward, painted in muted earth tones. In the distance, small figures in flowing robes walk through the passage, tiny against the monumental scale. The sky above transitions from storm gray to warm golden dawn light breaking through clouds. Style: classical Song Dynasty landscape painting technique with dramatic vertical composition, misty atmospheric effects, and a sense of divine intervention expressed through natural forces. Mood: awe-inspiring, miraculous, suspended moment of transformation.",
+    "description": "The parting of the Red Sea in Chinese ink wash style"
+  },
+  "difficulty": "beginner",
+  "estimatedReadTime": {
+    "en": "26-28 minutes",
+    "he": "28-30 minutes",
+    "zh": "24-26 minutes"
+  },
+  "practicalElements": [
+    "historical-context",
+    "passover-connection",
+    "themes-of-freedom",
+    "modern-relevance"
+  ],
+  "keyLearningObjectives": [
+    "Understand the narrative and significance of the Exodus",
+    "Explore historical and archaeological context",
+    "Connect the Exodus to the Passover holiday",
+    "Appreciate the story's impact on concepts of liberation"
+  ],
+  "culturalConnections": {
+    "chinese": ["mandate-of-heaven", "liberation-narratives", "moral-law"],
+    "universal": ["freedom", "human-rights", "social-justice"]
+  },
+  "prerequisites": "None - suitable for complete beginners",
+  "relatedArticles": ["passover-guide", "moses-leadership", "ten-commandments"],
+  "author": "Torah Light Editorial",
+  "dateCreated": "2026-03-17",
+  "lastUpdated": "2026-03-17",
+  "version": "1.0",
+  "status": "published"
+}
