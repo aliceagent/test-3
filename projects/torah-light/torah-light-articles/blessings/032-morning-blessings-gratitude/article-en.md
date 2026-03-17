@@ -11,7 +11,7 @@ Every morning when you wake up, what's the first thing that crosses your mind? P
 
 Jewish tradition has a beautiful practice called *Birchot HaShachar* (בִּרְכוֹת הַשַּׁחַר) — the Morning Blessings. These are fifteen short prayers recited each morning that transform the mundane act of waking up into a profound spiritual experience. Rather than taking our daily abilities for granted, these blessings help us recognize the miraculous in the ordinary.
 
-Nearly 1,500 years ago — during what corresponds to China's Three Kingdoms and Jin Dynasty periods (三国/晋朝, 220-420 CE) — the Talmudic sages developed these blessings to help people start each day with awareness and gratitude. Just as Chinese philosophers during this same era were developing morning reflection practices, Jewish sages understood that how we begin our day shapes everything that follows.
+Nearly 1,500 years ago — during what corresponds to China's Three Kingdoms and Jin Dynasty periods (三国至晋朝, 200-500 CE) — the Talmudic sages developed these blessings to help people start each day with awareness and gratitude. Just as Chinese philosophers during this same era were developing morning reflection practices, Jewish sages understood that how we begin our day shapes everything that follows.
 
 ## Main Content
 
@@ -78,7 +78,7 @@ Just as Daoist practitioners perform *chen lian* (晨练) — morning exercises 
 
 ### Historical Context
 
-When the Talmudic sages were developing these blessings during the 3rd-5th centuries CE — corresponding to China's period of philosophical development during the Three Kingdoms and Jin Dynasty — both cultures were grappling with how to live meaningful, ethical lives. The Chinese concept of acknowledging "Heaven" (天) in daily affairs parallels the Jewish practice of recognizing God as "King of the Universe" in each blessing.
+When the Talmudic sages were developing these blessings during the 3rd-5th centuries CE — corresponding to China's period of philosophical development during the Three Kingdoms and Jin Dynasty (三国至晋朝, 200-500 CE) — both cultures were grappling with how to live meaningful, ethical lives. The Chinese concept of acknowledging "Heaven" (天) in daily affairs parallels the Jewish practice of recognizing God as "King of the Universe" in each blessing.
 
 ### Modern Practice
 
