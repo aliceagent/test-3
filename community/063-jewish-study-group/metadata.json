@@ -1,0 +1,39 @@
+{
+  "id": 63,
+  "title": {
+    "en": "Starting a Jewish Study Group in Your City",
+    "zh": "在您的城市建立犹太学习小组",
+    "he": "הקמת קבוצת לימוד יהודית בעירכם"
+  },
+  "section": "Community",
+  "folder": "community",
+  "description": "How to organize and run a weekly Torah study group, even when you're not an expert — with discussion guides included.",
+  "word_count": {
+    "en": 4725,
+    "zh": 3850,
+    "he": 4680
+  },
+  "languages": ["en", "zh", "he"],
+  "tags": [
+    "Community",
+    "Torah Study",
+    "Study Group",
+    "Chavruta",
+    "Pirkei Avot",
+    "Chinese Culture",
+    "儒家",
+    "学习小组",
+    "Conversion Journey",
+    "Jewish Learning",
+    "Beginner Friendly",
+    "Sefaria",
+    "Chabad",
+    "Remote Community",
+    "Asia",
+    "犹太教学习"
+  ],
+  "bibliography_count": 8,
+  "status": "complete",
+  "created": "2026-03-17T13:08:00+02:00",
+  "completed": "2026-03-17T13:20:00+02:00"
+}
