@@ -4,6 +4,20 @@
 
 ---
 
+## Introduction
+
+*Pirkei Avot* — literally "Chapters of the Fathers" — is one of the most beloved and widely studied texts in Jewish tradition. Unlike the rest of the Mishnah, which focuses primarily on legal rulings and ritual practice, Pirkei Avot is a collection of ethical teachings, practical wisdom, and moral guidance from the great sages of the rabbinic period. It is a book about character: how to live with integrity, how to relate to others, and how to develop one's spiritual potential.
+
+Chapter 1 holds a special place within this tractate. It opens with what appears to be a simple genealogy — a list of names tracing a line of transmission from Moses at Mount Sinai through successive generations of prophets, elders, and sages. Yet this is far more than historical record. It is a declaration of authenticity and continuity: the wisdom contained in these pages comes from an unbroken chain that stretches back to divine revelation itself.
+
+The chapter introduces us to the foundational figures of rabbinic Judaism: Shimon the Righteous, Antigonus of Socho, the pairs (*zugot*) of sages who led the Sanhedrin, and finally Hillel and Shammai — whose schools of thought would shape Jewish law and ethics for centuries. Each contributes timeless insights about learning, humility, friendship, judgment, and the purpose of life.
+
+What makes these teachings extraordinary is their relevance across cultures and millennia. Written during the same centuries that Confucius and Laozi were shaping Chinese thought, the sages of Pirkei Avot addressed similar questions: How do we build character? What is the role of tradition? How should we treat one another? How do we balance self-interest with social responsibility?
+
+This article explores Chapter 1 of Pirkei Avot in depth — examining each mishnah, uncovering historical context, drawing connections to Chinese philosophical traditions, and offering practical applications for contemporary life. Whether you are encountering these texts for the first time or returning to them as old friends, may their wisdom illuminate your path.
+
+---
+
 ## Wisdom Across Generations
 
 Have you ever wondered how ancient knowledge survives for thousands of years? How does wisdom pass from teacher to student, generation after generation, without being corrupted or lost?
@@ -365,9 +379,9 @@ The difference: Pirkei Avot frames everything within relationship to God and Tor
    https://www.myjewishlearning.com/article/hillel-and-shammai/  
    *(Background on the most famous pair of sages in Chapter 1)*
 
-5. **"The Chain of Tradition"** — Torah.org  
-   https://torah.org/learning/pirkei-avos/chapter1-1/  
-   *(Detailed analysis of the transmission from Sinai)*
+5. **"Unlocking Ancient Wisdom - Pirkei Avot 1:1"** — Aish.com  
+   https://aish.com/48884467/  
+   *(Detailed analysis of the transmission chain from Sinai to the Men of the Great Assembly)*
 
 ---
 

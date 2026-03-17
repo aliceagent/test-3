@@ -1,0 +1,92 @@
+{
+  "id": 78,
+  "title": "Pirkei Avot Chapter 1: The Chain of Tradition Explained",
+  "title_zh": "《先贤之言》第一章：传统的传承",
+  "title_he": "פרקי אבות פרק א: שרשרת המסורה מוסברת",
+  "section": "Pirkei Avot",
+  "section_zh": "先贤之言",
+  "section_he": "פרקי אבות",
+  "description": "A comprehensive exploration of Pirkei Avot Chapter 1, tracing the unbroken chain of Torah transmission from Moses at Sinai through the sages of the Mishnah, with parallels to Chinese philosophical traditions.",
+  "word_count_en": 7500,
+  "word_count_zh": 6500,
+  "word_count_he": 6800,
+  "status": "published",
+  "created": "2026-03-17T16:00:00+02:00",
+  "published": "2026-03-17T16:00:00+02:00",
+  "author": "Torah Light Writing Team",
+  "tags": [
+    "PirkeiAvot",
+    "EthicsOfTheFathers",
+    "Mishnah",
+    "JewishWisdom",
+    "TorahTransmission",
+    "Hillel",
+    "Shammai",
+    "CharacterDevelopment",
+    "Mussar",
+    "伦理",
+    "智慧",
+    "ChineseJewishDialogue",
+    "ConfucianParallels",
+    "HanDynasty",
+    "SageTeachings",
+    "ChainOfTradition",
+    "Moses",
+    "MenOfTheGreatAssembly",
+    "Zugot",
+    "PirkeiAvotChapter1"
+  ],
+  "chinese_dynasty_references": [
+    {
+      "dynasty": "Han Dynasty",
+      "chinese": "汉朝",
+      "years": "206 BCE - 220 CE",
+      "context": "Period when Pirkei Avot was compiled and written"
+    },
+    {
+      "dynasty": "Shang Dynasty",
+      "chinese": "商朝",
+      "years": "~1300 BCE",
+      "context": "Period of the Exodus and Moses receiving Torah at Sinai"
+    },
+    {
+      "dynasty": "Warring States Period",
+      "chinese": "战国时代",
+      "years": "475-221 BCE",
+      "context": "When the Men of the Great Assembly were active; parallel to Hundred Schools of Thought"
+    },
+    {
+      "dynasty": "Qin Dynasty",
+      "chinese": "秦朝",
+      "years": "221-206 BCE",
+      "context": "When Shimon HaTzaddik served as High Priest"
+    }
+  ],
+  "key_concepts": [
+    {
+      "english": "Moses received Torah from Sinai",
+      "hebrew": "משה קיבל תורה מסיני",
+      "chinese": "摩西在西奈山领受律法"
+    },
+    {
+      "english": "Make a fence around the Torah",
+      "hebrew": "עשו סייג לתורה",
+      "chinese": "为律法设立篱笆"
+    },
+    {
+      "english": "The world stands on three things",
+      "hebrew": "על שלושה דברים העולם עומד",
+      "chinese": "世界立于三件事情上"
+    },
+    {
+      "english": "Judge every person favorably",
+      "hebrew": "הוי דן את כל האדם לכף זכות",
+      "chinese": "以善意评判每一个人"
+    },
+    {
+      "english": "If I am not for myself, who will be for me",
+      "hebrew": "אם אין אני לי מי לי",
+      "chinese": "若我不为自己，谁为我"
+    }
+  ]
+}
