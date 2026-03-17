@@ -1,0 +1,56 @@
+{
+  "id": 10,
+  "title": {
+    "en": "The Song of the Sea: When the Jewish People First Sang Together",
+    "zh": "红海之歌：犹太民族的首次合唱",
+    "he": "שירת הים: כאשר העם היהודי שר ביחד בפעם הראשונה"
+  },
+  "section": "Weekly Parsha",
+  "folder": "weekly-parsha",
+  "description": "Exploring Shirat HaYam (Exodus 15), the spontaneous song after crossing the Red Sea, and what it teaches about gratitude.",
+  "word_count": {
+    "en": 2850,
+    "zh": 2620,
+    "he": 2480
+  },
+  "status": "complete",
+  "created": "2026-03-17T06:24:00+02:00",
+  "author": "Alice (Torah Light Writer)",
+  "sources": [
+    "Sefaria.org - Exodus 15",
+    "Rashi on Exodus 15",
+    "Chabad.org - Song of the Sea articles",
+    "Aish.com - Miriam and gratitude teachings",
+    "Talmud Sotah 30b"
+  ],
+  "tags": [
+    "SongOfTheSea",
+    "ShiratHaYam",
+    "Exodus",
+    "Moses",
+    "Miriam",
+    "Gratitude",
+    "RedSea",
+    "Freedom",
+    "Redemption",
+    "Prayer",
+    "WeeklyParsha",
+    "Beshalach",
+    "ShangDynasty",
+    "ChinesePoetry"
+  ],
+  "chinese_dynasty_context": "Late Shang Dynasty (商朝晚期, ~1300-1260 BCE)",
+  "historical_figures": [
+    "Moses",
+    "Miriam",
+    "Aaron",
+    "Pharaoh"
+  ],
+  "key_concepts": [
+    "First recorded national song",
+    "Spontaneous gratitude",
+    "Women's leadership in celebration",
+    "Daily recitation in prayer",
+    "Special Torah scroll formatting"
+  ]
+}
