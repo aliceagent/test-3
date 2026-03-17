@@ -153,9 +153,41 @@ create policy "Anyone can read mentorship_requests"
   on mentorship_requests for select
   using (true);
 
+-- 6. Article Edit Suggestions (community-submitted edits for admin review)
+create table if not exists article_edits (
+  id bigint generated always as identity primary key,
+  article_id bigint not null references articles(id) on delete cascade,
+  editor_name text not null default 'Anonymous',
+  title_en text not null default '',
+  title_zh text not null default '',
+  title_he text not null default '',
+  body_en text not null default '',
+  body_zh text not null default '',
+  body_he text not null default '',
+  status text not null default 'pending' check (status in ('pending', 'accepted', 'rejected')),
+  created_at timestamptz not null default now(),
+  reviewed_at timestamptz
+);
+
+alter table article_edits enable row level security;
+
+create policy "Anyone can read article_edits"
+  on article_edits for select
+  using (true);
+
+create policy "Anyone can submit article_edits"
+  on article_edits for insert
+  with check (true);
+
+create policy "Anyone can update article_edits"
+  on article_edits for update
+  using (true);
+
 -- ============================================
 -- Indexes
 -- ============================================
 create index if not exists idx_user_votes_section on user_votes(section_id);
 create index if not exists idx_articles_section on articles(section);
 create index if not exists idx_forum_replies_post on forum_replies(post_id);
+create index if not exists idx_article_edits_status on article_edits(status);
+create index if not exists idx_article_edits_article on article_edits(article_id);
