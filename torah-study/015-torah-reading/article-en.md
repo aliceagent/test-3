@@ -221,7 +221,7 @@ Torah is called a "tree of life" because it is meant to be living, active, and l
    *Biblical source for the communal Torah reading: "Gather the people together, men and women and children... that they may hear and learn to revere the Lord your God."*
 
 7. **"Megillah 21a-32a"** — Sefaria.org  
-   https://www.sefaria.org/Megillah.21a-32a  
+   https://www.sefaria.org.il/Megillah.21a-32a  
    *Talmudic discussion of the laws and customs of public Torah reading, including the number of aliyot for each day and who may be called up.*
 
 ## Tags
