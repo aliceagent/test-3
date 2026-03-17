@@ -3,8 +3,6 @@
 import { Link, usePathname } from "@/i18n/navigation";
 import { useTranslations, useLocale } from "next-intl";
 import { useState, useEffect } from "react";
-import ReactMarkdown from "react-markdown";
-import remarkGfm from "remark-gfm";
 import { supabase } from "@/lib/supabase";
 import ArticleFeedback from "./ArticleFeedback";
 
@@ -34,11 +32,27 @@ interface Article {
   body_en: string;
   body_zh: string;
   body_he: string;
+  updated_at: string;
 }
 
 // Map namespace camelCase to section slug
 function namespaceToSlug(namespace: string): string {
   return namespace.replace(/([A-Z])/g, "-$1").toLowerCase();
+}
+
+function getPreview(body: string, maxLen = 160): string {
+  // Strip markdown syntax for a clean preview
+  const plain = body
+    .replace(/#{1,6}\s/g, "")
+    .replace(/\*\*(.+?)\*\*/g, "$1")
+    .replace(/\*(.+?)\*/g, "$1")
+    .replace(/!\[.*?\]\(.*?\)/g, "")
+    .replace(/\[(.+?)\]\(.*?\)/g, "$1")
+    .replace(/>\s/g, "")
+    .replace(/[-*]\s/g, "")
+    .replace(/\n+/g, " ")
+    .trim();
+  return plain.length > maxLen ? plain.slice(0, maxLen) + "..." : plain;
 }
 
 export default function ContentPage({
@@ -61,7 +75,7 @@ export default function ContentPage({
       .from("articles")
       .select("*")
       .eq("section", slug)
-      .order("created_at", { ascending: true })
+      .order("created_at", { ascending: false })
       .then(({ data }) => {
         if (!cancelled && data) setArticles(data);
       });
@@ -108,16 +122,6 @@ export default function ContentPage({
                 className="text-[var(--color-primary-light)] hover:text-[var(--color-primary)] text-sm hover:underline"
               >
                 {t(section.titleKey)}
-              </a>
-            </li>
-          ))}
-          {articles.map((article) => (
-            <li key={`toc-article-${article.id}`}>
-              <a
-                href={`#article-${article.id}`}
-                className="text-[var(--color-primary-light)] hover:text-[var(--color-primary)] text-sm hover:underline"
-              >
-                {getArticleTitle(article)}
               </a>
             </li>
           ))}
@@ -212,54 +216,51 @@ export default function ContentPage({
             />
           </article>
         ))}
-
-        {/* Supabase Articles with Markdown Rendering */}
-        {articles.map((article) => {
-          const body = getArticleBody(article);
-          const title = getArticleTitle(article);
-          if (!body && !title) return null;
-
-          return (
-            <article
-              key={`article-${article.id}`}
-              id={`article-${article.id}`}
-              className="scroll-mt-20 border-b border-[var(--color-cream-dark)] pb-10 last:border-0"
-              dir={locale === "he" ? "rtl" : "ltr"}
-            >
-              <h2 className="text-2xl font-bold text-[var(--color-primary)] mb-4 flex items-center gap-2">
-                <span className="text-[var(--color-gold)]">✡</span>
-                {title}
-              </h2>
-
-              <div className="prose prose-lg max-w-none text-[var(--color-text)] prose-headings:text-[var(--color-primary)] prose-a:text-[var(--color-primary-light)] prose-img:rounded-xl prose-img:shadow-md prose-blockquote:border-[var(--color-gold)] prose-strong:text-[var(--color-primary)]">
-                <ReactMarkdown
-                  remarkPlugins={[remarkGfm]}
-                  components={{
-                    img: ({ src, alt, ...props }) => (
-                      // eslint-disable-next-line @next/next/no-img-element
-                      <img
-                        src={src}
-                        alt={alt || ""}
-                        loading="lazy"
-                        className="rounded-xl shadow-md max-w-full h-auto my-4"
-                        {...props}
-                      />
-                    ),
-                  }}
-                >
-                  {body}
-                </ReactMarkdown>
-              </div>
-
-              <ArticleFeedback
-                sectionId={`${namespace}-article-${article.id}`}
-                sectionTitle={title}
-                pageUrl={typeof window !== "undefined" ? `${window.location.origin}${pathname}#article-${article.id}` : undefined}
-              />
-            </article>
-          );
-        })}
       </div>
+
+      {/* Articles from Supabase — shown as linkable cards */}
+      {articles.length > 0 && (
+        <div className="mt-12">
+          <h2 className="text-2xl font-bold text-[var(--color-primary)] mb-6 flex items-center gap-2">
+            <span className="text-[var(--color-gold)]">✡</span>
+            Articles
+          </h2>
+          <div className="grid gap-4 sm:grid-cols-2">
+            {articles.map((article) => {
+              const title = getArticleTitle(article);
+              const body = getArticleBody(article);
+              if (!title) return null;
+
+              return (
+                <Link
+                  key={article.id}
+                  href={`/articles/${article.id}`}
+                  className="group block bg-white border border-[var(--color-cream-dark)] rounded-xl p-5 hover:shadow-md hover:border-[var(--color-gold)] transition-all"
+                >
+                  <h3 className="font-semibold text-[var(--color-primary)] group-hover:text-[var(--color-primary-light)] mb-2 transition-colors">
+                    {title}
+                  </h3>
+                  {body && (
+                    <p className="text-sm text-[var(--color-text-light)] line-clamp-3 mb-3">
+                      {getPreview(body)}
+                    </p>
+                  )}
+                  <div className="flex items-center justify-between">
+                    {article.updated_at && (
+                      <span className="text-xs text-[var(--color-text-light)]">
+                        {new Date(article.updated_at).toLocaleDateString()}
+                      </span>
+                    )}
+                    <span className="text-xs text-[var(--color-primary-light)] group-hover:text-[var(--color-primary)] transition-colors">
+                      Read more &rarr;
+                    </span>
+                  </div>
+                </Link>
+              );
+            })}
+          </div>
+        </div>
+      )}
 
       {/* Related Topics */}
       {relatedLinks && relatedLinks.length > 0 && (
