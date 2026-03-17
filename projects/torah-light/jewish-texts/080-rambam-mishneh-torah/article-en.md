@@ -207,7 +207,7 @@ Then, as you progress, you can explore specific topics relevant to your life—S
    *Full text of all fourteen books with hyperlinked sources and commentary*
 
 2. **Mishneh Torah (Hebrew-English Parallel)** — Sefaria.org  
-   https://www.sefaria.org/Mishneh_Torah  
+   https://www.sefaria.org/texts/Halakhah/Mishneh%20Torah  
    *Search, compare translations, and explore connections to Talmud and other texts*
 
 3. **"Introduction to the Mishneh Torah" by Maimonides (translated)** — Rabbi Eliyahu Touger  

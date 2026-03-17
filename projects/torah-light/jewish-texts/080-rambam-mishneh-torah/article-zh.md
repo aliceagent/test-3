@@ -207,7 +207,7 @@
    *所有十四本书的全文,带有超链接的来源和注释*
 
 2. **《密西内·托拉》(希伯来语-英语并排)** — Sefaria.org  
-   https://www.sefaria.org/Mishneh_Torah  
+   https://www.sefaria.org/texts/Halakhah/Mishneh%20Torah  
    *搜索、比较译本并探索与塔木德和其他文本的联系*
 
 3. **"迈蒙尼德对《密西内·托拉》的引言"(翻译)** — 拉比埃利亚胡·图格  

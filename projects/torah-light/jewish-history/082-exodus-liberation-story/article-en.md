@@ -191,7 +191,7 @@ As you discover the Jewish tradition, may you find inspiration in the Exodus sto
    *Scholarly analysis of archaeological and historical evidence for the Exodus*
 
 3. **Passover Haggadah** — Traditional liturgy for the Seder  
-   https://www.chabad.org/holidays/passover/pesach_cdo/aid/1737/jewish/Passover-Haggadah.htm  
+   https://www.chabad.org/holidays/passover/pesach_cdo/aid/1735/jewish/Haggadah.htm  
    *The ritual text used annually to retell the Exodus story at the Passover meal*
 
 4. **Rashi on Exodus** — Rabbi Shlomo Yitzchaki (1040-1105 CE, Song Dynasty)  

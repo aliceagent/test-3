@@ -231,8 +231,8 @@ That's what Abraham did. And four millennia later, his legacy endures.
    https://www.sefaria.org/Genesis.11  
    *(The primary source for Abraham's life story, from his departure from Ur through his death and burial)*
 
-2. **"Abraham: The World's First (But Certainly Not Last) Jewish Idealist"** — Aish.com  
-   https://aish.com/abraham-the-worlds-first-but-certainly-not-last-jewish-idealist/  
+2. **"Who Was The First Jew?"** — Aish.com  
+   https://aish.com/abraham-the-first-jew/  
    *(A contemporary essay exploring Abraham's revolutionary discovery of monotheism and its ongoing relevance)*
 
 3. **Rashi's Commentary on Genesis** — Sefaria.org  
@@ -247,16 +247,16 @@ That's what Abraham did. And four millennia later, his legacy endures.
    https://www.sefaria.org/Nedarim.32a  
    *(Talmudic discussion of Abraham's ten tests and his journey to recognizing God)*
 
-6. **"The Legacy of Abraham: Exploring the Father of Faith"** — Chabad.org  
-   https://www.chabad.org/library/article_cdo/aid/4357114/jewish/Abraham.htm  
+6. **"The Story of Abraham — The First Patriarch"** — Chabad.org  
+   https://www.chabad.org/library/article_cdo/aid/112356/jewish/The-Story-of-Abraham.htm  
    *(A comprehensive overview of Abraham's life, teachings, and ongoing significance in Jewish thought)*
 
 7. **Guide for the Perplexed, Part II, Chapter 13** — Maimonides  
    https://www.sefaria.org/Guide_for_the_Perplexed,_Part_2.13  
    *(Medieval philosopher Maimonides discusses Abraham's philosophical discovery of God through observation of nature)*
 
-8. **"Abraham and Hospitality"** — My Jewish Learning  
-   https://www.myjewishlearning.com/article/abraham-and-hospitality/  
+8. **"A Lesson in Hospitality"** — My Jewish Learning  
+   https://www.myjewishlearning.com/article/a-lesson-in-hospitality/  
    *(An exploration of the Jewish value of welcoming guests (*hachnasat orchim*) as exemplified by Abraham)*
 
 9. **Mishneh Torah, Laws of Idolatry 1:1-3** — Maimonides  

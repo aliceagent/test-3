@@ -201,12 +201,12 @@ If you want to connect with the Zionist spirit:
 
 ## Bibliography
 
-1. **"What is Zionism?"** — Chabad.org  
-   https://www.chabad.org/library/article_cdo/aid/3894823/jewish/What-Is-Zionism.htm  
-   *(Overview of Zionism from a religious Jewish perspective)*
+1. **"What Is Aliyah?"** — Chabad.org  
+   https://www.chabad.org/library/article_cdo/aid/1584066/jewish/What-Is-Aliyah.htm  
+   *(Overview of the concept of immigrating to Israel from a religious Jewish perspective)*
 
-2. **"Zionism: A Definition and Brief History"** — My Jewish Learning  
-   https://www.myjewishlearning.com/article/zionism-a-definition-and-brief-history/  
+2. **"Zionism 101"** — My Jewish Learning  
+   https://www.myjewishlearning.com/article/zionism/  
    *(Historical overview of the Zionist movement)*
 
 3. **"Living in the Land of Israel"** — Sefaria.org (Sefer HaMitzvot, Ramban, Positive Commandment 4)  
@@ -221,9 +221,9 @@ If you want to connect with the Zionist spirit:
    https://www.sefaria.org/Ketubot.111a.4  
    *(Talmudic passage cited in debates about Zionism)*
 
-6. **"Rabbi Abraham Isaac Kook: An Introduction"** — Aish.com  
-   https://aish.com/rabbi-abraham-isaac-kook/  
-   *(Biography of the leading religious Zionist thinker)*
+6. **"Rabbi Abraham Isaac Kook"** — Jewish Virtual Library  
+   https://jewishvirtuallibrary.org/abraham-isaac-kook  
+   *(Biography of the leading religious Zionist thinker and first Chief Rabbi of Israel)*
 
 7. **"Theodor Herzl: Father of Modern Zionism"** — Jewish Virtual Library  
    https://www.jewishvirtuallibrary.org/theodor-herzl  

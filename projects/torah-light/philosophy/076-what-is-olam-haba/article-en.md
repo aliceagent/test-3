@@ -219,7 +219,7 @@ Live fully now. Act justly now. Love kindness now. The World to Come is built on
    *(Teaching that punishment in Gehinnom lasts no more than 12 months)*
 
 4. **Maimonides' 13 Principles of Faith**  
-   https://www.sefaria.org/Thirteen_Principles_of_Faith  
+   https://www.chabad.org/library/article_cdo/aid/332555/jewish/Maimonides-13-Principles-of-Faith.htm  
    *(Principle #13 affirms belief in the resurrection of the dead)*
 
 5. **Daniel 12:2 — Biblical Source for Resurrection**  

@@ -1,0 +1,75 @@
+{
+  "articleId": "075",
+  "category": "mussar",
+  "subcategory": "self-reflection",
+  "title": {
+    "en": "Cheshbon HaNefesh: The Jewish Practice of Daily Self-Reflection",
+    "he": "חשבון הנפש: מנהג יהודי של התבוננות יומית",
+    "zh": "灵魂核算：犹太教的每日自我反思实践"
+  },
+  "description": {
+    "en": "An exploration of cheshbon hanefesh, the Jewish practice of daily self-reflection and spiritual accounting, rooted in the Mussar movement and applicable to modern life.",
+    "he": "חקירה של חשבון הנפש, המנהג היהודי של התבוננות עצמית יומית וחשבון נפשי, ששורשיו בתנועת המוסר וחלים על החיים המודרניים.",
+    "zh": "探索灵魂核算，犹太教的每日自我反思和精神核算实践，植根于穆萨尔运动并适用于现代生活。"
+  },
+  "tags": [
+    "cheshbon-hanefesh",
+    "mussar",
+    "self-reflection",
+    "daily-practice",
+    "character-development",
+    "soul-accounting",
+    "evening-routine",
+    "baal-shem-tov",
+    "jewish-spirituality",
+    "introspection",
+    "soul-searching",
+    "mindfulness",
+    "灵魂核算",
+    "每日反思",
+    "品格修养"
+  ],
+  "targetAudience": {
+    "primary": "beginners-to-intermediate",
+    "cultural": ["western", "chinese"],
+    "background": "accessible to all Jewish learning levels"
+  },
+  "wordCount": {
+    "en": 5800,
+    "he": 6200,
+    "zh": 5400
+  },
+  "headerImage": {
+    "prompt": "A serene Chinese ink wash (水墨) landscape at dusk, featuring a solitary scholar seated on a stone platform overlooking a tranquil lake. The scholar holds an open scroll, engaged in contemplation. Mountains fade into mist in the background, while a single lantern provides gentle illumination in the foreground. The scene conveys introspection and quietude. Muted earth tones with soft blues and grays. Style: traditional shan shui (山水) painting with delicate brushwork. Mood: contemplative, peaceful, reflective.",
+    "description": "Scholar in contemplation at dusk by a lake"
+  },
+  "difficulty": "beginner",
+  "estimatedReadTime": {
+    "en": "20-22 minutes",
+    "he": "22-25 minutes",
+    "zh": "18-20 minutes"
+  },
+  "practicalElements": [
+    "daily-reflection-practice",
+    "evening-review",
+    "character-assessment",
+    "intention-setting"
+  ],
+  "keyLearningObjectives": [
+    "Understand the concept and history of cheshbon hanefesh",
+    "Learn practical steps for daily self-reflection",
+    "Develop a personal evening review practice",
+    "Apply Mussar principles to modern life"
+  ],
+  "culturalConnections": {
+    "confucian": ["self-cultivation", "daily-reflection", "moral-accounting"],
+    "universal": ["mindfulness", "introspection", "character-development"]
+  },
+  "prerequisites": "None - suitable for complete beginners",
+  "relatedArticles": ["seven-middot", "mussar-introduction", "pirkei-avot"],
+  "author": "Torah Light Editorial",
+  "dateCreated": "2026-03-17",
+  "lastUpdated": "2026-03-17",
+  "version": "1.0",
+  "status": "published"
+}
