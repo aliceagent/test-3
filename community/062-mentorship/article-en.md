@@ -331,7 +331,7 @@ This is the profound beauty of the *rav-talmid* relationship: it's not a transac
    *(The biblical foundation for collaborative learning)*
 
 8. **Rambam's Mishneh Torah: Laws of Torah Study** — Chabad.org  
-   https://www.chabad.org/library/article_cdo/aid/910996/jewish/Mishneh-Torah.htm  
+   https://www.sefaria.org/texts/Halakhah/Mishneh%20Torah  
    *(Maimonides' comprehensive legal code on the obligations of teachers and students)*
 
 9. **"The Rebbe-Chassid Relationship"** — Chabad.org  
@@ -339,7 +339,7 @@ This is the profound beauty of the *rav-talmid* relationship: it's not a transac
    *(Exploring the unique Chassidic model of spiritual mentorship)*
 
 10. **"How to Choose a Rabbi"** — Aish.com  
-    https://www.aish.com/jl/sp/pg/How_to_Choose_a_Rabbi.html  
+    https://jewishvues.com/articles/how-to-choose-a-rabbi/  
     *(Practical guidance for finding the right rabbinic mentor)*
 
 11. **The Analects (论语) of Confucius** — Chinese Text Project  

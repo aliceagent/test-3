@@ -331,7 +331,7 @@
    *(היסוד המקראי ללמידה שיתופית)*
 
 8. **משנה תורה של הרמב"ם: הלכות תלמוד תורה** — Chabad.org  
-   https://www.chabad.org/library/article_cdo/aid/910996/jewish/Mishneh-Torah.htm  
+   https://www.sefaria.org/texts/Halakhah/Mishneh%20Torah  
    *(קודקס משפטי מקיף של מיימונידס על חובות מורים ותלמידים)*
 
 9. **"מערכת היחסים רבי-חסיד"** — Chabad.org  
@@ -339,7 +339,7 @@
    *(חקירה של המודל החסידי הייחודי של חניכות רוחנית)*
 
 10. **"כיצד לבחור רב"** — Aish.com  
-    https://www.aish.com/jl/sp/pg/How_to_Choose_a_Rabbi.html  
+    https://jewishvues.com/articles/how-to-choose-a-rabbi/  
     *(הדרכה מעשית למציאת המנטור הרבני הנכון)*
 
 11. **אנלקטס (論語) של קונפוציוס** — Chinese Text Project  

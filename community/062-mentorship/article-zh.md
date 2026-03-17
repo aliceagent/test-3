@@ -331,7 +331,7 @@
    *(合作学习的圣经基础)*
 
 8. **兰巴姆的《Mishneh Torah》:妥拉学习法** — Chabad.org  
-   https://www.chabad.org/library/article_cdo/aid/910996/jewish/Mishneh-Torah.htm  
+   https://www.sefaria.org/texts/Halakhah/Mishneh%20Torah  
    *(迈蒙尼德关于教师和学生义务的综合法典)*
 
 9. **"拉比-哈西德关系"** — Chabad.org  
@@ -339,7 +339,7 @@
    *(探索哈西德精神导师关系的独特模式)*
 
 10. **"如何选择拉比"** — Aish.com  
-    https://www.aish.com/jl/sp/pg/How_to_Choose_a_Rabbi.html  
+    https://jewishvues.com/articles/how-to-choose-a-rabbi/  
     *(寻找合适的拉比导师的实用指导)*
 
 11. **《论语》** — Chinese Text Project  
