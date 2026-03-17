@@ -1,0 +1,214 @@
+{
+  "article": {
+    "id": "019",
+    "slug": "kiddush-full-text-translation-meaning",
+    "title": {
+      "en": "Kiddush: The Full Text, Translation, and Meaning",
+      "he": "קידוש: הטקסט המלא, התרגום והמשמעות",
+      "zh": "קידוש: הטקסט המלא, התרגום והמשמעות"
+    },
+    "category": "shabbat",
+    "subcategory": "ritual",
+    "author": {
+      "name": "Torah Light Editorial Team",
+      "email": "editorial@torahlight.org"
+    },
+    "date": {
+      "created": "2026-03-17",
+      "updated": "2026-03-17",
+      "published": "2026-03-17"
+    },
+    "content": {
+      "languages": ["en", "he", "zh"],
+      "word_count": {
+        "en": 8500,
+        "he": 6800,
+        "zh": 8500
+      },
+      "reading_time": {
+        "en": "25 minutes",
+        "he": "20 minutes",
+        "zh": "25 minutes"
+      }
+    },
+    "tags": [
+      "Kiddush",
+      "Shabbat",
+      "ShabbatMeal",
+      "Wine",
+      "Sanctification",
+      "Blessing",
+      "FridayNight",
+      "SaturdayMorning",
+      "Torah",
+      "Creation",
+      "Exodus",
+      "Jewish Ritual",
+      "Prayer",
+      "ShabbatTable",
+      "ChallahAndWine",
+      "KiddushCup",
+      "圣化",
+      "安息日",
+      "葡萄酒祝福",
+      "犹太仪式"
+    ],
+    "keywords": [
+      "Kiddush blessing",
+      "Shabbat wine blessing",
+      "Friday night Kiddush",
+      "Saturday morning Kiddush",
+      "Jewish sanctification",
+      "Sabbath ritual",
+      "Hebrew prayers",
+      "Wine blessing",
+      "Shabbat table",
+      "Jewish tradition",
+      "Torah commandment",
+      "Creation remembrance",
+      "Exodus memorial",
+      "Holy time",
+      "Kiddush cup",
+      "Jewish learning China"
+    ],
+    "description": {
+      "en": "Complete guide to the Kiddush blessing recited over wine on Shabbat, including full Hebrew text, English translation, pronunciation guide, and detailed explanation of its meaning and significance in Jewish tradition.",
+      "he": "מדריך מלא לברכת הקידוש הנאמרת על יין בשבת, כולל טקסט עברי מלא, תרגום לאנגלית, מדריך הגייה והסבר מפורט של המשמעות והחשיבות שלה במסורת היהודית.",
+      "zh": "安息日葡萄酒祝福完全指南，包括完整希伯来文本、英文翻译、发音指南以及对其在犹太传统中的意义和重要性的详细解释。"
+    },
+    "difficulty": "beginner",
+    "target_audience": [
+      "beginners",
+      "families",
+      "individuals_learning_Judaism",
+      "Chinese_Jewish_community",
+      "interfaith_couples",
+      "students"
+    ],
+    "prerequisites": [],
+    "related_articles": [
+      "018-shabbat-candles",
+      "020-havdalah",
+      "021-challah-blessing",
+      "065-chabad-houses-china"
+    ],
+    "sections": [
+      {
+        "title": "Introduction",
+        "subsections": []
+      },
+      {
+        "title": "What Does 'Kiddush' Mean?",
+        "subsections": []
+      },
+      {
+        "title": "Why Wine?",
+        "subsections": []
+      },
+      {
+        "title": "The Kiddush Cup",
+        "subsections": []
+      },
+      {
+        "title": "Friday Night Kiddush",
+        "subsections": [
+          "Full Hebrew Text",
+          "Transliteration",
+          "English Translation",
+          "Section-by-Section Explanation"
+        ]
+      },
+      {
+        "title": "Shabbat Day Kiddush",
+        "subsections": [
+          "Full Hebrew Text",
+          "Transliteration",
+          "English Translation",
+          "Explanation"
+        ]
+      },
+      {
+        "title": "Practical Observance",
+        "subsections": [
+          "Friday Night",
+          "Shabbat Morning"
+        ]
+      },
+      {
+        "title": "Cultural Connection: Kiddush and Chinese Ritual Wine Culture",
+        "subsections": []
+      },
+      {
+        "title": "Historical Context",
+        "subsections": []
+      },
+      {
+        "title": "Common Questions About Kiddush",
+        "subsections": []
+      },
+      {
+        "title": "Conclusion",
+        "subsections": []
+      },
+      {
+        "title": "Bibliography",
+        "subsections": []
+      }
+    ],
+    "features": {
+      "has_hebrew_text": true,
+      "has_transliteration": true,
+      "has_audio": false,
+      "has_images": false,
+      "has_video": false,
+      "has_interactive_elements": false,
+      "cultural_bridge": "Chinese",
+      "practical_guidance": true,
+      "beginner_friendly": true
+    },
+    "sources": {
+      "primary": [
+        "Torah (Genesis 2:1-3, Exodus 20:8-11, Exodus 31:16-17)",
+        "Mishnah",
+        "Talmud (Pesachim 106a)"
+      ],
+      "secondary": [
+        "Wikipedia: Kiddush",
+        "My Jewish Learning",
+        "Aish.com",
+        "Reform Judaism",
+        "Sefaria.org"
+      ]
+    },
+    "verification": {
+      "fact_checked": true,
+      "hebrew_reviewed": true,
+      "cultural_sensitivity_reviewed": true,
+      "bibliography_verified": true,
+      "url_verification_date": "2026-03-17"
+    },
+    "seo": {
+      "meta_title": "Kiddush: Complete Hebrew Text, Translation & Meaning - Torah Light",
+      "meta_description": "Learn the complete Kiddush blessing for Shabbat with Hebrew text, English translation, pronunciation guide, and cultural context. Perfect for beginners learning Judaism.",
+      "canonical_url": "/shabbat/kiddush-complete-guide",
+      "structured_data": {
+        "type": "Article",
+        "headline": "Kiddush: The Full Text, Translation, and Meaning",
+        "datePublished": "2026-03-17",
+        "dateModified": "2026-03-17",
+        "author": "Torah Light Editorial Team",
+        "publisher": "Torah Light",
+        "mainEntityOfPage": "/shabbat/kiddush-complete-guide",
+        "articleSection": "Shabbat Ritual",
+        "keywords": "Kiddush, Shabbat, Jewish blessing, wine blessing, Hebrew prayers"
+      }
+    },
+    "accessibility": {
+      "screen_reader_friendly": true,
+      "high_contrast_support": true,
+      "transliteration_included": true,
+      "multiple_languages": true,
+      "clear_structure": true
+    }
+  }
+}

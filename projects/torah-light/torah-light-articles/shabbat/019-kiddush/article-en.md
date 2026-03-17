@@ -1,325 +1,347 @@
 # Kiddush: The Full Text, Translation, and Meaning
-# קידוש：完整经文、翻译与深意
+# קידוש: הטקסט המלא, התרגום והמשמעות
 
-> **Header Image Description (DALL-E prompt):** Traditional Chinese shan shui (山水) landscape in ink wash style depicting a serene twilight scene. A simple wooden table stands on a mountain terrace overlooking misty valleys, with a single wine cup placed upon it catching the last rays of sunset. Mountains fade into purple distance, a crescent moon rises over pine trees, and gentle mist rolls through bamboo groves. Color palette: deep indigo sky fading to warm amber, silvery-gray mist, earth tones. Mood: sacred, contemplative, peaceful transition from work to rest. Style: Song Dynasty landscape painting aesthetic with subtle Jewish symbolic elements.
+> **Header Image Description (DALL-E prompt):** A serene Chinese brushstroke (山水) landscape painting depicting a traditional Shabbat table scene rendered in shan shui style. In the foreground, an elegant silver Kiddush cup filled with red wine sits on a white tablecloth, with two covered challah loaves beside it. Soft candlelight glows from two Shabbat candles. The background features misty mountains and flowing water in traditional ink wash technique. Color palette: deep indigo blues, warm amber candlelight, silver cup highlights, and muted earth tones. Mood: peaceful, sacred, and contemplative — bridging Jewish and Chinese aesthetic traditions.
 
 ---
 
 ## Introduction
 
-Every Friday evening as the sun sets, Jewish families around the world gather around their tables to perform one of the most beautiful rituals of Shabbat: Kiddush. The word "Kiddush" comes from the Hebrew root *קדש* (kadosh), meaning "holy" or "to sanctify." This brief ceremony—recited over a cup of wine—is our way of proclaiming the holiness of Shabbat and welcoming it into our homes.
+Every Friday evening, as the sun sets and Shabbat begins, Jewish families around the world lift a cup of wine and recite ancient words that bridge heaven and earth. This ritual is called Kiddush (קִידּוּשׁ), which means "sanctification" in Hebrew. 
 
-For someone encountering Kiddush for the first time, it might seem like simply a blessing over wine. But it's far more profound: Kiddush is a weekly declaration that connects us to the very creation of the world, to our ancestors' exodus from slavery, and to the eternal covenant between God and the Jewish people.
+For those encountering Judaism for the first time, Kiddush might seem like a simple blessing before dinner. But it's far more profound than that. It's a weekly testimony to God's creation of the world, a remembrance of the Exodus from Egypt, and a declaration that this day — Shabbat — stands apart from all others. In Chinese culture, there are ceremonial toasts and ritual cups of wine at important family gatherings and festivals. Kiddush serves a similar communal function, but with a distinctly spiritual dimension: it transforms an ordinary meal into a sacred act.
 
-This article provides the complete text of both Friday night and Shabbat day Kiddush in Hebrew, with full English and Chinese translations, transliteration for pronunciation, and an exploration of the deep meaning behind every word.
+This tradition has been practiced continuously for over 2,000 years — spanning from the late Second Temple period (during China's Han Dynasty 汉朝, 206 BCE - 220 CE) through today. The words we recite on Friday night are the same words your great-great-grandparents' generation said, creating an unbroken chain across centuries and continents.
 
-## What is Kiddush?
+In this article, we'll provide the complete Hebrew text of both Friday night and Shabbat day Kiddush, along with English translation, transliteration (for pronunciation), and Chinese translation. We'll also explore the deeper meaning behind each section of this beautiful prayer.
 
-Kiddush is the ceremony that formally begins the Shabbat meal. The commandment to "remember the Shabbat day to sanctify it" (*zachor et yom ha-Shabbat l'kadsho* - Exodus 20:8) requires us to verbally proclaim Shabbat's holiness. According to the Talmud (Pesachim 106a), this proclamation should be made "over wine"—hence the tradition of reciting Kiddush over a full cup of wine or grape juice.
+## What Does "Kiddush" Mean?
 
-There are two distinct Kiddush ceremonies:
-- **Friday Night Kiddush** (*Kiddush Leil Shabbat*) - recited after the evening service, before the Friday night meal
-- **Shabbat Day Kiddush** (*Kiddush Yom ha-Shabbat*) - recited after morning services, before the midday meal
+The Hebrew word קִידּוּשׁ (kiddush) comes from the root ק-ד-ש (k-d-sh), which means "holy" or "set apart." When we recite Kiddush, we are performing an act of **sanctification** — verbally declaring that Shabbat is different from the other six days of the week.
 
-Each has different text and themes, reflecting different aspects of Shabbat's meaning.
+This concept has a parallel in Chinese philosophy. Just as Confucian thought distinguishes between the sacred and the profane (圣 shèng and 凡 fán), Judaism draws a boundary between the holy and the ordinary. Shabbat is kodesh (קודש) — holy time. The other six days are chol (חול) — ordinary time. Kiddush is the verbal ceremony that marks this transition.
 
-### Historical Context
+The Torah commands us twice regarding Shabbat:
+1. **Shamor** (שָׁמוֹר) — "Guard it" (by refraining from forbidden work)
+2. **Zachor** (זָכוֹר) — "Remember it" (by making it special)
 
-The practice of Kiddush dates back to ancient times—during what corresponds to China's Han Dynasty period (汉朝, 206 BCE – 220 CE)—when the Mishnaic sages first codified the oral traditions surrounding Shabbat observance. The custom of sanctifying holy days over wine has even earlier roots, mentioned in the Torah itself and refined through centuries of Jewish practice.
+Kiddush fulfills the commandment of Zachor. By reciting these words over wine, we actively remember and proclaim Shabbat's holiness.
 
-## The Friday Night Kiddush: Full Text and Translation
+## Why Wine?
 
-The Friday night Kiddush consists of three parts:
-1. The opening verse from Genesis describing the sixth day
-2. The Vayechulu passage recounting God's rest on the seventh day
-3. The blessing over wine and the blessing sanctifying Shabbat
+Wine (or grape juice) is the beverage of choice for Kiddush for several reasons:
 
-### Hebrew Text (עברית)
+1. **Honor and Joy:** In ancient times — and still today — wine represents celebration and dignity. Serving wine to a guest is a mark of respect. Similarly, we honor Shabbat by welcoming it with wine.
 
-**וַיְהִי עֶרֶב וַיְהִי בֹקֶר יוֹם הַשִּׁשִּׁי**
+2. **Symbol of Blessing:** The Hebrew blessing over wine, "borei pri hagafen" (בּוֹרֵא פְּרִי הַגָּפֶן), praises God as "Creator of the fruit of the vine." Wine comes from grapes, which require a year of patient cultivation. It symbolizes the partnership between divine blessing and human effort.
 
-**וַיְכֻלּוּ הַשָּׁמַיִם וְהָאָרֶץ וְכָל צְבָאָם**
+3. **Historical Precedent:** From the time of the Mishnah (edited around 200 CE, during China's Three Kingdoms period 三国, 220-280 CE), wine has been the designated beverage for sanctification rituals.
 
-**וַיְכַל אֱלֹהִים בַּיּוֹם הַשְּׁבִיעִי מְלַאכְתּוֹ אֲשֶׁר עָשָׂה**
+**Note:** If wine is not available or if someone cannot drink it for health reasons, grape juice is completely acceptable. The key is the blessing and the intention, not the alcohol content.
 
-**וַיִּשְׁבֹּת בַּיּוֹם הַשְּׁבִיעִי מִכָּל מְלַאכְתּוֹ אֲשֶׁר עָשָׂה**
+## The Kiddush Cup
 
-**וַיְבָרֶךְ אֱלֹהִים אֶת יוֹם הַשְּׁבִיעִי וַיְקַדֵּשׁ אֹתוֹ**
+Traditionally, Kiddush is recited over a special cup called a **Kiddush cup** (כּוֹס קִידּוּשׁ, kos kiddush). This cup should hold at least a **revi'it** (רְבִיעִית) of liquid, which is approximately 86-150 milliliters (depending on which rabbinic authority you follow).
 
-**כִּי בוֹ שָׁבַת מִכָּל מְלַאכְתּוֹ אֲשֶׁר בָּרָא אֱלֹהִים לַעֲשׂוֹת**
+Many families use an ornate silver or glass Kiddush cup that has been passed down through generations, much like how Chinese families treasure heirloom tea sets or porcelain wine vessels from the Ming (明朝) or Qing (清朝) dynasties. The cup itself becomes a tangible link to one's ancestors and heritage.
 
-*(Quietly: Va-yi-hi Erev Va-yi-hi Voker)*  
-*(Aloud:)* **Yom Ha-shee-shee**
+After the person leading Kiddush drinks from the cup, it is customary to pass the cup around so that everyone at the table can take a sip, or to pour small amounts into individual cups for each participant.
 
-**סַבְרִי מָרָנָן וְרַבָּנָן וְרַבּוֹתַי**
+## Friday Night Kiddush (Kiddush for Shabbat Evening)
 
-**בָּרוּךְ אַתָּה ה' אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם בּוֹרֵא פְּרִי הַגָּפֶן**
+### Full Hebrew Text
 
-**בָּרוּךְ אַתָּה ה' אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֹתָיו וְרָצָה בָנוּ וְשַׁבַּת קָדְשׁוֹ בְּאַהֲבָה וּבְרָצוֹן הִנְחִילָנוּ זִכָּרוֹן לְמַעֲשֵׂה בְרֵאשִׁית. כִּי הוּא יוֹם תְּחִלָּה לְמִקְרָאֵי קֹדֶשׁ זֵכֶר לִיצִיאַת מִצְרָיִם. כִּי בָנוּ בָחַרְתָּ וְאוֹתָנוּ קִדַּשְׁתָּ מִכָּל הָעַמִּים וְשַׁבַּת קָדְשְׁךָ בְּאַהֲבָה וּבְרָצוֹן הִנְחַלְתָּנוּ. בָּרוּךְ אַתָּה ה' מְקַדֵּשׁ הַשַּׁבָּת**
+**ויהי ערב ויהי בקר**
 
-### Transliteration (for pronunciation)
+**יום הששי. ויכלו השמים והארץ וכל צבאם.**
 
-*Vayehi erev vayehi voker yom ha-shishi*
+**ויכל אלהים ביום השביעי מלאכתו אשר עשה, וישבת ביום השביעי מכל מלאכתו אשר עשה.**
 
-*Vayechulu hashamayim vehaaretz vechol tzeva'am*
+**ויברך אלהים את יום השביעי ויקדש אתו, כי בו שבת מכל מלאכתו אשר ברא אלהים לעשות.**
 
-*Vayechal Elohim bayom hashvi'i melachto asher asa*
+**סברי מרנן ורבנן ורבותי.**
 
-*Vayishbot bayom hashvi'i mikol melachto asher asa*
+**ברוך אתה ה' אלהינו מלך העולם, בורא פרי הגפן.**
 
-*Vayevarech Elohim et yom hashvi'i vayekadesh oto*
+**ברוך אתה ה' אלהינו מלך העולם, אשר קדשנו במצותיו ורצה בנו, ושבת קדשו באהבה וברצון הנחילנו, זכרון למעשה בראשית. כי הוא יום תחלה למקראי קדש, זכר ליציאת מצרים. כי בנו בחרת ואותנו קדשת מכל העמים, ושבת קדשך באהבה וברצון הנחלתנו.**
 
-*Ki vo shavat mikol melachto asher bara Elohim la'asot*
+**ברוך אתה ה', מקדש השבת.**
 
-*Savri maranan verabanan verabotai*
+---
 
-*Baruch atah Adonai Eloheinu Melech ha'olam borei pri hagafen*
+### Transliteration (Pronunciation Guide)
 
-*Baruch atah Adonai Eloheinu Melech ha'olam asher kidshanu b'mitzvotav v'ratza vanu v'Shabbat kodsho b'ahava uvratzon hinchilanu zikaron l'ma'aseh v'reishit. Ki hu yom techilah l'mikra'ei kodesh, zecher litziat Mitzrayim. Ki vanu vacharta v'otanu kidashta mikol ha'amim v'Shabbat kodshecha b'ahava uvratzon hinchaltanu. Baruch atah Adonai mekadesh ha-Shabbat*
+*(The first line is said quietly; the rest is said aloud.)*
+
+**Vayehi erev, vayehi voker.**
+
+**Yom hashishi. Vayechulu hashamayim veha'aretz vechol tzeva'am.**
+
+**Vayechal Elohim bayom hashevi'i melachto asher asah, vayishbot bayom hashevi'i mikol melachto asher asah.**
+
+**Vayevarech Elohim et yom hashevi'i vayekadesh oto, ki vo shavat mikol melachto asher bara Elohim la'asot.**
+
+**Savri maranan verabanan verabotai.**
+
+**Baruch atah Adonai Eloheinu melech ha'olam, borei pri hagafen.**
+
+**Baruch atah Adonai Eloheinu melech ha'olam, asher kideshanu bemitzvotav veratza vanu, veShabbat kodsho be'ahava uvratzon hinchilanu, zikaron lema'aseh bereishit. Ki hu yom techilah lemikra'ei kodesh, zecher litziat Mitzrayim. Ki vanu vacharta ve'otanu kidashta mikol ha'amim, veShabbat kodshecha be'ahava uvratzon hinchaltanu.**
+
+**Baruch atah Adonai, mekadesh haShabbat.**
+
+---
 
 ### English Translation
 
-"And there was evening, and there was morning—the sixth day.
+*(Quietly:)* It was evening, and it was morning.
 
-Thus the heavens and the earth were completed, and all their hosts. On the seventh day, God finished the work that He had been doing, and He ceased on the seventh day from all the work that He had done. Then God blessed the seventh day and sanctified it, because on it He ceased from all His creative work, which God had created to fulfill its purpose.
+The sixth day. The heavens and the earth and all their hosts were completed. And on the seventh day, God completed His work which He had done, and He rested on the seventh day from all His work which He had done. And God blessed the seventh day and sanctified it, because on it He rested from all His work which God created to do.
 
-Attention, teachers, rabbis, and my friends!
+Attention, distinguished ones, rabbis, and my teachers!
 
-Blessed are You, Lord our God, King of the universe, who creates the fruit of the vine.
+Blessed are You, Lord our God, King of the Universe, who creates the fruit of the vine.
 
-Blessed are You, Lord our God, King of the universe, who has sanctified us with His commandments and has been pleased with us. You have lovingly and willingly given us Your holy Shabbat as an inheritance, a memorial of the work of creation. It is the first among our sacred days, recalling the Exodus from Egypt. For You have chosen us and sanctified us from among all peoples, and You have lovingly and willingly given us Your holy Shabbat as our heritage. Blessed are You, Lord, who sanctifies the Shabbat."
+Blessed are You, Lord our God, King of the Universe, who has sanctified us with His commandments and desired us, and has given us His holy Shabbat in love and favor as a heritage, a remembrance of the act of Creation. For it is the first among the holy festivals, a memorial of the Exodus from Egypt. For You have chosen us and sanctified us from among all the nations, and You have given us Your holy Shabbat in love and favor as a heritage.
 
-### Chinese Translation (中文翻译)
+Blessed are You, Lord, who sanctifies the Shabbat.
 
-"黄昏降临，清晨到来——第六日。
+---
 
-天与地以及其中万象，全部完成。到第七日，上帝完成了祂一直在做的工作，在第七日，祂停止了祂所做的一切工作。然后上帝祝福了第七日，使其成为圣日，因为在这一天，祂停止了祂所创造和完成的一切创造性工作。
+### Section-by-Section Explanation
 
-请诸位师长、拉比与朋友们留意！
+**1. Opening Verses from Genesis (2:1-3)**
 
-我们的上帝，宇宙的君王，您是应当称颂的，您创造了葡萄树的果实。
+The Kiddush begins by quoting the Torah's description of the very first Shabbat, when God finished creating the world and rested. By reciting these verses, we testify as witnesses to God's creation. In Jewish law, testimony must be given standing — which is why some people stand during this portion.
 
-我们的上帝，宇宙的君王，您是应当称颂的，您用诫命使我们成圣，并喜悦我们。您以爱与恩典将您神圣的安息日赐予我们作为产业，作为创世之工的纪念。这是我们圣日中的第一个，纪念出埃及。因为您从万民中拣选了我们，使我们成圣,并以爱与恩典将您神圣的安息日赐予我们作为产业。我们的上帝，使安息日成圣的那一位，您是应当称颂的。"
+**2. "Savri maranan..."** — The Invitation
 
-## Understanding the Friday Night Kiddush: Line by Line
+This Aramaic phrase means "Attention, my masters and teachers!" It's a polite way of asking everyone's permission to begin the blessing. It creates a moment of communal focus and respect.
 
-### "And there was evening, and there was morning—the sixth day" (Genesis 1:31)
+**3. "Borei pri hagafen"** — Blessing Over Wine
 
-This opening line reminds us that the Jewish day begins at sunset, not midnight. In Jewish time-keeping, each new day starts when three stars appear in the evening sky—a tradition rooted in the Creation narrative itself.
+This is the standard blessing recited before drinking wine or grape juice. It acknowledges God as the Creator who brings forth the fruit of the vine.
 
-**Cultural Parallel**: This concept resonates with traditional Chinese timekeeping systems used during the Tang Dynasty (唐朝, 618-907 CE), where the day was divided into twelve *shichen* (时辰), two-hour periods, with the cycle beginning at the *zi* hour (子时, 11 PM to 1 AM). Both systems recognize that a day is not merely defined by sunlight, but by a complete cosmic cycle.
+**4. The Main Kiddush Blessing**
 
-### "Vayechulu" - "And they were completed" (Genesis 2:1-3)
+This is the heart of Kiddush. It contains three key themes:
 
-This paragraph, taken directly from the Torah's account of Creation, is the heart of Friday night Kiddush. By reciting these verses, we become witnesses to God's creation. The Talmud teaches that anyone who recites Vayechulu on Friday night is considered a partner with God in the act of creation.
+- **Sanctification:** God has made us holy through His commandments and given us the Shabbat.
+- **Creation:** Shabbat is a memorial to the creation of the world.
+- **Exodus:** Shabbat also commemorates our liberation from slavery in Egypt.
 
-The word **vayechulu** (וַיְכֻלּוּ) comes from the root *kalah*, meaning "to complete" or "to finish." Notice it doesn't say God "stopped working"—it says He *completed* His work. This teaches us that rest (Shabbat) is not merely the absence of work, but the *completion* of work. True rest comes when our tasks are finished, not abandoned.
+The dual nature of Shabbat — as both a creation memorial and an Exodus memorial — reflects a profound truth: God is both the Creator of the natural world and the Liberator who intervenes in human history. This is similar to the Chinese concept of 天 (tiān) as both the cosmic order and the moral force that rewards justice.
 
-**Deeper Meaning**: The phrase "God finished...and He ceased" uses two different verbs (*vayechal* and *vayishbot*). *Vayechal* means to complete, while *vayishbot* means to rest or cease. This teaches that Shabbat rest has two dimensions: the cessation of physical labor and the spiritual completion that comes from stepping back to appreciate what we've accomplished.
+**5. "Mekadesh haShabbat"** — Conclusion
 
-### "God blessed the seventh day and sanctified it"
+The blessing concludes by praising God as "the One who sanctifies the Shabbat." Notably, we don't sanctify Shabbat — God does. We simply declare and recognize its inherent holiness.
 
-Why does God bless the Shabbat? The commentator Rashi (Rabbi Shlomo Yitzchaki, 1040-1105 CE, during what corresponds to China's Northern Song Dynasty/北宋, 960-1127 CE) explains that God blessed Shabbat with *manna*—the miraculous bread that fell in the desert. On Shabbat, a double portion fell so the Israelites wouldn't need to gather food on the holy day. This blessing extends to all generations: food tastes better on Shabbat, and even a simple meal feels abundant.
+---
 
-The word "sanctified" (*vayekadesh*) means God set this day apart, making it qualitatively different from all other days. Shabbat isn't just a day off—it's a window into the World to Come, a taste of perfection in an imperfect world.
+## Shabbat Day Kiddush (Saturday Morning)
 
-### "Attention, teachers, rabbis, and my friends!" (Savri maranan)
+The Shabbat morning Kiddush is shorter than the Friday night version. It is recited before lunch, after returning from synagogue. Interestingly, the morning Kiddush is of rabbinic origin (instituted by the sages), not biblical — which is why it's simpler.
 
-Before reciting the blessing over wine, the person leading Kiddush calls for everyone's attention. This Aramaic phrase (*Savri maranan verabanan verabotai*) literally means "Pay attention, my masters, my rabbis, and my teachers." It's a mark of respect, acknowledging that even in one's own home, one speaks with humility before God and the assembled guests.
+### Full Hebrew Text
 
-In many homes, this phrase is said quietly or omitted, though some maintain the custom of calling out formally. It's a beautiful reminder that Jewish ritual combines kavod (honor) with warmth.
+**ושמרו בני ישראל את השבת, לעשות את השבת לדרתם ברית עולם. ביני ובין בני ישראל אות היא לעלם, כי ששת ימים עשה ה' את השמים ואת הארץ, וביום השביעי שבת וינפש.**
 
-### The Blessing Over Wine (Borei pri hagafen)
+**זכור את יום השבת לקדשו. ששת ימים תעבד ועשית כל מלאכתך. ויום השביעי שבת לה' אלהיך, לא תעשה כל מלאכה אתה ובנך ובתך, עבדך ואמתך ובהמתך, וגרך אשר בשעריך. כי ששת ימים עשה ה' את השמים ואת הארץ, את הים ואת כל אשר בם, וינח ביום השביעי;**
 
-Wine has always held a special place in Jewish ritual. It represents joy, celebration, and abundance. The Talmud states, "There is no joy without wine" (Pesachim 109a). By sanctifying Shabbat over wine, we declare that Shabbat is not a day of mournful asceticism, but of spiritual joy.
+**על כן ברך ה' את יום השבת ויקדשהו.**
 
-**Practical Note**: While wine is traditional, grape juice is equally acceptable and widely used, especially in homes with children or those who abstain from alcohol.
+**ברוך אתה ה' אלהינו מלך העולם, בורא פרי הגפן.**
 
-### The Sanctification Blessing (Asher kidshanu)
-
-This lengthy blessing contains several key themes:
-
-1. **"Who has sanctified us with His commandments"** - God doesn't merely give us rules; He elevates us through mitzvot, making us holy.
-
-2. **"Lovingly and willingly given us Your holy Shabbat"** - The words *b'ahava uvratzon* (in love and favor) appear twice in this blessing. Shabbat is not a burden imposed upon us, but a gift given in love.
-
-3. **"A memorial of the work of creation"** - Every Shabbat, we re-enact the first Shabbat. We remember that just as God created the world in six days and rested on the seventh, we too work for six days and rest on the seventh.
-
-4. **"Recalling the Exodus from Egypt"** - Shabbat has a dual meaning: it commemorates both Creation and the Exodus. Why? Because Shabbat represents freedom. Slaves cannot rest when they choose—only free people can sanctify time.
-
-**Historical Parallel**: The dual commemoration of creation and liberation resonates with Chinese philosophical traditions. Just as Confucian thought during the Zhou Dynasty (周朝, 1046-256 BCE) emphasized both cosmic order (*tianming*, 天命) and human moral freedom, Shabbat links the cosmic order of creation with the human freedom achieved through the Exodus.
-
-5. **"For You have chosen us and sanctified us from among all peoples"** - This doesn't mean Jews are inherently superior, but rather that we have a unique mission: to be witnesses to God's presence in history, and to live according to His commandments. Being "chosen" means being given responsibility, not privilege.
-
-## The Shabbat Day Kiddush: Full Text and Translation
-
-The morning Kiddush is shorter and has a different focus. While Friday night Kiddush emphasizes Creation, the daytime Kiddush emphasizes the covenant—the eternal bond between God and Israel.
-
-### Hebrew Text (עברית)
-
-**וְשָׁמְרוּ בְנֵי יִשְׂרָאֵל אֶת הַשַּׁבָּת לַעֲשׂוֹת אֶת הַשַּׁבָּת לְדֹרֹתָם בְּרִית עוֹלָם. בֵּינִי וּבֵין בְּנֵי יִשְׂרָאֵל אוֹת הִוא לְעֹלָם כִּי שֵׁשֶׁת יָמִים עָשָׂה ה' אֶת הַשָּׁמַיִם וְאֶת הָאָרֶץ וּבַיּוֹם הַשְּׁבִיעִי שָׁבַת וַיִּנָּפַשׁ**
-
-**עַל כֵּן בֵּרַךְ ה' אֶת יוֹם הַשַּׁבָּת וַיְקַדְּשֵׁהוּ**
-
-**סַבְרִי מָרָנָן וְרַבָּנָן וְרַבּוֹתַי**
-
-**בָּרוּךְ אַתָּה ה' אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם בּוֹרֵא פְּרִי הַגָּפֶן**
+---
 
 ### Transliteration
 
-*Veshamru venei Yisrael et ha-Shabbat la'asot et ha-Shabbat ledorotam brit olam. Beini uvein benei Yisrael ot hi le'olam ki sheshet yamim asa Adonai et hashamayim ve'et ha'aretz uvayom hashvi'i shavat vayinafash*
+**Veshamru venei Yisrael et haShabbat, la'asot et haShabbat ledorotam berit olam. Beini uvein benei Yisrael ot hi le'olam, ki sheishet yamim asah Adonai et hashamayim ve'et ha'aretz, uvayom hashevi'i shavat vayinafash.**
 
-*Al ken berach Adonai et yom ha-Shabbat vayekadeshehu*
+**Zachor et yom haShabbat lekadsho. Sheishet yamim ta'avod ve'asita kol melachtecha. Veyom hashevi'i Shabbat ladonai Elohecha, lo ta'aseh chol melacha atah uvincha uvitecha, avdecha va'amatecha uvehemtecha, vegercha asher bish'arecha. Ki sheishet yamim asah Adonai et hashamayim ve'et ha'aretz, et hayam ve'et kol asher bam, vayanach bayom hashevi'i;**
 
-*Savri maranan verabanan verabotai*
+**Al ken beirach Adonai et yom haShabbat vayekadeshehu.**
 
-*Baruch atah Adonai Eloheinu Melech ha'olam borei pri hagafen*
+**Baruch atah Adonai Eloheinu melech ha'olam, borei pri hagafen.**
+
+---
 
 ### English Translation
 
-"The Children of Israel shall keep the Shabbat, observing the Shabbat throughout their generations as an everlasting covenant. It is a sign between Me and the Children of Israel forever, that in six days the Lord made the heavens and the earth, and on the seventh day He ceased work and was refreshed.
+The Children of Israel shall keep the Shabbat, observing the Shabbat throughout their generations as an eternal covenant. Between Me and the Children of Israel it is a sign forever, for in six days the Lord made the heavens and the earth, and on the seventh day He ceased from work and was refreshed.
 
-Therefore, the Lord blessed the Shabbat day and made it holy.
+Remember the Shabbat day to keep it holy. Six days you shall labor and do all your work, but the seventh day is a Shabbat to the Lord your God; you shall not do any work — you, your son, your daughter, your manservant, your maidservant, your cattle, or the stranger within your gates. For in six days the Lord made the heavens and the earth, the sea and all that is in them, and He rested on the seventh day. Therefore, the Lord blessed the Shabbat day and made it holy.
 
-Attention, teachers, rabbis, and my friends!
+Blessed are You, Lord our God, King of the Universe, who creates the fruit of the vine.
 
-Blessed are You, Lord our God, King of the universe, who creates the fruit of the vine."
+---
 
-### Chinese Translation (中文翻译)
+### Explanation
 
-"以色列子民应当守安息日,世世代代遵守安息日,作为永恒的盟约。这是我与以色列子民之间永远的记号,因为六日之内上帝造了天地,第七日祂停止工作,得到更新。
+The morning Kiddush is built around two biblical passages:
 
-因此,上帝祝福了安息日,使其成为圣日。
+**1. Exodus 31:16-17 — "Veshamru"**
 
-请诸位师长、拉比与朋友们留意!
+This passage emphasizes that Shabbat is an **eternal covenant** (ברית עולם, berit olam) between God and the Jewish people. It is called an "ot" (אות) — a sign, like a seal on a contract. This covenant is eternal, not conditional on geography or politics.
 
-我们的上帝,宇宙的君王,您是应当称颂的,您创造了葡萄树的果实。"
+**2. Exodus 20:8-11 — The Fourth Commandment**
 
-## Understanding the Shabbat Day Kiddush
+This is the actual text of the Fourth Commandment from the Ten Commandments: "Remember the Shabbat day to keep it holy." It includes the beautiful detail that not only must you rest, but so must your children, your servants, your animals, and even "the stranger within your gates" (the non-Jew living in your community). Shabbat is a gift extended to all.
 
-The Shabbat day Kiddush comes from Exodus 31:16-17, words spoken by God to Moses on Mount Sinai—during what corresponds to China's Late Shang Dynasty period (商朝晚期, approximately 1300-1046 BCE).
+Notice that the morning Kiddush emphasizes **Zachor** (remember) and **Shamor** (observe) — the two aspects of Shabbat observance.
 
-### "The Children of Israel shall keep the Shabbat"
+---
 
-The Hebrew word *veshamru* (וְשָׁמְרוּ) means both "to keep" and "to guard." We don't merely observe Shabbat passively—we actively guard it, protect it, treasure it. This guarding applies both to the commandments (not working on Shabbat) and to the atmosphere (creating a joyful, peaceful environment).
+## Practical Observance: How to Perform Kiddush
 
-### "An everlasting covenant" (brit olam)
+### Friday Night
 
-A *brit* (covenant) is more than a contract. Contracts are conditional: "If you do X, I'll do Y." Covenants are unconditional bonds. God's covenant with Israel regarding Shabbat is eternal—it doesn't depend on our perfection, but on the fundamental relationship between God and the Jewish people.
+1. **Set the table** with a white tablecloth, Shabbat candles, challah (covered), and wine/grape juice.
+2. **Light candles** (usually done by women, 18 minutes before sunset).
+3. **Return from synagogue** (or recite Kabbalat Shabbat prayers at home).
+4. **Sing "Shalom Aleichem"** and **"Eishet Chayil"** (optional but traditional).
+5. **Stand or sit** (customs vary by community).
+6. **Lift the Kiddush cup** in your right hand.
+7. **Recite the Friday night Kiddush** (as written above).
+8. **Drink at least a cheek-full** (melo lugmav) — approximately 40-80ml — within a few gulps.
+9. **Pass the cup** around, or pour for others.
+10. **Wash hands** and say the blessing "Al netilat yadayim."
+11. **Say the blessing over bread** (Hamotzi) over the challah.
+12. **Begin the Shabbat meal.**
 
-**Cultural Parallel**: This concept of an eternal covenant resonates with the Confucian value of *yi* (义, righteousness/loyalty) that transcends mere transactional relationships. Just as filial piety in Chinese tradition is not conditional on a parent's perfection, the Shabbat covenant endures regardless of human failing.
+### Shabbat Morning
 
-### "It is a sign between Me and the Children of Israel forever"
+1. **Return from synagogue** services.
+2. **Recite the Shabbat day Kiddush** over wine or grape juice.
+3. **Drink and distribute** the wine.
+4. **Wash hands, say Hamotzi,** and begin the Shabbat lunch.
 
-Shabbat is called an *ot*—a sign or symbol. Signs communicate something to others. When Jews observe Shabbat, we testify to the world that there is a Creator who made the universe and who continues to be involved in history. 
+---
 
-In a world that often feels random or meaningless, Shabbat is our weekly declaration: the universe has purpose, history has direction, and every human being is created in the image of God.
+## Cultural Connection: Kiddush and Chinese Ritual Wine Culture
 
-### "And on the seventh day He ceased work and was refreshed" (vayinafash)
+The use of wine in Jewish ritual shares interesting parallels with Chinese cultural traditions:
 
-The word *vayinafash* (וַיִּנָּפַשׁ) is unusual and beautiful. It comes from the root *nefesh*, meaning "soul." Literally, it means "He re-souled Himself" or "He was en-souled." God, who doesn't get tired, teaches us something profound: rest isn't just physical recovery. It's spiritual renewal.
+**1. Ritual Toasts**
 
-When we stop working on Shabbat, we reconnect with our *nefesh*—our soul. We remember who we are beyond what we produce. We experience ourselves as human beings, not just human doings.
+Just as Chinese banquets feature formal toasts (敬酒, jìng jiǔ) with specific etiquette — offering the cup with both hands, acknowledging elders, expressing good wishes — Kiddush is a formal ritual toast that honors God and sanctifies time.
 
-## Practical Application: How to Perform Kiddush
+**2. Family Continuity**
 
-### What You'll Need
+In traditional Chinese families, ritual wine is served at ancestral worship ceremonies and major family events (weddings, New Year, Mid-Autumn Festival). Similarly, Kiddush is a weekly family ritual that binds generations together. A grandchild hearing the same Kiddush their great-grandparents recited creates a profound sense of continuity.
 
-1. **A Kiddush cup** - Any cup can technically be used, but traditionally a special ornate cup is designated for Kiddush. It should hold at least 3.3 fluid ounces (approximately 100 ml).
+**3. Sacred Vessels**
 
-2. **Wine or grape juice** - The cup should be filled to the brim. Red wine is traditional, but any kosher wine or grape juice is acceptable.
+Just as a Chinese tea master might use a treasured Yixing teapot (宜兴紫砂壶) passed down through the family, a Kiddush cup often becomes an heirloom, engraved with names and dates, carrying the blessings of ancestors.
 
-3. **Two covered challahs** - These are placed on the table during Kiddush, covered with a cloth. (They'll be blessed and eaten after Kiddush and hand-washing.)
+**4. Symbolism of Grapes**
 
-### The Procedure
+In Chinese culture, grapes (葡萄, pútáo) symbolize abundance and fertility. In Jewish thought, grapes and wine represent joy (שִׂמְחָה, simchah) and divine blessing. Both cultures elevate this fruit beyond mere food to symbolic significance.
 
-**Friday Night:**
+---
 
-1. Stand (some sit, but standing is more common) with the Kiddush cup in your right hand.
-2. The cup should be held in your palm, supported by your fingers—some have the custom of holding it elevated, others rest it in the palm.
-3. Look at the candles briefly before beginning (if candles have been lit).
-4. Recite the full Friday night Kiddush (the entire text provided above).
-5. When you finish, remain standing and drink at least a *cheek-full* of wine—about 1.5-2 fluid ounces (approximately half the cup's minimum size).
-6. Some have the custom for everyone present to sip from the same cup; others pour from the Kiddush cup into smaller cups for others to drink.
+## Historical Context: When Did Kiddush Begin?
 
-**Shabbat Day:**
+The biblical commandment to "remember the Shabbat" (Exodus 20:8) is from the time of Moses, approximately 3,300 years ago — during what corresponds to China's Shang Dynasty (商朝, ~1600-1046 BCE). However, the specific practice of reciting Kiddush over wine developed later.
 
-1. The procedure is the same, but the text is shorter (the daytime Kiddush provided above).
-2. This is recited before the midday Shabbat meal, typically after returning from synagogue services.
+The Mishnah (edited around 200 CE, during China's Three Kingdoms period 三国时代) explicitly discusses Kiddush, indicating that the practice was already well-established by that time. The Talmud (completed around 500 CE, during China's Northern and Southern Dynasties period 南北朝, 420-589 CE) provides detailed laws about Kiddush — the size of the cup, the amount to drink, whether one can fulfill the obligation over bread, and so forth.
 
-### Who Can Make Kiddush?
+Over the centuries, different Jewish communities developed slightly different customs. Ashkenazi Jews (from Central and Eastern Europe) often stand for Kiddush; Sephardi Jews (from Spain, North Africa, and the Middle East) typically sit. Some add water to the wine; others do not. But the core text has remained remarkably stable across all communities worldwide.
 
-Traditionally, the head of the household—usually the father—recites Kiddush for the family. However, according to Jewish law, anyone obligated in the mitzvah of Kiddush can recite it. This includes:
+---
 
-- Any Jewish man over the age of 13 (bar mitzvah)
-- Any Jewish woman over the age of 12 (bat mitzvah)—though customs vary among different communities regarding women's public recitation
+## Common Questions About Kiddush
 
-If you're eating alone, you make Kiddush for yourself. If you're a guest, the host typically makes Kiddush, and you fulfill the mitzvah by listening and responding "Amen."
+**Q: Can a woman recite Kiddush?**
 
-### Common Questions
+Yes. While traditionally the male head of household recited Kiddush, the obligation to hear Kiddush applies equally to men and women. In many modern families, women recite Kiddush. In egalitarian communities, anyone at the table might lead.
 
-**Q: What if I don't have wine?**  
-A: Grape juice is perfectly acceptable and widely used. In cases where neither wine nor grape juice is available, Kiddush can be recited over two whole loaves of bread (challah), though this is less ideal.
+**Q: What if I don't have wine or grape juice?**
 
-**Q: Can I make Kiddush and then eat the meal hours later?**  
-A: No. The meal must follow immediately after Kiddush—within a few minutes. Kiddush is meant to sanctify *this meal*, creating a connection between the blessing and the eating.
+On Friday night, you can recite Kiddush over the challah (bread) instead. In that case, you wash your hands and say "Al netilat yadayim" *before* Kiddush, and then say the Hamotzi blessing instead of the wine blessing.
 
-**Q: What if I miss Kiddush on Friday night?**  
-A: You can make it up any time during Shabbat day, as long as you're about to eat a meal.
+**Q: Can children drink the Kiddush wine?**
 
-**Q: Must I understand the words to fulfill the mitzvah?**  
-A: Ideally, yes. If you don't understand Hebrew, reciting Kiddush in English (or Chinese!) is valid and meaningful. The mitzvah is to proclaim Shabbat's holiness—in whatever language you understand.
+Yes, even young children are often given a small sip. In families that prefer not to give children alcohol, they can use grape juice for everyone, or give children separate cups of grape juice.
 
-## The Deeper Meaning: Why Kiddush Matters
+**Q: What if I'm alone on Shabbat?**
 
-### Making Time Holy
+You should still recite Kiddush! Even if you're the only Jew in your city, you can sanctify Shabbat for yourself. Many Jews living in remote areas of China have kept this tradition alive in solitude.
 
-In most religions, holiness resides in places: temples, mountains, groves. Judaism teaches that holiness can also reside in *time*. Shabbat is called a "palace in time"—a cathedral we build not with stones, but with hours.
+**Q: Do I have to understand Hebrew to say Kiddush?**
 
-Kiddush is the ceremony that opens the gates to this palace. By reciting these words, we step out of ordinary time (work, stress, deadlines) and into sacred time (rest, family, connection with God).
+No. While it's beautiful to recite Kiddush in Hebrew (the original language), understanding the meaning is what matters most. You can read a translation aloud, or recite the Hebrew and then read the translation to yourself. Over time, the Hebrew words will become familiar.
 
-### Wine as Symbol
+**Q: How much wine must I drink?**
 
-Why wine? The Talmud teaches: "Wine gladdens the heart" (Psalms 104:15). Shabbat is meant to be joyful, not somber. We're not escaping from the world, but celebrating the world as God created it.
+You should drink at least a **melo lugmav** (מְלוֹ לֻגְמָיו) — "a cheek-full," which is approximately 40-86 ml, depending on the person's size. It should be drunk fairly quickly (within a few seconds), not sipped slowly throughout the meal.
 
-Wine also has another symbolism: it improves with age. The longer wine is stored properly, the richer and deeper it becomes. So too, Shabbat enriches our lives week after week, year after year. A lifetime of Shabbat observance transforms a person, deepening their spiritual wisdom like fine wine aging in a cellar.
+---
 
-**Chinese Cultural Resonance**: This symbolism parallels the Chinese tradition of *baijiu* (白酒) aging in earthenware jars—the longer the vintage, the more precious and refined the spirit. Both traditions understand that time, when sanctified, produces depth of character and richness of flavor.
+## Conclusion: More Than Words
 
-### The Rhythm of Work and Rest
+Kiddush is not just a prayer — it's a weekly ritual that transforms time itself. For six days, we work, we build, we strive. On the seventh day, we stop. We remember that we are not merely workers or producers, but human beings created in the image of God, capable of rest, reflection, and holiness.
 
-Modern life often blurs the boundaries between work and rest. We check emails on vacation, bring laptops to the bedroom, scroll through work messages on weekends. Shabbat offers a radical alternative: one day each week, we stop.
+The words of Kiddush are ancient, but their message is eternally relevant: the world was created with purpose, history is moving toward redemption, and we are chosen to be partners with God in sanctifying this world.
 
-Kiddush is the ritual that makes this stopping sacred. It's not laziness or escapism—it's intentional, consecrated rest. We declare: "For the next 25 hours, I will not create, I will not produce, I will not achieve. I will simply *be*—with my family, my community, my God, and my soul."
+For someone learning Judaism in China, Kiddush can be one of the most accessible and meaningful entry points into Shabbat observance. It requires no special skills — just wine (or grape juice), a cup, and a willingness to pause and acknowledge the sacred. You don't need a community, a rabbi, or even a synagogue. You need only the will to sanctify time.
 
-This rhythm of six days of creation followed by one day of rest mirrors the rhythm of the cosmos itself. By observing Shabbat, we align ourselves with the deepest structure of reality.
+As the great Hasidic master Rabbi Abraham Joshua Heschel wrote: "The Sabbath is a cathedral in time." Kiddush is how we open the doors and step inside.
 
-## A Chinese Philosophical Perspective: Wu Wei and Shabbat Rest
+**May your Shabbat be filled with peace, joy, and sanctity.**
 
-The concept of Shabbat rest resonates deeply with the Daoist principle of *wu wei* (无为)—often translated as "effortless action" or "non-doing." Both traditions recognize that constant striving and production are not the path to wisdom or fulfillment.
+**שַׁבָּת שָׁלוֹם — Shabbat Shalom.**
 
-*Wu wei* doesn't mean literal inactivity, but rather acting in harmony with the natural flow of things, not forcing or controlling. Shabbat, similarly, is not about collapsing in exhaustion, but about ceasing from our attempts to control and master the world. For one day, we let the world simply be, and we simply are.
+---
 
-The *Dao De Jing* (道德经), composed during what corresponds to the Spring and Autumn period (春秋时代, 770-476 BCE), teaches: "The sage does nothing, yet nothing is left undone." On Shabbat, we do nothing in terms of creative work—yet everything essential is accomplished: connection, gratitude, renewal, joy.
+## Bibliography
 
-This is why the Torah uses the word *vayinafash*—"He was refreshed" or "re-souled." True rest doesn't deplete us; it restores our deepest essence.
+1. **"Kiddush"** — Wikipedia  
+   https://en.wikipedia.org/wiki/Kiddush  
+   *(Comprehensive overview of Kiddush history, laws, customs, and variations across Jewish communities.)*
 
-## Key Takeaways
+2. **"What Is the Kiddush?"** — My Jewish Learning  
+   https://www.myjewishlearning.com/article/kiddush/  
+   *(Detailed explanation of Friday night and Shabbat day Kiddush with full Hebrew text and English translation.)*
 
-- **Kiddush sanctifies time**: It transforms ordinary hours into holy hours, proclaiming that Shabbat is qualitatively different from the rest of the week.
+3. **"Friday Night Kiddush: How To"** — Aish.com  
+   https://aish.com/friday-night-kiddush-how-to/  
+   *(Complete practical guide to performing Friday night Kiddush with step-by-step instructions, Hebrew text, transliteration, and English translation.)*
 
-- **Two Kiddushes, two themes**: Friday night emphasizes Creation; Shabbat day emphasizes Covenant. Together, they remind us of God as Creator and God as the One who chose Israel.
+4. **"Shabbat Morning Blessings: Kiddush"** — Reform Judaism  
+   https://reformjudaism.org/beliefs-practices/prayers-blessings/shabbat-morning-blessings-kiddush  
+   *(Shabbat day Kiddush text with transliteration and translation.)*
 
-- **Wine represents joy**: Shabbat is not a burden but a delight. The mitzvah is not just to rest, but to rejoice.
+5. **"Genesis 2:1-3"** — Sefaria.org  
+   https://www.sefaria.org/Genesis.2.1-3  
+   *(Original biblical text quoted in the Friday night Kiddush.)*
 
-- **Kiddush makes us witnesses**: By reciting the account of Creation each week, we testify that the universe has a Creator and that history has meaning.
+6. **"Exodus 31:16-17"** — Sefaria.org  
+   https://www.sefaria.org/Exodus.31.16-17  
+   *(Biblical source for the "Veshamru" passage in the morning Kiddush.)*
 
-- **Rest completes work**: Shabbat isn't the absence of work; it's the completion of work. Only when we stop do we see what we've accomplished.
+7. **"Exodus 20:8-11"** — Sefaria.org  
+   https://www.sefaria.org/Exodus.20.8-11  
+   *(The Fourth Commandment, recited in the Shabbat day Kiddush.)*
 
-- **Holiness in time**: Judaism teaches that time itself can be sacred. Kiddush is the ritual that opens the door to this sacred time.
+8. **"Pesachim 106a"** — Sefaria.org (Talmud)  
+   https://www.sefaria.org/Pesachim.106a  
+   *(Talmudic discussion of Kiddush laws and the distinction between evening and day Kiddush.)*
+
+9. **"Kiddush Without Wine"** — Aish.com  
+   https://aish.com/kiddush-without-wine/  
+   *(Guidance on making Kiddush when wine is not available, including alternative approaches and halachic considerations.)*
+
+10. **"What Is Kiddush?"** — Chabad.org  
+    https://www.chabad.org/library/article_cdo/aid/260252/jewish/What-Is-Kiddush.htm  
+    *(Introduction to the meaning and significance of Kiddush in Jewish practice.)*
+
+---
 
 ## Tags
 
-#Kiddush #Shabbat #Blessing #Wine #Creation #Exodus #Covenant #Prayer #ShabbatMeal #HolyTime #安息日 #祝福 #葡萄酒 #创世 #出埃及 #盟约 #祷告 #קידוש #שבת
+#Kiddush #Shabbat #ShabbatMeal #Wine #Sanctification #Blessing #FridayNight #SaturdayMorning #Torah #Creation #Exodus #Jewish Ritual #Prayer #ShabbatTable #ChallahAndWine #KiddushCup #圣化 #安息日 #葡萄酒祝福 #犹太仪式
 
 ---
+
+*Article #19 | Shabbat Section | Torah Light (Torah之光)*  
+*For questions or to connect with a Jewish community in China, see Article #65: Chabad Houses in China.*
