@@ -1,0 +1,44 @@
+{
+  "article_id": "061",
+  "category": "non-jewish-relations",
+  "title": {
+    "en": "The Noahide Laws: Judaism's Universal Moral Code",
+    "zh": "诺亚七律:犹太教的普世道德准则",
+    "he": "שבע מצוות בני נח: קוד המוסר האוניברסלי של היהדות"
+  },
+  "slug": "noahide-laws",
+  "description": {
+    "en": "An exploration of the Seven Noahide Laws—Judaism's universal ethical code for all humanity, including comparisons with Chinese philosophy.",
+    "zh": "探索诺亚七律——犹太教为全人类制定的普世道德准则，包括与中国哲学的比较。",
+    "he": "חקירה של שבע מצוות בני נח - קוד האתי האוניברסלי של היהדות לכל האנושות, כולל השוואות עם פילוסופיה סינית."
+  },
+  "keywords": [
+    "Noahide Laws",
+    "Seven Commandments",
+    "Bnei Noach",
+    "Universal Ethics",
+    "Noah",
+    "Covenant",
+    "Rainbow",
+    "Righteous Gentiles",
+    "World to Come",
+    "Confucianism",
+    "Chinese Philosophy",
+    "Tikkun Olam"
+  ],
+  "author": "Torah Light Team",
+  "date_created": "2026-03-18",
+  "date_updated": "2026-03-18",
+  "status": "published",
+  "translations": {
+    "en": true,
+    "zh": true,
+    "he": true
+  },
+  "related_articles": [
+    "065-chabad-china"
+  ],
+  "target_audience": "Mandarin-speaking learners of Judaism",
+  "difficulty_level": "intermediate",
+  "reading_time_minutes": 35
+}
