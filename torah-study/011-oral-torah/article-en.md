@@ -248,8 +248,8 @@ This is the Jewish approach to sacred text: endless study, endless discovery, en
    https://www.sefaria.org/Pirkei_Avot.1.1  
    *(The opening of the Mishnah's tractate on ethics, tracing the chain of Oral Torah transmission from Moses to the sages.)*
 
-2. **"Introduction to the Mishnah" — Chabad.org**  
-   https://www.chabad.org/library/article_cdo/aid/2088563/jewish/Introduction-to-the-Mishnah.htm  
+2. **"10 Mishnah Facts Every Jew Should Know" — Chabad.org**  
+   https://www.chabad.org/library/article_cdo/aid/6133834/jewish/10-Mishnah-Facts-Every-Jew-Should-Know.htm  
    *(Overview of the structure, history, and purpose of the Mishnah.)*
 
 3. **"What Is the Talmud?" — My Jewish Learning**  

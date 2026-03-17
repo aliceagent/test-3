@@ -132,16 +132,16 @@ The Song of the Sea offers a template for incorporating gratitude into daily lif
    https://www.sefaria.org/Rashi_on_Exodus.15  
    *(Classical 11th-century commentary explaining the deeper meanings and word choices in the Song)*
 
-3. **"Shirat HaYam: The Song of the Sea" — Chabad.org**  
-   https://www.chabad.org/parshah/article_cdo/aid/2063/jewish/The-Song-of-the-Sea.htm  
+3. **"Parting of the Red Sea" — Chabad.org**  
+   https://www.chabad.org/library/article_cdo/aid/246647/jewish/Parting-of-the-Red-Sea.htm  
    *(Overview of the song's significance and its place in Jewish prayer and thought)*
 
-4. **"Miriam and the Women: Dancing in Faith" — Aish.com**  
-   https://www.aish.com/spirituality/prayer/miriam-the-prophetess/  
+4. **"Women in the Bible #6: Miriam" — Aish.com**  
+   https://aish.com/women-in-the-bible-6-miriam/  
    *(Exploring Miriam's role and the significance of women bringing musical instruments into the desert)*
 
-5. **"The Daily Recitation of Shirat HaYam" — MyJewishLearning.org**  
-   https://www.myjewishlearning.com/article/the-song-at-the-sea/  
+5. **"Song(s) of the Sea" — MyJewishLearning.org**  
+   https://www.myjewishlearning.com/article/songs-of-the-sea/  
    *(Why Jews recite this ancient song every morning as part of daily prayers)*
 
 6. **Mechilta d'Rabbi Yishmael on Exodus 15** — Sefaria.org  

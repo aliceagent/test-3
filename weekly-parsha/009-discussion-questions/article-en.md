@@ -293,13 +293,13 @@ Welcome to the table. The Torah is waiting.
    https://www.sefaria.org/Rashi_on_Genesis.1.1  
    *(The famous opening question that models curiosity-driven Torah study)*
 
-5. **"Introduction to Chavruta Study" — My Jewish Learning**  
-   https://www.myjewishlearning.com/article/chavruta-study/  
+5. **"Havruta: Learning in Pairs" — My Jewish Learning**  
+   https://www.myjewishlearning.com/article/havruta-learning-in-pairs/  
    *(Overview of the traditional Jewish paired-learning method and the power of questions in Torah study)*
 
-6. **"The Shabbat Table as a Mikdash Me'at (Miniature Sanctuary)" — Chabad.org**  
-   https://www.chabad.org/library/article_cdo/aid/609596/jewish/The-Shabbat-Table.htm  
-   *(Exploring the spiritual significance of the Shabbat table and how it serves as a modern-day altar)*
+6. **"Ha-motzi Blessing for Bread" — Aish.com**  
+   https://aish.com/48969636/  
+   *(Exploring the spiritual significance of the Shabbat table as a personal altar)*
 
 7. **"Talmud Torah: The Centrality of Torah Study in Judaism" — Jewish Virtual Library**  
    https://www.jewishvirtuallibrary.org/talmud-torah  
