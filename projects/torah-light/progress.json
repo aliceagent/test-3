@@ -58,6 +58,7 @@
     61,
     62,
     65,
+    75,
     76,
     77,
     79
@@ -69,7 +70,7 @@
     63,
     64
   ],
-  "notes": "✅ 61/100 complete! 🎉 Article #79 (Who is Rich? Happy With Their Lot - Pirkei Avot) finished and committed! 🏃 5 writers ACTIVE (#17,24,25,63,64). Auto-healer moved #54,57,59 back to pending after timeouts.",
+  "notes": "✅ 62/100 complete! 🎉 Article #75 (Cheshbon HaNefesh - Daily Self-Reflection, Mussar) finished and verified! Strong trilingual article with Confucian parallels. 🏃 5 writers ACTIVE (#17,24,25,63,64). Auto-healer moved #54,57,59 back to pending after timeouts.",
   "failed": [
     41,
     52
@@ -88,8 +89,6 @@
     72,
     73,
     74,
-    75,
-    77,
     78,
     80,
     81,
@@ -113,6 +112,6 @@
     99,
     100
   ],
-  "last_updated": "2026-03-17T15:35:00+02:00",
+  "last_updated": "2026-03-17T15:38:00+02:00",
   "status_cron_id": "f262e9ad-2d2d-4835-9943-ff51f637901a"
 }
