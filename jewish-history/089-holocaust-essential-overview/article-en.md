@@ -19,6 +19,7 @@ This article provides an essential overview: what happened, how it happened, who
 ## What Happened: The Basic Timeline
 
 ### Phase 1: Nazi Rise to Power (1933-1939)
+*[Corresponding to the early Republic of China era, 民国时期前期]*
 
 Adolf Hitler and the Nazi Party came to power in Germany in January 1933. Their core ideology was virulently antisemitic, blaming Jews for Germany's defeat in World War I and its economic troubles during the Great Depression.
 
@@ -33,6 +34,7 @@ During this period, Jews were systematically excluded from German society—forb
 Many Jews did flee—including Albert Einstein, Sigmund Freud, and thousands of others who found refuge abroad. But most countries, tragically, refused to accept Jewish refugees. The United States maintained strict immigration quotas. Britain limited entry to Palestine. Even the 1938 Evian Conference, convened specifically to address the refugee crisis, resulted in almost no country agreeing to take in Jews fleeing Nazi persecution.
 
 ### Phase 2: World War II and Ghettoization (1939-1941)
+*[Corresponding to the early years of China's War of Resistance against Japan, 抗日战争初期]*
 
 When Germany invaded Poland in September 1939, starting World War II, three million Polish Jews came under Nazi control—the largest Jewish population in Europe. The Nazis quickly established *ghettos*—sealed-off neighborhoods where Jews were forced to live in overcrowded, unsanitary conditions with minimal food.
 
