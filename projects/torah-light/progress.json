@@ -67,7 +67,14 @@
     80,
     81,
     82,
-    87
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    95
   ],
   "in_progress": [
     17,
@@ -76,7 +83,7 @@
     63,
     64
   ],
-  "notes": "✅ 67/100 complete! 🎉 Article #87 (What is Zionism? A Jewish Perspective) finished and committed! Comprehensive trilingual article exploring Zionism from Torah roots (God's promise to Abraham and the covenant), 2,000 years of exile prayers facing Jerusalem, modern Zionist movement (Herzl, Political/Labor/Cultural/Religious streams), religious debates (pro/anti-Zionist Orthodox perspectives), contemporary meaning (Israel's right to exist, land connection, Hebrew revival, pluralistic society), Chinese parallels (Qing Dynasty collapse, national restoration movements), and historical mappings to Chinese dynasties (Shang, Zhou, Han, Song-Ming). 8 verified bibliography sources. Full DALL-E header image description (Chinese ink wash style). 🏃 5 writers ACTIVE (#17,24,25,63,64).",
+  "notes": "✅ 72/100 complete! 🎉 Article #95 (Taharat HaMishpacha: The Hidden Strength of Jewish Marriage) finished and committed! Comprehensive trilingual guide to family purity laws: monthly cycle of separation (niddah, ~12-14 days) and reunion, mikvah immersion ritual in natural water, psychological benefits (preventing 'roommate syndrome', built-in courtship, respecting body's rhythms), spiritual dimension of tumah/taharah and death/rebirth symbolism, equality in decision-making, practical guidance for finding mikvah in remote locations (natural bodies of water, travel options, building private mikvaot, rabbinic consultation). Chinese cultural parallels: 坐月子 postpartum confinement, water purification rituals, 阴阳 yin-yang cyclical philosophy of alternating phases. Historical mappings to Abraham and Sarah in Shang Dynasty (商朝, ~1600-1046 BCE). 8 verified bibliography sources. Full DALL-E header image description (stone lanterns, bridge, lotus, moon phases symbolizing separation/anticipation/reunion). Sensitive, educational tone for intimate topic. 🏃 5 writers ACTIVE (#17,24,25,63,64).",
   "failed": [
     41,
     52
@@ -98,20 +105,14 @@
     84,
     85,
     86,
-    88,
-    89,
     90,
-    91,
-    92,
-    93,
     94,
-    95,
     96,
     97,
     98,
     99,
     100
   ],
-  "last_updated": "2026-03-17T16:35:00+02:00",
+  "last_updated": "2026-03-17T18:59:00+02:00",
   "status_cron_id": "f262e9ad-2d2d-4835-9943-ff51f637901a"
 }
