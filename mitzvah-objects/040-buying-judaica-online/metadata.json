@@ -1,0 +1,66 @@
+{
+  "id": 40,
+  "title": "Buying Judaica Online: A Trusted Guide for Jews in Asia",
+  "title_zh": "在线购买犹太用品:亚洲犹太人的可靠指南",
+  "title_he": "קניית יודאיקה באינטרנט: מדריך מהימן ליהודים באסיה",
+  "section": "Mitzvah Objects",
+  "section_zh": "犹太用品",
+  "section_he": "פריטי מצווה",
+  "slug": "buying-judaica-online",
+  "description": "Where to purchase authentic mezuzot, tefillin, tallitot, and other ritual items when you live far from a Jewish community.",
+  "word_count": {
+    "en": 4200,
+    "zh": 950,
+    "he": 900
+  },
+  "tags": [
+    "Mitzvah Objects",
+    "Mezuzah",
+    "Tefillin",
+    "Tallit",
+    "Tzitzit",
+    "Judaica",
+    "Online Shopping",
+    "Jews in Asia",
+    "China",
+    "Chabad",
+    "Kosher Certification",
+    "犹太用品",
+    "经卷盒",
+    "祈祷披肩",
+    "亚洲犹太人",
+    "מזוזה",
+    "תפילין",
+    "טלית",
+    "יודאיקה",
+    "יהודים באסיה"
+  ],
+  "status": "complete",
+  "created": "2026-03-17",
+  "language_versions": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "bibliography_sources": 8,
+  "target_audience": "Jews living in Asia, converts, expats",
+  "difficulty_level": "beginner",
+  "estimated_reading_time": {
+    "en": "18 minutes",
+    "zh": "8 minutes",
+    "he": "8 minutes"
+  },
+  "related_articles": [
+    34,
+    35,
+    36,
+    39,
+    60,
+    65
+  ],
+  "cultural_parallels": [
+    "Silk Road merchants",
+    "Long-distance trade traditions",
+    "Bringing sacred objects across great distances"
+  ]
+}
