@@ -268,17 +268,17 @@ The seven middot are the tools to become that person.
    https://www.chabad.org/library/tanya/tanya_cdo/aid/1028862/jewish/Tanya.htm  
    *(Rabbi Schneur Zalman of Liadi's foundational text on the divine soul and its expression through the middot)*
 
-2. **The Kabbalistic Guide to the Seven Sefirot** — Chabad.org  
-   https://www.chabad.org/kabbalah/article_cdo/aid/380599/jewish/Sefirot.htm  
+2. **The Sefirot** — Chabad.org  
+   https://www.chabad.org/library/article_cdo/aid/361885/jewish/The-Sefirot.htm  
    *(Detailed explanation of the ten sefirot, focusing on the lower seven as character traits)*
 
-3. **Counting the Omer: A Kabbalistic Meditation** — Chabad.org  
-   https://www.chabad.org/holidays/sefirat/article_cdo/aid/3556/jewish/What-Is-the-Omer.htm  
+3. **Sefirat HaOmer - Counting of the Omer** — Chabad.org  
+   https://www.chabad.org/library/article_cdo/aid/130631/jewish/Sefirat-HaOmer.htm  
    *(Guide to using the 49 days of the Omer for focused character refinement)*
 
-4. **Likutei Moharan I:72 — The Seven Attributes** — Breslov.org  
-   https://www.breslov.org/resources/books/likutei-moharan/  
-   *(Rebbe Nachman of Breslov's teaching on how the seven middot correspond to seven types of prayers)*
+4. **What is Likutey Moharan? - The Timeless Wisdom of Breslov** — Breslov.org  
+   https://breslov.org/what-is-likutey-moharan/  
+   *(Introduction to Rebbe Nachman's foundational work and its approach to spiritual development)*
 
 5. **Mesillat Yesharim (The Path of the Just)** — Sefaria.org  
    https://www.sefaria.org/Mesillat_Yesharim  
@@ -292,15 +292,19 @@ The seven middot are the tools to become that person.
    https://www.sefaria.org/Pirkei_Avot.4  
    *(Mishnaic wisdom on humility, strength, wisdom, and honor — the practical expressions of the middot)*
 
-8. **Alan Morinis, "Everyday Holiness: The Jewish Spiritual Path of Mussar"** — The Mussar Institute  
-   https://mussarinstitute.org/about-mussar/  
+8. **What is Mussar? - The Mussar Institute**  
+   https://mussarinstitute.org/what-is-mussar/  
    *(Contemporary guide to the Mussar movement and trait-based spiritual practice)*
 
-9. **"Omer: A Counting" by Rabbi Min Kantrowitz** — Ritualwell  
-   https://www.ritualwell.org/ritual/omer-a-counting  
+9. **"Everyday Holiness: The Jewish Spiritual Path of Mussar" by Alan Morinis** — Penguin Random House  
+   https://www.penguinrandomhouse.com/books/117268/everyday-holiness-by-alan-morinis/  
+   *(Foundational modern guide to Mussar practice and character trait development)*
+
+10. **Introduction to Counting the Omer** — Ritualwell  
+   https://ritualwell.org/ritual/introduction-counting-omer/  
    *(Modern Omer counting practice guide with daily reflections on the sefirot combinations)*
 
-10. **"The Thirteen Petalled Rose" by Rabbi Adin Steinsaltz** — Amazon  
+11. **"The Thirteen Petalled Rose" by Rabbi Adin Steinsaltz** — Amazon  
     https://www.amazon.com/Thirteen-Petalled-Rose-Adin-Steinsaltz/dp/0465086322  
     *(Accessible introduction to Kabbalah, including chapters on the sefirot and their role in the human soul)*
 
