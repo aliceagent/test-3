@@ -152,7 +152,7 @@
    *(希伯来原文和翻译的《圣经》原文)*
 
 5. **"申命记6:4-9"** — Sefaria.org  
-   https://www.sefaria.org/Deuteronomy.6.4-9  
+   https://www.sefaria.org.il/Deuteronomy.6.4-9  
    *(包含经文匣诫命的示玛祈祷)*
 
 6. **"经文匣"** — 维基百科  

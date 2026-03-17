@@ -112,7 +112,7 @@
    *(סקירה חינוכית של מקורות המזוזה, חוקים ומנהגים)*
 
 3. **"דברים ו:ד-ט"** — Sefaria.org  
-   https://www.sefaria.org/Deuteronomy.6.4-9  
+   https://www.sefaria.org.il/Deuteronomy.6.4-9  
    *(הפסקה הראשונה של המזוזה המכילה תפילת שמע)*
 
 4. **"דברים יא:יג-כא"** — Sefaria.org  

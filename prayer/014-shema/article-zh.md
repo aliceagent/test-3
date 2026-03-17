@@ -186,7 +186,7 @@
    *(关于示玛祷文的基本事实,包括何时诵读、遮眼以及每段的含义)*
 
 5. **"申命记6:4-9(示玛祷文第一段)"** — Sefaria.org  
-   https://www.sefaria.org/Deuteronomy.6.4-9  
+   https://www.sefaria.org.il/Deuteronomy.6.4-9  
    *(原始希伯来文本及英文翻译和经典注释)*
 
 6. **"申命记11:13-21(示玛祷文第二段)"** — Sefaria.org  
