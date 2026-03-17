@@ -1,0 +1,104 @@
+{
+  "id": 68,
+  "title": "The Jewish Soul: Five Levels of the Neshamah",
+  "title_zh": "犹太灵魂:灵魂的五个层次",
+  "title_he": "הנשמה היהודית: חמש רמות הנשמה",
+  "section": "Philosophy",
+  "section_zh": "哲学",
+  "section_he": "פילוסופיה",
+  "slug": "068-five-levels-soul",
+  "description": "Understanding nefesh, ruach, neshamah, chayah, and yechidah — the five levels of the soul in Jewish mysticism.",
+  "description_zh": "理解内费什、鲁阿赫、内沙玛、哈亚和耶希达——犹太神秘主义中灵魂的五个层次。",
+  "description_he": "הבנת נפש, רוח, נשמה, חיה ויחידה - חמש רמות הנשמה במיסטיקה היהודית.",
+  "word_count_en": 3200,
+  "word_count_zh": 3850,
+  "word_count_he": 3100,
+  "character_count_zh": 4850,
+  "tags": [
+    "JewishSoul",
+    "Neshamah",
+    "Kabbalah",
+    "Mysticism",
+    "FiveLevels",
+    "Nefesh",
+    "Ruach",
+    "Chayah",
+    "Yechidah",
+    "Tanya",
+    "Zohar",
+    "Chassidut",
+    "Philosophy",
+    "SpiritualGrowth",
+    "DivineConnection",
+    "犹太灵魂",
+    "卡巴拉",
+    "道家",
+    "佛性",
+    "宋朝",
+    "清朝"
+  ],
+  "chinese_dynasty_references": [
+    {
+      "dynasty": "宋朝 (Song Dynasty)",
+      "years": "960-1279 CE",
+      "context": "When the Zohar was written (approximately 1280 CE)"
+    },
+    {
+      "dynasty": "清朝 (Qing Dynasty)",
+      "years": "1644-1912 CE",
+      "context": "When the Tanya was written (1796 CE)"
+    }
+  ],
+  "cultural_parallels": [
+    {
+      "concept": "Nefesh (נפש)",
+      "chinese_parallel": "气 (Qi) - life force",
+      "description": "Vital energy flowing through all living things"
+    },
+    {
+      "concept": "Ruach (רוח)",
+      "chinese_parallel": "仁义礼 (Confucian virtues)",
+      "description": "Emotional and ethical dimension of humanity"
+    },
+    {
+      "concept": "Neshamah (נשמה)",
+      "chinese_parallel": "理 (Li) - rational principle",
+      "description": "Neo-Confucian concept of the principle governing the universe"
+    },
+    {
+      "concept": "Chayah (חיה)",
+      "chinese_parallel": "道 (Dao) - mystical union",
+      "description": "Experience of becoming one with ultimate reality"
+    },
+    {
+      "concept": "Yechidah (יחידה)",
+      "chinese_parallel": "佛性 (Buddha-nature)",
+      "description": "Inherent enlightenment within every being"
+    }
+  ],
+  "bibliography_count": 8,
+  "all_urls_verified": true,
+  "historical_context_included": true,
+  "chinese_dynasty_mapping_complete": true,
+  "header_image_description_included": true,
+  "date_created": "2026-03-17",
+  "status": "completed",
+  "language_versions": {
+    "english": "article-en.md",
+    "chinese_simplified": "article-zh.md",
+    "hebrew": "article-he.md"
+  },
+  "key_figures": [
+    {
+      "name": "Rabbi Schneur Zalman of Liadi",
+      "era": "Qing Dynasty (清朝), 1796 CE",
+      "contribution": "Author of Tanya, explained the five levels of the soul"
+    }
+  ],
+  "primary_sources": [
+    "Zohar (Song Dynasty era, ~1280 CE)",
+    "Tanya by Rabbi Schneur Zalman (Qing Dynasty, 1796 CE)",
+    "Genesis 2:7",
+    "Leviticus 17:11"
+  ]
+}
