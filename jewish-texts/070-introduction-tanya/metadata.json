@@ -1,0 +1,81 @@
+{
+  "id": 70,
+  "title": "Introduction to Tanya: Chabad's Foundational Text",
+  "title_zh": "Tanya简介:Chabad派的基础文本",
+  "title_he": "מבוא לספר התניא: הטקסט היסודי של חב\"ד",
+  "section": "Jewish Texts",
+  "section_zh": "犹太文本",
+  "section_he": "טקסטים יהודיים",
+  "slug": "introduction-tanya",
+  "description": "A chapter-by-chapter overview of Tanya's first section (Likutei Amarim), written for absolute beginners.",
+  "description_zh": "对Tanya第一部分(Likutei Amarim)的逐章概述，为完全初学者撰写。",
+  "description_he": "סקירה פרק אחר פרק של החלק הראשון של התניא (ליקוטי אמרים), כתובה למתחילים מוחלטים.",
+  "author": "Torah Light Editorial Team",
+  "date_created": "2026-03-17",
+  "word_count": {
+    "en": 4200,
+    "zh": 3800,
+    "he": 3900
+  },
+  "reading_time_minutes": {
+    "en": 17,
+    "zh": 15,
+    "he": 16
+  },
+  "tags": [
+    "Tanya",
+    "Chabad",
+    "Jewish Mysticism",
+    "Kabbalah",
+    "Soul",
+    "Chassidism",
+    "Rabbi Schneur Zalman",
+    "Torah",
+    "Self-Improvement",
+    "Jewish Philosophy",
+    "Mussar",
+    "修身",
+    "清朝",
+    "Spirituality",
+    "Jewish Texts",
+    "Chinese Culture",
+    "Divine Service"
+  ],
+  "related_articles": [
+    71,
+    72,
+    73,
+    74,
+    75,
+    66,
+    67,
+    68,
+    69
+  ],
+  "difficulty": "beginner",
+  "languages": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "status": "complete",
+  "bibliography_count": 8,
+  "has_chinese_historical_context": true,
+  "has_cultural_parallels": true,
+  "chinese_dynasty_mentioned": "Qing Dynasty (清朝, 1644-1912 CE)",
+  "key_concepts": [
+    "Two Souls (Divine Soul and Animal Soul)",
+    "The Beinoni (Intermediate Person)",
+    "Joy in Spiritual Struggle",
+    "Self-Nullification (Bittul)",
+    "Cosmic Significance of Mitzvot"
+  ],
+  "target_audience": "Chinese native Mandarin speakers with no prior knowledge of Chassidic philosophy or Jewish mysticism",
+  "learning_objectives": [
+    "Understand what the Tanya is and who wrote it",
+    "Learn the concept of the two souls in every person",
+    "Understand the ideal of the Beinoni",
+    "Recognize how the Tanya's teachings apply to daily life",
+    "Appreciate the cultural parallels between Tanya and Chinese philosophy"
+  ]
+}
