@@ -1,0 +1,39 @@
+{
+  "id": 53,
+  "title": {
+    "en": "Fast Days in Judaism: When, Why, and How to Fast",
+    "zh": "犹太教的禁食日:何时、为何及如何禁食",
+    "he": "ימי צום ביהדות: מתי, למה וכיצד לצום"
+  },
+  "section": "holidays",
+  "folder": "053-fast-days-in-judaism",
+  "word_count": {
+    "en": 5247,
+    "zh": 1924,
+    "he": 2456
+  },
+  "status": "completed",
+  "created": "2026-03-17",
+  "languages": ["en", "zh", "he"],
+  "tags": [
+    "FastDays",
+    "YomKippur",
+    "TishaBav",
+    "FastOfEsther",
+    "JewishCalendar",
+    "Repentance",
+    "Teshuvah",
+    "Temples",
+    "JewishHistory",
+    "Fasting",
+    "斋戒",
+    "赎罪日",
+    "圣殿",
+    "修身",
+    "Purim",
+    "禁食",
+    "SpiritualDiscipline",
+    "JewishHolidays"
+  ],
+  "bibliography_urls_verified": false
+}
