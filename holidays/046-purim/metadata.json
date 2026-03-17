@@ -1,0 +1,52 @@
+{
+  "id": 46,
+  "title": {
+    "en": "Purim: Joy, Charity, and the Hidden Hand of God",
+    "zh": "普珥节:欢乐、慈善与神的隐藏之手",
+    "he": "פורים: שמחה, צדקה ויד ה' הנסתרת"
+  },
+  "section": "Holidays",
+  "description": "Understanding the four mitzvot of Purim: Megillah reading, mishloach manot, gifts to the poor, and the festive meal.",
+  "tags": [
+    "Purim",
+    "Esther",
+    "Mordechai",
+    "Haman",
+    "Megillah",
+    "Hidden Miracles",
+    "Divine Providence",
+    "Joy",
+    "Charity",
+    "Mishloach Manot",
+    "Matanot Laevyonim",
+    "Persian Empire",
+    "Spring and Autumn Period",
+    "Holidays",
+    "Jewish Holidays",
+    "Celebration",
+    "Giving",
+    "Unity",
+    "Costumes",
+    "Hamantaschen"
+  ],
+  "word_count": {
+    "en": 3892,
+    "zh": 3421,
+    "he": 3654
+  },
+  "chinese_historical_context": "Spring and Autumn Period (春秋时代, 770-476 BCE)",
+  "key_figures": [
+    "Esther",
+    "Mordechai",
+    "Haman",
+    "King Achashverosh"
+  ],
+  "bibliography_count": 7,
+  "status": "complete",
+  "created": "2026-03-17",
+  "language_versions": [
+    "article-en.md",
+    "article-zh.md",
+    "article-he.md"
+  ]
+}
