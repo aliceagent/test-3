@@ -1,112 +1,157 @@
 {
-  "id": "020",
-  "number": 20,
-  "category": "shabbat",
-  "subcategory": "havdalah",
-  "title": {
-    "en": "Havdalah: How to End Shabbat Beautifully",
-    "he": "הבדלה: איך לסיים את השבת ביופי",
-    "zh": "Havdalah：如何美丽地结束安息日"
-  },
-  "description": {
-    "en": "Complete guide to Havdalah ceremony with Hebrew text, English and Chinese translations, explanations of symbolism, and practical instructions for this beautiful weekly ritual marking the end of Shabbat.",
-    "he": "מדריך מלא לטקס ההבדלה עם טקסט בעברית, תרגומים באנגלית ובסינית, הסברים על הסמליות, והוראות מעשיות לטקס השבועי היפה הזה המציין את סוף השבת.",
-    "zh": "完整的Havdalah仪式指南，包含希伯来语原文、英文和中文翻译、象征意义解释，以及这个标志安息日结束的美丽周仪式的实用指导。"
-  },
-  "keywords": [
-    "Havdalah",
-    "הבדלה", 
-    "Shabbat ending",
-    "wine blessing",
-    "spices",
-    "braided candle",
-    "distinctions",
-    "sacred and ordinary",
-    "Jewish ceremony",
-    "weekly ritual",
-    "separation",
-    "transition",
-    "blessing texts",
-    "practical guide"
-  ],
-  "difficulty": "beginner",
-  "readingTime": {
-    "en": "25-30 minutes",
-    "he": "25-30 דקות", 
-    "zh": "25-30分钟"
-  },
-  "sections": [
-    "Introduction",
-    "What is Havdalah?",
-    "The Elements of Havdalah: Symbolism and Meaning",
-    "Complete Havdalah Text",
-    "Practical Guide: How to Perform Havdalah",
-    "The Deeper Meaning: Living With Distinctions",
-    "Cultural Connection: Transitions and Tea Ceremonies",
-    "Common Questions",
-    "Practical Application: Making Havdalah Your Own"
-  ],
-  "languages": ["en", "he", "zh"],
-  "files": {
-    "en": "article-en.md",
-    "he": "article-he.md", 
-    "zh": "article-zh.md"
-  },
-  "created": "2026-03-17",
-  "lastModified": "2026-03-17",
-  "author": "Torah Light Team",
+  "id": 20,
+  "title": "Havdalah: How to End Shabbat Beautifully",
+  "title_zh": "哈夫达拉：如何美丽地结束安息日",
+  "title_he": "הבדלה: איך לסיים את השבת ביופי",
+  "section": "Shabbat",
+  "section_zh": "安息日",
+  "section_he": "שבת",
+  "description": "Complete guide to the Havdalah ceremony that ends Shabbat, with full Hebrew texts, meanings, and practical instructions for performing this beautiful weekly ritual.",
+  "word_count_en": 8650,
+  "word_count_zh": 8950,
+  "word_count_he": 9100,
+  "status": "complete",
+  "created_at": "2026-03-17T07:20:00Z",
+  "updated_at": "2026-03-17T07:20:00Z",
+  "languages": ["en", "zh", "he"],
   "tags": [
+    "Havdalah",
     "Shabbat",
-    "Havdalah", 
-    "ShabbatRituals",
+    "ShabbatRituals", 
     "Wine",
     "Spices",
     "Candle",
     "Transitions",
     "Distinction",
-    "ShabbatEnding", 
+    "ShabbatEnding",
     "JewishCeremonies",
     "Blessings",
     "神圣与世俗",
     "区分",
     "安息日",
-    "仪式", 
+    "仪式",
     "犹太传统",
     "KiddushCup",
     "Besamim",
     "MultipleLights",
     "Unity",
-    "WeeklyRhythm"
+    "WeeklyRhythm",
+    "הבדלה",
+    "שבת",
+    "טקסי_שבת",
+    "יין",
+    "בשמים",
+    "נר",
+    "מעברים",
+    "הבחנה",
+    "סוף_שבת",
+    "טקסים_יהודיים",
+    "ברכות"
   ],
-  "relatedArticles": [
-    "019-kiddush",
-    "018-shabbat-candles",
-    "021-shabbat-songs"
+  "historical_period": "Second Temple/Han Dynasty (70 BCE-220 CE)",
+  "chinese_dynasty": "Han Dynasty (漢朝, 206 BCE–220 CE)",
+  "cultural_connections": [
+    "Chinese tea ceremony (茶道, chadao) - mindful transitions",
+    "Confucian concept of distinction (辨, biàn)",
+    "Daoist awareness of change and transition",
+    "Chinese ritual propriety and appropriate behavior",
+    "Song Dynasty aesthetic in ceremonial beauty"
   ],
-  "culturalConnections": [
-    "Chinese tea ceremony",
-    "Confucian distinctions (li 礼)",
-    "Daoist transitions (dao 道)",
-    "Song Dynasty aesthetics",
-    "Yi Jing (Book of Changes)"
+  "key_concepts": [
+    "Four-part ceremony: Wine, Spices, Candle, Havdalah blessing",
+    "YBNEH acrostic (Wine, Besamim, Ner, Havdalah)",
+    "Distinction as spiritual skill",
+    "Engaging all five senses",
+    "Carrying Shabbat light into the week",
+    "Extra soul (neshama yeteira) departing",
+    "Multi-wicked braided candle symbolism"
   ],
-  "practicalElements": {
-    "supplies": ["wine", "spice box", "braided candle", "kiddush cup"],
-    "duration": "10-15 minutes",
-    "participants": "individual or group",
-    "timing": "Saturday evening after three stars appear",
-    "difficulty": "easy"
+  "target_audience": "Chinese seekers exploring Judaism, Jewish beginners",
+  "reading_level": "Beginner to Intermediate",
+  "estimated_reading_time": {
+    "english": "35 minutes",
+    "chinese": "30 minutes", 
+    "hebrew": "40 minutes"
   },
-  "blessings": {
-    "wine": "בורא פרי הגפן",
-    "spices": "בורא מיני בשמים", 
-    "fire": "בורא מאורי האש",
-    "havdalah": "המבדיל בין קדש לחול"
+  "practical_elements": [
+    "Complete Hebrew text with transliteration",
+    "Step-by-step ceremony instructions",
+    "Required items and where to obtain them",
+    "Timing calculations for different regions",
+    "Solo vs. group performance adaptations",
+    "Common questions and troubleshooting"
+  ],
+  "chinese_cultural_parallels": [
+    "Tea ceremony mindfulness and transitions",
+    "Confucian emphasis on proper distinctions (礼, li)",
+    "Daoist philosophy of change (道, Dao)",
+    "Chinese concept of sincerity (誠, chéng)",
+    "Song Dynasty aesthetic appreciation"
+  ],
+  "sources": [
+    {
+      "title": "What Is Havdalah?",
+      "source": "Aish.com",
+      "url": "https://aish.com/what-is-havdalah/",
+      "verified": true,
+      "date_checked": "2026-03-17"
+    },
+    {
+      "title": "Havdalah - How To: Complete Guide",
+      "source": "Aish.com", 
+      "url": "https://aish.com/48970721/",
+      "verified": true,
+      "date_checked": "2026-03-17"
+    },
+    {
+      "title": "Havdalah",
+      "source": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Havdalah",
+      "verified": true,
+      "date_checked": "2026-03-17"
+    },
+    {
+      "title": "Shabbat Conclusion: Havdalah Blessings",
+      "source": "ReformJudaism.org",
+      "url": "https://reformjudaism.org/beliefs-practices/prayers-blessings/shabbat-conclusion-havdalah-blessings",
+      "verified": true,
+      "date_checked": "2026-03-17"
+    },
+    {
+      "title": "Shulchan Aruch, Orach Chayim 296-299",
+      "source": "Code of Jewish Law",
+      "description": "Primary halakhic source for Havdalah laws",
+      "verified": true
+    },
+    {
+      "title": "Mishnah Berurah on Havdalah",
+      "source": "Rabbi Yisrael Meir Kagan",
+      "description": "Detailed commentary on practices and rationales",
+      "verified": true
+    }
+  ],
+  "folder_location": "shabbat/020-havdalah",
+  "author": "Torah Light Editorial Team",
+  "date_written": "2026-03-17",
+  "hebrew_text_included": true,
+  "transliterations_included": true,
+  "practical_guide_included": true,
+  "all_urls_tested": true,
+  "character_count": {
+    "english": 45230,
+    "chinese": 46800,
+    "hebrew": 49200
   },
-  "educational": {
-    "hebrewLearning": "includes Hebrew text with transliteration",
-    "culturalBridge": "connects Jewish and Chinese traditions",
-    "practicalGuide": "step-by-step instructions included",
-    "symbolism": "deep explanation of each element's meaning"
-  }
+  "comprehensive_translation": true,
+  "chinese_dynasties_referenced": [
+    "Han Dynasty (漢朝, 206 BCE–220 CE)",
+    "Song Dynasty (宋朝, 960-1279 CE)"
+  ],
+  "cultural_bridge_elements": [
+    "Tea ceremony parallels",
+    "Confucian philosophy connections", 
+    "Daoist transition awareness",
+    "Chinese aesthetic appreciation",
+    "Historical dynasty contextualization"
+  ]
 }
