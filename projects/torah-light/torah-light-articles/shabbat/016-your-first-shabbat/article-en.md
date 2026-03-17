@@ -13,9 +13,13 @@ This guide will walk you through your first Shabbat step by step, explaining wha
 
 ## Historical Context
 
-Shabbat observance dates back to the very beginning of creation, when God rested on the seventh day after creating the world. The commandment to observe Shabbat was given at Mount Sinai and is one of the Ten Commandments. Throughout Jewish history, even during the most difficult times, Jews have maintained this weekly sanctuary in time.
+Shabbat observance dates back to the very beginning of creation, when God rested on the seventh day after creating the world. The commandment to observe Shabbat was given at Mount Sinai (approximately 1300 BCE, during China's Late Shang Dynasty 商朝晚期) and is one of the Ten Commandments. Throughout Jewish history, even during the most difficult times, Jews have maintained this weekly sanctuary in time.
+
+The detailed laws and discussions about Shabbat are recorded in the Talmud (compiled during the period of China's Three Kingdoms through Jin Dynasty 三国至晋朝, approximately 200-500 CE), which contains centuries of rabbinic wisdom about how to observe this sacred day.
 
 **Chinese Dynasty Context:**
+- **Late Shang Dynasty (商朝晚期, ~1300 BCE):** The era when the Torah was given at Mount Sinai, establishing the Shabbat commandment for the Jewish people
+- **Three Kingdoms-Jin Dynasty (三国至晋朝, 220-420 CE):** Period when the Talmud's discussions on Shabbat laws were being compiled and debated by rabbis
 - **Tang Dynasty (618-907 CE):** During this golden age of Chinese culture, Jewish merchants along the Silk Road were already observing Shabbat in Chinese cities
 - **Song Dynasty (960-1279 CE):** The famous Kaifeng Jewish community was fully established, maintaining Shabbat traditions while integrating into Chinese society
 - **Ming Dynasty (1368-1644 CE):** Despite assimilation pressures, Kaifeng Jews continued weekly Shabbat observance as recorded in Chinese historical documents

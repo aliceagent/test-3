@@ -84,6 +84,8 @@ The final three blessings shift the focus from requests to thanksgiving:
 
 This three-part structure—praise, request, and gratitude—teaches us how to approach God and, by extension, how to approach life. Begin with humility and recognition of something greater than yourself. Present your needs honestly. Close with gratitude, acknowledging that everything is a gift.
 
+The detailed laws and customs of the Amidah were further elaborated in the Talmud during the period roughly corresponding to China's Three Kingdoms through Jin Dynasty era (三国至晋朝, approximately 220–420 CE), when rabbis discussed questions of posture, timing, personal insertions, and the precise wording of each blessing.
+
 ## Why Silent? Why Standing?
 
 One of the most distinctive features of the Amidah is that it is recited silently (or in a whisper) and while standing with feet together. Why?
