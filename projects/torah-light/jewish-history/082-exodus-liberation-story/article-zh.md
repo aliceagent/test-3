@@ -191,7 +191,7 @@
    *出埃及记考古和历史证据的学术分析*
 
 3. **逾越节哈加达** — 晚餐的传统礼拜仪式  
-   https://www.chabad.org/holidays/passover/pesach_cdo/aid/1737/jewish/Passover-Haggadah.htm  
+   https://www.chabad.org/holidays/passover/pesach_cdo/aid/1735/jewish/Haggadah.htm  
    *每年用于在逾越节晚餐上重述出埃及记故事的仪式文本*
 
 4. **拉希评出埃及记** — 拉比所罗门·伊茨哈基（公元1040-1105年，宋朝）  

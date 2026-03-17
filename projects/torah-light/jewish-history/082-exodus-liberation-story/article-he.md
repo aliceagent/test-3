@@ -192,7 +192,7 @@
    *ניתוח מלומד של עדויות ארכיאולוגיות והיסטוריות ליציאת מצרים*
 
 3. **הגדה של פסח** — ליטורגיה מסורתית לסדר  
-   https://www.chabad.org/holidays/passover/pesach_cdo/aid/1737/jewish/Passover-Haggadah.htm  
+   https://www.chabad.org/holidays/passover/pesach_cdo/aid/1735/jewish/Haggadah.htm  
    *הטקסט הטקסי המשמש מדי שנה לספר מחדש את סיפור יציאת מצרים בסעודת פסח*
 
 4. **רש״י על שמות** — רבי שלמה יצחקי (1040-1105 לספירה, שושלת סונג)  
