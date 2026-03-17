@@ -190,6 +190,18 @@ Their legacy reminds us that the goal of disagreement should not be to eliminate
    https://www.sefaria.org/Shabbat.31a  
    *(Primary source for Hillel's famous encounter with the potential convert and the golden rule teaching.)*
 
+7. **"Hillel and Shammai"** — MyJewishLearning.com  
+   https://www.myjewishlearning.com/2013/08/28/hillel-and-shammai/  
+   *(Explores the relationship between the schools of Hillel and Shammai, their respectful disagreement, and how they maintained unity despite halachic differences.)*
+
+8. **"Unlocking Ancient Wisdom - Pirkei Avot 1:1"** — Aish.com  
+   https://aish.com/48884467/  
+   *(Comprehensive analysis of the opening mishna of Pirkei Avot, exploring the transmission of Torah and the three principles of the Men of the Great Assembly.)*
+
+9. **"Who Gave the Rabbis the Right..."** — Torah.org  
+   https://torah.org/learning/pirkei-avos-chapter1-1a/  
+   *(Detailed commentary on Pirkei Avot 1:1, explaining the authenticity of the Mishna and the transition from prophecy to rabbinic leadership.)*
+
 ## Tags
 
 #Hillel #Shammai #PirkeiAvot #BeitHillel #BeitShammai #Zugot #JewishEthics #Disagreement #GoldenRule #Patience #Standards #Talmud #Sanhedrin #WesternHan #西汉朝 #仁 #中庸 #君子 #מחלוקתלשםשמים #הללהזקן #שמאי #RespectfulDisagreement
