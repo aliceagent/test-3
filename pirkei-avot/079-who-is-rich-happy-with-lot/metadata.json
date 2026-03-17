@@ -1,0 +1,75 @@
+{
+  "id": 79,
+  "title": "Who is Rich? One Who is Happy With Their Lot — Teachings from Pirkei Avot",
+  "title_zh": "谁是富人?知足者富矣——《先贤之言》的教诲",
+  "title_he": "מי עשיר? השמח בחלקו — לימודים מפרקי אבות",
+  "section": "Pirkei Avot",
+  "section_zh": "先贤之言",
+  "section_he": "פרקי אבות",
+  "description": "Exploring the famous teachings about wisdom, strength, honor, and wealth from Pirkei Avot Chapter 4.",
+  "word_count_en": 3850,
+  "word_count_zh": 3420,
+  "word_count_he": 3650,
+  "status": "published",
+  "created": "2026-03-17T15:30:00+02:00",
+  "published": "2026-03-17T15:30:00+02:00",
+  "author": "Torah Light Writing Team",
+  "tags": [
+    "PirkeiAvot",
+    "BenZoma",
+    "Wealth",
+    "Contentment",
+    "Gratitude",
+    "知足",
+    "ZhiZu",
+    "HakaratHatov",
+    "Dayenu",
+    "JewishEthics",
+    "Daoism",
+    "Comparison",
+    "SocialComparison",
+    "Materialism",
+    "Simplicity",
+    "InnerWealth",
+    "Tzedakah",
+    "Charity",
+    "EasternHanDynasty",
+    "Talmud",
+    "Mussar",
+    "SelfMastery",
+    "Wisdom",
+    "Honor",
+    "Strength"
+  ],
+  "chinese_dynasty_references": [
+    {
+      "dynasty": "Eastern Han Dynasty",
+      "chinese": "东汉",
+      "years": "25-220 CE",
+      "context": "Period when Pirkei Avot was compiled"
+    },
+    {
+      "dynasty": "Spring and Autumn Period",
+      "chinese": "春秋时代",
+      "years": "~600 BCE",
+      "context": "When Laozi wrote the Daodejing"
+    }
+  ],
+  "key_concepts": [
+    {
+      "english": "Who is rich? One who is happy with their lot",
+      "hebrew": "איזהו עשיר? השמח בחלקו",
+      "chinese": "谁是富人?知足者"
+    },
+    {
+      "english": "Knowing contentment",
+      "hebrew": "הכרת הטוב",
+      "chinese": "知足"
+    },
+    {
+      "english": "It is enough",
+      "hebrew": "דיינו",
+      "chinese": "足矣"
+    }
+  ]
+}
