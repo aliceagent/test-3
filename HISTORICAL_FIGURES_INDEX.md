@@ -49,6 +49,12 @@ This index lists all biblical and historical figures referenced in Torah Light a
   - [Bereishit: Why God Created the World](/weekly-parsha/002-bereishit-creation/) — Commentary on Genesis 1:1
   - [What is a Dvar Torah](/weekly-parsha/001-what-is-dvar-torah/) — Referenced as classical commentator
 
+### Rabbi Moshe ben Machir (拉比摩西本马基尔 / רבי משה בן מאכיר)
+**Era:** 16th century CE | **Chinese Period:** Ming Dynasty (明朝)
+- Author of *Seder haYom*, first recorded source of Modeh Ani prayer
+- Articles:
+  - [Modeh Ani: The First Words a Jew Says Every Morning](/prayer/028-modeh-ani/) — Creator of the prayer text
+
 ### Rabbi Noson Weisz
 **Era:** Contemporary
 - Aish HaTorah scholar
