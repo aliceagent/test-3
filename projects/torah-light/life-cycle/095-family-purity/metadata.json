@@ -1,0 +1,45 @@
+{
+  "article_id": 95,
+  "title": {
+    "en": "Taharat HaMishpacha: The Hidden Strength of Jewish Marriage",
+    "zh": "家庭纯洁律法:犹太婚姻的隐藏力量",
+    "he": "טהרת המשפחה: הכוח הנסתר של הנישואין היהודיים"
+  },
+  "section": "Life Cycle",
+  "subsection": "Family Purity",
+  "folder": "life-cycle/095-family-purity",
+  "description": "An introduction to the laws of family purity and how the mikvah cycle strengthens the marital bond",
+  "word_count": {
+    "en": 4200,
+    "zh": 3950,
+    "he": 3980
+  },
+  "sources_count": 8,
+  "chinese_dynasty_references": [
+    "Shang Dynasty (商朝, ~1600-1046 BCE)"
+  ],
+  "cultural_parallels": [
+    "坐月子 (Confinement practices)",
+    "阴阳 (Yin-Yang cycles)",
+    "Water purification rituals"
+  ],
+  "key_topics": [
+    "Taharat HaMishpacha",
+    "Mikvah",
+    "Niddah",
+    "Marital intimacy",
+    "Jewish marriage",
+    "Family purity laws",
+    "Separation and reunion",
+    "Spiritual renewal"
+  ],
+  "target_audience": "Couples considering observance, those learning about Orthodox Jewish practice, individuals interested in Jewish marital customs",
+  "sensitivity_level": "high",
+  "tone": "Educational, respectful, warm, emphasizing spiritual beauty",
+  "status": "complete",
+  "author": "Torah Light Project",
+  "date_created": "2026-03-17",
+  "languages": ["en", "zh", "he"],
+  "verified_urls": true,
+  "qa_approved": false
+}
