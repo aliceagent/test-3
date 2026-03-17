@@ -1,0 +1,119 @@
+{
+  "id": 47,
+  "title": "A First-Timer's Guide to the Passover Seder",
+  "title_zh": "逾越节家宴新手指南",
+  "title_he": "מדריך למתחילים לסדר ליל פסח",
+  "section": "Passover Seder",
+  "section_zh": "逾越节家宴",
+  "section_he": "סדר ליל פסח",
+  "slug": "first-timers-seder",
+  "description": "Everything you need to run or attend your first Seder — from the Seder plate to the Four Questions to finding the afikoman.",
+  "word_count": {
+    "en": 5842,
+    "zh": 4231,
+    "he": 3897
+  },
+  "estimated_reading_time": {
+    "en": "23 minutes",
+    "zh": "17 minutes",
+    "he": "16 minutes"
+  },
+  "topics": [
+    "Passover",
+    "Seder",
+    "Haggadah",
+    "Matzah",
+    "Four Questions",
+    "Jewish Holidays",
+    "Beginner Guide",
+    "Seder Plate",
+    "Afikoman",
+    "Four Cups",
+    "Magid",
+    "Dayenu"
+  ],
+  "tags": [
+    "#Passover",
+    "#Seder",
+    "#Haggadah",
+    "#Matzah",
+    "#FourQuestions",
+    "#Exodus",
+    "#Freedom",
+    "#BeginnerGuide",
+    "#JewishHolidays",
+    "#PassoverSeder",
+    "#FourCups",
+    "#SederPlate",
+    "#Afikoman",
+    "#Magid",
+    "#Dayenu",
+    "#逾越节",
+    "#家宴",
+    "#出埃及",
+    "#פסח",
+    "#סדר",
+    "#הגדה",
+    "#מצה",
+    "#ארבעהשאלות",
+    "#יציאתמצרים",
+    "#חירות"
+  ],
+  "chinese_cultural_parallels": [
+    "Dragon Boat Festival (端午节) - commemorative foods like zongzi",
+    "Mid-Autumn Festival (中秋节) - mooncakes symbolizing family reunion",
+    "Confucian filial piety (孝, xiào) - remembering ancestors through shared ritual",
+    "Shang Dynasty (商朝) - historical context for Abraham and the Patriarchs"
+  ],
+  "chinese_historical_context": {
+    "patriarchs_period": "Shang Dynasty (商朝, ~1600-1046 BCE)",
+    "exodus_period": "Late Shang Dynasty (~1300-1260 BCE)",
+    "temple_period": "Spring and Autumn period (春秋时代, 957-586 BCE)",
+    "mishnaic_period": "Han Dynasty (汉朝, 70-200 CE)",
+    "hillel_period": "Han Dynasty (汉朝, 1st century BCE to 1st century CE)"
+  },
+  "key_concepts": [
+    "15 steps of the Seder (from Kadesh to Chad Gadya)",
+    "Six symbolic foods on the Seder plate",
+    "Four cups of wine representing four expressions of redemption",
+    "Matzah and maror as Torah-commanded foods",
+    "The Four Questions (Mah Nishtanah)",
+    "Afikoman as the final food eaten",
+    "Reclining as a symbol of freedom",
+    "Participation over observation",
+    "Memory transformed into identity"
+  ],
+  "target_audience": "Complete beginners attending or hosting their first Passover Seder, non-Jews invited to a Seder, potential converts, Chinese readers with no Jewish background",
+  "tone": "Warm, educational, practical, culturally sensitive, encouraging",
+  "special_features": [
+    "Step-by-step walkthrough of all 15 Seder stages",
+    "Detailed Seder plate explanations",
+    "Practical tips for first-timers",
+    "Cultural parallels to Chinese festivals",
+    "Chinese historical dynasty mapping",
+    "FAQ section for common beginner questions",
+    "Hosting guidance for first-time leaders"
+  ],
+  "bibliography_count": 8,
+  "sources": [
+    "Chabad.org - The Passover Haggadah",
+    "Aish.com - Passover resources",
+    "My Jewish Learning - Seder expectations",
+    "Sefaria.org - Exodus 1-15",
+    "OU Torah - The Fifteen Steps",
+    "Sefaria.org - Mishnah Pesachim 10",
+    "Chabad.org - The Four Cups",
+    "Torah.org - Hillel's Sandwich"
+  ],
+  "date_written": "2026-03-17",
+  "author": "Torah Light Editorial Team",
+  "status": "complete",
+  "language_versions": {
+    "english": "article-en.md",
+    "simplified_chinese": "article-zh.md",
+    "hebrew": "article-he.md"
+  },
+  "chinese_character_count": 5428,
+  "meets_minimum_zh_requirement": true,
+  "header_image_prompt": "A serene Chinese brushstroke (shan shui) style landscape featuring a family gathered around a low table set with symbolic foods, rendered in soft ink wash with warm sepia and gold accents. In the background, misty mountains suggest the journey from slavery to freedom. Elements include: a traditional wine cup, unleavened bread, spring greenery, and an open book with Hebrew text, all integrated into a harmonious composition that blends Jewish and East Asian artistic sensibilities. The mood is warm, contemplative, and inviting — capturing both the solemnity and joy of the Passover celebration."
+}
