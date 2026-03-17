@@ -1,0 +1,57 @@
+{
+  "id": 24,
+  "title": {
+    "en": "Is Soy Sauce Kosher? Common Asian Ingredients Under the Halachic Microscope",
+    "zh": "酱油符合犹太洁食吗?常见亚洲食材的犹太教法审视",
+    "he": "האם רוטב סויה כשר? מרכיבים אסייתיים נפוצים תחת המיקרוסקופ ההלכתי"
+  },
+  "section": "Kosher Food",
+  "folder": "kosher-food",
+  "description": "A detailed guide to the kosher status of soy sauce, rice vinegar, miso, tofu, nori, and other Asian staples.",
+  "word_count": {
+    "en": 4850,
+    "zh": 4200,
+    "he": 4150
+  },
+  "languages": ["en", "zh", "he"],
+  "status": "complete",
+  "author": "Torah Light Project",
+  "date_created": "2026-03-17",
+  "tags": [
+    "KosherFood",
+    "AsianCuisine",
+    "SoySauce",
+    "Tofu",
+    "Miso",
+    "Halacha",
+    "Kashrut",
+    "ChineseFood",
+    "JapaneseFood",
+    "BishulYisroel",
+    "Kitniyot",
+    "Passover",
+    "犹太教",
+    "清真",
+    "酱油",
+    "豆腐",
+    "味噌",
+    "犹太饮食法"
+  ],
+  "target_audience": "Chinese native Mandarin speakers, no background in Judaism",
+  "cultural_parallels": [
+    "Han Dynasty fermentation techniques vs. Second Temple period",
+    "Zhou Dynasty seaweed usage vs. Judges period",
+    "Chinese kitchen adaptation for kosher cooking"
+  ],
+  "key_concepts": [
+    "Kosher certification (hechsher)",
+    "Bishul Yisroel (Jewish cooking)",
+    "Kitniyot (legumes on Passover)",
+    "Chametz (leavened grain)",
+    "Ta'am (absorbed taste)",
+    "Pareve (neither meat nor dairy)",
+    "Mashgiach (kosher supervisor)"
+  ],
+  "bibliography_count": 5,
+  "urls_verified": true
+}
