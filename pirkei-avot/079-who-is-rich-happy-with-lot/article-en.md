@@ -162,9 +162,9 @@ You have become, in the deepest sense, truly rich.
    https://www.chabad.org/library/article_cdo/aid/2165/jewish/Ben-Zomas-Four-Questions.htm  
    *(Commentary on the four "who is" questions from Pirkei Avot)*
 
-3. **"Who is Rich? The Jewish Answer May Surprise You"** — Aish.com  
-   https://www.aish.com/spirituality/growth/who-is-rich/  
-   *(Exploration of wealth, contentment, and Jewish values)*
+3. **"From Gap to Gain: A Jewish Perspective on Happiness"** — Aish.com  
+   https://aish.com/from-gap-to-gain-a-jewish-perspective-on-happiness/  
+   *(Jewish wisdom on contentment, gratitude, and the teaching "Who is rich? One who is happy with his portion")*
 
 4. **Talmud Bavli, Shabbat 31a** — Sefaria.org  
    https://www.sefaria.org/Shabbat.31a  

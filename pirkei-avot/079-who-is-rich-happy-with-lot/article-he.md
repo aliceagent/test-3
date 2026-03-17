@@ -162,9 +162,9 @@
    https://www.chabad.org/library/article_cdo/aid/2165/jewish/Ben-Zomas-Four-Questions.htm  
    *(פירוש על ארבע שאלות "איזהו" מפרקי אבות)*
 
-3. **"מי עשיר? התשובה היהודית עשויה להפתיע אותך"** — Aish.com  
-   https://www.aish.com/spirituality/growth/who-is-rich/  
-   *(חקירה של עושר, שביעות רצון וערכים יהודיים)*
+3. **"מהמרווח להישג: נקודת מבט יהודית על אושר"** — Aish.com  
+   https://aish.com/from-gap-to-gain-a-jewish-perspective-on-happiness/  
+   *(חוכמה יהודית על שביעות רצון, הכרת הטוב והלימוד "איזהו עשיר? השמח בחלקו")*
 
 4. **תלמוד בבלי, שבת לא א** — Sefaria.org  
    https://www.sefaria.org/Shabbat.31a  
