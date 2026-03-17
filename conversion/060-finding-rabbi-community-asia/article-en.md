@@ -362,12 +362,12 @@ This is real, and hard. But remember:
    https://www.sefaria.org/  
    *(Free access to the entire Jewish library with translations)*
 
-9. **"Jewish Communities in Asia"** — World Jewish Congress  
-   https://www.worldjewishcongress.org/en/about/communities/AS  
-   *(Overview of Jewish communities across Asia)*
+9. **"Jewish Communities Worldwide"** — World Jewish Congress  
+   https://www.worldjewishcongress.org/en/about/communities  
+   *(Directory of Jewish communities globally, including Asia)*
 
-10. **"How to Find a Rabbi for Conversion"** — My Jewish Learning  
-    https://www.myjewishlearning.com/article/finding-a-sponsoring-rabbi-for-conversion/  
+10. **"How to Find a Sponsoring Rabbi for Conversion to Judaism"** — My Jewish Learning  
+    https://www.myjewishlearning.com/article/how-to-find-a-sponsoring-rabbi-for-conversion-to-judaism/  
     *(Practical advice for those seeking conversion sponsorship)*
 
 ## Tags
