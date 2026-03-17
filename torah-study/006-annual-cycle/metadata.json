@@ -1,0 +1,20 @@
+{
+  "id": 6,
+  "title": {
+    "en": "Why We Read the Torah in a One-Year Cycle",
+    "zh": "为什么我们在一年周期中阅读《托拉》",
+    "he": "למה אנחנו קוראים את התורה במחזור של שנה אחת"
+  },
+  "author": "Rabbi Jonathan Caras with Alice (AI)",
+  "date": "2026-03-17",
+  "tags": {
+    "en": ["Torah Study", "Simchat Torah", "Annual Cycle", "Parsha", "Torah", "Shmini Atzeret", "Hakafot", "Cyclical Learning", "Judaism", "Chinese Culture", "Confucianism", "Daoism", "Wisdom", "Continuous Learning"],
+    "zh": ["托拉学习", "欢庆托拉节", "年度周期", "每周部分", "托拉", "第八日集会", "Hakafot", "循环学习", "犹太教", "中国文化", "儒家", "道家", "修身", "道德经", "智慧", "持续学习"],
+    "he": ["לימוד תורה", "שמחת תורה", "מחזור שנתי", "פרשה", "תורה", "שמיני עצרת", "הקפות", "למידה מחזורית", "יהדות", "תרבות סינית", "קונפוציאניזם", "דאואיזם", "חכמה", "למידה מתמשכת"]
+  },
+  "summary": {
+    "en": "An exploration of the Jewish tradition of reading the entire Torah in a one-year cycle, from its historical origins in ancient Babylon to its spiritual significance today. The article examines why Jews finish reading Deuteronomy on Simchat Torah and immediately begin Genesis again, creating an eternal cycle of study that mirrors both Jewish calendar rhythms and Chinese philosophical concepts of cyclical learning.",
+    "zh": "探讨犹太人在一年中阅读整部《托拉》的传统，从古巴比伦的历史起源到今天的精神意义。文章探讨为什么犹太人在欢庆托拉节读完《申命记》后立即重新开始《创世记》，创造一个永恒的学习循环，既反映了犹太历法的节奏，也体现了中国哲学中循环学习的概念。",
+    "he": "בחינת המסורת היהודית של קריאת כל התורה במחזור של שנה אחת, מהמקורות ההיסטוריים בבבל העתיקה ועד המשמעות הרוחנית כיום. המאמר בוחן מדוע יהודים מסיימים לקרוא את דברים בשמחת תורה ומתחילים מיד שוב בבראשית, יוצרים מחזור נצחי של למידה המשקף הן את קצבי לוח השנה היהודי והן מושגים פילוסופיים סיניים של למידה מחזורית."
+  }
+}
