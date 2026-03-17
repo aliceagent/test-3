@@ -303,6 +303,58 @@ So fire up that wok, invite your family into the kitchen, and create memories ar
 
 ---
 
+## Bibliography
+
+1. **"Homemade Chinese Food"** — Aish.com  
+   https://aish.com/homemade-chinese-food/  
+   *(Family-friendly Chinese recipes including Wonton Soup, Asian Garlic Ginger Chicken, and Sesame Chicken. Kosher-adapted authentic Chinese cooking techniques.)*
+
+2. **"Where Exotic and Kosher Meet"** — Aish.com  
+   https://aish.com/93877509/  
+   *(Recipes from The Complete Asian Kosher Cookbook, featuring sushi, teriyaki salmon, and dipping sauces for kosher kitchens.)*
+
+3. **"Jewish Asian Fusion Recipes"** — Aish.com  
+   https://aish.com/jewish-asian-fusion-recipes/  
+   *(Creative fusion recipes combining Jewish and Asian culinary traditions with practical kosher adaptations.)*
+
+4. **"Simple Chinese Food"** — Aish.com  
+   https://aish.com/simple_chinese_food/  
+   *(Collection of easy-to-make Chinese recipes specifically designed for kosher home kitchens.)*
+
+5. **"15 Chinese Takeout Recipes to Make at Home for Jewish Christmas"** — My Jewish Learning  
+   https://www.myjewishlearning.com/the-nosher/17-chinese-takeout-recipes-to-make-at-home-for-jewish-christmas/  
+   *(Comprehensive collection of Chinese and Asian-inspired recipes adapted for home kosher cooking, including vegetarian options.)*
+
+6. **"The Jewish Chinese Love Affair Is Strong with This Hot & Sour Soup"** — My Jewish Learning  
+   https://www.myjewishlearning.com/the-nosher/the-jewish-chinese-love-affair-is-strong-with-this-hot-sour-soup/  
+   *(Recipe and cultural exploration of adapting traditional Chinese hot and sour soup for kosher kitchens using chicken instead of pork.)*
+
+7. **"Kosher 101"** — Star-K Kosher Certification  
+   https://www.star-k.org/articles/articles/keeping-kosher/164/kosher-101/  
+   *(Comprehensive introduction to kosher dietary laws and what makes food fit according to Jewish Law.)*
+
+8. **"Kosher in Brief: What Is Kosher?"** — Star-K Kosher Certification  
+   https://www.star-k.org/articles/articles/getting-certified/what-kosher/1356/kosher-in-brief/  
+   *(Clear explanation of the biblical basis and practical requirements for kosher food preparation.)*
+
+9. **"Kosher Basics - Meat, Dairy and Pareve"** — OK Kosher Certification  
+   https://www.ok.org/consumers/kosher-basics/meat-dairy-pareve/  
+   *(Essential guide to the three categories of kosher food and separation requirements crucial for Chinese cooking.)*
+
+10. **"What Is Kosher?"** — OK Kosher Certification  
+    https://www.ok.org/companies/guides/what-is-kosher/  
+    *(Overview of kosher food laws, cleanliness standards, and quality requirements for kosher certification.)*
+
+11. **Leviticus Chapter 11** — Sefaria.org  
+    https://www.sefaria.org/Leviticus.11  
+    *(Primary biblical source text on permitted and forbidden animals, ritual purity, and kosher dietary foundations.)*
+
+12. **Deuteronomy Chapter 14** — Sefaria.org  
+    https://www.sefaria.org/Deuteronomy.14  
+    *(Biblical commandment regarding separation of meat and milk, fundamental to kosher kitchen setup.)*
+
+---
+
 ## Tags
 
 #KosherFood #ChineseCuisine #KosherKitchen #Kashrut #ShabbatMeals #犹太洁食 #中餐 #文化融合 #饮食法规 #家庭料理 #TorahDietaryLaws #CulturalBridge #HomeCooking #JewishCooking #AsianFusion
