@@ -1,0 +1,31 @@
+{
+  "id": 54,
+  "title": "Rosh Chodesh: Celebrating the New Month",
+  "title_zh": "新月节:庆祝新的月份",
+  "title_he": "ראש חודש: חגיגת החודש החדש",
+  "section": "Jewish Calendar",
+  "folder": "jewish-calendar",
+  "description": "The significance of the new moon in Judaism, special prayers, and why Rosh Chodesh is traditionally a women's holiday.",
+  "word_count_en": 5024,
+  "word_count_zh": 5891,
+  "word_count_he": 5632,
+  "tags": [
+    "RoshChodesh",
+    "JewishCalendar",
+    "NewMoon",
+    "WomensHoliday",
+    "GoldenCalf",
+    "Faith",
+    "Emunah",
+    "MonthlyRenewal",
+    "HebrewMonth",
+    "JewishWomen",
+    "TempleService",
+    "Hallel",
+    "YaalehVyavo",
+    "ChodeshTov"
+  ],
+  "status": "ready_for_upload",
+  "created": "2026-03-17T11:30:00+02:00",
+  "completed": "2026-03-17T13:42:00+02:00"
+}
