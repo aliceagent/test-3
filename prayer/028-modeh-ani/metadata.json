@@ -1,0 +1,43 @@
+{
+  "article_id": 28,
+  "title": "Modeh Ani: The First Words a Jew Says Every Morning",
+  "title_zh": "Modeh Ani：犹太人每天早晨说的第一句话",
+  "title_he": "מודה אני: המילים הראשונות שיהודי אומר כל בוקר",
+  "section": "Prayer",
+  "description": "The meaning and practice of the Modeh Ani prayer, said immediately upon waking — even before getting out of bed.",
+  "author": "Torah Light AI Writer",
+  "created_date": "2026-03-17",
+  "word_counts": {
+    "english": 2100,
+    "chinese": 850,
+    "hebrew": 1400
+  },
+  "languages": ["en", "zh", "he"],
+  "historical_periods": [
+    {
+      "jewish": "Abraham's Covenant",
+      "chinese": "Shang Dynasty (商朝)",
+      "dates": "~1600-1046 BCE"
+    },
+    {
+      "jewish": "Prayer's Origin",
+      "chinese": "Ming Dynasty (明朝)",
+      "dates": "1368-1644 CE"
+    }
+  ],
+  "cultural_parallels": [
+    "Confucian daily self-examination (三省吾身)",
+    "Taoist morning qi cultivation",
+    "Buddhist merit dedication practices",
+    "Chinese filial piety traditions (孝)"
+  ],
+  "tags": [
+    "ModehAni", "Prayer", "MorningPractice", "Gratitude", "感恩",
+    "JewishWisdom", "Daily", "Routine", "Mindfulness", "正念",
+    "ChineseTradition", "Confucius", "孔子", "Spirituality",
+    "Awakening", "Renewal", "MingDynasty", "ShangDynasty", "商朝"
+  ],
+  "status": "draft_complete",
+  "target_folder": "prayer",
+  "filename_base": "028-modeh-ani"
+}
