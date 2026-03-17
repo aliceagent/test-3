@@ -272,7 +272,7 @@
 **הקשר היסטורי:**
 
 11. **"הגדרת חסידות"** — Chabad.org  
-    https://www.chabad.org/library/article_cdo/aid/6214337/jewish/1-Defining-Chassidus.htm  
+    https://www.chabad.org/library/article_cdo/aid/1600969/jewish/Chassidut.htm  
     *(כיצד הפילוסופיה החסידית קשורה לארבעת הממדים של פַּרְדֵּס)*
 
 **מקבילות סיניות:**

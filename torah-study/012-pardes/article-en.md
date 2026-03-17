@@ -272,7 +272,7 @@ Welcome to the *pardes*.
 **Historical Context:**
 
 11. **"Defining Chassidus"** — Chabad.org  
-    https://www.chabad.org/library/article_cdo/aid/6214337/jewish/1-Defining-Chassidus.htm  
+    https://www.chabad.org/library/article_cdo/aid/1600969/jewish/Chassidut.htm  
     *(How Chassidic philosophy relates to the four dimensions of PaRDeS)*
 
 **Chinese Parallels:**
