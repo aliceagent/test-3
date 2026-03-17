@@ -1,0 +1,69 @@
+{
+  "id": 73,
+  "title": "Mussar and Confucianism: Parallel Paths to Self-Improvement",
+  "title_zh": "穆萨尔与儒家思想:修身之路的平行轨迹",
+  "title_he": "מוסר וקונפוציאניזם: שבילים מקבילים לשיפור עצמי",
+  "section": "Mussar",
+  "folder": "mussar",
+  "description": "A fascinating comparison between Jewish mussar teachings and Confucian self-cultivation, finding common ground between two ancient traditions.",
+  "word_count": {
+    "en": 4200,
+    "zh": 3800,
+    "he": 3900
+  },
+  "languages": ["en", "zh", "he"],
+  "status": "completed",
+  "created": "2026-03-17T13:35:00+02:00",
+  "completed": "2026-03-17T13:42:00+02:00",
+  "tags": [
+    "#Mussar",
+    "#Confucianism",
+    "#CharacterDevelopment",
+    "#SelfCultivation",
+    "#修身",
+    "#儒家",
+    "#Ethics",
+    "#JewishWisdom",
+    "#ChinesePhilosophy",
+    "#VirtueEthics",
+    "#PersonalGrowth",
+    "#PirkeiAvot",
+    "#Middot",
+    "#RenYiLi",
+    "#TikkunOlam",
+    "#XiuShen",
+    "#ComparativePhilosophy",
+    "#MusarMovement",
+    "#孔子",
+    "#מוסר"
+  ],
+  "historical_figures": [
+    {
+      "name": "Rabbi Yisrael Salanter",
+      "name_he": "רבי ישראל סלנטר",
+      "name_zh": "拉比伊斯拉埃尔·萨兰特",
+      "era": "1809-1883 (Late Qing Dynasty 清朝)",
+      "role": "Founder of the Mussar movement"
+    },
+    {
+      "name": "Confucius",
+      "name_he": "קונפוציוס",
+      "name_zh": "孔子",
+      "era": "551-479 BCE (Spring and Autumn period 春秋时代, corresponds to end of First Temple period)",
+      "role": "Founder of Confucianism"
+    },
+    {
+      "name": "Hillel",
+      "name_he": "הלל",
+      "name_zh": "希勒尔",
+      "era": "~110 BCE - 10 CE (Han Dynasty 汉朝)",
+      "role": "Jewish sage quoted in Pirkei Avot"
+    }
+  ],
+  "chinese_dynasties_referenced": [
+    "清朝 (Qing Dynasty, 1644-1912) - Era of Rabbi Yisrael Salanter",
+    "春秋时代 (Spring and Autumn period, 770-476 BCE) - Era of Confucius",
+    "汉朝 (Han Dynasty, 206 BCE - 220 CE) - Era of Hillel"
+  ],
+  "bibliography_count": 8
+}
