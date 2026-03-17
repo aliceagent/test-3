@@ -1,0 +1,30 @@
+{
+  "id": 15,
+  "title": {
+    "en": "Torah Reading in the Synagogue: What's Happening and Why",
+    "zh": "犹太会堂中的律法诵读:发生了什么,为什么重要",
+    "he": "קריאת התורה בבית הכנסת: מה קורה ולמה"
+  },
+  "section": "Torah Study",
+  "folder": "torah-study/015-torah-reading",
+  "word_count": {
+    "en": 3847,
+    "zh": 2156,
+    "he": 2789
+  },
+  "status": "complete",
+  "research_sources": [
+    "Aish.com",
+    "Chabad.org",
+    "Sefaria.org",
+    "My Jewish Learning"
+  ],
+  "chinese_parallels": [
+    "Imperial edict ceremonies in ancient China",
+    "Western Zhou Dynasty (1046-771 BCE) - time of Moses establishing Torah reading",
+    "Western Han Dynasty (202 BCE-9 CE) - time of Haftarah tradition beginning",
+    "Eastern Han Dynasty (25-220 CE) - time of Temple destruction"
+  ],
+  "created": "2026-03-17T04:40:00Z",
+  "author": "Torah Light Writer Agent #15"
+}
