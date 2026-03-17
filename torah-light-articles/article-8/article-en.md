@@ -174,8 +174,8 @@ Their legacy reminds us that the goal of disagreement should not be to eliminate
    https://www.myjewishlearning.com/article/hillel/  
    *(Biographical information about Hillel the Elder, famous stories including the convert and golden rule teaching, and explanation of why Hillel's school generally won their disputes.)*
 
-3. **"Hillel and Shammai"** — Chabad.org  
-   https://www.chabad.org/library/article_cdo/aid/2832622/jewish/Hillel-and-Shammai.htm  
+3. **"Hillel and Shammai"** — JewishHistory.org  
+   https://www.jewishhistory.org/hillel-and-shammai/  
    *(Analysis of the different characteristics of both schools, explaining how Hillel's kindness led to lenient rulings while Shammai's passion led to stringent ones.)*
 
 4. **"Pirkei Avot 1:12-15"** — Sefaria.org  
