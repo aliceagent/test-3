@@ -271,7 +271,7 @@ https://dao-world.org/2023/08/14/about-fasting-and-purification-in-daoism/
 *(Comparison point for understanding Chinese fasting traditions)*
 
 **5. "Bigu (Grain Avoidance)"** — Wikipedia  
-https://en.wikipedia.org/wiki/Bigu_(grain_avoidance)  
+https://en.wikipedia.org/wiki/Bigu_%28grain_avoidance%29  
 *(Background on Taoist fasting practices for cultural context)*
 
 ---
