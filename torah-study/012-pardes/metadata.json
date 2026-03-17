@@ -1,0 +1,20 @@
+{
+  "id": 12,
+  "title": {
+    "en": "PaRDeS: The Four Levels of Torah Interpretation",
+    "zh": "PaRDeS：托拉解读的四个层次",
+    "he": "פַּרְדֵּס: ארבע רמות פרשנות התורה"
+  },
+  "author": "Rabbi Jonathan Caras with Alice (AI)",
+  "date": "2024-03-17",
+  "tags": {
+    "en": ["PaRDeS", "Torah interpretation", "hermeneutics", "Jewish scholarship", "Pshat", "Remez", "Drash", "Sod", "mysticism", "Kabbalah", "Oral Torah", "Chinese parallels", "Confucian", "Daoist"],
+    "zh": ["PaRDeS", "托拉解读", "释经学", "犹太学术", "פשט", "רמז", "דרש", "סוד", "神秘主义", "卡巴拉", "口传托拉", "中国对照", "儒家", "道家"],
+    "he": ["פרדס", "פרשנות התורה", "הרמנויטיקה", "חכמת ישראל", "פשט", "רמז", "דרש", "סוד", "מיסטיקה", "קבלה", "תורה שבעל פה", "מקבילות סיניות", "קונפוציאנית", "דאואיסטית"]
+  },
+  "summary": {
+    "en": "An exploration of the PaRDeS framework - the four levels of Torah interpretation in Jewish tradition: Pshat (literal meaning), Remez (hints), Drash (homiletic interpretation), and Sod (mystical secrets). The article explains how this systematic approach to sacred text emerged during the medieval period and became foundational to Jewish study, with illuminating parallels to Chinese textual traditions.",
+    "zh": "探索PaRDeS框架——犹太传统中托拉解读的四个层次：Pshat（字面意义）、Remez（暗示）、Drash（训诫解释）和Sod（神秘奥义）。文章解释了这种解读圣典的系统性方法如何在中世纪时期出现并成为犹太学习的基础，并与中国文本传统进行了启发性的对比。",
+    "he": "חקירה של מסגרת הפַּרְדֵּס - ארבע רמות פרשנות התורה במסורת היהודית: פשט (משמעות מילולית), רמז (רמזים), דרש (פרשנות הומילטית) וסוד (סודות מיסטיים). המאמר מסביר כיצד הגישה השיטתית הזו לטקסט קדוש הופיעה בתקופת ימי הביניים והפכה ליסודית ללימוד היהודי, עם מקבילות מאירות עיניים למסורות טקסטואליות סיניות."
+  }
+}
