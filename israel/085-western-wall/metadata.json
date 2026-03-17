@@ -1,0 +1,69 @@
+{
+  "id": 85,
+  "title": {
+    "en": "The Western Wall: Why Jews Pray at an Ancient Stone Wall",
+    "zh": "西墙：犹太人为何在古老的石墙前祈祷",
+    "he": "הכותל המערבי: למה יהודים מתפללים ליד חומת אבן עתיקה"
+  },
+  "section": "Israel",
+  "folder": "israel",
+  "description": "The history and significance of the Kotel — the last remnant of the Temple — and the customs of visiting it.",
+  "word_count": {
+    "en": 3200,
+    "zh": 2800,
+    "he": 2900
+  },
+  "languages": ["en", "zh", "he"],
+  "status": "completed",
+  "author": "Torah Light Writing Team",
+  "date_created": "2026-03-17",
+  "tags": [
+    "WesternWall",
+    "Kotel",
+    "Jerusalem",
+    "Israel",
+    "HolyTemple",
+    "SecondTemple",
+    "JewishHistory",
+    "TishaBav",
+    "Redemption",
+    "Prayer",
+    "西墙",
+    "耶路撒冷",
+    "圣殿",
+    "犹太历史",
+    "SacredSites",
+    "Pilgrimage",
+    "汉朝",
+    "唐朝",
+    "周朝"
+  ],
+  "bibliography_count": 8,
+  "chinese_parallels": [
+    "Sacred mountains and pilgrimage (Mount Tai 泰山)",
+    "Scholar's rocks tradition (供石) - stones holding memory",
+    "Continuity across dynasties parallel to Great Wall symbolism"
+  ],
+  "historical_periods": [
+    {
+      "jewish": "King Solomon's Temple",
+      "dates": "~1000 BCE",
+      "chinese": "Western Zhou Dynasty (西周, ~1046-771 BCE)"
+    },
+    {
+      "jewish": "First Temple destruction",
+      "dates": "586 BCE",
+      "chinese": "Spring and Autumn period (春秋时代)"
+    },
+    {
+      "jewish": "Second Temple destruction",
+      "dates": "70 CE",
+      "chinese": "Eastern Han Dynasty (东汉, 25-220 CE)"
+    },
+    {
+      "jewish": "Muslim conquest of Jerusalem",
+      "dates": "637 CE",
+      "chinese": "Early Tang Dynasty (唐朝, 618-907 CE)"
+    }
+  ]
+}
