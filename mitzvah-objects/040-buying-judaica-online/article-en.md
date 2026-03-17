@@ -273,7 +273,7 @@ Living in Asia doesn't mean you're cut off from authentic Jewish practice. With 
 
 Start small: order a mezuzah and a siddur. Connect with your local Chabad House or Jewish community. As you grow in your observance, you'll learn which vendors you trust and which items are worth the investment.
 
-The journey of bringing sacred objects into your home mirrors the ancient journeys of Jewish merchants along the Silk Road — connecting distant communities and keeping traditions alive across vast distances. Today, you're part of that same story.
+The journey of bringing sacred objects into your home mirrors the ancient journeys of Jewish merchants along the Silk Road during the Han Dynasty (汉朝, 206 BCE–220 CE) and Tang Dynasty (唐朝, 618–907 CE) — connecting distant communities and keeping traditions alive across vast distances. Today, you're part of that same story.
 
 ## Key Takeaways
 

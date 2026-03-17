@@ -41,6 +41,7 @@ When Germany invaded Poland in September 1939, starting World War II, three mill
 The Warsaw Ghetto held over 400,000 Jews in an area of just 1.3 square miles. Starvation, disease, and forced labor killed hundreds of thousands even before the mass extermination began.
 
 ### Phase 3: The "Final Solution" (1941-1945)
+*[Corresponding to the height of China's War of Resistance and the end of the Republic of China era on the mainland, 抗日战争高峰至民国时期结束]*
 
 In 1941, the Nazis made the decision to implement what they called the "Final Solution to the Jewish Question" (*Endlösung der Judenfrage*)—the complete physical annihilation of all Jews in Europe.
 
