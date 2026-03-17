@@ -1,7 +1,11 @@
 "use client";
 
 import { Link, usePathname } from "@/i18n/navigation";
-import { useTranslations } from "next-intl";
+import { useTranslations, useLocale } from "next-intl";
+import { useState, useEffect } from "react";
+import ReactMarkdown from "react-markdown";
+import remarkGfm from "remark-gfm";
+import { supabase } from "@/lib/supabase";
 import ArticleFeedback from "./ArticleFeedback";
 
 interface ContentSection {
@@ -21,6 +25,22 @@ interface ContentPageProps {
   relatedLinks?: { href: string; labelKey: string; labelNs: string }[];
 }
 
+interface Article {
+  id: number;
+  section: string;
+  title_en: string;
+  title_zh: string;
+  title_he: string;
+  body_en: string;
+  body_zh: string;
+  body_he: string;
+}
+
+// Map namespace camelCase to section slug
+function namespaceToSlug(namespace: string): string {
+  return namespace.replace(/([A-Z])/g, "-$1").toLowerCase();
+}
+
 export default function ContentPage({
   namespace,
   titleKey,
@@ -30,7 +50,37 @@ export default function ContentPage({
 }: ContentPageProps) {
   const t = useTranslations(namespace);
   const tCommon = useTranslations("common");
+  const locale = useLocale();
   const pathname = usePathname();
+  const [articles, setArticles] = useState<Article[]>([]);
+
+  useEffect(() => {
+    let cancelled = false;
+    const slug = namespaceToSlug(namespace);
+    supabase
+      .from("articles")
+      .select("*")
+      .eq("section", slug)
+      .order("created_at", { ascending: true })
+      .then(({ data }) => {
+        if (!cancelled && data) setArticles(data);
+      });
+    return () => {
+      cancelled = true;
+    };
+  }, [namespace]);
+
+  function getArticleBody(article: Article): string {
+    if (locale === "zh") return article.body_zh || article.body_en;
+    if (locale === "he") return article.body_he || article.body_en;
+    return article.body_en;
+  }
+
+  function getArticleTitle(article: Article): string {
+    if (locale === "zh") return article.title_zh || article.title_en;
+    if (locale === "he") return article.title_he || article.title_en;
+    return article.title_en;
+  }
 
   return (
     <div className="max-w-4xl mx-auto px-4 py-8">
@@ -58,6 +108,16 @@ export default function ContentPage({
                 className="text-[var(--color-primary-light)] hover:text-[var(--color-primary)] text-sm hover:underline"
               >
                 {t(section.titleKey)}
+              </a>
+            </li>
+          ))}
+          {articles.map((article) => (
+            <li key={`toc-article-${article.id}`}>
+              <a
+                href={`#article-${article.id}`}
+                className="text-[var(--color-primary-light)] hover:text-[var(--color-primary)] text-sm hover:underline"
+              >
+                {getArticleTitle(article)}
               </a>
             </li>
           ))}
@@ -152,6 +212,53 @@ export default function ContentPage({
             />
           </article>
         ))}
+
+        {/* Supabase Articles with Markdown Rendering */}
+        {articles.map((article) => {
+          const body = getArticleBody(article);
+          const title = getArticleTitle(article);
+          if (!body && !title) return null;
+
+          return (
+            <article
+              key={`article-${article.id}`}
+              id={`article-${article.id}`}
+              className="scroll-mt-20 border-b border-[var(--color-cream-dark)] pb-10 last:border-0"
+              dir={locale === "he" ? "rtl" : "ltr"}
+            >
+              <h2 className="text-2xl font-bold text-[var(--color-primary)] mb-4 flex items-center gap-2">
+                <span className="text-[var(--color-gold)]">✡</span>
+                {title}
+              </h2>
+
+              <div className="prose prose-lg max-w-none text-[var(--color-text)] prose-headings:text-[var(--color-primary)] prose-a:text-[var(--color-primary-light)] prose-img:rounded-xl prose-img:shadow-md prose-blockquote:border-[var(--color-gold)] prose-strong:text-[var(--color-primary)]">
+                <ReactMarkdown
+                  remarkPlugins={[remarkGfm]}
+                  components={{
+                    img: ({ src, alt, ...props }) => (
+                      // eslint-disable-next-line @next/next/no-img-element
+                      <img
+                        src={src}
+                        alt={alt || ""}
+                        loading="lazy"
+                        className="rounded-xl shadow-md max-w-full h-auto my-4"
+                        {...props}
+                      />
+                    ),
+                  }}
+                >
+                  {body}
+                </ReactMarkdown>
+              </div>
+
+              <ArticleFeedback
+                sectionId={`${namespace}-article-${article.id}`}
+                sectionTitle={title}
+                pageUrl={typeof window !== "undefined" ? `${window.location.origin}${pathname}#article-${article.id}` : undefined}
+              />
+            </article>
+          );
+        })}
       </div>
 
       {/* Related Topics */}

@@ -2,6 +2,8 @@
 
 import { useTranslations } from "next-intl";
 import { useState, useEffect } from "react";
+import ReactMarkdown from "react-markdown";
+import remarkGfm from "remark-gfm";
 import { supabase } from "@/lib/supabase";
 
 interface Article {
@@ -64,6 +66,7 @@ export default function AdminPage() {
   const [showSaved, setShowSaved] = useState(false);
   const [activeTab, setActiveTab] = useState<"en" | "zh" | "he">("en");
   const [loading, setLoading] = useState(false);
+  const [showPreview, setShowPreview] = useState(false);
   const [refreshKey, setRefreshKey] = useState(0);
 
   useEffect(() => {
@@ -303,30 +306,63 @@ export default function AdminPage() {
           </div>
 
           <div>
-            <label className="block text-sm font-medium mb-1">
-              {t("articleBody")} (
-              {activeTab === "en"
-                ? "English"
-                : activeTab === "zh"
-                ? "中文"
-                : "עברית"}
-              )
-            </label>
-            <textarea
-              value={
-                editing[`body_${activeTab}` as keyof Article] as string
-              }
-              onChange={(e) =>
-                setEditing({
-                  ...editing,
-                  [`body_${activeTab}`]: e.target.value,
-                })
-              }
-              rows={15}
-              className="w-full px-4 py-2 border rounded-lg text-sm font-mono"
-              dir={activeTab === "he" ? "rtl" : "ltr"}
-              placeholder="You can use HTML or plain text. Supports <h2>, <h3>, <p>, <ul>, <li>, <strong>, <em> tags."
-            />
+            <div className="flex items-center justify-between mb-1">
+              <label className="block text-sm font-medium">
+                {t("articleBody")} (
+                {activeTab === "en"
+                  ? "English"
+                  : activeTab === "zh"
+                  ? "中文"
+                  : "עברית"}
+                )
+              </label>
+              <button
+                type="button"
+                onClick={() => setShowPreview(!showPreview)}
+                className="text-xs px-3 py-1 rounded-full border hover:bg-gray-50 transition-colors"
+              >
+                {showPreview ? "Write" : "Preview"}
+              </button>
+            </div>
+
+            {showPreview ? (
+              <div
+                className="w-full min-h-[360px] px-4 py-3 border rounded-lg text-sm bg-white prose prose-sm max-w-none prose-headings:text-[var(--color-primary)] prose-img:rounded-xl prose-blockquote:border-[var(--color-gold)]"
+                dir={activeTab === "he" ? "rtl" : "ltr"}
+              >
+                <ReactMarkdown remarkPlugins={[remarkGfm]}>
+                  {(editing[`body_${activeTab}` as keyof Article] as string) ||
+                    "*No content yet*"}
+                </ReactMarkdown>
+              </div>
+            ) : (
+              <textarea
+                value={
+                  editing[`body_${activeTab}` as keyof Article] as string
+                }
+                onChange={(e) =>
+                  setEditing({
+                    ...editing,
+                    [`body_${activeTab}`]: e.target.value,
+                  })
+                }
+                rows={15}
+                className="w-full px-4 py-2 border rounded-lg text-sm font-mono"
+                dir={activeTab === "he" ? "rtl" : "ltr"}
+                placeholder="Write in Markdown. Examples:&#10;## Heading&#10;**bold** *italic*&#10;- bullet list&#10;![alt text](https://example.com/image.jpg)&#10;[link text](https://example.com)&#10;> blockquote"
+              />
+            )}
+
+            <div className="mt-2 text-xs text-[var(--color-text-light)] bg-[var(--color-bg-alt)] rounded-lg p-3">
+              <span className="font-medium">Markdown supported:</span>{" "}
+              <code className="bg-gray-200 px-1 rounded">## Heading</code>{" "}
+              <code className="bg-gray-200 px-1 rounded">**bold**</code>{" "}
+              <code className="bg-gray-200 px-1 rounded">*italic*</code>{" "}
+              <code className="bg-gray-200 px-1 rounded">![alt](url)</code>{" "}
+              <code className="bg-gray-200 px-1 rounded">[link](url)</code>{" "}
+              <code className="bg-gray-200 px-1 rounded">- list</code>{" "}
+              <code className="bg-gray-200 px-1 rounded">&gt; quote</code>
+            </div>
           </div>
 
           <div className="flex gap-2">
