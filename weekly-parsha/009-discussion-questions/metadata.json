@@ -1,0 +1,107 @@
+{
+  "id": 9,
+  "title": "Five Discussion Questions for Every Parsha (A Family Template)",
+  "title_zh": "每周妥拉篇章的五个讨论问题(家庭模板)",
+  "title_he": "חמש שאלות דיון לכל פרשת שבוע (תבנית משפחתית)",
+  "section": "Weekly Parsha",
+  "folder": "weekly-parsha",
+  "description": "A reusable framework for creating meaningful Shabbat table discussions from any weekly Torah portion.",
+  "word_count": {
+    "en": 4856,
+    "zh": 1846,
+    "he": 3245
+  },
+  "languages": ["en", "zh", "he"],
+  "status": "complete",
+  "created_date": "2026-03-17",
+  "tags": [
+    "WeeklyParsha",
+    "TorahStudy",
+    "ShabbatTable",
+    "FamilyLearning",
+    "JewishEducation",
+    "DvarTorah",
+    "Questions",
+    "ChineseJewishParallels",
+    "Confucianism",
+    "修身",
+    "家教",
+    "Discussion",
+    "BeginnerFriendly",
+    "Chavruta",
+    "ParshaQuestions",
+    "TorahDiscussion",
+    "FiveQuestions",
+    "ShabbatConversation",
+    "JewishFamily",
+    "RamBam",
+    "Rashi",
+    "宋朝",
+    "SongDynasty",
+    "明朝",
+    "MingDynasty",
+    "Learning",
+    "家庭教育"
+  ],
+  "chinese_parallels": [
+    "Confucian family discussion tradition (Ming & Qing dynasties)",
+    "修身 (xiūshēn - self-cultivation) concept",
+    "家教 (jiājiào - family teaching) at mealtimes",
+    "Han Dynasty scholarly text questioning methodology",
+    "Four Books and Five Classics family study sessions"
+  ],
+  "bibliography": [
+    {
+      "title": "Shabbos Talk",
+      "source": "Aish.com",
+      "url": "https://aish.com/shabbos_talk/",
+      "description": "Practical guide to sparking meaningful conversation at the Shabbat table, including ice-breaker questions and Torah discussion tips"
+    },
+    {
+      "title": "Weekly Torah Portion",
+      "source": "Aish.com",
+      "url": "https://aish.com/weekly-torah-portion/",
+      "description": "Comprehensive resource for parsha summaries, commentaries, and family-friendly Torah insights"
+    },
+    {
+      "title": "Pirkei Avot 1:6",
+      "source": "Sefaria.org",
+      "url": "https://www.sefaria.org/Pirkei_Avot.1.6",
+      "description": "Foundational teaching on collaborative learning"
+    },
+    {
+      "title": "Rashi on Genesis 1:1",
+      "source": "Sefaria.org",
+      "url": "https://www.sefaria.org/Rashi_on_Genesis.1.1",
+      "description": "The famous opening question that models curiosity-driven Torah study"
+    },
+    {
+      "title": "Introduction to Chavruta Study",
+      "source": "My Jewish Learning",
+      "url": "https://www.myjewishlearning.com/article/chavruta-study/",
+      "description": "Overview of the traditional Jewish paired-learning method and the power of questions in Torah study"
+    },
+    {
+      "title": "The Shabbat Table as a Mikdash Me'at (Miniature Sanctuary)",
+      "source": "Chabad.org",
+      "url": "https://www.chabad.org/library/article_cdo/aid/609596/jewish/The-Shabbat-Table.htm",
+      "description": "Exploring the spiritual significance of the Shabbat table and how it serves as a modern-day altar"
+    },
+    {
+      "title": "Talmud Torah: The Centrality of Torah Study in Judaism",
+      "source": "Jewish Virtual Library",
+      "url": "https://www.jewishvirtuallibrary.org/talmud-torah",
+      "description": "Historical and theological overview of the commandment to study Torah and transmit it to the next generation"
+    }
+  ],
+  "key_concepts": [
+    "Five-question framework for parsha discussion",
+    "Importance of questions in Jewish learning",
+    "Chavruta (paired learning) methodology",
+    "Shabbat table as beit midrash (house of learning)",
+    "Application of Torah to daily life",
+    "Multi-generational family learning",
+    "Collaborative Torah study",
+    "Learning leading to action (תלמוד מביא לידי מעשה)"
+  ]
+}
