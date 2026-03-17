@@ -79,7 +79,7 @@ For centuries, the return to Zion was understood as something that would happen 
 
 ### The Birth of Political Zionism
 
-In the 1880s and 1890s, Jews across Europe — especially in Eastern Europe and Russia — faced increasing persecution, pogroms, and legal restrictions. At the same time, nationalist movements were sweeping across Europe: Italians, Greeks, Poles, and others were asserting their right to self-determination and statehood. Jewish intellectuals began to ask: if every nation deserves its own homeland, why not the Jewish people?
+In the 1880s and 1890s (during China's Qing Dynasty late period, 清朝晚期, 1644-1912), Jews across Europe — especially in Eastern Europe and Russia — faced increasing persecution, pogroms, and legal restrictions. At the same time, nationalist movements were sweeping across Europe: Italians, Greeks, Poles, and others were asserting their right to self-determination and statehood. Jewish intellectuals began to ask: if every nation deserves its own homeland, why not the Jewish people?
 
 The most famous figure in this movement was **Theodor Herzl** (1860-1904), an Austrian-Hungarian journalist. After witnessing the Dreyfus Affair in France — where a Jewish military officer was falsely convicted of treason amid widespread antisemitism — Herzl concluded that Jews would never be safe as minorities in other nations. In 1896, he published *Der Judenstaat* (*The Jewish State*), arguing that the Jewish people needed their own sovereign state.
 

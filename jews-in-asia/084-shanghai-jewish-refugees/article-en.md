@@ -14,7 +14,7 @@ This remarkable chapter of history created an unexpected bridge between the Jewi
 
 ### The Refugee Crisis of 1938
 
-After *Kristallnacht* (the "Night of Broken Glass") in November 1938 — when Nazi mobs destroyed thousands of Jewish businesses and synagogues across Germany and Austria — the urgency for Jewish emigration became desperate. This occurred during what corresponds to the late Republican period of China (中華民國, 1912-1949), shortly before the Second Sino-Japanese War would intensify.
+After *Kristallnacht* (the "Night of Broken Glass") in November 1938 — when Nazi mobs destroyed thousands of Jewish businesses and synagogues across Germany and Austria — the urgency for Jewish emigration became desperate. This occurred during the late Republic of China era (民国时期, 中華民國, 1912-1949), shortly before the Second Sino-Japanese War would intensify.
 
 The Evian Conference, convened in July 1938 by U.S. President Franklin Roosevelt, brought together 32 countries to discuss the refugee crisis. The result was devastating: nearly every nation present refused to increase immigration quotas. Australia famously declared, "We don't have a racial problem, and we're not desirous of importing one." The United States maintained its restrictive quota system. Britain severely limited entry to Palestine. Door after door slammed shut.
 
@@ -34,7 +34,7 @@ Between 1938 and 1941, when Japan (which had occupied Shanghai in 1937) finally 
 
 ### The Early Years (1938-1941)
 
-The first wave of refugees arrived to find a city already strained by war, poverty, and massive internal displacement from the Sino-Japanese conflict. Most settled in the Hongkou district (虹口区), a densely populated area that would later become designated as the "Shanghai Ghetto."
+The first wave of refugees arrived during the Republic of China era (民国时期) to find a city already strained by war, poverty, and massive internal displacement from the Sino-Japanese conflict. Most settled in the Hongkou district (虹口区), a densely populated area that would later become designated as the "Shanghai Ghetto."
 
 Despite extreme hardship, the refugee community demonstrated remarkable resilience:
 
@@ -48,7 +48,7 @@ Despite extreme hardship, the refugee community demonstrated remarkable resilien
 
 ### The Designated Area (1943-1945)
 
-In February 1943, under pressure from their Nazi allies, the Japanese authorities issued the "Proclamation Concerning Restriction of Residence and Business of Stateless Refugees" — effectively creating a confined ghetto area in Hongkou. All "stateless refugees" (meaning Jews who had arrived after 1937) were required to relocate to a small, overcrowded area of less than one square mile.
+In February 1943, during the middle years of the Republic of China era (民国时期), under pressure from their Nazi allies, the Japanese authorities issued the "Proclamation Concerning Restriction of Residence and Business of Stateless Refugees" — effectively creating a confined ghetto area in Hongkou. All "stateless refugees" (meaning Jews who had arrived after 1937) were required to relocate to a small, overcrowded area of less than one square mile.
 
 Life became significantly harder:
 
