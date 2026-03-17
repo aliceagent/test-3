@@ -1,0 +1,68 @@
+{
+  "id": 66,
+  "title": {
+    "en": "Does God Exist? The Jewish Philosophical Arguments",
+    "zh": "上帝存在吗?犹太哲学论证",
+    "he": "האם אלוהים קיים? הטיעונים הפילוסופיים היהודיים"
+  },
+  "section": "Philosophy",
+  "description": "A survey of classical and modern arguments for God's existence from Rambam, the Kuzari, and contemporary thinkers.",
+  "word_count": {
+    "en": 3850,
+    "zh": 3420,
+    "he": 3780
+  },
+  "status": "complete",
+  "created": "2026-03-17",
+  "tags": [
+    "Philosophy",
+    "God",
+    "Existence",
+    "Rambam",
+    "Maimonides",
+    "Kuzari",
+    "Reason",
+    "Faith",
+    "Design",
+    "FirstCause",
+    "Consciousness",
+    "Morality",
+    "宋朝",
+    "理性",
+    "信仰",
+    "哲学",
+    "פילוסופיה",
+    "אלוהים",
+    "רמבם",
+    "כוזרי",
+    "שכל",
+    "אמונה"
+  ],
+  "historical_figures": [
+    {
+      "name": "Rambam (Maimonides)",
+      "era": "1138-1204 CE (Southern Song Dynasty 南宋)",
+      "role": "Medieval Jewish philosopher, author of Guide for the Perplexed"
+    },
+    {
+      "name": "Rabbi Yehuda HaLevi",
+      "era": "1075-1141 CE (Northern Song Dynasty 北宋)",
+      "role": "Author of The Kuzari, developer of historical argument"
+    }
+  ],
+  "chinese_parallels": [
+    {
+      "concept": "Song Dynasty (宋朝, 960-1279 CE)",
+      "connection": "Medieval Jewish philosophy developed during this era"
+    },
+    {
+      "concept": "Neo-Confucian Li (理, universal principle)",
+      "connection": "Parallels Jewish concept of necessary being"
+    },
+    {
+      "concept": "Tian (天, Heaven)",
+      "connection": "Compared to Jewish concept of God"
+    }
+  ],
+  "bibliography_count": 7
+}
