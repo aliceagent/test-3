@@ -459,16 +459,16 @@ Here's how to take your next step:
    https://www.chabad.org/library/article_cdo/aid/36226/jewish/About-Chabad-Lubavitch.htm  
    *Overview of Chabad's history, philosophy, and global outreach mission.*
 
-3. **"The Rebbe's Shluchim"** — Chabad.org  
-   https://www.chabad.org/therebbe/article_cdo/aid/62224/jewish/The-Rebbes-Shluchim.htm  
+3. **"The Shliach (Emissary)"** — Chabad.org  
+   https://www.chabad.org/library/article_cdo/aid/244373/jewish/The-Shliach-Emissary.htm  
    *Explanation of the role of Chabad emissaries (shluchim) and their work in communities worldwide.*
 
 4. **"Jewish Communities in China"** — Museum of the Jewish People at Beit Hatfutsot  
-   https://www.bh.org.il/jewish-communities/china/  
+   https://www.myjewishlearning.com/article/the-jews-of-kaifeng-chinas-only-native-jewish-community/  
    *Historical and contemporary overview of Jewish life in China, including the Kaifeng community and modern expat populations.*
 
 5. **"Shanghai: Haven for Holocaust Refugees"** — United States Holocaust Memorial Museum  
-   https://www.ushmm.org/learn/timeline-of-events/1939-1941/shanghai  
+   https://encyclopedia.ushmm.org/content/en/article/german-and-austrian-jewish-refugees-in-shanghai  
    *Historical account of Shanghai's role as a refuge for Jewish refugees during World War II.*
 
 6. **"What to Expect at Your First Shabbat Dinner"** — Chabad.org  

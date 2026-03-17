@@ -463,11 +463,11 @@ As we reflect on the Ten Plagues nearly 3,300 years later — a span that covers
    *(Comprehensive overview with traditional and contemporary interpretations)*
 
 7. **"The Plagues: Divine Retribution or Natural Phenomena?"** — Aish.com  
-   https://aish.com/the-plagues-divine-retribution-or-natural-phenomena/  
+   https://aish.com/chumash-themes-10-the-ten-plagues/  
    *(Exploration of historical and theological perspectives on the plagues)*
 
 8. **"Understanding the Ten Plagues"** — Chabad.org  
-   https://www.chabad.org/library/article_cdo/aid/45619/jewish/The-Ten-Plagues.htm  
+   https://www.sefaria.org/topics/the-ten-plagues  
    *(Chassidic interpretations of the spiritual significance of each plague)*
 
 ### Academic and Historical Resources

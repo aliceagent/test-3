@@ -462,11 +462,11 @@
    *恰巴德使者（shluchim）的角色及其在全球社区的工作解释。*
 
 4. **"中国的犹太社区"** — 犹太人民博物馆  
-   https://www.bh.org.il/jewish-communities/china/  
+   https://www.myjewishlearning.com/article/the-jews-of-kaifeng-chinas-only-native-jewish-community/  
    *中国犹太生活的历史和当代概述，包括开封社区和现代侨民人口。*
 
 5. **"上海：大屠杀难民的避风港"** — 美国大屠杀纪念博物馆  
-   https://www.ushmm.org/learn/timeline-of-events/1939-1941/shanghai  
+   https://encyclopedia.ushmm.org/content/en/article/german-and-austrian-jewish-refugees-in-shanghai  
    *上海在第二次世界大战期间作为犹太难民避难所的历史记录。*
 
 6. **"您第一次安息日晚餐的期待"** — Chabad.org  
