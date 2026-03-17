@@ -1,0 +1,70 @@
+{
+  "title": "Havdalah: How to End Shabbat Beautifully",
+  "article_number": 20,
+  "category": "shabbat",
+  "subcategory": "havdalah",
+  "slug": "020-havdalah",
+  "author": "Torah Light Editorial Team",
+  "date_created": "2025-03-17",
+  "date_modified": "2026-03-17",
+  "description": "A comprehensive guide to the Havdalah ceremony - the beautiful ritual that marks the end of Shabbat. Learn the step-by-step process using wine, spices, and braided candlelight to distinguish between the sacred and mundane.",
+  "keywords": [
+    "Havdalah",
+    "Shabbat",
+    "Jewish ritual",
+    "End of Shabbat",
+    "Wine blessing",
+    "Spices",
+    "Braided candle",
+    "Sacred and mundane",
+    "Jewish ceremony",
+    "Shabbat observance"
+  ],
+  "target_audience": "beginners",
+  "reading_time_minutes": 25,
+  "word_count": {
+    "english": 6500,
+    "hebrew": 2840,
+    "chinese": 21202
+  },
+  "languages": {
+    "en": "article-en.md",
+    "he": "article-he.md",
+    "zh": "article-zh.md"
+  },
+  "difficulty": "beginner",
+  "ritual_items_needed": [
+    "Wine or grape juice",
+    "Kiddush cup",
+    "Sweet spices (besamim)",
+    "Spice box",
+    "Havdalah candle (braided)",
+    "Plate for wine overflow"
+  ],
+  "key_concepts": [
+    "Havdalah ceremony",
+    "Four blessings",
+    "Multi-sensory experience",
+    "Transition from sacred to mundane",
+    "Neshamah yeteirah (additional soul)",
+    "Fire symbolism",
+    "Timing after three stars appear"
+  ],
+  "cultural_connections": [
+    "Chinese Han Dynasty parallels",
+    "Yin-yang philosophy",
+    "Tea ceremony traditions",
+    "Confucian ritual propriety"
+  ],
+  "talmudic_sources": [
+    "Pesachim 103b",
+    "Shabbat 35b", 
+    "Beitzah 16a",
+    "Genesis Rabbah 11:2"
+  ],
+  "status": "published",
+  "featured": false,
+  "translations_complete": true,
+  "qa_checked": true,
+  "last_qa_date": "2026-03-17"
+}
