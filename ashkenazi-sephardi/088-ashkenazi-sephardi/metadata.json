@@ -1,0 +1,108 @@
+{
+  "id": 88,
+  "title": {
+    "en": "Ashkenazi vs. Sephardi: Understanding the Two Great Jewish Traditions",
+    "zh": "阿什肯纳兹与塞法尔迪:理解犹太人的两大传统",
+    "he": "אשכנזים וספרדים: הבנת שתי המסורות הגדולות של העם היהודי"
+  },
+  "section": "Ashkenazi & Sephardi",
+  "description": "A detailed comparison of customs, cuisine, prayer styles, and halachic rulings between Ashkenazi and Sephardi Jews.",
+  "slug": "ashkenazi-sephardi",
+  "word_count": {
+    "en": 5847,
+    "zh": 5621,
+    "he": 5438
+  },
+  "character_count": {
+    "zh": 9847
+  },
+  "tags": [
+    "Ashkenazi",
+    "Sephardi",
+    "Mizrahi",
+    "Jewish Traditions",
+    "Minhag",
+    "Nusach",
+    "Jewish History",
+    "Yiddish",
+    "Ladino",
+    "Spanish Jews",
+    "Eastern European Jews",
+    "Kitniyot",
+    "Jewish Cuisine",
+    "Shulchan Aruch",
+    "Rambam",
+    "Rashi",
+    "Israeli Jews",
+    "Jewish Diversity",
+    "Unity in Diversity",
+    "Ming Dynasty",
+    "Song Dynasty",
+    "阿什肯纳兹",
+    "塞法尔迪",
+    "米兹拉希",
+    "犹太传统",
+    "犹太习俗",
+    "אשכנזים",
+    "ספרדים",
+    "מזרחים",
+    "מסורות יהודיות"
+  ],
+  "author": "Torah Light Editorial Team",
+  "date_created": "2026-03-17",
+  "status": "completed",
+  "historical_periods_referenced": [
+    {
+      "period": "Tang and Song Dynasties",
+      "chinese": "唐宋",
+      "years": "700-1200 CE",
+      "jewish_context": "Development of Ashkenazi communities in Rhine Valley"
+    },
+    {
+      "period": "Southern Song Dynasty",
+      "chinese": "南宋",
+      "years": "1127-1279 CE",
+      "jewish_context": "Crusades and Rambam's lifetime"
+    },
+    {
+      "period": "Ming Dynasty",
+      "chinese": "明朝",
+      "years": "1368-1644 CE",
+      "jewish_context": "Spanish Expulsion (1492), Rema's lifetime, Shulchan Aruch compilation"
+    },
+    {
+      "period": "Qing Dynasty, Qianlong Era",
+      "chinese": "清朝乾隆年间",
+      "years": "1735-1796 CE",
+      "jewish_context": "Founding of Chasidism by the Baal Shem Tov"
+    },
+    {
+      "period": "War of Resistance Against Japan",
+      "chinese": "抗日战争",
+      "years": "1937-1945 CE",
+      "jewish_context": "The Holocaust"
+    }
+  ],
+  "key_figures": [
+    "Rashi (רש\"י)",
+    "Rabbi Moshe Isserles (Rema) (רמ\"א)",
+    "Rambam/Maimonides (רמב\"ם)",
+    "Rabbi Yosef Karo (רבי יוסף קארו)",
+    "Ben Ish Chai (בן איש חי)",
+    "Rabbi Ovadia Yosef (רבי עובדיה יוסף)",
+    "Baal Shem Tov (בעל שם טוב)"
+  ],
+  "bibliography_count": 10,
+  "cultural_parallels": [
+    "Northern vs. Southern China: different cuisines, dialects, customs yet all Chinese",
+    "Mandarin and Cantonese: different tones and vocabulary but same written language",
+    "Confucianism, Daoism, Buddhism: different schools within Chinese civilization",
+    "Chinese diaspora maintaining distinct local customs while remaining culturally Chinese"
+  ],
+  "languages": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "version": "1.0"
+}
