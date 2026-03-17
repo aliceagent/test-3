@@ -162,17 +162,17 @@ This doesn't mean all suffering is secretly good. Some suffering is simply evil,
    https://www.sefaria.org/Psalms.22.2  
    *(Biblical permission to question and protest to God)*
 
-8. **"Why Does God Allow Suffering?"** — Chabad.org  
-   https://www.chabad.org/library/article_cdo/aid/3899/jewish/Why-Does-God-Allow-Suffering.htm  
-   *(Contemporary Chassidic perspective on the purpose of suffering)*
+8. **"Why Do Bad Things Happen to Good People?"** — Aish.com  
+   https://aish.com/89014927/  
+   *(Contemporary Orthodox perspective on suffering and divine justice)*
 
 9. **"Why Do Bad Things Happen to Good People?"** — Aish.com  
    https://www.aish.com/jl/p/ph/Why-Do-Bad-Things-Happen-to-Good-People.html  
    *(Multiple Jewish approaches to theodicy explained for modern readers)*
 
-10. **"The Problem of Evil"** — My Jewish Learning  
-    https://www.myjewishlearning.com/article/the-problem-of-evil/  
-    *(Survey of Jewish philosophical responses to suffering and evil)*
+10. **"A Traditional Jewish Approach to the Problem of Evil"** — My Jewish Learning  
+    https://www.myjewishlearning.com/article/a-traditional-jewish-approach-to-the-problem-of-evil/  
+    *(Traditional Jewish philosophical responses to suffering and evil)*
 
 ## Tags
 

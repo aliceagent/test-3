@@ -162,17 +162,17 @@
    https://www.sefaria.org/Psalms.22.2  
    *(圣经允许向上帝质疑和抗议)*
 
-8. **"为什么上帝允许苦难?"** — Chabad.org  
-   https://www.chabad.org/library/article_cdo/aid/3899/jewish/Why-Does-God-Allow-Suffering.htm  
-   *(哈西德派关于苦难目的的当代观点)*
+8. **"为什么好人会遭遇不幸?"** — Aish.com  
+   https://aish.com/89014927/  
+   *(当代正统派关于苦难和神圣正义的观点)*
 
 9. **"为什么好人会遭遇不幸?"** — Aish.com  
    https://www.aish.com/jl/p/ph/Why-Do-Bad-Things-Happen-to-Good-People.html  
    *(为现代读者解释的犹太教神义论的多种方法)*
 
-10. **"恶的问题"** — My Jewish Learning  
-    https://www.myjewishlearning.com/article/the-problem-of-evil/  
-    *(犹太哲学对苦难和邪恶的回应概述)*
+10. **"犹太教对恶的问题的传统方法"** — My Jewish Learning  
+    https://www.myjewishlearning.com/article/a-traditional-jewish-approach-to-the-problem-of-evil/  
+    *(犹太哲学对苦难和邪恶的传统回应)*
 
 ## 标签
 

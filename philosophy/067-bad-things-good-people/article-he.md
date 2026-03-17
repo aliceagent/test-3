@@ -162,17 +162,17 @@
    https://www.sefaria.org/Psalms.22.2  
    *(רשות מקראית לשאול ולמחות לאל)*
 
-8. **"למה האל מאפשר סבל?"** — Chabad.org  
-   https://www.chabad.org/library/article_cdo/aid/3899/jewish/Why-Does-God-Allow-Suffering.htm  
-   *(פרספקטיבה חסידית עכשווית על מטרת הסבל)*
+8. **"למה דברים רעים קורים לאנשים טובים?"** — Aish.com  
+   https://aish.com/89014927/  
+   *(פרספקטיבה אורתודוכסית עכשווית על סבל וצדק אלוהי)*
 
 9. **"למה דברים רעים קורים לאנשים טובים?"** — Aish.com  
    https://www.aish.com/jl/p/ph/Why-Do-Bad-Things-Happen-to-Good-People.html  
    *(גישות יהודיות מרובות לתאודיציה המוסברות לקוראים מודרניים)*
 
-10. **"בעיית הרוע"** — My Jewish Learning  
-    https://www.myjewishlearning.com/article/the-problem-of-evil/  
-    *(סקירה של תגובות פילוסופיות יהודיות לסבל ולרוע)*
+10. **"גישה יהודית מסורתית לבעיית הרוע"** — My Jewish Learning  
+    https://www.myjewishlearning.com/article/a-traditional-jewish-approach-to-the-problem-of-evil/  
+    *(תגובות פילוסופיות יהודיות מסורתיות לסבל ולרוע)*
 
 ## תגיות
 
