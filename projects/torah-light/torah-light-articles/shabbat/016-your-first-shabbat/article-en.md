@@ -189,6 +189,13 @@ The beauty of Shabbat isn't in perfect execution but in sincere intention. Even 
 
 Start small, be patient with yourself, and let Shabbat gradually transform your week. Many Jews say that Shabbat doesn't just mark the end of the week—it gives meaning to the entire week leading up to it.
 
+## Key Takeaways
+
+- **Shabbat is accessible to everyone:** You don't need perfect Hebrew, expensive items, or flawless execution—the intention and effort to create sacred time matter most
+- **Build your practice gradually:** Start with candle lighting and a special meal, then slowly add elements like Kiddush, hand washing, and avoiding weekday activities as you become comfortable
+- **Focus on the spiritual purpose:** Shabbat is fundamentally about stepping away from work and commerce to focus on gratitude, family connection, study, rest, and reflection
+- **Community and tradition matter:** By observing Shabbat, you connect with thousands of years of Jewish history and millions of Jews worldwide sharing the same weekly rhythm of sacred time
+
 ## Tags
 - Shabbat Basics
 - Jewish Practice
