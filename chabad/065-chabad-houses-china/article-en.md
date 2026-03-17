@@ -459,8 +459,8 @@ Here's how to take your next step:
    https://www.chabad.org/library/article_cdo/aid/36226/jewish/About-Chabad-Lubavitch.htm  
    *Overview of Chabad's history, philosophy, and global outreach mission.*
 
-3. **"The Shliach (Emissary)"** — Chabad.org  
-   https://www.chabad.org/library/article_cdo/aid/244373/jewish/The-Shliach-Emissary.htm  
+3. **"The Extensive Reach of the Rebbe's Emissaries: It's Never Been Greater"** — Chabad.org  
+   https://www.chabad.org/news/article_cdo/aid/2765411/jewish/The-Extensive-Reach-of-the-Rebbes-Emissaries-Its-Never-Been-Greater.htm  
    *Explanation of the role of Chabad emissaries (shluchim) and their work in communities worldwide.*
 
 4. **"Jewish Communities in China"** — Museum of the Jewish People at Beit Hatfutsot  

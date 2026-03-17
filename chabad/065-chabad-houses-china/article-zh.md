@@ -457,8 +457,8 @@
    https://www.chabad.org/library/article_cdo/aid/36226/jewish/About-Chabad-Lubavitch.htm  
    *恰巴德的历史、哲学和全球外展使命概述。*
 
-3. **"拉比的使者"** — Chabad.org  
-   https://www.chabad.org/therebbe/article_cdo/aid/62224/jewish/The-Rebbes-Shluchim.htm  
+3. **"恰巴德拉比使者的广泛影响力"** — Chabad.org  
+   https://www.chabad.org/news/article_cdo/aid/2765411/jewish/The-Extensive-Reach-of-the-Rebbes-Emissaries-Its-Never-Been-Greater.htm  
    *恰巴德使者（shluchim）的角色及其在全球社区的工作解释。*
 
 4. **"中国的犹太社区"** — 犹太人民博物馆  
@@ -466,7 +466,7 @@
    *中国犹太生活的历史和当代概述，包括开封社区和现代侨民人口。*
 
 5. **"上海：大屠杀难民的避风港"** — 美国大屠杀纪念博物馆  
-   https://www.ushmm.org/learn/timeline-of-events/1939-1941/shanghai  
+   https://www.npr.org/2023/08/06/1192118339/jewish-refugees-shanghai-world-war-ii  
    *上海在第二次世界大战期间作为犹太难民避难所的历史记录。*
 
 6. **"您第一次安息日晚餐的期待"** — Chabad.org  
@@ -486,6 +486,10 @@
 ## 标签
 
 #恰巴德 #恰巴德会所 #犹太社区 #中国 #上海 #北京 #香港 #广州 #深圳 #成都 #犹太教规食品 #安息日 #犹太学习 #皈依 #托拉课程 #犹太节日 #中国犹太人 #亚洲犹太人 #社区资源 #中国犹太社区 #恰巴德会所 #犹太教学习
+
+---
+
+*教学习
 
 ---
 
