@@ -269,7 +269,7 @@
 
 ## 標籤
 
-#安息日 #三十九種禁忌勞作 #猶太律法 #哈拉卡 #會幕 #帳幕 #休息 #創造力 #創造性勞作 #安息日遵守 #商朝 #道家 #無為 #Daoism #戰國時代 #WarringStates
+#安息日 #Shabbat #三十九種禁忌勞作 #39Melachot #猶太律法 #JewishLaw #哈拉卡 #Halakha #會幕 #帳幕 #Mishkan #Tabernacle #休息 #Rest #創造力 #Creativity #創造性勞作 #Melachah #安息日遵守 #ShabbatObservance #商朝 #道家 #無為 #Daoism #戰國時代 #WarringStates
 
 ---
 
