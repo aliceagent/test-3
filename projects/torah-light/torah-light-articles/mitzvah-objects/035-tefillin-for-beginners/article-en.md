@@ -152,7 +152,7 @@ Whether or not you wear tefillin yourself, the practice offers universal insight
    *(Biblical source text with Hebrew original and translations)*
 
 5. **"Deuteronomy 6:4-9"** — Sefaria.org  
-   https://www.sefaria.org/Deuteronomy.6.4-9  
+   https://www.sefaria.org.il/Deuteronomy.6.4-9  
    *(The Shema prayer containing the tefillin commandment)*
 
 6. **"Tefillin"** — Wikipedia  

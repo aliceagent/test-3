@@ -186,7 +186,7 @@ The Shema instructs us to "speak of them when you sit in your home, while you wa
    *(Essential facts about the Shema, including when to recite it, covering the eyes, and the meanings of each paragraph)*
 
 5. **"Deuteronomy 6:4-9 (First Paragraph of Shema)"** — Sefaria.org  
-   https://www.sefaria.org/Deuteronomy.6.4-9  
+   https://www.sefaria.org.il/Deuteronomy.6.4-9  
    *(Original Hebrew text with English translation and classical commentaries)*
 
 6. **"Deuteronomy 11:13-21 (Second Paragraph of Shema)"** — Sefaria.org  

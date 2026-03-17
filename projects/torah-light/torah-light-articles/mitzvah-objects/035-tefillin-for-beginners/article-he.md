@@ -152,7 +152,7 @@
    *(טקסט מקור מקראי עם מקור עברי ותרגומים)*
 
 5. **"דברים ו:ד-ט"** — Sefaria.org  
-   https://www.sefaria.org/Deuteronomy.6.4-9  
+   https://www.sefaria.org.il/Deuteronomy.6.4-9  
    *(תפילת השמע המכילה מצוות תפילין)*
 
 6. **"תפילין"** — ויקיפדיה  

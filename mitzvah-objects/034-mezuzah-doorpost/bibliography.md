@@ -32,7 +32,7 @@ https://www.myjewishlearning.com/article/mezuzah/
 
 ### 3. Sefaria.org - Biblical Text Sources
 **"Deuteronomy 6:4-9"** — Sefaria.org  
-https://www.sefaria.org/Deuteronomy.6.4-9  
+https://www.sefaria.org.il/Deuteronomy.6.4-9  
 *Status: Verified (200)*
 
 **Content Summary:** First paragraph of mezuzah containing the Shema prayer - declaration of God's unity and commandment to place these words on doorposts and gates.
