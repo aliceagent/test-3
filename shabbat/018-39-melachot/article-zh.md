@@ -267,7 +267,7 @@
    https://www.chabad.org/library/article_cdo/aid/102032/jewish/The-39-Melachot.htm  
    *(每個禁忌勞作與當代應用的實用指南)*
 
-## 標籤
+## 标签
 
 #安息日 #Shabbat #三十九種禁忌勞作 #39Melachot #猶太律法 #JewishLaw #哈拉卡 #Halakha #會幕 #帳幕 #Mishkan #Tabernacle #休息 #Rest #創造力 #Creativity #創造性勞作 #Melachah #安息日遵守 #ShabbatObservance #商朝 #道家 #無為 #Daoism #戰國時代 #WarringStates
 
