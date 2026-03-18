@@ -1,0 +1,156 @@
+{
+  "id": 172,
+  "title": {
+    "en": "Guarding Your Speech (Shmirat HaLashon): The Laws of Lashon Hara",
+    "zh": "谨守口舌 (Shmirat HaLashon):恶言的律法",
+    "he": "שמירת הלשון: דיני לשון הרע"
+  },
+  "section": "mussar",
+  "slug": "shmirat-halashon",
+  "topics": [
+    "mussar",
+    "ethics",
+    "speech",
+    "lashon hara",
+    "character development",
+    "interpersonal relations"
+  ],
+  "keywords": {
+    "en": [
+      "lashon hara",
+      "shmirat halashon",
+      "guarding speech",
+      "evil tongue",
+      "gossip",
+      "rechilut",
+      "slander",
+      "Chafetz Chaim",
+      "mussar",
+      "Jewish ethics",
+      "speech laws"
+    ],
+    "zh": [
+      "恶言",
+      "谨守口舌",
+      "言语伦理",
+      "流言蜚语",
+      "犹太伦理",
+      "慎言",
+      "品格修养",
+      "人际关系"
+    ],
+    "he": [
+      "לשון הרע",
+      "שמירת הלשון",
+      "רכילות",
+      "חפץ חיים",
+      "מוסר",
+      "אתיקה יהודית",
+      "דיני דיבור"
+    ]
+  },
+  "difficulty": "intermediate",
+  "readingTime": {
+    "en": 12,
+    "zh": 8,
+    "he": 10
+  },
+  "sources": [
+    {
+      "title": "Chofetz Chaim",
+      "author": "Rabbi Yisrael Meir Kagan",
+      "type": "book",
+      "description": "Definitive work on the laws of proper speech"
+    },
+    {
+      "title": "Talmud Bavli, Tractate Arachin 15b",
+      "type": "primary_text",
+      "description": "The severity of lashon hara compared to the three cardinal sins"
+    },
+    {
+      "title": "Pirkei Avot 1:17",
+      "type": "primary_text",
+      "description": "The value of silence"
+    },
+    {
+      "title": "Proverbs 18:21",
+      "type": "primary_text",
+      "description": "Death and life are in the power of the tongue"
+    },
+    {
+      "title": "Psalms 34:13-14",
+      "type": "primary_text",
+      "description": "Guard your tongue from evil"
+    }
+  ],
+  "culturalParallels": {
+    "chinese": [
+      {
+        "proverb": "病从口入,祸从口出",
+        "translation": "Illness enters through the mouth; disaster comes out of it",
+        "relevance": "Parallels Jewish teaching about the power and danger of speech"
+      },
+      {
+        "proverb": "言多必失",
+        "translation": "Speaking much leads to mistakes",
+        "relevance": "Echoes Talmudic wisdom about the value of silence"
+      },
+      {
+        "proverb": "谨言慎行",
+        "translation": "Be cautious in speech and prudent in action",
+        "relevance": "Direct parallel to shmirat halashon concept"
+      },
+      {
+        "proverb": "一言既出,驷马难追",
+        "translation": "Once a word is spoken, even four horses cannot retrieve it",
+        "relevance": "Emphasizes the irreversibility of speech"
+      },
+      {
+        "proverb": "良言一句三冬暖,恶语伤人六月寒",
+        "translation": "One kind word warms three winters; harsh words hurt even in the sixth month",
+        "relevance": "Perfectly embodies Jewish teaching about the power of words"
+      },
+      {
+        "concept": "君子欲讷于言而敏于行 (Analects)",
+        "translation": "The superior person is cautious in speech and diligent in action",
+        "relevance": "Confucian ideal aligns with Jewish emphasis on guarded speech"
+      },
+      {
+        "concept": "仁 (Ren - Benevolence)",
+        "translation": "Confucian virtue of benevolence in both action and speech",
+        "relevance": "Similar to Jewish ethics emphasizing speech as action with consequences"
+      }
+    ]
+  },
+  "practicalApplications": [
+    "24-hour rule before sharing negative information",
+    "Three questions before speaking: Is it true? Is it necessary? Is it kind?",
+    "Judging others favorably (dan l'kaf zechut)",
+    "Redirecting conversations away from gossip",
+    "Accountability partnerships for speech improvement"
+  ],
+  "relatedArticles": [
+    169,
+    171,
+    177
+  ],
+  "targetAudience": "beginners-to-intermediate",
+  "language": {
+    "en": {
+      "wordCount": 1487,
+      "characterCount": 10979
+    },
+    "zh": {
+      "characterCount": 4096,
+      "wordCount": "N/A"
+    },
+    "he": {
+      "wordCount": 1231,
+      "characterCount": 7519
+    }
+  },
+  "dateCreated": "2026-03-18",
+  "author": "Torah Light Team",
+  "status": "completed",
+  "version": "1.0"
+}

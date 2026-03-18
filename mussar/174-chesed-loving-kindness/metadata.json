@@ -1,0 +1,150 @@
+{
+  "id": 174,
+  "title": "Chesed (Loving-Kindness): The Trait That Sustains the World",
+  "title_zh": "Chesed (חסד) — 仁爱:支撑世界的品德",
+  "title_he": "חסד: המידה שמקיימת את העולם",
+  "section": "mussar",
+  "slug": "chesed-loving-kindness",
+  "author": "Torah Light Editorial Team",
+  "date_created": "2026-03-18",
+  "languages": ["en", "zh", "he"],
+  "tags": [
+    "mussar",
+    "character-traits",
+    "chesed",
+    "loving-kindness",
+    "ethics",
+    "middot",
+    "gemilut-chasadim",
+    "acts-of-kindness",
+    "abraham",
+    "ruth",
+    "confucianism",
+    "ren",
+    "chinese-parallels"
+  ],
+  "target_audience": "Chinese native Mandarin speakers with no prior Jewish knowledge",
+  "difficulty_level": "beginner",
+  "estimated_reading_time_minutes": {
+    "en": 12,
+    "zh": 8,
+    "he": 10
+  },
+  "key_concepts": [
+    "Chesed as voluntary kindness beyond justice",
+    "Difference between chesed and tzedakah",
+    "God's attribute of chesed",
+    "Abraham as master of chesed",
+    "Ruth's chesed to Naomi",
+    "World stands on three things including chesed",
+    "Practical acts: bikur cholim, hachnasat orchim, nichum aveilim",
+    "Chinese parallels: ren (仁), xiao (孝)",
+    "Imitating God through acts of kindness",
+    "Chesed as pillar of civilization"
+  ],
+  "biblical_references": [
+    "Exodus 34:6",
+    "Genesis 18:1-8",
+    "Ruth 1:16",
+    "Pirkei Avot 1:2"
+  ],
+  "talmudic_references": [
+    "Talmud Sukkah 49b",
+    "Talmud Sotah 14a"
+  ],
+  "chinese_cultural_parallels": [
+    {
+      "concept": "Ren (仁)",
+      "description": "Confucian virtue of benevolence/humaneness, parallels Jewish chesed as foundation of ethical behavior"
+    },
+    {
+      "concept": "Xiao (孝)",
+      "description": "Filial piety, parallels Jewish commandment to honor parents and chesed toward elders as exemplified by Ruth"
+    },
+    {
+      "concept": "Li (礼)",
+      "description": "Propriety and ritual structuring social relationships, similar to how Jewish law codifies acts of chesed"
+    },
+    {
+      "concept": "Junzi (君子)",
+      "description": "Superior person in Confucian thought who embodies ren, parallels Jewish ideal of leaders excelling in chesed"
+    }
+  ],
+  "practical_applications": [
+    "Visit the sick regularly",
+    "Welcome guests and strangers",
+    "Comfort mourners during shiva",
+    "Attend funerals and honor the deceased",
+    "Support brides and grooms preparing for marriage",
+    "Listen deeply without fixing",
+    "Perform small daily acts of kindness",
+    "Create chesed routines and habits",
+    "Give without expectation of return",
+    "Combine financial support with personal presence"
+  ],
+  "learning_outcomes": [
+    "Understand the definition and scope of chesed",
+    "Distinguish between chesed and tzedakah",
+    "Recognize biblical models of chesed (Abraham, Ruth)",
+    "Appreciate chesed as one of three pillars sustaining the world",
+    "Identify practical acts of chesed in Jewish tradition",
+    "Connect Jewish chesed to Chinese cultural values (ren, xiao)",
+    "Develop personal strategies for cultivating chesed",
+    "Apply chesed principles to modern daily life"
+  ],
+  "further_study": [
+    "Genesis 18:1-8 - Abraham's hospitality to the angels",
+    "Book of Ruth - Chesed between family members across generations",
+    "Pirkei Avot 1:2 - The three pillars that sustain the world",
+    "Talmud Sotah 14a - Imitating God's ways through specific acts",
+    "Ramban's Commentary on Deuteronomy 6:18 - Doing what is right and good",
+    "Chofetz Chaim's works on loving-kindness and speech ethics",
+    "Messilat Yesharim (Path of the Just) - Rabbi Moshe Chaim Luzzatto on character development"
+  ],
+  "seo_keywords": [
+    "chesed meaning",
+    "Jewish loving-kindness",
+    "gemilut chasadim",
+    "chesed vs tzedakah",
+    "acts of kindness Judaism",
+    "Abraham hospitality",
+    "Book of Ruth chesed",
+    "Jewish character traits",
+    "mussar movement",
+    "ren benevolence Confucianism",
+    "Jewish Chinese parallels",
+    "visiting the sick Judaism",
+    "bikur cholim",
+    "hachnasat orchim"
+  ],
+  "related_articles": [
+    169,
+    170,
+    171,
+    172,
+    173,
+    175,
+    176,
+    177,
+    178,
+    183
+  ],
+  "word_count": {
+    "en": 4421,
+    "zh": 4089,
+    "he": 3856
+  },
+  "character_count": {
+    "zh": 4089
+  },
+  "quality_checks": {
+    "english_within_range": true,
+    "chinese_minimum_met": true,
+    "hebrew_translation_complete": true,
+    "cultural_parallels_included": true,
+    "warm_educational_tone": true,
+    "beginner_friendly": true,
+    "biblical_sources_cited": true,
+    "practical_applications_provided": true
+  }
+}
