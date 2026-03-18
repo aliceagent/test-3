@@ -1,0 +1,102 @@
+{
+  "id": 211,
+  "title": "Shabbat for Night-Shift Workers and Medical Professionals",
+  "title_zh": "夜班工作者和医护人员的安息日",
+  "title_he": "שבת לעובדי משמרות לילה ואנשי מקצועות רפואיים",
+  "section": "shabbat",
+  "slug": "shabbat-medical-workers",
+  "author": "Torah Light Project",
+  "date_created": "2026-03-19",
+  "target_audience": "Chinese native Mandarin speakers, no background in Judaism",
+  "keywords": [
+    "Shabbat",
+    "medical professionals",
+    "night shift",
+    "pikuach nefesh",
+    "saving life",
+    "Jewish law",
+    "healthcare workers",
+    "nurses",
+    "doctors",
+    "Orthodox Judaism"
+  ],
+  "keywords_zh": [
+    "安息日",
+    "医护人员",
+    "夜班",
+    "拯救生命",
+    "犹太律法",
+    "医疗工作者",
+    "护士",
+    "医生",
+    "正统犹太教"
+  ],
+  "keywords_he": [
+    "שבת",
+    "אנשי מקצוע רפואיים",
+    "משמרת לילה",
+    "פיקוח נפש",
+    "הצלת חיים",
+    "הלכה",
+    "עובדי בריאות",
+    "אחיות",
+    "רופאים",
+    "יהדות אורתודוכסית"
+  ],
+  "main_topics": [
+    "Pikuach nefesh (saving life) principle",
+    "Shabbat observance for medical professionals",
+    "Night-shift work in Jewish law",
+    "Permitted and prohibited actions on Shabbat",
+    "Practical guidelines for healthcare workers",
+    "Balance between sacred time and life-saving work"
+  ],
+  "sources": [
+    {
+      "type": "Talmud",
+      "reference": "Yoma 85b",
+      "description": "On violating Shabbat to save life"
+    },
+    {
+      "type": "Torah",
+      "reference": "Exodus 20:8",
+      "description": "Remember the Sabbath day to keep it holy"
+    },
+    {
+      "type": "Torah",
+      "reference": "Leviticus 18:5",
+      "description": "You shall live by them (the commandments)"
+    },
+    {
+      "type": "Halacha",
+      "reference": "Shulchan Aruch, Orach Chaim 328-329",
+      "description": "Laws of healing on Shabbat"
+    },
+    {
+      "type": "Halacha",
+      "reference": "Mishneh Torah, Hilchot Shabbat, Chapter 2",
+      "description": "Maimonides on pikuach nefesh"
+    }
+  ],
+  "chinese_cultural_parallels": [
+    "医者仁心 (physician's compassionate heart) - viewing healing as sacred mission",
+    "仁 (ren/compassion) in Confucian thought - parallel to Jewish emphasis on preserving life",
+    "Balance between duty and tradition in Chinese medical ethics"
+  ],
+  "word_count": {
+    "en": 1496,
+    "zh": 831,
+    "he": 1342
+  },
+  "reading_time_minutes": {
+    "en": 7,
+    "zh": 4,
+    "he": 6
+  },
+  "difficulty_level": "intermediate",
+  "practical_application": true,
+  "includes_bibliography": true,
+  "batch": "300",
+  "status": "completed",
+  "qa_status": "pending"
+}

@@ -1,0 +1,125 @@
+{
+  "id": 214,
+  "title": "Kosher Fish Guide: Which Fish Are Kosher and How to Verify",
+  "title_zh": "犹太洁食鱼类指南:哪些鱼是洁食及如何验证",
+  "title_he": "מדריך דגים כשרים: אילו דגים כשרים וכיצד לוודא",
+  "section": "kosher-food",
+  "slug": "kosher-fish-guide",
+  "batch": "300",
+  "summary": "A comprehensive guide to understanding which fish are kosher according to Jewish law. Learn the two Torah signs (fins and scales), common kosher and non-kosher fish including popular Asian varieties, how to verify fish at the market, special kashrut considerations, and practical tips for keeping kosher with fish.",
+  "summary_zh": "根据犹太律法理解哪些鱼是洁食的综合指南。学习两个托拉标志(鳍和鳞)、常见的洁食和非洁食鱼(包括流行的亚洲品种)、如何在市场上验证鱼、特殊洁食考虑以及保持鱼类洁食的实用技巧。",
+  "summary_he": "מדריך מקיף להבנת אילו דגים כשרים על פי ההלכה היהודית. למד את שני סימני התורה (סנפירים וקשקשים), דגים כשרים ולא כשרים נפוצים כולל זנים אסייתיים פופולריים, כיצד לאמת דגים בשוק, שיקולי כשרות מיוחדים וטיפים מעשיים לשמירה על כשרות עם דגים.",
+  "keywords": [
+    "kosher fish",
+    "fins and scales",
+    "kashrut",
+    "kosher food laws",
+    "fish verification",
+    "salmon",
+    "tuna",
+    "carp",
+    "shellfish forbidden",
+    "swordfish controversy",
+    "Asian kosher fish",
+    "Chinese fish",
+    "grass carp",
+    "yellow croaker",
+    "pomfret",
+    "fish market shopping",
+    "kosher certification"
+  ],
+  "keywords_zh": [
+    "洁食鱼",
+    "鳍和鳞",
+    "犹太洁食法",
+    "洁食法律",
+    "鱼类验证",
+    "三文鱼",
+    "金枪鱼",
+    "鲤鱼",
+    "贝类禁止",
+    "剑鱼争议",
+    "亚洲洁食鱼",
+    "中国鱼",
+    "草鱼",
+    "黄鱼",
+    "鲳鱼",
+    "鱼市场购物",
+    "洁食认证"
+  ],
+  "keywords_he": [
+    "דגים כשרים",
+    "סנפירים וקשקשים",
+    "כשרות",
+    "חוקי כשרות",
+    "אימות דגים",
+    "סלמון",
+    "טונה",
+    "קרפיון",
+    "רכיכות אסורות",
+    "מחלוקת דג חרב",
+    "דגים כשרים אסייתיים",
+    "דגים סיניים",
+    "קרפיון עשב",
+    "דג צהוב",
+    "פומפרט",
+    "קניות בשוק דגים",
+    "אישור כשרות"
+  ],
+  "target_audience": "Mandarin-speaking learners with no prior Jewish knowledge, people beginning their kashrut journey, Jewish families living in Asia",
+  "cultural_notes": "Includes extensive list of kosher fish popular in Chinese cuisine (grass carp, silver carp, bighead carp, crucian carp, yellow croaker, pomfret, mandarin fish, mullet). References Chinese fish market shopping practices. Addresses concerns specific to Asian communities.",
+  "torah_sources": [
+    "Leviticus 11:9-12",
+    "Deuteronomy 14:9-10",
+    "Talmud, Niddah 51b",
+    "Talmud, Chullin 66b",
+    "Talmud, Pesachim 76b",
+    "Shulchan Aruch, Yoreh De'ah 83"
+  ],
+  "external_resources": [
+    {
+      "title": "Orthodox Union Kosher Fish List",
+      "url": "https://oukosher.org/kosher-fish-list/",
+      "description": "Comprehensive list of kosher fish species with common and scientific names"
+    },
+    {
+      "title": "Star-K Kosher Fish Guide",
+      "url": "https://www.star-k.org/articles/kashrus-kurrents/513/fish/",
+      "description": "Detailed article on kosher fish identification and verification"
+    },
+    {
+      "title": "Chabad.org Fish Guide",
+      "url": "https://www.chabad.org/library/article_cdo/aid/113333/jewish/Fish.htm",
+      "description": "Overview of kosher fish laws with practical guidance"
+    }
+  ],
+  "word_count_en": 1487,
+  "word_count_zh": 1095,
+  "word_count_he": 1264,
+  "reading_time_minutes": 6,
+  "difficulty_level": "beginner",
+  "author": "Torah Light Writing Team",
+  "date_created": "2026-03-19",
+  "language_versions": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "related_articles": [
+    213,
+    215,
+    216,
+    218,
+    219,
+    220
+  ],
+  "practical_applications": [
+    "Fish market shopping guide",
+    "Species identification",
+    "Verification methods",
+    "Asian fish varieties",
+    "Kosher certification understanding",
+    "Fish and meat separation",
+    "Teaching children about kashrut"
+  ]
+}

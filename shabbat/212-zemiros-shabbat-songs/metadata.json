@@ -1,0 +1,59 @@
+{
+  "id": 212,
+  "title": {
+    "en": "Zemiros Lyrics and Melodies: Learn the Songs of the Shabbat Table",
+    "zh": "安息日餐桌歌曲：学唱Zemiros（זְמִירוֹת）",
+    "he": "זמירות שבת: למד את שירי שולחן השבת"
+  },
+  "section": "shabbat",
+  "slug": "zemiros-shabbat-songs",
+  "summary": {
+    "en": "A comprehensive guide to traditional Shabbat table songs (zemiros), including lyrics with transliterations, meanings, and melodies for the most popular songs sung at Friday night dinner, Shabbat lunch, and the third meal.",
+    "zh": "传统安息日餐桌歌曲（zemiros）的综合指南，包括歌词音译、含义以及在星期五晚餐、安息日午餐和第三餐中最受欢迎的歌曲旋律。",
+    "he": "מדריך מקיף לזמירות שבת המסורתיות, כולל מילים עם תעתיק, משמעויות ומנגינות לשירים הפופולריים ביותר הנשרים בליל שבת, סעודת שבת וסעודה שלישית."
+  },
+  "keywords": [
+    "zemiros",
+    "Shabbat songs",
+    "table songs",
+    "Shalom Aleichem",
+    "Jewish music",
+    "Shabbat melodies",
+    "Friday night",
+    "seudah shlishit",
+    "Hebrew songs",
+    "liturgical music"
+  ],
+  "target_audience": "Beginners and those new to Orthodox Jewish practice who want to learn Shabbat table traditions",
+  "difficulty": "beginner",
+  "word_count": {
+    "en": 1485,
+    "zh": 1680,
+    "he": 1095
+  },
+  "sources": [
+    "Birnbaum, Philip. Daily Prayer Book. Hebrew Publishing Company, 1949.",
+    "Eisenberg, Ronald L. The JPS Guide to Jewish Traditions. Jewish Publication Society, 2004.",
+    "Hoffman, Lawrence A. My People's Prayer Book: Traditional Prayers, Modern Commentaries. Jewish Lights Publishing, 1997.",
+    "Scherman, Nosson (ed.). The Complete ArtScroll Siddur. Mesorah Publications, 1984.",
+    "https://www.chabad.org/multimedia/music_cdo/aid/420857/jewish/Shabbat-Songs.htm",
+    "https://www.aish.com/shabbat/"
+  ],
+  "songs_featured": [
+    "Shalom Aleichem",
+    "Yom Zeh L'Yisrael",
+    "Tzur Mishelo",
+    "Dror Yikra",
+    "Menucha V'Simcha",
+    "Kol M'kadesh",
+    "Yom Shabbaton"
+  ],
+  "cultural_parallels": [
+    "Chinese family dining traditions",
+    "Folk song transmission across generations",
+    "Communal singing traditions"
+  ],
+  "date_created": "2026-03-19",
+  "author": "Torah Light Project",
+  "batch": "300"
+}
