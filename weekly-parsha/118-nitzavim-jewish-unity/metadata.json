@@ -1,0 +1,123 @@
+{
+  "id": 118,
+  "title": {
+    "en": "Nitzavim: You Are All Standing Here Today — Jewish Unity Before Entering Israel",
+    "zh": "尼茨维姆：你们今天都站在这里——进入以色列前的犹太团结",
+    "he": "נצבים: אתם נצבים היום כולכם — אחדות יהודית לפני הכניסה לארץ ישראל"
+  },
+  "slug": "nitzavim-jewish-unity",
+  "section": "weekly-parsha",
+  "batch": "200",
+  "description": {
+    "en": "Moses's covenant renewal speech before entering the Promised Land, emphasizing that Jewish survival depends on unity in diversity, not uniformity.",
+    "zh": "摩西在进入应许之地前的盟约更新演讲，强调犹太人的生存依赖于多样性中的团结，而非一致性。",
+    "he": "נאום חידוש הברית של משה לפני הכניסה לארץ המובטחת, המדגיש שהישרדות יהודית תלויה באחדות במגוון, לא באחידות."
+  },
+  "torah_portion": "Nitzavim",
+  "hebrew_name": "נצבים",
+  "book": "Deuteronomy",
+  "themes": [
+    "Jewish unity",
+    "Diversity and inclusion",
+    "Covenant renewal",
+    "Social cohesion",
+    "Leadership transition",
+    "Community building",
+    "Unity vs uniformity"
+  ],
+  "tags": {
+    "en": ["Nitzavim", "Unity", "Diversity", "Covenant", "Moses", "JewishCommunity", "Inclusion", "WeeklyParsha", "Leadership", "CommunityBuilding", "TorahValues"],
+    "zh": ["尼茨维姆", "团结", "多样性", "盟约", "摩西", "犹太社区", "包容", "每周妥拉", "领导力", "社区建设", "商朝", "和谐", "统一性"],
+    "he": ["נצבים", "אחדות", "מגוון", "ברית", "משה", "קהילהיהודית", "הכללה", "פרשהשבועית", "מנהיגות", "בנייתקהילה", "ערכיתורה", "הרמוניה", "שושלתשאנג"]
+  },
+  "historical_context": {
+    "jewish_period": "End of Wilderness Period - Covenant Renewal",
+    "approximate_date": "1273 BCE",
+    "chinese_dynasty": {
+      "name": "Late Shang Dynasty",
+      "chinese": "商朝晚期",
+      "period": "~1300-1046 BCE"
+    }
+  },
+  "cultural_parallels": [
+    "Chinese concept of Harmony (和) - unity through diversity",
+    "Tang Dynasty integration of diverse ethnic groups",
+    "Confucian ideals of inclusive governance",
+    "Ancient Near Eastern covenant ceremonies"
+  ],
+  "key_figures": [
+    {
+      "name": "Moses",
+      "hebrew": "משה רבנו",
+      "chinese": "摩西",
+      "role": "Leader conducting final covenant renewal"
+    },
+    {
+      "name": "The Entire People",
+      "hebrew": "כל העם",
+      "chinese": "全体人民",
+      "role": "Participants in covenant from all social levels"
+    },
+    {
+      "name": "The Converts (Gerim)",
+      "hebrew": "הגרים",
+      "chinese": "改信者",
+      "role": "Foreign-born covenant participants"
+    }
+  ],
+  "practical_applications": [
+    "Building inclusive Jewish communities",
+    "Welcoming converts and interfaith families",
+    "Synagogue leadership diversity",
+    "Community event planning for all backgrounds",
+    "Addressing economic disparities in Jewish institutions"
+  ],
+  "word_count": {
+    "en": 2485,
+    "zh": 1180,
+    "he": 1645
+  },
+  "dall_e_prompt": "A breathtaking Chinese shan shui landscape showing thousands of diverse figures standing together on rolling hills before a great river. Men, women, children, elders, and leaders from all walks of life face toward a promised land across the water. Above them, ancient covenant scrolls float in misty clouds, while below, the earth shows both wilderness stones and fertile soil. The composition uses traditional ink wash techniques with flowing brushstrokes, muted earth tones of charcoal gray, warm browns, and touches of sage green. The scene captures unity in diversity, with each figure distinct yet part of a greater whole. Style: Classical Chinese landscape painting with emphasis on human harmony within nature.",
+  "image_style": "Chinese 山水 (shan shui) ink wash painting",
+  "status": "completed",
+  "created_date": "2026-03-18",
+  "author": "Torah Light AI Writer",
+  "bibliography_sources": [
+    {
+      "title": "Deuteronomy 29:9-30:20",
+      "type": "primary_text",
+      "url": "https://www.sefaria.org/Deuteronomy.29.9-30.20",
+      "description": "Primary Torah text of Parashat Nitzavim"
+    },
+    {
+      "title": "Rashi Commentary on Deuteronomy 29",
+      "type": "classical_commentary",
+      "url": "https://www.sefaria.org/Rashi_on_Deuteronomy.29",
+      "description": "Medieval French commentary on the covenant renewal"
+    },
+    {
+      "title": "Sforno Commentary on Deuteronomy 29:9-11",
+      "type": "classical_commentary", 
+      "url": "https://www.sefaria.org/Sforno_on_Deuteronomy.29.9-11",
+      "description": "Renaissance commentary on inclusion of all social classes"
+    },
+    {
+      "title": "The Concept of Harmony (和) in Chinese Philosophy",
+      "type": "cultural_parallel",
+      "url": "https://plato.stanford.edu/entries/chinese-harmony/",
+      "description": "Stanford Encyclopedia entry on Chinese harmony concepts"
+    },
+    {
+      "title": "Ancient Near Eastern Covenant Forms",
+      "type": "academic_source",
+      "url": "https://www.jstor.org/stable/1356449",
+      "description": "Academic analysis of covenant structures in antiquity"
+    },
+    {
+      "title": "Conversion and Community in Jewish Law",
+      "type": "halakhic_source",
+      "url": "https://www.rabbinicalassembly.org/jewish-law/committee-jewish-law-and-standards/contemporary-halakhah/conversion",
+      "description": "Modern halakhic perspectives on conversion and inclusion"
+    }
+  ]
+}

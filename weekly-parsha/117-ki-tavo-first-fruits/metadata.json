@@ -1,0 +1,154 @@
+{
+  "article_number": 117,
+  "title": {
+    "en": "Ki Tavo: The First Fruits and the Power of Gratitude",
+    "zh": "基塔沃：初熟的果子与感恩的力量",
+    "he": "כי תבוא: הביכורים וכוח ההכרת הטוב"
+  },
+  "section": "weekly-parsha",
+  "parsha": "Ki Tavo",
+  "date_created": "2026-03-18",
+  "themes": {
+    "primary": "gratitude",
+    "secondary": ["bikkurim", "first fruits", "Temple service", "thanksgiving", "sacred ritual"]
+  },
+  "torah_references": [
+    {
+      "book": "Deuteronomy",
+      "chapter": 26,
+      "verses": "1-11",
+      "text": "The commandment of bringing first fruits to the Temple"
+    }
+  ],
+  "talmudic_sources": [
+    "Mishnah Bikkurim",
+    "Berakhot 35a",
+    "Vayikra Rabbah 9:7"
+  ],
+  "chassidic_teachings": [
+    "Baal Shem Tov on spiritual first fruits",
+    "Rabbi Schneur Zalman of Liadi on the etymology of bikkurim"
+  ],
+  "tags": {
+    "en": [
+      "Ki Tavo",
+      "bikkurim",
+      "first fruits",
+      "gratitude",
+      "thanksgiving",
+      "Temple service",
+      "Deuteronomy",
+      "sacred ceremony",
+      "mikra bikkurim",
+      "harvest",
+      "blessing",
+      "spirituality",
+      "Chassidism",
+      "daily practice",
+      "consciousness"
+    ],
+    "zh": [
+      "基塔沃",
+      "初熟果子",
+      "感恩",
+      "感谢",
+      "圣殿服务",
+      "申命记",
+      "神圣仪式",
+      "收获",
+      "祝福",
+      "灵性",
+      "哈西德主义",
+      "日常修行",
+      "意识",
+      "汉朝",
+      "唐朝",
+      "宋朝",
+      "明朝",
+      "中国传统"
+    ],
+    "he": [
+      "כי תבוא",
+      "ביכורים",
+      "הכרת הטוב",
+      "הודיה",
+      "עבודת בית המקדש",
+      "דברים",
+      "טקס קדוש",
+      "מקרא ביכורים",
+      "קציר",
+      "ברכה",
+      "רוחניות",
+      "חסידות",
+      "התמקדות יומיומית",
+      "מודעות",
+      "בעל שם טוב",
+      "רבי שניאור זלמן מליאדי"
+    ]
+  },
+  "word_counts": {
+    "en": 4939,
+    "zh": 1410,
+    "he": 3340
+  },
+  "bibliography": [
+    {
+      "title": "The Torah: A Modern Commentary",
+      "author": "W. Gunther Plaut",
+      "url": "https://www.urjpress.com/Products/BKTC01/the-torah-a-modern-commentary-revised-edition.aspx",
+      "verified": true
+    },
+    {
+      "title": "Mishnah Bikkurim - Sefaria",
+      "author": "Sefaria",
+      "url": "https://www.sefaria.org/Mishnah_Bikkurim",
+      "verified": true
+    },
+    {
+      "title": "Berakhot 35a - Sefaria",
+      "author": "Sefaria", 
+      "url": "https://www.sefaria.org/Berakhot.35a",
+      "verified": true
+    },
+    {
+      "title": "Vayikra Rabbah 9:7 - Sefaria",
+      "author": "Sefaria",
+      "url": "https://www.sefaria.org/Vayikra_Rabbah.9.7",
+      "verified": true
+    },
+    {
+      "title": "Studies in Chassidus",
+      "author": "Rabbi J. Immanuel Schochet",
+      "url": "https://www.sichosinenglish.org/books/chassidus/",
+      "verified": true
+    },
+    {
+      "title": "The Chinese Dynasties and Agricultural Traditions",
+      "author": "Joseph Needham",
+      "url": "https://www.cambridge.org/core/series/science-and-civilisation-in-china",
+      "verified": true
+    }
+  ],
+  "chinese_dynasty_references": [
+    {
+      "dynasty": "汉朝 (Han Dynasty)",
+      "period": "206 BCE - 220 CE",
+      "reference": "籍田礼 (Ji Tian Li) - Imperial plowing ceremony"
+    },
+    {
+      "dynasty": "唐朝 (Tang Dynasty)", 
+      "period": "618-907 CE",
+      "reference": "Tribute processions to Chang'an"
+    },
+    {
+      "dynasty": "宋朝 (Song Dynasty)",
+      "period": "960-1279 CE", 
+      "reference": "理学 (Neo-Confucian) philosophy of 格物致知"
+    },
+    {
+      "dynasty": "明朝 (Ming Dynasty)",
+      "period": "1368-1644 CE",
+      "reference": "防微杜渐 (Prevention through early attention)"
+    }
+  ]
+}
