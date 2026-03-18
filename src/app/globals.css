@@ -1,0 +1,54 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-primary: #1a365d;
+  --color-primary-light: #2a4a7f;
+  --color-primary-dark: #0f2440;
+  --color-gold: #c6973f;
+  --color-gold-light: #dbb065;
+  --color-cream: #faf8f0;
+  --color-cream-dark: #f0ead6;
+  --color-text: #1a1a2e;
+  --color-text-light: #4a4a6a;
+  --color-bg: #ffffff;
+  --color-bg-alt: #f5f3eb;
+  --font-sans: "Noto Sans SC", "Noto Sans Hebrew", Arial, sans-serif;
+}
+
+body {
+  background: var(--color-bg);
+  color: var(--color-text);
+  font-family: var(--font-sans);
+}
+
+[dir="rtl"] {
+  text-align: right;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: var(--color-cream);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--color-gold);
+  border-radius: 4px;
+}
+
+/* Star of David decorative element */
+.star-decoration::before {
+  content: "✡";
+  color: var(--color-gold);
+  margin-right: 0.5rem;
+}
+
+/* Audio player custom styling */
+audio::-webkit-media-controls-panel {
+  background: var(--color-cream);
+}
