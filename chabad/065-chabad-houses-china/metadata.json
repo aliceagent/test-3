@@ -1,0 +1,71 @@
+{
+  "id": 65,
+  "title": {
+    "en": "Chabad Houses in China: Your Complete Directory and Guide",
+    "zh": "中国恰巴德会所：您的完整目录和指南",
+    "he": "בתי חב\"ד בסין: המדריך והמפתח המלאים שלך"
+  },
+  "section": "Community",
+  "folder": "community",
+  "description": "A comprehensive list of Chabad centers across China (Shanghai, Beijing, Hong Kong, Chengdu, and more) with contacts and services.",
+  "word_count": {
+    "en": 5847,
+    "zh": 2448,
+    "he": 4621
+  },
+  "status": "completed",
+  "created": "2026-03-17",
+  "author": "Torah Light Team",
+  "languages": ["en", "zh", "he"],
+  "tags": [
+    "Chabad",
+    "ChabadHouse",
+    "JewishCommunity",
+    "China",
+    "Shanghai",
+    "Beijing",
+    "HongKong",
+    "Guangzhou",
+    "Shenzhen",
+    "Chengdu",
+    "KosherFood",
+    "Shabbat",
+    "JewishLearning",
+    "Conversion",
+    "TorahClasses",
+    "JewishHolidays",
+    "JewsInChina",
+    "JewsInAsia",
+    "CommunityResources",
+    "中国犹太社区",
+    "恰巴德会所",
+    "犹太教学习"
+  ],
+  "cities_covered": [
+    "Shanghai",
+    "Beijing",
+    "Hong Kong",
+    "Guangzhou",
+    "Shenzhen",
+    "Chengdu",
+    "Yiwu",
+    "Kowloon",
+    "Pudong"
+  ],
+  "target_audience": [
+    "Chinese native Mandarin speakers",
+    "Jewish expatriates in China",
+    "People considering conversion",
+    "Travelers seeking Jewish services",
+    "Students and young professionals"
+  ],
+  "key_topics": [
+    "Chabad House directory",
+    "Contact information for rabbis",
+    "Services offered (Shabbat, holidays, kosher food)",
+    "What to expect when visiting",
+    "Jewish life in China",
+    "Conversion support",
+    "Historical context of Jews in China"
+  ]
+}

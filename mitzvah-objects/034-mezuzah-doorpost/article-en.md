@@ -112,7 +112,7 @@ This consciousness extends beyond the home. Just as houses have doorways, human 
    *(Educational overview of mezuzah origins, laws, and customs)*
 
 3. **"Deuteronomy 6:4-9"** — Sefaria.org  
-   https://www.sefaria.org/Deuteronomy.6.4-9  
+   https://www.sefaria.org.il/Deuteronomy.6.4-9  
    *(First paragraph of mezuzah containing the Shema prayer)*
 
 4. **"Deuteronomy 11:13-21"** — Sefaria.org  

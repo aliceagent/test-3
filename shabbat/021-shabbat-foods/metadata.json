@@ -1,0 +1,189 @@
+{
+  "id": 21,
+  "title": {
+    "en": "Cholent and Other Shabbat Foods: Recipes for the Chinese Kitchen",
+    "zh": "炖肉煲与安息日美食：中式厨房的犹太食谱",
+    "he": "חולנט ומאכלי שבת נוספים: מתכונים למטבח הסיני"
+  },
+  "section": "Shabbat",
+  "folder": "shabbat-foods",
+  "description": {
+    "en": "Learn how to make traditional Shabbat foods like cholent, kugel, and gefilte fish in your Chinese kitchen, with adaptations and cultural parallels.",
+    "zh": "学习如何在中式厨房制作传统安息日美食，如炖肉煲、库格尔和吉菲尔特鱼，包括改良和文化对比。",
+    "he": "למדו איך להכין מאכלי שבת מסורתיים כמו חולנט, קוגל וגפילטע פיש במטבח הסיני שלכם, עם התאמות והקבלות תרבותיות."
+  },
+  "word_count": {
+    "en": 8950,
+    "zh": 4200,
+    "he": 7200
+  },
+  "languages": ["en", "zh", "he"],
+  "status": "complete",
+  "author": "Torah Light Editorial Team",
+  "created": "2026-03-17T06:19:00+02:00",
+  "completed": "2026-03-17T06:19:00+02:00",
+  "chinese_dynasty_references": [
+    {
+      "dynasty": "Shang Dynasty (商朝晚期)",
+      "dates": "~1300 BCE",
+      "jewish_context": "Construction of the Mishkan (Tabernacle) in the wilderness, establishment of the 39 melachot"
+    },
+    {
+      "dynasty": "Song Dynasty (宋朝)",
+      "dates": "960-1279 CE",
+      "jewish_context": "Development of cholent in medieval Europe, Ashkenazi culinary traditions"
+    },
+    {
+      "dynasty": "Yuan Dynasty (元朝)",
+      "dates": "1271-1368 CE", 
+      "jewish_context": "Creation of gefilte fish in 14th century Germany as solution to Shabbat sorting prohibition"
+    },
+    {
+      "dynasty": "Spring and Autumn Period (春秋时代)",
+      "dates": "770-476 BCE",
+      "jewish_context": "Ancient Yemenite Jewish community established after First Temple destruction (586 BCE)"
+    }
+  ],
+  "cultural_parallels": [
+    "Chinese slow-simmered soups (煲汤) vs Jewish cholent - both use time to transform simple ingredients",
+    "Chinese braised dishes (炖肉) vs Shabbat stews - same low and slow philosophy",
+    "Clay pot cooking (煲仔饭) vs one-pot Shabbat meals - complete meals in single vessel",
+    "Chinese New Year reunion dinner (团圆饭) vs Shabbat meals - family gathering, advance preparation, symbolic foods",
+    "Festival foods in both cultures - specific dishes mark sacred time and carry meaning beyond nutrition",
+    "Respect for ancient texts and oral traditions in both cultures"
+  ],
+  "key_recipes": [
+    "Traditional Ashkenazi Cholent with Chinese substitutions",
+    "Potato Kugel (Classic)",
+    "Sweet Noodle Kugel", 
+    "Yemenite Kubaneh Pull-Apart Bread",
+    "Yemenite Jachnun Flaky Pastry",
+    "Gefilte Fish adaptation",
+    "Moroccan Dafina variation",
+    "Regional cholent variations"
+  ],
+  "halachic_principles": [
+    "39 Melachot (prohibited categories of work on Shabbat)",
+    "Prohibition of cooking on Shabbat",
+    "Prohibition of kindling fire",
+    "Prohibition of sorting (borer)",
+    "Keeping food warm vs reheating",
+    "Difference between solids and liquids on Shabbat",
+    "Kavod Shabbat - honoring Shabbat with special foods",
+    "Oneg Shabbat - delighting in Shabbat"
+  ],
+  "practical_applications": [
+    "Using slow cookers for Shabbat cooking",
+    "Adapting recipes for Chinese kitchens",
+    "Finding kosher ingredients in China",
+    "Equipment recommendations",
+    "First Shabbat meal planning",
+    "Community building through Shabbat hospitality"
+  ],
+  "dall_e_header_image": {
+    "prompt": "A Chinese ink wash (水墨) landscape painting in shan shui (山水) style depicting a warm, glowing kitchen scene with traditional earthenware pots simmering over gentle coals. In the background, misty mountains suggest the passage of time from Friday evening to Saturday afternoon. The foreground shows ornate ceramic bowls containing rich stews, braided bread (challah), and layered pastries, rendered in muted earth tones—ochre, warm browns, soft blacks—with accents of golden firelight. The composition evokes both Jewish Shabbat hospitality and Chinese slow-cooking traditions. The mood is serene, contemplative, and inviting, with steam rising gently from the pots like morning mist over a river.",
+    "style": "Chinese ink wash (水墨) shan shui (山水) landscape painting",
+    "elements": [
+      "Traditional earthenware pots on gentle coals",
+      "Misty mountains in background",
+      "Ornate ceramic bowls with stews",
+      "Braided challah bread",
+      "Layered pastries",
+      "Muted earth tones - ochre, warm browns, soft blacks",
+      "Golden firelight accents",
+      "Steam rising like morning mist",
+      "Serene, contemplative, inviting mood"
+    ]
+  },
+  "key_topics": [
+    "Shabbat food laws",
+    "39 Melachot",
+    "Cholent preparation",
+    "Kugel varieties",
+    "Gefilte fish history",
+    "Yemenite Shabbat breads",
+    "Chinese cooking parallels",
+    "Slow cooking techniques",
+    "Community and hospitality",
+    "Sacred time and food",
+    "Jewish-Chinese fusion cooking"
+  ],
+  "target_audience": "Jews learning Orthodox Judaism in Chinese cultural context, Chinese people interested in Jewish traditions, anyone wanting to prepare Shabbat foods",
+  "difficulty_level": "Intermediate - requires advance planning and understanding of Shabbat laws",
+  "estimated_reading_time": {
+    "en": "35-40 minutes",
+    "zh": "25-30 minutes",
+    "he": "30-35 minutes"
+  },
+  "cross_references": [
+    "Article #16: Your First Shabbat: A Step-by-Step Guide",
+    "Article #22: What Can and Can't I Do on Shabbat?",
+    "Article #23: Making Kosher Chinese Food: A Complete Guide",
+    "Jewish dietary laws and kashrut articles",
+    "Shabbat preparation guides"
+  ],
+  "tags": [
+    "Shabbat",
+    "Cholent", 
+    "ShabbatFood",
+    "KosherCooking",
+    "Kugel",
+    "GefiltefFish",
+    "Kubaneh",
+    "Jachnun",
+    "39Melachot",
+    "ChineseCuisine",
+    "煲汤",
+    "炖菜",
+    "团圆饭",
+    "ShabbatRecipes",
+    "JewishCooking",
+    "HalachicCooking",
+    "SlowCooking",
+    "ShabbatPreparation",
+    "JewishTradition",
+    "ChineseJewishFusion",
+    "安息日",
+    "炖肉煲",
+    "安息日美食",
+    "洁食烹饪",
+    "库格尔",
+    "吉菲尔特鱼",
+    "库巴内",
+    "雅克恩",
+    "39种创造性劳动",
+    "中式菜肴",
+    "שבת",
+    "חולנט",
+    "אוכלשבת",
+    "בישולכשר",
+    "קוגל",
+    "גפילטעפיש",
+    "קובאנה",
+    "ג'חנון",
+    "39מלאכות",
+    "מטבחסיני"
+  ],
+  "bibliography_sources": 3,
+  "urls_verified": true,
+  "sources": [
+    {
+      "title": "How We Eat on Shabbat Without Cooking",
+      "url": "https://aish.com/how-we-eat-on-shabbat-without-cooking/",
+      "description": "Comprehensive explanation of the 39 melachot and Jewish cooking adaptations to Shabbat laws",
+      "verified": true
+    },
+    {
+      "title": "Super-Fast and Easy Shabbat Recipes", 
+      "url": "https://aish.com/super-fast-and-easy-shabbat-recipes/",
+      "description": "Practical Shabbat recipes with time-saving tips",
+      "verified": true
+    },
+    {
+      "title": "Shulchan Arukh, Orach Chayim 257",
+      "url": "https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.257",
+      "description": "Primary halachic source for Shabbat food preparation laws",
+      "verified": true
+    }
+  ]
+}

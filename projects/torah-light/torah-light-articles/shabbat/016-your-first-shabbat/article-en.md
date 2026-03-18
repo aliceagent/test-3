@@ -13,9 +13,13 @@ This guide will walk you through your first Shabbat step by step, explaining wha
 
 ## Historical Context
 
-Shabbat observance dates back to the very beginning of creation, when God rested on the seventh day after creating the world. The commandment to observe Shabbat was given at Mount Sinai and is one of the Ten Commandments. Throughout Jewish history, even during the most difficult times, Jews have maintained this weekly sanctuary in time.
+Shabbat observance dates back to the very beginning of creation, when God rested on the seventh day after creating the world. The commandment to observe Shabbat was given at Mount Sinai (approximately 1300 BCE, during China's Late Shang Dynasty 商朝晚期) and is one of the Ten Commandments. Throughout Jewish history, even during the most difficult times, Jews have maintained this weekly sanctuary in time.
+
+The detailed laws and discussions about Shabbat are recorded in the Talmud (compiled during the period of China's Three Kingdoms through Jin Dynasty 三国至晋朝, approximately 200-500 CE), which contains centuries of rabbinic wisdom about how to observe this sacred day.
 
 **Chinese Dynasty Context:**
+- **Late Shang Dynasty (商朝晚期, ~1300 BCE):** The era when the Torah was given at Mount Sinai, establishing the Shabbat commandment for the Jewish people
+- **Three Kingdoms-Jin Dynasty (三国至晋朝, 220-420 CE):** Period when the Talmud's discussions on Shabbat laws were being compiled and debated by rabbis
 - **Tang Dynasty (618-907 CE):** During this golden age of Chinese culture, Jewish merchants along the Silk Road were already observing Shabbat in Chinese cities
 - **Song Dynasty (960-1279 CE):** The famous Kaifeng Jewish community was fully established, maintaining Shabbat traditions while integrating into Chinese society
 - **Ming Dynasty (1368-1644 CE):** Despite assimilation pressures, Kaifeng Jews continued weekly Shabbat observance as recorded in Chinese historical documents
@@ -188,6 +192,13 @@ Shabbat isn't just about rules—it's about creating sacred time. For 25 hours, 
 The beauty of Shabbat isn't in perfect execution but in sincere intention. Even if you only light candles and have a special meal, you're connecting with thousands of years of Jewish tradition and millions of Jews around the world doing the same thing at the same time.
 
 Start small, be patient with yourself, and let Shabbat gradually transform your week. Many Jews say that Shabbat doesn't just mark the end of the week—it gives meaning to the entire week leading up to it.
+
+## Key Takeaways
+
+- **Shabbat is accessible to everyone:** You don't need perfect Hebrew, expensive items, or flawless execution—the intention and effort to create sacred time matter most
+- **Build your practice gradually:** Start with candle lighting and a special meal, then slowly add elements like Kiddush, hand washing, and avoiding weekday activities as you become comfortable
+- **Focus on the spiritual purpose:** Shabbat is fundamentally about stepping away from work and commerce to focus on gratitude, family connection, study, rest, and reflection
+- **Community and tradition matter:** By observing Shabbat, you connect with thousands of years of Jewish history and millions of Jews worldwide sharing the same weekly rhythm of sacred time
 
 ## Tags
 - Shabbat Basics

@@ -1,0 +1,43 @@
+{
+  "id": 80,
+  "title": "The Rambam's Mishneh Torah: A Guide to the Greatest Halachic Code",
+  "title_zh": "拉姆巴姆的《密西内·托拉》:最伟大的犹太法典指南",
+  "title_he": "משנה תורה של הרמב\"ם: מדריך לקובץ ההלכה הגדול ביותר",
+  "section": "Jewish Texts",
+  "folder": "jewish-texts",
+  "description": "Who was Maimonides, what is the Mishneh Torah, and how to start studying it — even as a beginner.",
+  "historical_context": "Southern Song Dynasty (南宋, 1127-1279 CE)",
+  "word_count": {
+    "en": 4650,
+    "zh": 4620,
+    "he": 4580
+  },
+  "tags": [
+    "Rambam",
+    "Maimonides",
+    "MishnehTorah",
+    "JewishLaw",
+    "Halachah",
+    "TorahStudy",
+    "JewishTexts",
+    "SeferHaMada",
+    "Repentance",
+    "JewishPhilosophy",
+    "SouthernSongDynasty",
+    "南宋",
+    "朱熹",
+    "Systematic",
+    "LegalCode",
+    "犹太法典"
+  ],
+  "bibliography_count": 10,
+  "cultural_parallels": [
+    "Neo-Confucianism systematization by Zhu Xi",
+    "Civil service examination system",
+    "Encyclopedic compilation traditions",
+    "Inner cultivation (修身) before external action"
+  ],
+  "status": "complete",
+  "created": "2026-03-17T15:38:00+02:00",
+  "completed": "2026-03-17T15:42:00+02:00"
+}

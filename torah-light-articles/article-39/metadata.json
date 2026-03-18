@@ -1,0 +1,38 @@
+{
+  "article_id": 39,
+  "title": "The Tallit: More Than Just a Prayer Shawl",
+  "title_zh": "祷告披肩塔利特：不仅仅是一块布",
+  "title_he": "הטלית: יותר מסתם צעיף תפילה",
+  "section": "mitzvah_objects",
+  "folder": "mitzvah-objects",
+  "description": "History, laws, and customs of the tallit — when to wear it, how to put it on, and the significance of the blue thread.",
+  "status": "draft_complete",
+  "word_counts": {
+    "english": 2450,
+    "chinese": 950,
+    "hebrew": 1750
+  },
+  "languages": ["en", "zh", "he"],
+  "files_created": [
+    "article-en.md",
+    "article-zh.md", 
+    "article-he.md"
+  ],
+  "research_files": [
+    "sources.json",
+    "aish-content.md",
+    "chabad-content.md",
+    "chabad-content-2.md",
+    "myjewish-content.md",
+    "chinese-parallels.md"
+  ],
+  "bibliography_verified": true,
+  "all_urls_live": true,
+  "chinese_dynasty_context": "Late Shang Dynasty (商朝晚期, ~1300-1260 BCE)",
+  "cultural_parallels_included": true,
+  "tags": ["Tallit", "TzitzitFringes", "PrayerShawl", "MitzvahObjects", "BiblicalCommandments", "SacredNumbers", "Techelet", "BlueThread", "MorningPrayer", "ShangDynasty", "商朝", "DivinePresence", "JewishRitual", "SpiritualClothing", "613Commandments"],
+  "header_image_description": "A serene Chinese shan shui landscape painting in traditional ink wash style, depicting a peaceful morning scene with misty mountains in the background. In the foreground, a flowing white cloth with delicate blue threads draped over a weathered stone, symbolizing the sacred connection between earth and heaven. Soft morning light filters through bamboo trees, creating gentle shadows that suggest spiritual contemplation. The composition uses muted earth tones - grey mountains, white mist, and subtle blue accents - evoking a sense of reverence and timeless tradition. The scene conveys quiet dignity and the harmony between the physical and spiritual worlds.",
+  "created_by": "subagent_writer",
+  "date_created": "2026-03-17T09:18:00+02:00",
+  "ready_for_qa": true
+}

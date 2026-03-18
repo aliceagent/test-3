@@ -1,0 +1,134 @@
+{
+  "id": 38,
+  "title": "Blessings on Nature: What to Say When You See Lightning, a Rainbow, or the Ocean",
+  "title_zh": "自然祝福:看到闪电、彩虹或海洋时该说什么",
+  "title_he": "ברכות על הטבע: מה לומר כשרואים ברק, קשת או אוקיינוס",
+  "section": "Blessings",
+  "slug": "038-blessings-on-nature",
+  "description": "A guide to the special blessings recited upon experiencing natural wonders, including the rare Shehecheyanu.",
+  "author": "Torah Light Project",
+  "date_created": "2026-03-17",
+  "languages": ["en", "zh", "he"],
+  "word_count": {
+    "en": 2950,
+    "zh": 2100,
+    "he": 2200
+  },
+  "tags": [
+    "Blessings",
+    "Nature",
+    "Lightning",
+    "Thunder",
+    "Rainbow",
+    "Ocean",
+    "Gratitude",
+    "Creation",
+    "Noah's Covenant",
+    "Natural Wonders",
+    "Berachot",
+    "祝福",
+    "自然",
+    "闪电",
+    "彩虹",
+    "海洋",
+    "感恩",
+    "创世",
+    "ברכות",
+    "טבע",
+    "ברק",
+    "רעם",
+    "קשת",
+    "אוקיינוס",
+    "הכרת תודה",
+    "בריאה"
+  ],
+  "sources": [
+    "https://www.chabad.org/library/article_cdo/aid/700194/jewish/The-Blessings-on-Natural-Phenomena.htm",
+    "https://www.aish.com/jl/l/b/48969871.html",
+    "https://www.myjewishlearning.com/article/shehecheyanu-and-other-occasional-blessings/",
+    "https://www.sefaria.org/Berakhot.54a",
+    "https://www.sefaria.org/Genesis.9",
+    "https://www.sefaria.org/Psalms.19",
+    "https://www.ou.org/holidays/birkat-hailanot-the-blessing-of-the-trees/"
+  ],
+  "historical_periods": [
+    {
+      "jewish_period": "Talmudic Period",
+      "dates": "200-500 CE",
+      "chinese_equivalent": "Three Kingdoms through Jin Dynasty (三国时期至晋朝)"
+    },
+    {
+      "jewish_period": "Medieval Rabbis (Judah Halevi)",
+      "dates": "1075-1141 CE",
+      "chinese_equivalent": "Song Dynasty (宋朝)"
+    }
+  ],
+  "biblical_references": [
+    {
+      "book": "Genesis",
+      "chapter": 9,
+      "verses": "13-15",
+      "topic": "Rainbow covenant with Noah"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 19,
+      "verse": 2,
+      "topic": "The heavens declare God's glory"
+    }
+  ],
+  "talmudic_references": [
+    {
+      "tractate": "Berakhot",
+      "page": "54a",
+      "topic": "Nature blessings"
+    }
+  ],
+  "cultural_parallels": [
+    "Daoism and nature as expression of harmony",
+    "Chinese landscape painting (shanshui) as contemplation of the infinite",
+    "Confucian ritual (li) as cosmic connection"
+  ],
+  "practical_applications": [
+    "Lightning/thunder blessing: once per storm",
+    "Rainbow blessing: once per 30 days",
+    "Ocean blessing: when seeing after 30+ days",
+    "Landscape blessing: for extraordinary natural sights",
+    "Spring blossom blessing: annually in month of Nissan"
+  ],
+  "key_hebrew_terms": [
+    {
+      "term": "berachot",
+      "translation": "blessings",
+      "pronunciation": "beh-rah-KHOT"
+    },
+    {
+      "term": "she-kocho u-gevurato malei olam",
+      "translation": "whose strength and power fill the world",
+      "context": "blessing for lightning/thunder"
+    },
+    {
+      "term": "zocher ha-brit",
+      "translation": "who remembers the covenant",
+      "context": "blessing for rainbow"
+    },
+    {
+      "term": "oseh et ha-yam ha-gadol",
+      "translation": "who made the great sea",
+      "context": "blessing for ocean"
+    },
+    {
+      "term": "oseh ma'aseh bereishit",
+      "translation": "who makes the work of creation",
+      "context": "blessing for beautiful landscapes"
+    },
+    {
+      "term": "Birkat Ha'Ilanot",
+      "translation": "blessing on the trees",
+      "context": "spring blossoms blessing"
+    }
+  ],
+  "difficulty_level": "beginner",
+  "estimated_reading_time_minutes": 12,
+  "status": "complete"
+}

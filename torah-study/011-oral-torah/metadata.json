@@ -1,0 +1,86 @@
+{
+  "id": 11,
+  "title": {
+    "en": "What is the Oral Torah? Understanding the Mishnah and Talmud",
+    "zh": "什么是口传律法?理解《密西拿》和《塔木德》",
+    "he": "מהי התורה שבעל פה? הבנת המשנה והתלמוד"
+  },
+  "section": "Torah Study",
+  "description": "How the Oral Torah was transmitted from Sinai through generations, and why it's essential to understanding the Written Torah.",
+  "word_count": {
+    "en": 3842,
+    "zh": 1485,
+    "he": 2876
+  },
+  "author": "Torah Light Project",
+  "date_created": "2026-03-17",
+  "status": "complete",
+  "languages": ["en", "zh", "he"],
+  "tags": [
+    "Oral Torah",
+    "Mishnah",
+    "Talmud",
+    "Torah Study",
+    "Jewish Law",
+    "Halachah",
+    "Rabbi Judah the Prince",
+    "Gemara",
+    "Rashi",
+    "Pirkei Avot",
+    "Transmission",
+    "Chain of Tradition",
+    "Confucianism",
+    "Shang Dynasty",
+    "Han Dynasty",
+    "Song Dynasty",
+    "Study Partner",
+    "Chavruta"
+  ],
+  "chinese_parallels": [
+    "Confucian classics and commentaries",
+    "Master-disciple transmission (师徒传承)",
+    "Tang Code and case law",
+    "Analects as recorded teachings"
+  ],
+  "historical_periods": [
+    {
+      "jewish": "Moses at Sinai",
+      "date": "~1300 BCE",
+      "chinese": "Late Shang Dynasty (商朝)"
+    },
+    {
+      "jewish": "Hillel and Shammai",
+      "date": "1st century BCE",
+      "chinese": "Western Han Dynasty (西汉)"
+    },
+    {
+      "jewish": "Rabbi Akiva",
+      "date": "died 135 CE",
+      "chinese": "Eastern Han Dynasty (东汉)"
+    },
+    {
+      "jewish": "Mishnah compilation",
+      "date": "~200 CE",
+      "chinese": "Three Kingdoms period (三国)"
+    },
+    {
+      "jewish": "Talmud compilation",
+      "date": "200-500 CE",
+      "chinese": "Jin Dynasty through Southern and Northern Dynasties (晋朝至南北朝)"
+    },
+    {
+      "jewish": "Rashi commentary",
+      "date": "11th century",
+      "chinese": "Song Dynasty (宋朝)"
+    }
+  ],
+  "sources": [
+    "https://www.sefaria.org/Pirkei_Avot.1.1",
+    "https://www.chabad.org/library/article_cdo/aid/2088563/jewish/Introduction-to-the-Mishnah.htm",
+    "https://www.myjewishlearning.com/article/talmud-101/",
+    "https://www.aish.com/jl/p/o/48936202/",
+    "https://www.sefaria.org/sheets/157525",
+    "https://www.jewishvirtuallibrary.org/the-babylonian-talmud",
+    "https://www.sefaria.org/person/Rashi"
+  ]
+}

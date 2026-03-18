@@ -1,0 +1,77 @@
+{
+  "id": 26,
+  "title": "Understanding Kosher Certification Symbols",
+  "title_zh": "理解犹太洁食认证标志",
+  "title_he": "הבנת סמלי כשרות",
+  "slug": "kosher-certification-symbols",
+  "section": "Kosher Food",
+  "section_zh": "犹太洁食",
+  "section_he": "כשרות",
+  "description": "A visual guide to the most common hechsher (kosher certification) symbols and what each one means.",
+  "description_zh": "最常见的洁食认证标志(hechsher)及其含义的视觉指南。",
+  "description_he": "מדריך חזותי לסמלי ההכשר (הסמכת כשרות) הנפוצים ביותר ומה כל אחד מהם אומר.",
+  "tags": [
+    "Kosher",
+    "KosherCertification",
+    "Hechsher",
+    "OU",
+    "Kashrut",
+    "Pareve",
+    "Dairy",
+    "KosherFood",
+    "JewishDietaryLaws",
+    "ChineseKosher",
+    "犹太洁食",
+    "认证标志",
+    "商朝",
+    "汉朝",
+    "宋朝"
+  ],
+  "word_count_en": 3842,
+  "word_count_zh": 2614,
+  "word_count_he": 2458,
+  "character_count_zh": 6653,
+  "author": "Torah Light Project",
+  "date_created": "2026-03-17",
+  "status": "complete",
+  "version": "1.0",
+  "historical_context": {
+    "chinese_dynasty": "汉朝 (Han Dynasty, 206 BCE – 220 CE) and 宋朝 (Song Dynasty, 960–1279 CE)",
+    "jewish_period": "Second Temple Period and Medieval Rabbis (Rashi era)",
+    "parallel": "Both Chinese imperial seals and Jewish kosher certification represent systems of trust and quality control in trade and commerce."
+  },
+  "cultural_connections": [
+    "Imperial seals certifying quality in Han Dynasty China",
+    "Guild quality control systems in Song Dynasty",
+    "Universal need for trusted certification in trade"
+  ],
+  "key_concepts": [
+    "Hechsher (kosher certification symbol)",
+    "Five major agencies: OU, OK, Kof-K, Star-K, cRc",
+    "Modifiers: D (dairy), P/Pareve (neutral), M (meat)",
+    "Passover certification requirements",
+    "Reading and verifying kosher labels"
+  ],
+  "target_audience": "Native Mandarin speakers with no prior Jewish knowledge, particularly those in China seeking to understand or keep kosher",
+  "learning_objectives": [
+    "Identify the five major kosher certification symbols",
+    "Understand the meaning of D, P, and M modifiers",
+    "Know how to verify kosher products using online databases",
+    "Recognize reliable vs unreliable kosher symbols",
+    "Apply kosher certification knowledge when shopping"
+  ],
+  "bibliography_sources": 8,
+  "urls_verified": true,
+  "languages": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "folder_structure": "kosher-food/026-kosher-certification-symbols/",
+  "files": [
+    "article-en.md",
+    "article-zh.md",
+    "article-he.md",
+    "metadata.json"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": 52,
+  "title": {
+    "en": "Counting the Omer: The 49-Day Journey from Pesach to Shavuot",
+    "zh": "数俄梅尔:从逾越节到七七节的四十九天之旅",
+    "he": "ספירת העומר: מסע של 49 יום מפסח לשבועות"
+  },
+  "section": "Jewish Calendar",
+  "slug": "052-counting-omer",
+  "description": "What is the Omer count, how to do it, and the kabbalistic practice of refining one character trait each week.",
+  "tags": [
+    "Omer",
+    "CountingTheOmer",
+    "Pesach",
+    "Passover",
+    "Shavuot",
+    "JewishCalendar",
+    "SpiritualGrowth",
+    "Sefirot",
+    "Kabbalah",
+    "SelfImprovement",
+    "修身",
+    "Chesed",
+    "Gevurah",
+    "Tiferet",
+    "49Days",
+    "DailyPractice",
+    "RabbiAkiva",
+    "LagBaOmer",
+    "TorahReception",
+    "MountSinai",
+    "商朝"
+  ],
+  "word_count": {
+    "en": 2847,
+    "zh": 1158,
+    "he": 2156
+  },
+  "author": "Torah Light Project",
+  "date_created": "2026-03-17",
+  "status": "complete",
+  "bibliography_count": 6,
+  "cultural_parallels": [
+    "Confucian self-cultivation (修身)",
+    "Chinese Shang Dynasty period (商朝)",
+    "Chinese Eastern Han Dynasty (東漢)",
+    "Spring and Autumn Period (春秋時代)"
+  ],
+  "key_concepts": [
+    "Omer counting",
+    "49-day spiritual journey",
+    "Sefirot (seven character traits)",
+    "Daily blessing and count",
+    "Kabbalistic self-refinement",
+    "Pesach to Shavuot connection",
+    "Rabbi Akiva's students",
+    "Lag BaOmer",
+    "Daily spiritual discipline"
+  ],
+  "target_audience": "Chinese Mandarin speakers with no prior Jewish knowledge",
+  "languages": ["en", "zh", "he"],
+  "files": {
+    "en": "article-en.md",
+    "zh": "article-zh.md",
+    "he": "article-he.md"
+  }
+}

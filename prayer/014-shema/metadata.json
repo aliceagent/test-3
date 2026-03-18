@@ -1,0 +1,102 @@
+{
+  "id": 14,
+  "title": "The Shema: Understanding the Most Important Prayer in Judaism",
+  "title_zh": "示玛祷文:理解犹太教最重要的祈祷",
+  "title_he": "שמע ישראל: הבנת התפילה החשובה ביותר ביהדות",
+  "section": "Prayer",
+  "description": "A word-by-word breakdown of the three paragraphs of Shema, their meaning, and why Jews recite it twice daily.",
+  "word_count": {
+    "english": 5842,
+    "chinese": 5234,
+    "hebrew": 4891
+  },
+  "languages": ["en", "zh", "he"],
+  "tags": [
+    "Shema",
+    "Prayer",
+    "Faith",
+    "Monotheism",
+    "Daily Prayer",
+    "Torah",
+    "Deuteronomy",
+    "Numbers",
+    "Mitzvot",
+    "Tefillin",
+    "Mezuzah",
+    "Tzitzit",
+    "Rabbi Akiva",
+    "Holocaust",
+    "Jewish Identity",
+    "祈祷",
+    "信仰",
+    "一神教",
+    "妥拉",
+    "犹太教",
+    "תפילה",
+    "אמונה",
+    "מונותאיזם",
+    "תורה",
+    "זהות_יהודית"
+  ],
+  "torah_sources": [
+    "Deuteronomy 6:4-9",
+    "Deuteronomy 11:13-21",
+    "Numbers 15:37-41"
+  ],
+  "historical_figures": [
+    "Abraham",
+    "Rabbi Akiva",
+    "Rabbi Menachem Mendel Taub",
+    "Rabbi Yosef Shlomo Kahaneman",
+    "Jacob"
+  ],
+  "chinese_dynasties_mentioned": [
+    "Shang Dynasty (商朝, ~1600-1046 BCE)",
+    "Han Dynasty (汉朝, 1st-2nd century CE)",
+    "Spring and Autumn Period (春秋, 770-476 BCE)"
+  ],
+  "cultural_parallels": [
+    "Confucian Great Learning (大学, Daxue)",
+    "Filial Piety (孝, xiao)"
+  ],
+  "status": "complete",
+  "author": "Torah Light Writing Team",
+  "date_written": "2026-03-17",
+  "sources": [
+    {
+      "title": "Shema Yisrael: 8 Facts",
+      "url": "https://aish.com/shema-yisrael-8-facts/",
+      "site": "Aish.com"
+    },
+    {
+      "title": "The Shema: Understanding Judaism's Most Important Prayer",
+      "url": "https://aish.com/the-shema-understanding-judaisms-most-important-prayer/",
+      "site": "Aish.com"
+    },
+    {
+      "title": "The Shema - The Daily Declaration of Faith",
+      "url": "https://www.chabad.org/library/article_cdo/aid/705353/jewish/The-Shema.htm",
+      "site": "Chabad.org"
+    },
+    {
+      "title": "10 Facts Every Jew Should Know About the Shema Prayer",
+      "url": "https://www.chabad.org/library/article_cdo/aid/4089302/jewish/10-Facts-Every-Jew-Should-Know-About-the-Shema-Prayer.htm",
+      "site": "Chabad.org"
+    },
+    {
+      "title": "Deuteronomy 6:4-9",
+      "url": "https://www.sefaria.org/Deuteronomy.6.4-9",
+      "site": "Sefaria.org"
+    },
+    {
+      "title": "Deuteronomy 11:13-21",
+      "url": "https://www.sefaria.org/Deuteronomy.11.13-21",
+      "site": "Sefaria.org"
+    },
+    {
+      "title": "Numbers 15:37-41",
+      "url": "https://www.sefaria.org/Numbers.15.37-41",
+      "site": "Sefaria.org"
+    }
+  ]
+}

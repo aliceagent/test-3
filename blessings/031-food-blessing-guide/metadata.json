@@ -1,0 +1,55 @@
+{
+  "id": 31,
+  "title": {
+    "en": "Which Bracha Do I Say? A Quick-Reference Food Blessing Guide",
+    "zh": "我该说哪个祝福词?食物祝福快速参考指南",
+    "he": "איזו ברכה אני אומר? מדריך מהיר לברכות על מאכלים"
+  },
+  "section": "Blessings",
+  "description": "A handy chart showing which blessing to say before and after every type of food and drink.",
+  "word_count": {
+    "en": 4892,
+    "zh": 2531,
+    "he": 3186
+  },
+  "status": "complete",
+  "created": "2026-03-17T08:33:00+02:00",
+  "author": "Torah Light Editorial Team",
+  "languages": ["en", "zh", "he"],
+  "tags": [
+    "Blessings",
+    "Bracha",
+    "Brachot",
+    "Food Blessings",
+    "HaMotzi",
+    "Mezonot",
+    "Shehakol",
+    "Gratitude",
+    "Mindful Eating",
+    "Birkat HaMazon",
+    "感恩",
+    "祝福",
+    "正念饮食",
+    "Jewish Law",
+    "Daily Practice",
+    "Beginner Guide",
+    "Kitchen Judaism",
+    "ברכות",
+    "ברכת_המזון"
+  ],
+  "sources": [
+    "https://www.chabad.org/library/article_cdo/aid/90551/jewish/Texts-of-Blessings-Before-Eating.htm",
+    "https://www.chabad.org/library/article_cdo/aid/91124/jewish/Laws-of-Blessings-After-Eating.htm",
+    "https://www.chabad.org/library/article_cdo/aid/91116/jewish/Blessings-on-Combination.htm",
+    "https://oukosher.org/guide-to-blessings/",
+    "https://www.myjewishlearning.com/article/blessings-for-food-drink/",
+    "https://www.chabad.org/library/article_cdo/aid/865866/jewish/Grace-After-Meals.htm",
+    "https://www.myjewishlearning.com/article/how-to-say-birkat-hamazon-grace-after-meals/"
+  ],
+  "cultural_parallels": [
+    "Chinese mindful eating practices",
+    "Tang Dynasty family meals",
+    "Taoist qi cultivation",
+    "Confucian gratitude traditions"
+  ]
+}

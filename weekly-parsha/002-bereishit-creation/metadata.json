@@ -1,0 +1,20 @@
+{
+  "id": 2,
+  "title": {
+    "en": "Bereishit: Why God Created the World — And What It Means for You",
+    "zh": "创世记:上帝为何创造世界——以及这对你意味着什么",
+    "he": "בראשית: למה ברא ה' את העולם — ומה זה אומר לך"
+  },
+  "author": "Rabbi with Alice (AI)",
+  "date": "2026-03-17",
+  "tags": {
+    "en": ["Bereishit", "Genesis", "Creation", "Torah Study", "Weekly Parsha", "Purpose of Life", "Free Will", "Tikkun Olam", "Partnership", "God and Humanity", "Rashi", "Midrash Rabbah"],
+    "zh": ["创世记", "Genesis", "创造", "Torah Study", "Weekly Parsha", "生命的目的", "自由意志", "修复世界", "伙伴关系", "神与人类", "拉西", "米德拉什"],
+    "he": ["בראשית", "בריאה", "לימוד תורה", "פרשת השבוע", "מטרת החיים", "בחירה חופשית", "תיקון עולם", "שותפות", "אלוהים והאנושות", "רש״י", "מדרש רבה"]
+  },
+  "summary": {
+    "en": "An exploration of the opening verses of Genesis, examining why God created the world and humanity's unique role as partners in perfecting creation through free will and moral choice.",
+    "zh": "探讨创世记的开篇经文，审视上帝为何创造世界以及人类作为伙伴通过自由意志和道德选择来完善创造的独特作用。",
+    "he": "חקירה של הפסוקים הפותחים של בראשית, בוחנת מדוע ה' ברא את העולם ותפקידה הייחודי של האנושות כשותפה בשכלול הבריאה באמצעות בחירה חופשית ובחירה מוסרית."
+  }
+}

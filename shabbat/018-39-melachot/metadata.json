@@ -1,0 +1,95 @@
+{
+  "id": 18,
+  "title": {
+    "en": "The 39 Melachot Explained Simply",
+    "zh": "三十九種禁止的創造性勞作(簡明解釋)",
+    "he": "ל״ט אבות מלאכה - הסבר פשוט"
+  },
+  "section": "Shabbat",
+  "folder": "shabbat/018-39-melachot",
+  "description": "A clear, practical explanation of each of the 39 categories of creative work forbidden on Shabbat, with modern examples.",
+  "languages": ["en", "zh", "he"],
+  "wordCount": {
+    "en": 3421,
+    "zh": 1687,
+    "he": 2856
+  },
+  "status": "complete",
+  "author": "Torah Light Editorial Team",
+  "dateCreated": "2026-03-17",
+  "datePublished": "2026-03-17",
+  "keywords": [
+    "Shabbat",
+    "39 Melachot",
+    "Jewish Law",
+    "Halakha",
+    "Mishkan",
+    "Tabernacle",
+    "Rest",
+    "Creativity",
+    "Melachah",
+    "Shabbat Observance"
+  ],
+  "chineseContext": {
+    "dynastyReferences": ["Shang Dynasty (商朝, ~1300-1200 BCE)", "Late Han Dynasty (漢朝末期, ~200 CE)", "Warring States Period (戰國時代, 369-286 BCE)"],
+    "culturalParallels": ["Daoist wu wei (無為)", "Zhuangzi's teachings on action and non-action", "Confucian self-cultivation concepts"],
+    "philosophicalConnections": ["休息 (xiūxi) vs. creative rest", "Concept of agency (malach/melachah) vs. Daoist non-action"]
+  },
+  "sources": [
+    {
+      "title": "Mishnah, Tractate Shabbat 7:2",
+      "url": "https://www.sefaria.org/Mishnah_Shabbat.7.2",
+      "type": "primary",
+      "description": "The original listing of the 39 melachot, compiled ~200 CE"
+    },
+    {
+      "title": "Talmud, Tractate Shabbat 73a",
+      "url": "https://www.sefaria.org/Shabbat.73a",
+      "type": "primary",
+      "description": "Talmudic discussion explaining the logic and source of the 39 categories"
+    },
+    {
+      "title": "Exodus 35:1-3",
+      "url": "https://www.sefaria.org/Exodus.35.1-3",
+      "type": "primary",
+      "description": "The juxtaposition of the Mishkan and Shabbat commandments"
+    },
+    {
+      "title": "39 Melakhot",
+      "url": "https://en.wikipedia.org/wiki/39_Melakhot",
+      "type": "reference",
+      "description": "Comprehensive overview with modern examples and halachic details"
+    },
+    {
+      "title": "Introduction to the 39 Melachot",
+      "url": "https://www.chabad.org/library/article_cdo/aid/4739282/jewish/Introduction-to-the-39-Melachot.htm",
+      "type": "reference",
+      "description": "Clear explanation of the structure and logic of the 39 categories"
+    },
+    {
+      "title": "The 39 Melachot",
+      "url": "https://www.chabad.org/library/article_cdo/aid/102032/jewish/The-39-Melachot.htm",
+      "type": "reference",
+      "description": "Practical guide to each melachah with contemporary applications"
+    }
+  ],
+  "verifiedUrls": true,
+  "tags": [
+    "#Shabbat",
+    "#39Melachot",
+    "#JewishLaw",
+    "#Halakha",
+    "#Mishkan",
+    "#Tabernacle",
+    "#Rest",
+    "#Creativity",
+    "#Melachah",
+    "#ShabbatObservance",
+    "#商朝",
+    "#道家",
+    "#無為",
+    "#Daoism",
+    "#戰國時代",
+    "#WarringStates"
+  ]
+}

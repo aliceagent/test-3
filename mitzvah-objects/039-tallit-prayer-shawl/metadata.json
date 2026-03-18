@@ -1,0 +1,68 @@
+{
+  "id": 39,
+  "title": {
+    "en": "The Tallit: More Than Just a Prayer Shawl",
+    "zh": "祈祷披肩(Tallit):远不止是一条披肩",
+    "he": "הטלית: יותר מסתם כיסוי לתפילה"
+  },
+  "section": "Mitzvah Objects",
+  "slug": "tallit-prayer-shawl",
+  "description": "History, laws, and customs of the tallit — when to wear it, how to put it on, and the significance of the blue thread.",
+  "word_count": {
+    "en": 5420,
+    "zh": 4850,
+    "he": 4890
+  },
+  "character_count": {
+    "zh": 13580
+  },
+  "status": "completed",
+  "author": "Torah Light Writing Team",
+  "created": "2026-03-17",
+  "last_updated": "2026-03-17",
+  "languages": ["en", "zh", "he"],
+  "tags": [
+    "Tallit",
+    "Tzitzit",
+    "Prayer Shawl",
+    "Mitzvah Objects",
+    "Torah",
+    "Commandments",
+    "Prayer",
+    "Shacharit",
+    "Techelet",
+    "Blue Thread",
+    "Jewish Ritual",
+    "Daily Life",
+    "Bar Mitzvah",
+    "Wedding"
+  ],
+  "related_articles": [34, 35, 36, 40],
+  "biblical_sources": [
+    "Numbers 15:37-41",
+    "Deuteronomy 22:12"
+  ],
+  "talmudic_sources": [
+    "Various tractates discussing tzitzit"
+  ],
+  "primary_topics": [
+    "tzitzit commandment",
+    "tallit structure and components",
+    "laws of wearing tallit",
+    "spiritual significance",
+    "historical development",
+    "cultural parallels"
+  ],
+  "difficulty_level": "beginner",
+  "estimated_reading_time_minutes": 25,
+  "seo_keywords": [
+    "tallit",
+    "prayer shawl",
+    "tzitzit",
+    "Jewish ritual objects",
+    "how to wear tallit",
+    "techelet blue thread",
+    "bar mitzvah tallit",
+    "Jewish prayer garment"
+  ]
+}

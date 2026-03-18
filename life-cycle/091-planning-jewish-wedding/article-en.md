@@ -1,401 +1,332 @@
 # Planning a Jewish Wedding: From the Proposal to Sheva Brachot
 
-> **Header Image Description (DALL-E prompt):** Traditional Chinese ink wash (水墨) landscape showing an elegant outdoor chuppah (wedding canopy) positioned on a serene hillside overlooking misty mountains and a flowing river. The chuppah is rendered in Chinese brushstroke style with flowing fabric billowing gently in the breeze. Two figures stand beneath it facing each other, surrounded by abstract representations of family and community. Willow branches frame the scene. The seven blessings (sheva brachot) are subtly represented as seven birds soaring above the ceremony. Soft golden sunset light bathes the scene with warm oranges and pinks contrasting with cool blue-grey mountains. Style: traditional shan shui (山水) landscape with delicate lines and washes. Mood: joyous, sacred, timeless, harmonious.
+> **Header Image Description (DALL-E prompt):** A traditional Chinese brushstroke (水墨/shan shui) landscape depicting a serene garden courtyard at golden hour. In the foreground, a simple chuppah (wedding canopy) with four wooden poles stands beneath a willow tree, draped with flowing white and blue silk that catches the warm light. Cherry blossoms float in the air. Two figures in traditional garments stand beneath the canopy, surrounded by a small circle of guests. In the background, misty mountains fade into the distance, symbolizing the journey ahead. The scene is rendered in soft earth tones—warm golds, gentle grays, deep blues—with delicate brushwork suggesting both celebration and sacred commitment. The mood is contemplative, joyful, and timeless.
 
 ---
 
 ## Introduction
 
-When two people decide to build a life together, Judaism transforms that decision into something sacred. A Jewish wedding is not just a celebration of love between two individuals — it is the creation of a new family unit, a new home that will become a dwelling place for God's presence.
+A wedding is one of the most profound moments in Jewish life — not just a celebration of two people falling in love, but the creation of a new bayit ne'eman b'Yisrael (a faithful house in Israel). Unlike many modern weddings that prioritize spectacle and entertainment, a Jewish wedding is a deeply spiritual ceremony steeped in symbolism, law, and tradition stretching back thousands of years.
 
-In this article, we'll walk through every stage of planning a traditional Orthodox Jewish wedding, from the moment of engagement through the joyous week of celebrations that follows the ceremony. Whether you're planning your own wedding, attending one for the first time, or simply curious about Jewish customs, this comprehensive guide will help you understand the profound meaning behind each ritual.
+If you're preparing for your first Jewish wedding — whether as a bride, groom, or guest — the customs might seem overwhelming at first. Why does the groom cover the bride's face? What are those seven blessings? Why break a glass at the happiest moment?
 
-For Chinese readers, you'll notice that Jewish wedding customs share some beautiful parallels with traditional Chinese values: the central role of family, the importance of community witnesses, the week-long celebration period, and the understanding that marriage is not just between two people but between two families and their entire communities.
+This guide will walk you through every stage of a traditional Orthodox Jewish wedding, from the engagement period through the week of celebrations that follow the ceremony. Whether you're planning your own wedding or simply want to understand what's happening when you attend one, you'll discover that each ritual carries profound meaning — and that the Jewish wedding ceremony is designed to launch a marriage built on holiness, commitment, and mutual respect.
 
-## The Engagement Period: Vort and Tenaim
+## The Engagement Period: Tenaim and Preparation
 
-### The Vort (Yiddish: "Word")
+### The Vort (Engagement Party)
 
-In traditional Jewish communities, the engagement begins with a celebration called a *vort* (literally "a word" — referring to the word of commitment). This is typically held at the bride's home shortly after the couple becomes engaged. Family and friends gather to celebrate, eat, and offer words of Torah and blessing.
+In many Orthodox communities, shortly after the engagement, families hold a vort (Yiddish for "word") — an engagement party where relatives and friends gather to celebrate. The highlight is the signing of the tenaim (literally "conditions"), a ceremonial document outlining the engagement agreement.
 
-**Chinese Parallel**: The vort functions similarly to the traditional Chinese betrothal ceremony (订婚), where both families formally recognize the upcoming union.
+During this ceremony, the mothers of the bride and groom traditionally break a plate together — symbolizing the seriousness of the commitment and the irreversibility of what's being undertaken. A broken plate, like a broken word, cannot be easily repaired. This ancient custom dates back at least to Talmudic times (Berachot 31a), where we learn that breaking something valuable during a celebration tempers excessive joy with awareness of life's fragility.
 
-### Tenaim (Conditions)
+### Pre-Wedding Spiritual Preparation
 
-At the vort or a separate event, some communities perform *tenaim* — a formal contract outlining the conditions and commitments of both families regarding the wedding. This ancient document is read aloud, and traditionally a plate is broken to symbolize that just as a broken plate cannot be made whole, so too should this union be permanent and unbreakable.
+The weeks before a wedding are treated as a time of personal teshuvah (repentance and return to God). Jewish tradition teaches that on their wedding day, a bride and groom are forgiven for their past sins — they stand before God with a clean slate, like on Yom Kippur. Therefore, many couples:
 
-**Historical Context**: The custom of breaking plates at tenaim dates back to the Talmudic period (70-500 CE) — corresponding to China's Han Dynasty through the Period of Division (汉朝至南北朝时期).
+- Recite additional psalms daily
+- Increase their Torah study
+- Give extra tzedakah (charity)
+- Fast on the day of the wedding until after the ceremony (like on Yom Kippur)
 
-**Modern Practice**: Today, many couples have simplified or skipped the tenaim ceremony, moving directly to the ketubah signing on the wedding day itself.
+In some communities, the bride immerses in a mikvah (ritual bath) before the wedding as part of the laws of taharat hamishpacha (family purity) — a practice that will continue throughout the marriage.
 
-## Pre-Wedding Customs
+### The Aufruf (Calling Up to the Torah)
 
-### Aufruf (Calling Up)
+On the Shabbat before the wedding, the groom is given an aliyah (called up to the Torah) in his synagogue — a ceremony called an aufruf (Yiddish for "calling up"). After his Torah blessing, the congregation often showers him with candy, symbolizing wishes for a sweet life. In some communities, the bride also receives an aliyah or a special honor that Shabbat.
 
-On the Shabbat before the wedding, the groom is called up to the Torah for an *aufruf* (literally "calling up" in Yiddish). This is his honor, and the community celebrates by singing and sometimes playfully throwing candy at him (symbolizing sweetness in the upcoming marriage).
+This public recognition serves an important halachic (legal) purpose: it announces to the community that the couple is getting married, allowing anyone with knowledge of an impediment to come forward before the wedding.
 
-**What Happens**: 
-1. The groom receives an aliyah to the Torah
-2. A special blessing is recited for the couple
-3. The community sings "siman tov u'mazal tov" (a good sign and good luck)
-4. Candy is thrown (wrapped, of course!)
+## The Wedding Day: A Personal Yom Kippur
 
-### Shabbat Kallah (Bride's Shabbat)
+### Fasting and Prayer
 
-The bride celebrates with her own pre-wedding gathering called *Shabbat Kallah*, typically held at her home. Female friends and family come together for a festive Shabbat meal, words of wisdom, and blessings for the bride's future.
+Both bride and groom fast from dawn until after the chuppah ceremony, transforming their wedding day into a personal Day of Atonement. They recite vidui (the confessional prayer) during the afternoon Mincha service, asking God's forgiveness before beginning their new life together.
 
-### The Week Before: Separation
+This practice, recorded in the Rama's glosses to the Shulchan Aruch (Even HaEzer 61:1), reflects the teaching that "a groom is forgiven for all his sins" (Jerusalem Talmud, Bikkurim 3:3). The couple literally starts their marriage with a clean spiritual slate.
 
-In the week leading up to the wedding, it is customary for the bride and groom not to see each other. This builds anticipation and makes the moment they see each other under the chuppah all the more powerful and emotional.
+### The Kabbalat Panim (Reception)
 
-### Fasting on the Wedding Day
+Before the ceremony, there are separate receptions:
 
-On the day of the wedding itself, both the bride and groom fast from dawn until after the ceremony. This is because their wedding day is considered a personal Yom Kippur — a day of atonement when past sins are forgiven as they begin their new life together with a clean slate.
+**For the groom (Chatan's Tisch):** The groom sits at the head of a table surrounded by male guests who sing, dance, and offer him words of Torah. He attempts to deliver a d'var Torah (Torah insight), but is repeatedly interrupted by singing — a lighthearted way of acknowledging that on this day, even the most learned groom can't concentrate on study. The ketubah (marriage contract) is signed by two witnesses during this time.
 
-**The Spiritual Significance**: Just as on Yom Kippur the entire Jewish people stand before God seeking forgiveness, on their wedding day the bride and groom stand before God, asking for forgiveness and blessing as they embark on building a Jewish home.
+**For the bride (Bridal Throne):** The bride sits on a special chair surrounded by female guests, who sing to her and offer blessings. She often receives guests individually, and many have the custom that a kallah's (bride's) prayers on her wedding day are especially potent — people ask her to pray for them.
 
-## The Wedding Day: Kabbalat Panim
+## The Ceremony Begins: Bedeken (Veiling)
 
-The wedding day begins with *kabbalat panim* (receiving of faces) — separate receptions for the bride and groom.
+The groom, accompanied by musicians and dancing guests, proceeds to where the bride is sitting. In a moment of deep intimacy despite the crowd, he lowers the veil over her face — the bedeken ceremony.
 
-### Chatan's Tisch (Groom's Table)
+This custom recalls two biblical stories:
+1. **Rebecca:** When she first saw Isaac, her future husband, she covered her face with a veil (Genesis 24:65)
+2. **Jacob and Rachel:** Jacob was deceived when Laban substituted Leah for Rachel under the veil (Genesis 29). By veiling his own bride, the groom fulfills the obligation to verify he's marrying the right woman.
 
-The groom sits at a table surrounded by male friends and family. They sing, dance, offer words of Torah, and celebrate with him. At this gathering, the ketubah (marriage contract) is signed by two witnesses in the presence of the officiating rabbi.
+The groom's father and the bride's father then bless the bride with the words first spoken to Rebecca: "Our sister, may you become thousands of myriads" (Genesis 24:60).
 
-**What is the Ketubah?**
+## The Chuppah: Standing Beneath the Wedding Canopy
 
-The ketubah is an ancient Jewish marriage contract that has been used for over 2,000 years. It outlines the husband's obligations to his wife:
-- To provide food, clothing, and shelter
-- To honor and respect her
-- Financial obligations in case of divorce or his death
+The chuppah (wedding canopy) is a cloth held up by four poles, under which the entire ceremony takes place. It symbolizes the new home the couple will build together — a roof but no walls, representing hospitality and openness.
 
-**Chinese Parallel**: The ketubah serves a similar protective function to traditional Chinese marriage contracts (婚书), ensuring the wife's rights and security.
+Historically corresponding to what we would call the Late Shang Dynasty (商朝後期, ~1300-1046 BCE) in China, when our matriarch Rebecca was married, the chuppah was often simply the groom's tent into which the bride was brought to consummate the marriage. Today it's a symbolic structure, but the meaning remains: this couple is creating their own household.
 
-### Kallah's Reception (Bride's Reception)
+### The Processional
 
-Meanwhile, the bride sits on a special chair (like a throne), beautifully dressed in her wedding gown. Female guests come to greet her, offer blessings, and share in her joy. In some communities, the bride wears a veil throughout this reception.
+The order of the processional varies by custom, but typically:
+1. The groom walks down the aisle, escorted by both fathers
+2. The bride walks down, escorted by both mothers
+3. Both sets of parents stand under the chuppah with the couple
+4. The bride circles the groom (three or seven times, depending on custom)
 
-## The Bedeken (Veiling Ceremony)
+The circling has multiple meanings:
+- The woman is building walls around her husband, creating a private world for them (Jeremiah 31:21: "A woman shall encircle a man")
+- It corresponds to the seven days of creation — they're creating a new world together
+- It recalls the Israelites circling Jericho — love conquers all barriers
 
-One of the most moving moments of a Jewish wedding is the *bedeken* — when the groom comes to veil his bride before the ceremony.
+### Kiddushin (Betrothal): The First Part of the Ceremony
 
-**The Biblical Source**: This custom comes from the story of Jacob, who worked seven years to marry Rachel but was deceived by his father-in-law Laban and given her sister Leah instead (Genesis 29). The bride wore a veil, and Jacob didn't realize the switch until after the wedding. To ensure no such deception occurs, the groom personally veils his bride, verifying her identity.
+The ceremony has two distinct parts, reflecting the ancient two-stage Jewish marriage process.
 
-**What Happens**:
-1. The groom, accompanied by singing and dancing men, processes to where the bride is seated
-2. He approaches his bride and looks at her face
-3. He lowers the veil over her face
-4. The bride's father and the groom's father bless her with the words spoken to Rebecca: "Our sister, may you become thousands of myriads" (Genesis 24:60)
-5. The rabbi blesses her with the priestly blessing
+**1. The First Cup of Wine and Blessing**
+The rabbi (or honored guest) recites the kiddushin blessing over wine, thanking God "who has sanctified us with His commandments and commanded us regarding forbidden relationships, and forbade to us those who are merely betrothed, and permitted to us those married to us through chuppah and kiddushin."
 
-**The Deeper Meaning**: When the groom veils the bride, he is saying: "I am marrying you not just for your external beauty, but for your inner essence, your soul — which will remain constant throughout our lives together."
+**2. The Ring and Declaration**
+The groom places a plain gold ring on the bride's right index finger and declares in Hebrew (and often in the local language as well): "Harei at mekudeshet li b'taba'at zu k'dat Moshe v'Yisrael" — "Behold, you are betrothed to me with this ring according to the law of Moses and Israel."
 
-## The Chuppah (Wedding Canopy)
+This is the central legal moment. With this declaration, witnessed by two kosher witnesses, the marriage is legally binding according to Jewish law. The ring must:
+- Belong to the groom
+- Be made of precious metal (traditionally gold)
+- Have no stones or decorations (so its value is clear)
+- Be worth at least a perutah (a minimal amount — about $0.30)
 
-The *chuppah* — the canopy under which the wedding ceremony takes place — is the most recognizable symbol of a Jewish wedding.
+The act of kinyan (acquisition) through giving a ring of value in exchange for marriage dates to Talmudic law (Kiddushin 2a), but its roots are in the Torah's command, "When a man takes a wife" (Deuteronomy 24:1).
 
-**What It Symbolizes**:
-- The new home the couple will build together
-- God's presence surrounding them
-- Openness on all four sides, symbolizing the hospitality of Abraham and Sarah
-- A private, sacred space for this momentous commitment
+### The Ketubah Reading
 
-**Traditional Setup**: The chuppah is typically a tallit (prayer shawl) or decorated cloth held up by four poles. It is often placed outdoors under the stars, recalling God's blessing to Abraham: "Your descendants will be as numerous as the stars of heaven" (Genesis 15:5).
+The ketubah (marriage contract) is read aloud in its original Aramaic, then often translated. This ancient legal document — whose basic text dates to the rabbinic period around 150 CE (corresponding to China's Late Han Dynasty, 漢朝後期) — outlines the husband's obligations to his wife:
 
-## The Ceremony Under the Chuppah
+- Provide food, clothing, and conjugal rights
+- Pay a specified sum (traditionally 200 zuz for a virgin bride, 100 for a widow) if they divorce or he dies
+- Treat her with honor and respect
 
-### 1. The Procession
+The ketubah is revolutionary: created by the rabbis of the Talmud to protect women's rights in an era when they had few legal protections. By requiring a substantial financial penalty for divorce, it made men think carefully before ending a marriage and gave women economic security.
 
-**Order**:
-- The groom is escorted down the aisle by both his parents
-- The bride is escorted by both her parents
-- In some traditions, the bride circles the groom three or seven times upon arrival
+After the reading, the groom presents the ketubah to the bride, and she (or her representative) accepts it. She keeps this document for the duration of the marriage.
 
-**Why the Circling?**
+### Nissuin (Marriage): The Seven Blessings
 
-If the bride circles the groom:
-- **Three circles** symbolize the three biblical statements: "I will betroth you to me forever; I will betroth you to me in righteousness and justice, in kindness and mercy; I will betroth you to me in faithfulness" (Hosea 2:21-22)
-- **Seven circles** correspond to the seven blessings (sheva brachot) and the seven times the word "bride" appears in the Creation story — symbolizing that the couple is creating a new world together
+The second part of the ceremony begins with the Sheva Brachot — seven blessings recited over a second cup of wine. These blessings are the spiritual heart of the wedding:
 
-**Modern Adaptations**: Some egalitarian couples walk together down the aisle, or both circle each other three times.
+1. **Blessing over wine** — praising God for creating the fruit of the vine
+2. **Creation** — "Everything was created for God's glory"
+3. **Formation of humanity** — God created the human being
+4. **Humanity in God's image** — Humans were made in the divine image, with the capacity to build civilizations
+5. **Jerusalem's joy** — "May the barren one (Jerusalem) rejoice when her children gather in her with joy" — connecting this private joy to the Jewish people's collective redemption
+6. **Eden's joy** — "Grant abundant joy to these loving friends as You once gladdened Your creations in the Garden of Eden" — every marriage is a return to Eden's perfection
+7. **Culmination** — Praising God "who gladdened groom and bride"
 
-### 2. The First Cup of Wine and Betrothal Blessing
+Notice the structure: the blessings move from cosmic (creation) to universal (humanity) to national (Jerusalem) to personal (this couple). The message: your marriage isn't just about you — it connects to the entire fabric of creation and the Jewish people's destiny.
 
-The ceremony begins with the recitation of the *kiddushin* (betrothal) blessing over the first cup of wine. Both the bride and groom drink from this cup.
+These blessings will be repeated at each festive meal during the week after the wedding, reminding the couple daily that their marriage has cosmic significance.
 
-**Why Wine?** Wine symbolizes joy, sanctification, and abundance — all essential elements of married life.
+### Breaking the Glass
 
-### 3. The Ring Ceremony
+At the ceremony's conclusion, the groom stamps on a glass wrapped in cloth, shattering it. The guests shout "Mazel tov!" and the celebration begins.
 
-The groom places a ring on the bride's right index finger and recites in Hebrew:
+Why break a glass at the moment of greatest joy? The Talmud (Berachot 31a) teaches that when the rabbis saw excessive celebration, they would break a valuable vessel to temper the joy. We break the glass to remember:
 
-**"הרי את מקודשת לי בטבעת זו כדת משה וישראל"**
+1. **The destruction of the Temple** — Even in our happiest moments, we remember Jerusalem's ruins and long for complete redemption. Some say the groom breaks the glass in the direction of Jerusalem.
+2. **The fragility of relationships** — Just as the glass shatters easily, marriages require constant care and cannot be taken for granted.
+3. **Irreversibility** — Once broken, the glass cannot be restored to its original form; likewise, once married, the couple has crossed a threshold that changes them forever.
 
-*"Behold, you are consecrated to me with this ring according to the law of Moses and Israel."*
+Some families save the broken glass fragments and later use them to create a piece of Jewish art for the couple's home, transforming the symbol of destruction into a lasting reminder of their wedding day.
 
-This is the pivotal moment when the marriage is legally effected according to Jewish law.
+## Yichud: The First Private Moment
 
-**The Ring's Requirements**:
-- Must belong to the groom
-- Must be made of plain metal (traditionally gold) with no stones
-- Must have a minimum value (typically defined as the price of a loaf of bread)
-- Must be given in front of two kosher witnesses
+Immediately after the ceremony, the bride and groom are escorted to a private room — yichud (seclusion). They spend 10-18 minutes alone together for the first time as a married couple. This serves several purposes:
 
-**Why the Right Index Finger?** This is the most prominent finger, ensuring the witnesses clearly see the ring being given. After the ceremony, many brides move the ring to the traditional ring finger.
+1. **Legal consummation:** In ancient times, the marriage was consummated during yichud. Today, the brief seclusion symbolically represents that possibility, making the marriage fully binding.
+2. **Breaking the fast:** Since both have been fasting, they finally eat and drink together — their first meal as husband and wife.
+3. **Intimate transition:** After the intensity of the public ceremony, they have a moment to process what just happened, congratulate each other privately, and share their first moments as a married couple away from everyone's eyes.
 
-**Chinese Parallel**: Just as in traditional Chinese weddings where the groom presents specific betrothal gifts (聘礼), the Jewish groom presents a ring as the concrete object that seals the marriage bond.
+Two witnesses stand outside the door to verify that yichud took place — a requirement for the marriage to be fully valid.
 
-### 4. Reading the Ketubah
+## The Wedding Feast: Seudat Mitzvah
 
-The ketubah (marriage contract) is read aloud in its original Aramaic. This public reading serves as a declaration of the groom's commitments to his bride.
+The celebration that follows is not merely a party — it's a seudat mitzvah (commanded meal), fulfilling the obligation to gladden the bride and groom. The Talmud teaches that entertaining the couple is so important that one should interrupt Torah study to dance at a wedding (Ketubot 17a).
 
-After the reading, the ketubah is handed to the bride, and it becomes her property. Throughout their marriage, it remains hers, and in traditional communities, it is often framed and displayed in the home.
+### Music and Dancing
 
-### 5. The Sheva Brachot (Seven Blessings)
+Traditional Jewish weddings feature separate dancing for men and women (or a mechitzah — partition — down the middle of the dance floor). The focus is on gladdening the couple, not on the guests' entertainment. Guests perform in front of the couple, juggle, tell jokes, and make fools of themselves — all to make the bride and groom laugh.
 
-The heart of the wedding ceremony consists of seven blessings recited over a second cup of wine. These blessings are typically divided among honored guests (usually married male friends or relatives).
+The mitzvah of simchat chatan v'kallah (gladdening the groom and bride) is so central that Rambam writes: "How does one dance before the bride? ... Whoever fails to gladden the bride and groom violates five joys mentioned in the wedding blessings" (Mishneh Torah, Hilchot Avel 14:1).
 
-**The Seven Blessings** (in translation):
+### Special Dances
 
-1. **Blessed are You, God, Creator of the fruit of the vine** — The standard blessing over wine
+- **Mitzvah tantz:** In some Hasidic communities, the bride's father, the groom's father, the rabbi, and other honored guests each hold one end of a gartel (belt) or handkerchief while dancing in front of the bride — a way to dance "with" her while maintaining modesty.
+- **Rikud hakalla:** Guests lift the bride on a chair while others hold hands and dance around her in circles.
 
-2. **Blessed are You, God, who created everything for Your glory** — Recognizing that all creation has purpose and meaning
+### The Meal
 
-3. **Blessed are You, God, Creator of human beings** — Celebrating humanity and our unique role in creation
+The meal includes bread (requiring hamotzi blessing), wine, and festive dishes. At Orthodox weddings, the food is always fully kosher and the two sexes are seated separately or at a "mixed" arrangement where spouses sit together but different families don't intermingle.
 
-4. **Blessed are You, God, who created human beings in Your image, establishing through them a perpetual structure** — Acknowledging that humans are created in God's image and that marriage perpetuates humanity
+During the meal, guests often deliver divrei Torah (Torah insights) relevant to marriage, and there's singing of zemirot (table songs) between courses.
 
-5. **May Zion rejoice as her children are gathered within her in joy** — A prayer for the rebuilding of Jerusalem and the ingathering of the Jewish people (reflecting the national dimension of every Jewish marriage)
+## The Week After: Sheva Brachot
 
-6. **Grant great joy to these loving companions, as You once gladdened Your creations in the Garden of Eden** — Comparing the couple to Adam and Eve, the first married couple
+For seven nights following the wedding, the couple is feted at festive meals hosted by different friends and family members. These meals are called sheva brachot (seven blessings) because the same seven blessings from the wedding ceremony are recited again during grace after meals — but only if:
 
-7. **Blessed are You, God, who gladdens groom and bride** — The culmination, focusing on the joy of this specific couple standing under the chuppah
+1. A minyan (ten Jewish men) is present
+2. At least one "new face" (panim chadashot) who wasn't at the wedding is present
 
-**Theological Depth**: Notice how the blessings move from the universal (wine, all creation, humanity in general) to the particular (the Jewish people, and finally this specific couple). This structure teaches that every individual Jewish marriage is part of a cosmic story stretching from Creation, through the history of the Jewish people, to the future redemption.
+The new face requirement ensures fresh joy — each meal should feel like a renewal of the wedding celebration for someone experiencing it for the first time.
 
-### 6. Breaking the Glass
+During this week:
+- The couple is treated like royalty (they're even called "king" and "queen")
+- They don't work or engage in routine tasks
+- They're free from all responsibilities except enjoying their new marriage
+- They continue to wear their wedding clothes to some of the meals
 
-The ceremony concludes with the groom breaking a glass under his foot. The guests immediately shout "Mazal Tov!" (good luck/congratulations), and the celebration begins.
+This practice reflects the teaching that the week after a wedding parallels the seven days of creation — the couple is building their new world together, and the community supports them during this sacred time.
 
-**Why Break a Glass?**
+In ancient Jewish history, we see this week-long celebration going back to Biblical times — Jacob celebrated his marriage with a week-long feast (Genesis 29:27-28), and Samson did likewise (Judges 14:12) — corresponding to what would be China's early Western Zhou period (西周早期, ~1046-950 BCE).
 
-The most common explanation is to remember the destruction of the Temple in Jerusalem (70 CE — during China's Han Dynasty, 汉朝) even at our moment of greatest joy. As the Psalmist wrote: "If I forget you, O Jerusalem, let my right hand forget its skill" (Psalm 137:5).
+## Special Customs and Variations
 
-**Other Meanings**:
-- Just as the glass can never be restored, so should the marriage be permanent
-- A reminder that marriage requires care — like glass, it can break if not treated properly
-- The shattering sound drives away evil spirits (an ancient folk belief)
+### Sephardic vs. Ashkenazi Traditions
 
-**Historical Note**: Glass breaking at weddings dates back at least to Talmudic times (200-500 CE — China's Three Kingdoms to Jin Dynasty, 三国至晋朝).
+While the core ceremony is universal, customs vary:
 
-### 7. Yichud (Seclusion)
+**Ashkenazi (European) customs:**
+- Bride circles groom seven times
+- Glass broken at end of ceremony
+- Yichud room immediately after ceremony
 
-Immediately after the ceremony, the bride and groom are escorted to a private room for *yichud* — a few minutes alone together as a newly married couple.
+**Sephardic (Middle Eastern) customs:**
+- Bride circles groom once, three, or not at all (varies)
+- Groom often reads the ketubah himself under the chuppah
+- Large decorative ketubah (Ashkenazi ketubot are simpler, text-focused)
+- In some communities, henna ceremony night before wedding
 
-**What Happens in Yichud**:
-- The couple breaks their fast (light foods are usually provided)
-- They have their first moments together as husband and wife in complete privacy
-- This seclusion itself is part of what legally completes the marriage according to some halachic opinions
+### The Henna Party (Sephardic)
 
-**Historical Context**: The practice of yichud comes from ancient Jewish law and was an essential part of the marriage process in Talmudic times (70-500 CE).
+Many Sephardic communities hold a henna party (chinna or hinana) the night before the wedding. Female relatives gather to paint the bride's hands with henna in intricate patterns, sing traditional songs, and celebrate. This custom, with roots in Middle Eastern Jewish communities, parallels similar traditions in Muslim and Hindu cultures — an example of how Jewish practice absorbed and Judaized beautiful local customs.
 
-**Duration**: Typically 10-18 minutes. Two witnesses stand outside the door to verify that the couple was indeed secluded together.
+### Double Ring Ceremonies
 
-## The Wedding Reception
+Traditional Jewish weddings feature only the groom giving a ring to the bride (because halachically, he is "acquiring" her, though as noted, the ketubah protects her rights extensively). However, in some modern communities, after the traditional ceremony is complete, the bride gives the groom a ring as well, sometimes with her own Hebrew declaration. This is done after the legal ceremony to avoid any halachic complications.
 
-After yichud, the celebration begins in full force! Jewish weddings are joyous affairs with music, dancing, and abundant food.
+## Practical Guidance for Planning Your Wedding
 
-### Dancing
+### Finding an Officiant
 
-Dancing at a Jewish wedding is not just entertainment — it is a mitzvah (commandment) to gladden the bride and groom. Guests dance in circles, often in gender-separated groups (men with the groom, women with the bride).
+You'll need:
+1. **A rabbi** to officiate and guide you through the process
+2. **Two kosher witnesses** (Jewish men who are Shabbat-observant and not related to bride or groom)
 
-**Common Dances**:
-- **Hora**: A lively circle dance where the bride and groom are lifted on chairs
-- **Mezinke Dance**: When the youngest child in a family gets married, the parents dance with a wreath or broom
-- **Krenzl**: A crown dance for the parents at their last child's wedding
+Contact your local Chabad house, Orthodox synagogue, or reach out to Orthodox rabbis online. Even if you live in a remote area with no Jewish community, rabbis are often willing to travel for a wedding.
 
-### The Meal and More Sheva Brachot
+### The Ketubah
 
-The wedding meal is a *seudah mitzvah* — a festive meal celebrating a religious commandment. After birkat hamazon (grace after meals), the seven blessings are repeated over a cup of wine by different honorees.
+You can purchase beautiful ketubot from Judaica stores or online. The text is standardized (in Aramaic), though you can select from different artistic styles. The ketubah must be completed before the ceremony, signed by two witnesses, and read under the chuppah.
 
-**Grace After Meals**: A special addition is made to the standard grace, acknowledging the bride and groom and praying that "the voice of joy and gladness, the voice of groom and bride" will be heard in the streets of Jerusalem.
+### Setting Up the Chuppah
 
-### Music and Celebration
+A chuppah can be:
+- A large tallit (prayer shawl) held by four poles
+- A decorated canopy made specifically for weddings
+- Even a simple cloth stretched over four poles
 
-Live music is traditional, and the atmosphere is one of unrestrained joy. In fact, the Talmud teaches that if you attend a wedding without bringing joy to the bride and groom, you transgress the commandment to "love your neighbor as yourself."
+The key is that it must have a covering (roof) but should be open on all sides. Many families use the groom's father's tallit for extra meaning.
 
-**Chinese Parallel**: Like traditional Chinese weddings where "热闹" (rènao — hot and noisy) is valued, Jewish weddings prize exuberant celebration as a religious obligation, not just a preference.
+It's traditionally set up outside under the stars (symbolizing God's blessing to Abraham: "Your descendants will be as numerous as the stars"), but can be indoors if necessary.
 
-## The Week of Sheva Brachot
+### For Jews in Asia
 
-The celebration doesn't end when the wedding day does! For the next seven days (or seven nights), the couple is honored with festive meals called *sheva brachot* (named after the seven blessings recited at each meal).
+If you're planning a Jewish wedding in China or elsewhere in Asia:
 
-### How Sheva Brachot Work
+1. **Contact Chabad Houses:** Chabad of Shanghai, Beijing, Hong Kong, and other Asian cities can help arrange Orthodox weddings, provide kosher catering, and connect you with officiants.
 
-Each evening of the first week of marriage:
-1. A festive meal is hosted by different friends or family members
-2. At least ten men (a minyan) must be present
-3. At least one "new face" (someone who didn't attend the previous sheva brachot meal) should be present
-4. After the meal, grace is recited with special additions
-5. The seven wedding blessings are repeated over wine
-6. The bride and groom drink from the cup of blessing
+2. **Flying in a rabbi:** Many couples in remote areas arrange for a rabbi to fly in for the wedding. The rabbi can arrive a few days early to prepare the couple and review the ceremony.
 
-**Duration**: The seven-day celebration period begins on the wedding day itself and continues through the following six days (if no Shabbat interrupts; the count pauses for Shabbat and resumes after).
+3. **Kosher catering:** This is often the biggest challenge. Work with local Chabad to arrange kosher catering, or if necessary, have kosher food flown in for the wedding meal.
 
-**Historical Context**: This week-long celebration is biblical in origin — we see it in the story of Jacob, whose wedding to Leah was celebrated for seven days (Genesis 29:27). This corresponds to approximately 1800 BCE — China's Shang Dynasty period (商朝).
+4. **Video conferencing:** Some communities have used technology to include family abroad — setting up video calls so relatives can participate virtually in the bedeken, chuppah, or sheva brachot meals.
 
-### The Deeper Meaning
+## The Spiritual Dimension: Why This All Matters
 
-Why seven days?
+Jewish weddings are not just legal transactions or big parties — they're cosmic events. The Talmud teaches that forty days before a child is conceived, a heavenly voice announces whom they will marry (Sotah 2a). Finding your spouse is finding your "other half" — the Midrash says that Adam and Eve were originally created as one being, then separated. Marriage is the reunification of two souls that are one at their root.
 
-In Jewish thought, seven represents completion — seven days of creation, seven years of the sabbatical cycle, etc. The couple is being welcomed into married life gradually, surrounded by community support and blessings each day.
+Every element of the ceremony reflects this:
+- The **two cups of wine** represent the two stages of marriage (kiddushin and nissuin), but also the balance of din (strict justice) and chesed (loving-kindness) needed in a marriage
+- The **ring** represents the circular nature of love — no beginning, no end, eternal
+- The **seven blessings** mirror the seven days of creation — each marriage is a new world coming into being
+- The **chuppah** represents the divine presence (Shechinah) dwelling between husband and wife
 
-**Chinese Parallel**: This extended celebration period is similar to traditional Chinese customs where newlyweds receive guests and visit family over an extended period after the wedding day (回门).
+Perhaps most importantly, the groom tells the bride, "You are sanctified to me" — the Hebrew word mekudeshet means both "betrothed" and "made holy." Marriage in Judaism is not just a social contract — it's a sacred bond that elevates the physical relationship to the realm of the holy.
 
-## Practical Planning Considerations for Jews in China
+## Common Questions
 
-Planning a Jewish wedding while living in China presents unique challenges. Here's practical guidance:
+**Q: Do I need to be born Jewish to have a Jewish wedding?**
+A: No. A convert who has completed an Orthodox conversion is 100% Jewish and has the same wedding as anyone born Jewish. If one partner is not Jewish, Orthodox rabbis will not officiate the wedding — the non-Jewish partner would need to convert first. Many people in this situation choose to pursue conversion, study for a year or more, and then marry as two Jews.
 
-### 1. Finding a Rabbi
+**Q: How much does a Jewish wedding cost?**
+A: This varies enormously. The ceremony itself costs very little (rabbi's fee, ketubah, chuppah rental if needed). The major expense is usually the reception — but Jewish law doesn't require an expensive party. Many communities celebrate with simple receptions, homemade food, and a focus on joy rather than luxury. The Talmud praises simple weddings and even criticizes overspending (Ketubot 8b).
 
-**Options**:
-- **Chabad Houses**: Shanghai, Beijing, Hong Kong, Guangzhou, and Chengdu have resident rabbis who can officiate
-- **Traveling Rabbi**: Some couples arrange for a rabbi to travel from Israel or another country
-- **Online Planning**: Initial consultations can happen via video call
+**Q: Can we have a Jewish wedding on Shabbat?**
+A: No. Weddings involve acts of kinyan (acquisition) and contract signing, which are prohibited on Shabbat. Weddings also cannot take place on major holidays or during mourning periods (like the Three Weeks before Tisha B'Av or most of the Omer period).
 
-### 2. The Ketubah
+**Q: What if our families aren't Jewish?**
+A: This is common for converts and ba'alei teshuva (those who became observant). Non-Jewish family members can certainly attend the wedding, participate in the processional (in some communities), and celebrate with you. However, they cannot serve as witnesses or recite the seven blessings (which require Jewish male participants). Many couples handle this sensitively by finding ways to honor their families while maintaining halachic requirements.
 
-- Ketubot must be hand-written in Aramaic by a trained scribe
-- Can be ordered online from Judaica shops and shipped to China
-- Artistic ketubot in various styles are available, including some with Chinese motifs
-- The text is standardized; the artistry is customizable
-
-### 3. The Chuppah
-
-- Can be homemade (a tallit held by four friends on poles)
-- Chabad houses often have chuppot available to borrow
-- Portable chuppot can be purchased online
-- Outdoor locations: Consider hotel gardens, rooftops, or scenic spots (weather permitting)
-
-### 4. Kosher Catering
-
-- **Shanghai and Beijing**: Kosher catering is available through Chabad and local kosher restaurants
-- **Other cities**: May require bringing in kosher caterers from major cities
-- **Alternative**: Simple dairy or vegetarian menu using local kosher ingredients, with rabbinic supervision
-
-### 5. Music
-
-- Live band is traditional (recorded music is not typically used at Orthodox weddings)
-- Some Chabad houses can recommend musicians familiar with Jewish wedding music
-- Consider hiring local musicians and teaching them traditional Jewish wedding songs
-
-### 6. Timing Considerations
-
-**Forbidden Days**: Jewish weddings cannot take place on:
-- Shabbat (Friday evening through Saturday evening)
-- Major holidays
-- The Omer period (most of the seven weeks between Passover and Shavuot)
-- The Three Weeks (mourning period in the summer, leading up to Tisha B'Av)
-
-**Consult a Rabbi**: Before booking any venue, consult with a rabbi about permissible dates on the Jewish calendar.
-
-### 7. Legal Considerations
-
-- In China, you'll need both a civil marriage license (from the Civil Affairs Bureau, 民政局) and a Jewish religious ceremony
-- The order doesn't matter halachically, but check local requirements
-- Some couples do the civil registration shortly before or after the religious ceremony
-
-### 8. Guests
-
-- For guests unfamiliar with Jewish customs, consider preparing a program with explanations in English and Chinese
-- Modest dress expectations: Guests should be informed about Orthodox standards (covered shoulders and knees for women, no shorts for men)
-- Gender-separated dancing: If planning traditional separate dancing, inform guests in advance
-
-## Gender Roles and Variations
-
-Traditional Orthodox Jewish weddings have defined gender roles:
-- The groom gives the ring; the bride receives it
-- Only the groom recites the marriage formula
-- Men and women dance separately at the reception
-
-**Modern Variations**: Some Orthodox couples find ways to increase partnership while staying within halachic boundaries:
-- The bride may also give a ring (after the ceremony concludes)
-- Some couples write mutual personal vows read during yichud
-- Mixed seating at the meal (though dancing remains separate)
-- Double-ring ceremonies with both partners exchanging rings are NOT Orthodox, but exist in Conservative and Reform movements
-
-**For converts and Jews-by-choice**: If you're planning an Orthodox wedding after conversion, work closely with the rabbi who guided your conversion. They can help you navigate family dynamics (non-Jewish family members may have limited participation in certain ritual elements).
-
-## The Spiritual Essence: What Makes a Jewish Marriage Holy
-
-At its core, a Jewish wedding is not just a legal contract or a beautiful party. It is the creation of a *bayit ne'eman b'Yisrael* — a faithful home in Israel.
-
-**The Kabbalistic Understanding**: 
-When a husband and wife unite, they reunite the fragmented Divine Name. The Hebrew word for man is *ish* (איש) and for woman is *ishah* (אשה). Both contain the letters *alef* and *shin*, but *ish* has a *yud* and *ishah* has a *heh*. Together, these two letters spell one of God's names: *Y-H* (יה).
-
-The teaching? When husband and wife are joined in holiness, God's presence dwells between them. If they separate or live without sanctity, the Divine letters are removed, leaving only *esh* (אש) — fire — which can consume them both.
-
-**The Mission**:
-Every Jewish home is a miniature Temple. The table is like an altar, hospitality is a form of service to God, and raising children in Torah and mitzvot continues the chain of tradition stretching back to Mount Sinai (approximately 1313 BCE — Late Shang Dynasty, 商朝晚期).
-
-## Conclusion: Building a Bayit Ne'eman B'Yisrael
-
-Planning a Jewish wedding is both an exciting adventure and a profound spiritual preparation. From the moment of engagement through the seven days of sheva brachot, each custom is designed to sanctify the union and surround the new couple with love, blessing, and community support.
-
-As you stand under the chuppah — whether in Shanghai, Beijing, Jerusalem, or anywhere in the world — you join a chain of Jewish couples stretching back four thousand years, all building homes where Torah is studied, Shabbat is kept, mitzvot are performed, and God's presence dwells.
-
-May every Jewish wedding be blessed with joy, love, and the building of a faithful home in Israel — a home filled with Torah, kindness, and the light of Shabbat candles for generations to come.
-
-**Mazal Tov!** 🎉
+**Q: Do we need to have separate dancing?**
+A: In Orthodox weddings, yes — men and women celebrate separately or with a physical partition between them. This reflects the laws of tzniut (modesty) and helps maintain the focus on gladdening the bride and groom rather than on socializing between the sexes. Many find that it creates a more meaningful, less self-conscious atmosphere.
 
 ## Key Takeaways
 
-- A Jewish wedding is not just a celebration but the creation of a holy home where God's presence will dwell
-- The ceremony includes ancient rituals with deep symbolism: the ketubah (protecting the wife's rights), bedeken (honoring inner beauty), chuppah (the new home), ring (legal binding), seven blessings (cosmic and personal joy), and breaking the glass (remembering Jerusalem)
-- The celebration extends for seven days with sheva brachot meals, surrounding the couple with community support
-- Planning a Jewish wedding in China requires advance coordination with Chabad rabbis, kosher catering, and attention to the Jewish calendar
-- Every Jewish home is a miniature Temple, and every Jewish marriage continues the sacred mission begun by Abraham and Sarah nearly four thousand years ago
-
-## Tags
-
-#JewishWedding #Chuppah #ShevaBrachot #Ketubah #Bedeken #LifeCycle #Marriage #Torah #Mitzvah #Community #Celebration #Yichud #婚礼 #犹太传统 #七日祝福 #商朝
-
----
+- A Jewish wedding is not just a celebration but a sacred covenant — the creation of a new "mikdash me'at" (miniature sanctuary) in the form of a Jewish home
+- The ceremony has two legal stages (kiddushin and nissuin) reflected in the ring and the seven blessings
+- Every custom — from the bedeken to breaking the glass — carries layers of meaning connecting the couple to Jewish history, theology, and destiny
+- The week of sheva brachot celebrations extends the joy and reminds the couple that their marriage has communal significance
+- Even in remote locations with small Jewish communities, it's possible to have a beautiful, meaningful Jewish wedding with proper planning and rabbinic guidance
 
 ## Bibliography
 
-1. **"The Jewish Way in Love and Marriage"** — Rabbi Maurice Lamm  
-   Classic comprehensive guide to Jewish marriage customs and laws from engagement through the wedding and beyond.
+1. **"The Jewish Wedding: From Erusin to Nisu'in" — Aish.com**  
+   https://www.aish.com/jl/l/m/The-Jewish-Wedding-From-Erusin-to-Nisuin.html  
+   *(Comprehensive overview of wedding ceremony stages and their meanings)*
 
-2. **"Jewish Marriage Contract (Ketubah)"** — Chabad.org  
-   https://www.chabad.org/library/article_cdo/aid/465162/jewish/The-Ketubah.htm  
-   Detailed explanation of the ketubah's history, text, and significance in Jewish marriage.
+2. **"The Ketubah: Marriage Contract" — Chabad.org**  
+   https://www.chabad.org/library/article_cdo/aid/466374/jewish/The-Ketubah-Marriage-Contract.htm  
+   *(Detailed explanation of the marriage contract's history, text, and legal significance)*
 
-3. **"The Wedding Ceremony"** — Chabad.org  
-   https://www.chabad.org/library/article_cdo/aid/465166/jewish/The-Wedding-Ceremony.htm  
-   Step-by-step guide to every element of the Jewish wedding ceremony from chuppah to breaking the glass.
-
-4. **"Sheva Brachot: The Seven Marriage Blessings"** — Chabad.org  
-   https://www.chabad.org/library/article_cdo/aid/465169/jewish/Sheva-Brachot.htm  
-   Complete text and explanation of the seven blessings recited at the wedding and throughout the first week.
-
-5. **"Bedeken: The Veiling Ceremony"** — Chabad.org  
-   https://www.chabad.org/library/article_cdo/aid/465164/jewish/Bedeken-The-Veiling-Ceremony.htm  
-   The biblical source and deep meaning behind the groom veiling his bride before the ceremony.
-
-6. **"Yichud: Secluding the Couple"** — Chabad.org  
-   https://www.chabad.org/library/article_cdo/aid/465167/jewish/Yichud-Secluding-the-Couple.htm  
-   Explanation of the yichud room tradition and its halachic significance.
-
-7. **"Breaking the Glass at a Jewish Wedding"** — My Jewish Learning  
+3. **"Wedding Customs: Breaking the Glass" — My Jewish Learning**  
    https://www.myjewishlearning.com/article/breaking-the-glass/  
-   Multiple interpretations and historical background of the iconic glass-breaking custom.
+   *(Multiple interpretations of this central custom)*
 
-8. **"Jewish Wedding Traditions and Rituals"** — Aish.com  
-   https://www.aish.com/spirituality/lifecycle/jewish-wedding-traditions/  
-   Overview of customs from pre-wedding preparation through the celebration week, with spiritual insights.
+4. **"Sheva Brachot: The Seven Wedding Blessings" — Sefaria**  
+   https://www.sefaria.org/sheets/2484  
+   *(Full text and commentary on the seven blessings)*
+
+5. **"Laws of Kiddushin and Nissuin" — Shulchan Aruch, Even HaEzer 55-65**  
+   https://www.sefaria.org/Shulchan_Arukh,_Even_HaEzer.55  
+   *(Primary legal source for Jewish wedding law)*
+
+6. **"The Bedeken: Veiling the Bride" — Chabad.org**  
+   https://www.chabad.org/theJewishWoman/article_cdo/aid/478218/jewish/The-Bedeken.htm  
+   *(History and meaning of the veiling ceremony)*
+
+7. **"Yichud: The First Moments of Marriage" — Aish.com**  
+   https://www.aish.com/jw/s/Yichud-The-First-Moments-of-Marriage.html  
+   *(The significance and laws of the seclusion room)*
+
+8. **"Talmud Ketubot 7b-8a" — Sefaria**  
+   https://www.sefaria.org/Ketubot.7b  
+   *(Primary Talmudic source discussing wedding blessings, celebrations, and obligations to gladden bride and groom)*
+
+## Tags
+
+#JewishWedding #LifeCycle #Chuppah #Ketubah #ShevaBerachot #七福祝愿 #Kiddushin #Nissuin #Bedeken #Yichud #婚礼 #犹太传统 #MazelTov #TorahAndMarriage #הלכה #חתונה #חופה
 
 ---
 
-*Article #91 of 100 • Torah Light (Torah之光) Project*  
-*© 2026 Torah Light • For more articles, visit our complete collection*
+*May every couple merit to build a bayit ne'eman b'Yisrael — a faithful house in Israel, filled with Torah, love, and the joy of mitzvot.*

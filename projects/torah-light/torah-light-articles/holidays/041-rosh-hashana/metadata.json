@@ -1,0 +1,40 @@
+{
+  "id": 41,
+  "title": "Rosh Hashana for Beginners: The Jewish New Year Explained",
+  "slug": "rosh-hashana",
+  "category": "holidays",
+  "languages": ["en", "zh", "he"],
+  "author": "Torah Light Project",
+  "status": "published",
+  "published_at": "2026-03-17",
+  "sources": [
+    {
+      "name": "Chabad.org",
+      "url": "https://www.chabad.org/library/article_cdo/aid/4762/jewish/What-Is-Rosh-Hashanah.htm",
+      "verified": true
+    },
+    {
+      "name": "Chabad.org - Practical Rosh Hashanah Info",
+      "url": "https://www.chabad.org/library/article_cdo/aid/4318/jewish/Practical-Rosh-Hashanah-Info.htm",
+      "verified": true
+    },
+    {
+      "name": "Aish.com - What Is Rosh Hashanah",
+      "url": "https://aish.com/what-is-rosh-hashanah/",
+      "verified": true
+    },
+    {
+      "name": "Aish.com - Rosh Hashanah Services",
+      "url": "https://www.aish.com/rosh-hashanah/",
+      "verified": true
+    }
+  ],
+  "keywords": ["Rosh Hashana", "Jewish New Year", "Shofar", "High Holidays", "Yamim Noraim", "Judgment", "Teshuva", "Tashlich", "Apples and Honey", "Book of Life", "犹太新年", "羊角号", "审判日", "悔改", "ראש השנה", "שופר", "ימים נוראים"],
+  "reading_time": {
+    "en": 35,
+    "zh": 30,
+    "he": 40
+  },
+  "difficulty": "beginner",
+  "related_articles": [42, 51, 30, 14]
+}

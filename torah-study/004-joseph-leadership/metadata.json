@@ -1,0 +1,20 @@
+{
+  "id": 4,
+  "title": {
+    "en": "The Story of Joseph: Leadership, Forgiveness, and Family",
+    "zh": "约瑟的故事:领导力、宽恕与家庭",
+    "he": "סיפור יוסף: מנהיגות, סליחה ומשפחה"
+  },
+  "author": "Rabbi with Alice (AI)",
+  "date": "2026-03-17",
+  "tags": {
+    "en": ["Joseph", "Leadership", "Forgiveness", "Family", "Genesis", "Torah Study", "Egypt", "Dreams", "Reconciliation", "Divine Providence", "Integrity"],
+    "zh": ["约瑟", "领导力", "宽恕", "家庭", "创世记", "妥拉学习", "埃及", "梦想", "和解", "神意护佑", "正直"],
+    "he": ["יוסף", "מנהיגות", "סליחה", "משפחה", "בראשית", "לימוד_תורה", "מצרים", "חלומות", "פיוס", "השגחה_אלוהית", "יושר"]
+  },
+  "summary": {
+    "en": "The dramatic story of Joseph, from the pit to the palace, teaching timeless lessons about leadership, forgiveness, and family reconciliation through his journey from betrayal by his brothers to becoming viceroy of Egypt and ultimately forgiving those who wronged him.",
+    "zh": "约瑟从深坑到宫殿的戏剧性故事，通过他从被兄弟背叛到成为埃及副王，最终原谅那些伤害他的人的旅程，教导关于领导力、宽恕和家庭和解的永恒课题。",
+    "he": "הסיפור הדרמטי של יוסף, מהבור לארמון, המלמד לקחים נצחיים על מנהיגות, סליחה ופיוס משפחתי דרך מסעו מבגידת אחיו להיותו משנה למלך במצרים ולבסוף סליחה לאלה שפגעו בו."
+  }
+}

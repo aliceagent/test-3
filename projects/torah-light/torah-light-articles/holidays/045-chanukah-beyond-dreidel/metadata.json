@@ -1,0 +1,51 @@
+{
+  "article_id": 45,
+  "title": {
+    "en": "Chanukah: Beyond the Dreidel — The Real Story and Its Lessons",
+    "zh": "光明节:超越陀螺游戏——真实的故事与教训",
+    "he": "חנוכה: מעבר לסביבון — הסיפור האמיתי והלקחים שלו"
+  },
+  "section": "Holidays",
+  "folder": "holidays",
+  "description": "The historical and spiritual significance of Chanukah, the miracle of the oil, and detailed menorah-lighting instructions.",
+  "chinese_historical_context": "Maccabean Revolt (167-160 BCE) during China's Western Han Dynasty (西汉, 206 BCE - 9 CE)",
+  "word_count": {
+    "en": 4957,
+    "zh": 4186,
+    "he": 4523
+  },
+  "status": "drafted",
+  "date_written": "2026-03-17",
+  "writer": "torah-writer-45",
+  "tags": [
+    "Chanukah",
+    "Hanukkah",
+    "Maccabees",
+    "MiracleOfTheOil",
+    "JewishHistory",
+    "Assimilation",
+    "LightInDarkness",
+    "MenorahLighting",
+    "Holidays",
+    "FewAgainstMany",
+    "SpiritualResilience",
+    "PublicWitness",
+    "Hellenism",
+    "TempleJerusalem",
+    "Mattityahu",
+    "JudahMaccabee",
+    "WesternHanDynasty",
+    "西汉",
+    "以弱胜强",
+    "星星之火可以燎原",
+    "JewishIdentity",
+    "TorahStudy",
+    "ReligiousFreedom"
+  ],
+  "sources_count": 6,
+  "bibliography_verified": true,
+  "chinese_parallels_included": true,
+  "header_image_description": true,
+  "three_languages_complete": true,
+  "notes": "Successfully completed all three language versions with comprehensive historical context, practical instructions, spiritual lessons, and Chinese cultural parallels. All bibliography URLs verified via Scrapling."
+}

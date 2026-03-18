@@ -1,0 +1,84 @@
+{
+  "articleId": "074",
+  "category": "mussar",
+  "subcategory": "character-development",
+  "title": {
+    "en": "The Seven Middot (Character Traits) and How to Develop Them",
+    "he": "שבע המידות: מדריך לפיתוח תכונות האופי",
+    "zh": "犹太教七大品格特质及其修养方法"
+  },
+  "description": {
+    "en": "A comprehensive guide to the seven foundational character traits in Jewish thought - chesed, gevurah, tiferet, netzach, hod, yesod, and malchut - with practical applications for daily life and spiritual growth.",
+    "he": "מדריך מקיף לשבע המידות היסודיות במחשבה היהודית - חסד, גבורה, תפארת, נצח, הוד, יסוד ומלכות - עם יישומים מעשיים לחיים יומיים וצמיחה רוחנית.",
+    "zh": "犹太思想中七大基础品格特质——仁慈、力量、美、恒心、谦逊、基础和主权的全面指南，包含日常生活和精神成长的实际应用。"
+  },
+  "tags": [
+    "mussar",
+    "character-development",
+    "seven-middot",
+    "sefirot",
+    "chesed",
+    "gevurah",
+    "tiferet",
+    "netzach",
+    "hod",
+    "yesod",
+    "malchut",
+    "kabbalah",
+    "spiritual-growth",
+    "chassidus",
+    "counting-omer",
+    "jewish-ethics",
+    "品德修养",
+    "七大品格",
+    "confucianism",
+    "pirkei-avot",
+    "self-improvement"
+  ],
+  "targetAudience": {
+    "primary": "beginners-to-intermediate",
+    "cultural": ["western", "chinese"],
+    "background": "accessible to all Jewish learning levels"
+  },
+  "wordCount": {
+    "en": 8600,
+    "he": 9200,
+    "zh": 7800
+  },
+  "headerImage": {
+    "prompt": "A traditional Chinese ink wash (水墨) landscape in shan shui (山水) style depicting seven mountain peaks at different heights, each emanating a subtle colored aura (white, red, golden, green, purple, blue, earthy brown). In the foreground, a scholar in traditional robes sits beneath a pine tree, holding a scroll, gazing contemplatively at the seven peaks. Misty clouds drift between the mountains. The style is serene and contemplative, using primarily black ink with touches of subtle color for the auras. Composition emphasizes vertical harmony and spiritual ascent. Mood: meditative, balanced, aspirational.",
+    "description": "Seven mystical mountain peaks representing the seven middot with a contemplative scholar"
+  },
+  "difficulty": "intermediate",
+  "estimatedReadTime": {
+    "en": "32-35 minutes",
+    "he": "35-40 minutes", 
+    "zh": "30-33 minutes"
+  },
+  "practicalElements": [
+    "daily-character-exercises",
+    "omer-counting-practice",
+    "weekly-focus-cycles",
+    "journaling-prompts",
+    "meditation-guidance",
+    "cultural-connections"
+  ],
+  "keyLearningObjectives": [
+    "Understand the seven foundational character traits in Jewish thought",
+    "Learn to balance opposing traits (chesed/gevurah)",
+    "Develop practical daily exercises for character cultivation",
+    "Connect Jewish middot to universal wisdom traditions",
+    "Apply middot framework to real-life situations"
+  ],
+  "culturalConnections": {
+    "confucian": ["ren (仁)", "li (礼)", "zhong (中)", "yi (毅)", "xiao (孝)", "xin (信)", "junzi (君子)"],
+    "universal": ["kindness", "discipline", "balance", "perseverance", "humility", "integrity", "sovereignty"]
+  },
+  "prerequisites": "Basic familiarity with Jewish concepts helpful but not required",
+  "relatedArticles": ["counting-omer", "pirkei-avot", "tanya-basics", "mussar-introduction"],
+  "author": "Torah Light Editorial",
+  "dateCreated": "2026-03-17",
+  "lastUpdated": "2026-03-17T17:30:00+02:00",
+  "version": "1.0",
+  "status": "published"
+}

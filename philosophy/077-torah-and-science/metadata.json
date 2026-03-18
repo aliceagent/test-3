@@ -1,0 +1,84 @@
+{
+  "id": 77,
+  "title": {
+    "en": "Torah and Science: Are They Compatible?",
+    "zh": "托拉与科学:它们能相容吗?",
+    "he": "תורה ומדע: האם הם תואמים?"
+  },
+  "description": {
+    "en": "Exploring how Jewish thought reconciles Torah with scientific discovery, from medieval sages to modern thinkers",
+    "zh": "探讨犹太思想如何调和托拉与科学发现，从中世纪智者到现代思想家",
+    "he": "חקר כיצד המחשבה היהודית מתיישבת עם התגליות המדעיות, מחכמי ימי הביניים לחשובי זמננו"
+  },
+  "author": "Torah Light Editorial Team",
+  "date": "2024-03-17",
+  "category": "philosophy",
+  "tags": [
+    "Torah",
+    "Science", 
+    "Philosophy",
+    "Maimonides",
+    "Evolution",
+    "Creation",
+    "BigBang",
+    "Jewish thought",
+    "Faith and reason",
+    "中华文明",
+    "儒道互补"
+  ],
+  "difficulty": "intermediate",
+  "readingTime": {
+    "en": "25 minutes",
+    "zh": "30 minutes"
+  },
+  "languages": ["en", "zh"],
+  "relatedArticles": [39, 27, 8],
+  "sources": [
+    {
+      "title": "Guide for the Perplexed",
+      "author": "Maimonides (Rambam)",
+      "url": "https://www.sefaria.org/Guide_for_the_Perplexed"
+    },
+    {
+      "title": "Torah and Science Articles",
+      "author": "Chabad.org",
+      "url": "https://www.chabad.org/library/article_cdo/aid/3139912/jewish/The-Why-and-How-of-Torah-and-Science.htm"
+    },
+    {
+      "title": "Creation & The Big Bang",
+      "author": "Dr. Gerald Schroeder",
+      "url": "https://aish.com/creation-the-big-bang/"
+    },
+    {
+      "title": "What is the Soul?",
+      "author": "Aish.com",
+      "url": "https://aish.com/what-is-the-soul/"
+    },
+    {
+      "title": "The Challenge of Creation",
+      "author": "Rabbi Natan Slifkin",
+      "url": "https://www.zootorah.com/books/"
+    }
+  ],
+  "imageDescription": {
+    "en": "A serene Chinese shan shui landscape in traditional ink wash style, featuring a misty mountain valley with an ancient scholar's study pavilion perched on a cliff. Through the open pavilion windows, two streams of light converge — one golden (representing divine wisdom/Torah) descending from ethereal clouds above, and one silver-blue (representing scientific inquiry) rising from a flowing river below.",
+    "zh": "一幅宁静的中国山水画,传统水墨风格,展现薄雾笼罩的山谷,一座古老的书斋亭台坐落在悬崖上。透过开阔的窗户,两束光汇聚——一束金色(代表神圣智慧/托拉)从上方飘渺的云层降下,一束银蓝色(代表科学探索)从下方流动的河流升起。"
+  },
+  "culturalContext": {
+    "chineseDynastyReferences": {
+      "Southern Song": "南宋时期 (1127-1279) - When Maimonides lived, corresponding to the era of Zhu Xi's Neo-Confucianism",
+      "Late Qing": "晚清时期 (1840-1912) - Period of Rabbi Hirsch, when traditional Chinese learning encountered Western science",
+      "Ming-Qing transition": "明末清初 - Referenced for Rav Kook's era of great transformation",
+      "Pre-Qin": "先秦诸子百家 - Era of philosophical diversity analogous to Jewish pluralistic approaches",
+      "Han Dynasty": "汉代独尊儒术而不废黄老 - Model for harmonizing different knowledge systems",
+      "Song-Ming": "宋明理学 - Neo-Confucian synthesis comparable to Jewish integration of Torah and philosophy"
+    },
+    "philosophicalParallels": {
+      "GeWuZhiZhi": "格物致知 - Confucian 'investigation of things' parallel to scientific inquiry", 
+      "YinYang": "一阴一阳之谓道 - Complementary principles like Torah and science",
+      "Dao": "道可道，非常道 - Ultimate reality beyond description, parallel to divine mystery",
+      "ZhuangziTime": "天地一指也，万物一马也 - Zhuangzi's relative concept of time",
+      "XuGuangqi": "欲求超胜，必须会通 - Xu Guangqi's principle of synthesis and integration"
+    }
+  }
+}

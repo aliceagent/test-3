@@ -1,0 +1,54 @@
+{
+  "article_id": 62,
+  "title_en": "Jewish Mentorship: How a Teacher-Student Relationship Works in Judaism",
+  "title_zh": "犹太导师制:犹太教中师生关系的运作方式",
+  "title_he": "חניכות יהודית: כיצד פועל קשר רב-תלמיד ביהדות",
+  "section": "Mentorship",
+  "folder": "community/062-mentorship",
+  "word_count": {
+    "en": 4200,
+    "zh": 3800,
+    "he": 4100
+  },
+  "status": "completed",
+  "date_completed": "2026-03-17",
+  "bibliography_verified": true,
+  "tags": [
+    "Mentorship",
+    "RavTalmid",
+    "TorahStudy",
+    "JewishEducation",
+    "MosesAndJoshua",
+    "ElijahAndElisha",
+    "Mesorah",
+    "ChainOfTradition",
+    "Shimush",
+    "DerechEretz",
+    "师生关系",
+    "传统",
+    "道统",
+    "ChineseCulture",
+    "Confucianism",
+    "Daoism"
+  ],
+  "historical_figures": [
+    "Moses",
+    "Joshua",
+    "Elijah",
+    "Elisha",
+    "Confucius",
+    "Rashi",
+    "Rambam/Maimonides",
+    "Rabbi Akiva",
+    "Baal Shem Tov"
+  ],
+  "chinese_dynasties_referenced": [
+    "Shang Dynasty (商朝)",
+    "Zhou Dynasty (周朝)",
+    "Spring and Autumn Period (春秋时代)",
+    "Han Dynasty (汉朝)",
+    "Northern Song Dynasty (北宋)",
+    "Southern Song Dynasty (南宋)",
+    "Qing Dynasty (清朝)"
+  ]
+}

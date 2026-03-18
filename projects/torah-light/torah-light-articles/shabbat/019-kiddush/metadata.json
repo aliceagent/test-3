@@ -1,0 +1,182 @@
+{
+  "article_id": 19,
+  "title": {
+    "en": "Kiddush: The Full Text, Translation, and Meaning",
+    "zh": "קידוש：完整经文、翻译与深意",
+    "he": "קידוש: הטקסט המלא, התרגום והמשמעות"
+  },
+  "section": "Shabbat", 
+  "folder": "shabbat",
+  "description": "Complete guide to Kiddush for Friday night and Shabbat day, with full Hebrew text, English and Chinese translations, transliteration, and deep meaning behind every word.",
+  "author": "Torah Light Editorial Team",
+  "date_written": "2026-03-17",
+  "word_count": {
+    "en": 8500,
+    "zh": 3200,
+    "he": 6800
+  },
+  "target_audience": "Jewish learners and practitioners seeking comprehensive understanding of Kiddush",
+  "difficulty_level": "Intermediate to Advanced",
+  "estimated_reading_time": {
+    "en": "35 minutes",
+    "zh": "20 minutes",
+    "he": "30 minutes"
+  },
+  "languages": ["en", "zh", "he"],
+  "key_topics": [
+    "Kiddush ceremony",
+    "Friday night Kiddush",
+    "Shabbat day Kiddush", 
+    "Wine blessing",
+    "Vayechulu",
+    "Sanctification of time",
+    "Shabbat meaning",
+    "Creation narrative",
+    "Exodus commemoration",
+    "Jewish ritual practice",
+    "Hebrew prayers",
+    "Practical observance"
+  ],
+  "historical_periods_referenced": [
+    {
+      "period": "Creation",
+      "chinese_context": "Biblical foundation for Sabbath observance and divine rest"
+    },
+    {
+      "period": "Mount Sinai Revelation (c. 1300 BCE)", 
+      "chinese_context": "Corresponds to Late Shang Dynasty period (商朝晚期, 1300-1046 BCE)"
+    },
+    {
+      "period": "Mishnaic Period (200 BCE - 220 CE)",
+      "chinese_context": "Corresponds to Han Dynasty period (汉朝, 206 BCE – 220 CE)"
+    },
+    {
+      "period": "Rashi Commentary (1040-1105 CE)",
+      "chinese_context": "Corresponds to Northern Song Dynasty (北宋, 960-1127 CE)" 
+    },
+    {
+      "period": "Tang Dynasty (618-907 CE)",
+      "chinese_context": "Traditional Chinese timekeeping parallels with Jewish day calculation"
+    }
+  ],
+  "hebrew_terms_explained": [
+    "Kiddush",
+    "Vayechulu", 
+    "Savri maranan",
+    "Borei pri hagafen",
+    "Zachor et yom ha-Shabbat",
+    "Brit olam", 
+    "Vayinafash",
+    "Kedoshim",
+    "Zikaron l'ma'aseh v'reishit",
+    "Zecher l'yitziat Mitzrayim"
+  ],
+  "chinese_cultural_connections": [
+    "Shang Dynasty oracle bone parallels",
+    "Han Dynasty time calculation systems", 
+    "Song Dynasty landscape painting aesthetics",
+    "Daoist wu wei philosophy",
+    "Confucian yi (righteousness) concepts",
+    "Traditional Chinese wine culture",
+    "Tang Dynasty shichen time divisions",
+    "Zhou Dynasty cosmic order concepts"
+  ],
+  "philosophical_themes": [
+    "Sanctification of time vs space",
+    "Work-rest rhythm in cosmic order", 
+    "Wine as symbol of joy and abundance",
+    "Covenant vs contract relationships",
+    "Freedom and slavery dialectics",
+    "Creation and redemption theology",
+    "Individual and communal practice",
+    "Sacred and profane boundaries"
+  ],
+  "practical_elements": {
+    "required_items": [
+      "Kiddush cup (minimum 3.3 fl oz)",
+      "Wine or grape juice", 
+      "Two covered challahs",
+      "Candles (for Friday night)",
+      "Prayer book or text"
+    ],
+    "timing": {
+      "friday_night": "After evening service, before Friday meal",
+      "saturday_day": "After morning service, before midday meal" 
+    },
+    "procedure_steps": [
+      "Stand holding Kiddush cup in right hand",
+      "Look at candles briefly (Friday night only)",
+      "Recite full Kiddush text",
+      "Drink at least cheek-full of wine",
+      "Distribute wine to others if customary"
+    ],
+    "who_can_perform": "Any Jewish adult over bar/bat mitzvah age"
+  },
+  "theological_concepts": [
+    "God as Creator and Sustainer",
+    "Sabbath as memorial of Creation", 
+    "Sabbath as memorial of Exodus",
+    "Divine election of Israel",
+    "Eternal covenant relationship",
+    "Sanctification through mitzvot",
+    "Joy in religious observance",
+    "Time as vehicle for holiness"
+  ],
+  "accessibility_notes": {
+    "language_options": "Hebrew original with English and Chinese translations",
+    "pronunciation_guide": "Full transliteration provided",
+    "substitutions": "Grape juice acceptable alternative to wine",
+    "solo_practice": "Instructions for individual observance included",
+    "learning_progression": "Suitable for intermediate to advanced learners"
+  },
+  "bibliography": {
+    "count": 5,
+    "all_urls_verified": true,
+    "sources": [
+      {
+        "title": "Friday Night Kiddush: How To",
+        "url": "https://aish.com/friday-night-kiddush-how-to/",
+        "organization": "Aish.com"
+      },
+      {
+        "title": "What Is the Kiddush?", 
+        "url": "https://www.myjewishlearning.com/article/kiddush/",
+        "organization": "My Jewish Learning"
+      },
+      {
+        "title": "Kiddush Topic Page",
+        "url": "https://www.sefaria.org/topics/kiddush", 
+        "organization": "Sefaria"
+      },
+      {
+        "title": "Kiddush (Halacha L'Maaseh)",
+        "url": "https://www.ou.org/torah/halacha/halacha-lmaaseh/kiddush/",
+        "organization": "Orthodox Union"
+      },
+      {
+        "title": "Shabbat General Overview",
+        "url": "https://aish.com/h/sh/",
+        "organization": "Aish.com"
+      }
+    ]
+  },
+  "cultural_adaptations": {
+    "chinese_context": "Extensive references to Chinese historical periods and philosophical parallels",
+    "universal_themes": "Sacred time, divine rest, family gathering, gratitude, and spiritual renewal",
+    "comparative_philosophy": "Daoist wu wei and Confucian concepts integrated with Jewish thought"
+  },
+  "learning_outcomes": [
+    "Understand the complete text and meaning of Kiddush",
+    "Perform Friday night and Sabbath day Kiddush correctly", 
+    "Appreciate the theological depth of Sabbath observance",
+    "Connect Jewish concepts with universal human experiences",
+    "Recognize cultural parallels between Jewish and Chinese traditions"
+  ],
+  "status": "complete",
+  "qa_checklist": {
+    "bibliography_urls_verified": true,
+    "hebrew_translation_complete": true, 
+    "metadata_complete": true,
+    "ready_for_publication": true
+  }
+}

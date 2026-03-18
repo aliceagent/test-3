@@ -1,0 +1,76 @@
+{
+  "articleId": "087",
+  "category": "israel",
+  "subcategory": "zionism",
+  "title": {
+    "en": "What is Zionism? A Jewish Perspective",
+    "he": "מהי ציונות? נקודת מבט יהודית",
+    "zh": "什么是犹太复国主义？犹太视角"
+  },
+  "description": {
+    "en": "An exploration of Zionism from a Jewish perspective — its biblical roots, historical development, and theological significance.",
+    "he": "חקירה של הציונות מנקודת מבט יהודית — שורשיה המקראיים, התפתחותה ההיסטורית ומשמעותה התיאולוגית.",
+    "zh": "从犹太视角探索犹太复国主义——它的圣经根源、历史发展和神学意义。"
+  },
+  "tags": [
+    "zionism",
+    "israel",
+    "eretz-yisrael",
+    "jerusalem",
+    "zion",
+    "theodor-herzl",
+    "rav-kook",
+    "aliyah",
+    "diaspora",
+    "jewish-homeland",
+    "state-of-israel",
+    "jewish-history",
+    "modern-israel",
+    "犹太复国主义",
+    "以色列",
+    "耶路撒冷"
+  ],
+  "targetAudience": {
+    "primary": "beginners-to-intermediate",
+    "cultural": ["western", "chinese"],
+    "background": "accessible to all readers"
+  },
+  "wordCount": {
+    "en": 6800,
+    "he": 7200,
+    "zh": 6400
+  },
+  "headerImage": {
+    "prompt": "Traditional Chinese ink wash (水墨) landscape painting depicting a lone figure standing on a mountain path, gazing toward distant mountains that symbolize Jerusalem. The foreground shows intricate pine branches (representing endurance and longevity), while the distant peaks are bathed in golden light breaking through clouds. The composition moves from dark, misty lower slopes to luminous heights, symbolizing the journey of return and hope. Style: shan shui (山水) with subtle touches of warm amber in the distant light. Mood: contemplative, hopeful, yearning.",
+    "description": "Figure on mountain path gazing toward Jerusalem-like distant peaks"
+  },
+  "difficulty": "intermediate",
+  "estimatedReadTime": {
+    "en": "25-28 minutes",
+    "he": "27-30 minutes",
+    "zh": "23-26 minutes"
+  },
+  "practicalElements": [
+    "biblical-sources",
+    "historical-development",
+    "theological-perspectives",
+    "modern-application"
+  ],
+  "keyLearningObjectives": [
+    "Understand the biblical roots of Jewish connection to the Land of Israel",
+    "Learn the historical development of the Zionist movement",
+    "Explore religious and secular perspectives on Zionism",
+    "Appreciate the complexity of the topic"
+  ],
+  "culturalConnections": {
+    "chinese": ["homeland", "diaspora-experience", "national-identity"],
+    "universal": ["self-determination", "nationalism", "return-to-roots"]
+  },
+  "prerequisites": "Basic familiarity with Jewish history helpful",
+  "relatedArticles": ["state-of-israel", "jerusalem", "diaspora", "aliyah"],
+  "author": "Torah Light Editorial",
+  "dateCreated": "2026-03-17",
+  "lastUpdated": "2026-03-17",
+  "version": "1.0",
+  "status": "published"
+}

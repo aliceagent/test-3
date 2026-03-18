@@ -112,7 +112,7 @@
    *（门柱经卷起源、法律和习俗的教育概述）*
 
 3. **《申命记6:4-9》** — Sefaria.org  
-   https://www.sefaria.org/Deuteronomy.6.4-9  
+   https://www.sefaria.org.il/Deuteronomy.6.4-9  
    *（包含示玛祷文的门柱经卷第一段）*
 
 4. **《申命记11:13-21》** — Sefaria.org  

@@ -1,0 +1,23 @@
+{
+  "project": "Torah Light",
+  "total": 100,
+  "completed": [
+    1, 2, 3, 4, 5, 6, 7, 8, 9, 10,
+    11, 12, 13, 14, 15, 16, 17, 18, 19, 20,
+    21, 22, 23, 24, 25, 27, 28, 29, 30,
+    31, 32, 33, 34, 35, 36, 37, 41,
+    43, 44, 45, 48, 49, 50, 51, 53, 54, 55, 56,
+    60, 62, 63, 64, 65, 67, 69,
+    71, 72, 73, 74, 75, 76, 77, 78, 79, 80,
+    81, 82, 83, 84, 85, 86, 87, 89, 90, 92, 93, 96, 97
+  ],
+  "in_progress": [],
+  "notes": "✅ 77/100 complete! 🎉 Article #96 (Tzedakah: Why Charity is a Commandment) finished and committed! Comprehensive trilingual guide to Jewish charitable giving: tzedakah as justice not mercy, Biblical & Talmudic foundations, 10-20% obligation (maaser), Rambam's eight levels (from reluctant giving → enabling self-sufficiency), who receives priority (family first, local community), practical giving methods (automation, pushka, volunteer time), spiritual dimension (giving makes you wealthy), special guidance for Jews in Asia (online platforms, Chabad Houses), Chinese cultural parallels (Confucian 仁 & 义), historical mappings to Shang 商朝 & Song 宋朝. 8 verified bibliography sources. Full DALL-E header image description (Chinese brushstroke marketplace scene). Tags in EN/ZH/HE. 🚨 23 articles remaining.",
+  "failed": [],
+  "pending": [
+    26, 38, 39, 40, 42, 46, 47, 52, 57, 58, 59, 61, 66, 68, 70, 
+    88, 91, 94, 95, 98, 99, 100
+  ],
+  "last_updated": "2026-03-17T19:02:00+02:00",
+  "status_cron_id": "f262e9ad-2d2d-4835-9943-ff51f637901a"
+}

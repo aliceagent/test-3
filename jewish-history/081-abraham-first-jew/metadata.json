@@ -1,0 +1,76 @@
+{
+  "articleId": "081",
+  "category": "jewish-history",
+  "subcategory": "biblical-figures",
+  "title": {
+    "en": "Abraham: The First Jew and What He Taught the World",
+    "he": "אברהם: היהודי הראשון ומה שלימד את העולם",
+    "zh": "亚伯拉罕：第一个犹太人和他教导世界的"
+  },
+  "description": {
+    "en": "The story of Abraham, the founding father of the Jewish people, his discovery of monotheism, and the enduring lessons of his life for modern seekers.",
+    "he": "סיפורו של אברהם, אבי האומה היהודית, גילוי המונותאיזם שלו, והלקחים הנצחיים מחייו למחפשים מודרניים.",
+    "zh": "亚伯拉罕的故事——犹太人民的创始人，他对一神论的发现，以及他的人生对现代追寻者的永恒教训。"
+  },
+  "tags": [
+    "abraham",
+    "avraham",
+    "first-jew",
+    "monotheism",
+    "founding-father",
+    "idol-smashing",
+    "covenant",
+    "genesis",
+    "hospitality",
+    "binding-of-isaac",
+    "akedah",
+    "jewish-history",
+    "biblical-figures",
+    "亚伯拉罕",
+    "一神论",
+    "犹太历史"
+  ],
+  "targetAudience": {
+    "primary": "beginners",
+    "cultural": ["western", "chinese"],
+    "background": "no prior knowledge required"
+  },
+  "wordCount": {
+    "en": 7500,
+    "he": 8000,
+    "zh": 7100
+  },
+  "headerImage": {
+    "prompt": "A Chinese ink wash (水墨) landscape in traditional shan shui (山水) style depicting a lone bearded figure in ancient robes standing on a hilltop at night, gazing up at a vast starry sky. The figure is small against the immense cosmos, surrounded by distant mountains shrouded in mist. A single ancient tree with gnarled branches frames the scene. The stars are rendered as delicate white dots against deep indigo washes, with subtle gradations suggesting infinite depth. The moon hangs large and luminous. Colors: deep blues, blacks, silver-white highlights, muted earth tones. Mood: awe, solitude, cosmic wonder, spiritual seeking.",
+    "description": "Abraham gazing at the stars from a hilltop in Chinese ink wash style"
+  },
+  "difficulty": "beginner",
+  "estimatedReadTime": {
+    "en": "28-30 minutes",
+    "he": "30-32 minutes",
+    "zh": "26-28 minutes"
+  },
+  "practicalElements": [
+    "midrash-stories",
+    "character-traits",
+    "hospitality-lessons",
+    "modern-application"
+  ],
+  "keyLearningObjectives": [
+    "Understand who Abraham was and why he's called the first Jew",
+    "Learn the key stories of Abraham's life",
+    "Explore the concept of covenant in Judaism",
+    "Apply Abraham's lessons of hospitality and faith to modern life"
+  ],
+  "culturalConnections": {
+    "chinese": ["shang-dynasty", "confucian-virtues", "hospitality"],
+    "universal": ["monotheism", "faith", "justice", "hospitality"]
+  },
+  "prerequisites": "None - suitable for complete beginners",
+  "relatedArticles": ["binding-of-isaac", "covenant", "genesis-intro", "sarah"],
+  "author": "Torah Light Editorial",
+  "dateCreated": "2026-03-17",
+  "lastUpdated": "2026-03-17",
+  "version": "1.0",
+  "status": "published"
+}

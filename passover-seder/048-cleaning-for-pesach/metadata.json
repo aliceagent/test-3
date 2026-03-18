@@ -1,0 +1,97 @@
+{
+  "id": 48,
+  "title": {
+    "en": "Cleaning for Pesach: The Complete Chametz Removal Guide",
+    "zh": "逾越节清洁：彻底清除酵母指南",
+    "he": "ניקיון לפסח: המדריך המלא להסרת חמץ"
+  },
+  "section": "Passover Seder",
+  "description": {
+    "en": "Room-by-room guide to searching for and removing chametz before Passover, including bedikat chametz and selling chametz.",
+    "zh": "逾越节前逐个房间搜索和清除酵母制品的指南，包括bedikat chametz和出售酵母制品。",
+    "he": "מדריך חדר אחר חדר לחיפוש והסרת חמץ לפני הפסח, כולל בדיקת חמץ ומכירת חמץ."
+  },
+  "content_rating": "general",
+  "language": "en",
+  "supported_languages": ["en", "zh", "he"],
+  "reading_time_minutes": 30,
+  "difficulty": "beginner",
+  "tags": [
+    "Passover",
+    "Pesach",
+    "Chametz",
+    "Cleaning",
+    "Bedikat Chametz",
+    "Biur Chametz",
+    "Mechirat Chametz",
+    "Seder",
+    "Spring Cleaning",
+    "Mitzvah",
+    "Halachah",
+    "Jewish Holidays"
+  ],
+  "related_articles": [47, 49],
+  "sources": [
+    {
+      "name": "Chabad.org - Cleaning and Checking for Chametz",
+      "url": "https://www.chabad.org/library/article_cdo/aid/6390675/jewish/What-You-Need-to-Know-About-Cleaning-and-Checking-for-Chametz.htm",
+      "verified": true
+    },
+    {
+      "name": "Chabad.org - Bedikat Chametz",
+      "url": "https://www.chabad.org/holidays/passover/pesach_cdo/aid/117217/jewish/Bedikat-Chametz-Search-for-Chametz.htm",
+      "verified": true
+    },
+    {
+      "name": "Chabad.org - 10 Days Cleaning Guide",
+      "url": "https://www.chabad.org/theJewishWoman/article_cdo/aid/3951640/jewish/How-to-Clean-for-Passover-in-10-Days-or-Less.htm",
+      "verified": true
+    },
+    {
+      "name": "Aish.com - Passover Cleaning Guide",
+      "url": "https://aish.com/passover-cleaning-how-to-guide/",
+      "verified": true
+    },
+    {
+      "name": "Aish.com - Passover Cleaning for Dummies",
+      "url": "https://aish.com/passover-cleaning-for-dummies/",
+      "verified": true
+    },
+    {
+      "name": "Sefaria - Exodus 12:15",
+      "url": "https://www.sefaria.org/Exodus.12.15",
+      "verified": true
+    },
+    {
+      "name": "Sefaria - Shulchan Aruch Orach Chayim 433",
+      "url": "https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.433",
+      "verified": true
+    }
+  ],
+  "created_at": "2026-03-17",
+  "updated_at": "2026-03-17",
+  "author": "Torah Light Project",
+  "dalle_prompt": "A serene Chinese brushstroke landscape (shan shui style) depicting a traditional Jewish home during spring cleaning preparation. In the foreground, a family works together cleaning their home - a mother sweeping with a traditional broom, children carrying baskets, father organizing shelves. Through an open window, early spring blossoms (plum or cherry) are visible against misty mountains in the background. The scene uses muted earth tones (soft browns, grays, warm yellows) with touches of spring green. The composition balances busy domestic activity in the foreground with peaceful nature in the background, symbolizing both the physical and spiritual preparation. Painted in traditional Chinese ink wash style with delicate brushwork, evoking both industriousness and tranquility. The mood is warm, purposeful, and hopeful - spring renewal meets sacred preparation.",
+  "cultural_connections": {
+    "chinese_new_year_cleaning": {
+      "concept": "Spring cleaning before the new year",
+      "chinese_term": "扫尘 (sǎo chén)",
+      "similarities": [
+        "Both occur in early spring",
+        "Both involve thorough house cleaning",
+        "Both have symbolic meaning beyond physical cleanliness",
+        "Both are family activities",
+        "Both represent fresh starts"
+      ],
+      "differences": [
+        "Pesach cleaning has specific halachic requirements",
+        "Pesach targets chametz specifically",
+        "Pesach has formal rituals (bedikat chametz, burning)"
+      ]
+    },
+    "historical_context": {
+      "exodus_period": "~1300 BCE",
+      "chinese_period": "Late Shang Dynasty (商朝晚期)"
+    }
+  }
+}

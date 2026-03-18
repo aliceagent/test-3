@@ -1,0 +1,23 @@
+{
+  "article_id": "078-pirkei-avot-chapter-1",
+  "title": "Pirkei Avot Chapter 1: The Chain of Tradition Explained",
+  "translations": {
+    "english": {
+      "status": "complete",
+      "file": "article-en.md",
+      "completed_at": "2026-03-17T15:31:00+02:00"
+    },
+    "chinese": {
+      "status": "complete",
+      "file": "article-zh.md",
+      "completed_at": "2026-03-17T15:36:00+02:00"
+    },
+    "hebrew": {
+      "status": "complete",
+      "file": "article-he.md",
+      "completed_at": "2026-03-17T15:50:00+02:00",
+      "translator": "subagent:bc2a6c34-c703-49ee-8fe6-2862556c30e1"
+    }
+  },
+  "last_updated": "2026-03-17T15:50:00+02:00"
+}

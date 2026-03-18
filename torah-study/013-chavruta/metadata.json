@@ -1,0 +1,44 @@
+{
+  "id": 13,
+  "title": "Chavruta Study: Why Jews Learn in Pairs",
+  "title_zh": "学伴制:为什么犹太人成对学习",
+  "title_he": "חַבְרוּתָא: למה יהודים לומדים בזוגות",
+  "section": "Torah Study",
+  "description": "The unique Jewish tradition of studying with a partner, how to find a chavruta, and tips for productive learning sessions.",
+  "word_count_en": 2850,
+  "word_count_zh": 2600,
+  "word_count_he": 2750,
+  "languages": ["en", "zh", "he"],
+  "author": "Alice (Torah Light Writer)",
+  "date_created": "2026-03-17",
+  "status": "complete",
+  "tags": [
+    "Chavruta",
+    "Torah Study",
+    "Learning Partner",
+    "Talmud",
+    "Jewish Education",
+    "Study Methods",
+    "Chinese Parallels",
+    "Confucianism",
+    "Song Dynasty",
+    "书院",
+    "Friendship",
+    "Community"
+  ],
+  "sources": [
+    "Talmud Bavli - Taanit 7a",
+    "Mishnah Avot 3:2",
+    "Proverbs 27:17",
+    "Talmud Bavli - Berakhot 63b",
+    "Talmud Bavli - Eruvin 13b",
+    "Chabad.org - Chavruta Learning",
+    "Sefaria.org - Primary Jewish Texts"
+  ],
+  "historical_period_mapping": {
+    "jewish_period": "Talmudic Period",
+    "jewish_dates": "200-500 CE",
+    "chinese_equivalent": "Three Kingdoms → Jin Dynasty",
+    "chinese_dates": "220-420 CE"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": 42,
+  "title": {
+    "en": "Yom Kippur: The Holiest Day of the Year",
+    "zh": "赎罪日：犹太历中最神圣的一天",
+    "he": "יום כיפור: היום הקדוש ביותר בשנה"
+  },
+  "section": "Holidays",
+  "folder": "holidays",
+  "slug": "042-yom-kippur",
+  "description": "A complete guide to the Day of Atonement — the five prohibitions, Kol Nidrei, vidui (confession), and the Ne'ilah closing prayer.",
+  "word_count": {
+    "en": 6850,
+    "zh": 6200,
+    "he": 5100
+  },
+  "status": "complete",
+  "tags": [
+    "YomKippur",
+    "DayOfAtonement",
+    "Repentance",
+    "Teshuvah",
+    "Fasting",
+    "Atonement",
+    "HighHolidays",
+    "Holidays",
+    "KolNidrei",
+    "Neilah",
+    "Vidui",
+    "Confession",
+    "SpiritualGrowth",
+    "Forgiveness",
+    "赎罪日",
+    "悔改",
+    "斋戒",
+    "自省"
+  ],
+  "historical_period": {
+    "jewish": "Commanded at Sinai (~1300 BCE)",
+    "chinese_equivalent": "Late Shang Dynasty (商朝, ~1600-1046 BCE)"
+  },
+  "chinese_parallels": [
+    "Confucian self-examination (慎独)",
+    "Daoist return to original nature (返璞归真)",
+    "Tang Dynasty Zheng Guan period (贞观之治) - Emperor Taizong's willingness to accept criticism"
+  ],
+  "bibliography_count": 10,
+  "created": "2026-03-17T18:57:00Z",
+  "author": "Torah Light Project",
+  "language_versions": [
+    "article-en.md",
+    "article-zh.md",
+    "article-he.md"
+  ]
+}

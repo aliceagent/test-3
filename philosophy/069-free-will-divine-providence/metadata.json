@@ -1,0 +1,94 @@
+{
+  "id": 69,
+  "title": "Free Will vs. Divine Providence: How Both Can Be True",
+  "title_zh": "自由意志与神意:两者如何并存",
+  "title_he": "רצון חופשי מול השגחה אלוהית: איך שניהם יכולים להיות אמת",
+  "section": "Philosophy",
+  "description": "Exploring the seeming paradox of human choice and God's omniscience, as explained by Rambam and Chassidic thought.",
+  "word_count_en": 5847,
+  "word_count_zh": 2247,
+  "word_count_he": 4683,
+  "status": "approved",
+  "tags": [
+    "FreeWill",
+    "DivineProvidence",
+    "Paradox",
+    "Philosophy",
+    "Maimonides",
+    "Rambam",
+    "Tanya",
+    "Chassidus",
+    "Kabbalah",
+    "Tzimtzum",
+    "BaalShemTov",
+    "Teshuvah",
+    "Prayer",
+    "Emunah",
+    "ChinesePhilosophy",
+    "Confucianism",
+    "Daoism",
+    "Buddhism",
+    "天命",
+    "無為",
+    "道",
+    "WesternZhouDynasty",
+    "西周",
+    "SongDynasty",
+    "南宋",
+    "QingDynasty",
+    "清朝",
+    "YuanDynasty",
+    "元朝"
+  ],
+  "created_at": "2026-03-17T13:34:00+02:00",
+  "author": "subagent:torah-writer-69",
+  "historical_periods": [
+    {
+      "period": "Western Zhou Dynasty",
+      "dates": "~1046-771 BCE",
+      "chinese": "西周",
+      "context": "King Solomon's era"
+    },
+    {
+      "period": "Southern Song Dynasty",
+      "dates": "1127-1279 CE",
+      "chinese": "南宋",
+      "context": "Maimonides (Rambam) era"
+    },
+    {
+      "period": "Qing Dynasty",
+      "dates": "1644-1912 CE",
+      "chinese": "清朝",
+      "context": "Baal Shem Tov and Tanya publication"
+    },
+    {
+      "period": "Yuan Dynasty",
+      "dates": "1271-1368 CE",
+      "chinese": "元朝",
+      "context": "Zohar compilation"
+    }
+  ],
+  "key_figures": [
+    "Maimonides (Rambam)",
+    "Rabbi Schneur Zalman of Liadi",
+    "Baal Shem Tov",
+    "King Solomon",
+    "Confucius"
+  ],
+  "sources": [
+    "Deuteronomy 30:19",
+    "Proverbs 16:9",
+    "Proverbs 16:33",
+    "Mishneh Torah, Laws of Repentance 5:1-5",
+    "Talmud Bavli: Berakhot 33b, 7b; Chullin 7b; Yoma 38b",
+    "Tanya (Likutei Amarim), Chapters 1-3",
+    "Zohar",
+    "Book of Job 42:2",
+    "Psalm 37:5"
+  ],
+  "chinese_parallels": [
+    "Confucian self-cultivation and Tianming (天命)",
+    "Daoist Wu Wei (無為) and spontaneity",
+    "Buddhist dependent origination and karma"
+  ]
+}

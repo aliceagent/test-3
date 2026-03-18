@@ -1,0 +1,43 @@
+{
+  "id": 89,
+  "title": "The Holocaust: What Every Jewish Learner Should Know",
+  "title_zh": "大屠杀:每个犹太学习者都应该知道的事",
+  "title_he": "השואה: מה שכל לומד יהדות צריך לדעת",
+  "section": "Jewish History",
+  "subsection": "Antisemitism",
+  "description": "An essential overview of the Shoah — how it happened, the six million, resistance, and why we say 'Never Again.'",
+  "word_count_en": 6895,
+  "word_count_zh": 6210,
+  "word_count_he": 6180,
+  "status": "complete",
+  "languages": ["en", "zh", "he"],
+  "tags": [
+    "Holocaust",
+    "Shoah",
+    "NeverAgain",
+    "SixMillion",
+    "JewishHistory",
+    "Antisemitism",
+    "NaziGermany",
+    "YadVashem",
+    "EliWiesel",
+    "WarsawGhettoUprising",
+    "Auschwitz",
+    "Genocide",
+    "HolocaustRemembrance",
+    "YomHaShoah",
+    "ShanghaiRefugees",
+    "抗日战争",
+    "南京大屠杀",
+    "民国时期",
+    "犹太历史"
+  ],
+  "chinese_dynasty_references": [
+    "Republican Era (民国时期, 1912-1949)",
+    "Second Sino-Japanese War (抗日战争, 1937-1945)"
+  ],
+  "bibliography_count": 8,
+  "has_header_image_description": true,
+  "created": "2026-03-17T18:34:00+02:00",
+  "last_updated": "2026-03-17T18:34:00+02:00"
+}
