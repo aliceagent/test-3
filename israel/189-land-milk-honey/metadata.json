@@ -1,0 +1,109 @@
+{
+  "id": 189,
+  "title": "The Land of Milk and Honey: What the Torah Means",
+  "title_zh": "流淌着奶与蜜的土地:妥拉的真正含义",
+  "title_he": "ארץ זבת חלב ודבש: מה התורה מתכוונת",
+  "section": "israel",
+  "slug": "land-milk-honey",
+  "author": "Torah Light Team",
+  "dateCreated": "2026-03-18",
+  "language": {
+    "en": "article-en.md",
+    "zh": "article-zh.md",
+    "he": "article-he.md"
+  },
+  "tags": [
+    "Israel",
+    "Promised Land",
+    "Torah",
+    "Milk and Honey",
+    "Biblical Geography",
+    "Jewish Connection to Land",
+    "Agriculture",
+    "Divine Providence",
+    "Chinese Cultural Parallels"
+  ],
+  "keywords": [
+    "land of milk and honey",
+    "eretz zavat chalav u'dvash",
+    "Promised Land",
+    "Israel agriculture",
+    "Torah promises",
+    "Exodus 3:8",
+    "seven species",
+    "shivat haminim",
+    "living in Israel",
+    "spiritual significance of land"
+  ],
+  "description": "An exploration of the Torah's famous phrase 'land flowing with milk and honey' - its literal meaning, symbolic layers, and spiritual significance. Includes parallels to Chinese concepts of agricultural abundance and ideal society.",
+  "targetAudience": "Chinese speakers learning about Judaism, those interested in Israel, converts and students",
+  "wordCount": {
+    "en": 1456,
+    "zh": 855,
+    "he": 1389
+  },
+  "difficulty": "beginner-intermediate",
+  "relatedArticles": [
+    187,
+    188,
+    190,
+    191,
+    192,
+    193
+  ],
+  "sources": [
+    {
+      "type": "biblical",
+      "reference": "Exodus 3:8"
+    },
+    {
+      "type": "biblical",
+      "reference": "Numbers 13:27-28"
+    },
+    {
+      "type": "biblical",
+      "reference": "Numbers 14:7-8"
+    },
+    {
+      "type": "biblical",
+      "reference": "Deuteronomy 8:8"
+    },
+    {
+      "type": "biblical",
+      "reference": "Deuteronomy 11:10"
+    },
+    {
+      "type": "biblical",
+      "reference": "Song of Songs 4:11"
+    },
+    {
+      "type": "talmudic",
+      "reference": "Ketubot 110b-111b"
+    },
+    {
+      "type": "talmudic",
+      "reference": "Eruvin 54b"
+    },
+    {
+      "type": "chinese",
+      "reference": "Book of Rites (禮記) - Confucian Classic on ideal society"
+    }
+  ],
+  "culturalParallels": [
+    {
+      "culture": "Chinese",
+      "concept": "大同 (dàtóng) - Grand Unity/Great Harmony",
+      "description": "Ancient Chinese vision of ideal peaceful and prosperous society, similar to Torah's vision of Israel"
+    },
+    {
+      "culture": "Chinese",
+      "concept": "魚米之鄉 (yú mǐ zhī xiāng) - Land of fish and rice",
+      "description": "Chinese phrase for fertile regions where basic needs are easily met, parallel to 'milk and honey'"
+    },
+    {
+      "culture": "Chinese",
+      "concept": "Connection between place and cultural flourishing",
+      "description": "Both traditions link fertile river valleys (Yellow River/Yangtze vs. Land of Israel) with prosperity and spiritual development"
+    }
+  ]
+}
