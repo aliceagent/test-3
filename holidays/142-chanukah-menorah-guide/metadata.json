@@ -1,0 +1,54 @@
+{
+  "articleId": 142,
+  "title": {
+    "en": "The Chanukah Menorah: Exact Placement, Timing, and Procedure",
+    "zh": "光明节烛台：精确放置、时机和程序",
+    "he": "חנוכיית חנוכה: מיקום מדויק, תזמון ונוהל"
+  },
+  "description": {
+    "en": "Detailed halachic guide to menorah lighting — where to place it, when to light, how many candles each night, and the blessings.",
+    "zh": "光明节烛台点燃的详细犹太律法指南——放置位置、点燃时间、每晚蜡烛数量和祝福词。",
+    "he": "מדריך הלכתי מפורט להדלקת חנוכיה — איפה למקם אותה, מתי להדליק, כמה נרות בכל לילה, והברכות."
+  },
+  "section": "holidays",
+  "category": "chanukah",
+  "tags": ["chanukah", "hanukkah", "menorah", "chanukiah", "halacha", "jewish law", "lighting", "blessings", "holidays"],
+  "difficulty": "intermediate",
+  "readingTime": {
+    "en": 12,
+    "zh": 8,
+    "he": 10
+  },
+  "author": "Torah Light Editorial Team",
+  "dateCreated": "2026-03-18",
+  "lastModified": "2026-03-18",
+  "sources": [
+    "Talmud Bavli, Shabbat 21a-24b",
+    "Shulchan Aruch, Orach Chaim 670-684",
+    "Mishnah Berurah",
+    "Rambam, Hilchot Chanukah",
+    "Aruch HaShulchan, Orach Chaim 670-684"
+  ],
+  "relatedArticles": [
+    "chanukah-history-maccabees",
+    "jewish-holidays-calendar",
+    "sabbath-candle-lighting",
+    "temple-menorah-history"
+  ],
+  "headerImage": {
+    "description": "A beautiful brass Chanukah menorah with nine branches against a warm evening background, with eight oil-filled glass cups and one elevated shamash candle. The menorah sits near a frost-covered window overlooking a quiet street with soft golden lamplight visible outside, capturing the essence of bringing light into winter darkness.",
+    "alt": "Chanukah menorah with nine branches placed near window for public viewing",
+    "placement": "center",
+    "caption": "The Chanukah menorah: A beacon of religious freedom and divine providence"
+  },
+  "keywords": ["chanukah menorah", "hanukkah candles", "jewish holidays", "religious observance", "halachic guide", "menorah placement", "chanukah blessings", "jewish law", "holiday lighting"],
+  "seoDescription": "Complete halachic guide to Chanukah menorah lighting: proper placement, timing, blessings, and procedures for each night of Hanukkah.",
+  "languages": ["en", "zh", "he"],
+  "status": "published",
+  "featured": true,
+  "seasonalRelevance": {
+    "primary": "winter",
+    "months": ["november", "december", "january"],
+    "hebrewMonths": ["kislev", "tevet"]
+  }
+}

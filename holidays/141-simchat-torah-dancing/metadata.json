@@ -1,0 +1,72 @@
+{
+  "id": 141,
+  "title": {
+    "en": "Simchat Torah: Dancing with the Torah — The Most Joyous Day",
+    "zh": "妥拉节：与妥拉共舞——最欢乐的日子",
+    "he": "שמחת תורה: רוקדים עם התורה — היום השמח ביותר"
+  },
+  "section": "holidays",
+  "category": "Jewish Festivals",
+  "tags": [
+    "simchat-torah",
+    "torah",
+    "dancing",
+    "hakafot",
+    "jewish-holidays",
+    "celebration",
+    "joy",
+    "synagogue",
+    "tradition",
+    "cycle"
+  ],
+  "date_created": "2026-03-18",
+  "author": "Torah Light Editorial",
+  "summary": {
+    "en": "An exploration of Simchat Torah, the most joyous day in the Jewish calendar, focusing on the tradition of dancing with Torah scrolls, the hakafot ceremonies, and the significance of completing and immediately restarting the Torah reading cycle.",
+    "zh": "探索妥拉节——犹太历中最欢乐的日子，重点介绍与妥拉卷轴共舞的传统、哈卡福特仪式，以及完成并立即重新开始妥拉诵读循环的意义。",
+    "he": "חקירה של שמחת תורה, היום השמח ביותר בלוח העברי, המתמקדת במסורת הריקוד עם ספרי תורה, טקסי ההקפות, והמשמעות של השלמת וחידוש מיידי של מחזור קריאת התורה."
+  },
+  "keywords": [
+    "Simchat Torah",
+    "Torah dancing",
+    "Hakafot",
+    "Jewish celebration",
+    "Torah cycle",
+    "Synagogue traditions",
+    "Jewish holidays",
+    "Religious joy",
+    "Torah scrolls",
+    "Jewish community"
+  ],
+  "cultural_references": {
+    "chinese_dynasties": [
+      "Cyclical renewal concept from Chinese dynastic traditions",
+      "Dynasty succession patterns reflecting Torah cycle completion and renewal",
+      "Traditional Chinese understanding of endings leading to new beginnings"
+    ]
+  },
+  "header_image_description": "A vibrant scene of Jewish men and women dancing in circles, holding ornate Torah scrolls high above their heads in a synagogue filled with warm golden light. The Torah scrolls are adorned with silver crowns and colorful velvet mantles. Children sit on shoulders, waving small paper flags. The atmosphere is electric with joy, music, and celebration.",
+  "reading_time": {
+    "en": "8-10 minutes",
+    "zh": "5-6 minutes",
+    "he": "7-9 minutes"
+  },
+  "languages": ["en", "zh", "he"],
+  "word_count": {
+    "en": 1150,
+    "zh": 850,
+    "he": 950
+  },
+  "target_audience": [
+    "Jewish community members",
+    "Students of Jewish culture and religion",
+    "Interfaith learners",
+    "Cultural enthusiasts"
+  ],
+  "related_articles": [
+    "Sukkot: Building Temporary Dwellings",
+    "Shavut: Receiving the Torah",
+    "The Annual Torah Reading Cycle",
+    "Jewish Liturgical Music and Dance"
+  ]
+}

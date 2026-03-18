@@ -1,0 +1,52 @@
+{
+  "id": 143,
+  "title": {
+    "en": "Mishloach Manot: The Art of Purim Gift Baskets",
+    "zh": "משלוח מנות：普珥节礼品篮的艺术",
+    "he": "משלוח מנות: אמנות סלי המתנות של פורים"
+  },
+  "section": "Holidays",
+  "description": "The mitzvah of sending food gifts on Purim — minimum requirements, creative ideas, and how this builds community bonds.",
+  "tags": [
+    "Purim",
+    "Mishloach Manot",
+    "Gift Giving",
+    "Community",
+    "Food",
+    "Friendship",
+    "Unity",
+    "Jewish Law",
+    "Creativity",
+    "Hospitality",
+    "Celebration",
+    "Han Dynasty",
+    "Gift Exchange",
+    "Reciprocity",
+    "Social Bonds",
+    "Holidays",
+    "Jewish Holidays",
+    "Mitzvah",
+    "Talmud",
+    "Halacha"
+  ],
+  "word_count": {
+    "en": 3240,
+    "zh": 2890,
+    "he": 3180
+  },
+  "chinese_historical_context": "Han Dynasty (汉朝, 206 BCE - 220 CE)",
+  "key_figures": [
+    "Esther",
+    "Mordechai",
+    "The Talmudic Sages",
+    "Rambam (Maimonides)"
+  ],
+  "bibliography_count": 8,
+  "status": "complete",
+  "created": "2026-03-18",
+  "language_versions": [
+    "article-en.md",
+    "article-zh.md",
+    "article-he.md"
+  ]
+}
