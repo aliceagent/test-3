@@ -1,0 +1,110 @@
+{
+  "article": {
+    "id": 105,
+    "title": {
+      "en": "Vayetze: Jacob's Ladder and the Connection Between Heaven and Earth",
+      "zh": "瓦耶泽：雅各的天梯与天地之间的连接",
+      "he": "ויצא: סולמו של יעקב והקשר בין שמים וארץ"
+    },
+    "section": "weekly-parsha",
+    "slug": "vayetze-jacobs-ladder",
+    "parsha": "Vayetze",
+    "tags": {
+      "en": [
+        "JacobsLadder",
+        "Vayetze", 
+        "Prayer",
+        "DivineConnection",
+        "Angels", 
+        "Dreams",
+        "Bethel",
+        "HeavenAndEarth",
+        "Spirituality",
+        "Faith",
+        "WeeklyParsha",
+        "Torah",
+        "Judaism"
+      ],
+      "zh": [
+        "雅各天梯",
+        "瓦耶泽",
+        "祷告", 
+        "神圣连接",
+        "天使",
+        "梦境",
+        "伯特利",
+        "天地",
+        "灵性",
+        "信仰",
+        "商朝",
+        "天人合一",
+        "每周妥拉",
+        "妥拉",
+        "犹太教"
+      ],
+      "he": [
+        "סולםיעקב",
+        "ויצא",
+        "תפילה",
+        "קשראלוהי", 
+        "מלאכים",
+        "חלומות",
+        "בתאל",
+        "שמיםוארץ",
+        "רוחניות",
+        "אמונה",
+        "פרשתשבוע",
+        "תורה", 
+        "יהדות"
+      ]
+    },
+    "torah_reference": {
+      "parsha": "Vayetze",
+      "verses": "Genesis 28:10-22",
+      "hebrew": "בראשית כח:י-כב"
+    },
+    "chinese_historical_context": {
+      "dynasty": "Shang Dynasty",
+      "chinese": "商朝",
+      "period": "~1600-1046 BCE",
+      "relevance": "Period when Jacob's ladder vision occurred, establishing connection between divine and earthly realms"
+    },
+    "dall_e_prompt": "A traditional Chinese ink wash (水墨) landscape painting in shan shui (山水) style, depicting a ethereal stone stairway winding up through layered mountains and mist toward heaven. Angels with flowing robes ascend and descend the misty stairway, rendered in delicate brushstrokes reminiscent of Tang Dynasty art. The composition features dramatic vertical movement with soft earth tones of grey, brown, and muted gold, capturing a serene yet mystical mood. Pine trees cling to rocky outcrops, and wispy clouds partially obscure the upper reaches of the celestial stairway. The scene evokes both the biblical ladder to heaven and the Chinese concept of connecting earthly and divine realms.",
+    "word_count": {
+      "en": 1845,
+      "zh": 1124,
+      "he": 1523
+    },
+    "reading_time_minutes": {
+      "en": 8,
+      "zh": 5,
+      "he": 7
+    },
+    "key_concepts": [
+      "Jacob's prophetic dream",
+      "Angels ascending and descending",
+      "Divine presence everywhere", 
+      "Prayer as connection between heaven and earth",
+      "Chinese parallel: Tianren Heyi (天人合一)",
+      "Gradual spiritual growth",
+      "Three worlds of existence"
+    ],
+    "cultural_parallels": [
+      "Chinese concept of Tianren Heyi (天人合一) - Unity of heaven and humanity",
+      "Mandate of Heaven (天命) during Shang Dynasty",
+      "Connection between earthly and divine realms in both traditions",
+      "Step-by-step spiritual cultivation in both Jewish and Chinese thought"
+    ],
+    "practical_applications": [
+      "Finding the sacred in ordinary moments",
+      "Prayer as daily connection to the divine",
+      "Ethical behavior in professional life",
+      "Gradual spiritual development through consistent practice",
+      "Recognizing divine protection in times of difficulty"
+    ],
+    "created": "2026-03-18T09:02:00Z",
+    "author": "Torah Light AI",
+    "status": "complete",
+    "languages": ["en", "zh", "he"]
+  }
+}
