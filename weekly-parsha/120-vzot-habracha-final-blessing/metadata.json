@@ -29,62 +29,6 @@
     "zh": 9,
     "he": 17
   },
-  "tags": {
-    "en": [
-      "VZotHaBracha",
-      "MosesLastBlessings", 
-      "TribalBlessings",
-      "TorahConclusion",
-      "SimchatTorah",
-      "Leadership",
-      "Legacy",
-      "FinalWords",
-      "MountNebo",
-      "DivineBlessing",
-      "Succession",
-      "BiblicalWisdom",
-      "SpiritualGuidance",
-      "AncientWisdom",
-      "JewishTradition"
-    ],
-    "zh": [
-      "五经最后篇",
-      "摩西最后祝福",
-      "支族祝福", 
-      "托拉结论",
-      "托拉欢庆节",
-      "领导力",
-      "遗产",
-      "最后话语",
-      "尼波山",
-      "神圣祝福",
-      "传承",
-      "圣经智慧",
-      "精神指导",
-      "古代智慧",
-      "犹太传统",
-      "商朝",
-      "天命",
-      "德治"
-    ],
-    "he": [
-      "וזאתהברכה",
-      "ברכותמשהאחרונות",
-      "ברכותהשבטים",
-      "סיוםהתורה",
-      "שמחתתורה",
-      "מנהיגות",
-      "מורשת",
-      "מילותאחרונות",
-      "הרנבו",
-      "ברכהאלוהית",
-      "ירושה",
-      "חכמהמקראית",
-      "הדרכהרוחנית",
-      "חכמהעתיקה",
-      "מסורתיהודית"
-    ]
-  },
   "biblical_references": [
     "Deuteronomy 33:1-29",
     "Deuteronomy 34:1-12",
@@ -102,7 +46,7 @@
   ],
   "themes": [
     "The power of final blessings and last words",
-    "Individual identity within community purpose", 
+    "Individual identity within community purpose",
     "Leadership succession and legacy building",
     "Divine partnership in human endeavors",
     "The cycle of endings and new beginnings",
@@ -132,7 +76,7 @@
   "verified_bibliography": [
     {
       "title": "Studies in Devarim (Deuteronomy)",
-      "author": "Nehama Leibowitz", 
+      "author": "Nehama Leibowitz",
       "publisher": "World Zionist Organization",
       "year": 1980,
       "location": "Jerusalem",
@@ -141,7 +85,7 @@
     {
       "title": "Covenant & Conversation: Deuteronomy",
       "author": "Jonathan Sacks",
-      "publisher": "Maggid Books", 
+      "publisher": "Maggid Books",
       "year": 2019,
       "location": "New Milford",
       "url": "https://www.maggidbooks.com/catalog/product/view/id/2447"
@@ -151,7 +95,7 @@
       "author": "W. Gunther Plaut (ed.)",
       "publisher": "Union of American Hebrew Congregations",
       "year": 1981,
-      "location": "New York", 
+      "location": "New York",
       "url": "https://www.worldcat.org/title/torah-a-modern-commentary/oclc/7555770"
     },
     {
@@ -163,7 +107,7 @@
       "url": "https://www.soncino.com/product/the-pentateuch-and-haftorahs/"
     },
     {
-      "title": "Commentary on the Torah", 
+      "title": "Commentary on the Torah",
       "author": "Rashi (Rabbi Solomon ben Isaac)",
       "translator": "M. Rosenbaum and A.M. Silbermann",
       "publisher": "Silbermann Family Publishers",
@@ -181,7 +125,7 @@
     },
     {
       "title": "Deuteronomy: The Traditional Hebrew Text with the New JPS Translation",
-      "author": "Jeffrey H. Tigay", 
+      "author": "Jeffrey H. Tigay",
       "publisher": "Jewish Publication Society",
       "year": 1996,
       "location": "Philadelphia",
@@ -209,5 +153,22 @@
   "status": "complete",
   "quality_checked": true,
   "bibliography_verified": true,
-  "completion_date": "2026-03-18T13:10:00Z"
+  "completion_date": "2026-03-18T13:10:00Z",
+  "keywords": [
+    "VZotHaBracha",
+    "MosesLastBlessings",
+    "TribalBlessings",
+    "TorahConclusion",
+    "SimchatTorah",
+    "Leadership",
+    "Legacy",
+    "FinalWords",
+    "MountNebo",
+    "DivineBlessing",
+    "Succession",
+    "BiblicalWisdom",
+    "SpiritualGuidance",
+    "AncientWisdom",
+    "JewishTradition"
+  ]
 }

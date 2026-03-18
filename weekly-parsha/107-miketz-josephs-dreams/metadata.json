@@ -12,11 +12,6 @@
     "zh": "约瑟解梦的能力如何来自神，以及这如何教导我们在自己的生活中信靠神圣时机。",
     "he": "איך יכולת הפירוש של יוסף באה מאלוהים, ומה זה מלמד על בטחון בתזמון אלוהי בחיינו."
   },
-  "tags": {
-    "en": ["Miketz", "Joseph", "Dreams", "Prophecy", "Faith", "Divine Timing", "Wisdom", "Leadership", "Trust", "Uncertainty", "Divine Providence", "Pharaoh", "Egypt", "Weekly Parsha", "Torah"],
-    "zh": ["米凯兹", "约瑟", "梦境", "预言", "信心", "神圣时机", "智慧", "领导力", "信任", "不确定性", "神圣眷顾", "法老", "埃及", "周讯妥拉部分", "妥拉", "商朝"],
-    "he": ["מקץ", "יוסף", "חלומות", "נבואה", "אמונה", "תזמון_אלוהי", "חכמה", "מנהיגות", "אמון", "אי_ודאות", "השגחה_פרטית", "פרעה", "מצרים", "פרשת_השבוע", "תורה"]
-  },
   "torah_portion": "Miketz",
   "torah_reference": "Genesis 41:1-44:17",
   "historical_period": {
@@ -42,5 +37,22 @@
   "language_level": "Beginner to Intermediate",
   "cultural_context": "Includes Chinese dynasty references and parallels to Chinese philosophical concepts",
   "bibliography_verified": true,
-  "completed": true
+  "completed": true,
+  "keywords": [
+    "Miketz",
+    "Joseph",
+    "Dreams",
+    "Prophecy",
+    "Faith",
+    "Divine Timing",
+    "Wisdom",
+    "Leadership",
+    "Trust",
+    "Uncertainty",
+    "Divine Providence",
+    "Pharaoh",
+    "Egypt",
+    "Weekly Parsha",
+    "Torah"
+  ]
 }

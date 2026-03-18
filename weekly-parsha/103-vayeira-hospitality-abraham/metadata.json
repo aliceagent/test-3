@@ -26,8 +26,15 @@
     "historical_context": {
       "period": "Patriarchal Period (~1800 BCE)",
       "chinese_equivalent": "商朝 (Shang Dynasty, ~1600-1046 BCE)",
-      "biblical_figures": ["Abraham", "Sarah", "Three Angels"],
-      "locations": ["Plains of Mamre", "Hebron"]
+      "biblical_figures": [
+        "Abraham",
+        "Sarah",
+        "Three Angels"
+      ],
+      "locations": [
+        "Plains of Mamre",
+        "Hebron"
+      ]
     },
     "chinese_cultural_parallels": [
       "待客之道 (The Way of Treating Guests)",
@@ -36,9 +43,43 @@
       "Bronze Age guest entertainment practices"
     ],
     "tags": {
-      "en": ["Abraham", "Hospitality", "HachnasatOrchim", "Vayeira", "WeeklyParsha", "Genesis", "Torah", "Kindness", "Service"],
-      "zh": ["亚伯拉罕", "好客", "哈赫纳萨特奥尔希姆", "瓦耶拉", "每周妥拉", "创世记", "商朝", "待客之道", "妥拉", "仁慈", "服务", "古代好客"],
-      "he": ["אברהם", "אכסניה", "הכנסתאורחים", "וירא", "פרשתשבוע", "בראשית", "תורה", "חסד", "שירות", "אכסניהקדומה"]
+      "en": [
+        "Abraham",
+        "Hospitality",
+        "HachnasatOrchim",
+        "Vayeira",
+        "WeeklyParsha",
+        "Genesis",
+        "Torah",
+        "Kindness",
+        "Service"
+      ],
+      "zh": [
+        "亚伯拉罕",
+        "好客",
+        "哈赫纳萨特奥尔希姆",
+        "瓦耶拉",
+        "每周妥拉",
+        "创世记",
+        "商朝",
+        "待客之道",
+        "妥拉",
+        "仁慈",
+        "服务",
+        "古代好客"
+      ],
+      "he": [
+        "אברהם",
+        "אכסניה",
+        "הכנסתאורחים",
+        "וירא",
+        "פרשתשבוע",
+        "בראשית",
+        "תורה",
+        "חסד",
+        "שירות",
+        "אכסניהקדומה"
+      ]
     },
     "word_count": {
       "en": 2842,
@@ -67,5 +108,6 @@
     "chinese_dynasty_references": true,
     "header_image_included": true,
     "tags_multilingual": true
-  }
+  },
+  "keywords": []
 }

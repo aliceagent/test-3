@@ -7,7 +7,27 @@
   },
   "section": "Holidays",
   "description": "The mitzvah of sending food gifts on Purim — minimum requirements, creative ideas, and how this builds community bonds.",
-  "tags": [
+  "word_count": {
+    "en": 3240,
+    "zh": 2890,
+    "he": 3180
+  },
+  "chinese_historical_context": "Han Dynasty (汉朝, 206 BCE - 220 CE)",
+  "key_figures": [
+    "Esther",
+    "Mordechai",
+    "The Talmudic Sages",
+    "Rambam (Maimonides)"
+  ],
+  "bibliography_count": 8,
+  "status": "complete",
+  "created": "2026-03-18",
+  "language_versions": [
+    "article-en.md",
+    "article-zh.md",
+    "article-he.md"
+  ],
+  "keywords": [
     "Purim",
     "Mishloach Manot",
     "Gift Giving",
@@ -28,25 +48,5 @@
     "Mitzvah",
     "Talmud",
     "Halacha"
-  ],
-  "word_count": {
-    "en": 3240,
-    "zh": 2890,
-    "he": 3180
-  },
-  "chinese_historical_context": "Han Dynasty (汉朝, 206 BCE - 220 CE)",
-  "key_figures": [
-    "Esther",
-    "Mordechai",
-    "The Talmudic Sages",
-    "Rambam (Maimonides)"
-  ],
-  "bibliography_count": 8,
-  "status": "complete",
-  "created": "2026-03-18",
-  "language_versions": [
-    "article-en.md",
-    "article-zh.md",
-    "article-he.md"
   ]
 }

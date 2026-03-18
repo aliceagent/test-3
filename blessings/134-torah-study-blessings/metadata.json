@@ -2,7 +2,7 @@
   "article_id": 134,
   "title": {
     "en": "Blessings Before and After Torah Study",
-    "he": "ברכות התורה: ברכות הלימוד הקדושות", 
+    "he": "ברכות התורה: ברכות הלימוד הקדושות",
     "zh": "《妥拉祝福词》：神圣学习的祝福"
   },
   "subtitle": {
@@ -13,7 +13,7 @@
   "section": "blessings",
   "topic_tags": [
     "birchot_hatorah",
-    "torah_study", 
+    "torah_study",
     "morning_blessings",
     "mitzvah",
     "talmud_torah",
@@ -26,7 +26,7 @@
       "reference": "תלמוד תורה כנגד כולם"
     },
     {
-      "text": "Babylonian Talmud, Berakhot 11b", 
+      "text": "Babylonian Talmud, Berakhot 11b",
       "reference": "Discussion of Birchot HaTorah formulations"
     },
     {
@@ -60,19 +60,23 @@
   },
   "related_articles": [
     "morning-prayers",
-    "torah-study-methods", 
+    "torah-study-methods",
     "jewish-blessings-overview",
     "talmudic-wisdom"
   ],
   "chinese_cultural_references": [
     "Tang Dynasty morning reading traditions",
-    "Song Dynasty scholarly practices", 
+    "Song Dynasty scholarly practices",
     "Ming Dynasty daily study as spiritual cultivation",
     "Confucian learning philosophy parallels"
   ],
   "publication_date": "2026-03-18",
   "author": "Torah Light Editorial Team",
-  "language_versions": ["en", "he", "zh"],
+  "language_versions": [
+    "en",
+    "he",
+    "zh"
+  ],
   "seo_keywords": [
     "Birchot HaTorah",
     "Torah study blessings",
@@ -80,5 +84,6 @@
     "Talmud Torah mitzvah",
     "Jewish learning traditions",
     "Hebrew blessings"
-  ]
+  ],
+  "keywords": []
 }

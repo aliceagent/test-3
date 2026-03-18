@@ -12,18 +12,9 @@
     "zh": true,
     "he": true
   },
-  "tags": [
-    "conversion",
-    "hebrew-names",
-    "jewish-identity",
-    "mikvah",
-    "ben-avraham",
-    "bat-avraham",
-    "spiritual-rebirth"
-  ],
   "summary": {
     "en": "A comprehensive guide to choosing a Hebrew name for converts, covering the tradition of 'ben/bat Avraham v'Sarah,' biblical and historical name sources, cultural parallels, and the significance of receiving a new identity as part of the Jewish people.",
-    "zh": "为皈依者选择希伯来名字的综合指南,涵盖了"某某本/巴特亚伯拉罕与撒拉"的传统、圣经和历史名字来源、文化对比,以及作为犹太民族一部分接受新身份的意义。",
+    "zh": "为皈依者选择希伯来名字的综合指南,涵盖了「某某本/巴特亚伯拉罕与撒拉「的传统、圣经和历史名字来源、文化对比,以及作为犹太民族一部分接受新身份的意义。",
     "he": "מדריך מקיף לבחירת שם עברי לגרים, המכסה את המסורת של 'בן/בת אברהם ושרה', מקורות שמות מקראיים והיסטוריים, מקבילות תרבותיות, והמשמעות של קבלת זהות חדשה כחלק מהעם היהודי."
   },
   "wordCount": {
@@ -81,5 +72,14 @@
     "Practical pronunciation and legal considerations",
     "Discussion questions for reflection",
     "Bibliography with authoritative sources"
+  ],
+  "keywords": [
+    "conversion",
+    "hebrew-names",
+    "jewish-identity",
+    "mikvah",
+    "ben-avraham",
+    "bat-avraham",
+    "spiritual-rebirth"
   ]
 }

@@ -7,19 +7,10 @@
   "slug": "gratitude-hakarat-hatov",
   "author": "Torah Light Team",
   "date_created": "2026-03-18",
-  "languages": ["en", "zh", "he"],
-  "tags": [
-    "mussar",
-    "character-development",
-    "gratitude",
-    "hakarat-hatov",
-    "daily-practice",
-    "modeh-ani",
-    "blessings",
-    "thanksgiving-offering",
-    "korban-todah",
-    "middot",
-    "cultural-parallels"
+  "languages": [
+    "en",
+    "zh",
+    "he"
   ],
   "topics": [
     "Character traits (middot)",
@@ -98,5 +89,18 @@
     "Rabbi Avigdor Miller, Rejoice O Youth",
     "Rabbi Zelig Pliskin, Gateway to Happiness",
     "Duties of the Heart (Chovot HaLevavot), Gate of Accounting"
+  ],
+  "keywords": [
+    "mussar",
+    "character-development",
+    "gratitude",
+    "hakarat-hatov",
+    "daily-practice",
+    "modeh-ani",
+    "blessings",
+    "thanksgiving-offering",
+    "korban-todah",
+    "middot",
+    "cultural-parallels"
   ]
 }

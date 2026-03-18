@@ -29,20 +29,15 @@
     "zh": 6,
     "he": 10
   },
-  "tags": {
-    "en": ["Pinchas", "Zealotry", "Leadership", "WomensRights", "Justice", "CourageousAction", "SuccessionPlanning", "BiblicalLaw", "TzelafchadDaughters", "Moses", "Joshua", "RighteousIndignation", "LegalPrecedent", "DivineJustice"],
-    "zh": ["品哈斯", "狂热", "领导力", "妇女权利", "正义", "勇敢行动", "继任规划", "圣经法律", "泽罗法哈德女儿们", "摩西", "约书亚", "正义愤慨", "法律先例", "神圣正义", "商朝", "勇气"],
-    "he": ["פינחס", "קנאות", "מנהיגות", "זכויותנשים", "צדק", "פעולהאמיצה", "תכנוןירושה", "חוקמקראי", "בנותצלפחד", "משה", "יהושע", "זעםצדקני", "תקדיםמשפטי", "צדקאלוהי"]
-  },
   "biblical_references": [
     "Numbers 25:1-18",
-    "Numbers 26:1-65", 
+    "Numbers 26:1-65",
     "Numbers 27:1-23"
   ],
   "chinese_dynasty": "Shang Dynasty (商朝, ~1600-1046 BCE)",
   "themes": [
     "Religious zealotry and righteous action",
-    "Leadership succession planning", 
+    "Leadership succession planning",
     "Women's legal rights in ancient times",
     "Divine justice and human courage",
     "Legal precedent and evolution"
@@ -57,5 +52,21 @@
   "dall_e_prompt": "A traditional Chinese shan shui (山水) style landscape depicting three distinct scenes woven together: In the foreground, a solitary figure stands boldly on a mountain peak, representing righteous courage. In the middle ground, an elderly sage passes a staff to a younger leader beneath ancient pine trees, symbolizing the transfer of wisdom and authority. In the distant background, five graceful figures in flowing robes approach a grand pavilion, representing the daughters seeking justice. The composition uses soft ink washes in earth tones (grey, brown, sepia) with subtle gold accents on the pavilion and staff. Misty clouds separate the three narrative elements, creating a contemplative, interconnected mood that speaks to courage, transition, and justice.",
   "status": "complete",
   "quality_checked": true,
-  "bibliography_verified": true
+  "bibliography_verified": true,
+  "keywords": [
+    "Pinchas",
+    "Zealotry",
+    "Leadership",
+    "WomensRights",
+    "Justice",
+    "CourageousAction",
+    "SuccessionPlanning",
+    "BiblicalLaw",
+    "TzelafchadDaughters",
+    "Moses",
+    "Joshua",
+    "RighteousIndignation",
+    "LegalPrecedent",
+    "DivineJustice"
+  ]
 }

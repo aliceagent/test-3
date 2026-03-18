@@ -8,11 +8,16 @@
   "section": "mussar",
   "slug": "emunah-bitachon-difference",
   "batch": "200",
-  "keywords": {
-    "en": ["emunah", "bitachon", "faith", "trust", "mussar", "Jewish character development", "Abraham", "Binding of Isaac"],
-    "zh": ["信仰", "信靠", "犹太品格", "亚伯拉罕", "以撒", "天命", "信"],
-    "he": ["אמונה", "בטחון", "מוסר", "אברהם", "עקדת יצחק", "חזון איש", "רמב\"ם"]
-  },
+  "keywords": [
+    "emunah",
+    "bitachon",
+    "faith",
+    "trust",
+    "mussar",
+    "Jewish character development",
+    "Abraham",
+    "Binding of Isaac"
+  ],
   "summary": {
     "en": "Explores the crucial distinction between emunah (belief in God) and bitachon (trust in God's plan), showing how foundational faith transforms into lived trust through daily challenges.",
     "zh": "探讨信仰(相信上帝存在)与信靠(相信上帝的计划)之间的关键区别,展示基础性信仰如何通过日常挑战转化为活出来的信任。",

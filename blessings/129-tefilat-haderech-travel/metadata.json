@@ -13,47 +13,6 @@
   "section": "blessings",
   "publishDate": "2026-03-18",
   "author": "Torah Light Editorial Team",
-  "tags": {
-    "en": [
-      "travel",
-      "prayer",
-      "Tefilat HaDerech",
-      "blessings",
-      "journey",
-      "safety",
-      "airplane",
-      "flight",
-      "Asia travel",
-      "business travel",
-      "frequent flyers"
-    ],
-    "zh": [
-      "旅行",
-      "祈祷",
-      "路径之祷",
-      "祝福",
-      "旅程",
-      "安全",
-      "飞机",
-      "飞行",
-      "亚洲旅行",
-      "商务旅行",
-      "常旅客"
-    ],
-    "he": [
-      "נסיעה",
-      "תפילה",
-      "תפילת הדרך",
-      "ברכות",
-      "מסע",
-      "בטיחות",
-      "מטוס",
-      "טיסה",
-      "נסיעה באסיה",
-      "נסיעות עסקים",
-      "נוסעים תכופים"
-    ]
-  },
   "sources": [
     {
       "title": "Babylonian Talmud, Berakhot 29b-30a",
@@ -99,17 +58,27 @@
     }
   ],
   "keywords": [
-    "Tefilat HaDerech",
-    "traveler's prayer",
-    "travel blessings",
     "airplane halacha",
-    "Jewish travel customs",
-    "Asia business travel",
-    "frequent flyer Jewish law",
+    "journey",
+    "blessings",
+    "prayer",
+    "frequent flyers",
+    "Tefilat HaDerech",
     "journey prayers",
-    "Tang Dynasty travel",
+    "mountain-water philosophy",
+    "frequent flyer Jewish law",
+    "Asia business travel",
+    "travel blessings",
+    "business travel",
     "Xuanzang pilgrimage",
-    "mountain-water philosophy"
+    "safety",
+    "airplane",
+    "Asia travel",
+    "Jewish travel customs",
+    "traveler's prayer",
+    "flight",
+    "travel",
+    "Tang Dynasty travel"
   ],
   "readingTime": {
     "en": "8-10 minutes",

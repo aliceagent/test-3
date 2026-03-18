@@ -12,19 +12,13 @@
   },
   "section": "passover-seder",
   "category": "jewish-education",
-  "tags": [
-    "haggadah",
-    "four-sons",
-    "passover",
-    "education",
-    "learning-styles",
-    "pedagogy",
-    "seder",
-    "jewish-wisdom"
-  ],
   "date": "2026-03-18",
   "author": "Torah Light Team",
-  "language": ["en", "he", "zh"],
+  "language": [
+    "en",
+    "he",
+    "zh"
+  ],
   "readingTime": {
     "en": 12,
     "he": 9,
@@ -59,7 +53,7 @@
   "culturalReferences": {
     "chinese": [
       "Tang Dynasty (618-907 CE)",
-      "Song Dynasty (960-1279 CE)", 
+      "Song Dynasty (960-1279 CE)",
       "Ming Dynasty (1368-1644 CE)",
       "Han Dynasty (206 BCE - 220 CE)",
       "Yuan Dynasty (1271-1368 CE)",
@@ -70,11 +64,17 @@
   "headerImage": {
     "description": "A classical Chinese-style illustration showing four young scholars around a traditional study table, each representing different learning approaches - one engaged and questioning, one turning away dismissively, one listening simply, and one sitting silently. The scene is set against the backdrop of a traditional Chinese courtyard with lanterns, symbolizing the Four Sons across cultures and dynasties.",
     "style": "traditional-chinese-art",
-    "elements": ["scholars", "study-table", "courtyard", "lanterns", "cross-cultural-symbolism"]
+    "elements": [
+      "scholars",
+      "study-table",
+      "courtyard",
+      "lanterns",
+      "cross-cultural-symbolism"
+    ]
   },
   "educationalObjectives": [
     "Understanding diverse learning styles",
-    "Recognizing different approaches to tradition", 
+    "Recognizing different approaches to tradition",
     "Developing inclusive educational practices",
     "Fostering respect for individual differences",
     "Building bridges across cultural wisdom traditions"
@@ -85,5 +85,15 @@
     "Parent-child conversations",
     "Community outreach programs",
     "Interfaith dialogue"
+  ],
+  "keywords": [
+    "haggadah",
+    "four-sons",
+    "passover",
+    "education",
+    "learning-styles",
+    "pedagogy",
+    "seder",
+    "jewish-wisdom"
   ]
 }

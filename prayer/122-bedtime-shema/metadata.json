@@ -13,16 +13,23 @@
   "section": "prayer",
   "date": "2026-03-18",
   "author": "Torah Light",
-  "tags": {
-    "en": ["bedtime prayers", "Kriat Shema Al HaMitah", "Jewish tradition", "sleep", "forgiveness", "protection", "night prayers", "Birkat HaMapil", "Shema", "spiritual practice"],
-    "zh": ["睡前祈祷", "克利亚特示玛阿尔哈米塔", "犹太传统", "睡眠", "宽恕", "保护", "夜祷", "哈马皮勒祝福", "示玛经", "精神实践"],
-    "he": ["תפילות לפני השינה", "קריאת שמע על המטה", "מסורת יהודית", "שינה", "סליחה", "הגנה", "תפילות לילה", "ברכת המפיל", "קריאת שמע", "תרגול רוחני"]
-  },
-  "keywords": {
-    "en": ["bedtime Shema", "nighttime prayers", "Jewish sleep ritual", "forgiveness practice", "Hamapil blessing"],
-    "zh": ["睡前示玛", "夜间祈祷", "犹太睡眠仪式", "宽恕实践", "哈马皮勒祝福"],
-    "he": ["קריאת שמע על המטה", "תפילות לילה", "טקס שינה יהודי", "תרגול סליחה", "ברכת המפיל"]
-  },
+  "keywords": [
+    "nighttime prayers",
+    "night prayers",
+    "Birkat HaMapil",
+    "forgiveness",
+    "forgiveness practice",
+    "bedtime Shema",
+    "protection",
+    "spiritual practice",
+    "Kriat Shema Al HaMitah",
+    "bedtime prayers",
+    "Shema",
+    "Hamapil blessing",
+    "sleep",
+    "Jewish sleep ritual",
+    "Jewish tradition"
+  ],
   "description": {
     "en": "Explore the sacred Jewish practice of bedtime Shema, including the full text and meaning of Kriat Shema Al HaMitah, the prayers said before sleep, and the transformative practice of forgiving others before rest.",
     "zh": "探索睡前示玛经的神圣犹太实践，包括克利亚特·示玛·阿尔·哈米塔的完整文本和意义、睡前祈祷，以及在休息前宽恕他人的转化性实践。",
@@ -75,7 +82,11 @@
       "title": "The Practice of Forgiveness in Jewish Tradition"
     }
   ],
-  "languages": ["en", "zh", "he"],
+  "languages": [
+    "en",
+    "zh",
+    "he"
+  ],
   "featured": true,
   "category": "daily_practice",
   "level": "foundational"

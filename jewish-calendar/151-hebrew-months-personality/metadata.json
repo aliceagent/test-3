@@ -3,8 +3,16 @@
   "title": "The Hebrew Months: A Personality Profile for Each Month",
   "section": "jewish-calendar",
   "created_at": "2025-03-18",
-  "languages": ["en", "zh", "he"],
-  "tags": [
+  "languages": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "header_image": {
+    "type": "description",
+    "description": "A circular mandala featuring twelve segments, each representing a Hebrew month with its corresponding zodiac symbol, Hebrew letters, and seasonal imagery. The center displays the Hebrew word 'שנה' (Shanah - Year) in elegant calligraphy, surrounded by flowing geometric patterns inspired by ancient Jewish manuscripts."
+  },
+  "keywords": [
     "hebrew-months",
     "jewish-calendar",
     "kabbalah",
@@ -22,9 +30,5 @@
     "tevet",
     "shevat",
     "adar"
-  ],
-  "header_image": {
-    "type": "description",
-    "description": "A circular mandala featuring twelve segments, each representing a Hebrew month with its corresponding zodiac symbol, Hebrew letters, and seasonal imagery. The center displays the Hebrew word 'שנה' (Shanah - Year) in elegant calligraphy, surrounded by flowing geometric patterns inspired by ancient Jewish manuscripts."
-  }
+  ]
 }

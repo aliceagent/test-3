@@ -6,7 +6,11 @@
   "section": "conversion",
   "slug": "beit-din-study-checklist",
   "batch": "200",
-  "languages": ["en", "zh", "he"],
+  "languages": [
+    "en",
+    "zh",
+    "he"
+  ],
   "word_count": {
     "en": 3246,
     "zh": 1564,
@@ -73,5 +77,6 @@
     168
   ],
   "created": "2026-03-18",
-  "status": "complete"
+  "status": "complete",
+  "keywords": []
 }

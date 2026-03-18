@@ -4,19 +4,6 @@
   "subtitle": "The surprising content of Kaddish (no mention of death!), when and how mourners recite it, and the power of community support",
   "section": "prayer",
   "slug": "133-kaddish-mourners-prayer",
-  "tags": [
-    "kaddish",
-    "mourning",
-    "prayer",
-    "aramaic",
-    "community",
-    "death",
-    "grief",
-    "praise",
-    "synagogue",
-    "minyan",
-    "tradition"
-  ],
   "created_date": "2026-03-18",
   "word_count": {
     "en": 1057,
@@ -99,5 +86,18 @@
       "Tang Dynasty (杜甫 - perseverance in adversity)",
       "Song Dynasty (先天下之忧而忧 - putting others before self)"
     ]
-  }
+  },
+  "keywords": [
+    "kaddish",
+    "mourning",
+    "prayer",
+    "aramaic",
+    "community",
+    "death",
+    "grief",
+    "praise",
+    "synagogue",
+    "minyan",
+    "tradition"
+  ]
 }

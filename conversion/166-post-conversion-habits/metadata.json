@@ -7,7 +7,11 @@
   "slug": "post-conversion-habits",
   "author": "Torah Light Editorial Team",
   "date_created": "2026-03-18",
-  "languages": ["en", "zh", "he"],
+  "languages": [
+    "en",
+    "zh",
+    "he"
+  ],
   "word_count": {
     "en": 2850,
     "zh": 1450,
@@ -86,5 +90,6 @@
     "皈依犹太教",
     "犹太习惯",
     "安息日准备"
-  ]
+  ],
+  "keywords": []
 }

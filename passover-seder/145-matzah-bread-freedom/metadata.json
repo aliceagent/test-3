@@ -7,19 +7,6 @@
   },
   "section": "passover-seder",
   "category": "holiday-traditions",
-  "tags": [
-    "passover",
-    "matzah",
-    "slavery",
-    "freedom",
-    "eighteen-minutes",
-    "chametz",
-    "shmura-matzah",
-    "bread-of-affliction",
-    "exodus",
-    "jewish-law",
-    "spiritual-transformation"
-  ],
   "date_created": "2026-03-18",
   "summary": {
     "en": "Explores the profound paradox of matzah as both the bread of slavery and liberation, the spiritual significance of the 18-minute rule, and how our greatest challenges can become foundations for triumph.",
@@ -56,8 +43,20 @@
   "header_image": {
     "description": "Ancient hands kneading dough on a wooden surface with wheat stalks, an hourglass showing 18 minutes, and broken matzah pieces arranged in a circle - symbolizing the transformation from slavery to freedom through time and tradition.",
     "style": "realistic historical illustration",
-    "colors": ["warm browns", "golden wheat tones", "soft lighting"],
-    "elements": ["hands", "dough", "wooden surface", "wheat stalks", "hourglass", "matzah pieces", "circle arrangement"]
+    "colors": [
+      "warm browns",
+      "golden wheat tones",
+      "soft lighting"
+    ],
+    "elements": [
+      "hands",
+      "dough",
+      "wooden surface",
+      "wheat stalks",
+      "hourglass",
+      "matzah pieces",
+      "circle arrangement"
+    ]
   },
   "cultural_references": {
     "chinese_dynasties": [
@@ -74,5 +73,18 @@
         "reference": "Wang Yangming's concept of unity of knowledge and action, connecting to the practice of freedom"
       }
     ]
-  }
+  },
+  "keywords": [
+    "passover",
+    "matzah",
+    "slavery",
+    "freedom",
+    "eighteen-minutes",
+    "chametz",
+    "shmura-matzah",
+    "bread-of-affliction",
+    "exodus",
+    "jewish-law",
+    "spiritual-transformation"
+  ]
 }

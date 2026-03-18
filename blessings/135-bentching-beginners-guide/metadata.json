@@ -8,23 +8,23 @@
   "section": "blessings",
   "topic": "birkat_hamazon",
   "difficulty": "beginner",
-  "tags": [
-    "birkat_hamazon",
-    "bentching",
+  "keywords": [
     "grace_after_meals",
-    "blessings",
+    "torah",
+    "bentching",
+    "birkat hamazon",
     "prayer",
+    "jewish tradition",
+    "birkat_hamazon",
+    "hebrew",
     "gratitude",
+    "grace after meals",
     "torah_commandment",
+    "spiritual_practice",
     "jewish_practice",
-    "learning_hebrew",
-    "spiritual_practice"
+    "blessings",
+    "learning_hebrew"
   ],
-  "keywords": {
-    "en": ["bentching", "birkat hamazon", "grace after meals", "blessings", "gratitude", "prayer", "hebrew", "torah", "jewish tradition"],
-    "zh": ["餐后祝福", "感恩", "祷告", "希伯来文", "犹太传统", "精神实践", "唐朝", "明朝", "宋朝"],
-    "he": ["ברכת המזון", "בנטשינג", "ברכות", "תפילה", "הכרת טובה", "מסורת יהודית", "עברית", "תורה"]
-  },
   "description": {
     "en": "A comprehensive beginner's guide to Birkat HaMazon (Grace After Meals), breaking down each of the four blessings paragraph by paragraph with meanings, learning tips, and practical advice for incorporating this ancient Jewish practice into daily life.",
     "zh": "餐后祝福（Birkat HaMazon）的全面初学者指南，逐段分解四个祝福的含义，提供学习技巧和实用建议，帮助将这个古老的犹太实践融入日常生活。包含中国历史朝代参考。",
@@ -33,7 +33,7 @@
   "target_audience": "beginners",
   "estimated_read_time": {
     "en": "8-10 minutes",
-    "zh": "6-8 minutes",  
+    "zh": "6-8 minutes",
     "he": "7-9 minutes"
   },
   "related_topics": [
@@ -53,7 +53,7 @@
   "cultural_references": {
     "chinese_dynasties": [
       "Tang Dynasty (618-907) - Silk Road cultural connections",
-      "Ming Dynasty (1368-1644) - Unity and prosperity prayers",  
+      "Ming Dynasty (1368-1644) - Unity and prosperity prayers",
       "Song Dynasty (960-1279) - Benevolent governance ideals"
     ]
   },
@@ -78,14 +78,14 @@
         "focus": "God as source of all sustenance"
       },
       {
-        "order": 2, 
+        "order": 2,
         "name": "Al HaAretz",
         "theme": "Land of Israel",
         "focus": "Connection to Jewish history and covenant"
       },
       {
         "order": 3,
-        "name": "Boneh Yerushalayim", 
+        "name": "Boneh Yerushalayim",
         "theme": "Rebuilding Jerusalem",
         "focus": "Hope for future redemption"
       },

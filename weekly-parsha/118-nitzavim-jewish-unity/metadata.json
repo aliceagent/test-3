@@ -25,11 +25,6 @@
     "Community building",
     "Unity vs uniformity"
   ],
-  "tags": {
-    "en": ["Nitzavim", "Unity", "Diversity", "Covenant", "Moses", "JewishCommunity", "Inclusion", "WeeklyParsha", "Leadership", "CommunityBuilding", "TorahValues"],
-    "zh": ["尼茨维姆", "团结", "多样性", "盟约", "摩西", "犹太社区", "包容", "每周妥拉", "领导力", "社区建设", "商朝", "和谐", "统一性"],
-    "he": ["נצבים", "אחדות", "מגוון", "ברית", "משה", "קהילהיהודית", "הכללה", "פרשהשבועית", "מנהיגות", "בנייתקהילה", "ערכיתורה", "הרמוניה", "שושלתשאנג"]
-  },
   "historical_context": {
     "jewish_period": "End of Wilderness Period - Covenant Renewal",
     "approximate_date": "1273 BCE",
@@ -97,7 +92,7 @@
     },
     {
       "title": "Sforno Commentary on Deuteronomy 29:9-11",
-      "type": "classical_commentary", 
+      "type": "classical_commentary",
       "url": "https://www.sefaria.org/Sforno_on_Deuteronomy.29.9-11",
       "description": "Renaissance commentary on inclusion of all social classes"
     },
@@ -119,5 +114,18 @@
       "url": "https://www.rabbinicalassembly.org/jewish-law/committee-jewish-law-and-standards/contemporary-halakhah/conversion",
       "description": "Modern halakhic perspectives on conversion and inclusion"
     }
+  ],
+  "keywords": [
+    "Nitzavim",
+    "Unity",
+    "Diversity",
+    "Covenant",
+    "Moses",
+    "JewishCommunity",
+    "Inclusion",
+    "WeeklyParsha",
+    "Leadership",
+    "CommunityBuilding",
+    "TorahValues"
   ]
 }

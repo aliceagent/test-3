@@ -14,15 +14,6 @@
     "zh": 950,
     "he": 1200
   },
-  "tags": [
-    "pirkei-avot",
-    "ethics",
-    "daily-practice",
-    "wisdom",
-    "character-development",
-    "practical-judaism",
-    "mussar"
-  ],
   "target_audience": "Mandarin-speaking learners, all backgrounds",
   "difficulty": "beginner-intermediate",
   "reading_time_minutes": {
@@ -87,5 +78,14 @@
       "title": "A Code of Jewish Ethics - Rabbi Joseph Telushkin",
       "type": "book"
     }
+  ],
+  "keywords": [
+    "pirkei-avot",
+    "ethics",
+    "daily-practice",
+    "wisdom",
+    "character-development",
+    "practical-judaism",
+    "mussar"
   ]
 }

@@ -6,7 +6,6 @@
     "he": "ספירת העומר: מדוע ל\"ג יום של אבלות חלקית?"
   },
   "section": "holidays",
-  "tags": ["omer", "lag-baomer", "rabbi-akiva", "mourning", "students"],
   "difficulty": "intermediate",
   "readingTime": 5,
   "headerImage": {
@@ -20,5 +19,12 @@
     "Shulchan Aruch Orach Chaim 493",
     "Mishnah Berurah 493",
     "Sefer HaManhig"
+  ],
+  "keywords": [
+    "omer",
+    "lag-baomer",
+    "rabbi-akiva",
+    "mourning",
+    "students"
   ]
 }

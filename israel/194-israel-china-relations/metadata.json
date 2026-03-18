@@ -7,20 +7,10 @@
   "slug": "israel-china-relations",
   "author": "Torah Light Team",
   "date_created": "2026-03-18",
-  "languages": ["en", "zh", "he"],
-  "tags": [
-    "Israel",
-    "China",
-    "history",
-    "diplomacy",
-    "Kaifeng Jews",
-    "Shanghai refugees",
-    "Holocaust",
-    "technology",
-    "international relations",
-    "cultural exchange",
-    "economic partnership",
-    "Chinese-Jewish relations"
+  "languages": [
+    "en",
+    "zh",
+    "he"
   ],
   "topics": [
     "Historical connections between Jews and China",
@@ -139,5 +129,19 @@
     "Torah China connections",
     "Israel technology China",
     "Jewish Chinese cultural parallels"
+  ],
+  "keywords": [
+    "Israel",
+    "China",
+    "history",
+    "diplomacy",
+    "Kaifeng Jews",
+    "Shanghai refugees",
+    "Holocaust",
+    "technology",
+    "international relations",
+    "cultural exchange",
+    "economic partnership",
+    "Chinese-Jewish relations"
   ]
 }

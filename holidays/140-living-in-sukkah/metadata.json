@@ -12,10 +12,17 @@
   },
   "section": "holidays",
   "holiday": "sukkot",
-  "tags": ["sukkah", "impermanence", "trust", "dwelling", "temporary", "faith"],
   "date_created": "2026-03-18",
   "author": "Torah Light",
   "image_description": "A peaceful sukkah at twilight with warm golden lights strung across the bamboo roof covering (s'chach), casting gentle shadows on the table set for evening meal. Through the gaps in the natural roof covering, stars begin to appear in the deepening blue sky. The scene conveys both the temporary nature and the sacred intimacy of dwelling in the sukkah.",
   "reading_time_minutes": 5,
-  "difficulty": "intermediate"
+  "difficulty": "intermediate",
+  "keywords": [
+    "sukkah",
+    "impermanence",
+    "trust",
+    "dwelling",
+    "temporary",
+    "faith"
+  ]
 }

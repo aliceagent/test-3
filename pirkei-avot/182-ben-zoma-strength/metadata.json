@@ -7,20 +7,10 @@
   "slug": "ben-zoma-strength",
   "author": "Torah Light Project",
   "date_created": "2026-03-18",
-  "languages": ["en", "zh", "he"],
-  "tags": [
-    "pirkei-avot",
-    "ben-zoma",
-    "ethics",
-    "self-control",
-    "yetzer-hara",
-    "mussar",
-    "character-development",
-    "inner-strength",
-    "chinese-parallels",
-    "confucius",
-    "mencius",
-    "laozi"
+  "languages": [
+    "en",
+    "zh",
+    "he"
   ],
   "source_text": "Pirkei Avot 4:1",
   "source_quote": "איזהו גיבור? הכובש את יצרו",
@@ -114,5 +104,19 @@
       "type": "chinese_philosophy"
     }
   ],
-  "notes": "This article draws extensive parallels between Jewish and Chinese philosophical traditions on self-mastery. Emphasizes the universal nature of the teaching while remaining grounded in Jewish sources. Chinese cultural connections include Confucian self-restraint (克己), Mencius's moral cultivation, and Daoist concepts of inner strength."
+  "notes": "This article draws extensive parallels between Jewish and Chinese philosophical traditions on self-mastery. Emphasizes the universal nature of the teaching while remaining grounded in Jewish sources. Chinese cultural connections include Confucian self-restraint (克己), Mencius's moral cultivation, and Daoist concepts of inner strength.",
+  "keywords": [
+    "pirkei-avot",
+    "ben-zoma",
+    "ethics",
+    "self-control",
+    "yetzer-hara",
+    "mussar",
+    "character-development",
+    "inner-strength",
+    "chinese-parallels",
+    "confucius",
+    "mencius",
+    "laozi"
+  ]
 }

@@ -7,16 +7,6 @@
   },
   "section": "jewish-calendar",
   "category": "calendar-systems",
-  "tags": [
-    "leap-years",
-    "adar-II",
-    "metonic-cycle",
-    "calendar-mathematics",
-    "seasonal-alignment",
-    "jewish-astronomy",
-    "holiday-timing",
-    "lunar-solar-calendar"
-  ],
   "concepts": [
     "Adar II (Adar Bet)",
     "19-year Metonic cycle",
@@ -33,7 +23,11 @@
     "zh": 6,
     "he": 7
   },
-  "languages": ["en", "zh", "he"],
+  "languages": [
+    "en",
+    "zh",
+    "he"
+  ],
   "word_count": {
     "en": 1247,
     "zh": 856,
@@ -69,7 +63,7 @@
   ],
   "related_articles": [
     "Hebrew Calendar Basics",
-    "Jewish Holidays and Seasons", 
+    "Jewish Holidays and Seasons",
     "Ancient Jewish Astronomy",
     "Purim Celebrations",
     "Agricultural Laws in Judaism"
@@ -84,5 +78,15 @@
     "lunar calendar adjustment",
     "Hillel II calendar",
     "Jewish astronomy"
+  ],
+  "keywords": [
+    "leap-years",
+    "adar-II",
+    "metonic-cycle",
+    "calendar-mathematics",
+    "seasonal-alignment",
+    "jewish-astronomy",
+    "holiday-timing",
+    "lunar-solar-calendar"
   ]
 }

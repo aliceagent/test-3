@@ -12,7 +12,6 @@
   },
   "section": "holidays",
   "category": "chanukah",
-  "tags": ["chanukah", "hanukkah", "menorah", "chanukiah", "halacha", "jewish law", "lighting", "blessings", "holidays"],
   "difficulty": "intermediate",
   "readingTime": {
     "en": 12,
@@ -41,14 +40,43 @@
     "placement": "center",
     "caption": "The Chanukah menorah: A beacon of religious freedom and divine providence"
   },
-  "keywords": ["chanukah menorah", "hanukkah candles", "jewish holidays", "religious observance", "halachic guide", "menorah placement", "chanukah blessings", "jewish law", "holiday lighting"],
+  "keywords": [
+    "chanukah",
+    "holiday lighting",
+    "chanukiah",
+    "chanukah menorah",
+    "lighting",
+    "holidays",
+    "religious observance",
+    "hanukkah",
+    "chanukah blessings",
+    "halacha",
+    "jewish holidays",
+    "menorah placement",
+    "hanukkah candles",
+    "halachic guide",
+    "jewish law",
+    "blessings",
+    "menorah"
+  ],
   "seoDescription": "Complete halachic guide to Chanukah menorah lighting: proper placement, timing, blessings, and procedures for each night of Hanukkah.",
-  "languages": ["en", "zh", "he"],
+  "languages": [
+    "en",
+    "zh",
+    "he"
+  ],
   "status": "published",
   "featured": true,
   "seasonalRelevance": {
     "primary": "winter",
-    "months": ["november", "december", "january"],
-    "hebrewMonths": ["kislev", "tevet"]
+    "months": [
+      "november",
+      "december",
+      "january"
+    ],
+    "hebrewMonths": [
+      "kislev",
+      "tevet"
+    ]
   }
 }

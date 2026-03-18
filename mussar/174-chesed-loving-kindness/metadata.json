@@ -7,21 +7,10 @@
   "slug": "chesed-loving-kindness",
   "author": "Torah Light Editorial Team",
   "date_created": "2026-03-18",
-  "languages": ["en", "zh", "he"],
-  "tags": [
-    "mussar",
-    "character-traits",
-    "chesed",
-    "loving-kindness",
-    "ethics",
-    "middot",
-    "gemilut-chasadim",
-    "acts-of-kindness",
-    "abraham",
-    "ruth",
-    "confucianism",
-    "ren",
-    "chinese-parallels"
+  "languages": [
+    "en",
+    "zh",
+    "he"
   ],
   "target_audience": "Chinese native Mandarin speakers with no prior Jewish knowledge",
   "difficulty_level": "beginner",
@@ -146,5 +135,20 @@
     "beginner_friendly": true,
     "biblical_sources_cited": true,
     "practical_applications_provided": true
-  }
+  },
+  "keywords": [
+    "mussar",
+    "character-traits",
+    "chesed",
+    "loving-kindness",
+    "ethics",
+    "middot",
+    "gemilut-chasadim",
+    "acts-of-kindness",
+    "abraham",
+    "ruth",
+    "confucianism",
+    "ren",
+    "chinese-parallels"
+  ]
 }

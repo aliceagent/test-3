@@ -19,14 +19,14 @@
   },
   "key_concepts": [
     "Humility (Anavah)",
-    "Receptivity", 
+    "Receptivity",
     "Divine Revelation",
     "Wilderness Experience",
     "Spiritual Preparation"
   ],
   "chinese_cultural_parallels": [
     "Wu Wei (無為) - acting in accordance with natural flow",
-    "Qian (謙) - humility and modesty as learning prerequisites", 
+    "Qian (謙) - humility and modesty as learning prerequisites",
     "Mountain retreats for scholarly contemplation",
     "Li Bai's inspiration in solitary settings"
   ],
@@ -34,11 +34,6 @@
     "Moses (Moshe)",
     "The Israelites"
   ],
-  "tags": {
-    "en": ["#Bamidbar", "#TorahGiven", "#Wilderness", "#Humility", "#SpiralGrowth", "#MountSinai", "#Revelation", "#Emptiness", "#Openness", "#TorahStudy", "#WeeklyParsha"],
-    "zh": ["#巴米德巴", "#妥拉颁赐", "#旷野", "#谦逊", "#灵性成长", "#西奈山", "#启示", "#空虚", "#开放", "#商朝", "#無為", "#謙遜", "#妥拉学习", "#每周律法书"],
-    "he": ["#במדבר", "#מתן_תורה", "#מדבר", "#ענווה", "#צמיחה_רוחנית", "#הר_סיני", "#התגלות", "#ריקנות", "#פתיחות", "#לימוד_תורה", "#פרשת_השבוע"]
-  },
   "header_image_prompt": "A serene Chinese shan shui (山水) landscape painted in traditional ink wash style showing a vast desert wilderness with rolling sand dunes under a clear sky. In the distance, Mount Sinai rises majestically with soft clouds around its peak. Scattered throughout the desert are small groups of tents representing the Israelite camp. The composition uses muted earth tones of ochre, burnt sienna, and warm grays, with delicate brushstrokes creating texture in the sand and mountains. The mood is contemplative and spiritual, emphasizing the emptiness and openness of the wilderness as a place of divine encounter.",
   "bibliography_urls": [
     "https://www.sefaria.org/Exodus.19-20",
@@ -49,5 +44,22 @@
   "created_date": "2026-03-18",
   "status": "completed",
   "batch": "200",
-  "languages": ["en", "zh", "he"]
+  "languages": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "keywords": [
+    "#Bamidbar",
+    "#TorahGiven",
+    "#Wilderness",
+    "#Humility",
+    "#SpiralGrowth",
+    "#MountSinai",
+    "#Revelation",
+    "#Emptiness",
+    "#Openness",
+    "#TorahStudy",
+    "#WeeklyParsha"
+  ]
 }

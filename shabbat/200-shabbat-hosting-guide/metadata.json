@@ -8,20 +8,6 @@
   "batch": "200",
   "milestone": true,
   "milestone_note": "Final article (#200) in the Torah Light series",
-  "tags": [
-    "shabbat",
-    "hospitality",
-    "hachnasat-orchim",
-    "practical-guide",
-    "hosting",
-    "guests",
-    "shabbat-meal",
-    "kiddush",
-    "jewish-values",
-    "community",
-    "chinese-parallels",
-    "cultural-bridge"
-  ],
   "target_audience": "native Mandarin speakers with no prior Jewish knowledge",
   "tone": "warm, educational, practical",
   "word_count": {
@@ -134,5 +120,19 @@
     "article-zh.md",
     "article-he.md",
     "metadata.json"
+  ],
+  "keywords": [
+    "shabbat",
+    "hospitality",
+    "hachnasat-orchim",
+    "practical-guide",
+    "hosting",
+    "guests",
+    "shabbat-meal",
+    "kiddush",
+    "jewish-values",
+    "community",
+    "chinese-parallels",
+    "cultural-bridge"
   ]
 }

@@ -13,11 +13,6 @@
   "section": "blessings",
   "author": "Torah Light Editorial Team",
   "date": "2026-03-18",
-  "tags": {
-    "en": ["blessings", "halacha", "hamotzi", "mezonot", "food laws", "bread", "practical Judaism", "daily life"],
-    "zh": ["祝福", "哈拉卡", "哈莫茨", "美佐诺特", "食物法", "面包", "实用犹太教", "日常生活"],
-    "he": ["ברכות", "הלכה", "המוציא", "מזונות", "דיני מזון", "לחם", "יהדות מעשית", "חיי יום יום"]
-  },
   "category": "halakhic-guidance",
   "difficulty": "intermediate",
   "readingTime": {
@@ -57,14 +52,48 @@
       "type": "modern"
     }
   ],
-  "relatedArticles": [127, 129, 45, 78],
+  "relatedArticles": [
+    127,
+    129,
+    45,
+    78
+  ],
   "seoKeywords": {
-    "en": ["hamotzi blessing", "mezonot blessing", "jewish food laws", "bread blessings", "halacha practical", "jewish blessings guide"],
-    "zh": ["哈莫茨祝福", "美佐诺特祝福", "犹太食物法", "面包祝福", "实用哈拉卡", "犹太祝福指南"],
-    "he": ["ברכת המוציא", "ברכת מזונות", "דיני מזון יהודיים", "ברכות לחם", "הלכה מעשית", "מדריך ברכות יהודי"]
+    "en": [
+      "hamotzi blessing",
+      "mezonot blessing",
+      "jewish food laws",
+      "bread blessings",
+      "halacha practical",
+      "jewish blessings guide"
+    ],
+    "zh": [
+      "哈莫茨祝福",
+      "美佐诺特祝福",
+      "犹太食物法",
+      "面包祝福",
+      "实用哈拉卡",
+      "犹太祝福指南"
+    ],
+    "he": [
+      "ברכת המוציא",
+      "ברכת מזונות",
+      "דיני מזון יהודיים",
+      "ברכות לחם",
+      "הלכה מעשית",
+      "מדריך ברכות יהודי"
+    ]
   },
   "dynastyReferences": {
-    "zh": ["宋朝学者注疏", "汉代经学分类", "明朝律法条文", "唐代宫廷点心", "清朝法理应用", "元代学者严谨", "中华文明传承"]
+    "zh": [
+      "宋朝学者注疏",
+      "汉代经学分类",
+      "明朝律法条文",
+      "唐代宫廷点心",
+      "清朝法理应用",
+      "元代学者严谨",
+      "中华文明传承"
+    ]
   },
   "header": {
     "style": "shanshui",
@@ -76,5 +105,15 @@
     "en": 1023,
     "zh": 847,
     "he": 891
-  }
+  },
+  "keywords": [
+    "blessings",
+    "halacha",
+    "hamotzi",
+    "mezonot",
+    "food laws",
+    "bread",
+    "practical Judaism",
+    "daily life"
+  ]
 }

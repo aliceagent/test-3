@@ -6,7 +6,11 @@
   "section": "jewish-calendar",
   "slug": "jewish-week-shabbat",
   "batch": "200",
-  "languages": ["en", "zh", "he"],
+  "languages": [
+    "en",
+    "zh",
+    "he"
+  ],
   "word_count": {
     "en": 1452,
     "zh": 1021,
@@ -78,5 +82,6 @@
   },
   "created": "2026-03-18",
   "author": "Torah Light Project",
-  "status": "complete"
+  "status": "complete",
+  "keywords": []
 }

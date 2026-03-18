@@ -15,14 +15,39 @@
     "he": "השוואה מעמיקה של עשרת הדברות בשמות ובדברים ומה שהשינויים מגלים על התגלות אלוהית, הבנה אנושית והטבע המתפתח של החוק הדתי."
   },
   "topics": {
-    "en": ["Ten Commandments", "Exodus", "Deuteronomy", "Biblical Comparison", "Jewish Law", "Torah Commentary", "Divine Revelation", "Sabbath", "Religious Evolution"],
-    "zh": ["十诫", "出埃及记", "申命记", "圣经比较", "犹太律法", "妥拉评论", "神圣启示", "安息日", "宗教演进"],
-    "he": ["עשרת הדברות", "שמות", "דברים", "השוואה תנ\"כית", "הלכה יהודית", "פרשנות תורה", "התגלות אלוהית", "שבת", "התפתחות דתית"]
-  },
-  "tags": {
-    "en": ["#Torah", "#Va'etchanan", "#TenCommandments", "#Sabbath", "#BiblicalComparison", "#JewishLaw", "#Revelation"],
-    "zh": ["#妥拉", "#瓦耶特哈南", "#十诫", "#安息日", "#圣经比较", "#犹太律法", "#启示"],
-    "he": ["#תורה", "#ואתחנן", "#עשרת_הדברות", "#שבת", "#השוואה_תנכית", "#הלכה_יהודית", "#התגלות"]
+    "en": [
+      "Ten Commandments",
+      "Exodus",
+      "Deuteronomy",
+      "Biblical Comparison",
+      "Jewish Law",
+      "Torah Commentary",
+      "Divine Revelation",
+      "Sabbath",
+      "Religious Evolution"
+    ],
+    "zh": [
+      "十诫",
+      "出埃及记",
+      "申命记",
+      "圣经比较",
+      "犹太律法",
+      "妥拉评论",
+      "神圣启示",
+      "安息日",
+      "宗教演进"
+    ],
+    "he": [
+      "עשרת הדברות",
+      "שמות",
+      "דברים",
+      "השוואה תנ\"כית",
+      "הלכה יהודית",
+      "פרשנות תורה",
+      "התגלות אלוהית",
+      "שבת",
+      "התפתחות דתית"
+    ]
   },
   "chinese_dynasty_references": [
     {
@@ -45,7 +70,7 @@
   ],
   "commentaries": [
     "Rashi",
-    "Ramban (Nachmanides)", 
+    "Ramban (Nachmanides)",
     "Rasag (Sa'adia Gaon)",
     "Ibn Ezra",
     "Talmud Bavli"
@@ -59,5 +84,14 @@
     "en": 5,
     "zh": 4,
     "he": 4
-  }
+  },
+  "keywords": [
+    "#Torah",
+    "#Va'etchanan",
+    "#TenCommandments",
+    "#Sabbath",
+    "#BiblicalComparison",
+    "#JewishLaw",
+    "#Revelation"
+  ]
 }

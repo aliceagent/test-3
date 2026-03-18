@@ -10,7 +10,13 @@
   "date_created": "2026-03-18",
   "themes": {
     "primary": "gratitude",
-    "secondary": ["bikkurim", "first fruits", "Temple service", "thanksgiving", "sacred ritual"]
+    "secondary": [
+      "bikkurim",
+      "first fruits",
+      "Temple service",
+      "thanksgiving",
+      "sacred ritual"
+    ]
   },
   "torah_references": [
     {
@@ -29,63 +35,6 @@
     "Baal Shem Tov on spiritual first fruits",
     "Rabbi Schneur Zalman of Liadi on the etymology of bikkurim"
   ],
-  "tags": {
-    "en": [
-      "Ki Tavo",
-      "bikkurim",
-      "first fruits",
-      "gratitude",
-      "thanksgiving",
-      "Temple service",
-      "Deuteronomy",
-      "sacred ceremony",
-      "mikra bikkurim",
-      "harvest",
-      "blessing",
-      "spirituality",
-      "Chassidism",
-      "daily practice",
-      "consciousness"
-    ],
-    "zh": [
-      "基塔沃",
-      "初熟果子",
-      "感恩",
-      "感谢",
-      "圣殿服务",
-      "申命记",
-      "神圣仪式",
-      "收获",
-      "祝福",
-      "灵性",
-      "哈西德主义",
-      "日常修行",
-      "意识",
-      "汉朝",
-      "唐朝",
-      "宋朝",
-      "明朝",
-      "中国传统"
-    ],
-    "he": [
-      "כי תבוא",
-      "ביכורים",
-      "הכרת הטוב",
-      "הודיה",
-      "עבודת בית המקדש",
-      "דברים",
-      "טקס קדוש",
-      "מקרא ביכורים",
-      "קציר",
-      "ברכה",
-      "רוחניות",
-      "חסידות",
-      "התמקדות יומיומית",
-      "מודעות",
-      "בעל שם טוב",
-      "רבי שניאור זלמן מליאדי"
-    ]
-  },
   "word_counts": {
     "en": 4939,
     "zh": 1410,
@@ -106,7 +55,7 @@
     },
     {
       "title": "Berakhot 35a - Sefaria",
-      "author": "Sefaria", 
+      "author": "Sefaria",
       "url": "https://www.sefaria.org/Berakhot.35a",
       "verified": true
     },
@@ -136,13 +85,13 @@
       "reference": "籍田礼 (Ji Tian Li) - Imperial plowing ceremony"
     },
     {
-      "dynasty": "唐朝 (Tang Dynasty)", 
+      "dynasty": "唐朝 (Tang Dynasty)",
       "period": "618-907 CE",
       "reference": "Tribute processions to Chang'an"
     },
     {
       "dynasty": "宋朝 (Song Dynasty)",
-      "period": "960-1279 CE", 
+      "period": "960-1279 CE",
       "reference": "理学 (Neo-Confucian) philosophy of 格物致知"
     },
     {
@@ -150,5 +99,22 @@
       "period": "1368-1644 CE",
       "reference": "防微杜渐 (Prevention through early attention)"
     }
+  ],
+  "keywords": [
+    "Ki Tavo",
+    "bikkurim",
+    "first fruits",
+    "gratitude",
+    "thanksgiving",
+    "Temple service",
+    "Deuteronomy",
+    "sacred ceremony",
+    "mikra bikkurim",
+    "harvest",
+    "blessing",
+    "spirituality",
+    "Chassidism",
+    "daily practice",
+    "consciousness"
   ]
 }

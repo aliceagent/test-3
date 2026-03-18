@@ -11,16 +11,6 @@
     "he": "משחקים, יצירות, שירים ורמזי דיון כדי לשמור על מעורבות ולמידה של ילדים בכל הגילאים בליל הסדר."
   },
   "section": "passover-seder",
-  "tags": [
-    "children",
-    "family",
-    "seder",
-    "education",
-    "activities",
-    "parenting",
-    "engagement",
-    "tradition"
-  ],
   "topics": [
     "Age-appropriate activities",
     "Educational games",
@@ -37,11 +27,22 @@
   },
   "difficulty": "beginner",
   "practicalLevel": "high",
-  "keywords": {
-    "en": ["seder activities", "children passover", "family seder", "jewish education", "holiday activities", "parenting tips"],
-    "zh": ["逾越节活动", "儿童逾越节", "家庭晚餐", "犹太教育", "节日活动", "育儿建议"],
-    "he": ["פעילויות סדר", "ילדים פסח", "סדר משפחתי", "חינוך יהודי", "פעילויות חג", "טיפים להורים"]
-  },
+  "keywords": [
+    "education",
+    "parenting tips",
+    "jewish education",
+    "children",
+    "seder",
+    "engagement",
+    "family seder",
+    "seder activities",
+    "activities",
+    "family",
+    "parenting",
+    "children passover",
+    "tradition",
+    "holiday activities"
+  ],
   "relatedArticles": [
     "seder-preparation-guide",
     "haggadah-explanations",
@@ -75,7 +76,11 @@
   },
   "language": {
     "primary": "en",
-    "available": ["en", "zh", "he"]
+    "available": [
+      "en",
+      "zh",
+      "he"
+    ]
   },
   "seoOptimized": true,
   "socialShareable": true,

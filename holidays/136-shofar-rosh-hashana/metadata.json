@@ -7,22 +7,12 @@
   "topic": "shofar-rosh-hashana",
   "author": "Torah Light AI",
   "date_created": "2026-03-18",
-  "language_versions": ["en", "zh", "he"],
-  "header_image_description": "A curved ram's horn (shofar) resting on an ornate white and gold prayer shawl, with golden autumn leaves scattered around, symbolizing the High Holy Days season and spiritual awakening.",
-  "tags": [
-    "Rosh Hashana",
-    "shofar",
-    "High Holy Days",
-    "tekiah",
-    "shevarim", 
-    "teruah",
-    "Jewish holidays",
-    "spiritual awakening",
-    "repentance",
-    "teshuvah",
-    "religious laws",
-    "Jewish ritual"
+  "language_versions": [
+    "en",
+    "zh",
+    "he"
   ],
+  "header_image_description": "A curved ram's horn (shofar) resting on an ornate white and gold prayer shawl, with golden autumn leaves scattered around, symbolizing the High Holy Days season and spiritual awakening.",
   "key_concepts": [
     "The three sounds of the shofar: tekiah, shevarim, teruah",
     "Spiritual meaning of each shofar sound",
@@ -47,13 +37,29 @@
   "character_count_zh": 1853,
   "difficulty_level": "intermediate",
   "target_audience": "Jewish community members, those interested in Jewish holidays and rituals, spiritual seekers",
-  "holidays_featured": ["Rosh Hashana"],
+  "holidays_featured": [
+    "Rosh Hashana"
+  ],
   "halachic_content": true,
   "philosophical_themes": [
     "Spiritual awakening",
-    "Repentance and teshuvah", 
+    "Repentance and teshuvah",
     "Divine sovereignty",
     "Soul consciousness",
     "Sacred sound and vibration"
+  ],
+  "keywords": [
+    "Rosh Hashana",
+    "shofar",
+    "High Holy Days",
+    "tekiah",
+    "shevarim",
+    "teruah",
+    "Jewish holidays",
+    "spiritual awakening",
+    "repentance",
+    "teshuvah",
+    "religious laws",
+    "Jewish ritual"
   ]
 }

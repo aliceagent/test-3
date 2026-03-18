@@ -13,15 +13,19 @@
     "he": 1672
   },
   "created_date": "2026-03-18",
-  "tags": {
-    "en": ["Balak", "Bilaam", "Prophecy", "MahTovu", "WeeklyParsha", "DivineProvidence", "Blessing", "ShangDynasty", "PropheticVision", "JewishCommunity", "SpiritualWarfare", "GodsProtection"],
-    "zh": ["巴勒克", "巴兰", "预言", "何等美哉", "每周妥拉", "神圣天意", "祝福", "商朝", "古代中国", "预言异象", "犹太社区", "属灵战争", "神的保护"],
-    "he": ["בלק", "בלעם", "נבואה", "מהטובו", "פרשתהשבוע", "השגחהאלוהית", "ברכה", "שושלתשאנג", "סיןעתיקה", "חזוןנבואי", "קהילהיהודית", "מלחמהרוחנית", "הגנתהאל"]
-  },
   "chinese_dynasty_reference": "Shang Dynasty (商朝, ~1600-1046 BCE)",
   "historical_period": "~1250 BCE - Late Shang Dynasty",
   "dalle_prompt": "A traditional Chinese shan shui (山水) ink wash landscape featuring a high mountain plateau overlooking vast desert plains. In the foreground, a lone figure (representing Bilaam) stands atop the mountain with arms raised, while below in the distance, a vast encampment of tents extends across the valley (representing the Israelite camp). Golden morning light filters through misty clouds, creating a mystical atmosphere. The scene is rendered in traditional water-ink style with subtle earth tones of brown, ochre, and gray, accented with touches of gold. The mood is contemplative and awe-inspiring, suggesting divine intervention and the power of prophetic vision.",
-  "key_concepts": ["Divine providence", "Enemy becoming blessing", "Mah Tovu prayer", "Non-Jewish prophet", "Talking donkey", "Spiritual warfare", "Bilaam's prophecies", "Jewish community beauty"],
+  "key_concepts": [
+    "Divine providence",
+    "Enemy becoming blessing",
+    "Mah Tovu prayer",
+    "Non-Jewish prophet",
+    "Talking donkey",
+    "Spiritual warfare",
+    "Bilaam's prophecies",
+    "Jewish community beauty"
+  ],
   "bibliography": [
     {
       "title": "Numbers Chapter 22-24 - The Bilaam Narrative",
@@ -59,5 +63,19 @@
       "url": "https://www.nationalgeographic.com/culture/article/oracle-bones-china-ancient-writing",
       "description": "Archaeological evidence of divination practices during the Shang Dynasty"
     }
+  ],
+  "keywords": [
+    "Balak",
+    "Bilaam",
+    "Prophecy",
+    "MahTovu",
+    "WeeklyParsha",
+    "DivineProvidence",
+    "Blessing",
+    "ShangDynasty",
+    "PropheticVision",
+    "JewishCommunity",
+    "SpiritualWarfare",
+    "GodsProtection"
   ]
 }

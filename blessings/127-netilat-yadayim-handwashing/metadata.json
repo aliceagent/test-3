@@ -16,11 +16,6 @@
     "zh": "犹太仪式和遵守",
     "he": "טקסים יהודיים ושמירת מצוות"
   },
-  "tags": {
-    "en": ["handwashing", "netilat yadayim", "ritual purity", "blessings", "halakha", "talmud", "temple service", "daily observances", "food preparation", "spiritual cleansing"],
-    "zh": ["洗手", "净手礼", "仪式纯洁", "祝福", "犹太教法", "塔木德", "圣殿礼拜", "日常遵守", "食物准备", "精神净化"],
-    "he": ["נטילת ידיים", "טהרת הידיים", "ברכות", "הלכה", "תלמוד", "עבודת המקדש", "שמירת מצוות יומית", "הכנת מזון", "טיהור רוחני"]
-  },
   "author": "Torah Light Editorial Team",
   "publication_date": "2026-03-18",
   "word_count": {
@@ -91,29 +86,40 @@
         "reference": "Palace handwashing rituals and purification ceremonies"
       },
       {
-        "dynasty": "Tang Dynasty (唐朝)", 
+        "dynasty": "Tang Dynasty (唐朝)",
         "period": "618 - 907 CE",
         "reference": "Medical text '千金要方' (Qian Jin Yao Fang) emphasizing hand cleanliness"
       },
       {
         "dynasty": "Song Dynasty (宋朝)",
-        "period": "960 - 1279 CE", 
+        "period": "960 - 1279 CE",
         "reference": "Neo-Confucian emphasis on ritual propriety (礼) in daily practices"
       }
     ]
   },
-  "keywords": {
-    "primary": ["netilat yadayim", "jewish handwashing", "ritual purity"],
-    "secondary": ["talmud", "halakha", "blessings", "temple service", "daily observances"],
-    "long_tail": ["why jews wash hands before bread", "netilat yadayim blessing", "jewish ritual handwashing procedure"]
-  },
+  "keywords": [
+    "food preparation",
+    "daily observances",
+    "netilat yadayim",
+    "ritual purity",
+    "handwashing",
+    "talmud",
+    "spiritual cleansing",
+    "temple service",
+    "blessings",
+    "halakha"
+  ],
   "related_articles": [
     "hamotzi-blessing-over-bread",
-    "birkat-hamazon-grace-after-meals", 
+    "birkat-hamazon-grace-after-meals",
     "temple-service-and-modern-practice",
     "daily-jewish-blessings"
   ],
   "difficulty_level": "intermediate",
-  "target_audience": ["jewish learners", "comparative religion students", "ritual studies scholars"],
+  "target_audience": [
+    "jewish learners",
+    "comparative religion students",
+    "ritual studies scholars"
+  ],
   "last_updated": "2026-03-18T13:36:00Z"
 }

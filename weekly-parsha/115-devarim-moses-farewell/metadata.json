@@ -24,11 +24,6 @@
     "Empowerment",
     "Succession planning"
   ],
-  "tags": {
-    "en": ["Moses", "Devarim", "Leadership", "Farewell", "Transition", "Deuteronomy", "WeeklyParsha", "Succession", "LegacyBuilding", "EndingsAsBeginnings"],
-    "zh": ["摩西", "德瓦里姆", "领导力", "告别", "转换", "申命记", "每周妥拉", "继承", "遗产建设", "结束即开始", "商朝", "反思"],
-    "he": ["משה", "דברים", "מנהיגות", "פרידה", "מעבר", "ספרדברים", "פרשהשבועית", "רצף", "בנייתמורשת", "סיומיםכהתחלות", "שושלתשאנג", "רפלקציה"]
-  },
   "historical_context": {
     "jewish_period": "End of Wilderness Period",
     "approximate_date": "1273 BCE",
@@ -78,5 +73,17 @@
     "Rashi's commentary on Deuteronomy",
     "Confucian Analects on reflection",
     "Ancient Near Eastern succession practices"
+  ],
+  "keywords": [
+    "Moses",
+    "Devarim",
+    "Leadership",
+    "Farewell",
+    "Transition",
+    "Deuteronomy",
+    "WeeklyParsha",
+    "Succession",
+    "LegacyBuilding",
+    "EndingsAsBeginnings"
   ]
 }

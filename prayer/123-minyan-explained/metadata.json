@@ -12,56 +12,6 @@
   },
   "section": "prayer",
   "category": "communal-worship",
-  "tags": {
-    "en": [
-      "minyan",
-      "communal prayer",
-      "Jewish law",
-      "ten men",
-      "kaddish",
-      "synagogue",
-      "Torah reading",
-      "divine presence",
-      "shekhinah",
-      "congregation",
-      "religious quorum",
-      "collective worship",
-      "amidah repetition",
-      "jewish community"
-    ],
-    "zh": [
-      "敏扬",
-      "集体祈祷",
-      "犹太教法",
-      "十人",
-      "卡迪什",
-      "犹太会堂",
-      "托拉朗读",
-      "神圣临在",
-      "谢希娜",
-      "会众",
-      "宗教法定人数",
-      "集体崇拜",
-      "阿米达重复",
-      "犹太社区"
-    ],
-    "he": [
-      "מנין",
-      "תפילה ציבורית",
-      "הלכה",
-      "עשרה גברים",
-      "קדיש",
-      "בית הכנסת",
-      "קריאת התורה",
-      "נוכחות אלוהית",
-      "שכינה",
-      "קהילה",
-      "קוורום דתי",
-      "עבודה קולקטיבית",
-      "חזרת הש״ץ",
-      "קהילה יהודית"
-    ]
-  },
   "author": "Torah Light Editorial Team",
   "publishDate": "2026-03-18",
   "lastModified": "2026-03-18",
@@ -109,10 +59,22 @@
     "89",
     "156"
   ],
-  "keywords": {
-    "primary": ["minyan", "communal prayer", "Jewish law"],
-    "secondary": ["synagogue", "kaddish", "Torah reading", "divine presence"]
-  },
+  "keywords": [
+    "collective worship",
+    "religious quorum",
+    "minyan",
+    "congregation",
+    "synagogue",
+    "communal prayer",
+    "Torah reading",
+    "divine presence",
+    "jewish community",
+    "amidah repetition",
+    "shekhinah",
+    "kaddish",
+    "ten men",
+    "Jewish law"
+  ],
   "seoDescription": {
     "en": "Learn about the Jewish minyan - why ten men are required for certain prayers, the spiritual significance of communal worship, and what to do when no minyan is available.",
     "zh": "了解犹太教敏扬——为什么某些祈祷需要十名男性，集体崇拜的精神意义，以及当没有敏扬时该怎么办。",
@@ -123,6 +85,10 @@
     "zh": 892,
     "he": 1024
   },
-  "languages": ["en", "zh", "he"],
+  "languages": [
+    "en",
+    "zh",
+    "he"
+  ],
   "status": "published"
 }

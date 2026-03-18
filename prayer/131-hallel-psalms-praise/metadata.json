@@ -7,15 +7,43 @@
   },
   "section": "prayer",
   "category": "liturgy",
-  "keywords": {
-    "en": ["Hallel", "Psalms", "holidays", "prayer", "praise", "community singing", "festivals", "Passover", "Chanukah", "Sukkot"],
-    "zh": ["哈勒尔", "诗篇", "节日", "祈祷", "赞美", "共同吟唱", "节庆", "逾越节", "光明节", "住棚节"],
-    "he": ["הלל", "תהילים", "חגים", "תפילה", "שבח", "שירה קהילתית", "מועדים", "פסח", "חנוכה", "סוכות"]
-  },
+  "keywords": [
+    "Psalms",
+    "praise",
+    "holidays",
+    "festivals",
+    "prayer",
+    "psalms",
+    "community singing",
+    "Hallel",
+    "Passover",
+    "Sukkot",
+    "Chanukah",
+    "tradition",
+    "community"
+  ],
   "topics": {
-    "en": ["When Hallel is recited", "Full vs half Hallel", "Communal prayer experience", "Jewish festivals", "Psalms of praise"],
-    "zh": ["何时诵读哈勒尔", "完整与一半哈勒尔", "共同祈祷体验", "犹太节日", "赞美诗篇"],
-    "he": ["מתי אומרים הלל", "הלל שלם מול חצי הלל", "חוויה קהילתית בתפילה", "חגי ישראל", "תהילי שבח"]
+    "en": [
+      "When Hallel is recited",
+      "Full vs half Hallel",
+      "Communal prayer experience",
+      "Jewish festivals",
+      "Psalms of praise"
+    ],
+    "zh": [
+      "何时诵读哈勒尔",
+      "完整与一半哈勒尔",
+      "共同祈祷体验",
+      "犹太节日",
+      "赞美诗篇"
+    ],
+    "he": [
+      "מתי אומרים הלל",
+      "הלל שלם מול חצי הלל",
+      "חוויה קהילתית בתפילה",
+      "חגי ישראל",
+      "תהילי שבח"
+    ]
   },
   "sources": [
     "Psalms 113-118",
@@ -31,7 +59,7 @@
         "context": "Court musicians understanding communal music's spiritual elevation"
       },
       {
-        "dynasty": "Song Dynasty", 
+        "dynasty": "Song Dynasty",
         "period": "960-1279 CE",
         "context": "Poetic tradition emphasizing collective spiritual transcendence"
       }
@@ -41,7 +69,13 @@
     "description": "A diverse congregation standing together in a synagogue, heads tilted upward, mouths open in song, with prayer books in hand. Light streams through stained glass windows, illuminating faces of joy and reverence during Hallel recitation.",
     "style": "photorealistic",
     "mood": "joyful, reverent, communal",
-    "elements": ["synagogue interior", "diverse congregation", "prayer books", "stained glass", "natural lighting"]
+    "elements": [
+      "synagogue interior",
+      "diverse congregation",
+      "prayer books",
+      "stained glass",
+      "natural lighting"
+    ]
   },
   "word_count": {
     "en": 520,
@@ -49,9 +83,16 @@
     "he": 450
   },
   "difficulty_level": "intermediate",
-  "target_audience": ["synagogue members", "students of Jewish liturgy", "interfaith learners"],
-  "related_articles": [128, 129, 130],
-  "tags": ["prayer", "psalms", "holidays", "community", "tradition"],
+  "target_audience": [
+    "synagogue members",
+    "students of Jewish liturgy",
+    "interfaith learners"
+  ],
+  "related_articles": [
+    128,
+    129,
+    130
+  ],
   "publication_date": "2026-03-18",
   "author": "Torah Light AI Assistant",
   "review_status": "draft"

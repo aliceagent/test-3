@@ -6,24 +6,13 @@
     "he": "תשליך: השלכת החטאים אל המים"
   },
   "section": "holidays",
-  "tags": [
-    "rosh-hashana",
-    "tashlich",
-    "repentance",
-    "water-rituals",
-    "high-holy-days",
-    "jewish-customs",
-    "teshuva",
-    "forgiveness",
-    "spiritual-cleansing"
-  ],
   "category": "Jewish Holidays",
   "subcategory": "High Holy Days",
   "publishDate": "2026-03-18",
   "author": "Torah Light Editorial Team",
   "readingTime": {
     "en": "8 minutes",
-    "zh": "6 minutes", 
+    "zh": "6 minutes",
     "he": "7 minutes"
   },
   "difficulty": "intermediate",
@@ -53,13 +42,13 @@
       "text": "You will cast all their sins into the depths of the sea"
     },
     {
-      "book": "Psalms", 
+      "book": "Psalms",
       "chapter": 118,
       "verses": "5-9"
     },
     {
       "book": "Psalms",
-      "chapter": 33, 
+      "chapter": 33,
       "verses": "18-22"
     }
   ],
@@ -94,5 +83,16 @@
       "zh": "发现有意义的犹太传统塔什利赫——在犹太新年期间在水边抛弃罪恶。了解其历史、祈祷和现代实践。",
       "he": "גלה את המסורת היהודית המשמעותית של תשליך - השלכת חטאים במים במהלך ראש השנה. למד את ההיסטוריה, התפילות והתרגול המודרני."
     }
-  }
+  },
+  "keywords": [
+    "rosh-hashana",
+    "tashlich",
+    "repentance",
+    "water-rituals",
+    "high-holy-days",
+    "jewish-customs",
+    "teshuva",
+    "forgiveness",
+    "spiritual-cleansing"
+  ]
 }

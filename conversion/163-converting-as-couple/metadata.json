@@ -16,22 +16,28 @@
     "he": "מדריך מקיף לזוגות שמתגיירים ליהדות יחד, חוקר את ההזדמנויות והאתגרים הייחודיים של מסע רוחני משותף תוך שמירה על צמיחה אישית."
   },
   "keywords": [
-    "conversion",
-    "couples",
-    "beit din",
     "Jewish marriage",
-    "spiritual growth",
-    "individual journey",
+    "מקווה",
     "shared learning",
-    "mikvah",
     "皈依",
+    "jewish-identity",
+    "beit din",
+    "couples",
+    "התגיירות",
     "伴侣",
     "比翼双飞",
+    "spiritual growth",
+    "individual journey",
+    "beit-din-preparation",
     "修身",
-    "התגיירות",
-    "זוגות",
+    "mikvah",
     "בית דין",
-    "מקווה"
+    "spiritual-growth",
+    "conversion-process",
+    "relationships",
+    "זוגות",
+    "conversion",
+    "couples-guidance"
   ],
   "cultural_parallels": [
     "Chinese idiom 比翼双飞 (flying wing to wing)",
@@ -67,13 +73,5 @@
     167,
     168
   ],
-  "difficulty_level": "intermediate",
-  "tags": [
-    "conversion-process",
-    "relationships",
-    "spiritual-growth",
-    "jewish-identity",
-    "couples-guidance",
-    "beit-din-preparation"
-  ]
+  "difficulty_level": "intermediate"
 }

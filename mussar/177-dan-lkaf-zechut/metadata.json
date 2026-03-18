@@ -1,7 +1,7 @@
 {
   "id": 177,
   "title": "Dan L'Kaf Zechut: Judging Others Favorably",
-  "title_zh": "有利判断他人:犹太智慧中的"宽以待人"",
+  "title_zh": "有利判断他人:犹太智慧中的「宽以待人」",
   "title_he": "דן לכף זכות: לשפוט אחרים לטובה",
   "section": "mussar",
   "slug": "dan-lkaf-zechut",
@@ -43,20 +43,6 @@
       "description": "恕道 - The way of forbearance and putting oneself in others' positions"
     }
   ],
-  "tags": [
-    "mussar",
-    "ethics",
-    "interpersonal-relations",
-    "pirkei-avot",
-    "judgment",
-    "compassion",
-    "trust",
-    "community",
-    "high-holidays",
-    "chinese-parallels",
-    "confucianism",
-    "daoism"
-  ],
   "key_concepts": [
     "Dan l'kaf zechut (judging favorably)",
     "Midah keneged midah (measure for measure)",
@@ -91,5 +77,23 @@
   ],
   "created_date": "2026-03-18",
   "author": "Torah Light Project",
-  "language_versions": ["en", "zh", "he"]
+  "language_versions": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "keywords": [
+    "mussar",
+    "ethics",
+    "interpersonal-relations",
+    "pirkei-avot",
+    "judgment",
+    "compassion",
+    "trust",
+    "community",
+    "high-holidays",
+    "chinese-parallels",
+    "confucianism",
+    "daoism"
+  ]
 }

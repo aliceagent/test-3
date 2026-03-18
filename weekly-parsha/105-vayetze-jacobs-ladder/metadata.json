@@ -12,10 +12,10 @@
     "tags": {
       "en": [
         "JacobsLadder",
-        "Vayetze", 
+        "Vayetze",
         "Prayer",
         "DivineConnection",
-        "Angels", 
+        "Angels",
         "Dreams",
         "Bethel",
         "HeavenAndEarth",
@@ -28,7 +28,7 @@
       "zh": [
         "雅各天梯",
         "瓦耶泽",
-        "祷告", 
+        "祷告",
         "神圣连接",
         "天使",
         "梦境",
@@ -46,7 +46,7 @@
         "סולםיעקב",
         "ויצא",
         "תפילה",
-        "קשראלוהי", 
+        "קשראלוהי",
         "מלאכים",
         "חלומות",
         "בתאל",
@@ -54,7 +54,7 @@
         "רוחניות",
         "אמונה",
         "פרשתשבוע",
-        "תורה", 
+        "תורה",
         "יהדות"
       ]
     },
@@ -83,7 +83,7 @@
     "key_concepts": [
       "Jacob's prophetic dream",
       "Angels ascending and descending",
-      "Divine presence everywhere", 
+      "Divine presence everywhere",
       "Prayer as connection between heaven and earth",
       "Chinese parallel: Tianren Heyi (天人合一)",
       "Gradual spiritual growth",
@@ -105,6 +105,11 @@
     "created": "2026-03-18T09:02:00Z",
     "author": "Torah Light AI",
     "status": "complete",
-    "languages": ["en", "zh", "he"]
-  }
+    "languages": [
+      "en",
+      "zh",
+      "he"
+    ]
+  },
+  "keywords": []
 }

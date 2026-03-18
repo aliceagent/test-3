@@ -10,9 +10,53 @@
     "slug": "terumah-mishkan-sanctuary",
     "batch": "200",
     "tags": {
-      "en": ["Terumah", "Mishkan", "Tabernacle", "Sacred Space", "Heart", "Divine", "Sanctuary", "Torah", "Weekly Parsha", "Chassidic", "Spiritual Growth", "Temple", "Holy Place"],
-      "zh": ["特鲁玛", "会幕", "帐幕", "神圣空间", "心灵", "神性", "圣所", "妥拉", "每周章节", "哈西德", "精神成长", "圣殿", "圣所", "建筑", "心灵"],
-      "he": ["תרומה", "משכן", "אוהל", "מרחב_קדוש", "לב", "אלוהי", "מקדש", "תורה", "פרשת_השבוע", "חסידי", "צמיחה_רוחנית", "בית_המקדש", "קודש"]
+      "en": [
+        "Terumah",
+        "Mishkan",
+        "Tabernacle",
+        "Sacred Space",
+        "Heart",
+        "Divine",
+        "Sanctuary",
+        "Torah",
+        "Weekly Parsha",
+        "Chassidic",
+        "Spiritual Growth",
+        "Temple",
+        "Holy Place"
+      ],
+      "zh": [
+        "特鲁玛",
+        "会幕",
+        "帐幕",
+        "神圣空间",
+        "心灵",
+        "神性",
+        "圣所",
+        "妥拉",
+        "每周章节",
+        "哈西德",
+        "精神成长",
+        "圣殿",
+        "圣所",
+        "建筑",
+        "心灵"
+      ],
+      "he": [
+        "תרומה",
+        "משכן",
+        "אוהל",
+        "מרחב_קדוש",
+        "לב",
+        "אלוהי",
+        "מקדש",
+        "תורה",
+        "פרשת_השבוע",
+        "חסידי",
+        "צמיחה_רוחנית",
+        "בית_המקדש",
+        "קודש"
+      ]
     },
     "header_image_prompt": "A serene Chinese shan shui (山水) ink wash landscape featuring a golden pavilion nestled among misty mountains, with flowing streams and ancient pine trees. The pavilion reflects divine architecture with subtle details like pillars and a courtyard, rendered in traditional brushstroke style. Colors are muted earth tones with gold accents, conveying a sense of sacred space and divine presence. The mood is contemplative and reverent, showing harmony between heaven and earth.",
     "chinese_dynasty_reference": "Shang Dynasty (商朝, ~1600-1046 BCE)",
@@ -33,14 +77,18 @@
     ],
     "key_themes": [
       "Sacred space creation",
-      "Personal spiritual development", 
+      "Personal spiritual development",
       "Divine presence in human hearts",
       "Progressive spiritual purification",
       "Community vs individual spiritual practice"
     ],
     "status": "completed",
     "created": "2026-03-18",
-    "languages": ["en", "zh", "he"]
+    "languages": [
+      "en",
+      "zh",
+      "he"
+    ]
   },
   "files": {
     "article-en.md": {
@@ -75,5 +123,6 @@
     "historical_context": true,
     "practical_application_section": true,
     "key_takeaways": true
-  }
+  },
+  "keywords": []
 }

@@ -12,65 +12,6 @@
   },
   "section": "prayer",
   "category": "high-holidays",
-  "tags": {
-    "en": [
-      "selichot",
-      "repentance",
-      "high holidays",
-      "rosh hashanah",
-      "yom kippur",
-      "teshuvah",
-      "thirteen attributes",
-      "penitential prayers",
-      "pre-dawn prayers",
-      "liturgical poetry",
-      "piyyutim",
-      "forgiveness",
-      "elul",
-      "spiritual preparation",
-      "vidui",
-      "confession",
-      "divine mercy"
-    ],
-    "zh": [
-      "赛利豁特",
-      "忏悔",
-      "大节期",
-      "新年",
-      "赎罪日",
-      "特舒瓦",
-      "十三种属性",
-      "忏悔祷文",
-      "黎明前祷告",
-      "礼拜诗歌",
-      "皮尤廷",
-      "宽恕",
-      "以录月",
-      "精神准备",
-      "维杜伊",
-      "告解",
-      "神圣慈悲"
-    ],
-    "he": [
-      "סליחות",
-      "תשובה",
-      "ימים נוראים",
-      "ראש השנה",
-      "יום כפור",
-      "תשובה",
-      "שלוש עשרה מידות",
-      "תפילות חרטה",
-      "תפילות שחר",
-      "פיוט",
-      "פיוטים",
-      "סליחה",
-      "אלול",
-      "הכנה רוחנית",
-      "וידוי",
-      "הודאה",
-      "רחמי שמיים"
-    ]
-  },
   "author": "Torah Light Editorial Team",
   "publishDate": "2026-03-18",
   "lastModified": "2026-03-18",
@@ -120,10 +61,25 @@
     "89",
     "156"
   ],
-  "keywords": {
-    "primary": ["selichot", "repentance", "high holidays", "teshuvah"],
-    "secondary": ["thirteen attributes", "pre-dawn prayers", "penitential liturgy", "spiritual preparation"]
-  },
+  "keywords": [
+    "elul",
+    "confession",
+    "repentance",
+    "thirteen attributes",
+    "forgiveness",
+    "piyyutim",
+    "yom kippur",
+    "high holidays",
+    "rosh hashanah",
+    "spiritual preparation",
+    "teshuvah",
+    "selichot",
+    "penitential prayers",
+    "vidui",
+    "liturgical poetry",
+    "pre-dawn prayers",
+    "divine mercy"
+  ],
   "seoDescription": {
     "en": "Discover the profound tradition of Selichot prayers - penitential worship that prepares Jewish hearts for the High Holidays through pre-dawn liturgy, the Thirteen Attributes, and spiritual introspection.",
     "zh": "发现赛利豁特祷文的深刻传统——通过黎明前礼拜、十三种属性和精神内省为大节期准备犹太心灵的忏悔崇拜。",
@@ -134,7 +90,11 @@
     "zh": 890,
     "he": 1098
   },
-  "languages": ["en", "zh", "he"],
+  "languages": [
+    "en",
+    "zh",
+    "he"
+  ],
   "status": "published",
   "headerImage": {
     "description": "A dimly lit synagogue sanctuary in the pre-dawn hours, with small groups of worshippers holding prayer books, their faces illuminated by warm candlelight. The ark is partially open, revealing Torah scrolls within. Shadows and soft light create an atmosphere of reverence and introspection, capturing the intimate yet communal nature of Selichot prayers.",

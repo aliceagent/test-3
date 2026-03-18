@@ -7,35 +7,33 @@
   },
   "section": "holidays",
   "category": "Jewish Festivals",
-  "tags": [
-    "shemini-atzeret",
-    "sukkot",
-    "eighth-day",
-    "assembly",
-    "jewish-holidays",
-    "spiritual-meaning",
-    "intimate-relationship",
-    "divine-connection",
-    "transition",
-    "rain-prayer"
-  ],
   "date_created": "2026-03-18",
   "author": "Torah Light Editorial",
   "summary": {
     "en": "An exploration of Shemini Atzeret, the mysterious 'eighth day of assembly' that follows Sukkot—why God asks us to stay one more day, what it means spiritually, and how this intimate holiday represents the deepest form of divine connection.",
-    "zh": "探索第八日聚会节——住棚节后神秘的"第八日聚会"——为什么神要求我们再留一天，这在精神上意味着什么，以及这个亲密的节日如何代表最深层的神圣联系。",
+    "zh": "探索第八日聚会节——住棚节后神秘的「第八日聚会「——为什么神要求我们再留一天，这在精神上意味着什么，以及这个亲密的节日如何代表最深层的神圣联系。",
     "he": "חקירה של שמיני עצרת, יום הכינוס השמיני הסתרי שבא אחרי סוכות—למה אלוהים מבקש מאיתנו להשאר עוד יום, מה משמעותו הרוחנית, ואיך החג האינטימי הזה מייצג את הצורה העמוקה ביותר של קשר אלוהי."
   },
   "keywords": [
-    "Shemini Atzeret",
-    "Eighth Day",
-    "Sukkot transition",
-    "Divine intimacy",
     "Jewish spirituality",
-    "Assembly day",
-    "Rain prayers",
+    "shemini-atzeret",
+    "Divine intimacy",
+    "Sukkot transition",
+    "transition",
+    "rain-prayer",
+    "Eighth Day",
+    "divine-connection",
+    "spiritual-meaning",
     "Spiritual connection",
+    "assembly",
+    "jewish-holidays",
+    "Assembly day",
+    "Shemini Atzeret",
+    "sukkot",
+    "intimate-relationship",
+    "Rain prayers",
     "Jewish holidays",
+    "eighth-day",
     "Sacred time"
   ],
   "cultural_references": {
@@ -52,7 +50,11 @@
     "zh": "6-7 minutes",
     "he": "8-10 minutes"
   },
-  "languages": ["en", "zh", "he"],
+  "languages": [
+    "en",
+    "zh",
+    "he"
+  ],
   "word_count": {
     "en": 1200,
     "zh": 900,

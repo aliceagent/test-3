@@ -7,18 +7,6 @@
   },
   "section": "holidays",
   "category": "Jewish Festivals",
-  "tags": [
-    "simchat-torah",
-    "torah",
-    "dancing",
-    "hakafot",
-    "jewish-holidays",
-    "celebration",
-    "joy",
-    "synagogue",
-    "tradition",
-    "cycle"
-  ],
   "date_created": "2026-03-18",
   "author": "Torah Light Editorial",
   "summary": {
@@ -27,16 +15,26 @@
     "he": "חקירה של שמחת תורה, היום השמח ביותר בלוח העברי, המתמקדת במסורת הריקוד עם ספרי תורה, טקסי ההקפות, והמשמעות של השלמת וחידוש מיידי של מחזור קריאת התורה."
   },
   "keywords": [
-    "Simchat Torah",
-    "Torah dancing",
+    "celebration",
+    "Jewish community",
     "Hakafot",
-    "Jewish celebration",
-    "Torah cycle",
-    "Synagogue traditions",
-    "Jewish holidays",
     "Religious joy",
+    "Synagogue traditions",
     "Torah scrolls",
-    "Jewish community"
+    "Torah dancing",
+    "hakafot",
+    "tradition",
+    "cycle",
+    "Torah cycle",
+    "torah",
+    "synagogue",
+    "jewish-holidays",
+    "simchat-torah",
+    "Simchat Torah",
+    "joy",
+    "Jewish holidays",
+    "dancing",
+    "Jewish celebration"
   ],
   "cultural_references": {
     "chinese_dynasties": [
@@ -51,7 +49,11 @@
     "zh": "5-6 minutes",
     "he": "7-9 minutes"
   },
-  "languages": ["en", "zh", "he"],
+  "languages": [
+    "en",
+    "zh",
+    "he"
+  ],
   "word_count": {
     "en": 1150,
     "zh": 850,

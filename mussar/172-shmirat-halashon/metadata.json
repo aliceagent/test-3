@@ -15,40 +15,19 @@
     "character development",
     "interpersonal relations"
   ],
-  "keywords": {
-    "en": [
-      "lashon hara",
-      "shmirat halashon",
-      "guarding speech",
-      "evil tongue",
-      "gossip",
-      "rechilut",
-      "slander",
-      "Chafetz Chaim",
-      "mussar",
-      "Jewish ethics",
-      "speech laws"
-    ],
-    "zh": [
-      "恶言",
-      "谨守口舌",
-      "言语伦理",
-      "流言蜚语",
-      "犹太伦理",
-      "慎言",
-      "品格修养",
-      "人际关系"
-    ],
-    "he": [
-      "לשון הרע",
-      "שמירת הלשון",
-      "רכילות",
-      "חפץ חיים",
-      "מוסר",
-      "אתיקה יהודית",
-      "דיני דיבור"
-    ]
-  },
+  "keywords": [
+    "lashon hara",
+    "shmirat halashon",
+    "guarding speech",
+    "evil tongue",
+    "gossip",
+    "rechilut",
+    "slander",
+    "Chafetz Chaim",
+    "mussar",
+    "Jewish ethics",
+    "speech laws"
+  ],
   "difficulty": "intermediate",
   "readingTime": {
     "en": 12,

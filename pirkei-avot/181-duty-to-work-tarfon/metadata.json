@@ -9,7 +9,11 @@
   "slug": "duty-to-work-tarfon",
   "author": "Torah Light Editorial Team",
   "date_created": "2026-03-18",
-  "languages": ["en", "zh", "he"],
+  "languages": [
+    "en",
+    "zh",
+    "he"
+  ],
   "word_count": {
     "en": 1450,
     "zh": 950,
@@ -21,19 +25,6 @@
     "verse": 16,
     "citation": "פרקי אבות ב:טז"
   },
-  "tags": [
-    "Pirkei Avot",
-    "Rabbi Tarfon",
-    "effort",
-    "responsibility",
-    "perseverance",
-    "tikkun olam",
-    "character development",
-    "Torah study",
-    "Chinese parallels",
-    "愚公移山",
-    "conversion friendly"
-  ],
   "cultural_parallels": [
     {
       "culture": "Chinese",
@@ -101,5 +92,18 @@
     "愚公移山",
     "perseverance in Judaism",
     "Torah for beginners"
+  ],
+  "keywords": [
+    "Pirkei Avot",
+    "Rabbi Tarfon",
+    "effort",
+    "responsibility",
+    "perseverance",
+    "tikkun olam",
+    "character development",
+    "Torah study",
+    "Chinese parallels",
+    "愚公移山",
+    "conversion friendly"
   ]
 }

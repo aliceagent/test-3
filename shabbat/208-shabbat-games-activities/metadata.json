@@ -1,0 +1,93 @@
+{
+  "id": 208,
+  "title": {
+    "en": "Shabbat Games and Activities: Fun Without Screens",
+    "zh": "安息日游戏与活动：没有屏幕的快乐",
+    "he": "משחקים ופעילויות בשבת: כיף ללא מסכים"
+  },
+  "section": "shabbat",
+  "slug": "shabbat-games-activities",
+  "author": "Torah Light Editorial Team",
+  "created": "2026-03-19",
+  "updated": "2026-03-19",
+  "tags": [
+    "shabbat",
+    "family",
+    "children",
+    "games",
+    "activities",
+    "technology",
+    "parenting",
+    "screen-free",
+    "Jewish education"
+  ],
+  "difficulty": "beginner",
+  "readingTime": {
+    "en": "12 minutes",
+    "zh": "8 minutes",
+    "he": "10 minutes"
+  },
+  "summary": {
+    "en": "A comprehensive guide to screen-free Shabbat entertainment for families with children of all ages, including traditional games, creative activities, and cultural parallels to Chinese family traditions.",
+    "zh": "适合所有年龄段儿童的家庭的全面无屏幕安息日娱乐指南，包括传统游戏、创意活动以及与中国家庭传统的文化对比。",
+    "he": "מדריך מקיף לבידור שבת ללא מסכים למשפחות עם ילדים בכל הגילאים, כולל משחקים מסורתיים, פעילויות יצירתיות ומקבילות תרבותיות למסורות משפחתיות סיניות."
+  },
+  "keywords": [
+    "Shabbat games",
+    "screen-free Shabbat",
+    "Jewish family activities",
+    "Shabbat with children",
+    "Orthodox parenting",
+    "melachah",
+    "muktzeh",
+    "zemiros",
+    "Chinese cultural parallels",
+    "unplugged family time"
+  ],
+  "relatedArticles": [
+    204,
+    205,
+    207,
+    225,
+    232
+  ],
+  "bibliography": [
+    {
+      "type": "talmud",
+      "title": "Babylonian Talmud, Tractate Berachot 57b",
+      "url": "https://www.sefaria.org/Berakhot.57b"
+    },
+    {
+      "type": "talmud",
+      "title": "Babylonian Talmud, Tractate Shabbat",
+      "url": "https://www.sefaria.org/Shabbat"
+    },
+    {
+      "type": "mishna",
+      "title": "Pirkei Avot 4:1",
+      "url": "https://www.sefaria.org/Pirkei_Avot.4.1"
+    },
+    {
+      "type": "book",
+      "title": "The Sabbath: Its Meaning for Modern Man",
+      "author": "Abraham Joshua Heschel",
+      "publisher": "Farrar, Straus and Giroux",
+      "year": 1951
+    },
+    {
+      "type": "article",
+      "title": "The Laws of Muktzeh",
+      "source": "Chabad.org",
+      "url": "https://www.chabad.org/library/article_cdo/aid/95907/jewish/The-Laws-of-Muktzeh.htm"
+    },
+    {
+      "type": "article",
+      "title": "Shabbat Activities for Families",
+      "source": "Aish.com",
+      "url": "https://www.aish.com/shabbat/"
+    }
+  ],
+  "targetAudience": "Mandarin-speaking families exploring Orthodox Judaism, parents seeking screen-free Shabbat activities, educators working with Chinese Jewish communities",
+  "culturalContext": "Includes parallels to traditional Chinese games (Go, Chinese chess) and family gathering customs during Chinese festivals, emphasizing shared values of multi-generational connection and unplugged family time.",
+  "halachicNote": "This article reflects mainstream Orthodox practice. For specific halachic questions regarding muktzeh, games with dice, or permissible Shabbat activities, readers should consult their local rabbi."
+}

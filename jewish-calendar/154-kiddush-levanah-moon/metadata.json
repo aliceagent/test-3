@@ -7,22 +7,46 @@
   },
   "slug": "kiddush-levanah-moon",
   "section": "jewish-calendar",
-  "tags": ["molad", "kiddush-levanah", "lunar-calendar", "jewish-calendar", "new-moon", "blessing", "ceremony", "kabbalah", "astronomy"],
   "publishedAt": "2026-03-18",
   "author": "Torah Light",
   "readingTime": 8,
-  "languages": ["en", "zh", "he"],
+  "languages": [
+    "en",
+    "zh",
+    "he"
+  ],
   "headerImage": {
     "description": "A serene nighttime scene showing a diverse group of people gathered in a circle outdoors under a clear sky, with a crescent moon visible above them. The figures are looking upward with expressions of reverence and wonder, some holding prayer books, representing the communal nature of Kiddush Levanah. The setting includes both urban and natural elements—city lights in the distant background with trees and open space in the foreground—symbolizing the bridge between ancient tradition and modern observance. The moon casts a gentle silver light over the gathering, creating an atmosphere of sanctity and cosmic connection."
   },
   "references": {
-    "chineseDynasties": ["Tang Dynasty (618-907 CE)"],
-    "jewishSources": ["Talmud", "Zohar", "Shulchan Aruch"],
-    "astronomical": ["Molad calculation", "Lunar conjunction", "Chalakim (time units)"]
+    "chineseDynasties": [
+      "Tang Dynasty (618-907 CE)"
+    ],
+    "jewishSources": [
+      "Talmud",
+      "Zohar",
+      "Shulchan Aruch"
+    ],
+    "astronomical": [
+      "Molad calculation",
+      "Lunar conjunction",
+      "Chalakim (time units)"
+    ]
   },
   "wordCount": {
     "en": 1100,
     "zh": 850,
     "he": 950
-  }
+  },
+  "keywords": [
+    "molad",
+    "kiddush-levanah",
+    "lunar-calendar",
+    "jewish-calendar",
+    "new-moon",
+    "blessing",
+    "ceremony",
+    "kabbalah",
+    "astronomy"
+  ]
 }

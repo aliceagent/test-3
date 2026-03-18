@@ -10,11 +10,18 @@
   "batch": "200",
   "author": "Torah Light Editorial Team",
   "date_created": "2026-03-18",
-  "keywords": {
-    "en": ["Talmud", "Gemara", "Mishnah", "Rashi", "Tosafot", "Jewish texts", "Torah study", "rabbinic literature", "Babylonian Talmud", "how to study Talmud"],
-    "zh": ["塔木德", "革马拉", "米示拿", "拉希", "托萨佛特", "犹太文本", "托拉学习", "拉比文献", "巴比伦塔木德", "如何学习塔木德", "十三经注疏", "中国经典注释"],
-    "he": ["תלמוד", "גמרא", "משנה", "רש\"י", "תוספות", "טקסטים יהודיים", "לימוד תורה", "ספרות רבנית", "תלמוד בבלי", "איך ללמוד תלמוד"]
-  },
+  "keywords": [
+    "Talmud",
+    "Gemara",
+    "Mishnah",
+    "Rashi",
+    "Tosafot",
+    "Jewish texts",
+    "Torah study",
+    "rabbinic literature",
+    "Babylonian Talmud",
+    "how to study Talmud"
+  ],
   "target_audience": "Beginners seeking to understand how to approach Talmud study, particularly those from Chinese cultural backgrounds",
   "cultural_parallels": [
     "Chinese classical text layout with commentaries",
@@ -29,7 +36,11 @@
     "he": 10
   },
   "difficulty_level": "Beginner-Intermediate",
-  "related_articles": [197, 124, 134],
+  "related_articles": [
+    197,
+    124,
+    134
+  ],
   "sources": [
     {
       "type": "primary",
