@@ -1,0 +1,83 @@
+{
+  "id": 149,
+  "title": {
+    "en": "Preparing Your Children for the Seder: Age-Appropriate Activities",
+    "zh": "为孩子们准备逾越节晚餐：适龄活动指南",
+    "he": "הכנת הילדים לליל הסדר: פעילויות מותאמות גיל"
+  },
+  "description": {
+    "en": "Games, crafts, songs, and discussion prompts to keep children of all ages engaged and learning at the Passover Seder.",
+    "zh": "游戏、手工、歌曲和讨论提示，让各年龄段的孩子在逾越节晚餐中保持参与和学习。",
+    "he": "משחקים, יצירות, שירים ורמזי דיון כדי לשמור על מעורבות ולמידה של ילדים בכל הגילאים בליל הסדר."
+  },
+  "section": "passover-seder",
+  "tags": [
+    "children",
+    "family",
+    "seder",
+    "education",
+    "activities",
+    "parenting",
+    "engagement",
+    "tradition"
+  ],
+  "topics": [
+    "Age-appropriate activities",
+    "Educational games",
+    "Family traditions",
+    "Seder preparation",
+    "Children's engagement",
+    "Jewish parenting"
+  ],
+  "targetAudience": "families_with_children",
+  "readingTime": {
+    "en": "12-15 minutes",
+    "zh": "8-10 minutes",
+    "he": "10-12 minutes"
+  },
+  "difficulty": "beginner",
+  "practicalLevel": "high",
+  "keywords": {
+    "en": ["seder activities", "children passover", "family seder", "jewish education", "holiday activities", "parenting tips"],
+    "zh": ["逾越节活动", "儿童逾越节", "家庭晚餐", "犹太教育", "节日活动", "育儿建议"],
+    "he": ["פעילויות סדר", "ילדים פסח", "סדר משפחתי", "חינוך יהודי", "פעילויות חג", "טיפים להורים"]
+  },
+  "relatedArticles": [
+    "seder-preparation-guide",
+    "haggadah-explanations",
+    "family-traditions",
+    "jewish-parenting"
+  ],
+  "culturalReferences": {
+    "chinese": [
+      "汉朝宫廷娱乐活动",
+      "唐朝诗歌传统",
+      "明朝宫廷音乐",
+      "宋朝教育理念",
+      "清朝家族传统"
+    ]
+  },
+  "headerImage": {
+    "description": "A warm, inviting Seder table scene with children of various ages engaged in different activities - toddlers playing with toy frogs and locusts, elementary children reading from colorful Haggadot, teenagers leading discussions, all gathered around a beautifully set table with matzah, wine cups, and Seder plate, families smiling together in soft golden lighting",
+    "altText": {
+      "en": "Children of all ages participating in Passover Seder activities around a traditional table setting",
+      "zh": "各年龄段的孩子围绕传统餐桌布置参与逾越节晚餐活动",
+      "he": "ילדים בכל הגילאים משתתפים בפעילויות ליל סדר סביב שולחן מסורתי"
+    }
+  },
+  "publishedDate": "2026-03-18",
+  "lastUpdated": "2026-03-18",
+  "author": "Torah Light Editorial Team",
+  "wordCount": {
+    "en": 1450,
+    "zh": 800,
+    "he": 1200
+  },
+  "language": {
+    "primary": "en",
+    "available": ["en", "zh", "he"]
+  },
+  "seoOptimized": true,
+  "socialShareable": true,
+  "printFriendly": true
+}

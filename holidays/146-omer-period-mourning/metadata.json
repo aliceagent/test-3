@@ -1,0 +1,24 @@
+{
+  "id": 146,
+  "title": {
+    "en": "The Omer Period: Why 33 Days of Semi-Mourning?",
+    "zh": "俄梅珥计数期：为什么是33天的半哀悼期？",
+    "he": "ספירת העומר: מדוע ל\"ג יום של אבלות חלקית?"
+  },
+  "section": "holidays",
+  "tags": ["omer", "lag-baomer", "rabbi-akiva", "mourning", "students"],
+  "difficulty": "intermediate",
+  "readingTime": 5,
+  "headerImage": {
+    "description": "Ancient scroll with Hebrew text surrounded by wheat stalks, symbolizing the Omer counting period, with a subtle overlay of 33 tally marks transitioning from dark to light tones",
+    "alt": "Omer counting period visualization"
+  },
+  "author": "Torah Light",
+  "publishDate": "2026-03-18",
+  "sources": [
+    "Talmud Yevamot 62b",
+    "Shulchan Aruch Orach Chaim 493",
+    "Mishnah Berurah 493",
+    "Sefer HaManhig"
+  ]
+}
