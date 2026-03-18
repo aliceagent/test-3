@@ -2,8 +2,9 @@
 
 import { Link, usePathname } from "@/i18n/navigation";
 import { useTranslations, useLocale } from "next-intl";
-import { useState, useEffect } from "react";
-import { supabase } from "@/lib/supabase";
+import { useMemo } from "react";
+import { getArticlesBySection } from "@/lib/articles";
+import type { Article } from "@/lib/articles";
 import ArticleFeedback from "./ArticleFeedback";
 
 interface ContentSection {
@@ -21,18 +22,6 @@ interface ContentPageProps {
   subtitleKey: string;
   sections: ContentSection[];
   relatedLinks?: { href: string; labelKey: string; labelNs: string }[];
-}
-
-interface Article {
-  id: number;
-  section: string;
-  title_en: string;
-  title_zh: string;
-  title_he: string;
-  body_en: string;
-  body_zh: string;
-  body_he: string;
-  updated_at: string;
 }
 
 // Map namespace camelCase to section slug
@@ -66,22 +55,9 @@ export default function ContentPage({
   const tCommon = useTranslations("common");
   const locale = useLocale();
   const pathname = usePathname();
-  const [articles, setArticles] = useState<Article[]>([]);
-
-  useEffect(() => {
-    let cancelled = false;
+  const articles = useMemo(() => {
     const slug = namespaceToSlug(namespace);
-    supabase
-      .from("articles")
-      .select("*")
-      .eq("section", slug)
-      .order("created_at", { ascending: false })
-      .then(({ data }) => {
-        if (!cancelled && data) setArticles(data);
-      });
-    return () => {
-      cancelled = true;
-    };
+    return getArticlesBySection(slug);
   }, [namespace]);
 
   function getArticleBody(article: Article): string {
