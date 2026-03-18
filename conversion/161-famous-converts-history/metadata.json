@@ -1,0 +1,80 @@
+{
+  "id": 161,
+  "title": {
+    "en": "Onkelos, Aquila, and Other Famous Converts Who Shaped Judaism",
+    "zh": "昂克罗斯、阿奎拉和其他塑造犹太教的著名皈依者",
+    "he": "אונקלוס, אקילס וגרים מפורסמים אחרים שעיצבו את היהדות"
+  },
+  "section": "conversion",
+  "slug": "famous-converts-history",
+  "batch": "200",
+  "topics": [
+    "conversion",
+    "Jewish history",
+    "famous converts",
+    "Onkelos",
+    "Aquila",
+    "Ruth",
+    "Shemaya",
+    "Avtalyon",
+    "Obadiah the Proselyte",
+    "Targum Onkelos",
+    "Jewish tradition"
+  ],
+  "cultural_parallels": [
+    "入乡随俗 (ru xiang sui su)",
+    "Kaifeng Jews",
+    "Chinese cultural integration",
+    "礼贤下士 (recognizing talent regardless of origin)",
+    "汉化 (sinicization) vs. Judaization"
+  ],
+  "word_count": {
+    "en": 2847,
+    "zh": 1856,
+    "he": 1492
+  },
+  "target_audience": "Chinese speakers exploring conversion to Orthodox Judaism",
+  "difficulty": "intermediate",
+  "estimated_reading_time": {
+    "en": "12-15 minutes",
+    "zh": "8-10 minutes",
+    "he": "8-10 minutes"
+  },
+  "key_figures": [
+    "Onkelos (c. 35-120 CE) - Translator of Torah into Aramaic",
+    "Aquila (c. 2nd century CE) - Greek translator",
+    "Ruth - Moabite convert, ancestor of King David",
+    "Shemaya and Avtalyon (c. 1st century BCE) - Heads of Sanhedrin, descendants of converts",
+    "Abraham - First convert in Jewish tradition",
+    "Obadiah the Proselyte (12th century) - Medieval composer"
+  ],
+  "main_themes": [
+    "Converts have shaped Jewish thought and practice throughout history",
+    "Background does not determine destiny in Judaism",
+    "Conversion is a choice that parallels Abraham's journey",
+    "Fresh perspectives from converts enrich Jewish tradition",
+    "Judaism welcomes sincere seekers regardless of origin"
+  ],
+  "bibliography": [
+    "The Convert's Journey by Rabbi Lawrence J. Epstein",
+    "Maimonides's Letter to Obadiah the Proselyte",
+    "Ruth Rabbah - Midrashic commentary on the Book of Ruth",
+    "Talmud Bavli, Megillah 13a - On the greatness of converts",
+    "From Sinai to China by Xu Xin - On the Kaifeng Jewish community"
+  ],
+  "related_articles": [
+    160,
+    162,
+    159,
+    168
+  ],
+  "languages": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "status": "completed",
+  "author": "Torah Light Writing Team",
+  "date_created": "2026-03-18",
+  "series": "Conversion Guide Series"
+}

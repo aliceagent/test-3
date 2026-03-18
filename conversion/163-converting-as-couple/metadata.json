@@ -1,0 +1,79 @@
+{
+  "id": 163,
+  "title": {
+    "en": "Converting as a Couple: When Both Partners Begin the Journey Together",
+    "zh": "伴侣共同皈依:当双方一起踏上犹太教之旅",
+    "he": "התגיירות כזוג: כאשר שני הבני-זוג מתחילים את המסע יחד"
+  },
+  "section": "conversion",
+  "slug": "converting-as-couple",
+  "batch": "200",
+  "author": "Torah Light Editorial Team",
+  "created": "2026-03-18",
+  "description": {
+    "en": "A comprehensive guide for couples converting to Judaism together, exploring the unique opportunities and challenges of shared spiritual journey while maintaining individual growth.",
+    "zh": "为共同皈依犹太教的伴侣提供的全面指南,探讨共同精神旅程的独特机遇和挑战,同时保持个人成长。",
+    "he": "מדריך מקיף לזוגות שמתגיירים ליהדות יחד, חוקר את ההזדמנויות והאתגרים הייחודיים של מסע רוחני משותף תוך שמירה על צמיחה אישית."
+  },
+  "keywords": [
+    "conversion",
+    "couples",
+    "beit din",
+    "Jewish marriage",
+    "spiritual growth",
+    "individual journey",
+    "shared learning",
+    "mikvah",
+    "皈依",
+    "伴侣",
+    "比翼双飞",
+    "修身",
+    "התגיירות",
+    "זוגות",
+    "בית דין",
+    "מקווה"
+  ],
+  "cultural_parallels": [
+    "Chinese idiom 比翼双飞 (flying wing to wing)",
+    "Confucian concept of 修身 (self-cultivation)",
+    "Chinese marriage philosophy balancing unity and individuality",
+    "礼记 on personal cultivation as foundation"
+  ],
+  "target_audience": "Couples exploring or undergoing conversion to Orthodox Judaism, with special focus on Chinese/Asian cultural context",
+  "reading_time_minutes": {
+    "en": 12,
+    "zh": 8,
+    "he": 10
+  },
+  "word_count": {
+    "en": 1456,
+    "zh": 2250,
+    "he": 1620
+  },
+  "sources": [
+    "Talmud Bavli, Yevamot 47a-b",
+    "Becoming a Jew by Rabbi Maurice Lamm",
+    "Choosing a Jewish Life by Anita Diamant",
+    "Contemporary Conversion articles by Rabbi Dov Linzer",
+    "Ruth: A Modern Commentary by Rabbi Ellen Frankel"
+  ],
+  "related_articles": [
+    159,
+    160,
+    162,
+    164,
+    165,
+    166,
+    167,
+    168
+  ],
+  "difficulty_level": "intermediate",
+  "tags": [
+    "conversion-process",
+    "relationships",
+    "spiritual-growth",
+    "jewish-identity",
+    "couples-guidance",
+    "beit-din-preparation"
+  ]
+}
