@@ -1,0 +1,54 @@
+{
+  "id": 167,
+  "title": "Raising Jewish Children When You're a Convert",
+  "title_zh": "皈依者如何养育犹太孩子",
+  "title_he": "גידול ילדים יהודיים כשאת/ה גר/ת",
+  "section": "conversion",
+  "slug": "raising-children-converts",
+  "batch": "200",
+  "topics": [
+    "conversion",
+    "parenting",
+    "Jewish education",
+    "identity",
+    "family",
+    "children"
+  ],
+  "cultural_parallels": [
+    "Chinese concept of 言传身教 (teaching through words and actions)",
+    "Confucian educational ideal: 学而时习之,不亦说乎",
+    "Chinese appreciation for 传承 (passing down traditions)",
+    "先天 vs 后天 (innate vs acquired nature)"
+  ],
+  "key_sources": [
+    "Talmud Taanit 7a - learning from teachers and students",
+    "Talmud Yevamot 47b - convert as newborn child",
+    "Torah commandments to love the convert (36 times)"
+  ],
+  "target_audience": "Converts raising Jewish children, prospective converts considering parenthood",
+  "word_count_en": 1450,
+  "character_count_zh": 4198,
+  "themes": [
+    "The unique advantages convert parents bring",
+    "Creating Jewish memories without inherited traditions",
+    "Building confidence in children's Jewish identity",
+    "Practical parenting strategies for converts",
+    "Addressing prejudice and misconceptions",
+    "Learning alongside your children"
+  ],
+  "reading_time_minutes": 8,
+  "difficulty_level": "Intermediate",
+  "related_articles": [
+    159,
+    160,
+    165,
+    166
+  ],
+  "date_created": "2026-03-18",
+  "author": "Torah Light Editorial Team",
+  "language_versions": [
+    "en",
+    "zh",
+    "he"
+  ]
+}
