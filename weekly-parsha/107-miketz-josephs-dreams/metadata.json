@@ -1,0 +1,46 @@
+{
+  "id": 107,
+  "title": {
+    "en": "Miketz: Joseph Interprets Pharaoh's Dreams — Faith in Times of Uncertainty",
+    "zh": "米凯兹：约瑟为法老解梦——在不确定时代中的信心",
+    "he": "מקץ: יוסף פותר את חלומות פרעה — אמונה בזמנים של אי־ודאות"
+  },
+  "section": "weekly-parsha",
+  "slug": "miketz-josephs-dreams",
+  "description": {
+    "en": "How Joseph's ability to interpret dreams came from God, and what this teaches about trusting divine timing in our own lives.",
+    "zh": "约瑟解梦的能力如何来自神，以及这如何教导我们在自己的生活中信靠神圣时机。",
+    "he": "איך יכולת הפירוש של יוסף באה מאלוהים, ומה זה מלמד על בטחון בתזמון אלוהי בחיינו."
+  },
+  "tags": {
+    "en": ["Miketz", "Joseph", "Dreams", "Prophecy", "Faith", "Divine Timing", "Wisdom", "Leadership", "Trust", "Uncertainty", "Divine Providence", "Pharaoh", "Egypt", "Weekly Parsha", "Torah"],
+    "zh": ["米凯兹", "约瑟", "梦境", "预言", "信心", "神圣时机", "智慧", "领导力", "信任", "不确定性", "神圣眷顾", "法老", "埃及", "周讯妥拉部分", "妥拉", "商朝"],
+    "he": ["מקץ", "יוסף", "חלומות", "נבואה", "אמונה", "תזמון_אלוהי", "חכמה", "מנהיגות", "אמון", "אי_ודאות", "השגחה_פרטית", "פרעה", "מצרים", "פרשת_השבוע", "תורה"]
+  },
+  "torah_portion": "Miketz",
+  "torah_reference": "Genesis 41:1-44:17",
+  "historical_period": {
+    "jewish": "Patriarchal Period (~1800-1500 BCE)",
+    "chinese_equivalent": "Shang Dynasty (商朝, ~1600-1046 BCE)"
+  },
+  "header_image": {
+    "style": "Chinese ink wash (水墨) / shan shui (山水) landscape",
+    "description": "A traditional Chinese ink wash landscape depicting a figure standing before a mighty river with two moons — one full and bright, one dark and shadowed — reflected in the water. Seven lush stalks of grain grow along the riverbank, while in the distance, seven withered stalks bend in harsh wind. The scene is rendered in muted earth tones with subtle golden accents, capturing the essence of prophecy and divine wisdom in a serene, contemplative shan shui style.",
+    "mood": "Serene, contemplative, mystical"
+  },
+  "word_count": {
+    "en": 2050,
+    "zh": 1823,
+    "he": 1642
+  },
+  "reading_time_minutes": {
+    "en": 8,
+    "zh": 6,
+    "he": 7
+  },
+  "created": "2026-03-18",
+  "language_level": "Beginner to Intermediate",
+  "cultural_context": "Includes Chinese dynasty references and parallels to Chinese philosophical concepts",
+  "bibliography_verified": true,
+  "completed": true
+}
