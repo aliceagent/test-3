@@ -1,0 +1,61 @@
+{
+  "id": 114,
+  "title": {
+    "en": "Pinchas: Zealotry, Leadership Transitions, and the Daughters of Tzelafchad",
+    "zh": "品哈斯妥拉分篇：狂热、领导层过渡和泽罗法哈德的女儿们",
+    "he": "פינחס: קנאות, מעבר מנהיגות ובנות צלפחד"
+  },
+  "slug": "pinchas-zealotry-daughters",
+  "section": "weekly-parsha",
+  "description": {
+    "en": "Three powerful stories in one parsha — and what they teach about courage, succession planning, and women's rights in Torah.",
+    "zh": "一个妥拉分篇中的三个强有力的故事——以及它们关于勇气、继任规划和妥拉中妇女权利的教导。",
+    "he": "שלושה סיפורים עוצמתיים בפרשה אחת — ומה הם מלמדים על אומץ, תכנון ירושה וזכויות נשים בתורה."
+  },
+  "author": "Torah Light Team",
+  "date_created": "2026-03-18",
+  "word_count": {
+    "en": 3200,
+    "zh": 1100,
+    "he": 2300
+  },
+  "char_count": {
+    "en": 18648,
+    "zh": 6117,
+    "he": 13436
+  },
+  "reading_time_minutes": {
+    "en": 13,
+    "zh": 6,
+    "he": 10
+  },
+  "tags": {
+    "en": ["Pinchas", "Zealotry", "Leadership", "WomensRights", "Justice", "CourageousAction", "SuccessionPlanning", "BiblicalLaw", "TzelafchadDaughters", "Moses", "Joshua", "RighteousIndignation", "LegalPrecedent", "DivineJustice"],
+    "zh": ["品哈斯", "狂热", "领导力", "妇女权利", "正义", "勇敢行动", "继任规划", "圣经法律", "泽罗法哈德女儿们", "摩西", "约书亚", "正义愤慨", "法律先例", "神圣正义", "商朝", "勇气"],
+    "he": ["פינחס", "קנאות", "מנהיגות", "זכויותנשים", "צדק", "פעולהאמיצה", "תכנוןירושה", "חוקמקראי", "בנותצלפחד", "משה", "יהושע", "זעםצדקני", "תקדיםמשפטי", "צדקאלוהי"]
+  },
+  "biblical_references": [
+    "Numbers 25:1-18",
+    "Numbers 26:1-65", 
+    "Numbers 27:1-23"
+  ],
+  "chinese_dynasty": "Shang Dynasty (商朝, ~1600-1046 BCE)",
+  "themes": [
+    "Religious zealotry and righteous action",
+    "Leadership succession planning", 
+    "Women's legal rights in ancient times",
+    "Divine justice and human courage",
+    "Legal precedent and evolution"
+  ],
+  "practical_applications": [
+    "When to take a moral stand",
+    "Leadership transition best practices",
+    "Advocating for change within systems",
+    "Building character over charisma",
+    "Balancing individual action with community welfare"
+  ],
+  "dall_e_prompt": "A traditional Chinese shan shui (山水) style landscape depicting three distinct scenes woven together: In the foreground, a solitary figure stands boldly on a mountain peak, representing righteous courage. In the middle ground, an elderly sage passes a staff to a younger leader beneath ancient pine trees, symbolizing the transfer of wisdom and authority. In the distant background, five graceful figures in flowing robes approach a grand pavilion, representing the daughters seeking justice. The composition uses soft ink washes in earth tones (grey, brown, sepia) with subtle gold accents on the pavilion and staff. Misty clouds separate the three narrative elements, creating a contemplative, interconnected mood that speaks to courage, transition, and justice.",
+  "status": "complete",
+  "quality_checked": true,
+  "bibliography_verified": true
+}

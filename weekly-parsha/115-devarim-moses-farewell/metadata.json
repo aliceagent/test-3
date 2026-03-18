@@ -1,0 +1,82 @@
+{
+  "id": 115,
+  "title": {
+    "en": "Devarim: Moses's Farewell — How to Say Goodbye with Purpose",
+    "zh": "德瓦里姆：摩西的告别——如何有意义地告别",
+    "he": "דברים: פרידתו של משה — איך להיפרד במטרה"
+  },
+  "slug": "devarim-moses-farewell",
+  "section": "weekly-parsha",
+  "batch": "200",
+  "description": {
+    "en": "Moses's final speeches to the people he led for 40 years, and the Jewish approach to endings as new beginnings.",
+    "zh": "摩西向他领导了40年的人民发表最后演讲，以及犹太人将结束视为新开始的方法。",
+    "he": "נאומי הפרידה של משה לעם שהנהיג במשך 40 שנה, והגישה היהודית לסיומים כהתחלות חדשות."
+  },
+  "torah_portion": "Devarim",
+  "hebrew_name": "דברים",
+  "book": "Deuteronomy",
+  "themes": [
+    "Leadership transition",
+    "Farewell speeches",
+    "Legacy building",
+    "Meaningful goodbye",
+    "Empowerment",
+    "Succession planning"
+  ],
+  "tags": {
+    "en": ["Moses", "Devarim", "Leadership", "Farewell", "Transition", "Deuteronomy", "WeeklyParsha", "Succession", "LegacyBuilding", "EndingsAsBeginnings"],
+    "zh": ["摩西", "德瓦里姆", "领导力", "告别", "转换", "申命记", "每周妥拉", "继承", "遗产建设", "结束即开始", "商朝", "反思"],
+    "he": ["משה", "דברים", "מנהיגות", "פרידה", "מעבר", "ספרדברים", "פרשהשבועית", "רצף", "בנייתמורשת", "סיומיםכהתחלות", "שושלתשאנג", "רפלקציה"]
+  },
+  "historical_context": {
+    "jewish_period": "End of Wilderness Period",
+    "approximate_date": "1273 BCE",
+    "chinese_dynasty": {
+      "name": "Late Shang Dynasty",
+      "chinese": "商朝晚期",
+      "period": "~1600-1046 BCE"
+    }
+  },
+  "cultural_parallels": [
+    "Confucian self-cultivation through reflection (反思)",
+    "Chinese tradition of elder storytelling",
+    "Leadership succession in ancient civilizations"
+  ],
+  "key_figures": [
+    {
+      "name": "Moses",
+      "hebrew": "משה רבנו",
+      "chinese": "摩西",
+      "role": "Leader saying farewell"
+    },
+    {
+      "name": "Joshua",
+      "hebrew": "יהושע",
+      "chinese": "约书亚",
+      "role": "Designated successor"
+    }
+  ],
+  "practical_applications": [
+    "Meaningful workplace departures",
+    "Ending relationships with purpose",
+    "Leadership transition planning",
+    "Creating comprehensive handover documentation"
+  ],
+  "word_count": {
+    "en": 1420,
+    "zh": 1065,
+    "he": 1185
+  },
+  "dall_e_prompt": "A serene Chinese ink wash landscape in traditional shan shui style showing an elderly sage figure (Moses) standing on a mountain peak overlooking a vast valley. Below, thousands of small figures (the Israelites) gather in camps. The scene uses muted earth tones — deep charcoal grays, soft browns, and subtle touches of blue in distant mountains. Wispy clouds drift around the peaks. The composition conveys both majesty and melancholy, capturing the weight of farewell and transition. Style: Traditional Chinese brushstroke technique with flowing, confident lines and atmospheric perspective.",
+  "image_style": "Chinese 山水 (shan shui) ink wash painting",
+  "status": "completed",
+  "created_date": "2026-03-18",
+  "author": "Torah Light AI Writer",
+  "bibliography_sources": [
+    "Deuteronomy 1:1-5",
+    "Rashi's commentary on Deuteronomy",
+    "Confucian Analects on reflection",
+    "Ancient Near Eastern succession practices"
+  ]
+}

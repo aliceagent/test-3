@@ -1,0 +1,63 @@
+{
+  "id": 113,
+  "title": "Balak: When Your Enemy Blesses You — The Story of Bilaam",
+  "title_zh": "巴勒克：当敌人为你祝福——巴兰的故事",
+  "title_he": "בלק: כשהאויב מברך אותך — סיפור בלעם",
+  "section": "weekly-parsha",
+  "slug": "balak-bilaam-blessing",
+  "batch": "200",
+  "status": "completed",
+  "word_count": {
+    "en": 1845,
+    "zh": 1456,
+    "he": 1672
+  },
+  "created_date": "2026-03-18",
+  "tags": {
+    "en": ["Balak", "Bilaam", "Prophecy", "MahTovu", "WeeklyParsha", "DivineProvidence", "Blessing", "ShangDynasty", "PropheticVision", "JewishCommunity", "SpiritualWarfare", "GodsProtection"],
+    "zh": ["巴勒克", "巴兰", "预言", "何等美哉", "每周妥拉", "神圣天意", "祝福", "商朝", "古代中国", "预言异象", "犹太社区", "属灵战争", "神的保护"],
+    "he": ["בלק", "בלעם", "נבואה", "מהטובו", "פרשתהשבוע", "השגחהאלוהית", "ברכה", "שושלתשאנג", "סיןעתיקה", "חזוןנבואי", "קהילהיהודית", "מלחמהרוחנית", "הגנתהאל"]
+  },
+  "chinese_dynasty_reference": "Shang Dynasty (商朝, ~1600-1046 BCE)",
+  "historical_period": "~1250 BCE - Late Shang Dynasty",
+  "dalle_prompt": "A traditional Chinese shan shui (山水) ink wash landscape featuring a high mountain plateau overlooking vast desert plains. In the foreground, a lone figure (representing Bilaam) stands atop the mountain with arms raised, while below in the distance, a vast encampment of tents extends across the valley (representing the Israelite camp). Golden morning light filters through misty clouds, creating a mystical atmosphere. The scene is rendered in traditional water-ink style with subtle earth tones of brown, ochre, and gray, accented with touches of gold. The mood is contemplative and awe-inspiring, suggesting divine intervention and the power of prophetic vision.",
+  "key_concepts": ["Divine providence", "Enemy becoming blessing", "Mah Tovu prayer", "Non-Jewish prophet", "Talking donkey", "Spiritual warfare", "Bilaam's prophecies", "Jewish community beauty"],
+  "bibliography": [
+    {
+      "title": "Numbers Chapter 22-24 - The Bilaam Narrative",
+      "source": "Sefaria.org",
+      "url": "https://www.sefaria.org/Numbers.22",
+      "description": "Original Hebrew text with commentary on the complete Bilaam story"
+    },
+    {
+      "title": "Mah Tovu - How Goodly Are Your Tents",
+      "source": "My Jewish Learning",
+      "url": "https://www.myjewishlearning.com/article/mah-tovu/",
+      "description": "Analysis of the famous prayer derived from Bilaam's blessing"
+    },
+    {
+      "title": "Bilaam the Prophet: Between Blessing and Curse",
+      "source": "Chabad.org",
+      "url": "https://www.chabad.org/parshah/article_cdo/aid/1451/jewish/Bilaam-the-Prophet.htm",
+      "description": "Chassidic insights into the character and prophecies of Bilaam"
+    },
+    {
+      "title": "The Talking Donkey: Miracle and Message",
+      "source": "Aish.com",
+      "url": "https://www.aish.com/tp/i/moha/48955761.html",
+      "description": "Exploring the deeper meaning behind the miraculous talking donkey episode"
+    },
+    {
+      "title": "Divine Providence in Jewish Thought",
+      "source": "Jewish Virtual Library",
+      "url": "https://www.jewishvirtuallibrary.org/divine-providence",
+      "description": "Overview of the concept of hashgacha pratit (divine providence) in Judaism"
+    },
+    {
+      "title": "Ancient Chinese Oracle Bones and Divination",
+      "source": "National Geographic",
+      "url": "https://www.nationalgeographic.com/culture/article/oracle-bones-china-ancient-writing",
+      "description": "Archaeological evidence of divination practices during the Shang Dynasty"
+    }
+  ]
+}
