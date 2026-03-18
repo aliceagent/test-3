@@ -1,0 +1,82 @@
+{
+  "id": 157,
+  "title": "The Jewish Week: How Shabbat Structures All of Time",
+  "title_zh": "犹太人的一周:安息日如何构建所有时间",
+  "title_he": "השבוע היהודי: כיצד השבת מבנה את כל הזמן",
+  "section": "jewish-calendar",
+  "slug": "jewish-week-shabbat",
+  "batch": "200",
+  "languages": ["en", "zh", "he"],
+  "word_count": {
+    "en": 1452,
+    "zh": 1021,
+    "he": 1389
+  },
+  "topics": [
+    "shabbat",
+    "jewish-calendar",
+    "time-structure",
+    "weekly-cycle",
+    "creation",
+    "rest",
+    "preparation",
+    "erev-shabbat",
+    "melaveh-malkah"
+  ],
+  "cultural_parallels": [
+    "chinese-cyclical-time",
+    "24-solar-terms",
+    "lunar-new-year-preparation",
+    "festival-anticipation"
+  ],
+  "key_concepts": [
+    "Seven-day week",
+    "Hebrew day names",
+    "Shabbat as organizing principle",
+    "Palace in time",
+    "Creation blueprint",
+    "Preparation vs. afterglow",
+    "Sanctifying time"
+  ],
+  "primary_sources": [
+    "Genesis 2:1-3",
+    "Exodus 20:8-11",
+    "Deuteronomy 5:12-15"
+  ],
+  "traditional_sources": [
+    "Mishnah Shabbat 7:2",
+    "Talmud Bavli Shabbat 119a-119b",
+    "Talmud Yerushalmi Berakhot 1:5",
+    "Zohar, Terumah 135a"
+  ],
+  "modern_sources": [
+    {
+      "author": "Abraham Joshua Heschel",
+      "title": "The Sabbath",
+      "year": 1951,
+      "type": "book"
+    },
+    {
+      "author": "Adin Steinsaltz",
+      "title": "The Thirteen Petalled Rose",
+      "chapter": "Shabbat",
+      "type": "book"
+    },
+    {
+      "author": "Pinchas Peli",
+      "title": "Shabbat Shalom: A Renewed Encounter with the Sabbath",
+      "type": "book"
+    }
+  ],
+  "target_audience": "Chinese native Mandarin speakers with no prior Jewish knowledge",
+  "tone": "Educational, warm, culturally sensitive",
+  "difficulty_level": "beginner",
+  "estimated_reading_time": {
+    "en": "7-9 minutes",
+    "zh": "5-7 minutes",
+    "he": "7-9 minutes"
+  },
+  "created": "2026-03-18",
+  "author": "Torah Light Project",
+  "status": "complete"
+}
