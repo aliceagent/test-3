@@ -1,0 +1,82 @@
+{
+  "number": 122,
+  "title": {
+    "en": "The Bedtime Shema: Ending Your Day with God",
+    "zh": "睡前示玛经：与神结束一天",
+    "he": "קריאת שמע על המטה: סיום היום עם הקב\"ה"
+  },
+  "subtitle": {
+    "en": "Kriat Shema Al HaMitah - A Sacred Bridge Between Day and Night",
+    "zh": "克利亚特·示玛·阿尔·哈米塔 - 昼夜之间的神圣桥梁",
+    "he": "קריאת שמע על המטה - גשר קדוש בין יום ולילה"
+  },
+  "section": "prayer",
+  "date": "2026-03-18",
+  "author": "Torah Light",
+  "tags": {
+    "en": ["bedtime prayers", "Kriat Shema Al HaMitah", "Jewish tradition", "sleep", "forgiveness", "protection", "night prayers", "Birkat HaMapil", "Shema", "spiritual practice"],
+    "zh": ["睡前祈祷", "克利亚特示玛阿尔哈米塔", "犹太传统", "睡眠", "宽恕", "保护", "夜祷", "哈马皮勒祝福", "示玛经", "精神实践"],
+    "he": ["תפילות לפני השינה", "קריאת שמע על המטה", "מסורת יהודית", "שינה", "סליחה", "הגנה", "תפילות לילה", "ברכת המפיל", "קריאת שמע", "תרגול רוחני"]
+  },
+  "keywords": {
+    "en": ["bedtime Shema", "nighttime prayers", "Jewish sleep ritual", "forgiveness practice", "Hamapil blessing"],
+    "zh": ["睡前示玛", "夜间祈祷", "犹太睡眠仪式", "宽恕实践", "哈马皮勒祝福"],
+    "he": ["קריאת שמע על המטה", "תפילות לילה", "טקס שינה יהודי", "תרגול סליחה", "ברכת המפיל"]
+  },
+  "description": {
+    "en": "Explore the sacred Jewish practice of bedtime Shema, including the full text and meaning of Kriat Shema Al HaMitah, the prayers said before sleep, and the transformative practice of forgiving others before rest.",
+    "zh": "探索睡前示玛经的神圣犹太实践，包括克利亚特·示玛·阿尔·哈米塔的完整文本和意义、睡前祈祷，以及在休息前宽恕他人的转化性实践。",
+    "he": "חקרו את התרגול היהודי הקדוש של קריאת שמע על המטה, כולל הטקסט המלא והמשמעות של קריאת שמע על המטה, התפילות הנאמרות לפני השינה, והתרגול המשנה חיים של סליחה לאחרים לפני המנוחה."
+  },
+  "reading_time": {
+    "en": "8 minutes",
+    "zh": "8分钟",
+    "he": "8 דקות"
+  },
+  "difficulty": "beginner",
+  "sources": [
+    {
+      "title": "Talmud Bavli, Berakhot 4b-5a",
+      "url": "https://www.sefaria.org/Berakhot.4b.7",
+      "description": "Talmudic discussion on bedtime Shema"
+    },
+    {
+      "title": "Shulchan Aruch, Orach Chaim 239",
+      "url": "https://www.sefaria.org/Shulchan_Arukh%2C_Orach_Chayim.239.1",
+      "description": "Halachic rules for bedtime prayers"
+    },
+    {
+      "title": "Bedtime Shema - My Jewish Learning",
+      "url": "https://www.myjewishlearning.com/article/bedtime-shema/",
+      "description": "Comprehensive guide to bedtime Shema practice"
+    },
+    {
+      "title": "Siddur Sim Shalom - Bedtime Shema",
+      "url": "https://www.sefaria.org/Siddur_Sim_Shalom_for_Weekdays,_Kriat_Shema_Al_HaMitah.1",
+      "description": "Traditional liturgical text"
+    },
+    {
+      "title": "Mishnah Berurah 239:4",
+      "url": "https://www.sefaria.org/Mishnah_Berurah.239.4.1",
+      "description": "Commentary on bedtime prayer laws"
+    }
+  ],
+  "related_articles": [
+    {
+      "number": 45,
+      "title": "The Daily Shema: Declaration of Divine Unity"
+    },
+    {
+      "number": 78,
+      "title": "Evening Prayers: Ending the Day with Gratitude"
+    },
+    {
+      "number": 89,
+      "title": "The Practice of Forgiveness in Jewish Tradition"
+    }
+  ],
+  "languages": ["en", "zh", "he"],
+  "featured": true,
+  "category": "daily_practice",
+  "level": "foundational"
+}

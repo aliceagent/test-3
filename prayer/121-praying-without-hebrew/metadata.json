@@ -1,0 +1,175 @@
+{
+  "id": 121,
+  "title": "How to Pray When You Don't Know Hebrew Yet",
+  "title_zh": "尚未掌握希伯来语时如何祈祷",
+  "title_he": "איך להתפלל כשעדיין לא יודעים עברית",
+  "section": "Prayer",
+  "section_zh": "祈祷",
+  "section_he": "תפילה",
+  "description": "Practical guidance for beginners who want to start davening but haven't mastered Hebrew — what to say in your own language and what to learn first.",
+  "word_count_en": 4892,
+  "word_count_zh": 3147,
+  "word_count_he": 3895,
+  "status": "published",
+  "created": "2026-03-18T15:20:00+02:00",
+  "published": "2026-03-18T15:20:00+02:00",
+  "author": "Torah Light Writing Team",
+  "tags": [
+    "Prayer",
+    "Hebrew",
+    "Davening", 
+    "Tefilah",
+    "BeginnerJudaism",
+    "Synagogue",
+    "PrayerBook",
+    "Siddur",
+    "Modeh-Ani",
+    "Shema",
+    "Amidah",
+    "Kaddish",
+    "HebrewLearning",
+    "Transliteration",
+    "Jewish-Community",
+    "Hitbodedut",
+    "Hakarat-HaTov",
+    "Eastern-Han-Dynasty",
+    "Tang-Dynasty", 
+    "Song-Dynasty",
+    "Zhu-Xi",
+    "Li-Bai",
+    "Prayer-Translation",
+    "Personal-Prayer",
+    "Liturgy",
+    "Hebrew-Alphabet",
+    "Jewish-Learning",
+    "Spiritual-Practice",
+    "Cross-Cultural-Wisdom",
+    "祈祷",
+    "希伯来语",
+    "犹太教入门",
+    "犹太会堂",
+    "祈祷书",
+    "晨起感恩",
+    "示玛祷文",
+    "立祷",
+    "卡迪什",
+    "希伯来语学习",
+    "音译",
+    "犹太社区",
+    "东汉王朝",
+    "唐朝",
+    "宋朝",
+    "朱熹",
+    "李白",
+    "תפילה",
+    "עברית",
+    "התפללות",
+    "יהדות-למתחילים",
+    "בית-כנסת",
+    "סידור",
+    "מודה-אני",
+    "שמע",
+    "עמידה",
+    "קדיש",
+    "לימוד-עברית",
+    "תעתיק",
+    "קהילה-יהודית",
+    "התבודדות",
+    "הכרת-הטוב"
+  ],
+  "chinese_dynasty_references": [
+    {
+      "dynasty": "Eastern Han Dynasty",
+      "chinese": "东汉",
+      "years": "25-220 CE",
+      "context": "Period when Jewish communities in Babylonia were praying in Aramaic rather than Hebrew, showing historical precedent for prayer in vernacular languages"
+    },
+    {
+      "dynasty": "Han Dynasty",
+      "chinese": "汉朝",
+      "years": "206 BCE - 220 CE", 
+      "context": "Chinese scholars mastered thousands of characters through patient daily practice, paralleling the approach needed for Hebrew learning"
+    },
+    {
+      "dynasty": "Tang Dynasty",
+      "chinese": "唐朝",
+      "years": "618-907 CE",
+      "context": "Li Bai (李白, 701-762 CE) wrote great verses after years of studying classical forms, showing that mastery comes through gradual practice"
+    },
+    {
+      "dynasty": "Song Dynasty", 
+      "chinese": "宋朝",
+      "years": "960-1279 CE",
+      "context": "Scholar Zhu Xi (朱熹) taught that learning requires both study (学) and reflection (习), applicable to Jewish prayer learning"
+    }
+  ],
+  "key_concepts": [
+    {
+      "english": "Prayer of the heart",
+      "hebrew": "תפילת הלב",
+      "chinese": "心祷"
+    },
+    {
+      "english": "Gratitude and recognition of the good",
+      "hebrew": "הכרת הטוב", 
+      "chinese": "感恩"
+    },
+    {
+      "english": "Holy tongue",
+      "hebrew": "לשון הקודש",
+      "chinese": "神圣语言"
+    },
+    {
+      "english": "Community",
+      "hebrew": "קהילה",
+      "chinese": "社区"
+    },
+    {
+      "english": "Personal cultivation",
+      "hebrew": "התבודדות",
+      "chinese": "修养"
+    },
+    {
+      "english": "God desires the heart",
+      "hebrew": "רחמנא ליבא בעי",
+      "chinese": "神渴望心灵"
+    },
+    {
+      "english": "A journey of a thousand miles begins with a single step",
+      "hebrew": "מסע אלף מיילים מתחיל בצעד אחד",
+      "chinese": "千里之行，始于足下"
+    }
+  ],
+  "practical_guidance": {
+    "beginner_prayers": [
+      "Modeh Ani (מודה אני) - Morning gratitude",
+      "Shema (שמע) - Declaration of faith", 
+      "Amidah (עמידה) - Standing prayer",
+      "Kaddish (קדיש) - Sanctification prayer"
+    ],
+    "learning_resources": [
+      "MyHebrew.org - Free Hebrew reading course",
+      "PrayerBook Hebrew - Liturgical Hebrew focus",
+      "Behrman House apps - Interactive Hebrew learning", 
+      "Chabad.org - Audio recordings of prayers"
+    ],
+    "community_integration": [
+      "Call synagogue ahead as newcomer",
+      "Ask for English prayer books", 
+      "Find learner's minyan or beginner services",
+      "Connect with prayer partner or mentor"
+    ]
+  },
+  "bibliography_urls": [
+    "https://www.myjewishlearning.com/article/prayer-in-judaism-an-overview/",
+    "https://aish.com/can-i-pray-in-english/",
+    "https://reformjudaism.org/learning/hebrew-prayer", 
+    "https://www.sefaria.org/sheets/236584",
+    "https://www.sefaria.org/Mishnah_Berakhot.5.1",
+    "https://www.chabad.org/library/article_cdo/aid/3528/jewish/Modeh-Ani.htm",
+    "https://www.jewishvirtuallibrary.org/personal-prayer-in-jewish-tradition",
+    "https://myhebrew.org/course/hebrew-reading/",
+    "https://www.sefaria.org/Berakhot.15a",
+    "https://www.jewishencyclopedia.com/articles/9032-kaddish"
+  ]
+}
