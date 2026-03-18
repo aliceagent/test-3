@@ -1,0 +1,161 @@
+{
+  "id": 192,
+  "title": {
+    "en": "Rachel's Tomb, the Cave of Machpelah, and Other Ancestral Sites",
+    "zh": "拉结之墓、麦比拉洞与其他祖先圣地",
+    "he": "קבר רחל, מערת המכפלה ואתרי קבורה אבותיים נוספים"
+  },
+  "section": "israel",
+  "slug": "ancestral-burial-sites",
+  "batch": "200",
+  "topics": [
+    "Israel",
+    "Jewish Geography",
+    "Holy Sites",
+    "Patriarchs and Matriarchs",
+    "Burial Customs",
+    "Rachel",
+    "Abraham",
+    "Sarah",
+    "Cave of Machpelah",
+    "Hebron",
+    "Bethlehem",
+    "Joseph's Tomb",
+    "Pilgrimage",
+    "Jewish History",
+    "Prayer at Graves",
+    "Cultural Parallels"
+  ],
+  "keywords": {
+    "en": [
+      "Cave of Machpelah",
+      "Rachel's Tomb",
+      "Me'arat HaMachpelah",
+      "Kever Rachel",
+      "Abraham",
+      "Sarah",
+      "Isaac",
+      "Rebecca",
+      "Jacob",
+      "Leah",
+      "Rachel",
+      "Hebron",
+      "Bethlehem",
+      "Joseph's Tomb",
+      "Shechem",
+      "ancestral burial sites",
+      "Jewish pilgrimage",
+      "holy sites in Israel",
+      "patriarchs and matriarchs",
+      "tzaddikim graves"
+    ],
+    "zh": [
+      "麦比拉洞",
+      "拉结之墓",
+      "希伯伦",
+      "伯利恒",
+      "亚伯拉罕",
+      "撒拉",
+      "以撒",
+      "利百加",
+      "雅各",
+      "利亚",
+      "拉结",
+      "约瑟之墓",
+      "示剑",
+      "祖先墓地",
+      "犹太朝圣",
+      "以色列圣地",
+      "先祖",
+      "孝道",
+      "祖先崇敬",
+      "清明节"
+    ],
+    "he": [
+      "מערת המכפלה",
+      "קבר רחל",
+      "חברון",
+      "בית לחם",
+      "אברהם",
+      "שרה",
+      "יצחק",
+      "רבקה",
+      "יעקב",
+      "לאה",
+      "רחל",
+      "קבר יוסף",
+      "שכם",
+      "אתרי קבורה",
+      "עלייה לרגל",
+      "אתרים קדושים",
+      "אבות ואמהות",
+      "צדיקים"
+    ]
+  },
+  "cultural_parallels": [
+    "Chinese ancestor veneration (祖先崇拜)",
+    "Qingming Festival tomb visiting (清明节扫墓)",
+    "Filial piety (孝道)",
+    "Ancestral tablets and memorial practices",
+    "Maintaining family bonds across generations",
+    "Respect for burial sites across cultures"
+  ],
+  "target_audience": "Chinese native Mandarin speakers with no prior Jewish knowledge",
+  "learning_outcomes": [
+    "Understanding the significance of the Cave of Machpelah as the first Jewish-owned land in Israel",
+    "Learning why Rachel is buried separately and her role as eternal intercessor",
+    "Recognizing parallels between Jewish and Chinese traditions of honoring ancestors",
+    "Understanding Jewish burial customs and the practice of praying at gravesites",
+    "Appreciating the historical continuity of Jewish connection to these sites over 3,800 years"
+  ],
+  "prerequisites": [],
+  "difficulty": "beginner",
+  "estimated_reading_time": {
+    "en": "12-15 minutes",
+    "zh": "8-10 minutes",
+    "he": "10-12 minutes"
+  },
+  "word_count": {
+    "en": 3125,
+    "zh": 1372,
+    "he": 2241
+  },
+  "related_articles": [
+    187,
+    188,
+    189,
+    190,
+    191,
+    193,
+    194
+  ],
+  "sources": [
+    {
+      "type": "Torah",
+      "reference": "Genesis 23 (Purchase of Cave of Machpelah)"
+    },
+    {
+      "type": "Torah",
+      "reference": "Genesis 35:16-19 (Death and burial of Rachel)"
+    },
+    {
+      "type": "Torah",
+      "reference": "Joshua 24:32 (Burial of Joseph's bones)"
+    },
+    {
+      "type": "Prophets",
+      "reference": "Jeremiah 31:15-17 (Rachel weeping for her children)"
+    },
+    {
+      "type": "Traditional",
+      "reference": "Talmudic and Midrashic sources on burial sites"
+    }
+  ],
+  "created_date": "2026-03-18",
+  "language_versions": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "status": "complete"
+}

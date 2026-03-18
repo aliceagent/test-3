@@ -1,0 +1,207 @@
+{
+  "id": 193,
+  "title": {
+    "en": "The Negev, the Galilee, and the Jordan Valley in the Torah",
+    "zh": "妥拉中的内盖夫、加利利和约旦河谷",
+    "he": "הנגב, הגליל ועמק הירדן בתורה"
+  },
+  "slug": "biblical-geography-israel",
+  "section": "israel",
+  "batch": "200",
+  "author": "Torah Light Editorial Team",
+  "dateCreated": "2026-03-18",
+  "language": ["en", "zh", "he"],
+  "tags": [
+    "Israel",
+    "Biblical Geography",
+    "Negev",
+    "Galilee",
+    "Jordan Valley",
+    "Land of Israel",
+    "Abraham",
+    "Isaac",
+    "Joshua",
+    "Biblical Narrative",
+    "Water",
+    "Promised Land",
+    "Chinese Parallels",
+    "Silk Road",
+    "Jiangnan",
+    "Yellow River",
+    "Geography",
+    "Wilderness",
+    "Crossing the Jordan"
+  ],
+  "primarySources": [
+    "Genesis 12:9",
+    "Genesis 13:1-11",
+    "Genesis 24:62",
+    "Genesis 26:12-22",
+    "Genesis 49:21",
+    "Numbers 13:21-22",
+    "Joshua 3:15-16",
+    "Joshua 4:1-9",
+    "Joshua 6:20",
+    "Judges 4:4-6",
+    "1 Kings 18",
+    "2 Kings 2:6-8"
+  ],
+  "hebrewReferences": [
+    "בראשית יב:ט",
+    "בראשית יג:א-יא",
+    "בראשית כד:סב",
+    "בראשית כו:יב-כב",
+    "בראשית מט:כא",
+    "במדבר יג:כא-כב",
+    "יהושע ג:טו-טז",
+    "יהושע ד:א-ט",
+    "יהושע ו:כ",
+    "שופטים ד:ד-ו",
+    "מלכים א יח",
+    "מלכים ב ב:ו-ח"
+  ],
+  "culturalParallels": [
+    "Negev compared to Silk Road oases (Dunhuang, Turpan) - harsh desert environments made habitable through water management",
+    "Galilee compared to Jiangnan region (江南) - fertile, prosperous, cultural centers",
+    "Jordan River compared to Yellow River (黄河) - cultural birthplace and symbolic threshold",
+    "Desert transformation and frontier innovation in both Jewish and Chinese history",
+    "Geographic diversity shaping national identity in both traditions"
+  ],
+  "wordCount": {
+    "en": 4850,
+    "zh": 1520,
+    "he": 3180
+  },
+  "readingTime": {
+    "en": "20-25 minutes",
+    "zh": "8-10 minutes",
+    "he": "15-18 minutes"
+  },
+  "targetAudience": "Chinese native Mandarin speakers with no prior knowledge of Judaism; also suitable for anyone interested in biblical geography and the Land of Israel",
+  "difficulty": "Beginner to Intermediate",
+  "relatedArticles": [
+    187,
+    188,
+    189,
+    190,
+    191,
+    192,
+    194
+  ],
+  "bibliography": [
+    {
+      "type": "primary",
+      "title": "Genesis 12:9, 13:10-11, 24:62, 26:12, 49:21",
+      "url": "https://www.sefaria.org/Genesis",
+      "verified": true
+    },
+    {
+      "type": "primary",
+      "title": "Numbers 13:21-22",
+      "url": "https://www.sefaria.org/Numbers.13",
+      "verified": true
+    },
+    {
+      "type": "primary",
+      "title": "Joshua 3:15-16, 4:1-9, 6:20",
+      "url": "https://www.sefaria.org/Joshua",
+      "verified": true
+    },
+    {
+      "type": "primary",
+      "title": "Judges 4:4-6",
+      "url": "https://www.sefaria.org/Judges.4",
+      "verified": true
+    },
+    {
+      "type": "primary",
+      "title": "1 Kings 18",
+      "url": "https://www.sefaria.org/I_Kings.18",
+      "verified": true
+    },
+    {
+      "type": "primary",
+      "title": "2 Kings 2:6-8",
+      "url": "https://www.sefaria.org/II_Kings.2",
+      "verified": true
+    },
+    {
+      "type": "commentary",
+      "title": "Rashi on Genesis",
+      "url": "https://www.sefaria.org/Rashi_on_Genesis",
+      "verified": true
+    },
+    {
+      "type": "commentary",
+      "title": "Sforno on Genesis",
+      "url": "https://www.sefaria.org/Sforno_on_Genesis",
+      "verified": true
+    },
+    {
+      "type": "reference",
+      "title": "Anson F. Rainey and R. Steven Notley, The Sacred Bridge: Carta's Atlas of the Biblical World",
+      "publisher": "Carta, Jerusalem",
+      "year": 2006
+    },
+    {
+      "type": "reference",
+      "title": "Yohanan Aharoni, The Land of the Bible: A Historical Geography",
+      "publisher": "Westminster Press, Philadelphia",
+      "year": 1979
+    },
+    {
+      "type": "article",
+      "title": "The Geography of the Land of Israel",
+      "publisher": "My Jewish Learning",
+      "url": "https://www.myjewishlearning.com/article/geography-of-israel/",
+      "verified": false
+    },
+    {
+      "type": "article",
+      "title": "Biblical Geography: The Negev",
+      "publisher": "Chabad.org",
+      "url": "https://www.chabad.org/library/article_cdo/aid/4396662/jewish/The-Negev.htm",
+      "verified": false
+    },
+    {
+      "type": "article",
+      "title": "The Galilee in Jewish History",
+      "publisher": "Jewish Virtual Library",
+      "url": "https://www.jewishvirtuallibrary.org/the-galilee",
+      "verified": false
+    },
+    {
+      "type": "article",
+      "title": "Crossing the Jordan River",
+      "publisher": "Aish.com",
+      "url": "https://aish.com/crossing-the-jordan/",
+      "verified": false
+    }
+  ],
+  "keywords": [
+    "biblical geography",
+    "Negev desert",
+    "Galilee",
+    "Jordan Valley",
+    "Jordan River",
+    "Land of Israel",
+    "Abraham",
+    "Isaac",
+    "Joshua",
+    "crossing the Jordan",
+    "Promised Land",
+    "biblical landscape",
+    "Chinese parallels",
+    "Silk Road",
+    "Jiangnan",
+    "Yellow River",
+    "water wisdom",
+    "frontier",
+    "transformation"
+  ],
+  "summary": {
+    "en": "An exploration of three defining regions in the Land of Israel: the Negev desert (south), the Galilee (north), and the Jordan Valley (central spine). The article traces biblical narratives in each region—from Abraham and Isaac in the Negev, to Deborah and the prophets in the Galilee, to the miraculous crossing of the Jordan River. Each region shaped Jewish character and history in unique ways. Includes cultural parallels to Chinese geography: the Negev to Silk Road oases, the Galilee to Jiangnan, and the Jordan River to the Yellow River.",
+    "zh": "探讨以色列地的三个决定性区域:内盖夫沙漠(南部)、加利利(北部)和约旦河谷(中央脊柱)。文章追溯每个地区的圣经叙事——从内盖夫的亚伯拉罕和以撒,到加利利的底波拉和先知,再到约旦河的神奇渡河。每个地区都以独特的方式塑造了犹太人的品格和历史。包括与中国地理的文化相似之处:内盖夫与丝绸之路绿洲、加利利与江南、约旦河与黄河。",
+    "he": "חקירה של שלושה אזורים מגדירים בארץ ישראל: מדבר הנגב (דרום), הגליל (צפון) ועמק הירדן (עמוד השדרה המרכזי). המאמר עוקב אחר נרטיבים מקראיים בכל אזור - מאברהם ויצחק בנגב, דרך דבורה והנביאים בגליל, ועד חציית הירדן הנסית. כל אזור עיצב את האופי וההיסטוריה היהודית בדרכים ייחודיות. כולל הקבלות תרבותיות לגיאוגרפיה סינית: הנגב לנוואות דרך המשי, הגליל לג'יאנגנאן, ונהר הירדן לנהר הצהוב."
+  }
+}
