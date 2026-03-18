@@ -1,0 +1,91 @@
+{
+  "id": 203,
+  "title": {
+    "en": "Shabbat in the Summer vs. Winter: Adjusting When Days Are Long or Short",
+    "zh": "夏季与冬季的安息日:当白昼长短变化时如何调整",
+    "he": "שבת בקיץ מול חורף: התאמה כאשר הימים ארוכים או קצרים"
+  },
+  "section": "shabbat",
+  "slug": "shabbat-summer-winter",
+  "batch": "300",
+  "author": "Torah Light Editorial Team",
+  "created": "2026-03-19",
+  "status": "published",
+  "wordCount": {
+    "en": 1487,
+    "zh": 1203,
+    "he": 1342
+  },
+  "topics": [
+    "Shabbat observance",
+    "Seasonal variations",
+    "Jewish time calculation",
+    "Halachic hours",
+    "Tosefet Shabbat",
+    "Early Shabbat",
+    "Chinese cultural parallels"
+  ],
+  "keywords": [
+    "Shabbat times",
+    "summer Shabbat",
+    "winter Shabbat",
+    "candle lighting",
+    "sunset",
+    "three stars",
+    "plag hamincha",
+    "sha'ot zemaniyot",
+    "halachic hours",
+    "seasonal hours",
+    "Chinese calendar",
+    "solar terms",
+    "jiéqì"
+  ],
+  "targetAudience": "Chinese Mandarin speakers learning about Orthodox Jewish practice",
+  "difficulty": "intermediate",
+  "culturalConnections": [
+    "Chinese lunisolar calendar system",
+    "Solar terms (节气, jiéqì) for agricultural planning",
+    "Dragon Boat Festival date variations",
+    "时辰 (shíchen) double-hours system",
+    "Alignment with celestial cycles vs. clock time"
+  ],
+  "practicalApplications": [
+    "How to handle late summer candle lighting",
+    "Strategies for early winter Shabbat preparation",
+    "Using early Shabbat (Tosefet Shabbat) option",
+    "Adjusting family meals for seasonal variations",
+    "Using Zmanim apps and community calendars"
+  ],
+  "bibliography": [
+    {
+      "title": "MyZmanim.com",
+      "url": "https://www.myzmanim.com",
+      "type": "tool",
+      "description": "Calculate precise Shabbat times for any location"
+    },
+    {
+      "title": "Chabad.org: Candle Lighting Times",
+      "url": "https://www.chabad.org/calendar/candlelighting_cdo/jewish/Candle-Lighting.htm",
+      "type": "resource",
+      "description": "Weekly Shabbat times worldwide"
+    },
+    {
+      "title": "The Shabbos Home",
+      "author": "Rabbi Simcha Bunim Cohen",
+      "type": "book",
+      "description": "Comprehensive guide to Shabbat observance including time-related laws"
+    },
+    {
+      "title": "OU: Early Shabbos",
+      "url": "https://www.ou.org/life/inspiration/early-shabbos/",
+      "type": "article",
+      "description": "Guide to accepting Shabbat before sunset"
+    }
+  ],
+  "summary": {
+    "en": "An exploration of how Shabbat times shift dramatically between summer and winter, the practical challenges families face, and halachic solutions including early Shabbat. Includes parallels to Chinese lunisolar calendar systems and practical tips for each season.",
+    "zh": "探讨安息日时间在夏季和冬季之间如何显著变化,家庭面临的实际挑战,以及包括早安息日在内的犹太律法解决方案。包括与中国阴阳历系统的类比和每个季节的实用技巧。",
+    "he": "חקר כיצד זמני השבת משתנים באופן דרמטי בין קיץ לחורף, האתגרים המעשיים שמשפחות מתמודדות איתם, ופתרונות הלכתיים כולל שבת מוקדמת. כולל הקבלות למערכות הלוח השנה הסיניות וטיפים מעשיים לכל עונה."
+  },
+  "notes": "Article #203 from batch 300 (articles 201-300). Written with focus on practical challenges of seasonal Shabbat observance and cultural connections to Chinese time systems. Includes detailed explanation of early Shabbat option and halachic hours."
+}
