@@ -1,0 +1,78 @@
+{
+  "id": 198,
+  "title": "Understanding Gematria: The Numerical Values of Hebrew Letters",
+  "title_zh": "理解希伯来字母数字体系:Gematria",
+  "title_he": "הבנת גימטריה: הערכים המספריים של האותיות העבריות",
+  "section": "hebrew-learning",
+  "slug": "gematria-numerical-values",
+  "batch": "200",
+  "target_audience": "Chinese native Mandarin speakers, no background in Judaism",
+  "tone": "Educational, warm, culturally sensitive",
+  "word_count": {
+    "en": 1420,
+    "zh": 2847,
+    "he": 1850
+  },
+  "cultural_parallels": [
+    "Chinese numerology and lucky number 8 (发)",
+    "Number 18 symbolism (long-lasting/eternity in Chinese)",
+    "Number 4 avoidance (death association)",
+    "Number 9 as auspicious (久, longevity)"
+  ],
+  "key_concepts": [
+    "Gematria definition and purpose",
+    "Hebrew letter numerical values (1-400)",
+    "Classic examples: Ahavah=Echad=13, Chai=18",
+    "Nachash=Mashiach=358",
+    "Chinese-Jewish numerological parallels",
+    "Uses in Torah commentary and mystical prayer",
+    "Limitations and proper use",
+    "Different gematria systems",
+    "Beginner learning guide"
+  ],
+  "bibliography": [
+    {
+      "title": "What Is Gematria?",
+      "source": "Chabad.org",
+      "url": "https://www.chabad.org/library/article_cdo/aid/4561/jewish/What-Is-Gematria.htm"
+    },
+    {
+      "title": "Gematria: The Meaning Behind Jewish Numerology",
+      "source": "Aish.com",
+      "url": "https://www.aish.com/spirituality/gematria/"
+    },
+    {
+      "title": "Pirkei Avot and Talmudic references to gematria",
+      "source": "Sefaria.org",
+      "url": "https://www.sefaria.org"
+    },
+    {
+      "title": "Sefer Yetzirah: The Book of Creation",
+      "author": "Aryeh Kaplan",
+      "publisher": "Samuel Weiser",
+      "year": 1997,
+      "location": "York Beach"
+    },
+    {
+      "title": "The Wisdom in the Hebrew Alphabet",
+      "author": "Michael L. Munk",
+      "publisher": "Mesorah Publications",
+      "year": 1983,
+      "location": "Brooklyn"
+    },
+    {
+      "title": "Letters of Fire: Mystical Insights into the Hebrew Language",
+      "author": "Matityahu Glazerson",
+      "publisher": "Feldheim Publishers",
+      "year": 1991,
+      "location": "Jerusalem"
+    }
+  ],
+  "created": "2026-03-18",
+  "language_versions": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "status": "complete"
+}

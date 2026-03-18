@@ -1,0 +1,195 @@
+{
+  "id": 197,
+  "title": {
+    "en": "The Jewish Bookshelf: 20 Books Every New Jew Should Own",
+    "zh": "犹太书架:每位新犹太人应拥有的20本书",
+    "he": "מדף הספרים היהודי: 20 ספרים שכל יהודי חדש צריך להחזיק"
+  },
+  "section": "jewish-texts",
+  "slug": "jewish-bookshelf-20-books",
+  "summary": {
+    "en": "A curated guide to building your foundational Jewish library, featuring 20 essential books from Tanach and prayer books to practical halachic guides and inspirational works on Jewish thought and ethics.",
+    "zh": "建立犹太基础图书馆的精选指南,包含20本必备书籍,从塔纳赫和祈祷书到实用哈拉卡指南和关于犹太思想与伦理的励志作品。",
+    "he": "מדריך אוצר לבניית הספרייה היהודית הבסיסית שלך, הכולל 20 ספרים חיוניים מתנ\"ך וספרי תפילה ועד מדריכים הלכתיים מעשיים ויצירות השראה על מחשבה יהודית ומוסר."
+  },
+  "keywords": [
+    "Jewish books",
+    "Jewish library",
+    "Tanach",
+    "Siddur",
+    "Talmud",
+    "Halacha",
+    "Jewish learning",
+    "Torah study",
+    "Pirkei Avot",
+    "Jewish texts",
+    "beginner Judaism",
+    "Jewish education",
+    "Orthodox Judaism",
+    "Artscroll",
+    "Koren",
+    "Shabbat books",
+    "Jewish thought",
+    "mussar",
+    "Jewish ethics",
+    "conversion"
+  ],
+  "chineseParallels": [
+    "Scholar's study tradition and reverence for classical texts",
+    "Confucian respect for books as vessels of wisdom and ancestral connection",
+    "Systematic approach to learning similar to classical Chinese education",
+    "Parallels between Pirkei Avot and classical Chinese wisdom literature (Tao Te Ching, Three Character Classic)",
+    "Historical continuity and logical argumentation valued in both traditions"
+  ],
+  "targetAudience": [
+    "New Jews and converts beginning their observance journey",
+    "Those building their first Jewish library",
+    "Mandarin-speaking learners with no prior Jewish background",
+    "Individuals seeking practical guidance on Jewish texts and resources",
+    "Anyone wanting to understand essential Jewish books and their purposes"
+  ],
+  "bibliography": [
+    {
+      "title": "The Stone Edition Tanach",
+      "publisher": "Artscroll/Mesorah Publications",
+      "type": "Primary Jewish text",
+      "notes": "Complete Hebrew-English Bible with commentary"
+    },
+    {
+      "title": "The Koren Siddur",
+      "publisher": "Koren Publishers Jerusalem",
+      "type": "Prayer book",
+      "notes": "Daily, Shabbat, and holiday prayers"
+    },
+    {
+      "title": "The Koren Talmud Bavli",
+      "author": "Rabbi Adin Even-Israel Steinsaltz",
+      "publisher": "Koren Publishers Jerusalem",
+      "type": "Talmudic commentary",
+      "notes": "Translation and elucidation of the Babylonian Talmud"
+    },
+    {
+      "title": "The Shabbos Home",
+      "author": "Rabbi Simcha Bunim Cohen",
+      "type": "Halachic guide",
+      "notes": "Practical guide to Shabbat observance"
+    },
+    {
+      "title": "The 39 Melahos",
+      "author": "Rabbi Dovid Ribiat",
+      "type": "Halachic guide",
+      "notes": "Comprehensive treatment of work categories forbidden on Shabbat"
+    },
+    {
+      "title": "Halachos of Brachos",
+      "author": "Rabbi Yisroel Pinchos Bodner",
+      "type": "Halachic handbook",
+      "notes": "Guide to blessings with charts and examples"
+    },
+    {
+      "title": "The Laws of Cooking on the Sabbath",
+      "author": "Rabbi Yaakov Luban",
+      "type": "Halachic guide",
+      "notes": "Modern solutions for keeping food warm on Shabbat"
+    },
+    {
+      "title": "The Nineteen Letters",
+      "author": "Rabbi Samson Raphael Hirsch",
+      "type": "Jewish philosophy",
+      "notes": "Foundational text of modern Orthodox Judaism"
+    },
+    {
+      "title": "Horeb: A Philosophy of Jewish Laws and Observances",
+      "author": "Rabbi Samson Raphael Hirsch",
+      "type": "Jewish philosophy",
+      "notes": "Systematic exploration of the meaning behind mitzvot"
+    },
+    {
+      "title": "To Be A Jew",
+      "author": "Rabbi Hayim Halevy Donin",
+      "type": "Comprehensive guide",
+      "notes": "Covers beliefs, practices, and customs for beginners"
+    },
+    {
+      "title": "Living a Jewish Life",
+      "author": "Anita Diamant and Howard Cooper",
+      "type": "Contemporary guide",
+      "notes": "Modern perspective on Jewish observance"
+    },
+    {
+      "title": "Pirkei Avot: Ethics of the Fathers",
+      "type": "Mishnaic text",
+      "notes": "Wisdom teachings from ancient rabbis"
+    },
+    {
+      "title": "The Path of the Just (Mesillat Yesharim)",
+      "author": "Rabbi Moshe Chaim Luzzatto",
+      "type": "Mussar (ethical) text",
+      "notes": "18th-century classic on spiritual growth"
+    },
+    {
+      "title": "Chofetz Chaim: A Lesson A Day",
+      "author": "Rabbi Shimon Finkelman (based on works of the Chofetz Chaim)",
+      "type": "Mussar daily learning",
+      "notes": "Laws of proper speech and avoiding lashon hara"
+    },
+    {
+      "title": "Alei Shur",
+      "author": "Rabbi Shlomo Wolbe",
+      "type": "Mussar letters and essays",
+      "notes": "Character development with psychological insight"
+    },
+    {
+      "title": "A Letter in the Scroll",
+      "author": "Rabbi Jonathan Sacks",
+      "type": "Jewish thought",
+      "notes": "Exploration of Jewish identity and purpose"
+    },
+    {
+      "title": "Jewish Literacy",
+      "author": "Rabbi Joseph Telushkin",
+      "type": "Encyclopedia/reference",
+      "notes": "Comprehensive coverage of Jewish history, laws, and ethics"
+    },
+    {
+      "title": "The Kuzari",
+      "author": "Rabbi Yehuda Halevi",
+      "type": "Medieval Jewish philosophy",
+      "notes": "12th-century philosophical dialogue on Judaism's uniqueness"
+    },
+    {
+      "title": "Rebbe: The Life and Teachings of Menachem M. Schneerson",
+      "author": "Rabbi Joseph Telushkin",
+      "type": "Biography",
+      "notes": "Life of the Lubavitcher Rebbe and his impact"
+    },
+    {
+      "title": "The Koren Mesorat HaRav Kinot",
+      "publisher": "Koren Publishers Jerusalem",
+      "type": "Prayer book",
+      "notes": "Lamentations for Tisha B'Av with commentary"
+    }
+  ],
+  "wordCount": {
+    "en": 2350,
+    "zh": 1340,
+    "he": 1950
+  },
+  "dateCreated": "2026-03-18",
+  "author": "Torah Light Project",
+  "culturalNotes": "Article draws parallels to Chinese scholarly traditions, including reverence for classical texts, the scholar's study as a symbol of wisdom pursuit, and similarities between Jewish ethical literature (Pirkei Avot) and Chinese wisdom classics (Tao Te Ching, Three Character Classic). Emphasizes systematic learning and historical continuity valued in both Chinese and Jewish traditions.",
+  "practicalApplication": [
+    "Prioritized purchasing guide: which 5 books to buy first",
+    "Structured approach to building library over time",
+    "Where to purchase books (international and China-specific resources)",
+    "Guidance on physical vs digital texts and when each is appropriate",
+    "Traditional Jewish care practices for sacred books"
+  ],
+  "relatedArticles": [
+    195,
+    198,
+    162,
+    166,
+    160
+  ]
+}
