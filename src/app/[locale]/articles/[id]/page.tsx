@@ -2,32 +2,32 @@
 
 import { useParams } from "next/navigation";
 import { useLocale } from "next-intl";
-import { useState, useEffect } from "react";
+import { useState, useEffect, useMemo } from "react";
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
 import { Link } from "@/i18n/navigation";
 import { supabase } from "@/lib/supabase";
+import { getArticleById, getArticlesBySection } from "@/lib/articles";
+import type { Article } from "@/lib/articles";
 import ArticleFeedback from "@/components/ArticleFeedback";
-
-interface Article {
-  id: number;
-  section: string;
-  title_en: string;
-  title_zh: string;
-  title_he: string;
-  body_en: string;
-  body_zh: string;
-  body_he: string;
-  created_at: string;
-  updated_at: string;
-}
 
 export default function ArticlePage() {
   const params = useParams();
   const locale = useLocale();
-  const [article, setArticle] = useState<Article | null>(null);
-  const [loading, setLoading] = useState(true);
-  const [relatedArticles, setRelatedArticles] = useState<Article[]>([]);
+  const articleId = Number(params.id);
+
+  // Load from static data immediately
+  const article = useMemo(() => getArticleById(articleId) || null, [articleId]);
+  const relatedArticles = useMemo(
+    () =>
+      article
+        ? getArticlesBySection(article.section)
+            .filter((a) => a.id !== article.id)
+            .slice(0, 5)
+        : [],
+    [article]
+  );
+  const loading = false;
 
   // Edit suggestion state
   const [editing, setEditing] = useState(false);
@@ -44,40 +44,6 @@ export default function ArticlePage() {
   });
   const [submitting, setSubmitting] = useState(false);
   const [submitted, setSubmitted] = useState(false);
-
-  useEffect(() => {
-    let cancelled = false;
-    const articleId = params.id as string;
-
-    supabase
-      .from("articles")
-      .select("*")
-      .eq("id", articleId)
-      .single()
-      .then(({ data }) => {
-        if (cancelled) return;
-        if (data) {
-          setArticle(data);
-          supabase
-            .from("articles")
-            .select("id, section, title_en, title_zh, title_he, created_at")
-            .eq("section", data.section)
-            .neq("id", data.id)
-            .order("created_at", { ascending: false })
-            .limit(5)
-            .then(({ data: related }) => {
-              if (!cancelled && related) {
-                setRelatedArticles(related as Article[]);
-              }
-            });
-        }
-        setLoading(false);
-      });
-
-    return () => {
-      cancelled = true;
-    };
-  }, [params.id]);
 
   function getTitle(a: Article): string {
     if (locale === "zh") return a.title_zh || a.title_en;
