@@ -36,16 +36,21 @@ export default function CommunityPage() {
 
   useEffect(() => {
     let cancelled = false;
-    supabase
-      .from("forum_posts")
-      .select("*, forum_replies(*)")
-      .order("created_at", { ascending: false })
-      .then(({ data, error }) => {
+    async function fetchPosts() {
+      try {
+        const { data, error } = await supabase
+          .from("forum_posts")
+          .select("*, forum_replies(*)")
+          .order("created_at", { ascending: false });
         if (!cancelled) {
           if (!error && data) setPosts(data);
           setLoadingPosts(false);
         }
-      });
+      } catch {
+        if (!cancelled) setLoadingPosts(false);
+      }
+    }
+    fetchPosts();
     return () => { cancelled = true; };
   }, [refreshKey]);
 
