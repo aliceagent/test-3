@@ -1,0 +1,60 @@
+{
+  "id": 178,
+  "title": "Tikkun Olam: Repairing the World — What It Really Means",
+  "title_zh": "修补世界(Tikkun Olam):这个概念的真正含义",
+  "title_he": "תיקון עולם: לתקן את העולם — מה זה באמת אומר",
+  "section": "mussar",
+  "slug": "tikkun-olam-meaning",
+  "batch": "200",
+  "author": "Torah Light Team",
+  "date_created": "2026-03-18",
+  "word_count": {
+    "en": 3200,
+    "zh": 2850,
+    "he": 2900
+  },
+  "summary": {
+    "en": "An exploration of the authentic meaning of 'tikkun olam' (repairing the world) in Jewish tradition, from its legal origins in the Mishnah through its mystical transformation in Kabbalah to its modern reinterpretation as social justice. Includes practical guidance for genuine world-repair rooted in Torah, mitzvot, and character development.",
+    "zh": "探索犹太传统中"修补世界"(tikkun olam)的真实含义,从其在《密西拿》中的法律起源,到卡巴拉中的神秘转变,再到现代对社会正义的重新诠释。包括根植于托拉、诫命和品格发展的真正世界修复的实践指导。",
+    "he": "חקירה של המשמעות האותנטית של 'תיקון עולם' במסורת היהודית, ממקורותיו המשפטיים במשנה דרך השינוי המיסטי בקבלה ועד לפרשנות המודרנית שלו כצדק חברתי. כולל הדרכה מעשית לתיקון עולם אמיתי המושרש בתורה, במצוות ובפיתוח אופי."
+  },
+  "keywords": [
+    "tikkun olam",
+    "repairing the world",
+    "mussar",
+    "character development",
+    "social justice",
+    "Kabbalah",
+    "Mishnah",
+    "mitzvot",
+    "chesed",
+    "修补世界",
+    "תיקון עולם"
+  ],
+  "topics": [
+    "Ethics and Mussar",
+    "Jewish Philosophy",
+    "Kabbalah and Mysticism",
+    "Jewish Law and Practice",
+    "Social Responsibility"
+  ],
+  "difficulty": "intermediate",
+  "target_audience": "Chinese Mandarin speakers learning about Judaism",
+  "cultural_parallels": [
+    "Confucian concept of 'rectifying names' (正名, zhèng míng)",
+    "Chinese philosophical principle of '修身齐家治国平天下' (self-cultivation leading to world harmony)",
+    "Yijing (Book of Changes) concepts of restoring balance and harmony"
+  ],
+  "sources": [
+    "Mishnah Gittin 4:2-9",
+    "Babylonian Talmud, Shabbat 31a",
+    "Rabbi Isaac Luria (Arizal), Etz Chaim",
+    "Rabbi Moshe Chaim Luzzatto, Mesillat Yesharim",
+    "Pirkei Avot (Ethics of the Fathers)"
+  ],
+  "bibliography_verified": true,
+  "translation_quality": "native",
+  "chinese_cultural_sensitivity": "high",
+  "practical_applications": true,
+  "status": "complete"
+}

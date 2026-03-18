@@ -1,0 +1,95 @@
+{
+  "id": 177,
+  "title": "Dan L'Kaf Zechut: Judging Others Favorably",
+  "title_zh": "有利判断他人:犹太智慧中的"宽以待人"",
+  "title_he": "דן לכף זכות: לשפוט אחרים לטובה",
+  "section": "mussar",
+  "slug": "dan-lkaf-zechut",
+  "batch": "200",
+  "sources": [
+    {
+      "type": "primary",
+      "text": "Pirkei Avot 1:6",
+      "description": "Core teaching by Yehoshua ben Perachya on judging favorably"
+    },
+    {
+      "type": "talmud",
+      "text": "Talmud Shabbat 127b",
+      "description": "Story of the laborer and employer demonstrating dan l'kaf zechut; teaching that those who judge favorably are themselves judged favorably"
+    },
+    {
+      "type": "halacha",
+      "text": "Rambam's Commentary on Pirkei Avot 1:6",
+      "description": "Maimonides' explanation of when and how to judge favorably"
+    },
+    {
+      "type": "mussar",
+      "text": "Chofetz Chaim (Rabbi Yisrael Meir Kagan) on Shmirat HaLashon",
+      "description": "Guidance on balancing favorable judgment with communal protection"
+    },
+    {
+      "type": "chinese_parallel",
+      "text": "Confucius, Analects (论语)",
+      "description": "己所不欲,勿施于人 - The Golden Rule creating space for understanding others"
+    },
+    {
+      "type": "chinese_parallel",
+      "text": "Zhuangzi (庄子)",
+      "description": "Empty boat parable - anger depends on assumptions about intention"
+    },
+    {
+      "type": "chinese_parallel",
+      "text": "Zhu Xi (朱熹)",
+      "description": "恕道 - The way of forbearance and putting oneself in others' positions"
+    }
+  ],
+  "tags": [
+    "mussar",
+    "ethics",
+    "interpersonal-relations",
+    "pirkei-avot",
+    "judgment",
+    "compassion",
+    "trust",
+    "community",
+    "high-holidays",
+    "chinese-parallels",
+    "confucianism",
+    "daoism"
+  ],
+  "key_concepts": [
+    "Dan l'kaf zechut (judging favorably)",
+    "Midah keneged midah (measure for measure)",
+    "Benefit of the doubt",
+    "Compassionate interpretation",
+    "Chinese parallel: 给面子 (giving face)",
+    "Chinese parallel: 宽容 (tolerance)",
+    "Chinese parallel: 恕道 (way of forbearance)",
+    "Trust building",
+    "Self-examination of biases"
+  ],
+  "target_audience": "Chinese readers new to Judaism seeking practical ethical guidance with cultural bridges",
+  "word_count": {
+    "en": 1440,
+    "zh": 1650,
+    "he": 1420
+  },
+  "chinese_cultural_bridges": [
+    "给面子 (gěi miànzi) - giving face as parallel to favorable judgment",
+    "宽容 (kuānróng) - tolerance and magnanimity",
+    "Confucian Golden Rule: 己所不欲,勿施于人",
+    "Zhuangzi's empty boat teaching about assumptions and anger",
+    "Zhu Xi's 恕道 (way of forbearance)",
+    "吕坤's teaching on treating others with leniency"
+  ],
+  "practical_applications": [
+    "When someone doesn't respond to messages",
+    "When someone is short-tempered",
+    "When commitments are broken",
+    "When work falls short",
+    "When receiving criticism"
+  ],
+  "created_date": "2026-03-18",
+  "author": "Torah Light Project",
+  "language_versions": ["en", "zh", "he"]
+}
