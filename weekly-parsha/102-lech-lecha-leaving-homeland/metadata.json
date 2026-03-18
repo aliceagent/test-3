@@ -1,0 +1,63 @@
+{
+  "id": 102,
+  "title": {
+    "en": "Lech Lecha: Leaving Everything Behind to Follow God",
+    "zh": "利克利卡：离开一切跟随神",
+    "he": "לך לך: לעזוב הכל כדי לללכת אחרי אלוהים"
+  },
+  "section": "weekly-parsha",
+  "slug": "lech-lecha-leaving-homeland",
+  "summary": {
+    "en": "Abraham's radical leap of faith in leaving his homeland — and what it means for anyone starting a new spiritual journey.",
+    "zh": "亚伯拉罕离开家园的激进信仰跨越——以及它对开始新属灵旅程的人意味着什么。",
+    "he": "הקפיצה האמונית הרדיקלית של אברהם בעזיבת מולדתו — ומה זה אומר לכל מי שמתחיל מסע רוחני חדש."
+  },
+  "tags": {
+    "en": ["Abraham", "LechLeka", "Faith", "Trust", "SpiritualJourney", "Genesis", "WeeklyParsha", "TorahStudy"],
+    "zh": ["亚伯拉罕", "利克利卡", "信仰", "信任", "属灵旅程", "创世记", "每周妥拉", "妥拉研习", "商朝", "离开舒适区", "精神成长"],
+    "he": ["אברהם", "לך_לך", "אמונה", "אמון", "מסע_רוחני", "בראשית", "פרשת_השבוע", "לימוד_תורה", "שושלת_שאנג", "עזיבת_אזור_נוחות", "צמיחה_רוחנית"]
+  },
+  "word_count": {
+    "en": 2847,
+    "zh": 1247,
+    "he": 2156
+  },
+  "chinese_dynasties": [
+    {
+      "dynasty": "商朝 (Shang Dynasty)",
+      "period": "~1600-1046 BCE",
+      "connection": "Abraham's historical period corresponds to China's Shang Dynasty"
+    }
+  ],
+  "header_image_prompt": "A serene Chinese shan shui (山水) landscape painting depicting a lone traveler with a walking staff journeying across a vast mountain valley. Traditional ink wash technique with muted earth tones of sage green, warm beige, and soft gray. In the foreground, an elderly bearded figure (Abraham) in flowing robes stands at the edge of a cliff overlooking an endless vista of rolling hills and distant peaks. A small caravan of camels and tents is visible in the valley below. The sky shows subtle touches of golden light breaking through misty clouds, symbolizing divine guidance. The composition evokes themes of trust, journey, and spiritual calling. Style: classical Chinese brushstroke painting reminiscent of Song Dynasty landscape masters.",
+  "biblical_references": [
+    {
+      "verse": "Genesis 12:1",
+      "text": "Now the Lord said unto Abram: 'Get thee out of thy country, and from thy kindred, and from thy father's house, unto the land that I will show thee.'",
+      "theme": "Divine calling to leave homeland"
+    },
+    {
+      "verse": "Genesis 12:2-3",
+      "text": "And I will make of thee a great nation, and I will bless thee, and make thy name great; and be thou a blessing. And I will bless them that bless thee, and him that curseth thee will I curse; and in thee shall all the families of the earth be blessed.",
+      "theme": "God's promises to Abraham"
+    }
+  ],
+  "author": "Torah Light AI Writer",
+  "created_date": "2026-03-18",
+  "last_modified": "2026-03-18",
+  "status": "completed",
+  "target_audience": "Chinese native Mandarin speakers with no prior Jewish knowledge",
+  "cultural_parallels": [
+    "Chinese merchant ventures on ancient trade routes",
+    "Laozi's teachings about leaving societal conventions",
+    "Chinese immigrant experiences leaving ancestral lands",
+    "Confucian emphasis on moral calling over conventional career"
+  ],
+  "key_themes": [
+    "Faith without sight",
+    "Leaving comfort zones for growth", 
+    "Divine calling and human response",
+    "Cultural transitions and identity formation",
+    "Historical parallels between ancient civilizations"
+  ]
+}

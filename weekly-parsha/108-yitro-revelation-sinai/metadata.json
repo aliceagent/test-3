@@ -1,0 +1,128 @@
+{
+  "id": 108,
+  "title": {
+    "en": "Yitro: The Moment That Changed History — Receiving the Torah at Sinai",
+    "zh": "叶忒罗篇：改变历史的时刻——在西奈山接受律法",
+    "he": "יתרו: הרגע שהשפיע על ההיסטוריה — קבלת התורה בהר סיני"
+  },
+  "section": "weekly-parsha",
+  "slug": "yitro-revelation-sinai",
+  "description": {
+    "en": "A detailed look at the revelation at Mount Sinai, the preparation of the people, and why every Jewish soul was present.",
+    "zh": "详细审视西奈山启示、人民的准备，以及为什么每个犹太灵魂都在场的原因。",
+    "he": "מבט מפורט על ההתגלות בהר סיני, הכנת העם, ומדוע כל נשמה יהודית הייתה נוכחת."
+  },
+  "parsha": "Yitro",
+  "chineseDynasty": "商朝 (Shang Dynasty, ~1600-1046 BCE)",
+  "biblicalPeriod": "Exodus from Egypt, Revelation at Sinai (~1300 BCE)",
+  "headerImagePrompt": "A majestic Chinese brushstroke landscape depicting Mount Sinai with billowing clouds and lightning, rendered in traditional shan shui (山水) ink wash style. The mountain peaks pierce through layers of mist, while small figures of the Israelites gather at the base. Vertical rock formations echo Chinese mountain paintings, with subtle golden light breaking through storm clouds. The composition uses deep blacks, grays, and touches of warm earth tones, conveying both divine power and reverent awe in classical Chinese artistic tradition.",
+  "tags": {
+    "en": [
+      "Yitro",
+      "Torah",
+      "MountSinai",
+      "TenCommandments", 
+      "Revelation",
+      "Jethro",
+      "Moses",
+      "Preparation",
+      "UniversalWisdom",
+      "Jewish",
+      "WeeklyParsha",
+      "Divine",
+      "Leadership",
+      "Moral",
+      "History",
+      "Sinai",
+      "God",
+      "Law",
+      "Commandments",
+      "Wisdom"
+    ],
+    "zh": [
+      "叶忒罗",
+      "律法",
+      "西奈山",
+      "十诫",
+      "启示",
+      "叶忒罗",
+      "摩西",
+      "商朝",
+      "准备",
+      "普遍智慧",
+      "犹太",
+      "每周律法段",
+      "神圣",
+      "领导",
+      "道德",
+      "历史",
+      "西奈",
+      "神",
+      "法律",
+      "诫命",
+      "智慧"
+    ],
+    "he": [
+      "יתרו",
+      "תורה",
+      "הרסיני",
+      "עשרתהדברות",
+      "התגלות",
+      "יתרו",
+      "משה",
+      "商朝",
+      "הכנה",
+      "חוכמהאוניברסלית",
+      "יהודי",
+      "פרשתהשבוע",
+      "אלוהי",
+      "מנהיגות",
+      "מוסר",
+      "היסטוריה",
+      "סיני",
+      "אלוהים",
+      "חוק",
+      "מצוות",
+      "חוכמה"
+    ]
+  },
+  "wordCounts": {
+    "en": 1894,
+    "zh": 1156,
+    "he": 1823
+  },
+  "bibliography": [
+    {
+      "title": "Parashat Yitro: What preceded the receiving of the Torah?",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/judaism/torah-portion/parashat-yitro-what-preceded-the-receiving-of-the-torah-657835",
+      "description": "Analysis of the revelation at Mount Sinai and its historical significance"
+    },
+    {
+      "title": "The Revelation on Mount Sinai",
+      "source": "Chabad.org",
+      "url": "https://www.chabad.org/library/article_cdo/aid/246632/jewish/The-Revelation-on-Mount-Sinai.htm",
+      "description": "Traditional Jewish understanding of the Sinai experience"
+    },
+    {
+      "title": "A Nation of Leaders",
+      "source": "Covenant & Conversation by Rabbi Sacks",
+      "url": "https://rabbisacks.org/covenant-conversation/yitro/a-nation-of-leaders/",
+      "description": "Commentary on Jethro's advice and the democratization of leadership"
+    },
+    {
+      "title": "Exodus 19-20",
+      "source": "Sefaria.org",
+      "url": "https://www.sefaria.org/Exodus.19-20",
+      "description": "Primary biblical text with commentaries by Rashi, Ibn Ezra, and others"
+    },
+    {
+      "title": "Encounters Between Chinese and Jewish Civilizations",
+      "source": "Association for Asian Studies",
+      "url": "https://www.asianstudies.org/publications/eaa/archives/encounters-between-chinese-and-jewish-civilizations/",
+      "description": "Historical comparison of Chinese and Jewish civilizational development"
+    }
+  ],
+  "created": "2026-03-18T09:12:00Z",
+  "status": "completed"
+}

@@ -1,0 +1,115 @@
+{
+  "article": {
+    "id": 106,
+    "title": {
+      "en": "Vayishlach: Wrestling with an Angel — When Struggle Leads to Growth",
+      "zh": "瓦耶什拉赫: 与天使摔跤 — 当挣扎带来成长",
+      "he": "וַיִּשְׁלַח: נִאְבָקוּת עִם מַלְאָךְ — כַּאֲשֶׁר מַאֲבָק מוֹבִיל לְצִמִיחָה"
+    },
+    "section": "weekly-parsha",
+    "slug": "vayishlach-wrestling-angel",
+    "batch": 200,
+    "status": "completed"
+  },
+  "content": {
+    "word_count": {
+      "en": 2841,
+      "zh": 987,
+      "he": 2156
+    },
+    "character_count": {
+      "zh": 3946,
+      "he": 8734
+    },
+    "reading_time": {
+      "en": "11 minutes",
+      "zh": "6 minutes", 
+      "he": "9 minutes"
+    }
+  },
+  "themes": [
+    "struggle",
+    "transformation", 
+    "identity",
+    "divine encounter",
+    "persistence",
+    "blessing",
+    "growth through difficulty"
+  ],
+  "characters": [
+    "Jacob/Israel",
+    "Angel/Divine Being", 
+    "Esau"
+  ],
+  "historical_context": {
+    "jewish_period": "Patriarchal Period",
+    "approximate_date": "~1800-1500 BCE",
+    "chinese_equivalent": "Shang Dynasty (商朝)",
+    "chinese_dates": "~1600-1046 BCE"
+  },
+  "cultural_parallels": [
+    "Tai Chi philosophy",
+    "I Ching concepts",
+    "Confucian self-cultivation (修身)",
+    "Chinese martial arts principles"
+  ],
+  "header_image": {
+    "style": "Chinese brushstroke/shan shui (山水) landscape",
+    "description": "A serene Chinese ink wash painting depicting a lone figure wrestling with a luminous being beside a flowing river at dawn, combining traditional mountain landscapes with spiritual transformation themes",
+    "mood": "contemplative yet dramatic",
+    "colors": "deep blacks and grays with touches of gold and soft pink"
+  },
+  "tags": {
+    "en": ["#Vayishlach", "#Jacob", "#Israel", "#Wrestling", "#Struggle", "#Growth", "#Transformation", "#Angel", "#Blessing", "#Identity", "#WeeklyParsha", "#Torah"],
+    "zh": ["#瓦耶什拉赫", "#雅各", "#以色列", "#摔跤", "#挣扎", "#成长", "#转变", "#天使", "#祝福", "#身份", "#每周篇章", "#妥拉", "#商朝", "#修身"],
+    "he": ["#וישלח", "#יעקב", "#ישראל", "#נאבקות", "#מאבק", "#צמיחה", "#שינוי", "#מלאך", "#ברכה", "#זהות", "#פרשת_שבוע", "#תורה", "#שאנג", "#商朝", "#טיפוח_עצמי"]
+  },
+  "bibliography": [
+    {
+      "title": "Genesis Chapter 32",
+      "source": "Sefaria.org",
+      "url": "https://www.sefaria.org/Genesis.32",
+      "description": "Complete Hebrew text with parallel translations and traditional commentaries",
+      "type": "primary_source"
+    },
+    {
+      "title": "The Struggle of Jacob", 
+      "source": "Rashi's Commentary",
+      "url": "https://www.sefaria.org/Rashi_on_Genesis.32.25",
+      "description": "Classical rabbinic interpretation of the wrestling episode",
+      "type": "commentary"
+    },
+    {
+      "title": "Jacob's Wrestling Match",
+      "source": "Chabad.org", 
+      "url": "https://www.chabad.org/library/article_cdo/aid/3679/jewish/Jacobs-Wrestling-Match.htm",
+      "description": "Contemporary analysis of the spiritual significance",
+      "type": "analysis"
+    },
+    {
+      "title": "The Name Israel Explained",
+      "source": "Aish.com",
+      "url": "https://www.aish.com/atr/The-Name-Israel-Explained.html", 
+      "description": "Exploration of the meaning and significance of the name change",
+      "type": "educational"
+    },
+    {
+      "title": "Parashat Vayishlach: The Wrestling Match",
+      "source": "Torah.org",
+      "url": "https://torah.org/torah-portion/dwartorah-5781-vayishlach/",
+      "description": "Weekly Torah portion commentary and insights", 
+      "type": "weekly_commentary"
+    }
+  ],
+  "created": "2026-03-18",
+  "author": "Torah Light Article Writer",
+  "validation": {
+    "chinese_minimum_chars": true,
+    "hebrew_version_complete": true,
+    "bibliography_verified": true,
+    "cultural_parallels_included": true,
+    "historical_context_mapped": true,
+    "header_image_described": true,
+    "all_languages_tagged": true
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": 110,
+  "title": {
+    "en": "Behar-Bechukotai: The Shmitah Year and Trusting God with Your Livelihood",
+    "zh": "比哈尔-比丘科泰：安息年与对神供应的信靠",
+    "he": "בהר-בחוקותי: שנת השמיטה והבטחון באל בפרנסה"
+  },
+  "section": "weekly-parsha",
+  "slug": "behar-shmitah-trust",
+  "torah_portion": ["Behar", "Bechukotai"],
+  "torah_reference": "Leviticus 25:1-27:34",
+  "chinese_historical_period": {
+    "name": "Shang Dynasty",
+    "chinese": "商朝",
+    "dates": "~1600-1046 BCE",
+    "notes": "Period when agricultural innovation and bronze technology developed in China"
+  },
+  "themes": [
+    "Trust in divine providence",
+    "Economic faith",
+    "Sabbatical rest",
+    "Agricultural cycles",
+    "Business ethics",
+    "Social justice",
+    "Community support"
+  ],
+  "modern_applications": [
+    "Entrepreneurship and trust",
+    "Work-life balance",
+    "Economic anxiety",
+    "Sabbatical planning",
+    "Generous giving",
+    "Community economics"
+  ],
+  "tags": {
+    "en": ["Shmitah", "Trust", "Faith", "Sabbatical", "DivineProvision", "Behar", "Bechukotai", "Economics", "Business", "Rest", "WeeklyParsha"],
+    "zh": ["安息年", "信靠", "信心", "神供应", "比哈尔", "比丘科泰", "经济学", "商业", "安息", "商朝", "每周妥拉段"],
+    "he": ["שמיטה", "בטחון", "אמונה", "שבתון", "השגחה", "בהר", "בחוקותי", "כלכלה", "עסקים", "מנוחה", "שושלת_שאנג", "פרשה_שבועית"]
+  },
+  "word_count": {
+    "en": 1458,
+    "zh": 1089,
+    "he": 1321
+  },
+  "character_count": {
+    "zh": 3288
+  },
+  "dalle_prompt": "A serene Chinese ink wash (水墨) landscape showing agricultural terraces in late spring, with some fields deliberately left untilled and wild while others show abundant growth. Farmers in traditional robes contemplating the untended fields under a vast sky. Rolling mountains fade into mist in the background. The composition emphasizes trust, rest, and divine provision. Painted in the shan shui (山水) style with muted earth tones of gray, black, and subtle green, conveying peace and spiritual reflection.",
+  "bibliography_urls": [
+    "https://www.chabad.org/parshah/default_cdo/aid/15585/jewish/Behar-Bechukotai.htm",
+    "https://bibleproject.com/bible/nlt/leviticus/25/",
+    "https://reformjudaism.org/learning/torah-study/torah-commentary/letting-our-land-rest-shmitah-and-release-expectations",
+    "https://www.ifcj.org/learn/holy-land-moments/daily-devotionals/shmita-the-sabbatical-year",
+    "https://www.cgg.org/index.cfm/library/bqa/id/158/how-do-land-sabbath-jubilee-years-work-leviticus-25.htm"
+  ],
+  "created": "2026-03-18",
+  "status": "completed"
+}
