@@ -1,0 +1,33 @@
+{
+  "articleNumber": 126,
+  "title": {
+    "en": "The Shehecheyanu: Celebrating Life's Special Moments",
+    "zh": "שהחיינו祈祷：庆祝生命中的特殊时刻", 
+    "he": "שֶׁהֶחֱיָנוּ: חגיגת הרגעים המיוחדים בחיים"
+  },
+  "section": "blessings",
+  "description": {
+    "en": "When to say this beloved blessing — new fruits, new clothes, holidays, and milestones — and why gratitude for 'firsts' matters.",
+    "zh": "何时诵读这个珍贵的祈祷文——新水果、新衣服、节日和里程碑——以及为什么对'第一次'的感恩如此重要。",
+    "he": "מתי לומר את הברכה החביבה הזו - פירות חדשים, בגדים חדשים, חגים וציוני דרך - ומדוע הכרת הטוב על 'פעמים ראשונות' חשובה."
+  },
+  "tags": {
+    "en": ["blessing", "gratitude", "shehecheyanu", "new fruits", "holidays", "celebration", "jewish law", "talmud"],
+    "zh": ["祈祷", "感恩", "שהחיינו", "新水果", "节日", "庆典", "犹太法", "塔木德"],
+    "he": ["ברכה", "הכרת הטוב", "שהחיינו", "פירות חדשים", "חגים", "חגיגה", "הלכה", "תלמוד"]
+  },
+  "date": "2026-03-18",
+  "author": "Torah Light",
+  "sources": [
+    "https://www.sefaria.org/Berakhot.37b",
+    "https://www.sefaria.org/Mishnah_Berakhot.6.1",
+    "https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.225",
+    "https://www.sefaria.org/Rambam,_Mishneh_Torah,_Blessings.12"
+  ],
+  "keyVerses": [
+    "Berakhot 37b",
+    "Shulchan Aruch Orach Chayim 225"
+  ],
+  "difficulty": "beginner",
+  "readingTime": "3-4 minutes"
+}

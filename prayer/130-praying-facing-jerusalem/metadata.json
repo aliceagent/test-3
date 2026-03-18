@@ -1,0 +1,177 @@
+{
+  "id": 130,
+  "title": {
+    "en": "Praying Facing Jerusalem: Why Direction Matters",
+    "zh": "面向耶路撒冷祷告：方向为何重要",
+    "he": "תפילה כלפי ירושלים: למה כיוון חשוב"
+  },
+  "subtitle": {
+    "en": "The halachic requirement to face Jerusalem during the Amidah, how to determine the direction from anywhere in the world, and useful apps.",
+    "zh": "犹太教法关于在阿米达祷告时面向耶路撒冷的要求、如何从世界任何地方确定方向，以及实用的应用程序。",
+    "he": "החיוב ההלכתי לפנות לירושלים בעת תפילת העמידה, איך לקבוע כיוון מכל מקום בעולם, ואפליקציות שימושיות."
+  },
+  "section": "prayer",
+  "date": "2026-03-18",
+  "author": "Torah Light Editorial Team",
+  "tags": {
+    "en": [
+      "Jerusalem",
+      "Amidah",
+      "Prayer Direction",
+      "Halacha",
+      "Temple Mount",
+      "Jewish Law",
+      "Synagogue",
+      "Geography",
+      "Navigation",
+      "Mobile Apps",
+      "King Solomon",
+      "Prophet Daniel",
+      "Talmud",
+      "Mizrach",
+      "Holy of Holies",
+      "Shulchan Aruch",
+      "Jewish Unity",
+      "Exile",
+      "Return"
+    ],
+    "zh": [
+      "耶路撒冷",
+      "阿米达",
+      "祷告方向",
+      "犹太教法",
+      "圣殿山",
+      "犹太法律",
+      "犹太会堂",
+      "地理",
+      "导航",
+      "手机应用",
+      "所罗门王",
+      "先知但以理",
+      "塔木德",
+      "朝东",
+      "至圣所",
+      "舒尔汉阿鲁赫",
+      "犹太团结",
+      "流亡",
+      "回归",
+      "宋代理学",
+      "程颢思想",
+      "王阳明心学",
+      "中华文化",
+      "天文导航",
+      "礼记大学",
+      "诗经传统",
+      "儒家思想",
+      "道家哲学"
+    ],
+    "he": [
+      "ירושלים",
+      "עמידה",
+      "כיוון תפילה",
+      "הלכה",
+      "הר הבית",
+      "דין יהודי",
+      "בית כנסת",
+      "גיאוגרפיה",
+      "ניווט",
+      "אפליקציות נייד",
+      "שלמה המלך",
+      "דניאל הנביא",
+      "תלמוד",
+      "מזרח",
+      "קודש הקדשים",
+      "שולחן ערוך",
+      "אחדות יהודית",
+      "גלות",
+      "שיבה",
+      "בית המקדש",
+      "תפילה",
+      "קדושה",
+      "מסורת",
+      "רוחניות"
+    ]
+  },
+  "summary": {
+    "en": "An exploration of the halachic requirement to face Jerusalem during prayer, examining the biblical foundations from King Solomon's Temple dedication to Daniel's practice in exile, with practical guidance on determining direction anywhere in the world using modern technology and traditional methods.",
+    "zh": "探讨在祷告期间面向耶路撒冷的犹太教法要求，从所罗门王献殿到但以理在流亡中的实践，考查圣经根据，并提供使用现代技术和传统方法在世界任何地方确定方向的实用指导。",
+    "he": "חקירה של החיוב ההלכתי לפנות לירושלים בעת התפילה, בדיקת היסודות המקראיים מחנוכת המקדש של שלמה המלך למנהג דניאל בגלות, עם הדרכה מעשית לקביעת כיוון בכל מקום בעולם באמצעות טכנולוגיה מודרנית ושיטות מסורתיות."
+  },
+  "key_concepts": [
+    "nochach_yerushalayim",
+    "temple_mount_orientation",
+    "global_jewish_unity",
+    "mizrach_determination"
+  ],
+  "reading_time": {
+    "en": "12-15 minutes",
+    "zh": "12-15分钟",
+    "he": "12-15 דקות"
+  },
+  "difficulty_level": "intermediate",
+  "languages": ["en", "zh", "he"],
+  "bibliography": [
+    {
+      "title": "The Complete Artscroll Siddur",
+      "author": "Rabbi Nosson Scherman",
+      "publisher": "Mesorah Publications",
+      "year": 2019,
+      "url": "https://www.artscroll.com/Books/9781422617847.html"
+    },
+    {
+      "title": "Shulchan Aruch - Orach Chaim",
+      "author": "Rabbi Yosef Karo",
+      "publisher": "Multiple editions available",
+      "year": 1563,
+      "url": "https://www.sefaria.org/Shulchan_Arukh%2C_Orach_Chayim"
+    },
+    {
+      "title": "Talmud Bavli - Berakhot",
+      "author": "Various Sages",
+      "publisher": "Vilna Edition and modern translations",
+      "year": "5th-6th century CE",
+      "url": "https://www.sefaria.org/Berakhot"
+    },
+    {
+      "title": "Mishneh Torah - Hilchot Tefillah",
+      "author": "Maimonides (Rambam)",
+      "publisher": "Multiple editions",
+      "year": 1180,
+      "url": "https://www.sefaria.org/Mishneh_Torah%2C_Prayer_and_the_Priestly_Blessing"
+    },
+    {
+      "title": "The Synagogue: Studies in Origins, Archaeology and Architecture",
+      "author": "Joseph Gutmann",
+      "publisher": "Ktav Publishing House",
+      "year": 1975,
+      "url": "https://www.ktav.com/product/synagogue-studies-origins-archaeology-architecture"
+    },
+    {
+      "title": "Jewish Prayer: A Guide to Spiritual Healing and Connection to God",
+      "author": "Rabbi Wayne Dosick",
+      "publisher": "HarperOne",
+      "year": 2017,
+      "url": "https://www.harpercollins.com/products/jewish-prayer-wayne-dosick"
+    },
+    {
+      "title": "Jerusalem in the Time of Jesus",
+      "author": "Joachim Jeremias",
+      "publisher": "Fortress Press",
+      "year": 1969,
+      "url": "https://fortresspress.com/store/product/9780800614126/Jerusalem-in-the-Time-of-Jesus"
+    }
+  ],
+  "mobile_apps_mentioned": [
+    "Mizrach (iOS/Android)",
+    "Qibla Compass", 
+    "Jerusalem Compass"
+  ],
+  "related_articles": [
+    "amidah-prayer-guide",
+    "temple-mount-history",
+    "jewish-prayer-fundamentals",
+    "synagogue-architecture",
+    "exile-and-diaspora",
+    "kings-solomon-legacy"
+  ]
+}
