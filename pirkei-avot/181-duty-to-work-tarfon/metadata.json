@@ -1,0 +1,105 @@
+{
+  "id": 181,
+  "title": {
+    "en": "It Is Not Your Duty to Complete the Work, But Neither Are You Free to Desist From It",
+    "zh": "完成工作不是你的责任,但你也无权放弃它",
+    "he": "לא עליך המלאכה לגמור, ולא אתה בן חורין לבטל ממנה"
+  },
+  "section": "pirkei-avot",
+  "slug": "duty-to-work-tarfon",
+  "author": "Torah Light Editorial Team",
+  "date_created": "2026-03-18",
+  "languages": ["en", "zh", "he"],
+  "word_count": {
+    "en": 1450,
+    "zh": 950,
+    "he": 1200
+  },
+  "primary_source": {
+    "text": "Pirkei Avot",
+    "chapter": 2,
+    "verse": 16,
+    "citation": "פרקי אבות ב:טז"
+  },
+  "tags": [
+    "Pirkei Avot",
+    "Rabbi Tarfon",
+    "effort",
+    "responsibility",
+    "perseverance",
+    "tikkun olam",
+    "character development",
+    "Torah study",
+    "Chinese parallels",
+    "愚公移山",
+    "conversion friendly"
+  ],
+  "cultural_parallels": [
+    {
+      "culture": "Chinese",
+      "reference": "愚公移山 (The Foolish Old Man Who Moved Mountains)",
+      "connection": "Persistence in impossible tasks"
+    },
+    {
+      "culture": "Chinese",
+      "reference": "知其不可而为之 (Confucius - knowing it's impossible but doing it anyway)",
+      "connection": "Moral duty despite impossibility of completion"
+    },
+    {
+      "culture": "Chinese",
+      "reference": "自强不息 (Yi Jing - constant self-improvement)",
+      "connection": "Continuous effort without cessation"
+    }
+  ],
+  "key_concepts": [
+    "You don't have to finish the work",
+    "You can't quit the work",
+    "The day is short, the work is abundant",
+    "Small contributions matter",
+    "Incremental progress",
+    "Rejecting perfectionism",
+    "Trust in the process",
+    "Part of a chain of tradition"
+  ],
+  "target_audience": [
+    "beginners",
+    "converts",
+    "those feeling overwhelmed",
+    "Chinese speakers",
+    "seekers"
+  ],
+  "difficulty_level": "beginner-intermediate",
+  "estimated_reading_time_minutes": {
+    "en": 8,
+    "zh": 6,
+    "he": 7
+  },
+  "related_articles": [
+    179,
+    180,
+    182,
+    183,
+    184,
+    185,
+    186
+  ],
+  "bibliography": [
+    "Pirkei Avot 2:16 (Mishnah)",
+    "Chofetz Chaim, Commentary on Pirkei Avot",
+    "Rambam (Maimonides), Commentary on the Mishnah",
+    "Rabbi Jonathan Sacks, Lessons in Leadership",
+    "ArtScroll Pirkei Avot Treasury"
+  ],
+  "seo_keywords": [
+    "Rabbi Tarfon",
+    "Pirkei Avot 2:16",
+    "Jewish wisdom",
+    "not your duty to complete",
+    "Torah learning",
+    "tikkun olam",
+    "Jewish work ethic",
+    "愚公移山",
+    "perseverance in Judaism",
+    "Torah for beginners"
+  ]
+}
