@@ -1,0 +1,144 @@
+{
+  "id": "132",
+  "title": {
+    "en": "Selichot: The Prayers of Repentance Before the High Holidays",
+    "zh": "赎罪祷告（Selichot）：大节期前的忏悔祷文",
+    "he": "סליחות: תפילות הסליחה לפני הימים הנוראים"
+  },
+  "description": {
+    "en": "Exploring the sacred tradition of Selichot prayers, their liturgical structure, spiritual significance, and role in preparing the soul for Rosh Hashanah and Yom Kippur through pre-dawn penitential worship.",
+    "zh": "探索赛利豁特祷文的神圣传统，其礼拜结构、精神意义，以及通过黎明前忏悔崇拜为新年和赎罪日准备灵魂的作用。",
+    "he": "חקירת המסורת הקדושה של תפילות הסליחות, המבנה הליטורגי שלהן, המשמעות הרוחנית, ותפקידן בהכנת הנשמה לראש השנה ויום כפור דרך תפילת חרטה בשחר."
+  },
+  "section": "prayer",
+  "category": "high-holidays",
+  "tags": {
+    "en": [
+      "selichot",
+      "repentance",
+      "high holidays",
+      "rosh hashanah",
+      "yom kippur",
+      "teshuvah",
+      "thirteen attributes",
+      "penitential prayers",
+      "pre-dawn prayers",
+      "liturgical poetry",
+      "piyyutim",
+      "forgiveness",
+      "elul",
+      "spiritual preparation",
+      "vidui",
+      "confession",
+      "divine mercy"
+    ],
+    "zh": [
+      "赛利豁特",
+      "忏悔",
+      "大节期",
+      "新年",
+      "赎罪日",
+      "特舒瓦",
+      "十三种属性",
+      "忏悔祷文",
+      "黎明前祷告",
+      "礼拜诗歌",
+      "皮尤廷",
+      "宽恕",
+      "以录月",
+      "精神准备",
+      "维杜伊",
+      "告解",
+      "神圣慈悲"
+    ],
+    "he": [
+      "סליחות",
+      "תשובה",
+      "ימים נוראים",
+      "ראש השנה",
+      "יום כפור",
+      "תשובה",
+      "שלוש עשרה מידות",
+      "תפילות חרטה",
+      "תפילות שחר",
+      "פיוט",
+      "פיוטים",
+      "סליחה",
+      "אלול",
+      "הכנה רוחנית",
+      "וידוי",
+      "הודאה",
+      "רחמי שמיים"
+    ]
+  },
+  "author": "Torah Light Editorial Team",
+  "publishDate": "2026-03-18",
+  "lastModified": "2026-03-18",
+  "readingTime": {
+    "en": "15 minutes",
+    "zh": "10 minutes",
+    "he": "12 minutes"
+  },
+  "difficulty": "intermediate",
+  "sources": [
+    {
+      "text": "Exodus 34:6-7",
+      "url": "https://www.sefaria.org/Exodus.34.6-7",
+      "description": "The Thirteen Divine Attributes of Mercy revealed to Moses"
+    },
+    {
+      "text": "Talmud Bavli, Rosh Hashanah 17b",
+      "url": "https://www.sefaria.org/Rosh_Hashanah.17b",
+      "description": "Discussion of the Thirteen Attributes and their power"
+    },
+    {
+      "text": "Shulchan Aruch, Orach Chaim 581",
+      "url": "https://www.sefaria.org/Shulchan_Arukh%2C_Orach_Chayim.581",
+      "description": "Laws and customs of Selichot prayers"
+    },
+    {
+      "text": "Mishnah Berurah on Orach Chaim 581",
+      "url": "https://www.sefaria.org/Mishnah_Berurah.581",
+      "description": "Commentary on Selichot practices and timing"
+    },
+    {
+      "text": "Machzor for Rosh Hashanah and Yom Kippur",
+      "url": "https://www.sefaria.org/topics/high-holiday-liturgy",
+      "description": "Traditional High Holiday liturgy including Selichot"
+    },
+    {
+      "text": "Kitzur Shulchan Aruch 128",
+      "url": "https://www.sefaria.org/Kitzur_Shulchan_Aruch.128",
+      "description": "Practical guide to Selichot observance"
+    }
+  ],
+  "relatedArticles": [
+    "121",
+    "122",
+    "123",
+    "124",
+    "89",
+    "156"
+  ],
+  "keywords": {
+    "primary": ["selichot", "repentance", "high holidays", "teshuvah"],
+    "secondary": ["thirteen attributes", "pre-dawn prayers", "penitential liturgy", "spiritual preparation"]
+  },
+  "seoDescription": {
+    "en": "Discover the profound tradition of Selichot prayers - penitential worship that prepares Jewish hearts for the High Holidays through pre-dawn liturgy, the Thirteen Attributes, and spiritual introspection.",
+    "zh": "发现赛利豁特祷文的深刻传统——通过黎明前礼拜、十三种属性和精神内省为大节期准备犹太心灵的忏悔崇拜。",
+    "he": "גלו את המסורת העמוקה של תפילות הסליחות - תפילת חרטה המכינה לבבות יהודיים לימים הנוראים דרך ליטורגיה שחרית, שלוש עשרה מידות והתבוננות רוחנית."
+  },
+  "wordCount": {
+    "en": 1247,
+    "zh": 890,
+    "he": 1098
+  },
+  "languages": ["en", "zh", "he"],
+  "status": "published",
+  "headerImage": {
+    "description": "A dimly lit synagogue sanctuary in the pre-dawn hours, with small groups of worshippers holding prayer books, their faces illuminated by warm candlelight. The ark is partially open, revealing Torah scrolls within. Shadows and soft light create an atmosphere of reverence and introspection, capturing the intimate yet communal nature of Selichot prayers.",
+    "alt": "Pre-dawn Selichot prayers in synagogue with candlelit worship",
+    "placement": "header"
+  }
+}
