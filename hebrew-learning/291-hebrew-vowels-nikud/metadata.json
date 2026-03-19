@@ -1,0 +1,67 @@
+{
+  "id": 291,
+  "title": "Hebrew Vowels (Nikud): The Dots and Dashes Decoded",
+  "title_zh": "希伯来元音(Nikud):解密点和线",
+  "title_he": "ניקוד עברי: פענוח הנקודות והקווים",
+  "section": "hebrew-learning",
+  "slug": "hebrew-vowels-nikud",
+  "author": "Torah Light",
+  "date_created": "2026-03-19",
+  "word_count": {
+    "en": 3421,
+    "zh": 1847,
+    "he": 3156
+  },
+  "status": "complete",
+  "language_versions": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "tags": [
+    "HebrewLearning",
+    "Nikud",
+    "Vowels",
+    "Masoretes",
+    "HebrewLanguage",
+    "JewishEducation",
+    "Torah",
+    "BiblicalHebrew",
+    "LanguagePreservation",
+    "希伯来语学习",
+    "元音系统",
+    "犹太教育"
+  ],
+  "chinese_parallels": [
+    "Zhuyin/Bopomofo (注音符號) phonetic system",
+    "Pinyin (拼音) development",
+    "Classical Chinese text preservation"
+  ],
+  "historical_periods": [
+    {
+      "jewish_period": "Torah Written",
+      "approximate_date": "~1000 BCE",
+      "chinese_equivalent": "Western Zhou Dynasty (西周, ~1046-771 BCE)"
+    },
+    {
+      "jewish_period": "Second Temple Destruction",
+      "approximate_date": "70 CE",
+      "chinese_equivalent": "Eastern Han Dynasty (东汉)"
+    },
+    {
+      "jewish_period": "Masoretes Active",
+      "approximate_date": "6th-10th centuries CE",
+      "chinese_equivalent": "Sui, Tang, and early Song Dynasties (隋唐宋)"
+    }
+  ],
+  "key_concepts": [
+    "Nikud system",
+    "Seven primary vowels",
+    "Masoretic text",
+    "Torah scroll tradition",
+    "Hebrew pronunciation preservation",
+    "Tiberian vocalization"
+  ],
+  "bibliography_count": 6,
+  "image_description": "Chinese ink wash (水墨) style landscape featuring an ancient scroll with Hebrew nikud floating above misty mountains, scholar's desk with inkstone and brush, golden light through clouds illuminating sacred letters"
+}

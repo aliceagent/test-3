@@ -1,0 +1,61 @@
+{
+  "id": 292,
+  "title": "50 Essential Hebrew Phrases for the Synagogue",
+  "title_zh": "犹太教堂必备50个希伯来语短语",
+  "title_he": "50 ביטויים עבריים חיוניים לבית הכנסת",
+  "section": "hebrew-learning",
+  "slug": "hebrew-synagogue-phrases",
+  "author": "Torah Light Team",
+  "date_created": "2026-03-19",
+  "language_versions": {
+    "en": "article-en.md",
+    "zh": "article-zh.md",
+    "he": "article-he.md"
+  },
+  "word_count": {
+    "en": 4235,
+    "zh": 1658,
+    "he": 2894
+  },
+  "target_audience": "Beginners learning Hebrew for synagogue participation",
+  "tags": [
+    "HebrewLearning",
+    "Synagogue",
+    "Prayer",
+    "Siddur",
+    "ShabbatShalom",
+    "Amen",
+    "Kaddish",
+    "Torah",
+    "Aliyah",
+    "JewishLiteracy",
+    "BeginnerGuide",
+    "HebrewPhrases",
+    "祈祷",
+    "希伯来语",
+    "犹太教堂",
+    "לימוד_עברית",
+    "בית_כנסת",
+    "תפילה"
+  ],
+  "key_topics": [
+    "Hebrew prayer responses",
+    "Synagogue navigation",
+    "Torah service phrases",
+    "Shabbat greetings",
+    "Amidah prayers",
+    "Kaddish variations",
+    "Torah aliyah blessings"
+  ],
+  "cultural_parallels": [
+    "Classical Chinese vs Hebrew as sacred languages",
+    "Song Dynasty Confucian education parallels",
+    "Apprenticeship learning in traditional education"
+  ],
+  "bibliography_count": 8,
+  "practical_application": true,
+  "difficulty_level": "Beginner",
+  "estimated_reading_time_minutes": 18,
+  "series": "Torah Light (Torah之光)",
+  "status": "complete"
+}
