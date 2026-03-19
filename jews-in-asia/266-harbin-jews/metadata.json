@@ -1,0 +1,74 @@
+{
+  "id": 266,
+  "title": "Harbin: The Forgotten Jewish Community of Northern China",
+  "title_zh": "哈尔滨：中国北方被遗忘的犹太社区",
+  "title_he": "חרבין: הקהילה היהודית השכוחה בצפון סין",
+  "section": "jews-in-asia",
+  "slug": "harbin-jews",
+  "author": "Torah Light Article Production Team",
+  "date_created": "2026-03-19",
+  "word_count_en": 4850,
+  "word_count_zh": 2950,
+  "word_count_he": 4650,
+  "language_versions": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "tags": [
+    "Harbin",
+    "JewsInAsia",
+    "ChineseJewishHistory",
+    "JewishDiaspora",
+    "TransSiberianRailway",
+    "ManchurianJews",
+    "RussianJews",
+    "QingDynasty",
+    "LostCommunities",
+    "JewishHeritage",
+    "DiasporaHistory",
+    "JewsInChina",
+    "AsianJewry",
+    "哈尔滨",
+    "清朝"
+  ],
+  "historical_period": "Late 19th - Mid 20th Century",
+  "chinese_dynasty_reference": "Late Qing Dynasty (清朝, 1644-1912)",
+  "key_topics": [
+    "Harbin Jewish community history",
+    "Trans-Siberian Railway",
+    "Chinese Eastern Railway",
+    "Russian Jewish emigration",
+    "Jewish life in Manchuria",
+    "Japanese occupation",
+    "Communist China and Jews",
+    "Diaspora fragility",
+    "Jews in Asia",
+    "Lost Jewish communities"
+  ],
+  "target_audience": "Native Mandarin speakers with no prior Jewish knowledge",
+  "tone": "Educational, warm, historically informative",
+  "cultural_parallels": [
+    "Qing Dynasty period context",
+    "Chinese-Jewish business relations",
+    "Cultural differences and similarities",
+    "East-West encounters in northern China"
+  ],
+  "bibliography_sources": 5,
+  "status": "completed",
+  "files": {
+    "article_en": "article-en.md",
+    "article_zh": "article-zh.md",
+    "article_he": "article-he.md",
+    "metadata": "metadata.json"
+  },
+  "quality_checks": {
+    "all_languages_present": true,
+    "chinese_historical_context_included": true,
+    "bibliography_urls_verified": true,
+    "tags_section_present": true,
+    "header_image_description": true,
+    "min_word_count_met": true,
+    "cultural_parallels_included": true
+  }
+}
