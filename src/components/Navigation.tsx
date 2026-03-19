@@ -86,6 +86,12 @@ export default function Navigation() {
         </Link>
 
         <div className="flex items-center gap-4">
+          <Link
+            href="/about"
+            className="hidden lg:inline-block text-sm text-white/80 hover:text-white transition-colors"
+          >
+            {t("about")}
+          </Link>
           <LanguageSwitcher />
           <button
             onClick={() => setMobileOpen(!mobileOpen)}
@@ -200,6 +206,13 @@ export default function Navigation() {
                 ))}
             </div>
           ))}
+          <Link
+            href="/about"
+            onClick={() => setMobileOpen(false)}
+            className="block px-4 py-3 text-sm hover:bg-[var(--color-primary-light)] border-t border-white/10"
+          >
+            {t("about")}
+          </Link>
           <Link
             href="/admin"
             onClick={() => setMobileOpen(false)}

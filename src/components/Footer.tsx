@@ -103,9 +103,9 @@ export default function Footer() {
             </h3>
             <ul className="space-y-2 text-sm text-white/80">
               <li>
-                <span className="hover:text-white cursor-pointer">
+                <Link href="/about" className="hover:text-white">
                   {t("about")}
-                </span>
+                </Link>
               </li>
               <li>
                 <span className="hover:text-white cursor-pointer">
