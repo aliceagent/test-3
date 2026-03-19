@@ -1,0 +1,75 @@
+{
+  "id": 344,
+  "title": {
+    "en": "Emunah Peshutah: The Power of Simple Faith",
+    "zh": "单纯的信仰：Emunah Peshutah的力量",
+    "he": "אמונה פשוטה: כוחה של האמונה הטהורה"
+  },
+  "slug": "emunah-peshutah-simple-faith",
+  "section": "jewish-philosophy-big-questions",
+  "description": "The Chassidic valorization of simple, wholehearted faith over intellectual gymnastics — stories and teachings about trusting God completely.",
+  "word_count": {
+    "en": 1485,
+    "zh": 882,
+    "he": 1192
+  },
+  "character_count": {
+    "zh": 5542
+  },
+  "tags": [
+    "EmunaPeshutah",
+    "SimpleFaith",
+    "Chassidism",
+    "BaalShemTov",
+    "Faith",
+    "Trust",
+    "Judaism",
+    "JewishPhilosophy",
+    "Spirituality",
+    "Prayer",
+    "樸",
+    "無為",
+    "道家",
+    "单纯信仰",
+    "BigQuestions"
+  ],
+  "keywords": [
+    "emunah peshutah",
+    "simple faith",
+    "Chassidic teaching",
+    "Baal Shem Tov",
+    "wholehearted trust",
+    "childlike faith",
+    "Jewish philosophy",
+    "intellectual vs spiritual",
+    "Daoist parallels",
+    "pu",
+    "wu wei"
+  ],
+  "cultural_connections": [
+    "Daoist concept of Pu (樸 - the uncarved block)",
+    "Wu Wei (無為 - effortless action)",
+    "Confucian stages of wisdom",
+    "Chinese philosophical simplicity"
+  ],
+  "historical_period": {
+    "jewish": "Chassidic Movement (1700s CE)",
+    "chinese_equivalent": "Qing Dynasty (清朝, 1644-1912 CE)"
+  },
+  "bibliography_count": 8,
+  "languages": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "status": "complete",
+  "created_date": "2026-03-19",
+  "author": "Torah Light Team",
+  "target_audience": "Chinese native Mandarin speakers with no prior Jewish knowledge",
+  "difficulty_level": "intermediate",
+  "estimated_reading_time": {
+    "en": "8-10 minutes",
+    "zh": "6-8 minutes",
+    "he": "7-9 minutes"
+  }
+}
