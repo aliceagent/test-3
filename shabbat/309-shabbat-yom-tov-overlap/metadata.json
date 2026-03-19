@@ -1,0 +1,111 @@
+{
+  "id": 309,
+  "title": "When Shabbat and a Holiday Overlap: Special Rules and Prayers",
+  "title_zh": "当安息日与节日重叠时:特殊规则与祷告",
+  "title_he": "כאשר שבת ויום טוב חופפים: כללים מיוחדים ותפילות",
+  "description": "What changes when Yom Tov falls on Shabbat — kiddush, havdalah, candle lighting, and the combined prayers.",
+  "section": "shabbat",
+  "slug": "shabbat-yom-tov-overlap",
+  "word_count_en": 5247,
+  "word_count_zh": 1842,
+  "word_count_he": 3156,
+  "status": "complete",
+  "tags": [
+    "Shabbat",
+    "YomTov",
+    "Holidays",
+    "Kiddush",
+    "Havdalah",
+    "CandleLighting",
+    "EruvTavshilin",
+    "JewishLaw",
+    "Halacha",
+    "Prayer",
+    "ShabbatAndHolidays",
+    "SacredTime",
+    "JewishCalendar",
+    "Passover",
+    "Sukkot",
+    "Shavuot",
+    "ThreeDayYomTov",
+    "时间周期",
+    "神圣时刻",
+    "犹太律法",
+    "安息日",
+    "节日",
+    "祷告",
+    "律法",
+    "שבת",
+    "יוםטוב",
+    "חגים",
+    "קידוש",
+    "הבדלה",
+    "הלכה",
+    "תפילה"
+  ],
+  "created_at": "2026-03-19T06:31:00Z",
+  "author": "Torah Light Team",
+  "languages": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "references": [
+    {
+      "title": "The Laws of Yom Tov",
+      "source": "Chabad.org",
+      "url": "https://www.chabad.org/library/article_cdo/aid/4579/jewish/The-Laws-of-Yom-Tov.htm"
+    },
+    {
+      "title": "Shabbat and Yom Tov: When They Coincide",
+      "source": "OU Torah",
+      "url": "https://www.ou.org/holidays/shabbat_yom_tov/"
+    },
+    {
+      "title": "Havdalah When Yom Tov Follows Shabbat",
+      "source": "Aish.com",
+      "url": "https://www.aish.com/shabbat/havdalah/havdalah-yom-tov/"
+    },
+    {
+      "title": "What is Eruv Tavshilin?",
+      "source": "Chabad.org",
+      "url": "https://www.chabad.org/holidays/JewishNewYear/template_cdo/aid/1592/jewish/What-Is-Eruv-Tavshilin.htm"
+    },
+    {
+      "title": "Kiddush on Shabbat and Yom Tov",
+      "source": "Sefaria.org",
+      "url": "https://www.sefaria.org/Shulchan_Arukh%2C_Orach_Chayim.271"
+    },
+    {
+      "title": "Mishnah Berurah on Laws of Yom Tov",
+      "source": "Sefaria.org",
+      "url": "https://www.sefaria.org/Mishnah_Berurah.495"
+    },
+    {
+      "title": "Three-Day Yom Tov: Preparation Guide",
+      "source": "Star-K Kosher Certification",
+      "url": "https://www.star-k.org/articles/kashrus-kurrents/1291/three-day-yom-tov/"
+    },
+    {
+      "title": "Candle Lighting When Yom Tov Follows Shabbat",
+      "source": "Partners in Torah",
+      "url": "https://www.partnersintorah.org/resource/candle-lighting-when-yom-tov-follows-shabbat/"
+    }
+  ],
+  "cultural_parallels": [
+    "Chinese calendar convergences",
+    "Solar terms (节气) overlapping with lunar months",
+    "Cyclical time concepts in Chinese philosophy",
+    "Auspicious calendar alignments"
+  ],
+  "key_concepts": [
+    "Shabbat restrictions override Yom Tov leniencies",
+    "Candle lighting timing varies by scenario",
+    "Combined kiddush and modified havdalah",
+    "Eruv tavshilin requirement",
+    "Three-day Yom Tov preparation",
+    "Kodesh l'kodesh (sacred to sacred)",
+    "Ya'aleh V'yavo insertion",
+    "Hallel and special Torah readings"
+  ]
+}
