@@ -1,0 +1,46 @@
+{
+  "id": 304,
+  "title": "Shabbat Salads: 10 Make-Ahead Recipes for the Friday Night Table",
+  "title_zh": "安息日沙拉：周五晚餐餐桌上的10道预制菜谱",
+  "title_he": "סלטים לשבת: 10 מתכונים להכנה מראש לשולחן יום שישי בערב",
+  "slug": "shabbat-salads",
+  "section": "shabbat",
+  "description": "Israeli salad, Moroccan carrot salad, matbucha, coleslaw, and more — all prepared before Shabbat and served cold or at room temperature.",
+  "word_count": {
+    "en": 4129,
+    "zh": 1453,
+    "he": 3214
+  },
+  "status": "complete",
+  "tags": [
+    "Shabbat",
+    "ShabbatMeals",
+    "KosherFood",
+    "MakeAheadRecipes",
+    "IsraeliSalad",
+    "MoroccanCarrotSalad",
+    "Matbucha",
+    "Coleslaw",
+    "Tabbouleh",
+    "SaladsForShabbat",
+    "OnegShabbat",
+    "HalachaAndCooking",
+    "Borer",
+    "ChineseJewishBridge",
+    "FridayNightDinner",
+    "ShabbatPreparation",
+    "SephardiCuisine",
+    "AshkenaziCuisine"
+  ],
+  "created": "2026-03-19T05:51:00Z",
+  "author": "Torah Light Writer",
+  "languages": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "bibliography_count": 6,
+  "has_chinese_parallels": true,
+  "has_historical_context": true,
+  "has_header_image_description": true
+}

@@ -1,0 +1,79 @@
+{
+  "id": 302,
+  "title": "Sephardi Chamin and Dafina: Shabbat Stews from the Mediterranean",
+  "title_zh": "塞法迪哈明和达菲娜:地中海安息日炖菜",
+  "title_he": "חמין וטפינה ספרדיים: תבשילי שבת ממרחב הים התיכון",
+  "section": "shabbat",
+  "slug": "302-sephardi-chamin-dafina",
+  "description": "Recipes for the Sephardi and Moroccan versions of the overnight Shabbat stew, featuring rice, chickpeas, eggs, and warming spices.",
+  "description_zh": "塞法迪和摩洛哥版本的隔夜安息日炖菜食谱,以米饭、鹰嘴豆、鸡蛋和温暖香料为特色。",
+  "description_he": "מתכונים לגרסאות הספרדיות והמרוקאיות של תבשיל השבת הלילה, הכוללים אורז, חומוס, ביצים ותבלינים מחממים.",
+  "word_count_en": 4462,
+  "word_count_zh": 3186,
+  "word_count_he": 3892,
+  "char_count_zh": 6386,
+  "status": "complete",
+  "tags": [
+    "Shabbat",
+    "SephardiCuisine",
+    "MoroccanJewish",
+    "Chamin",
+    "Dafina",
+    "ShabbatStew",
+    "SlowCooking",
+    "KosherFood",
+    "JewishLaw",
+    "MediterraneanJewish",
+    "NorthAfricanJewish",
+    "沙巴特",
+    "犹太美食",
+    "慢炖",
+    "地中海",
+    "摩洛哥",
+    "香料",
+    "米饭",
+    "鸡豆",
+    "שבת",
+    "מטבחספרדי",
+    "יהדותמרוקאית",
+    "חמין",
+    "טפינה"
+  ],
+  "cultural_parallels": [
+    "Chinese clay pot cooking (砂锅)",
+    "Beggar's chicken (叫花鸡)",
+    "Chinese medicinal food principles (药膳同源)",
+    "Tang Dynasty spice trade",
+    "Silk Road cultural exchange"
+  ],
+  "historical_periods": [
+    {
+      "jewish": "Talmudic Period",
+      "dates": "200-500 CE",
+      "chinese": "Three Kingdoms - Jin Dynasty (三国-晋朝)"
+    },
+    {
+      "jewish": "Second Temple Period",
+      "dates": "516 BCE - 70 CE",
+      "chinese": "Warring States - Han Dynasty (战国-汉朝)"
+    },
+    {
+      "jewish": "Medieval Rabbis",
+      "dates": "1000-1500 CE",
+      "chinese": "Song - Ming Dynasty (宋-明朝)"
+    },
+    {
+      "jewish": "Kabbalists",
+      "dates": "1200-1700 CE",
+      "chinese": "Yuan - Ming Dynasty (元-明朝)"
+    }
+  ],
+  "bibliography_count": 7,
+  "recipes_included": 2,
+  "created_date": "2026-03-19",
+  "language_versions": [
+    "en",
+    "zh",
+    "he"
+  ]
+}

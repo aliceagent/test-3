@@ -1,0 +1,63 @@
+{
+  "id": 305,
+  "title": "The Blech and the Hot Plate: Keeping Food Warm on Shabbat",
+  "title_zh": "金属盖板与电热板：如何在安息日保持食物温热",
+  "title_he": "הבלך והפלטה החשמלית: שמירה על אוכל חם בשבת",
+  "section": "shabbat",
+  "slug": "blech-hot-plate-shabbat",
+  "description": "The halachic requirements for keeping food warm on Shabbat, how to use a blech or hot plate properly, and what foods can be reheated.",
+  "word_count_en": 4892,
+  "word_count_zh": 1168,
+  "word_count_he": 2411,
+  "status": "complete",
+  "author": "Torah Light Project",
+  "created": "2026-03-19",
+  "tags": [
+    "Shabbat",
+    "Blech",
+    "HotPlate",
+    "Chazara",
+    "Bishul",
+    "KosherKitchen",
+    "Cholent",
+    "ShabbatMeals",
+    "Halacha",
+    "ShabbatPreparation",
+    "ShabbatCooking",
+    "JewishLaw",
+    "准备",
+    "安息日",
+    "犹太律法"
+  ],
+  "bibliography_count": 8,
+  "target_audience": "Chinese native Mandarin speakers, no background in Judaism",
+  "tone": "Educational, warm, culturally sensitive",
+  "chinese_parallels": [
+    "Chinese slow-simmered broths (煲汤)",
+    "Chinese New Year dinner preparation (年夜饭)",
+    "Principle of patient preparation and letting time do its work",
+    "Family meals as centerpieces of cultural life"
+  ],
+  "historical_periods_referenced": [
+    {
+      "jewish": "Talmudic Period",
+      "dates": "200-400 CE",
+      "chinese": "Han Dynasty to Jin Dynasty (汉朝至晋朝)"
+    }
+  ],
+  "key_concepts": [
+    "Blech (metal covering for stovetop)",
+    "Hot plate (electric warming surface)",
+    "Bishul (cooking on Shabbat)",
+    "Chazara (returning food to heat)",
+    "Ma'achal ben Drusai (minimally cooked threshold)",
+    "Ein bishul achar bishul (no cooking after cooking)",
+    "Kirah gedumah (covered stove)",
+    "Yado soledes bo (temperature threshold)"
+  ],
+  "halachic_sources": [
+    "Shulchan Aruch, Orach Chaim 253",
+    "Mishnah Berurah 253",
+    "Talmud Bavli, Shabbat 38b-39a"
+  ]
+}
