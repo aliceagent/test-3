@@ -1,0 +1,108 @@
+{
+  "id": 325,
+  "title": "Ushpizin: The Seven Mystical Guests of the Sukkah",
+  "title_zh": "Ushpizin（乌什匹辛）：住棚节的七位神秘宾客",
+  "title_he": "אושפיזין: שבעת האורחים המיסטיים של הסוכה",
+  "slug": "ushpizin-seven-mystical-guests",
+  "section": "holidays",
+  "description": "Abraham, Isaac, Jacob, Moses, Aaron, Joseph, and David — the kabbalistic tradition of inviting these spiritual guests each night of Sukkot.",
+  "description_zh": "亚伯拉罕、以撒、雅各、摩西、亚伦、约瑟和大卫——住棚节每夜邀请这些灵性客人的卡巴拉传统。",
+  "description_he": "אברהם, יצחק, יעקב, משה, אהרן, יוסף ודוד — המסורת הקבלית של הזמנת אורחים רוחניים אלה בכל לילה של סוכות.",
+  "word_count": {
+    "en": 4200,
+    "zh": 2850,
+    "he": 2750
+  },
+  "tags": [
+    "Ushpizin",
+    "Sukkot",
+    "Jewish Mysticism",
+    "Kabbalah",
+    "Seven Sefirot",
+    "Abraham",
+    "Isaac",
+    "Jacob",
+    "Moses",
+    "Aaron",
+    "Joseph",
+    "David",
+    "Hospitality",
+    "Ancestor Veneration",
+    "Zohar",
+    "住棚节",
+    "犹太神秘主义",
+    "祖先",
+    "款待",
+    "אושפיזין",
+    "סוכות",
+    "קבלה",
+    "אירוח"
+  ],
+  "status": "complete",
+  "created_at": "2026-03-19T07:12:00Z",
+  "language_versions": {
+    "en": "article-en.md",
+    "zh": "article-zh.md",
+    "he": "article-he.md"
+  },
+  "cultural_parallels": [
+    "Chinese ancestor veneration (清明节, 中元节)",
+    "Filial piety (孝)",
+    "Boundary between living and dead",
+    "Ritual connections across generations"
+  ],
+  "historical_periods": [
+    {
+      "jewish": "Patriarchs (Abraham-Jacob)",
+      "dates": "~1800-1500 BCE",
+      "chinese_equivalent": "Shang Dynasty 商朝"
+    },
+    {
+      "jewish": "Exodus (Moses)",
+      "dates": "~1300 BCE",
+      "chinese_equivalent": "Late Shang Dynasty"
+    },
+    {
+      "jewish": "United Monarchy (David)",
+      "dates": "~1000 BCE",
+      "chinese_equivalent": "Western Zhou Dynasty 西周"
+    },
+    {
+      "jewish": "Medieval Period (Zohar)",
+      "dates": "13th century CE",
+      "chinese_equivalent": "Song-Yuan Dynasty 宋元"
+    }
+  ],
+  "key_figures": [
+    "Abraham (Avraham, אברהם)",
+    "Isaac (Yitzchak, יצחק)",
+    "Jacob (Yaakov, יעקב)",
+    "Moses (Moshe, משה)",
+    "Aaron (Aharon, אהרן)",
+    "Joseph (Yosef, יוסף)",
+    "David (David, דוד)",
+    "Rabbi Isaac Luria (Arizal, האר\"י)"
+  ],
+  "key_concepts": [
+    "Ushpizin (אושפיזין) - Mystical guests",
+    "Sefirot (ספירות) - Divine emanations",
+    "Chesed (חסד) - Loving-kindness",
+    "Gevurah (גבורה) - Strength",
+    "Tiferet (תפארת) - Beauty/harmony",
+    "Netzach (נצח) - Eternity",
+    "Hod (הוד) - Splendor",
+    "Yesod (יסוד) - Foundation",
+    "Malchut (מלכות) - Kingship",
+    "Tzila d'mehemnuta (צילא דמהימנותא) - Shade of faith",
+    "Ushpizata (אושפיזתא) - Female guests"
+  ],
+  "primary_sources": [
+    "Zohar (Book of Splendor)",
+    "Writings of the Arizal",
+    "Genesis (Bereishit)",
+    "Exodus (Shemot)",
+    "Samuel (Shmuel)",
+    "Psalms (Tehillim)",
+    "Pirkei Avot 1:12"
+  ]
+}

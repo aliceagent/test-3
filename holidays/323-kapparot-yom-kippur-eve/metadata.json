@@ -1,0 +1,61 @@
+{
+  "id": 323,
+  "title": "Kapparot: The Yom Kippur Eve Atonement Ritual",
+  "title_zh": "Kapparot(卡帕罗特):赎罪日前夜的赎罪仪式",
+  "title_he": "כפרות: טקס הכפרה בערב יום כיפור",
+  "slug": "kapparot-yom-kippur-eve",
+  "section": "holidays",
+  "description": "The custom of swinging a chicken or money over one's head before Yom Kippur — its sources, its critics, and the charity alternative.",
+  "word_count_en": 3245,
+  "word_count_zh": 2180,
+  "word_count_he": 2650,
+  "tags": [
+    "Kapparot",
+    "YomKippur",
+    "Atonement",
+    "Teshuvah",
+    "Repentance",
+    "JewishCustoms",
+    "Charity",
+    "AnimalWelfare",
+    "JewishEthics",
+    "Holidays",
+    "HighHolidays",
+    "Sacrifice",
+    "Substitution",
+    "赎罪",
+    "赎罪日",
+    "犹太传统",
+    "慈善",
+    "כפרות",
+    "יוםכיפור",
+    "תשובה",
+    "צדקה"
+  ],
+  "historical_period": "Geonic period (6th-11th centuries CE)",
+  "chinese_dynasty_equivalent": "Sui and Tang dynasties (隋唐时期)",
+  "key_concepts": [
+    "Kapparot ritual",
+    "Symbolic transfer of sin",
+    "Chicken vs. money debate",
+    "Animal welfare concerns",
+    "Teshuvah (repentance)",
+    "Charity requirement",
+    "Rabbinic controversy"
+  ],
+  "chinese_parallels": [
+    "替身 (tìshēn) - substitute figures",
+    "放生 (fàngshēng) - releasing life",
+    "祭祀 (jìsì) - sacrificial offerings",
+    "Confucian teaching on ritual vs. humanity"
+  ],
+  "status": "completed",
+  "created_date": "2026-03-19",
+  "language_versions": {
+    "en": "article-en.md",
+    "zh": "article-zh.md",
+    "he": "article-he.md"
+  },
+  "author": "Torah Light Project",
+  "tradition": "Orthodox Judaism"
+}
