@@ -1,0 +1,70 @@
+{
+  "id": 356,
+  "title": "The Bnei Menashe: The Lost Tribe Returning to Israel from India and Myanmar",
+  "title_zh": "贝内·梅纳什人：从印度和缅甸返回以色列的失落部落",
+  "title_he": "בני מנשה: השבט האבוד השב לישראל מהודו ומבורמה",
+  "description": "The story of the Bnei Menashe who claim descent from the tribe of Manasseh, their recognition by the Chief Rabbinate, and their aliyah.",
+  "section": "jews-in-asia-expanded",
+  "slug": "bnei-menashe-lost-tribe",
+  "author": "Torah Light Writer Agent",
+  "created": "2026-03-19",
+  "word_count": {
+    "en": 4821,
+    "zh": 2847,
+    "he": 2354
+  },
+  "languages": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "tags": [
+    "BneiMenashe",
+    "LostTribes",
+    "TribeOfManasseh",
+    "JewsInAsia",
+    "JewsInIndia",
+    "Aliyah",
+    "Conversion",
+    "OralTradition",
+    "DiasporaJews",
+    "ReturnToZion",
+    "ShaveiIsrael",
+    "ManipurJews",
+    "MizoramJews",
+    "AsianJews",
+    "JewishIdentity",
+    "印度犹太人",
+    "失落的支派",
+    "回归以色列",
+    "玛拿西支派",
+    "בני_מנשה",
+    "שבטים_אבודים",
+    "יהודי_הודו",
+    "עלייה"
+  ],
+  "bibliography_count": 8,
+  "chinese_historical_periods": [
+    {
+      "jewish_period": "Assyrian Exile",
+      "year": "722 BCE",
+      "chinese_period": "春秋时代 (Spring and Autumn Period)",
+      "years": "770-476 BCE"
+    },
+    {
+      "jewish_period": "Division of Kingdom",
+      "year": "930 BCE",
+      "chinese_period": "西周 (Western Zhou Dynasty)",
+      "years": "1046-771 BCE"
+    }
+  ],
+  "key_figures": [
+    "Manasseh (biblical)",
+    "Joseph (biblical)",
+    "Rabbi Shlomo Amar",
+    "Michael Freund",
+    "Hillel Halkin"
+  ],
+  "status": "completed",
+  "version": "1.0"
+}
