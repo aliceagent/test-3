@@ -1,0 +1,87 @@
+{
+  "id": 265,
+  "title": "The Sassoon Family: The Rothschilds of the East",
+  "title_zh": "沙逊家族:东方的罗斯柴尔德",
+  "title_he": "משפחת ססון: הרוטשילדים של המזרח",
+  "section": "jews-in-asia",
+  "slug": "sassoon-family",
+  "author": "Torah Light Editorial Team",
+  "date_created": "2026-03-19",
+  "word_count": {
+    "en": 3421,
+    "zh": 1456,
+    "he": 3089
+  },
+  "languages": ["en", "zh", "he"],
+  "tags": [
+    "Sassoon Family",
+    "Jews in Asia",
+    "Shanghai",
+    "Bombay",
+    "Hong Kong",
+    "Jewish History",
+    "Diaspora Jewry",
+    "Qing Dynasty",
+    "清朝",
+    "Opium Trade",
+    "Philanthropy",
+    "Tzedakah",
+    "Victor Sassoon",
+    "David Sassoon",
+    "Cathay Hotel",
+    "晋商",
+    "商人",
+    "Jewish Merchants"
+  ],
+  "chinese_dynasties_referenced": [
+    {
+      "dynasty": "Qing Dynasty",
+      "dynasty_zh": "清朝",
+      "period": "1644-1912",
+      "context": "Period when Sassoon family established presence in China"
+    },
+    {
+      "dynasty": "Republic of China",
+      "dynasty_zh": "中华民国",
+      "period": "1912-1949",
+      "context": "Era when Victor Sassoon built the Cathay Hotel and family reached peak influence"
+    }
+  ],
+  "key_locations": [
+    "Baghdad",
+    "Bombay (Mumbai)",
+    "Shanghai",
+    "Hong Kong",
+    "Calcutta"
+  ],
+  "key_figures": [
+    "David Sassoon (1792-1864)",
+    "Elias David Sassoon (1820-1880)",
+    "Victor Sassoon (1881-1961)"
+  ],
+  "cultural_parallels": [
+    "Shanxi merchants (晋商)",
+    "Confucian concept of benevolent merchant (仁商)",
+    "Multi-generational family businesses",
+    "Emphasis on education and literacy"
+  ],
+  "jewish_concepts": [
+    "Tzedakah (charitable giving)",
+    "Shabbat observance",
+    "Kashrut (kosher laws)",
+    "Jewish education",
+    "Zionism",
+    "Diaspora identity"
+  ],
+  "historical_themes": [
+    "Jewish diaspora and exile",
+    "Commercial empire building",
+    "Maintaining religious identity in foreign lands",
+    "Opium trade controversy",
+    "Holocaust refugees in Shanghai",
+    "Rise and fall of Jewish communities in Asia"
+  ],
+  "bibliography_count": 6,
+  "status": "complete",
+  "qa_notes": "Article addresses both achievements and ethical failures (opium trade). Includes Chinese dynasty context throughout. Hebrew and Chinese versions maintain cultural sensitivity while covering full narrative."
+}

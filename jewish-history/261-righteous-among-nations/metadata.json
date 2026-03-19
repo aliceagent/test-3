@@ -1,0 +1,55 @@
+{
+  "id": 261,
+  "title": "Righteous Among the Nations: Non-Jews Who Saved Jewish Lives",
+  "title_zh": "国际义人:拯救犹太生命的非犹太英雄",
+  "title_he": "חסידי אומות העולם: לא-יהודים שהצילו חיים יהודיים",
+  "section": "jewish-history",
+  "slug": "righteous-among-nations",
+  "word_count": {
+    "en": 2891,
+    "zh": 1486,
+    "he": 2073
+  },
+  "status": "completed",
+  "created": "2026-03-19T02:30:00Z",
+  "language_versions": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "tags": [
+    "RighteousAmongTheNations",
+    "Holocaust",
+    "MoralCourage",
+    "HolocaustRescuers",
+    "OskarSchindler",
+    "IrenaSendler",
+    "ChiuneSugihara",
+    "RaoulWallenberg",
+    "JewishHistory",
+    "WorldWarII",
+    "YadVashem",
+    "HeroicRescuers",
+    "HumanRights",
+    "义",
+    "仁",
+    "君子",
+    "道德勇气"
+  ],
+  "key_figures": [
+    "Oskar Schindler",
+    "Irena Sendler",
+    "Chiune Sugihara",
+    "Raoul Wallenberg",
+    "Aristides de Sousa Mendes",
+    "Ho Feng-Shan",
+    "Selahattin Ülkümen"
+  ],
+  "historical_period": "1933-1945",
+  "chinese_period_equivalent": "民国时期和共产主义初期 (Republican Era and Early Communist Period)",
+  "summary": {
+    "en": "An exploration of the Righteous Among the Nations — non-Jews who risked their lives to save Jewish lives during the Holocaust. Profiles heroes like Oskar Schindler, Irena Sendler, Chiune Sugihara, and others, examining their motivations, the risks they faced, and their lasting legacy of moral courage.",
+    "zh": "探索国际义人——在大屠杀期间冒着生命危险拯救犹太生命的非犹太人。介绍奥斯卡·辛德勒、伊蕾娜·森德勒、杉原千畝等英雄,探讨他们的动机、面临的风险以及道德勇气的持久遗产。",
+    "he": "חקר חסידי אומות העולם — לא-יהודים שהסתכנו בחייהם כדי להציל חיים יהודיים במהלך השואה. פרופילי גיבורים כמו אוסקר שינדלר, אירנה סנדלר, צ'יונה סוגיהרה ואחרים, בחינת המניעים שלהם, הסיכונים שהתמודדו איתם והמורשת המתמשכת של אומץ מוסרי."
+  }
+}

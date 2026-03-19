@@ -1,0 +1,100 @@
+{
+  "id": 263,
+  "title": "Ethiopian Jews: The Beta Israel and Operation Solomon",
+  "title_zh": "埃塞俄比亚犹太人:贝塔以色列与所罗门行动",
+  "title_he": "יהודי אתיופיה: בית ישראל ומבצע שלמה",
+  "section": "jewish-history",
+  "slug": "ethiopian-jews",
+  "batch": "300",
+  "status": "completed",
+  "word_count": {
+    "en": 3245,
+    "zh": 1184,
+    "he": 2567
+  },
+  "languages": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "tags": [
+    "EthiopianJews",
+    "BetaIsrael",
+    "OperationSolomon",
+    "OperationMoses",
+    "JewishHistory",
+    "Aliyah",
+    "Israel",
+    "Exodus",
+    "Redemption",
+    "JewishDiversity",
+    "寻根",
+    "犹太历史",
+    "以色列",
+    "יהודיםאתיופים",
+    "ביתישראל",
+    "מבצעשלמה",
+    "מבצעמשה",
+    "היסטוריהיהודית",
+    "עלייה"
+  ],
+  "created": "2026-03-19T04:30:00Z",
+  "author": "Torah Light Writing Team",
+  "target_audience": "Chinese Mandarin speakers with no prior Jewish knowledge",
+  "cultural_parallels": [
+    "Chinese diaspora preservation of identity",
+    "寻根 (searching for roots) concept",
+    "Homeland return movements",
+    "Dual identity challenges",
+    "Discrimination and resilience"
+  ],
+  "historical_periods": [
+    {
+      "jewish_period": "Patriarchs (Abraham-Jacob)",
+      "dates": "~1800-1500 BCE",
+      "chinese_equivalent": "Shang Dynasty 商朝"
+    },
+    {
+      "jewish_period": "First Temple Period",
+      "dates": "957-586 BCE",
+      "chinese_equivalent": "Spring & Autumn 春秋"
+    },
+    {
+      "jewish_period": "Second Temple Period",
+      "dates": "516 BCE - 70 CE",
+      "chinese_equivalent": "Warring States → Han Dynasty 战国-汉朝"
+    },
+    {
+      "jewish_period": "Ethiopian Christianity",
+      "dates": "4th century CE",
+      "chinese_equivalent": "Jin Dynasty 晋朝"
+    }
+  ],
+  "key_events": [
+    {
+      "event": "Operation Moses",
+      "date": "November 1984 - January 1985",
+      "rescued": "~8,000 Ethiopian Jews"
+    },
+    {
+      "event": "Operation Sheba/Joshua",
+      "date": "March 1985",
+      "rescued": "~500 Ethiopian Jews"
+    },
+    {
+      "event": "Operation Solomon",
+      "date": "May 24-25, 1991",
+      "rescued": "14,325 Ethiopian Jews in 36 hours"
+    }
+  ],
+  "bibliography_count": 5,
+  "all_urls_verified": true,
+  "header_image_description": "Chinese ink wash landscape depicting Ethiopian highlands meeting Jerusalem's ancient walls, with journey path, people carrying scrolls, bridging two distant lands",
+  "image_style": "traditional shan shui with African and Middle Eastern architectural elements",
+  "educational_level": "beginner to intermediate",
+  "reading_time_minutes": {
+    "en": 13,
+    "zh": 5,
+    "he": 10
+  }
+}
