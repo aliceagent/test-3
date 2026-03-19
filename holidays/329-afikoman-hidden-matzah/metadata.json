@@ -1,0 +1,72 @@
+{
+  "id": 329,
+  "title": "The Afikoman: Why We Hide Matzah and How to Make It Fun",
+  "title_zh": "阿菲科门:为什么我们要藏起无酵饼,以及如何让它变得有趣",
+  "title_he": "האפיקומן: למה אנחנו מחביאים מצה וכיצד להפוך את זה למהנה",
+  "description": "The origin of hiding the afikoman, creative hiding strategies, negotiation tips for kids, and the halachic requirement to eat it before midnight.",
+  "section": "holidays",
+  "slug": "329-afikoman-hidden-matzah",
+  "word_count": {
+    "en": 4235,
+    "zh": 2156,
+    "he": 3487
+  },
+  "languages": ["en", "zh", "he"],
+  "tags": [
+    "Passover",
+    "Afikoman",
+    "Seder",
+    "Matzah",
+    "Holidays",
+    "Children",
+    "Tradition",
+    "Redemption",
+    "Freedom",
+    "逾越节",
+    "无酵饼",
+    "犹太传统",
+    "PesachSeder",
+    "JewishEducation",
+    "TempleMemory",
+    "פסח",
+    "אפיקומן",
+    "סדר",
+    "מצה",
+    "חגים",
+    "ילדים",
+    "מסורת",
+    "גאולה",
+    "חירות"
+  ],
+  "status": "complete",
+  "created": "2026-03-19T07:47:00Z",
+  "author": "Torah Light Writer (Subagent)",
+  "cultural_parallels": [
+    "Chinese New Year red envelopes (hongbao)",
+    "Confucian concept of qing (reciprocal favor)",
+    "Mid-Autumn Festival treasure hunt traditions",
+    "Chinese riddles (miyu)"
+  ],
+  "historical_periods": [
+    {
+      "jewish": "Temple Period - Original Passover Sacrifice",
+      "dates": "~516 BCE - 70 CE",
+      "chinese_equivalent": "Late Spring and Autumn through Han Dynasty (春秋晚期至汉朝)"
+    },
+    {
+      "jewish": "Post-Temple Era - Afikoman as Replacement",
+      "dates": "70 CE onwards",
+      "chinese_equivalent": "Eastern Han Dynasty (东汉, 25-220 CE)"
+    }
+  ],
+  "key_concepts": [
+    "Afikoman as final Passover taste",
+    "Keeping children engaged in the Seder",
+    "Ransom negotiation as educational tool",
+    "Symbol of exile and redemption",
+    "Children as guarantors of tradition",
+    "Must be eaten before halachic midnight"
+  ],
+  "bibliography_count": 6,
+  "bibliography_urls_verified": true
+}
