@@ -1,0 +1,92 @@
+{
+  "id": 259,
+  "title": "Kristallnacht: The Night of Broken Glass",
+  "title_zh": "水晶之夜：碎玻璃之夜",
+  "title_he": "ליל הבדולח: ליל הזכוכית המנופצת",
+  "section": "jewish-history",
+  "slug": "kristallnacht",
+  "author": "Torah Light Editorial Team",
+  "date_created": "2026-03-19",
+  "word_count": {
+    "en": 1460,
+    "zh": 850,
+    "he": 1200
+  },
+  "languages": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "tags": [
+    "Kristallnacht",
+    "Holocaust",
+    "Jewish History",
+    "Nazi Germany",
+    "Antisemitism",
+    "Human Rights",
+    "Never Forget",
+    "Refugee Crisis",
+    "Moral Courage",
+    "Bystander Complicity",
+    "水晶之夜",
+    "大屠杀",
+    "犹太历史",
+    "民国时期",
+    "ליל_הבדולח",
+    "שואה",
+    "היסטוריה_יהודית"
+  ],
+  "difficulty": "intermediate",
+  "reading_time_minutes": {
+    "en": 12,
+    "zh": 8,
+    "he": 10
+  },
+  "historical_period": "1938 (Nazi Germany)",
+  "chinese_period_equivalent": "Republican Era (民国时期, 1912-1949)",
+  "key_concepts": [
+    "Kristallnacht pogrom",
+    "Nazi persecution escalation",
+    "International refugee crisis",
+    "Bystander complicity",
+    "Warning signs of genocide"
+  ],
+  "related_articles": [
+    253,
+    254,
+    257,
+    258,
+    260,
+    261
+  ],
+  "sources": [
+    "https://www.ushmm.org/learn/timeline-of-events/before-1933-1938/kristallnacht",
+    "https://www.yadvashem.org/articles/general/kristallnacht.html",
+    "https://www.jewishvirtuallibrary.org/kristallnacht",
+    "https://www.history.com/topics/holocaust/kristallnacht",
+    "https://www.theholocaustexplained.org/the-nazi-rise-to-power/the-nazi-rise-to-power/kristallnacht/",
+    "https://encyclopedia.ushmm.org/content/en/article/the-evian-conference"
+  ],
+  "cultural_parallels": [
+    "State-sponsored persecution patterns across cultures",
+    "Refugee crises and international response",
+    "Moral courage in times of mass violence",
+    "Temporal context: Nazi Germany during China's Republican Era"
+  ],
+  "learning_objectives": [
+    "Understand the historical significance of Kristallnacht as a turning point toward the Holocaust",
+    "Recognize warning signs of escalating persecution and genocide",
+    "Learn about international complicity through refugee policy failures",
+    "Reflect on bystander responsibility and moral courage",
+    "Apply historical lessons to contemporary refugee and human rights issues"
+  ],
+  "target_audience": "Chinese native Mandarin speakers with no prior Jewish knowledge",
+  "content_warnings": [
+    "Violence",
+    "Historical trauma",
+    "Antisemitism",
+    "Genocide"
+  ],
+  "status": "completed",
+  "version": "1.0"
+}
