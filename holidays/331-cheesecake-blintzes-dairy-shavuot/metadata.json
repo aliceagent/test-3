@@ -1,0 +1,101 @@
+{
+  "id": 331,
+  "title": "Cheesecake and Blintzes: Why We Eat Dairy on Shavuot",
+  "title_zh": "芝士蛋糕与奶酪薄饼:为何在五旬节吃乳制品",
+  "title_he": "עוגת גבינה ובלינצ'ס: למה אוכלים חלבי בשבועות",
+  "slug": "cheesecake-blintzes-dairy-shavuot",
+  "section": "holidays",
+  "description": "Five different explanations for the Shavuot dairy custom, plus recipes for classic cheesecake and cheese blintzes.",
+  "word_count_en": 4873,
+  "word_count_zh": 3842,
+  "word_count_he": 3654,
+  "char_count_zh": 5879,
+  "languages": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "tags": [
+    "Shavuot",
+    "五旬节",
+    "שבועות",
+    "Dairy",
+    "乳制品",
+    "חלבי",
+    "Cheesecake",
+    "Blintzes",
+    "בלינצ'ס",
+    "Torah",
+    "妥拉",
+    "תורה",
+    "Mount Sinai",
+    "西奈山",
+    "הר_סיני",
+    "Jewish Holidays",
+    "犹太节日",
+    "חגים_יהודיים",
+    "Kashrut",
+    "犹太饮食法",
+    "כשרות",
+    "Ten Commandments",
+    "十诫",
+    "עשרת_הדברות",
+    "Gematria",
+    "数字命理",
+    "גימטריה",
+    "Jewish Cooking",
+    "犹太烹饪",
+    "בישול_יהודי",
+    "Symbolism",
+    "象征意义",
+    "סמלים",
+    "Milk",
+    "牛奶",
+    "חלב",
+    "Recipes",
+    "食谱",
+    "מתכונים"
+  ],
+  "author": "Torah Light Editorial Team",
+  "created_date": "2026-03-19",
+  "status": "complete",
+  "quality_check": {
+    "has_introduction": true,
+    "has_main_content": true,
+    "has_practical_application": true,
+    "has_key_takeaways": true,
+    "has_bibliography": true,
+    "has_tags": true,
+    "has_header_image_description": true,
+    "chinese_historical_context": true,
+    "bibliography_urls_verified": true,
+    "three_language_versions": true,
+    "chinese_min_800_chars": true
+  },
+  "cultural_parallels": [
+    "Chinese concept of returning to simplicity (返璞归真)",
+    "40-day postpartum confinement (坐月子) as transformation period",
+    "Yin and Yang (阴阳) as complementary forces",
+    "Chinese tea culture integration with dairy traditions"
+  ],
+  "historical_periods": [
+    {
+      "jewish_period": "Giving of the Torah at Mount Sinai",
+      "approximate_dates": "~1300-1260 BCE",
+      "chinese_equivalent": "Western Zhou Dynasty (西周, 1046-771 BCE)"
+    }
+  ],
+  "recipes_included": [
+    "Classic New York Cheesecake",
+    "Traditional Cheese Blintzes"
+  ],
+  "key_concepts": [
+    "Five explanations for eating dairy on Shavuot",
+    "Torah compared to milk and honey",
+    "Gematria of chalav (40)",
+    "Dual nature of Shavuot meals",
+    "613 mitzvot connection",
+    "Ashkenazi vs Sephardi dairy traditions",
+    "Modern Jewish adaptations in Asia"
+  ]
+}
