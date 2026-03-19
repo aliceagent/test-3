@@ -1,0 +1,131 @@
+{
+  "id": 235,
+  "title": {
+    "en": "The Upsherin: A Boy's First Haircut at Age Three",
+    "zh": "理发礼（Upsherin）：三岁男孩的第一次理发",
+    "he": "האפשערן: התספורת הראשונה של הילד בגיל שלוש"
+  },
+  "slug": "upsherin-first-haircut",
+  "section": "life-cycle",
+  "topics": [
+    "lifecycle-events",
+    "childhood",
+    "education",
+    "chassidic-customs",
+    "jewish-traditions"
+  ],
+  "keywords": {
+    "en": [
+      "upsherin",
+      "first haircut",
+      "age three",
+      "jewish childhood",
+      "bar mitzvah preparation",
+      "chassidic customs",
+      "peyot",
+      "hebrew letters",
+      "torah education",
+      "jewish lifecycle",
+      "challah",
+      "mitzvot training"
+    ],
+    "zh": [
+      "理发礼",
+      "第一次理发",
+      "三岁",
+      "犹太童年",
+      "成人礼",
+      "哈西德习俗",
+      "鬓角",
+      "希伯来字母",
+      "妥拉教育",
+      "犹太生命周期",
+      "哈拉面包",
+      "诫命训练"
+    ],
+    "he": [
+      "אפשערן",
+      "תספורת ראשונה",
+      "גיל שלוש",
+      "ילדות יהודית",
+      "הכנה לבר מצווה",
+      "מנהגי חסידים",
+      "פאות",
+      "אותיות עבריות",
+      "חינוך תורני",
+      "מעגל החיים היהודי",
+      "חלה",
+      "אימון מצוות"
+    ]
+  },
+  "summary": {
+    "en": "An exploration of the upsherin ceremony, the Jewish custom of a boy's first haircut at age three, marking his transition from infancy to formal Torah education. The article examines the biblical roots in orlah laws, the ceremonial elements including hair cutting and introduction to Hebrew letters with honey, and the custom's spread from Chassidic origins to broader Jewish communities.",
+    "zh": "探讨理发礼仪式，即犹太男孩在三岁时的第一次理发习俗，标志着他从婴儿期向正式妥拉教育的过渡。文章探讨了初果禁令律法中的圣经根源、仪式元素（包括理发和用蜂蜜介绍希伯来字母），以及该习俗从哈西德起源传播到更广泛犹太社区的过程。",
+    "he": "חקירה של טקס האפשערן, המנהג היהודי של תספורת ראשונה של ילד בגיל שלוש, המסמן את המעבר שלו מתינוקות לחינוך תורני פורמלי. המאמר בוחן את השורשים המקראיים בהלכות ערלה, את מרכיבי הטקס כולל חיתוך השיער והיכרות עם אותיות עבריות עם דבש, ואת התפשטות המנהג ממקורות חסידיים לקהילות יהודיות רחבות יותר."
+  },
+  "readingTime": {
+    "en": 12,
+    "zh": 8,
+    "he": 10
+  },
+  "difficulty": "beginner",
+  "audience": "general",
+  "culturalNotes": {
+    "zh": "文章将理发礼与中国传统的童年礼仪（如抓周）进行了比较，帮助中国读者理解这一犹太习俗在文化背景中的意义。强调了教育开始的重要性和积极关联的价值，这些主题在中国文化中也有深刻共鸣。"
+  },
+  "bibliography": [
+    {
+      "type": "primary-text",
+      "title": "Torah - Leviticus 19:23",
+      "description": "Orlah - laws of young fruit trees",
+      "language": "hebrew"
+    },
+    {
+      "type": "primary-text",
+      "title": "Torah - Leviticus 19:27",
+      "description": "Commandment regarding peyot (sidelocks)",
+      "language": "hebrew"
+    },
+    {
+      "type": "primary-text",
+      "title": "Talmud Bavli - Sukkah 42a",
+      "description": "Teaching Torah to young children",
+      "language": "aramaic"
+    },
+    {
+      "type": "primary-text",
+      "title": "Psalms 119:103",
+      "description": "Sweetness of Torah",
+      "language": "hebrew"
+    },
+    {
+      "type": "halakhic",
+      "title": "Shulchan Aruch - Yoreh De'ah 181",
+      "description": "Laws regarding peyot",
+      "language": "hebrew"
+    },
+    {
+      "type": "kabbalistic",
+      "title": "Works of the Arizal (Rabbi Isaac Luria)",
+      "description": "Mystical significance of the haircut ceremony",
+      "language": "hebrew"
+    },
+    {
+      "type": "kabbalistic",
+      "title": "Zohar",
+      "description": "Mystical significance of hair and age three",
+      "language": "aramaic"
+    }
+  ],
+  "relatedArticles": [
+    "bar-mitzvah",
+    "jewish-education",
+    "lifecycle-milestones",
+    "chassidic-customs",
+    "childhood-mitzvot"
+  ],
+  "dateCreated": "2026-03-19",
+  "lastModified": "2026-03-19",
+  "author": "Torah Light Project",
+  "status": "published"
+}

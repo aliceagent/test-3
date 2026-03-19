@@ -1,0 +1,139 @@
+{
+  "id": 234,
+  "title": "Daf Yomi: The Global Movement to Study One Page of Talmud Daily",
+  "title_zh": "每日一页：全球犹太人共同学习塔木德的运动",
+  "title_he": "דף יומי: התנועה העולמית ללימוד עמוד אחד של תלמוד מדי יום",
+  "section": "jewish-texts",
+  "slug": "daf-yomi-movement",
+  "author": "Torah Light Editorial Team",
+  "date_created": "2026-03-19",
+  "languages": ["en", "zh", "he"],
+  "word_count": {
+    "en": 2847,
+    "zh": 1689,
+    "he": 1456
+  },
+  "reading_time_minutes": {
+    "en": 11,
+    "zh": 8,
+    "he": 7
+  },
+  "tags": [
+    "Daf Yomi",
+    "Talmud Study",
+    "Jewish Learning",
+    "Daily Study",
+    "Siyum HaShas",
+    "Rabbi Meir Shapiro",
+    "Global Jewish Unity",
+    "Adult Education",
+    "Religious Practice",
+    "Jewish Texts"
+  ],
+  "difficulty": "beginner",
+  "target_audience": "Those interested in understanding the Daf Yomi movement and systematic Talmud study",
+  "key_concepts": [
+    "Daf Yomi cycle and structure",
+    "Rabbi Meir Shapiro's vision",
+    "Global participation and unity",
+    "Siyum HaShas celebrations",
+    "Modern technology and accessibility",
+    "Daily discipline and consistency",
+    "7.5-year learning cycle"
+  ],
+  "chinese_parallels": [
+    "Civil Service Examination System (科举制度) - systematic study for advancement",
+    "Morning Reading (早读) - daily learning discipline",
+    "Not accumulating small steps (不积跬步，无以至千里) - gradual progress philosophy",
+    "Private academies (书院) - communal learning traditions",
+    "Kung Fu practice - mastery through daily repetition"
+  ],
+  "sources": [
+    {
+      "type": "historical",
+      "title": "First International Congress of Agudath Israel",
+      "date": "1923",
+      "description": "Where Rabbi Meir Shapiro proposed Daf Yomi"
+    },
+    {
+      "type": "text",
+      "title": "Babylonian Talmud",
+      "tractates": "All 37 tractates in the Daf Yomi cycle"
+    },
+    {
+      "type": "text",
+      "title": "Pirkei Avot 2:15-16",
+      "description": "Teaching on commitment to work"
+    },
+    {
+      "type": "text",
+      "title": "Pirkei Avot 4:17",
+      "description": "A little that holds a lot"
+    },
+    {
+      "type": "organization",
+      "name": "World Agudath Israel",
+      "description": "Organization that hosted the congress where Daf Yomi was proposed"
+    },
+    {
+      "type": "resource",
+      "name": "Steinsaltz Talmud",
+      "description": "Modern edition with extensive commentary for learners"
+    },
+    {
+      "type": "resource",
+      "name": "ArtScroll Schottenstein Edition",
+      "description": "Popular English-Hebrew Talmud with translation and notes"
+    }
+  ],
+  "related_articles": [
+    233,
+    195,
+    197,
+    238,
+    236
+  ],
+  "historical_periods": [
+    "1923 - Proposal at Vienna Congress",
+    "1923 (Rosh Hashanah) - First cycle begins",
+    "2020 - 13th Siyum HaShas",
+    "2028 (January 5) - 14th cycle begins"
+  ],
+  "practical_applications": [
+    "Starting a Daf Yomi practice",
+    "Choosing study resources and formats",
+    "Finding study partners or groups",
+    "Using modern technology for learning",
+    "Joining mid-cycle vs. waiting for new cycle",
+    "Balancing depth with consistent progress"
+  ],
+  "seo_keywords": [
+    "Daf Yomi",
+    "Daily Talmud study",
+    "Jewish learning program",
+    "Rabbi Meir Shapiro",
+    "Siyum HaShas",
+    "Babylonian Talmud cycle",
+    "Global Jewish unity",
+    "Torah study methods",
+    "Jewish education",
+    "Talmud for beginners"
+  ],
+  "summary": {
+    "en": "Daf Yomi, proposed by Rabbi Meir Shapiro in 1923, is a global movement uniting Jews worldwide through the study of one page of Talmud daily. This 7.5-year cycle covers all 2,711 pages of the Babylonian Talmud, creating unprecedented unity through shared learning. The article explores its history, global impact, modern adaptations, and practical guidance for beginners.",
+    "zh": "每日一页由梅尔·沙皮罗拉比于1923年提出，是一个全球运动，通过每天学习一页塔木德将世界各地的犹太人团结在一起。这个7.5年的循环涵盖巴比伦塔木德的全部2,711页，通过共同学习创造了前所未有的团结。文章探讨了其历史、全球影响、现代适应以及初学者的实用指导。",
+    "he": "דף יומי, שהוצע על ידי הרב מאיר שפירא בשנת 1923, הוא תנועה עולמית המאחדת יהודים ברחבי העולם דרך לימוד עמוד אחד של תלמוד מדי יום. מחזור של 7.5 שנים מכסה את כל 2,711 הדפים של התלמוד הבבלי, יוצר אחדות חסרת תקדים דרך למידה משותפת. המאמר בוחן את ההיסטוריה, ההשפעה העולמית, ההתאמות המודרניות והדרכה מעשית למתחילים."
+  },
+  "educational_level": "Suitable for complete beginners; no prior Talmud knowledge required",
+  "cultural_sensitivity_notes": "Includes thoughtful parallels to Chinese intellectual traditions (civil service exams, morning reading, gradual learning philosophy) to make the concept accessible to Mandarin-speaking readers without Jewish background.",
+  "batch": "300",
+  "status": "complete",
+  "qa_checklist": {
+    "word_count_met": true,
+    "chinese_parallels_included": true,
+    "sources_verified": false,
+    "all_languages_complete": true,
+    "metadata_complete": true,
+    "cultural_sensitivity_reviewed": true
+  }
+}
