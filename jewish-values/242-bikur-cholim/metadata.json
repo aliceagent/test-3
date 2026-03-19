@@ -1,0 +1,119 @@
+{
+  "id": 242,
+  "title": "Bikur Cholim: The Mitzvah of Visiting the Sick",
+  "title_zh": "探访病人：犹太教的神圣义务（Bikur Cholim）",
+  "title_he": "ביקור חולים: המצווה של ביקור חולים",
+  "section": "jewish-values",
+  "slug": "bikur-cholim",
+  "word_count_en": 1456,
+  "char_count_zh": 4755,
+  "word_count_he": 1312,
+  "status": "completed",
+  "author": "Torah Light Production Team",
+  "date_created": "2026-03-19",
+  "tags": [
+    "bikur-cholim",
+    "visiting-the-sick",
+    "chesed",
+    "loving-kindness",
+    "mitzvah",
+    "interpersonal-laws",
+    "compassion",
+    "healthcare",
+    "mental-health",
+    "community",
+    "talmud",
+    "jewish-law",
+    "social-justice",
+    "abraham",
+    "rambam",
+    "maimonides",
+    "jewish-values"
+  ],
+  "sources": [
+    {
+      "title": "The Mitzvah of Bikur Cholim: Visiting the Sick",
+      "source": "Chabad.org",
+      "url": "https://www.chabad.org/library/article_cdo/aid/1045969/jewish/Visiting-the-Sick.htm",
+      "type": "article"
+    },
+    {
+      "title": "Genesis 18:1 with Commentary",
+      "source": "Sefaria.org",
+      "url": "https://www.sefaria.org/Genesis.18.1",
+      "type": "primary-text"
+    },
+    {
+      "title": "Nedarim 39b-40a",
+      "source": "Sefaria.org",
+      "url": "https://www.sefaria.org/Nedarim.39b-40a",
+      "type": "primary-text"
+    },
+    {
+      "title": "Mishneh Torah, Mourning 14:1-7",
+      "source": "Sefaria.org",
+      "url": "https://www.sefaria.org/Mishneh_Torah,_Mourning.14.1",
+      "type": "primary-text"
+    },
+    {
+      "title": "The Blessing of Illness: Bikur Cholim in Jewish Law and Practice",
+      "source": "Aish.com",
+      "url": "https://aish.com/the-mitzvah-of-visiting-the-sick/",
+      "type": "article"
+    },
+    {
+      "title": "Shabbat 127a",
+      "source": "Sefaria.org",
+      "url": "https://www.sefaria.org/Shabbat.127a",
+      "type": "primary-text"
+    }
+  ],
+  "chinese_parallels": [
+    {
+      "concept": "探病 (tànbìng)",
+      "description": "Traditional Chinese practice of visiting the sick"
+    },
+    {
+      "concept": "仁 (rén)",
+      "description": "Confucian concept of benevolence and humaneness"
+    },
+    {
+      "concept": "孝心 (xiàoxīn)",
+      "description": "Filial devotion, including care for elderly or ill parents"
+    },
+    {
+      "concept": "友谊 (yǒuyì)",
+      "description": "Friendship obligations including visiting sick friends"
+    }
+  ],
+  "historical_context": [
+    {
+      "jewish_period": "Patriarchs (Abraham)",
+      "approximate_dates": "~1800 BCE",
+      "chinese_equivalent": "Shang Dynasty (商朝)",
+      "chinese_dates": "~1600-1046 BCE"
+    },
+    {
+      "jewish_period": "Rambam (Maimonides)",
+      "approximate_dates": "1138-1204 CE",
+      "chinese_equivalent": "Song Dynasty (宋朝)",
+      "chinese_dates": "960-1279 CE"
+    }
+  ],
+  "key_themes": [
+    "Divine imitation (Imitatio Dei)",
+    "Interpersonal obligations",
+    "Practical compassion",
+    "Prayer in presence",
+    "Human dignity",
+    "Community responsibility",
+    "Mental and physical health",
+    "Cross-cultural values"
+  ],
+  "language_versions": {
+    "english": "article-en.md",
+    "chinese": "article-zh.md",
+    "hebrew": "article-he.md"
+  },
+  "production_notes": "Article focuses on the mitzvah of bikur cholim (visiting the sick) with emphasis on its divine origins, practical applications, and cross-cultural parallels. Includes detailed halachic guidelines and modern applications including mental health and virtual visits."
+}

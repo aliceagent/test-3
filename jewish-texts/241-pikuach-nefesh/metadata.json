@@ -1,0 +1,105 @@
+{
+  "id": 241,
+  "title": {
+    "en": "Pikuach Nefesh: When Saving a Life Overrides Everything",
+    "zh": "生命至上原则（Pikuach Nefesh）：当拯救生命凌驾于一切之上",
+    "he": "פיקוח נפש: כאשר הצלת חיים גוברת על הכל"
+  },
+  "slug": "pikuach-nefesh",
+  "section": "jewish-texts",
+  "batch": 300,
+  "word_count": {
+    "en": 4256,
+    "zh": 1621,
+    "he": 2987
+  },
+  "status": "complete",
+  "tags": [
+    "PikuachNefesh",
+    "SavingLife",
+    "Shabbat",
+    "EmergencyHalacha",
+    "MedicalEthics",
+    "JewishLaw",
+    "ShulchanAruch",
+    "Talmud",
+    "YomKippur",
+    "MentalHealth",
+    "PublicHealth",
+    "Halacha",
+    "JewishValues",
+    "HumanLife",
+    "JewishTexts",
+    "生命至上",
+    "犹太法",
+    "安息日",
+    "פיקוחנפש",
+    "הלכה",
+    "שבת"
+  ],
+  "author": "Torah Light Writing Team",
+  "date_written": "2026-03-19",
+  "language_versions": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "primary_sources": [
+    "Leviticus 18:5",
+    "Talmud Yoma 85b",
+    "Shulchan Aruch Orach Chaim 328",
+    "Sanhedrin 37a"
+  ],
+  "historical_periods": [
+    {
+      "jewish_period": "Patriarchal Period",
+      "dates": "~1800 BCE",
+      "chinese_equivalent": "Shang Dynasty (商朝, ~1600-1046 BCE)"
+    },
+    {
+      "jewish_period": "Maccabean Period",
+      "dates": "~167-160 BCE",
+      "chinese_equivalent": "Western Han Dynasty (西汉)"
+    },
+    {
+      "jewish_period": "Medieval Rabbis",
+      "dates": "1563 CE (Shulchan Aruch)",
+      "chinese_equivalent": "Ming Dynasty (明朝)"
+    },
+    {
+      "jewish_period": "Mussar Movement",
+      "dates": "19th Century (Rabbi Yisrael Salanter)",
+      "chinese_equivalent": "Qing Dynasty (清朝)"
+    },
+    {
+      "jewish_period": "Medieval Commentators",
+      "dates": "1194-1270 CE (Ramban)",
+      "chinese_equivalent": "Southern Song Dynasty (南宋)"
+    }
+  ],
+  "cultural_parallels": [
+    {
+      "concept": "Confucian Ethics and Flexibility",
+      "description": "Parallels between pikuach nefesh and Confucian teaching that ritual (礼) must serve human welfare, not undermine it. Both traditions recognize that rigid adherence to rules can violate the spirit of those rules."
+    }
+  ],
+  "key_figures": [
+    "Rabbi Yishmael",
+    "Rabbi Yosef Karo",
+    "Rabbi Yisrael Salanter",
+    "Rabbi Moshe Feinstein",
+    "Ramban (Nachmanides)",
+    "Rabbi Abraham Joshua Heschel"
+  ],
+  "bibliography_count": 8,
+  "header_image_style": "Chinese ink wash (水墨) / shan shui (山水) landscape",
+  "target_audience": "Chinese native Mandarin speakers, no prior Jewish knowledge",
+  "educational_goals": [
+    "Understand the foundational principle of pikuach nefesh in Jewish law",
+    "Learn which commandments are overridden to save a life",
+    "Know when and how to act in emergencies without hesitation",
+    "Recognize mental health crises as pikuach nefesh situations",
+    "Understand the philosophical basis for life taking precedence",
+    "See parallels with Confucian ethical flexibility"
+  ]
+}

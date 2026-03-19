@@ -1,0 +1,56 @@
+{
+  "id": 245,
+  "title": "The Alter Rebbe: Rabbi Schneur Zalman and the Birth of Chabad",
+  "title_zh": "阿尔特·雷贝:拉比施纽尔·扎勒曼与查巴德的诞生",
+  "title_he": "האדמו\"ר הזקן: רבי שניאור זלמן מלאדי ולידת חב\"ד",
+  "section": "chabad",
+  "slug": "alter-rebbe-chabad",
+  "word_count_en": 4850,
+  "word_count_zh": 4200,
+  "word_count_he": 4100,
+  "status": "complete",
+  "author": "Torah Light Writing Team",
+  "date_created": "2026-03-19",
+  "tags": [
+    "Alter Rebbe",
+    "Rabbi Schneur Zalman",
+    "Chabad",
+    "Chassidism",
+    "Tanya",
+    "19 Kislev",
+    "Beinoni",
+    "Chochmah Binah Daat",
+    "Qing Dynasty",
+    "Jewish Philosophy",
+    "Chabad History",
+    "Chinese Cultural Parallels"
+  ],
+  "chinese_dynasty": "Qing Dynasty (清朝, 1644-1912)",
+  "historical_period": "Late 18th - Early 19th Century",
+  "key_figures": [
+    "Rabbi Schneur Zalman of Liadi (1745-1812)",
+    "The Maggid of Mezritch",
+    "Baal Shem Tov",
+    "Rabbi Dov Ber (Mitteler Rebbe)"
+  ],
+  "key_concepts": [
+    "Chabad philosophy",
+    "Tanya",
+    "Beinoni (intermediate person)",
+    "Mind over heart",
+    "Intellectual contemplation (hitbonenut)",
+    "Divine soul vs. animal soul",
+    "19 Kislev liberation"
+  ],
+  "bibliography_count": 10,
+  "languages": ["en", "zh", "he"],
+  "target_audience": "Mandarin speakers with no prior Jewish knowledge",
+  "reading_level": "intermediate",
+  "cultural_parallels": [
+    "Confucian scholar-disciple relationships",
+    "Neo-Confucian self-cultivation (修身)",
+    "Investigation of things to extend knowledge (格物致知)",
+    "Taoist wu wei (无为)",
+    "Chinese Qing Dynasty (Emperor Qianlong)"
+  ]
+}
