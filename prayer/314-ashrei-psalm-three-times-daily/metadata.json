@@ -1,0 +1,72 @@
+{
+  "id": 314,
+  "title": "Ashrei: The Psalm Recited Three Times Daily",
+  "title_zh": "Ashrei:每日诵读三次的诗篇",
+  "title_he": "אשרי: המזמור הנאמר שלוש פעמים ביום",
+  "section": "prayer",
+  "slug": "ashrei-psalm-three-times-daily",
+  "description": "Why Psalm 145 holds such a central place in Jewish prayer — its acrostic structure, its promises, and the missing letter nun.",
+  "description_zh": "为什么《诗篇》145篇在犹太祈祷中占据如此核心的地位——它的离合诗结构、它的承诺和缺失的字母nun。",
+  "description_he": "מדוע תהילים קמ\"ה מחזיק מקום כה מרכזי בתפילה היהודית — מבנה האקרוסטיכון שלו, הבטחותיו והאות הנון החסרה.",
+  "word_count": {
+    "en": 4231,
+    "zh": 1843,
+    "he": 2956
+  },
+  "tags": [
+    "Ashrei",
+    "Psalms",
+    "DailyPrayer",
+    "Shacharit",
+    "Mincha",
+    "Maariv",
+    "Kavanah",
+    "Acrostic",
+    "TehillimPsalms",
+    "GodsProvidence",
+    "WorldToCome",
+    "Talmud",
+    "三时",
+    "祈祷",
+    "诗篇",
+    "Prayer",
+    "תהילים",
+    "תפילה"
+  ],
+  "cultural_parallels": [
+    "Three daily prayer times similar to Buddhist/Daoist practice (三时)",
+    "Alphabetic acrostic structure similar to Chinese hidden-head poetry (藏头诗)",
+    "Repetitive practice as formation similar to Confucian ritual (礼)",
+    "Chinese historical periods: Han Dynasty (汉朝) for Second Temple period, Song Dynasty (宋朝) for medieval rabbis"
+  ],
+  "key_sources": [
+    "Psalm 145 (Tehillim)",
+    "Talmud Bavli Berachot 4b",
+    "Maharal of Prague - Netivot Olam",
+    "Ramban (Nachmanides) on Psalms"
+  ],
+  "historical_periods": {
+    "composition": "First Temple Period (957-586 BCE) / Spring and Autumn Period China (春秋时代)",
+    "liturgical_elevation": "Late Second Temple / Early Rabbinic (1st-2nd century CE) / Han Dynasty China (汉朝)",
+    "talmudic_formalization": "200-500 CE / Three Kingdoms-Jin Dynasty China (三国-晋朝)",
+    "medieval_standardization": "1040-1105 CE (Rashi) / Song Dynasty China (宋朝)"
+  },
+  "bibliography_count": 8,
+  "status": "complete",
+  "date_written": "2026-03-19",
+  "writer_agent": "torah-writer-314",
+  "language_compliance": {
+    "english": true,
+    "chinese": true,
+    "hebrew": true,
+    "chinese_char_count": 5218,
+    "chinese_minimum_met": true
+  },
+  "quality_checks": {
+    "chinese_dynasty_mappings": true,
+    "bibliography_urls": true,
+    "three_language_versions": true,
+    "tags_section": true,
+    "header_image_description": true
+  }
+}
