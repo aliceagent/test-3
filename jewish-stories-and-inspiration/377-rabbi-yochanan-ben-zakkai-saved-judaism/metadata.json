@@ -1,0 +1,86 @@
+{
+  "id": 377,
+  "title": "Rabbi Yochanan Ben Zakkai: The Man Who Saved Judaism After the Temple",
+  "title_zh": "拉比约哈南·本·扎卡伊：拯救圣殿之后犹太教的人",
+  "title_he": "רבי יוחנן בן זכאי: האיש שהציל את היהדות אחרי בית המקדש",
+  "slug": "rabbi-yochanan-ben-zakkai-saved-judaism",
+  "section": "jewish-stories-and-inspiration",
+  "description": "How one rabbi smuggled himself out of besieged Jerusalem in a coffin and negotiated with the Romans to save the academy at Yavneh, ensuring Judaism's survival after the Temple's destruction.",
+  "description_zh": "一位拉比如何将自己藏在棺材里从被围困的耶路撒冷偷运出来，并与罗马人谈判以拯救雅夫内的学院，确保圣殿被毁后犹太教的存续。",
+  "description_he": "איך רב אחד הבריח את עצמו מירושלים הנצורה בארון מתים וניהל משא ומתן עם הרומאים כדי להציל את הישיבה ביבנה, מבטיח את שרידות היהדות אחרי חורבן בית המקדש.",
+  "status": "draft",
+  "word_count": {
+    "en": 1450,
+    "zh": 2200,
+    "he": 1650
+  },
+  "files": {
+    "en": "article-en.md",
+    "zh": "article-zh.md",
+    "he": "article-he.md"
+  },
+  "tags": [
+    "RabbiYochananBenZakkai",
+    "拉比约哈南本扎卡伊",
+    "Yavneh",
+    "雅夫内",
+    "SecondTemple",
+    "第二圣殿",
+    "JewishHistory",
+    "犹太历史",
+    "Talmud",
+    "塔木德",
+    "RomanDestruction",
+    "RabbinicJudaism",
+    "拉比犹太教",
+    "LeadershipInCrisis",
+    "TorahStudy",
+    "托拉学习"
+  ],
+  "historical_figures": [
+    "Rabbi Yochanan ben Zakkai",
+    "Vespasian",
+    "Rabbi Eliezer ben Hyrcanus",
+    "Rabbi Joshua ben Hananiah",
+    "Abba Sikra",
+    "Hillel",
+    "Shammai"
+  ],
+  "historical_period": {
+    "jewish": "Second Temple Period to Mishnaic Period (70 CE)",
+    "chinese": "Eastern Han Dynasty (东汉朝, 25-220 CE)"
+  },
+  "sources": [
+    {
+      "title": "Gittin 56a-b",
+      "source": "Talmud Bavli",
+      "url": "https://www.sefaria.org/Gittin.56a"
+    },
+    {
+      "title": "Rabban Yochanan ben Zakkai",
+      "source": "Chabad.org",
+      "url": "https://www.chabad.org/library/article_cdo/aid/112077/jewish/Rabban-Yochanan-ben-Zakkai.htm"
+    },
+    {
+      "title": "Yavneh: The Crucible of Rabbinic Judaism",
+      "source": "My Jewish Learning",
+      "url": "https://www.myjewishlearning.com/article/yavneh/"
+    },
+    {
+      "title": "The Destruction of the Second Temple",
+      "source": "Jewish Virtual Library",
+      "url": "https://www.jewishvirtuallibrary.org/the-destruction-of-the-second-temple"
+    },
+    {
+      "title": "Pirkei Avot 2:8",
+      "source": "Mishnah",
+      "url": "https://www.sefaria.org/Pirkei_Avot.2.8"
+    }
+  ],
+  "created_at": "2026-03-19",
+  "language_versions": {
+    "en": true,
+    "zh": true,
+    "he": true
+  }
+}
