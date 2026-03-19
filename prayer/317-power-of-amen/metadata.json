@@ -1,0 +1,67 @@
+{
+  "id": 317,
+  "title": "The Power of Amen: What You're Really Saying",
+  "title_zh": "阿们的力量：你真正在说什么",
+  "title_he": "כוח האמן: מה אתה באמת אומר",
+  "section": "prayer",
+  "slug": "power-of-amen",
+  "description": "The etymology, laws, and spiritual weight of responding 'Amen' — why it's considered even greater than making the blessing itself.",
+  "word_count": {
+    "en": 4420,
+    "zh": 3890,
+    "he": 3620
+  },
+  "tags": [
+    "Amen",
+    "Prayer",
+    "Kavanah",
+    "Communal Prayer",
+    "Jewish Law",
+    "Halacha",
+    "Mysticism",
+    "Kabbalah",
+    "Gematria",
+    "Names of God",
+    "Affirmation",
+    "Chinese-Jewish Bridge",
+    "真言",
+    "正名",
+    "Berakhot",
+    "Talmud",
+    "Shulchan Aruch",
+    "Baal Shem Tov",
+    "Chafetz Chaim",
+    "Mishnah Berurah"
+  ],
+  "status": "completed",
+  "author": "Torah Light Editorial Team",
+  "date_created": "2026-03-19",
+  "chinese_cultural_parallels": [
+    "正名 (zhèngmíng) - Confucian rectification of names",
+    "真言 (zhēnyán) - Daoist mantras and true words",
+    "Verbal affirmation in Chinese toasts and blessings"
+  ],
+  "historical_period_mapping": {
+    "second_temple": "Warring States → Han Dynasty (汉朝)",
+    "talmudic": "Three Kingdoms → Jin Dynasty",
+    "medieval_rabbis": "Song → Ming Dynasty (宋明)",
+    "modern": "Qing Dynasty → Republican period (清朝)"
+  },
+  "key_sources": [
+    "Babylonian Talmud, Berakhot 47a",
+    "Babylonian Talmud, Shabbat 119b",
+    "Shulchan Aruch, Orach Chaim 124",
+    "Mishnah Berurah on Orach Chaim 124",
+    "Deuteronomy 27:15-26",
+    "Nehemiah 8:6",
+    "Rashi on Deuteronomy 27:15"
+  ],
+  "learning_objectives": [
+    "Understand the etymology and meaning of 'Amen'",
+    "Learn the precise halachic rules for answering Amen",
+    "Discover the mystical significance of Amen as a name of God",
+    "Appreciate why the Talmud considers answering Amen greater than reciting the blessing",
+    "Develop a mindful practice of responding with intention",
+    "Connect Jewish concepts of verbal affirmation to Chinese philosophical traditions"
+  ]
+}

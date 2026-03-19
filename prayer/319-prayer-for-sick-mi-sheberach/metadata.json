@@ -1,0 +1,53 @@
+{
+  "id": 319,
+  "title": "Prayer for the Sick: Mi Sheberach and Tehillim for Healing",
+  "title_zh": "为病人祈祷:米·舍贝拉赫祷文与诗篇的医治力量",
+  "title_he": "תפילה לחולה: מי שברך ותהילים לרפואה",
+  "section": "prayer",
+  "slug": "prayer-for-sick-mi-sheberach",
+  "description": "How to request a Mi Sheberach prayer, which Psalms to recite for a sick person, and the Jewish approach to prayer and medicine.",
+  "word_count": {
+    "en": 3891,
+    "zh": 1457,
+    "he": 2683
+  },
+  "tags": [
+    "Prayer",
+    "Healing",
+    "Mi Sheberach",
+    "Tehillim",
+    "Psalms",
+    "Refuah Shleimah",
+    "Bikur Cholim",
+    "Medicine",
+    "Faith",
+    "Community",
+    "祈祷",
+    "医治",
+    "祈福",
+    "诗篇",
+    "信仰",
+    "身心合一",
+    "תפילה",
+    "ריפוי",
+    "מישברך",
+    "תהלים",
+    "רפואהשלמה",
+    "ביקורחולים"
+  ],
+  "status": "complete",
+  "created": "2026-03-19T06:59:00Z",
+  "author": "Torah Light Writing Team",
+  "languages": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "bibliography_count": 8,
+  "chinese_dynasty_references": [
+    "Western Zhou Dynasty (西周, ~1000 BCE)",
+    "Song Dynasty (宋朝, 960-1279 CE)",
+    "Three Kingdoms and Jin Dynasty (200-500 CE)",
+    "Spring and Autumn Period (春秋, ~700 BCE)"
+  ]
+}

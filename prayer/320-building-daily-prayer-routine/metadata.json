@@ -1,0 +1,60 @@
+{
+  "id": 320,
+  "title": "Building a Daily Prayer Routine: A 30-Day Plan for Beginners",
+  "title_zh": "建立每日祈祷习惯：30天新手计划",
+  "title_he": "בניית שגרת תפילה יומית: תוכנית 30 יום למתחילים",
+  "section": "prayer",
+  "description": "A gradual plan that starts with Modeh Ani on Day 1 and builds to a complete Shacharit by Day 30 — designed for absolute beginners.",
+  "word_count": {
+    "en": 4850,
+    "zh": 1420,
+    "he": 2680
+  },
+  "tags": [
+    "Prayer",
+    "Daily Practice",
+    "Shacharit",
+    "Amidah",
+    "Shema",
+    "Beginner Guide",
+    "Spiritual Discipline",
+    "Modeh Ani",
+    "Siddur",
+    "功夫",
+    "修身",
+    "Daily Routine",
+    "תפילה",
+    "שחרית",
+    "עמידה"
+  ],
+  "cultural_parallels": [
+    "Confucian self-cultivation (修身)",
+    "Buddhist meditation practices",
+    "Tai Chi and Qigong morning routines",
+    "Gongfu (功夫) - skill through repetition"
+  ],
+  "key_concepts": [
+    "Modeh Ani (morning gratitude prayer)",
+    "Birchot HaShachar (morning blessings)",
+    "Pesukei D'Zimra (verses of praise)",
+    "Shema and its blessings",
+    "Amidah (standing prayer)",
+    "30-day gradual building plan",
+    "Connection, structure, and transformation"
+  ],
+  "target_audience": "Absolute beginners to Jewish prayer, particularly Chinese speakers with no prior Jewish knowledge",
+  "reading_time_minutes": {
+    "en": 20,
+    "zh": 8,
+    "he": 12
+  },
+  "bibliography_sources": 8,
+  "created": "2026-03-19",
+  "language_versions": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "slug": "320-building-daily-prayer-routine",
+  "status": "complete"
+}
