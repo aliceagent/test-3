@@ -1,0 +1,63 @@
+{
+  "id": 284,
+  "title": "Geneivat Da'at: The Prohibition Against Deception",
+  "title_zh": "欺瞒心灵之罪:犹太法律对欺骗的严格禁止",
+  "title_he": "גניבת דעת: איסור הרמייה והטעייה",
+  "section": "money-business",
+  "slug": "geneivat-daat",
+  "word_count": {
+    "en": 1482,
+    "zh": 1067,
+    "he": 1023
+  },
+  "character_count": {
+    "zh": 4258,
+    "he": 5871
+  },
+  "tags": [
+    "GeneivátDaát",
+    "Deception",
+    "BusinessEthics",
+    "JewishLaw",
+    "Honesty",
+    "Integrity",
+    "Theft",
+    "Truth",
+    "Halacha",
+    "MoneyAndBusiness",
+    "Teshuvah",
+    "Repentance",
+    "Confucianism",
+    "诚信",
+    "ChineseParallels",
+    "Maimonides",
+    "Talmud"
+  ],
+  "bibliography_count": 10,
+  "chinese_historical_context": [
+    "Eastern Han Dynasty (东汉, 25-220 CE)",
+    "Southern Song Dynasty (南宋, 1127-1279 CE)"
+  ],
+  "key_concepts": [
+    "geneivat da'at (stealing the mind)",
+    "prohibition of deception as theft",
+    "universal application to all people",
+    "chéngxìn (诚信) - Confucian parallel",
+    "teshuvah (repentance) for deception",
+    "business ethics in Jewish law"
+  ],
+  "talmudic_sources": [
+    "Chullin 94a-b",
+    "Tosefta Bava Kamma 7:3",
+    "Shabbat 55a"
+  ],
+  "rabbinic_authorities": [
+    "Rabbi Meir (2nd century CE)",
+    "Rabbi Yochanan",
+    "Maimonides (Rambam)",
+    "Rabbeinu Yonah"
+  ],
+  "created_date": "2026-03-19",
+  "status": "complete",
+  "batch": 300
+}

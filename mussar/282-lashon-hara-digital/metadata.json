@@ -1,0 +1,65 @@
+{
+  "id": 282,
+  "title": "Lashon Hara in the Digital Age: Jewish Speech Ethics Online",
+  "title_zh": "数字时代的恶语:犹太网络言论伦理",
+  "title_he": "לשון הרע בעידן הדיגיטלי: אתיקת דיבור יהודית ברשת",
+  "section": "mussar",
+  "slug": "lashon-hara-digital",
+  "word_count_en": 3547,
+  "word_count_zh": 1237,
+  "word_count_he": 2389,
+  "status": "complete",
+  "language_versions": {
+    "en": "article-en.md",
+    "zh": "article-zh.md",
+    "he": "article-he.md"
+  },
+  "tags": [
+    "LashonHara",
+    "SpeechEthics",
+    "Mussar",
+    "DigitalAge",
+    "SocialMedia",
+    "JewishLaw",
+    "ChofetzChaim",
+    "ShmirathHaLashon",
+    "恶语",
+    "言论伦理",
+    "社交媒体",
+    "犹太法",
+    "Gossip",
+    "Slander",
+    "OnlineEthics",
+    "Compassion",
+    "Mindfulness",
+    "慈悲",
+    "正语",
+    "儒家",
+    "Teshuvah"
+  ],
+  "created": "2026-03-19T03:40:00Z",
+  "author": "Torah Light Writing Team",
+  "cultural_parallels": [
+    "Confucian thought on cautious speech",
+    "Daoist wisdom on silence",
+    "Buddhist Right Speech",
+    "Chinese ethical traditions"
+  ],
+  "historical_period_mapping": {
+    "lashon_hara_origin": "~1800 BCE (Shang Dynasty 商朝)",
+    "chofetz_chaim": "1838-1933 CE (Late Qing Dynasty 清朝)"
+  },
+  "key_sources": [
+    "Leviticus 19:16",
+    "Talmud Arachin 15b",
+    "Chofetz Chaim",
+    "Pirkei Avot 4:1"
+  ],
+  "target_audience": "Native Mandarin speakers with no prior Jewish knowledge",
+  "reading_level": "Intermediate to Advanced",
+  "estimated_reading_time_minutes": {
+    "en": 16,
+    "zh": 8,
+    "he": 12
+  }
+}

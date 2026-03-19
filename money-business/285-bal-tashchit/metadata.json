@@ -1,0 +1,65 @@
+{
+  "id": 285,
+  "title": "Bal Tashchit: The Torah's Environmental Ethic",
+  "title_zh": "不可毁坏:《托拉》的环保伦理",
+  "title_he": "בל תשחית: האתיקה הסביבתית של התורה",
+  "section": "money-business",
+  "slug": "bal-tashchit",
+  "word_count": {
+    "en": 3421,
+    "zh": 1356,
+    "he": 2087
+  },
+  "language_files": {
+    "english": "article-en.md",
+    "chinese": "article-zh.md",
+    "hebrew": "article-he.md"
+  },
+  "status": "completed",
+  "author": "Torah Light Team",
+  "date_created": "2026-03-19",
+  "last_updated": "2026-03-19",
+  "tags": [
+    "bal-tashchit",
+    "environment",
+    "stewardship",
+    "conservation",
+    "waste-prevention",
+    "jewish-law",
+    "torah",
+    "sustainability",
+    "resource-management",
+    "gratitude",
+    "money-business",
+    "惜物",
+    "道法自然",
+    "节俭",
+    "environmental-ethics"
+  ],
+  "cultural_parallels": [
+    "Daoist wu-wei (无为)",
+    "Confucian stewardship (儒家管理)",
+    "Chinese frugality (节俭)",
+    "Xi wu - cherishing things (惜物)",
+    "Buddhist ahimsa (non-harm)"
+  ],
+  "historical_context": {
+    "biblical_period": "Late Shang Dynasty (商朝晚期, ~1300 BCE)",
+    "talmudic_period": "Three Kingdoms to Jin Dynasty (三国至晋朝, ~200-500 CE)",
+    "medieval_codes": "Ming Dynasty (明朝, ~1500s CE)"
+  },
+  "key_concepts": [
+    "Divine ownership of creation",
+    "Human stewardship responsibility",
+    "Prohibition of needless destruction",
+    "Environmental consciousness in Jewish law",
+    "Balance between use and waste"
+  ],
+  "target_audience": "Mandarin-speaking learners with no prior Jewish knowledge",
+  "educational_level": "Intermediate",
+  "reading_time_minutes": {
+    "en": 14,
+    "zh": 6,
+    "he": 9
+  }
+}
