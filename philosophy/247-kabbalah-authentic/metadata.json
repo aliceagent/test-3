@@ -1,0 +1,108 @@
+{
+  "id": 247,
+  "title": "What is Kabbalah? The Authentic Jewish Mystical Tradition",
+  "title_zh": "什么是卡巴拉？犹太神秘主义的真正传统",
+  "title_he": "מהי קבלה? המסורת המיסטית היהודית האותנטית",
+  "section": "philosophy",
+  "slug": "kabbalah-authentic",
+  "author": "Torah Light Editorial Team",
+  "date_created": "2026-03-19",
+  "date_updated": "2026-03-19",
+  "status": "complete",
+  "word_count_en": 4650,
+  "word_count_zh": 3120,
+  "word_count_he": 3580,
+  "languages": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "tags": [
+    "Kabbalah",
+    "Jewish Mysticism",
+    "Philosophy",
+    "Chassidism",
+    "Sefirot",
+    "Ein Sof",
+    "Tzimtzum",
+    "Tikkun Olam",
+    "Tanya",
+    "Zohar",
+    "Spirituality",
+    "Torah",
+    "Inner Dimension",
+    "Divine Wisdom",
+    "神秘主义",
+    "卡巴拉",
+    "道",
+    "阴阳",
+    "修身",
+    "Chabad",
+    "Baal Shem Tov",
+    "Alter Rebbe",
+    "Arizal"
+  ],
+  "cultural_parallels": [
+    "Daoism - Ein Sof and the Dao (无法言说的道)",
+    "Yin-Yang - Sefirot balance (阴阳平衡)",
+    "Buddhist merit accumulation - Tikkun Olam (积功德)",
+    "Confucian self-cultivation - Character refinement (修身齐家治国平天下)",
+    "Han Dynasty - Early Kabbalistic traditions (汉朝)",
+    "Song-Ming Dynasty - Medieval Kabbalah flourishing (宋明时期)",
+    "Qing Dynasty - Chassidic integration (清朝)"
+  ],
+  "historical_periods": [
+    {
+      "jewish_period": "Second Temple Period",
+      "dates": "516 BCE - 70 CE",
+      "chinese_equivalent": "Warring States to Han Dynasty (战国→汉朝)"
+    },
+    {
+      "jewish_period": "Medieval Kabbalah",
+      "dates": "1200-1600 CE",
+      "chinese_equivalent": "Song to Early Ming Dynasty (宋朝→明朝)"
+    },
+    {
+      "jewish_period": "Chassidic Movement",
+      "dates": "1700s CE",
+      "chinese_equivalent": "Qing Dynasty (清朝)"
+    }
+  ],
+  "key_figures": [
+    "Rabbi Shimon bar Yochai",
+    "Rabbi Moses de León",
+    "Rabbi Isaac Luria (Arizal)",
+    "Baal Shem Tov",
+    "Rabbi Schneur Zalman of Liadi (Alter Rebbe)"
+  ],
+  "primary_sources": [
+    "Sefer Yetzirah",
+    "Zohar",
+    "Lurianic Kabbalah",
+    "Tanya",
+    "Chassidic teachings"
+  ],
+  "bibliography_count": 10,
+  "target_audience": "Chinese native Mandarin speakers with no prior Jewish knowledge",
+  "difficulty_level": "intermediate",
+  "prerequisites": [
+    "Basic understanding of Torah",
+    "Familiarity with Jewish prayer",
+    "Interest in Jewish philosophy"
+  ],
+  "related_articles": [
+    248,
+    243,
+    244,
+    245,
+    246,
+    249,
+    66,
+    67,
+    68,
+    69
+  ],
+  "summary_en": "An in-depth exploration of authentic Kabbalah - the Jewish mystical tradition - covering its true meaning, historical origins, core concepts (Ein Sof, Tzimtzum, Sefirot), accessibility guidelines, and how it differs from commercialized 'pop Kabbalah'. Includes cultural parallels to Chinese philosophy (Daoism, Buddhism, Confucianism) while emphasizing Kabbalah's unique roots in Torah revelation.",
+  "summary_zh": "深入探讨真正的卡巴拉——犹太神秘主义传统——涵盖其真正含义、历史起源、核心概念（无限者、神性收缩、塞菲罗特）、学习指南，以及它与商业化的'流行卡巴拉'的区别。包括与中国哲学（道教、佛教、儒家）的文化相似之处，同时强调卡巴拉在托拉启示中的独特根源。",
+  "summary_he": "חקירה מעמיקה של הקבלה האותנטית - המסורת המיסטית היהודית - המכסה את משמעותה האמיתית, מקורותיה ההיסטוריים, מושגי יסוד (אין סוף, צמצום, ספירות), הנחיות נגישות, וכיצד היא שונה מ'קבלה פופולרית' ממוסחרת. כולל הקבלות תרבותיות לפילוסופיה סינית (דאואיזם, בודהיזם, קונפוציאניזם) תוך הדגשת השורשים הייחודיים של הקבלה בהתגלות התורה."
+}
