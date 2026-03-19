@@ -1,0 +1,84 @@
+{
+  "id": 370,
+  "title": "Kibbutz Galuyot: The Ingathering of Exiles as a Daily Prayer",
+  "title_zh": "基布兹·加鲁约特：回归者的每日祈祷",
+  "title_he": "קיבוץ גלויות: כינוס הגולים בתפילה היומיומית",
+  "description": "Why Jews pray three times daily for the return of exiles to Israel — the tenth blessing of the Amidah and its ongoing relevance.",
+  "section": "practical-halacha-for-daily-life",
+  "slug": "370-kibbutz-galuyot-ingathering-prayer",
+  "language_versions": {
+    "en": {
+      "file": "article-en.md",
+      "word_count": 1450,
+      "char_count": 16260
+    },
+    "zh": {
+      "file": "article-zh.md",
+      "word_count": null,
+      "char_count": 6101
+    },
+    "he": {
+      "file": "article-he.md",
+      "word_count": null,
+      "char_count": 11993
+    }
+  },
+  "tags": [
+    "KibbutzGaluyot",
+    "Ingathering",
+    "Amidah",
+    "Prayer",
+    "Exile",
+    "Diaspora",
+    "Israel",
+    "Redemption",
+    "Messianic",
+    "Hope",
+    "PracticalHalacha",
+    "DailyLife",
+    "JewishIdentity",
+    "落叶归根",
+    "天下大同",
+    "祈祷"
+  ],
+  "keywords": [
+    "Ingathering of Exiles",
+    "Kibbutz Galuyot",
+    "Amidah blessing",
+    "prayer three times daily",
+    "return to Israel",
+    "Jewish exile",
+    "galut",
+    "messianic redemption",
+    "shofar gadol",
+    "banner for exiles"
+  ],
+  "historical_periods": [
+    {
+      "jewish_period": "Patriarchs (Abraham-Jacob)",
+      "approximate_dates": "~1800-1500 BCE",
+      "chinese_equivalent": "Shang Dynasty 商朝"
+    },
+    {
+      "jewish_period": "Second Temple Destruction",
+      "approximate_dates": "70 CE",
+      "chinese_equivalent": "Eastern Han Dynasty 东汉"
+    },
+    {
+      "jewish_period": "Modern Israel Established",
+      "approximate_dates": "1948 CE",
+      "chinese_equivalent": "Republic of China period"
+    }
+  ],
+  "sources": [
+    "Chabad.org",
+    "Aish.com",
+    "Sefaria.org",
+    "Jewish Virtual Library",
+    "Orthodox Union",
+    "Torah Musings"
+  ],
+  "status": "complete",
+  "created_at": "2026-03-19",
+  "updated_at": "2026-03-19"
+}

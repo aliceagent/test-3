@@ -1,0 +1,48 @@
+{
+  "id": 376,
+  "title": {
+    "en": "Nachshon Ben Aminadav: The Man Who Walked Into the Sea",
+    "zh": "亚米拿达的儿子拿赫松：走进大海的人",
+    "he": "נַחְשׁוֹן בֶּן עַמִּינָדָב: האיש שצעד אל הים"
+  },
+  "description": {
+    "en": "The midrashic story of the man who stepped into the Red Sea before it split — and what it teaches about taking the first step before seeing results.",
+    "zh": "米德拉什关于一个人在红海中分开之前踏入海中的故事——以及它教导我们关于在看到结果之前迈出第一步的道理。",
+    "he": "סיפור המדרש על האיש שצעד לים סוף לפני שנבקע — ומה הוא מלמד על הליכת הצעד הראשון לפני שרואים תוצאות."
+  },
+  "section": "jewish-stories-and-inspiration",
+  "slug": "nachshon-ben-aminadav",
+  "wordCount": {
+    "en": 1420,
+    "zh": 1650,
+    "he": 1480
+  },
+  "tags": [
+    "NachshonBenAminadav",
+    "RedSea",
+    "Faith",
+    "Courage",
+    "Leadership",
+    "Midrash",
+    "Exodus",
+    "SplittingOfTheSea",
+    "FirstStep",
+    "JewishInspiration",
+    "BiblicalHeroes",
+    "信任",
+    "勇气",
+    "第一步",
+    "出埃及记",
+    "犹太故事",
+    "信仰与行动",
+    "נחשון_בן_עמינדב",
+    "ים_סוף",
+    "אמונה",
+    "אומץ",
+    "מנהיגות"
+  ],
+  "relatedArticles": [372, 374, 377, 378, 384],
+  "status": "complete",
+  "createdAt": "2026-03-19",
+  "version": "1.0"
+}

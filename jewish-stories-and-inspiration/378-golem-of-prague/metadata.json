@@ -1,0 +1,79 @@
+{
+  "id": 378,
+  "title": "The Golem of Prague: Legend, Mysticism, and Meaning",
+  "title_zh": "布拉格的泥人：传说、神秘主义与深意",
+  "title_he": "הגולם מפראג: אגדה, מיסטיקה ומשמעות",
+  "slug": "golem-of-prague",
+  "section": "jewish-stories-and-inspiration",
+  "description": "The story of Rabbi Judah Loew (the Maharal) creating a creature from clay to protect the Jews of Prague — and its deeper spiritual meaning.",
+  "description_zh": "拉比犹大·勒夫（玛哈拉尔）用粘土创造生物以保护布拉格的犹太人的故事——及其更深层的灵性意义。",
+  "author": "Torah Light",
+  "created_at": "2026-03-19",
+  "word_count": {
+    "en": 1550,
+    "zh": 2800,
+    "he": 2200
+  },
+  "tags": [
+    "Golem",
+    "Maharal",
+    "Prague",
+    "Kabbalah",
+    "JewishMysticism",
+    "JewishFolklore",
+    "SeferYetzirah",
+    "Creation",
+    "ArtificialLife",
+    "JewishHistory",
+    "明朝",
+    "犹太传说",
+    "布拉格",
+    "泥人",
+    "卡巴拉",
+    "神秘主义"
+  ],
+  "key_figures": [
+    {
+      "name": "Rabbi Judah Loew ben Bezalel",
+      "name_zh": "拉比犹大·勒夫·本·贝扎列尔",
+      "name_he": "רבי יהודה ליווא בן בצלאל",
+      "title": "The Maharal of Prague",
+      "era": "c. 1520-1609 CE (Ming Dynasty)"
+    }
+  ],
+  "chinese_historical_context": [
+    {
+      "jewish_period": "Late 16th century",
+      "chinese_equivalent": "Ming Dynasty (明朝)",
+      "dates": "1368-1644 CE"
+    }
+  ],
+  "bibliography": [
+    {
+      "title": "Golem",
+      "source": "Jewish Encyclopedia",
+      "url": "https://www.jewishencyclopedia.com/articles/6608-golem"
+    },
+    {
+      "title": "Rabbi Judah Loew (The Maharal)",
+      "source": "Chabad.org",
+      "url": "https://www.chabad.org/library/article_cdo/aid/112250/jewish/Rabbi-Judah-Loew.htm"
+    },
+    {
+      "title": "The Golem of Prague",
+      "source": "Yivo Encyclopedia of Jews in Eastern Europe",
+      "url": "https://yivoencyclopedia.org/article.aspx/The_Golem_of_Prague"
+    },
+    {
+      "title": "Sefer Yetzirah (Book of Creation)",
+      "source": "Sefaria.org",
+      "url": "https://www.sefaria.org/Sefer_Yetzirah"
+    },
+    {
+      "title": "The Golem: A Study in Jewish Tradition",
+      "source": "My Jewish Learning",
+      "url": "https://www.myjewishlearning.com/article/the-golem/"
+    }
+  ],
+  "status": "complete"
+}
