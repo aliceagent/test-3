@@ -1,0 +1,97 @@
+{
+  "id": 224,
+  "title": "The Chanukiah vs. the Menorah: Understanding the Difference",
+  "section": "Mitzvah Objects",
+  "description": "Clarifying the difference between the seven-branched Temple menorah and the nine-branched Chanukah chanukiah — their origins, meanings, and why the distinction matters.",
+  "status": "draft_complete",
+  "languages": {
+    "en": {
+      "title": "The Chanukiah vs. the Menorah: Understanding the Difference",
+      "file": "article-en.md",
+      "word_count": 2389,
+      "status": "complete"
+    },
+    "zh": {
+      "title": "光明节烛台（Chanukiah）与圣殿烛台（Menorah）：理解其区别",
+      "file": "article-zh.md",
+      "word_count": 891,
+      "status": "complete"
+    },
+    "he": {
+      "title": "החנוכייה לעומת המנורה: הבנת ההבדל",
+      "file": "article-he.md",
+      "word_count": 1678,
+      "status": "complete"
+    }
+  },
+  "cultural_parallels": [
+    "Chinese Lantern Festival (元宵节) and light celebrations",
+    "Yin and yang (阴阳) complementarity - memory and hope",
+    "Cultural continuity through dynastic changes",
+    "Public light displays and community celebrations"
+  ],
+  "historical_context": {
+    "temple_period": "c. 950 BCE - 70 CE",
+    "chanukah_miracle": "c. 165 BCE",
+    "chinese_equivalent_temple": "Western Zhou Dynasty (西周, 1046-771 BCE) to early Han Dynasty (汉朝, 206 BCE - 220 CE)",
+    "chinese_equivalent_chanukah": "Han Dynasty (汉朝, 206 BCE - 220 CE)",
+    "significance": "Distinction between Temple-era worship and post-Temple Jewish resilience"
+  },
+  "key_topics": [
+    "Seven-branched Temple menorah specifications and symbolism",
+    "Nine-branched Chanukah chanukiah structure and purpose",
+    "Maccabean revolt and miracle of the oil",
+    "Why exact menorah replicas are prohibited",
+    "Lighting customs and laws for each",
+    "Cultural parallels with Chinese light festivals",
+    "Evolution from centralized Temple worship to home-based practice",
+    "Common misconceptions and proper terminology"
+  ],
+  "practical_information": {
+    "temple_menorah": {
+      "branches": 7,
+      "material": "Single piece of hammered gold (34 kg / 75 lbs)",
+      "fuel": "Pure olive oil only",
+      "location": "Temple in Jerusalem (destroyed 70 CE)",
+      "replication": "Forbidden by Jewish law out of respect"
+    },
+    "chanukiah": {
+      "branches": 9,
+      "materials": "Any material (silver, brass, ceramic, ice, etc.)",
+      "fuel": "Oil or candles",
+      "duration": "Eight nights of Chanukah annually",
+      "placement": "Window or doorway to publicize the miracle",
+      "requirement": "Eight lights at equal height plus elevated shamash"
+    }
+  },
+  "bibliography_sources": 5,
+  "tags": [
+    "#Chanukiah",
+    "#Menorah",
+    "#Chanukah",
+    "#TempleService",
+    "#JewishHistory",
+    "#MitzvahObjects",
+    "#LightFestival",
+    "#Maccabees",
+    "#TempleMenorah",
+    "#SacredObjects",
+    "#JewishSymbols",
+    "#光明节",
+    "#圣殿",
+    "#烛台",
+    "#犹太象征",
+    "#HolidayTraditions",
+    "#ReligiousSymbolism",
+    "#JewishIdentity",
+    "#MiracleOfTheOil",
+    "#元宵节",
+    "#中华文明",
+    "#חנוכייה",
+    "#מנורה",
+    "#חנוכה"
+  ],
+  "created": "2026-03-19T02:15:00+02:00",
+  "author": "Torah Light Project",
+  "target_audience": "Chinese native Mandarin speakers with no prior Jewish knowledge"
+}

@@ -1,0 +1,218 @@
+{
+  "id": 223,
+  "title": "The Siddur (Prayer Book): Your Guide to Daily Jewish Prayer",
+  "title_zh": "祈祷书(Siddur):犹太人日常祈祷指南",
+  "title_he": "הסידור: מדריך לתפילה יהודית יומיומית",
+  "section": "mitzvah-objects",
+  "slug": "siddur-prayer-book",
+  "author": "Torah Light Team",
+  "date": "2026-03-19",
+  "language": ["en", "zh", "he"],
+  "target_audience": "Mandarin-speaking beginners with no prior Jewish knowledge",
+  "description": "A comprehensive guide to the Jewish prayer book (siddur), its history, structure, and practical use. Explores morning, afternoon, and evening prayers, different traditions (Ashkenaz, Sefard, Ari), and how to choose and use a siddur with cultural parallels to Chinese classical texts.",
+  "description_zh": "犹太祈祷书(Siddur)的综合指南,包括其历史、结构和实际用途。探讨晨祷、午祷和晚祷,不同传统(阿什肯纳兹、塞法迪、阿里),以及如何选择和使用祈祷书,并与中国经典文本进行文化比较。",
+  "description_he": "מדריך מקיף לסידור התפילה היהודי, ההיסטוריה, המבנה והשימוש המעשי שלו. בוחן תפילות שחרית, מנחה וערבית, מסורות שונות (אשכנז, ספרד, אר\"י), וכיצד לבחור ולהשתמש בסידור עם הקבלות תרבותיות לטקסטים קלאסיים סיניים.",
+  "word_count": {
+    "en": 3520,
+    "zh": 1680,
+    "he": 2340
+  },
+  "topics": [
+    "Siddur",
+    "Prayer",
+    "Tefilah",
+    "Prayer Book",
+    "Davening",
+    "Daily Prayer",
+    "Jewish Liturgy",
+    "Synagogue",
+    "Amidah",
+    "Shema",
+    "Shacharit",
+    "Mincha",
+    "Maariv"
+  ],
+  "historical_periods_referenced": [
+    "First Temple Period (1000-586 BCE)",
+    "Second Temple Period (516 BCE - 70 CE)",
+    "Talmudic Period (1st-5th centuries CE)",
+    "Gaonic Period (6th-11th centuries CE)"
+  ],
+  "chinese_parallels": [
+    "Analects (论语) as classical moral texts",
+    "Western Zhou Dynasty (西周, 1046-771 BCE)",
+    "Spring and Autumn Period (春秋时代, 770-476 BCE)",
+    "Eastern Han Dynasty (东汉, 25-220 CE)",
+    "Tang Dynasty (唐朝, 618-907 CE)",
+    "Northern Song Dynasty (北宋, 960-1127 CE)",
+    "Confucian concept of Ren (仁) - community relationships",
+    "Respect for Four Books (四书) and Five Classics (五经)"
+  ],
+  "key_concepts": [
+    "Siddur structure and organization",
+    "Nusach Ashkenaz, Nusach Sefard, Nusach Ari",
+    "Three daily prayer services",
+    "Kavanah (intention in prayer)",
+    "Minyan (prayer quorum)",
+    "Gratitude before requests",
+    "Memory as sacred act",
+    "Community over individualism"
+  ],
+  "practical_guidance": [
+    "How to choose a siddur",
+    "Physical book vs digital app",
+    "Reading Hebrew right to left",
+    "Following prayer instructions",
+    "Learning one section at a time",
+    "Treating the siddur with respect",
+    "Essential prayers to memorize"
+  ],
+  "siddur_editions_mentioned": [
+    "ArtScroll Siddur",
+    "Koren Siddur (Rabbi Jonathan Sacks)",
+    "Chabad Siddur (Tehillat Hashem)",
+    "Seder Rav Amram Gaon (first written siddur)",
+    "Siddur of Rav Saadia Gaon"
+  ],
+  "key_prayers_explained": [
+    "Modeh Ani (morning gratitude)",
+    "Birchot HaShachar (morning blessings)",
+    "Pesukei D'Zimra (verses of praise)",
+    "Shema and its blessings",
+    "Amidah/Shemoneh Esrei (standing prayer)",
+    "Tachanun (supplication)",
+    "Aleinu (declaration of God's sovereignty)",
+    "Kaddish (mourner's prayer)",
+    "Birkat HaMazon (grace after meals)"
+  ],
+  "sources": [
+    {
+      "type": "primary",
+      "title": "Siddur Tehillat Hashem",
+      "publisher": "Kehot Publication Society",
+      "location": "Brooklyn"
+    },
+    {
+      "type": "primary",
+      "title": "The Complete ArtScroll Siddur",
+      "editor": "Rabbi Nosson Scherman",
+      "publisher": "Mesorah Publications",
+      "year": 1984,
+      "location": "Brooklyn"
+    },
+    {
+      "type": "primary",
+      "title": "The Koren Siddur",
+      "commentary": "Rabbi Jonathan Sacks",
+      "publisher": "Koren Publishers",
+      "year": 2009,
+      "location": "Jerusalem"
+    },
+    {
+      "type": "secondary",
+      "title": "Jewish Liturgy: A Comprehensive History",
+      "author": "Ismar Elbogen",
+      "publisher": "Jewish Publication Society",
+      "year": 1993,
+      "description": "Comprehensive history of the development of Jewish prayer"
+    },
+    {
+      "type": "secondary",
+      "title": "To Pray as a Jew: A Guide to the Prayer Book and the Synagogue Service",
+      "author": "Rabbi Hayim Halevy Donin",
+      "publisher": "Basic Books",
+      "year": 1980,
+      "description": "Classic introductory guide to Jewish prayer"
+    },
+    {
+      "type": "secondary",
+      "title": "My People's Prayer Book series",
+      "editor": "Rabbi Lawrence A. Hoffman",
+      "publisher": "Jewish Lights Publishing",
+      "description": "Multi-volume commentary on the siddur with diverse perspectives"
+    },
+    {
+      "type": "online",
+      "title": "Sefaria.org - Liturgy Texts",
+      "url": "https://www.sefaria.org/texts/Liturgy",
+      "description": "Siddur Ashkenaz and Sefard editions with English translation"
+    },
+    {
+      "type": "online",
+      "title": "Chabad.org - The Jewish Prayer Book",
+      "url": "https://www.chabad.org/library/article_cdo/aid/867674/jewish/The-Siddur.htm",
+      "description": "Introduction to the siddur and Jewish prayer"
+    },
+    {
+      "type": "online",
+      "title": "Aish.com - How to Pray: A Beginner's Guide",
+      "url": "https://aish.com/how-to-pray/",
+      "description": "Practical beginner's guide to Jewish prayer"
+    }
+  ],
+  "tags": [
+    "Siddur",
+    "Prayer",
+    "Tefilah",
+    "PrayerBook",
+    "Davening",
+    "Amidah",
+    "Shema",
+    "Shacharit",
+    "Mincha",
+    "Maariv",
+    "JewishLiturgy",
+    "BeginnerJudaism",
+    "Synagogue",
+    "Hebrew",
+    "NusachAshkenaz",
+    "NusachSefard",
+    "ArtScrollSiddur",
+    "Kavanah",
+    "DailyPrayer",
+    "Birchot-HaShachar",
+    "Tachanun",
+    "Aleinu",
+    "Kaddish",
+    "Tang-Dynasty",
+    "Eastern-Han",
+    "Confucianism",
+    "Jewish-Texts",
+    "Orthodox-Judaism",
+    "Chabad",
+    "Spiritual-Practice"
+  ],
+  "related_articles": [
+    40,
+    121,
+    122,
+    124,
+    218
+  ],
+  "cultural_sensitivity_notes": [
+    "Draws parallels to Chinese classical texts (Analects, Four Books, Five Classics) to help Mandarin speakers understand the role of liturgy",
+    "References Chinese dynasties parallel to Jewish historical periods",
+    "Compares Confucian concept of Ren (仁) to Jewish community-focused spirituality",
+    "Addresses practical challenges for Chinese Jews (limited Mandarin resources)",
+    "Mentions Chabad centers in Shanghai, Beijing, and Hong Kong as resources"
+  ],
+  "pedagogical_approach": [
+    "Starts with simple definition and purpose",
+    "Provides historical context with Chinese parallels",
+    "Breaks down complex structure into digestible sections",
+    "Offers practical guidance for choosing and using a siddur",
+    "Balances spiritual meaning with practical instruction",
+    "Encourages gradual learning rather than overwhelming detail",
+    "Emphasizes both form (structure) and soul (personal connection)"
+  ],
+  "status": "complete",
+  "quality_check": {
+    "word_count_en": "✓ 3520 words (target: 1200-1500+ for comprehensive guide)",
+    "word_count_zh": "✓ 1680+ characters (target: 800+ minimum)",
+    "chinese_parallels": "✓ Multiple historical and philosophical parallels included",
+    "bibliography": "✓ Complete with primary texts, secondary sources, and online resources",
+    "cultural_sensitivity": "✓ Respectful and educational tone throughout",
+    "practical_guidance": "✓ Concrete advice for choosing and using a siddur",
+    "beginner_friendly": "✓ Clear explanations without assuming prior knowledge"
+  }
+}

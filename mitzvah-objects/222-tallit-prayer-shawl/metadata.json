@@ -1,0 +1,138 @@
+{
+  "id": 222,
+  "title": "The Tallit (Prayer Shawl): Wrapping Yourself in God's Commandments",
+  "title_zh": "塔利特(祈祷披肩):将自己包裹在上帝的诫命中",
+  "title_he": "הטלית: להתעטף במצוות ה'",
+  "section": "mitzvah-objects",
+  "slug": "tallit-prayer-shawl",
+  "batch": "300",
+  "author": "Torah Light Editorial Team",
+  "date_created": "2026-03-19",
+  "target_audience": "Chinese native Mandarin speakers with no background in Judaism",
+  "tone": "Educational, warm, culturally sensitive",
+  "word_count_en": 1470,
+  "char_count_zh": 4363,
+  "keywords": [
+    "tallit",
+    "prayer shawl",
+    "tzitzit",
+    "fringes",
+    "mitzvah objects",
+    "commandments",
+    "Jewish prayer",
+    "tallit gadol",
+    "tallit katan",
+    "techelet",
+    "blue thread",
+    "Jewish ritual objects"
+  ],
+  "related_topics": [
+    "Tzitzit",
+    "Jewish Prayer",
+    "Mitzvot",
+    "Tefillin",
+    "Jewish Garments",
+    "Synagogue Customs"
+  ],
+  "sources": [
+    {
+      "type": "Torah",
+      "reference": "Numbers 15:38-39",
+      "description": "Biblical commandment of tzitzit"
+    },
+    {
+      "type": "Talmud",
+      "reference": "Various tractates on tzitzit laws"
+    },
+    {
+      "type": "Halacha",
+      "reference": "Shulchan Aruch, Orach Chaim 8-25",
+      "description": "Laws of tzitzit and tallit"
+    },
+    {
+      "type": "Commentary",
+      "reference": "Mishnah Berurah on Orach Chaim 8-25"
+    },
+    {
+      "type": "Classical Work",
+      "reference": "Sefer HaChinuch, Mitzvah 386",
+      "description": "The commandment of tzitzit explained"
+    }
+  ],
+  "cultural_parallels": [
+    "Chinese ceremonial robes worn by Confucian scholars",
+    "Daoist priestly garments during important rites",
+    "Traditional robes signifying status and role in Chinese culture",
+    "Transition from ordinary to sacred activity in ritual clothing"
+  ],
+  "key_concepts": [
+    "Tzitzit as visual reminder of commandments",
+    "Tallit gadol vs. tallit katan",
+    "Numerical significance: 613 commandments",
+    "Blue thread (techelet) symbolism",
+    "Portable sanctuary concept",
+    "Wrapping in divine purpose"
+  ],
+  "learning_objectives": [
+    "Understand the biblical foundation of the tallit and tzitzit",
+    "Distinguish between tallit katan and tallit gadol",
+    "Learn the structure and symbolism of the tzitzit",
+    "Understand who wears tallit and when",
+    "Appreciate the deeper spiritual meanings",
+    "Relate Jewish ritual garments to familiar cultural concepts"
+  ],
+  "difficulty_level": "Beginner to Intermediate",
+  "estimated_reading_time_en": "12-15 minutes",
+  "estimated_reading_time_zh": "8-10 minutes",
+  "images_suggested": [
+    "Tallit gadol draped over shoulders",
+    "Close-up of tzitzit showing knots and windings",
+    "Diagram of tzitzit tying method",
+    "Man wrapping tallit over head",
+    "Atarah (decorative collar)",
+    "Comparison of Ashkenazi and Sephardi tallitot"
+  ],
+  "discussion_questions": [
+    "How does the tallit serve as a 'portable sanctuary'?",
+    "What is the significance of the number 613 in the tzitzit?",
+    "How do Jewish ritual garments compare to ceremonial clothing in your culture?",
+    "Why do you think visual reminders are important in religious practice?",
+    "What does it mean to 'wrap yourself in commandments'?"
+  ],
+  "practical_applications": [
+    "Understanding tallit customs when visiting a synagogue",
+    "Knowing when and how to wear a tallit",
+    "Recognizing the importance of ritual objects in Jewish life",
+    "Appreciating the connection between physical objects and spiritual meaning"
+  ],
+  "hebrew_terms": [
+    {
+      "term": "טַלִּית",
+      "transliteration": "tallit",
+      "meaning": "prayer shawl"
+    },
+    {
+      "term": "צִיצִת",
+      "transliteration": "tzitzit",
+      "meaning": "fringes"
+    },
+    {
+      "term": "תְּכֵלֶת",
+      "transliteration": "techelet",
+      "meaning": "blue dye/thread"
+    },
+    {
+      "term": "עֲטָרָה",
+      "transliteration": "atarah",
+      "meaning": "decorative collar"
+    },
+    {
+      "term": "אַרְבַּע כַּנְפוֹת",
+      "transliteration": "arba kanfot",
+      "meaning": "four corners"
+    }
+  ],
+  "status": "completed",
+  "qa_status": "pending",
+  "version": "1.0"
+}
