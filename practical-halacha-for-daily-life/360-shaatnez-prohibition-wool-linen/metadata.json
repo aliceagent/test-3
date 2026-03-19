@@ -1,0 +1,103 @@
+{
+  "id": 360,
+  "title": "Sha'atnez: The Prohibition of Mixing Wool and Linen",
+  "title_zh": "沙特涅兹：禁止混合羊毛和亚麻",
+  "title_he": "שעטנז: איסור ערבוב צמר ופשתן",
+  "description": "One of the Torah's least-known laws — what sha'atnez is, why it matters, and how to get your clothing tested (even from Asia).",
+  "section": "practical-halacha-for-daily-life",
+  "slug": "360-shaatnez-prohibition-wool-linen",
+  "word_count": {
+    "en": 4724,
+    "zh": 2845,
+    "he": 3421
+  },
+  "status": "complete",
+  "created": "2026-03-19",
+  "tags": [
+    "Shaatnez",
+    "Shatnez",
+    "Chukim",
+    "PracticalHalacha",
+    "Mitzvot",
+    "Clothing",
+    "WoolAndLinen",
+    "JewishLaw",
+    "Halacha",
+    "Mindfulness",
+    "DivineCommand",
+    "ObservantJudaism",
+    "TextileLaws",
+    "KosherLiving"
+  ],
+  "tags_zh": [
+    "沙特涅兹",
+    "神定律例",
+    "实用律法",
+    "诫命",
+    "服装",
+    "羊毛亚麻",
+    "犹太律法",
+    "哈拉卡",
+    "正念",
+    "神圣命令",
+    "虔诚犹太教",
+    "纺织律法",
+    "洁食生活"
+  ],
+  "tags_he": [
+    "שעטנז",
+    "חוקים",
+    "הלכה_מעשית",
+    "מצוות",
+    "בגדים",
+    "צמר_ופשתן",
+    "הלכה",
+    "יהדות_מעשית",
+    "מיינדפולנס",
+    "ציווי_אלוהי",
+    "יהדות_שומרת_מצוות",
+    "חוקי_טקסטיל",
+    "חיי_כשרות"
+  ],
+  "torah_sources": [
+    "Leviticus 19:19",
+    "Deuteronomy 22:11"
+  ],
+  "talmudic_sources": [
+    "Mishnah Kilayim 9:1-10"
+  ],
+  "key_concepts": [
+    "Sha'atnez (שַׁעַטְנֵז)",
+    "Chukim (חוקים) - Divine statutes without explanation",
+    "Wool and linen prohibition",
+    "Sha'atnez testing laboratories",
+    "Priestly garments exception",
+    "Chesed and Gevurah spiritual energies",
+    "Boundaries in creation",
+    "Mindfulness practice",
+    "Humility before divine mystery"
+  ],
+  "practical_applications": [
+    "How to check clothing labels",
+    "Finding sha'atnez testing services",
+    "High-risk garments (wool suits, coats)",
+    "Alternatives for remote locations",
+    "Building a sha'atnez-free wardrobe"
+  ],
+  "chinese_parallels": [
+    "Tang Dynasty sumptuary laws and textile purity",
+    "Chinese medicine's recognition of material properties",
+    "Confucian emphasis on proper categories (正名 zhengming)",
+    "Daoist wu-wei (无为) and accepting natural order",
+    "Five relationships (五伦) and maintaining boundaries"
+  ],
+  "bibliography_count": 10,
+  "languages": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "images": {
+    "header_prompt": "A serene Chinese ink wash (水墨画) landscape showing a traditional weaver's workshop by a mountain stream. In the foreground, delicate strands of white wool and golden linen are kept separate on wooden frames, rendered in minimalist brushstrokes. The background features misty mountains and bamboo groves in varying shades of gray. Include traditional textile tools (spindle, loom) painted with subtle detail. A wise figure in traditional scholarly robes examines fabric with careful attention. Style: classical shan shui technique with emphasis on empty space (留白), muted earth tones with touches of ochre and pale blue, contemplative and meditative mood."
+  }
+}
