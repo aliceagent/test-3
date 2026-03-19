@@ -1,0 +1,66 @@
+{
+  "id": 275,
+  "title": "What Happens at a Jewish Funeral? A Complete Guide",
+  "title_zh": "犹太葬礼完整指南:从逝世到安葬的全过程",
+  "title_he": "מה קורה בלוויה יהודית? מדריך מלא",
+  "section": "life-cycle",
+  "slug": "jewish-funeral-guide",
+  "batch": 300,
+  "word_count": {
+    "en": 1456,
+    "zh": 967,
+    "he": 1287
+  },
+  "character_count": {
+    "zh": 4982
+  },
+  "tags": [
+    "Death",
+    "Funeral",
+    "Mourning",
+    "Life Cycle",
+    "Chevra Kadisha",
+    "Taharah",
+    "Kaddish",
+    "Shiva",
+    "Burial",
+    "Jewish Law",
+    "尊重",
+    "孝",
+    "守孝",
+    "生命周期",
+    "מוות",
+    "לוויה",
+    "אבלות",
+    "מעגלהחיים"
+  ],
+  "status": "complete",
+  "created": "2026-03-19T03:16:00Z",
+  "author": "Torah Light Project",
+  "cultural_parallels": [
+    "Chinese concept of 善终 (shàn zhōng) - a good death",
+    "守孝 (shǒu xiào) - observing mourning period for parents",
+    "孝 (xiào) - filial piety aligns with honoring parents in death",
+    "Ancestral veneration parallels Jewish memory practices"
+  ],
+  "historical_periods": [
+    {
+      "jewish_period": "Rabbi Gamliel II",
+      "dates": "1st-2nd century CE",
+      "chinese_equivalent": "Eastern Han Dynasty (东汉)"
+    },
+    {
+      "jewish_period": "Babylonian Talmudic period",
+      "dates": "200-500 CE",
+      "chinese_equivalent": "Three Kingdoms and Jin Dynasty (三国与晋朝)"
+    }
+  ],
+  "bibliography_count": 7,
+  "languages": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "target_audience": "Chinese native Mandarin speakers with no background in Judaism",
+  "tone": "Educational, warm, culturally sensitive"
+}
