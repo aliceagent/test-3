@@ -1,0 +1,90 @@
+{
+  "id": 226,
+  "title": "The Shofar: Ancient Horn That Calls the Soul to Wake Up",
+  "title_zh": "羊角号(Shofar):唤醒灵魂的古老号角",
+  "title_he": "השופר: קרן עתיקה המעוררת את הנשמה",
+  "section": "mitzvah-objects",
+  "slug": "shofar-horn",
+  "author": "Torah Light Editorial Team",
+  "date_created": "2026-03-19",
+  "target_audience": "Chinese native Mandarin speakers, no background in Judaism",
+  "difficulty_level": "beginner",
+  "reading_time_minutes": 12,
+  "word_count_en": 2489,
+  "word_count_zh": 1157,
+  "word_count_he": 1421,
+  "tags": [
+    "shofar",
+    "rosh-hashanah",
+    "mitzvah-objects",
+    "high-holidays",
+    "repentance",
+    "tekiah",
+    "shevarim",
+    "teruah",
+    "spiritual-awakening",
+    "jewish-ritual-objects"
+  ],
+  "keywords": [
+    "shofar",
+    "ram's horn",
+    "Rosh Hashanah",
+    "Jewish New Year",
+    "tekiah",
+    "shevarim",
+    "teruah",
+    "ba'al tekiah",
+    "Elul",
+    "repentance",
+    "teshuvah",
+    "spiritual awakening",
+    "Jewish sounds",
+    "ritual objects"
+  ],
+  "chinese_parallels": [
+    "警钟 (warning bell) - spiritual wake-up call",
+    "编钟和鼓 (bronze bells and drums) - ritual instruments connecting heaven and earth",
+    "禅宗顿悟 (Chan/Zen sudden awakening) - spiritual awakening moment",
+    "鸣金收兵 (sounding gongs to recall troops) - signaling important transitions"
+  ],
+  "primary_sources": [
+    "Numbers 29:1 - Biblical commandment to blow shofar",
+    "Leviticus 25:9 - Shofar for Jubilee year",
+    "Exodus 19:19 - Shofar at Mount Sinai",
+    "Joshua 6:4-20 - Shofar at Jericho",
+    "Rambam, Mishneh Torah, Laws of Repentance 3:4",
+    "Rambam, Mishneh Torah, Laws of Shofar 1-4",
+    "Talmud, Tractate Rosh Hashanah 16a, 26b-27a, 33b-34a"
+  ],
+  "related_articles": [
+    136,
+    137,
+    138,
+    139,
+    41,
+    150
+  ],
+  "learning_objectives": [
+    "Understand what a shofar is and how it's made",
+    "Learn the three types of shofar sounds: tekiah, shevarim, teruah",
+    "Understand the multiple symbolic meanings of the shofar",
+    "Learn when and why the shofar is blown during the Jewish year",
+    "Appreciate the shofar as a spiritual wake-up call for self-examination",
+    "Recognize cultural parallels between Jewish and Chinese traditions regarding ritual sounds"
+  ],
+  "cultural_sensitivity_notes": [
+    "Article draws parallels to Chinese ritual instruments (bells, drums, gongs)",
+    "References Chan/Zen Buddhist concepts of sudden awakening",
+    "Explains Chinese idioms related to warning bells and alarms",
+    "Mentions Chinese philosophical concepts from the Book of Rites (礼记)",
+    "Respectful comparison of ritual sound traditions"
+  ],
+  "quality_checks": {
+    "word_count_en_met": true,
+    "word_count_zh_met": true,
+    "chinese_parallels_included": true,
+    "sources_cited": true,
+    "beginner_friendly": true,
+    "culturally_sensitive": true
+  }
+}
