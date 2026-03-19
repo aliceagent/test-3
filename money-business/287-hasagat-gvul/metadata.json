@@ -1,0 +1,76 @@
+{
+  "id": 287,
+  "title": "Hasagat Gvul: Fair Competition in Jewish Business Law",
+  "title_zh": "哈萨噶特·格武尔:犹太商业法中的公平竞争",
+  "title_he": "הסגת גבול: תחרות הוגנת בדיני עסקים יהודיים",
+  "section": "money-business",
+  "slug": "hasagat-gvul",
+  "word_count": {
+    "en": 1489,
+    "zh": 1687,
+    "he": 1534
+  },
+  "status": "completed",
+  "languages": ["en", "zh", "he"],
+  "tags": [
+    "HasagatGvul",
+    "BusinessEthics",
+    "FairCompetition",
+    "JewishLaw",
+    "Torah",
+    "Talmud",
+    "Marketplace",
+    "IntellectualProperty",
+    "商业伦理",
+    "公平竞争",
+    "不义之财",
+    "Halacha",
+    "MoneyBusiness",
+    "Mussar",
+    "Integrity",
+    "הסגתגבול",
+    "אתיקהעסקית",
+    "תחרותהוגנת",
+    "הלכהיהודית",
+    "כסףועסקים",
+    "יושרה"
+  ],
+  "created_at": "2026-03-19T03:53:00Z",
+  "completed_at": "2026-03-19T03:58:00Z",
+  "key_concepts": [
+    "Hasagat Gvul (boundary encroachment)",
+    "Fair competition in Jewish law",
+    "Four categories: geographic, intellectual, reputational, poaching",
+    "Talmudic debate on marketplace boundaries",
+    "Chinese parallel: Bu Yi Zhi Cai (不义之财 - unjust wealth)",
+    "Modern applications: intellectual property, non-compete, online reviews",
+    "Balance between competition and protection of livelihood"
+  ],
+  "bibliography_sources": 6,
+  "cultural_parallels": [
+    "Confucian business ethics",
+    "Bu Yi Zhi Cai (不义之财) - unjust wealth concept",
+    "Chinese historical dynasties: Shang, Han, Jin, Song, Ming"
+  ],
+  "historical_periods": [
+    {
+      "jewish": "Biblical period (Torah)",
+      "chinese": "Shang Dynasty (商朝)",
+      "approximate_date": "~1300 BCE"
+    },
+    {
+      "jewish": "Talmudic period",
+      "chinese": "Han Dynasty (汉朝) to Jin Dynasty (晋朝)",
+      "approximate_date": "206 BCE - 420 CE"
+    },
+    {
+      "jewish": "Medieval rabbis (Rama)",
+      "chinese": "Song to Ming Dynasty (宋明时期)",
+      "approximate_date": "960-1644 CE"
+    }
+  ],
+  "target_audience": "Chinese native Mandarin speakers with no prior Jewish knowledge",
+  "tone": "Educational, warm, culturally sensitive",
+  "writer": "subagent-torah-writer-287",
+  "batch": "300"
+}

@@ -1,0 +1,81 @@
+{
+  "id": 290,
+  "title": "Ma'aser Kesafim: Should You Tithe 10% or 20% of Your Income?",
+  "title_zh": "金钱什一税（Ma'aser Kesafim）：你应该捐出收入的10%还是20%？",
+  "title_he": "מעשר כספים: האם להפריש 10% או 20% מההכנסה?",
+  "section": "money-business",
+  "slug": "maaser-kesafim",
+  "summary": "An in-depth exploration of the Jewish practice of tithing 10-20% of income to charity, covering biblical roots, halachic requirements, practical calculations, special situations, and the spiritual psychology of generosity.",
+  "summary_zh": "深入探讨犹太人将收入的10-20%捐给慈善事业的做法，涵盖圣经根源、犹太法律要求、实际计算、特殊情况以及慷慨的精神心理学。",
+  "summary_he": "חקירה מעמיקה של הנוהג היהודי להפריש 10-20% מההכנסה לצדקה, המכסה שורשים מקראיים, דרישות הלכתיות, חישובים מעשיים, מצבים מיוחדים והפסיכולוגיה הרוחנית של נדיבות.",
+  "word_count_en": 2847,
+  "word_count_zh": 2453,
+  "word_count_he": 2651,
+  "language_versions": {
+    "en": "article-en.md",
+    "zh": "article-zh.md",
+    "he": "article-he.md"
+  },
+  "tags": [
+    "MaaserKesafim",
+    "Tzedakah",
+    "CharityLaw",
+    "JewishEthics",
+    "MoneyAndBusiness",
+    "Tithing",
+    "Generosity",
+    "JewishLaw",
+    "SocialJustice",
+    "义",
+    "儒家",
+    "宋朝",
+    "MoneyBusiness"
+  ],
+  "cultural_parallels": [
+    "Confucian concept of yi (義, righteousness) and social responsibility",
+    "Song Dynasty scholar-official obligations to support community welfare",
+    "Buddhist dana (generosity) and dignified giving",
+    "Chinese philosophical concept of de (德, virtue) in prosperity"
+  ],
+  "historical_periods": [
+    {
+      "jewish": "First Temple Period",
+      "dates": "957-586 BCE",
+      "chinese": "Spring and Autumn Period (春秋時期)"
+    },
+    {
+      "jewish": "Second Temple Destruction",
+      "dates": "70 CE",
+      "chinese": "Han Dynasty (漢朝)"
+    },
+    {
+      "jewish": "Medieval Rabbis",
+      "dates": "960-1279 CE",
+      "chinese": "Song Dynasty (宋朝)"
+    }
+  ],
+  "key_sources": [
+    "Talmud Bavli, Taanit 9a",
+    "Talmud Bavli, Ketubot 50a",
+    "Shulchan Aruch, Yoreh Deah 249:1",
+    "Genesis 14:20 (Abraham's tithe)",
+    "Genesis 28:22 (Jacob's vow)"
+  ],
+  "related_articles": [
+    281,
+    282,
+    283,
+    284,
+    285,
+    286,
+    287,
+    288,
+    289
+  ],
+  "difficulty_level": "intermediate",
+  "estimated_reading_time_minutes": 12,
+  "author": "Torah Light Editorial Team",
+  "date_created": "2026-03-19",
+  "status": "published",
+  "version": "1.0"
+}
