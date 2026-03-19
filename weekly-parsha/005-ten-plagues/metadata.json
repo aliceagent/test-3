@@ -1,0 +1,117 @@
+{
+  "id": 5,
+  "title": {
+    "en": "The Ten Plagues: What Each Plague Teaches About Justice",
+    "zh": "十灾:每一灾教导我们关于正义的什么",
+    "he": "עשר המכות: מה כל מכה מלמדת על צדק"
+  },
+  "slug": "ten-plagues",
+  "section": "weekly-parsha",
+  "batch": "100",
+  "author": "Torah Light Editorial Team",
+  "dateCreated": "2026-03-18",
+  "language": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "primarySources": [
+    "Exodus 7:14-12:36",
+    "Psalms 78:43-51",
+    "Psalms 105:26-36",
+    "Midrash Rabbah, Exodus 9-13",
+    "Rashi on Exodus"
+  ],
+  "hebrewReferences": [
+    "שמות ז:יד-יב:לו",
+    "תהילים עח:מג-נא",
+    "תהילים קה:כו-לו",
+    "מדרש רבה, שמות ט-יג",
+    "רש״י על שמות"
+  ],
+  "culturalParallels": [
+    "Chinese concepts of divine retribution (天谴, tiān qiǎn)",
+    "Mandate of Heaven (天命, tiān mìng) withdrawal",
+    "Natural disasters as moral warning in Chinese history",
+    "Pharaoh's stubbornness vs. Confucian ruler's responsiveness",
+    "Justice and cosmic order"
+  ],
+  "wordCount": {
+    "en": 6500,
+    "zh": 5000,
+    "he": 2800
+  },
+  "readingTime": {
+    "en": "27-32 minutes",
+    "zh": "21-25 minutes",
+    "he": "12-15 minutes"
+  },
+  "targetAudience": "General Jewish learners; Chinese readers exploring Exodus narrative; students of biblical theology and justice",
+  "difficulty": "Beginner to Intermediate",
+  "relatedArticles": [
+    1,
+    2,
+    3,
+    4,
+    6
+  ],
+  "bibliography": [
+    {
+      "type": "primary",
+      "title": "Exodus 7:14-12:36 (Ten Plagues narrative)",
+      "url": "https://www.sefaria.org/Exodus.7.14",
+      "verified": false
+    },
+    {
+      "type": "primary",
+      "title": "Psalms 78:43-51",
+      "url": "https://www.sefaria.org/Psalms.78.43-51",
+      "verified": false
+    },
+    {
+      "type": "primary",
+      "title": "Psalms 105:26-36",
+      "url": "https://www.sefaria.org/Psalms.105.26-36",
+      "verified": false
+    },
+    {
+      "type": "commentary",
+      "title": "Midrash Rabbah, Exodus 9-13",
+      "url": "https://www.sefaria.org/Exodus_Rabbah.9",
+      "verified": false
+    },
+    {
+      "type": "commentary",
+      "title": "Rashi on Exodus",
+      "url": "https://www.sefaria.org/Rashi_on_Exodus",
+      "verified": false
+    },
+    {
+      "type": "secondary",
+      "title": "Nahum Sarna, Exploring Exodus",
+      "source": "Modern Biblical Scholarship"
+    }
+  ],
+  "keywords": [
+    "Ten Plagues",
+    "Exodus",
+    "Egypt",
+    "Pharaoh",
+    "Moses",
+    "justice",
+    "Divine retribution",
+    "liberation",
+    "Passover",
+    "miracles",
+    "hardening of heart",
+    "Chinese parallels",
+    "Mandate of Heaven",
+    "natural disasters",
+    "moral order"
+  ],
+  "summary": {
+    "en": "A comprehensive analysis of the Ten Plagues that struck Egypt before the Exodus, exploring what each plague teaches about Divine justice, the nature of oppression, and the process of liberation. Examines the progression from natural to supernatural, the hardening of Pharaoh's heart, and parallels to Chinese concepts of Heaven's moral order and withdrawal of the Mandate of Heaven.",
+    "zh": "全面分析出埃及前袭击埃及的十灾,探索每一灾关于神圣正义、压迫本质和解放过程的教导。审视从自然到超自然的进程、法老心的刚硬,以及与中国天道秩序和天命撤回概念的相似之处。",
+    "he": "ניתוח מקיף של עשר המכות שפגעו במצרים לפני יציאת מצרים, החוקר מה כל מכה מלמדת על צדק אלוהי, טבע הדיכוי ותהליך השחרור. בוחן את ההתקדמות מטבעי לעל-טבעי, את הקשחת לב פרעה והקבלות למושגים סיניים של סדר מוסרי שמימי ומשיכת המנדט השמימי."
+  }
+}

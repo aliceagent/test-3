@@ -1,0 +1,88 @@
+{
+  "id": 92,
+  "title": {
+    "en": "Bar Mitzvah Preparation: A 12-Month Guide",
+    "zh": "成人礼准备:12个月指南",
+    "he": "הכנה לבר מצווה: מדריך ל-12 חודשים"
+  },
+  "slug": "bar-mitzvah-preparation",
+  "section": "life-cycle",
+  "batch": "100",
+  "author": "Torah Light Editorial Team",
+  "dateCreated": "2026-03-18",
+  "language": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "primarySources": [
+    "Pirkei Avot 5:21",
+    "Talmud Bavli, Niddah 45b-46a",
+    "Shulchan Aruch, Orach Chaim 55:5"
+  ],
+  "hebrewReferences": [
+    "פרקי אבות ה:כא",
+    "תלמוד בבלי, נידה מה ע״ב-מו ע״א",
+    "שולחן ערוך, אורח חיים נה:ה"
+  ],
+  "culturalParallels": [
+    "Confucian coming-of-age ceremony (冠礼, guān lǐ)",
+    "Concept of personal responsibility and obligation at maturity",
+    "Year-long preparation as cultivation (修身, xiū shēn)"
+  ],
+  "wordCount": {
+    "en": 4200,
+    "zh": 3100,
+    "he": 3800
+  },
+  "readingTime": {
+    "en": "18-22 minutes",
+    "zh": "14-16 minutes",
+    "he": "16-20 minutes"
+  },
+  "targetAudience": "Chinese families preparing sons for Bar Mitzvah; Jewish educators working with Chinese communities",
+  "difficulty": "Beginner to Intermediate",
+  "relatedArticles": [
+    93,
+    94,
+    95
+  ],
+  "bibliography": [
+    {
+      "type": "primary",
+      "title": "Pirkei Avot 5:21",
+      "url": "https://www.sefaria.org/Pirkei_Avot.5.21",
+      "verified": false
+    },
+    {
+      "type": "primary",
+      "title": "Talmud Bavli, Niddah 45b-46a",
+      "url": "https://www.sefaria.org/Niddah.45b",
+      "verified": false
+    },
+    {
+      "type": "commentary",
+      "title": "Shulchan Aruch, Orach Chaim 55:5",
+      "url": "https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.55.5",
+      "verified": false
+    }
+  ],
+  "keywords": [
+    "Bar Mitzvah",
+    "coming of age",
+    "Torah reading",
+    "tefillin",
+    "Jewish lifecycle",
+    "Chinese families",
+    "preparation guide",
+    "Jewish education",
+    "cantillation",
+    "trope",
+    "dvar Torah"
+  ],
+  "summary": {
+    "en": "A comprehensive month-by-month guide for Chinese families preparing their sons for Bar Mitzvah, covering everything from choosing a date and finding teachers to learning Torah reading, putting on tefillin, and delivering a speech. Includes cultural parallels and practical tips for families in China.",
+    "zh": "为中国家庭准备儿子成人礼提供的全面的逐月指南,涵盖从选择日期、寻找教师到学习诵读托拉、戴经文匣和发表演讲的所有内容。包括文化对比和在中国的家庭实用建议。",
+    "he": "מדריך מקיף חודש אחר חודש למשפחות סיניות המכינות את בניהן לבר מצווה, המכסה הכל מבחירת התאריך ומציאת מורים ועד ללימוד קריאת התורה, הנחת תפילין והענקת נאום. כולל הקבלות תרבותיות וטיפים מעשיים למשפחות בסין."
+  }
+}

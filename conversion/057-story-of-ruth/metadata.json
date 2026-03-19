@@ -1,0 +1,82 @@
+{
+  "id": 57,
+  "title": "The Story of Ruth: The Most Famous Convert in Jewish History",
+  "title_zh": "路得的故事:犹太历史上最著名的皈依者",
+  "title_he": "סיפור רות: הגיורת המפורסמת ביותר בהיסטוריה היהודית",
+  "section": "Conversion",
+  "section_zh": "皈依",
+  "section_he": "גיור",
+  "description": "The biblical story of Ruth the Moabite, whose words 'Your people will be my people, and your God my God' became the eternal declaration of conversion to Judaism.",
+  "word_count_en": 6200,
+  "word_count_zh": 5800,
+  "word_count_he": 6000,
+  "status": "published",
+  "created": "2026-03-18T08:06:00+02:00",
+  "published": "2026-03-18T08:06:00+02:00",
+  "author": "Torah Light Writing Team",
+  "tags": [
+    "Ruth",
+    "Conversion",
+    "Ger",
+    "RuthTheMoabite",
+    "Naomi",
+    "Boaz",
+    "BookOfRuth",
+    "MegillatRuth",
+    "Shavuot",
+    "Chesed",
+    "Kindness",
+    "Loyalty",
+    "FilialPiety",
+    "孝",
+    "Redemption",
+    "KingDavid",
+    "Messiah",
+    "Moab",
+    "Bethlehem",
+    "WesternZhouDynasty",
+    "西周",
+    "Gleaning",
+    "Mitzvah",
+    "UnderTheWingsOfTheShechinah",
+    "Convert",
+    "ConversionJourney",
+    "JewishIdentity",
+    "ChosenPeople",
+    "DivineProvidence",
+    "Hashgacha",
+    "Torah",
+    "JewishHistory",
+    "BiblicalWomen"
+  ],
+  "chinese_dynasty_references": [
+    {
+      "dynasty": "Western Zhou Dynasty",
+      "chinese": "西周",
+      "years": "~1046-771 BCE",
+      "context": "Period when Ruth's story took place and when the Book of Songs was being compiled"
+    }
+  ],
+  "key_concepts": [
+    {
+      "english": "Your people will be my people, and your God my God",
+      "hebrew": "עַמֵּךְ עַמִּי וֵאלֹהַיִךְ אֱלֹהָי",
+      "chinese": "你的民就是我的民，你的神就是我的神"
+    },
+    {
+      "english": "Under the wings of the Divine Presence",
+      "hebrew": "תחת כנפי השכינה",
+      "chinese": "在神圣同在的翅膀下"
+    },
+    {
+      "english": "Lovingkindness",
+      "hebrew": "חסד",
+      "chinese": "仁慈"
+    },
+    {
+      "english": "Convert",
+      "hebrew": "גר",
+      "chinese": "皈依者"
+    }
+  ]
+}

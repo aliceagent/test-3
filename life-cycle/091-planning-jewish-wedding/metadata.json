@@ -1,0 +1,82 @@
+{
+  "id": 91,
+  "title": "Planning a Jewish Wedding: From the Proposal to Sheva Brachot",
+  "title_zh": "筹备犹太婚礼：从订婚到七福祝愿",
+  "title_he": "תכנון חתונה יהודית: מההצעה עד שבע ברכות",
+  "section": "Life Cycle",
+  "section_zh": "生命周期",
+  "section_he": "מעגל החיים",
+  "description": "A comprehensive guide to the traditional Jewish wedding ceremony, from engagement through the week of celebrations, explaining the spiritual meaning behind each custom and ritual.",
+  "word_count_en": 8150,
+  "word_count_zh": 7600,
+  "word_count_he": 7900,
+  "status": "published",
+  "created": "2026-03-18T08:06:00+02:00",
+  "published": "2026-03-18T08:06:00+02:00",
+  "author": "Torah Light Writing Team",
+  "tags": [
+    "JewishWedding",
+    "LifeCycle",
+    "Chuppah",
+    "Ketubah",
+    "ShevaBerachot",
+    "七福祝愿",
+    "Kiddushin",
+    "Nissuin",
+    "Bedeken",
+    "Yichud",
+    "婚礼",
+    "犹太传统",
+    "MazelTov",
+    "TorahAndMarriage",
+    "הלכה",
+    "חתונה",
+    "חופה",
+    "Tenaim",
+    "Aufruf",
+    "WeddingFasting",
+    "BreakingTheGlass",
+    "Mikvah",
+    "FamilyPurity",
+    "BayitNeeman",
+    "JewishMarriage"
+  ],
+  "chinese_dynasty_references": [],
+  "key_concepts": [
+    {
+      "english": "Wedding canopy",
+      "hebrew": "חופה",
+      "chinese": "婚礼华盖"
+    },
+    {
+      "english": "Marriage contract",
+      "hebrew": "כתובה",
+      "chinese": "婚约"
+    },
+    {
+      "english": "Seven blessings",
+      "hebrew": "שבע ברכות",
+      "chinese": "七福祝愿"
+    },
+    {
+      "english": "Betrothal and marriage",
+      "hebrew": "קידושין ונישואין",
+      "chinese": "订婚与婚姻"
+    },
+    {
+      "english": "Veiling ceremony",
+      "hebrew": "בדיקן",
+      "chinese": "遮面仪式"
+    },
+    {
+      "english": "Seclusion room",
+      "hebrew": "ייחוד",
+      "chinese": "独处室"
+    },
+    {
+      "english": "A faithful house in Israel",
+      "hebrew": "בית נאמן בישראל",
+      "chinese": "以色列中的忠实之家"
+    }
+  ]
+}

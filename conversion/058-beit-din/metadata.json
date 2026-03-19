@@ -1,0 +1,89 @@
+{
+  "id": 58,
+  "title": "What to Expect at a Beit Din (Rabbinical Court)",
+  "title_zh": "犹太教法庭（拉比法院）会发生什么",
+  "title_he": "מה לצפות בבית דין",
+  "section": "Conversion",
+  "section_zh": "皈依",
+  "section_he": "גיור",
+  "description": "A comprehensive guide to the beit din process for conversion to Judaism, covering what to expect, how to prepare, and what happens during and after the rabbinical court interview.",
+  "word_count_en": 6900,
+  "word_count_zh": 6000,
+  "word_count_he": 6800,
+  "status": "published",
+  "created": "2026-03-18T08:06:00+02:00",
+  "published": "2026-03-18T08:06:00+02:00",
+  "author": "Torah Light Writing Team",
+  "tags": [
+    "Conversion",
+    "BeitDin",
+    "Geirut",
+    "Mikvah",
+    "RuthTheConvert",
+    "JewishLaw",
+    "Halacha",
+    "BecomingJewish",
+    "JewsInAsia",
+    "ConversionJourney",
+    "RabbinicalCourt",
+    "OrthodoxConversion",
+    "转教",
+    "犹太教法庭",
+    "皈依犹太教",
+    "Torah",
+    "Mitzvot",
+    "Shabbat",
+    "Kashrut",
+    "Prayer",
+    "JewishCalendar",
+    "HebrewName"
+  ],
+  "chinese_dynasty_references": [
+    {
+      "dynasty": "Western Zhou Dynasty",
+      "chinese": "西周",
+      "years": "~1046-771 BCE",
+      "context": "When the Kingdom of Israel maintained courts of law based on Torah principles"
+    },
+    {
+      "dynasty": "Eastern Han Dynasty",
+      "chinese": "东汉",
+      "years": "25-220 CE",
+      "context": "Period when the Second Temple was destroyed and the Sanhedrin functioned"
+    },
+    {
+      "dynasty": "Song Dynasty",
+      "chinese": "宋朝",
+      "years": "960-1279 CE",
+      "context": "Contemporary with medieval Spain when Jewish communities maintained their own courts"
+    },
+    {
+      "dynasty": "Ming Dynasty",
+      "chinese": "明朝",
+      "years": "1368-1644 CE",
+      "context": "Contemporary with Eastern European Renaissance when rabbinical courts handled community affairs"
+    }
+  ],
+  "key_concepts": [
+    {
+      "english": "House of Judgment",
+      "hebrew": "בית דין",
+      "chinese": "审判之家"
+    },
+    {
+      "english": "Conversion",
+      "hebrew": "גירות",
+      "chinese": "皈依"
+    },
+    {
+      "english": "Ritual immersion pool",
+      "hebrew": "מקוה",
+      "chinese": "仪式浸池"
+    },
+    {
+      "english": "Jewish law",
+      "hebrew": "הלכה",
+      "chinese": "犹太律法"
+    }
+  ]
+}

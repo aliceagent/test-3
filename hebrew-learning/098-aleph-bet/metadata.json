@@ -1,0 +1,69 @@
+{
+  "id": 98,
+  "title": "The Aleph-Bet: Learn the Hebrew Alphabet in One Week",
+  "title_zh": "希伯来字母表：一周内掌握阿列夫-贝特",
+  "title_he": "האלף-בית: למד את האלפבית העברי בשבוע אחד",
+  "section": "Hebrew Learning",
+  "section_zh": "希伯来语学习",
+  "section_he": "לימוד עברית",
+  "description": "A 7-day intensive plan to master the Hebrew alphabet (Aleph-Bet), with mnemonics designed specifically for Mandarin speakers and daily practice routines.",
+  "word_count_en": 7300,
+  "word_count_zh": 6800,
+  "word_count_he": 3800,
+  "status": "published",
+  "created": "2026-03-18T08:06:00+02:00",
+  "published": "2026-03-18T08:06:00+02:00",
+  "author": "Torah Light Writing Team",
+  "tags": [
+    "Hebrew",
+    "Alephbet",
+    "字母表",
+    "אלפבית",
+    "LanguageLearning",
+    "HebrewAlphabet",
+    "希伯来语",
+    "עברית",
+    "BeginnerHebrew",
+    "初学者",
+    "7DayChallenge",
+    "一周挑战",
+    "WritingPractice",
+    "书写练习",
+    "Pronunciation",
+    "发音",
+    "TorahStudy",
+    "Study",
+    "CalligraphyAsArt",
+    "书法",
+    "SacredLetters",
+    "神圣文字",
+    "ChineseJews",
+    "中国犹太人",
+    "Flashcards",
+    "Mnemonics",
+    "DailyPractice"
+  ],
+  "chinese_dynasty_references": [],
+  "key_concepts": [
+    {
+      "english": "Aleph-Bet (Hebrew Alphabet)",
+      "hebrew": "אָלֶף־בֵּית",
+      "chinese": "希伯来字母表"
+    },
+    {
+      "english": "22 base letters",
+      "hebrew": "עשרים ושתיים אותיות",
+      "chinese": "22个基础字母"
+    },
+    {
+      "english": "Final forms",
+      "hebrew": "אותיות סופיות",
+      "chinese": "词尾形式"
+    },
+    {
+      "english": "Writing practice",
+      "hebrew": "תרגול כתיבה",
+      "chinese": "书写练习"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": 90,
+  "title": {
+    "en": "Debunking Anti-Jewish Myths Popular in China",
+    "zh": "破解在中国流行的反犹迷思",
+    "he": "הפרכת מיתוסים אנטי-יהודיים פופולריים בסין"
+  },
+  "slug": "debunking-myths-china",
+  "section": "antisemitism",
+  "batch": "100",
+  "author": "Torah Light Editorial Team",
+  "dateCreated": "2026-03-18",
+  "language": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "primarySources": [
+    "Historical documentation of antisemitic myths",
+    "Scholarly research on conspiracy theories",
+    "Chinese translations of antisemitic literature"
+  ],
+  "hebrewReferences": [
+    "מקורות היסטוריים על מיתוסים אנטישמיים"
+  ],
+  "culturalParallels": [
+    "Chinese experience with foreign conspiracy theories",
+    "Modern antisemitism in East Asia",
+    "Misinformation and social media in China"
+  ],
+  "wordCount": {
+    "en": 4800,
+    "zh": 3600,
+    "he": 4400
+  },
+  "readingTime": {
+    "en": "20-24 minutes",
+    "zh": "15-18 minutes",
+    "he": "18-22 minutes"
+  },
+  "targetAudience": "Chinese readers encountering antisemitic conspiracy theories; educators combating misinformation",
+  "difficulty": "Intermediate",
+  "relatedArticles": [
+    91,
+    89,
+    88
+  ],
+  "bibliography": [
+    {
+      "type": "secondary",
+      "title": "The Protocols of the Elders of Zion: A History of a Forgery",
+      "source": "Academic research on antisemitic literature"
+    },
+    {
+      "type": "article",
+      "title": "Antisemitism in Contemporary China",
+      "source": "Journal of Contemporary Antisemitism"
+    }
+  ],
+  "keywords": [
+    "antisemitism",
+    "conspiracy theories",
+    "China",
+    "misinformation",
+    "Protocols of Zion",
+    "debunking myths",
+    "Jewish stereotypes",
+    "education",
+    "media literacy",
+    "fact-checking"
+  ],
+  "summary": {
+    "en": "A comprehensive debunking of common antisemitic myths and conspiracy theories that have gained traction in China, including the Protocols of the Elders of Zion, financial conspiracy theories, and other harmful stereotypes. Provides historical context, factual corrections, and media literacy guidance.",
+    "zh": "全面破解在中国流传的常见反犹迷思和阴谋论,包括锡安长老会纪要、金融阴谋论和其他有害刻板印象。提供历史背景、事实纠正和媒体素养指导。",
+    "he": "הפרכה מקיפה של מיתוסים אנטישמיים נפוצים ותיאוריות קונספירציה שצברו אחיזה בסין, כולל פרוטוקולי זקני ציון, תיאוריות קונספירציה פיננסיות וסטריאוטיפים מזיקים אחרים. מספק הקשר היסטורי, תיקונים עובדתיים והדרכה לאוריינות מדיה."
+  }
+}

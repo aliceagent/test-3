@@ -1,0 +1,91 @@
+{
+  "id": 72,
+  "title": "Mesillat Yesharim: A Roadmap for Spiritual Growth",
+  "title_zh": "《正直之路》:精神成长的路线图",
+  "title_he": "מסילת ישרים: מפת דרכים לצמיחה רוחנית",
+  "section": "Jewish Texts",
+  "section_zh": "犹太经典",
+  "section_he": "טקסטים יהודיים",
+  "description": "An introduction to Rabbi Moshe Chaim Luzzatto's classic work on Jewish ethics and spiritual development, presenting the ten progressive levels from watchfulness to holiness.",
+  "word_count_en": 6400,
+  "word_count_zh": 5800,
+  "word_count_he": 6100,
+  "status": "published",
+  "created": "2026-03-18T08:06:00+02:00",
+  "published": "2026-03-18T08:06:00+02:00",
+  "author": "Torah Light Writing Team",
+  "tags": [
+    "MesillatYesharim",
+    "Ramchal",
+    "Mussar",
+    "SpiritualGrowth",
+    "JewishEthics",
+    "SelfImprovement",
+    "Holiness",
+    "Humility",
+    "Watchfulness",
+    "Piety",
+    "Torah学习",
+    "犹太伦理",
+    "精神成长",
+    "正直之路",
+    "清朝",
+    "儒家",
+    "Zehirut",
+    "Zerizut",
+    "Nekiyut",
+    "Perishut",
+    "Taharah",
+    "Chassidut",
+    "Anavah",
+    "YiratChet",
+    "Kedushah",
+    "RuachHaKodesh",
+    "MosheChaimLuzzatto"
+  ],
+  "chinese_dynasty_references": [
+    {
+      "dynasty": "Qing Dynasty",
+      "chinese": "清朝",
+      "years": "1644-1912 CE",
+      "context": "When Rabbi Moshe Chaim Luzzatto wrote Mesillat Yesharim (1743)"
+    }
+  ],
+  "key_concepts": [
+    {
+      "english": "Path of the Upright",
+      "hebrew": "מסילת ישרים",
+      "chinese": "正直之路"
+    },
+    {
+      "english": "Watchfulness",
+      "hebrew": "זהירות",
+      "chinese": "警觉"
+    },
+    {
+      "english": "Alacrity/Enthusiasm",
+      "hebrew": "זריזות",
+      "chinese": "热忱"
+    },
+    {
+      "english": "Cleanliness/Moral Purity",
+      "hebrew": "נקיות",
+      "chinese": "洁净"
+    },
+    {
+      "english": "Humility",
+      "hebrew": "ענוה",
+      "chinese": "谦卑"
+    },
+    {
+      "english": "Holiness",
+      "hebrew": "קדושה",
+      "chinese": "圣洁"
+    },
+    {
+      "english": "Divine Spirit",
+      "hebrew": "רוח הקודש",
+      "chinese": "圣灵"
+    }
+  ]
+}
