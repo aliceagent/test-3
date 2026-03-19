@@ -1,0 +1,79 @@
+{
+  "id": 238,
+  "title": "Tzedakah: The Jewish Obligation of Righteous Giving",
+  "title_zh": "慈善施舍（Tzedakah）：犹太教的正义施予义务",
+  "title_he": "צדקה: החובה היהודית של נתינה צודקת",
+  "section": "jewish-values",
+  "slug": "tzedakah-giving",
+  "word_count": {
+    "en": 5247,
+    "zh": 2156,
+    "he": 3418
+  },
+  "status": "completed",
+  "created": "2026-03-19T01:18:00Z",
+  "tags": [
+    "tzedakah",
+    "charity",
+    "justice",
+    "mitzvah",
+    "giving",
+    "money-ethics",
+    "jewish-values",
+    "maimonides",
+    "rambam",
+    "social-justice",
+    "community",
+    "righteousness"
+  ],
+  "chinese_parallels": [
+    "仁 (ren - benevolence)",
+    "面子 (face culture)",
+    "儒家思想 (Confucian philosophy)",
+    "社会和谐 (social harmony)",
+    "天命 (Mandate of Heaven)"
+  ],
+  "historical_periods": [
+    {
+      "jewish": "Patriarchs (Abraham-Jacob)",
+      "dates": "~1800-1500 BCE",
+      "chinese_equivalent": "商朝 (Shang Dynasty)",
+      "chinese_dates": "~1600-1046 BCE"
+    },
+    {
+      "jewish": "Talmudic Period",
+      "dates": "200-500 CE",
+      "chinese_equivalent": "三国至晋朝 (Three Kingdoms to Jin Dynasty)",
+      "chinese_dates": "~200-500 CE"
+    },
+    {
+      "jewish": "Maimonides (Rambam)",
+      "dates": "1138-1204 CE",
+      "chinese_equivalent": "宋朝 (Song Dynasty)",
+      "chinese_dates": "960-1279 CE"
+    }
+  ],
+  "key_concepts": [
+    "Tzedakah as justice, not charity",
+    "10-20% income guideline (ma'aser kesafim)",
+    "Priority hierarchy (family, community, nation)",
+    "Maimonides' Eight Levels of Charity",
+    "Highest level: enabling self-sufficiency",
+    "Anonymous giving preserves dignity",
+    "Even recipients must give",
+    "Partnership with God in sustaining the world"
+  ],
+  "bibliography_sources": [
+    "Chabad.org - Tzedakah overview",
+    "My Jewish Learning - Tzedakah 101",
+    "Sefaria.org - Mishneh Torah, Gifts to the Poor",
+    "Aish.com - Eight Levels of Charity",
+    "Orthodox Union - Tzedakah spiritual dimensions",
+    "Deuteronomy 15:7-11",
+    "Pirkei Avot 3:7"
+  ],
+  "language_notes": {
+    "zh": "Chinese version includes parallels to Confucian ren (仁) and Daoist concepts, cultural references to face (面子), and Chinese dynasty correspondences. Minimum 800 characters requirement met (2156 characters).",
+    "he": "Hebrew version includes proper RTL formatting, uses traditional religious terminology, and maintains cultural authenticity for Hebrew-speaking Orthodox Jewish readers."
+  }
+}
