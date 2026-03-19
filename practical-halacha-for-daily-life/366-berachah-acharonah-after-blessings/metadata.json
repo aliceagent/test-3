@@ -1,0 +1,78 @@
+{
+  "id": 366,
+  "title": "The Berachah Acharonah: After-Blessings Beyond Birkat HaMazon",
+  "title_zh": "餐后祝福(Berachah Acharonah):不只是Birkat HaMazon",
+  "title_he": "ברכה אחרונה: ברכות שלאחר האכילה מעבר לברכת המזון",
+  "slug": "berachah-acharonah-after-blessings",
+  "section": "practical-halacha-for-daily-life",
+  "description": "When to say Al HaMichyah, Borei Nefashot, and the full Birkat HaMazon — a decision tree for which after-blessing applies.",
+  "word_count_en": 4850,
+  "word_count_zh": 4200,
+  "word_count_he": 4100,
+  "languages": ["en", "zh", "he"],
+  "tags": [
+    "AfterBlessings",
+    "BirkatHaMazon",
+    "BerachahAcharonah",
+    "AlHaMichyah",
+    "BoreiNefashot",
+    "PracticalHalacha",
+    "Gratitude",
+    "Blessings",
+    "DailyPractice",
+    "JewishLaw",
+    "感恩",
+    "祝福",
+    "犹太律法",
+    "餐后祷告",
+    "ברכותאחרונות",
+    "ברכתהמזון",
+    "עלהמחיה",
+    "בוראנפשות",
+    "הלכהמעשית",
+    "הכרתטובה"
+  ],
+  "status": "complete",
+  "created_at": "2026-03-19T10:15:00Z",
+  "author": "Torah Light Writing Team",
+  "target_audience": "Chinese speakers learning Orthodox Judaism",
+  "cultural_connections": [
+    "Confucian filial piety and gratitude",
+    "Tang Dynasty poetry about appreciating food",
+    "Chinese tea culture and mindfulness",
+    "Comparison of gratitude practices in both cultures"
+  ],
+  "key_concepts": [
+    "Three types of after-blessings",
+    "Birkat HaMazon for bread",
+    "Al HaMichyah for seven species and grains",
+    "Borei Nefashot for everything else",
+    "Decision tree for blessing selection",
+    "Biblical source in Deuteronomy 8:10",
+    "Building gratitude as spiritual practice"
+  ],
+  "historical_periods": [
+    {
+      "jewish_period": "Second Temple Period",
+      "years": "516 BCE - 70 CE",
+      "chinese_equivalent": "Warring States → Han Dynasty (战国→汉朝)",
+      "chinese_years": "~475 BCE - 220 CE"
+    },
+    {
+      "jewish_period": "Mishnaic Period",
+      "years": "~200 CE",
+      "chinese_equivalent": "Late Han Dynasty (汉朝晚期)",
+      "chinese_years": "~200 CE"
+    }
+  ],
+  "bibliography_count": 8,
+  "practical_applications": [
+    "Daily after-meal blessings",
+    "Deciding which blessing for different foods",
+    "Building gradual blessing practice",
+    "Using reference cards for learning",
+    "Timing of after-blessings (within 72 minutes)"
+  ],
+  "difficulty_level": "Beginner to Intermediate",
+  "estimated_reading_time_minutes": 15
+}

@@ -1,0 +1,77 @@
+{
+  "id": 367,
+  "title": "Pas Palter: When Commercial Bread Is Permissible",
+  "title_zh": "Pas Palter：何时可以食用商业面包",
+  "title_he": "פת פלטר: מתי מותר לאכול לחם מסחרי",
+  "slug": "pas-palter-commercial-bread",
+  "section": "practical-halacha-for-daily-life",
+  "description": "The leniency of pas palter (commercial baker's bread) when pas Yisroel is unavailable — the halachic reasoning and when to rely on it.",
+  "word_count": {
+    "en": 1485,
+    "zh": 931,
+    "he": 1421
+  },
+  "languages": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "tags": [
+    "PasYisroel",
+    "PasPalter",
+    "Kashrut",
+    "Bread",
+    "Halacha",
+    "PracticalHalacha",
+    "DailyLife",
+    "KosherFood",
+    "JewishLaw",
+    "ChineseDiaspora",
+    "中庸",
+    "正念",
+    "洁食",
+    "面包",
+    "哈拉卡",
+    "实用哈拉卡",
+    "日常生活",
+    "洁食食品",
+    "犹太律法",
+    "中国侨民",
+    "פתישראל",
+    "פתפלטר",
+    "כשרות",
+    "לחם",
+    "הלכה",
+    "הלכהמעשית",
+    "חייםיומיומיים",
+    "אוכלכשר",
+    "דיןיהודי",
+    "תפוצהסינית"
+  ],
+  "bibliography_count": 6,
+  "cultural_parallels": [
+    "Confucian Doctrine of the Mean (中庸, zhōngyōng)",
+    "Mindfulness (正念, zhèngniàn)",
+    "Chinese tea culture and elevation of daily activities"
+  ],
+  "key_concepts": [
+    "Pas Yisroel - Jewish-baked bread",
+    "Pas Palter - Commercial baker's bread (permissible leniency)",
+    "Pas Akum - Private non-Jewish baked bread (prohibited)",
+    "Social boundaries and intermarriage prevention",
+    "Balance between ideal and practical observance",
+    "Kashrut requirements beyond baking",
+    "Community customs and personal standards"
+  ],
+  "talmudic_sources": [
+    "Avodah Zarah 35b"
+  ],
+  "halachic_sources": [
+    "Shulchan Aruch, Yoreh De'ah 112",
+    "Mishnah Berurah 603:1"
+  ],
+  "status": "complete",
+  "created": "2026-03-19",
+  "author": "Torah Light Project",
+  "version": "1.0"
+}
