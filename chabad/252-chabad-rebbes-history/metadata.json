@@ -1,0 +1,89 @@
+{
+  "id": 252,
+  "title": "The Tzemach Tzedek, the Rebbe Rashab, and the Other Chabad Rebbes",
+  "title_zh": "第三代至第六代拉比：查巴德历史的承传",
+  "title_he": "הצמח צדק, הרבי רש״ב ושאר רבותינו נשיאי חב״ד",
+  "section": "chabad",
+  "slug": "chabad-rebbes-history",
+  "author": "Torah Light Editorial Team",
+  "date_created": "2026-03-19",
+  "last_updated": "2026-03-19",
+  "status": "completed",
+  "word_count": {
+    "en": 4250,
+    "zh": 3850,
+    "he": 4100
+  },
+  "languages": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "tags": [
+    "ChabadHistory",
+    "TzemachTzedek",
+    "RebeMaharash",
+    "RebeRashab",
+    "FrierdikerRebe",
+    "ChassidicLeadership",
+    "JewishResistance",
+    "TorahEducation",
+    "Lchatchila",
+    "TomcheiTemimim",
+    "SovietJews",
+    "JewishCourage",
+    "Mesorah",
+    "清朝",
+    "Revolution",
+    "传承"
+  ],
+  "key_figures": [
+    "Tzemach Tzedek (Rabbi Menachem Mendel Schneersohn, 1789-1866)",
+    "Rebbe Maharash (Rabbi Shmuel Schneersohn, 1834-1882)",
+    "Rebbe Rashab (Rabbi Sholom Dov Ber Schneersohn, 1860-1920)",
+    "Frierdiker Rebbe (Rabbi Yosef Yitzchak Schneersohn, 1880-1950)"
+  ],
+  "key_concepts": [
+    "L'chatchila ariber (leap over obstacles with faith)",
+    "Tomchei Temimim yeshiva",
+    "Underground Jewish education in Soviet Union",
+    "Quiet resistance to government persecution",
+    "Mesirus nefesh (self-sacrifice)",
+    "Chain of Chabad leadership",
+    "Integration of Talmud and Chassidic thought"
+  ],
+  "historical_periods": [
+    "Mid-Qing Dynasty China (清朝, 1644-1912)",
+    "Late Qing Dynasty and Taiping Rebellion",
+    "Russian Revolution (1917)",
+    "World War I",
+    "Soviet persecution of Judaism",
+    "Holocaust era",
+    "Early Communist China period"
+  ],
+  "sources_count": 8,
+  "bibliography_verified": true,
+  "target_audience": "Chinese native Mandarin speakers, no background in Judaism",
+  "reading_level": "intermediate",
+  "estimated_reading_time_minutes": {
+    "en": 18,
+    "zh": 15,
+    "he": 17
+  },
+  "chinese_cultural_parallels": [
+    "Qing Dynasty historical periods",
+    "Concept of generational transmission (传承)",
+    "Resistance to forced modernization",
+    "Underground education networks",
+    "Master-disciple lineage"
+  ],
+  "header_image_description": "A Chinese ink wash landscape showing a winding mountain path ascending through seven peaks, each higher than the last, with traditional pavilions at each summit connected by stone bridges. Rendered in traditional shan shui (山水) style with subtle gradations from light mist at the base to clearer definition at higher elevations. Seven small flames or lights glow at each pavilion, representing the seven generations of Chabad leadership. Palette: charcoal blacks, soft grays, warm amber lights, and touches of sage green for pine trees. Mood: dignified, contemplative, suggesting continuity and spiritual ascent across generations.",
+  "qa_notes": "Article covers the third through sixth Chabad Rebbes comprehensively, with biographical details, historical challenges, responses, legacies, and connections to modern Chabad movement. Chinese historical parallels included throughout. All bibliography URLs verified as accessible.",
+  "related_articles": [
+    245,
+    246,
+    251,
+    243,
+    244
+  ]
+}
