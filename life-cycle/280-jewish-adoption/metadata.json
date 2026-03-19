@@ -1,0 +1,88 @@
+{
+  "id": 280,
+  "title": "Jewish Adoption: Halachic Considerations and the Conversion Process",
+  "title_zh": "犹太教的收养:哈拉卡考量与皈依过程",
+  "title_he": "אימוץ יהודי: שיקולים הלכתיים ותהליך גיור",
+  "section": "life-cycle",
+  "slug": "jewish-adoption",
+  "author": "Torah Light Project",
+  "date_created": "2026-03-19",
+  "languages": {
+    "en": {
+      "file": "article-en.md",
+      "word_count": 3950,
+      "status": "complete"
+    },
+    "zh": {
+      "file": "article-zh.md",
+      "char_count": 5832,
+      "status": "complete"
+    },
+    "he": {
+      "file": "article-he.md",
+      "word_count": 3720,
+      "status": "complete"
+    }
+  },
+  "tags": [
+    "Adoption",
+    "Conversion",
+    "GiyurKatan",
+    "JewishFamily",
+    "LifeCycle",
+    "Halacha",
+    "JewishLaw",
+    "Moses",
+    "Esther",
+    "Mitzvah",
+    "家庭",
+    "收养",
+    "犹太法",
+    "Ruth",
+    "Abraham",
+    "Sarah",
+    "BarMitzvah",
+    "BatMitzvah",
+    "Mikvah",
+    "BritMilah",
+    "SpecialNeeds",
+    "SingleParent",
+    "InternationalAdoption",
+    "JewishIdentity",
+    "Zekhut",
+    "ParentChild"
+  ],
+  "key_concepts": [
+    "Giyur Katan (conversion for minors)",
+    "Brit Milah and Tevilah requirements",
+    "Right to affirm or renounce conversion at bar/bat mitzvah",
+    "Talmudic teaching: 'Whoever raises a child is as if they gave birth'",
+    "Biblical precedents: Moses and Esther",
+    "Hebrew naming conventions for adopted children",
+    "Halachic equality with biological children",
+    "Single parent and special needs adoption"
+  ],
+  "target_audience": "Chinese native Mandarin speakers with no prior Jewish knowledge",
+  "bibliography_sources": 6,
+  "chinese_historical_context": [
+    "Shang Dynasty (商朝) ~1600-1046 BCE - Abraham era",
+    "Zhou Dynasty (周朝) 1046-256 BCE - Judges to Second Temple",
+    "Han Dynasty (汉朝) 206 BCE-220 CE - Second Temple to Mishnaic period",
+    "Three Kingdoms-Jin Dynasty (三国-晋朝) 220-420 CE - Talmudic period",
+    "Confucian concept of adoptive family relationships (孝, filial piety)"
+  ],
+  "cultural_parallels": [
+    "Confucian emphasis on education and values over biology in defining family",
+    "Chinese filial piety (孝) compared to Jewish parent-child relationship",
+    "Historic Jewish communities in China (Kaifeng, Shanghai, Harbin, Hong Kong)"
+  ],
+  "quality_assurance": {
+    "chinese_dynasties_mapped": true,
+    "bibliography_urls_verified": true,
+    "three_languages_complete": true,
+    "tags_section_included": true,
+    "header_image_description": true,
+    "min_chinese_chars": true,
+    "word_count_target_met": true
+  }
+}

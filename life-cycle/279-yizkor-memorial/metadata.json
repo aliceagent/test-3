@@ -1,0 +1,71 @@
+{
+  "id": 279,
+  "title": "Yizkor: The Memorial Prayer Service Four Times a Year",
+  "title_zh": "Yizkor（伊兹科尔）：一年四次的纪念祷告仪式",
+  "title_he": "יִזְכּוֹר: תפילת הזיכרון ארבע פעמים בשנה",
+  "section": "life-cycle",
+  "slug": "yizkor-memorial",
+  "batch": "300",
+  "word_count": {
+    "en": 4850,
+    "zh": 2380,
+    "he": 2650
+  },
+  "status": "complete",
+  "tags": [
+    "Yizkor",
+    "Memorial Prayer",
+    "Life Cycle",
+    "Death",
+    "Memory",
+    "Yom Kippur",
+    "Pesach",
+    "Shavuot",
+    "Sukkot",
+    "Charity",
+    "Tzedakah",
+    "Soul",
+    "Kabbalah",
+    "Jewish Mourning",
+    "祭祖",
+    "清明节",
+    "纪念",
+    "灵魂",
+    "孝道"
+  ],
+  "chinese_cultural_parallels": [
+    "Qingming Festival (清明节)",
+    "Ancestor veneration",
+    "Song Dynasty (宋朝, 960-1279 CE)",
+    "Warring States period (战国时期, 475-221 BCE)",
+    "Yuan Dynasty (元朝, 1271-1368 CE)",
+    "Republic of China (中华民国, 1912-1949)",
+    "Confucian filial piety (孝道)",
+    "Daoist balance (yin-yang)"
+  ],
+  "key_concepts": [
+    "Yizkor memorial prayer",
+    "Four annual observances",
+    "Elevating souls of deceased",
+    "Pledging charity in memory",
+    "Community and personal mourning",
+    "Connection between living and dead",
+    "Yahrzeit vs communal remembrance",
+    "Customs for who participates",
+    "Kabbalistic understanding of souls"
+  ],
+  "bibliography_sources": [
+    "https://www.aish.com/jl/h/cc/48959001.html",
+    "https://www.chabad.org/library/article_cdo/aid/281579/jewish/Yizkor.htm",
+    "https://www.sefaria.org/Siddur_Ashkenaz,_Yizkor_Service",
+    "https://www.myjewishlearning.com/article/yizkor/",
+    "https://www.chabad.org/library/article_cdo/aid/3196/jewish/Why-Say-Yizkor.htm"
+  ],
+  "header_image_prompt": "A serene Chinese ink wash painting depicting a misty mountain landscape at dawn with a solitary figure standing on a cliff overlooking a valley, holding a memorial candle. Four seasonal elements subtly integrated into the four corners: spring blossoms, summer sun rays, autumn leaves, winter snow. Traditional shan shui style with muted grays, soft browns, and a gentle golden glow from the candle. The mood is contemplative, peaceful, and reflective, symbolizing the connection between memory and the eternal cycle of seasons.",
+  "created_date": "2026-03-19",
+  "language_versions": {
+    "en": "article-en.md",
+    "zh": "article-zh.md",
+    "he": "article-he.md"
+  }
+}
