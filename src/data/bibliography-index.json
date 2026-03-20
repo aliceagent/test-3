@@ -60,7 +60,11 @@
       "he": ""
     },
     "section": "blessings",
-    "description": "A guide to the special blessings recited upon experiencing natural wonders, including the rare Shehecheyanu.",
+    "description": {
+      "en": "A guide to the special blessings recited upon experiencing natural wonders, including the rare Shehecheyanu.",
+      "zh": "体验自然奇观时所诵特别祝福的指南，包括罕见的Shehecheyanu祝福。",
+      "he": "מדריך לברכות המיוחדות הנאמרות בעת חוויית פלאי הטבע, כולל ברכת שהחיינו."
+    },
     "tags": [
       "Blessings",
       "Nature",
