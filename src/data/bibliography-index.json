@@ -13055,5 +13055,582 @@
     "chinese_dynasty_references": [],
     "status": "complete",
     "filePath": "jewish-calendar/158-hebrew-birthday-conversion/metadata.json"
+  },
+  {
+    "id": 179,
+    "title": {
+      "en": "If I Am Not for Myself, Who Will Be for Me? — Hillel's Three Questions",
+      "zh": "若我不为自己,谁将为我?——希勒尔的三个问题",
+      "he": "אם אין אני לי, מי לי? — שלוש השאלות של הלל"
+    },
+    "section": "pirkei-avot",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "PirkeiAvot",
+      "Not",
+      "Myself",
+      "Who",
+      "Will",
+      "Hillel's",
+      "Three",
+      "Questions"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Confucian self-cultivation (修身)",
+      "Doctrine of the Mean (中庸)",
+      "Mencius on innate goodness",
+      "Mozi's universal love (兼爱)",
+      "I Ching on timing (时)",
+      "Chan/Zen present-moment awareness"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "pirkei-avot/179-hillel-three-questions/metadata.json"
+  },
+  {
+    "id": 180,
+    "title": {
+      "en": "Make for Yourself a Teacher, Acquire for Yourself a Friend — The Power of Learning Relationships",
+      "zh": "为自己寻找老师,为自己结交学友——学习关系的力量",
+      "he": "עֲשֵׂה לְךָ רַב וּקְנֵה לְךָ חָבֵר — כוחם של יחסי למידה"
+    },
+    "section": "pirkei-avot",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "PirkeiAvot",
+      "Pirkei Avot 1:6",
+      "Ta'anit 7a",
+      "Make",
+      "Yourself",
+      "Teacher",
+      "Acquire",
+      "Friend",
+      "Power",
+      "Learning",
+      "Relationships"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "xuéyǒu (學友) - Chinese study companions",
+      "Confucian learning relationships",
+      "shi (師) - teacher-student bonds",
+      "imperial examination study groups"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "completed",
+    "filePath": "pirkei-avot/180-teacher-friend-relationships/metadata.json"
+  },
+  {
+    "id": 181,
+    "title": {
+      "en": "It Is Not Your Duty to Complete the Work, But Neither Are You Free to Desist From It",
+      "zh": "完成工作不是你的责任,但你也无权放弃它",
+      "he": "לא עליך המלאכה לגמור, ולא אתה בן חורין לבטל ממנה"
+    },
+    "section": "pirkei-avot",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "PirkeiAvot",
+      "You don't have to finish the work",
+      "You can't quit the work",
+      "The day is short, the work is abundant",
+      "Small contributions matter",
+      "Incremental progress",
+      "Rejecting perfectionism",
+      "Trust in the process",
+      "Part of a chain of tradition",
+      "Not",
+      "Duty",
+      "Complete",
+      "Work",
+      "But",
+      "Neither",
+      "Are"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "pirkei-avot/181-duty-to-work-tarfon/metadata.json"
+  },
+  {
+    "id": 182,
+    "title": {
+      "en": "Who is Strong? One Who Conquers Their Inclination",
+      "zh": "谁是强者?克服自己欲望的人",
+      "he": "איזהו גיבור? הכובש את יצרו"
+    },
+    "section": "pirkei-avot",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "PirkeiAvot",
+      "yetzer-hatov",
+      "yetzer-hara",
+      "self-mastery",
+      "internal-strength",
+      "character-traits",
+      "daily-spiritual-practice",
+      "Who",
+      "Strong",
+      "One",
+      "Conquers",
+      "Their",
+      "Inclination"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "pirkei-avot/182-ben-zoma-strength/metadata.json"
+  },
+  {
+    "id": 183,
+    "title": {
+      "en": "The World Stands on Three Things: Torah, Worship, and Deeds of Kindness",
+      "zh": "世界建立在三件事上:妥拉、敬拜与善行",
+      "he": "העולם עומד על שלושה דברים: על התורה, על העבודה ועל גמילות חסדים"
+    },
+    "section": "pirkei-avot",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "PirkeiAvot",
+      "World",
+      "Stands",
+      "Three",
+      "Things",
+      "Torah",
+      "Worship",
+      "Deeds",
+      "Kindness"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "pirkei-avot/183-three-pillars-shimon/metadata.json"
+  },
+  {
+    "id": 184,
+    "title": {
+      "en": "Do Not Judge Your Fellow Until You Have Reached Their Place",
+      "zh": "不要论断他人,直到你到达他的处境",
+      "he": "אל תדין את חברך עד שתגיע למקומו"
+    },
+    "section": "pirkei-avot",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "PirkeiAvot",
+      "Not",
+      "Judge",
+      "Fellow",
+      "Until",
+      "Have",
+      "Reached",
+      "Their",
+      "Place"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "completed",
+    "filePath": "pirkei-avot/184-hillel-empathy-judgment/metadata.json"
+  },
+  {
+    "id": 185,
+    "title": {
+      "en": "In a Place Where There Are No Leaders, Strive to Be a Leader",
+      "zh": "在没有领袖的地方,努力成为领袖",
+      "he": "במקום שאין אנשים, השתדל להיות איש"
+    },
+    "section": "pirkei-avot",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "PirkeiAvot",
+      "Place",
+      "Where",
+      "There",
+      "Are",
+      "Leaders",
+      "Strive",
+      "Leader"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "completed",
+    "filePath": "pirkei-avot/185-hillel-leadership/metadata.json"
+  },
+  {
+    "id": 186,
+    "title": {
+      "en": "Ten Teachings from Pirkei Avot That Will Change Your Daily Life",
+      "zh": "《先贤之章》中改变日常生活的十条教诲",
+      "he": "עשר הוראות מפרקי אבות שישנו את חיי היומיום שלך"
+    },
+    "section": "pirkei-avot",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "PirkeiAvot",
+      "Learning from everyone",
+      "Actions over words",
+      "Incremental progress",
+      "Judging favorably",
+      "Teacher-student relationships",
+      "Self-mastery",
+      "Balance of self and others",
+      "Moral courage",
+      "Time management",
+      "Three pillars of life",
+      "Ten",
+      "Teachings",
+      "Pirkei",
+      "Avot",
+      "That"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "pirkei-avot/186-ten-practical-teachings/metadata.json"
+  },
+  {
+    "id": 371,
+    "title": {
+      "en": "The Chafetz Chaim: The Man Who Changed How Jews Speak",
+      "zh": "查夫茨·哈伊姆：改变犹太人说话方式的人",
+      "he": "החפץ חיים: האיש ששינה את האופן שבו יהודים מדברים"
+    },
+    "section": "jewish-stories-and-inspiration",
+    "description": {
+      "en": "The life story of Rabbi Yisrael Meir Kagan, who wrote the definitive work on the laws of speech and revolutionized Jewish ethics.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "ChafetzChaim",
+      "LashonHara",
+      "SpeechEthics",
+      "JewishStories",
+      "Inspiration",
+      "Mussar",
+      "RabbiYisraelMeirKagan",
+      "ProperSpeech",
+      "Gossip",
+      "清朝",
+      "言语",
+      "道德",
+      "智慧",
+      "儒家",
+      "正语",
+      "חפץחיים",
+      "לשוןהרע",
+      "אתיקתדיבור"
+    ],
+    "sources": [
+      "Chofetz Chaim Heritage Foundation",
+      "Aish.com",
+      "Chabad.org",
+      "Sefaria.org",
+      "Orthodox Union"
+    ],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "jewish-stories-and-inspiration/371-chafetz-chaim-speech-ethics/metadata.json"
+  },
+  {
+    "id": 372,
+    "title": {
+      "en": "Rabbi Akiva: From Illiterate Shepherd to Judaism's Greatest Sage",
+      "zh": "阿基瓦拉比：从文盲牧羊人到犹太教最伟大的贤者",
+      "he": "רבי עקיבא: מהרועה האומלל לגדול חכמי ישראל"
+    },
+    "section": "jewish-stories-and-inspiration",
+    "description": {
+      "en": "How a 40-year-old man who couldn't read a Hebrew letter became the Talmud's most quoted rabbi — a story of late-blooming greatness.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Rabbi Akiva",
+      "Jewish Sages",
+      "Late Blooming",
+      "Torah Study",
+      "Jewish History",
+      "Bar Kokhba",
+      "Martyrdom",
+      "Transformation",
+      "Consistency",
+      "Eastern Han Dynasty",
+      "东汉",
+      "Confucian Learning",
+      "Daoist Wisdom",
+      "Water and Stone",
+      "Perseverance"
+    ],
+    "sources": [
+      "https://www.chabad.org/library/article_cdo/aid/112371/jewish/Rabbi-Akiva.htm",
+      "https://www.sefaria.org/Berakhot.61b",
+      "https://www.sefaria.org/Ketubot.62b",
+      "https://www.sefaria.org/Pirkei_Avot.3.14",
+      "https://www.sefaria.org/Leviticus.19.18"
+    ],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "jewish-stories-and-inspiration/372-rabbi-akiva-from-shepherd-to-sage/metadata.json"
+  },
+  {
+    "id": 373,
+    "title": {
+      "en": "The Four Who Entered the Pardes: A Mystical Journey Gone Wrong",
+      "zh": "进入神秘果园的四位贤者：一场灵性探索的警示",
+      "he": "ארבעה שנכנסו לפרדס: מסע מסתורי שהסתבך"
+    },
+    "section": "jewish-stories-and-inspiration",
+    "description": {
+      "en": "The Talmud's story of four rabbis who entered mystical contemplation — one died, one went mad, one became a heretic, and Rabbi Akiva emerged in peace.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Mysticism",
+      "Jewish Mysticism",
+      "Kabbalah",
+      "Talmud",
+      "Rabbi Akiva",
+      "Elisha ben Avuya",
+      "Pardes",
+      "Spiritual Danger",
+      "Mystical Experience",
+      "东汉",
+      "犹太神秘主义",
+      "果园",
+      "Ben Azzai",
+      "Ben Zoma",
+      "Four Sages",
+      "Jewish Stories and Inspiration",
+      "Mussar",
+      "Jewish Philosophy"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "completed",
+    "filePath": "jewish-stories-and-inspiration/373-four-who-entered-pardes/metadata.json"
+  },
+  {
+    "id": 374,
+    "title": {
+      "en": "Hillel the Elder: \"What is Hateful to You, Do Not Do to Others\"",
+      "zh": "",
+      "he": ""
+    },
+    "section": "jewish-stories-and-inspiration",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "JewishStoriesAndInspiration",
+      "Hillel",
+      "Elder",
+      "Hateful",
+      "Not",
+      "Others\""
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "jewish-stories-and-inspiration/374-hillel-the-elder/metadata.json"
+  },
+  {
+    "id": 375,
+    "title": {
+      "en": "The Alter Rebbe's Imprisonment and Liberation (19 Kislev)",
+      "zh": "",
+      "he": ""
+    },
+    "section": "jewish-stories-and-inspiration",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "JewishStoriesAndInspiration",
+      "Alter",
+      "Rebbe's",
+      "Imprisonment",
+      "Liberation",
+      "Kislev"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "jewish-stories-and-inspiration/375-alter-rebbe-imprisonment-liberation/metadata.json"
+  },
+  {
+    "id": 376,
+    "title": {
+      "en": "Nachshon Ben Aminadav: The Man Who Walked Into the Sea",
+      "zh": "亚米拿达的儿子拿赫雄：走进海中的那人",
+      "he": "נַחְשׁוֹן בֶּן עַמִּינָדָב: האיש שצעד לתוך הים"
+    },
+    "section": "jewish-stories-and-inspiration",
+    "description": {
+      "en": "The midrashic story of the man who stepped into the Red Sea before it split — and what it teaches about taking the first step before seeing results.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Nachshon",
+      "Faith",
+      "Emunah",
+      "Courage",
+      "Red Sea",
+      "Exodus",
+      "Leadership",
+      "Trust",
+      "Jewish Inspiration",
+      "Midrash",
+      "Biblical Heroes",
+      "Nachshon ben Aminadav",
+      "Splitting of the Sea",
+      "Faith in Action",
+      "Nachshon Principle",
+      "拿赫雄",
+      "信心",
+      "勇气",
+      "出埃及",
+      "红海",
+      "犹太故事",
+      "信仰",
+      "商朝",
+      "大禹",
+      "犹太教"
+    ],
+    "sources": [
+      "https://www.sefaria.org/Sotah.37a",
+      "https://www.sefaria.org/Exodus.14",
+      "https://www.chabad.org/library/article_cdo/aid/2935112/jewish/Nachshon.htm",
+      "https://www.aish.com/jl/l/m/48971111.html",
+      "https://www.sefaria.org/Numbers.1"
+    ],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "completed",
+    "filePath": "jewish-stories-and-inspiration/376-nachshon-ben-aminadav-the-man-who-walked-into-the-sea/metadata.json"
+  },
+  {
+    "id": 377,
+    "title": {
+      "en": "Rabbi Yochanan Ben Zakkai: The Man Who Saved Judaism After the Temple",
+      "zh": "拉比约哈南·本·扎卡伊：拯救圣殿之后犹太教的人",
+      "he": "רבן יוחנן בן זכאי: האיש שהציל את היהדות אחרי החורבן"
+    },
+    "section": "jewish-stories-and-inspiration",
+    "description": {
+      "en": "How one rabbi smuggled himself out of besieged Jerusalem in a coffin and founded the academy at Yavneh, ensuring Judaism's survival after the Temple's destruction.",
+      "zh": "一位拉比如何将自己藏在棺材里从被围困的耶路撒冷偷运出来，并在雅夫内建立了学院，确保了圣殿被毁后犹太教的存续。",
+      "he": "כיצד רב אחד הבריח את עצמו מירושלים הנצורה בארון מתים וייסד את ישיבת יבנה, מה ש הבטיח את הישרדות היהדות לאחר חורבן הבית"
+    },
+    "tags": [
+      "RabbiYochananBenZakkai",
+      "Yavneh",
+      "SecondTemple",
+      "TempleDestruction",
+      "JewishSurvival",
+      "RabbinicJudaism",
+      "Talmud",
+      "Vespasian",
+      "RomanDestruction",
+      "JewishHistory",
+      "LeadershipInCrisis",
+      "Transformation",
+      "TorahStudy",
+      "JewishDiaspora",
+      "约哈南本扎卡伊",
+      "第二圣殿",
+      "犹太历史",
+      "犹太教转型",
+      "犹太学者",
+      "YavnehAcademy",
+      "犹太学院"
+    ],
+    "sources": [
+      "https://www.sefaria.org/Gittin.56a",
+      "https://www.chabad.org/library/article_cdo/aid/112077/jewish/Rabban-Yochanan-ben-Zakkai.htm",
+      "https://www.myjewishlearning.com/article/yavneh/",
+      "https://www.jewishvirtuallibrary.org/the-destruction-of-the-second-temple",
+      "https://www.sefaria.org/Pirkei_Avot.2.8"
+    ],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "completed",
+    "filePath": "jewish-stories-and-inspiration/377-rabbi-yochanan-ben-zakkai-saved-judaism/metadata.json"
+  },
+  {
+    "id": 378,
+    "title": {
+      "en": "The Golem of Prague: Legend, Mysticism, and Meaning",
+      "zh": "",
+      "he": ""
+    },
+    "section": "jewish-stories-and-inspiration",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "JewishStoriesAndInspiration",
+      "Golem",
+      "Prague",
+      "Legend",
+      "Mysticism",
+      "Meaning"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "jewish-stories-and-inspiration/378-golem-of-prague/metadata.json"
   }
 ]
