@@ -7391,5 +7391,658 @@
     "chinese_dynasty_references": [],
     "status": "complete",
     "filePath": "prayer/320-building-daily-prayer-routine/metadata.json"
+  },
+  {
+    "id": 56,
+    "title": {
+      "en": "Thinking About Converting? What You Need to Know First",
+      "zh": "考虑皈依犹太教?首先您需要了解这些",
+      "he": "חושבים להתגייר? מה שצריך לדעת תחילה"
+    },
+    "section": "conversion",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Conversion",
+      "Judaism",
+      "Orthodox",
+      "BecomingJewish",
+      "Ruth",
+      "BeithDin",
+      "Mikvah",
+      "Gerim",
+      "KabbalatMitzvot",
+      "Shabbat",
+      "Kashrut",
+      "JewishIdentity",
+      "ConversionProcess",
+      "路得",
+      "皈依",
+      "犹太教",
+      "正统派",
+      "גיור",
+      "יהדות",
+      "אורתודוקסיה"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "ready_for_qa",
+    "filePath": "conversion/056-thinking-about-converting/metadata.json"
+  },
+  {
+    "id": 57,
+    "title": {
+      "en": "The Story of Ruth: The Most Famous Convert in Jewish History",
+      "zh": "路得的故事:犹太历史上最著名的皈依者",
+      "he": "סיפור רות: הגיורת המפורסמת ביותר בהיסטוריה היהודית"
+    },
+    "section": "conversion",
+    "description": {
+      "en": "The biblical story of Ruth the Moabite, whose words 'Your people will be my people, and your God my God' became the eternal declaration of conversion to Judaism.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Ruth",
+      "Conversion",
+      "Ger",
+      "RuthTheMoabite",
+      "Naomi",
+      "Boaz",
+      "BookOfRuth",
+      "MegillatRuth",
+      "Shavuot",
+      "Chesed",
+      "Kindness",
+      "Loyalty",
+      "FilialPiety",
+      "孝",
+      "Redemption",
+      "KingDavid",
+      "Messiah",
+      "Moab",
+      "Bethlehem",
+      "WesternZhouDynasty",
+      "西周",
+      "Gleaning",
+      "Mitzvah",
+      "UnderTheWingsOfTheShechinah",
+      "Convert",
+      "ConversionJourney",
+      "JewishIdentity",
+      "ChosenPeople",
+      "DivineProvidence",
+      "Hashgacha",
+      "Torah",
+      "JewishHistory",
+      "BiblicalWomen"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [
+      {
+        "dynasty": "Western Zhou Dynasty",
+        "chinese": "西周",
+        "years": "~1046-771 BCE",
+        "context": "Period when Ruth's story took place and when the Book of Songs was being compiled"
+      }
+    ],
+    "status": "published",
+    "filePath": "conversion/057-story-of-ruth/metadata.json"
+  },
+  {
+    "id": 58,
+    "title": {
+      "en": "What to Expect at a Beit Din (Rabbinical Court)",
+      "zh": "犹太教法庭（拉比法院）会发生什么",
+      "he": "מה לצפות בבית דין"
+    },
+    "section": "conversion",
+    "description": {
+      "en": "A comprehensive guide to the beit din process for conversion to Judaism, covering what to expect, how to prepare, and what happens during and after the rabbinical court interview.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Conversion",
+      "BeitDin",
+      "Geirut",
+      "Mikvah",
+      "RuthTheConvert",
+      "JewishLaw",
+      "Halacha",
+      "BecomingJewish",
+      "JewsInAsia",
+      "ConversionJourney",
+      "RabbinicalCourt",
+      "OrthodoxConversion",
+      "转教",
+      "犹太教法庭",
+      "皈依犹太教",
+      "Torah",
+      "Mitzvot",
+      "Shabbat",
+      "Kashrut",
+      "Prayer",
+      "JewishCalendar",
+      "HebrewName"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [
+      {
+        "dynasty": "Western Zhou Dynasty",
+        "chinese": "西周",
+        "years": "~1046-771 BCE",
+        "context": "When the Kingdom of Israel maintained courts of law based on Torah principles"
+      },
+      {
+        "dynasty": "Eastern Han Dynasty",
+        "chinese": "东汉",
+        "years": "25-220 CE",
+        "context": "Period when the Second Temple was destroyed and the Sanhedrin functioned"
+      },
+      {
+        "dynasty": "Song Dynasty",
+        "chinese": "宋朝",
+        "years": "960-1279 CE",
+        "context": "Contemporary with medieval Spain when Jewish communities maintained their own courts"
+      },
+      {
+        "dynasty": "Ming Dynasty",
+        "chinese": "明朝",
+        "years": "1368-1644 CE",
+        "context": "Contemporary with Eastern European Renaissance when rabbinical courts handled community affairs"
+      }
+    ],
+    "status": "published",
+    "filePath": "conversion/058-beit-din/metadata.json"
+  },
+  {
+    "id": 59,
+    "title": {
+      "en": "Life as a Ger: Stories from Jewish Converts Around the World",
+      "zh": "作为皈依者的生活:来自世界各地犹太皈依者的故事",
+      "he": "החיים כגר: סיפורים של גרים מרחבי העולם"
+    },
+    "section": "conversion",
+    "description": {
+      "en": "Real stories from Jewish converts around the world, including Asia, sharing their journeys, challenges, and the transformative experience of choosing to become Jewish.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Conversion",
+      "Ger",
+      "Gerim",
+      "RuthTheConvert",
+      "JewishIdentity",
+      "BecomingJewish",
+      "ConversionStories",
+      "ChineseLearners",
+      "AsianJews",
+      "MikvahImmersion",
+      "BeitDin",
+      "ChosenPeople",
+      "ConvertLife",
+      "ShanghaiJews",
+      "KoreanJews",
+      "BrazilianJews",
+      "InterculturalJudaism",
+      "JewishCommunity",
+      "NewJew",
+      "ConversionJourney",
+      "犹太皈依",
+      "改宗",
+      "选择犹太教",
+      "Ruth",
+      "Onkelos",
+      "RabbiAkiva",
+      "Chabad",
+      "Mitzvot",
+      "Circumcision",
+      "Mikvah"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [
+      {
+        "dynasty": "Western Zhou Dynasty",
+        "chinese": "西周",
+        "years": "~1046-771 BCE",
+        "context": "Period when Ruth spoke her famous words of conversion"
+      }
+    ],
+    "status": "published",
+    "filePath": "conversion/059-life-as-ger/metadata.json"
+  },
+  {
+    "id": 60,
+    "title": {
+      "en": "Finding a Rabbi and Community When You Live in Asia",
+      "zh": "在亚洲寻找拉比和犹太社区",
+      "he": "מציאת רב וקהילה בעת שגרים באסיה"
+    },
+    "section": "conversion",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Conversion",
+      "Community",
+      "Rabbis",
+      "Asia",
+      "Chabad",
+      "OnlineLearning"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "conversion/060-finding-rabbi-community-asia/metadata.json"
+  },
+  {
+    "id": 64,
+    "title": {
+      "en": "Navigating Family Relationships When You Become Jewish",
+      "zh": "皈依犹太教后如何处理家庭关系",
+      "he": "ניווט יחסי משפחה כאשר אתה נעשה יהודי"
+    },
+    "section": "conversion",
+    "description": {
+      "en": "Sensitive guidance for maintaining loving relationships with non-Jewish family members during and after conversion.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "#Conversion",
+      "#FamilyRelationships",
+      "#HonoringParents",
+      "#Ruth",
+      "#Ger",
+      "#ConvertToJudaism",
+      "#孝",
+      "#FilialPiety",
+      "#ShulchanAruch",
+      "#Talmud",
+      "#NonJewishFamily",
+      "#ChineseJews",
+      "#Naomi",
+      "#BookOfRuth",
+      "#RabbiJosephCaro",
+      "#明朝",
+      "#西周",
+      "#汉朝",
+      "#Xiào",
+      "#ConfucianValues",
+      "#NewbornChild",
+      "#SpiritualRebirth",
+      "#JewishIdentity"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "conversion/064-navigating-family-relationships/metadata.json"
+  },
+  {
+    "id": 159,
+    "title": {
+      "en": "The Mikvah Experience: What Actually Happens When You Convert",
+      "zh": "浸礼池体验:皈依时究竟会发生什么",
+      "he": "חוויית המקוה: מה באמת קורה כשמתגיירים"
+    },
+    "section": "conversion",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Conversion",
+      "Mikvah",
+      "Experience",
+      "Actually",
+      "Happens",
+      "Convert"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Daoist water symbolism",
+      "Chinese purification rituals",
+      "Water as threshold in Chinese folklore",
+      "Dragon Boat Festival herbal baths",
+      "Crossing rivers as spiritual boundaries",
+      "Traditional Chinese ceremonial precision"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "draft",
+    "filePath": "conversion/159-mikvah-conversion-experience/metadata.json"
+  },
+  {
+    "id": 160,
+    "title": {
+      "en": "Choosing a Hebrew Name: A Guide for Converts",
+      "zh": "",
+      "he": ""
+    },
+    "section": "conversion",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Conversion",
+      "Choosing",
+      "Hebrew",
+      "Name",
+      "Guide",
+      "Converts"
+    ],
+    "sources": [
+      "Talmud Bavli, Yevamot 22a",
+      "Rambam (Maimonides), Responsa to Ovadiah the Convert",
+      "Rabbi Joseph Telushkin, Jewish Literacy",
+      "Chabad.org resources on Jewish names"
+    ],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "conversion/160-hebrew-name-converts/metadata.json"
+  },
+  {
+    "id": 161,
+    "title": {
+      "en": "Onkelos, Aquila, and Other Famous Converts Who Shaped Judaism",
+      "zh": "昂克罗斯、阿奎拉和其他塑造犹太教的著名皈依者",
+      "he": "אונקלוס, אקילס וגרים מפורסמים אחרים שעיצבו את היהדות"
+    },
+    "section": "conversion",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Conversion",
+      "Onkelos",
+      "Aquila",
+      "Other",
+      "Famous",
+      "Converts",
+      "Who",
+      "Shaped",
+      "Judaism"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "入乡随俗 (ru xiang sui su)",
+      "Kaifeng Jews",
+      "Chinese cultural integration",
+      "礼贤下士 (recognizing talent regardless of origin)",
+      "汉化 (sinicization) vs. Judaization"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "completed",
+    "filePath": "conversion/161-famous-converts-history/metadata.json"
+  },
+  {
+    "id": 162,
+    "title": {
+      "en": "What to Learn Before Your Beit Din: A Study Checklist",
+      "zh": "在拉比法庭面试前应学习什么:学习清单",
+      "he": "מה ללמוד לפני בית הדין: רשימת לימוד"
+    },
+    "section": "conversion",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Conversion",
+      "beit din preparation",
+      "essential Jewish knowledge",
+      "Shabbat observance",
+      "kashrut basics",
+      "prayer structure",
+      "Jewish holidays",
+      "family purity",
+      "lifecycle events",
+      "Torah and texts",
+      "Jewish history",
+      "Learn",
+      "Before",
+      "Beit",
+      "Din",
+      "Study"
+    ],
+    "sources": [
+      "Talmud, Shabbat 31a",
+      "Maimonides, Mishneh Torah, Hilchot Issurei Biah, Chapter 14",
+      "Shulchan Aruch, Yoreh Deah 268",
+      "Rabbi Maurice Lamm, Becoming a Jew",
+      "Rabbi Celso Cukierkorn and Rabbi Steven Carr Reuben, The Everything Jewish History and Heritage Book"
+    ],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "conversion/162-beit-din-study-checklist/metadata.json"
+  },
+  {
+    "id": 163,
+    "title": {
+      "en": "Converting as a Couple: When Both Partners Begin the Journey Together",
+      "zh": "伴侣共同皈依:当双方一起踏上犹太教之旅",
+      "he": "התגיירות כזוג: כאשר שני הבני-זוג מתחילים את המסע יחד"
+    },
+    "section": "conversion",
+    "description": {
+      "en": "A comprehensive guide for couples converting to Judaism together, exploring the unique opportunities and challenges of shared spiritual journey while maintaining individual growth.",
+      "zh": "为共同皈依犹太教的伴侣提供的全面指南,探讨共同精神旅程的独特机遇和挑战,同时保持个人成长。",
+      "he": "מדריך מקיף לזוגות שמתגיירים ליהדות יחד, חוקר את ההזדמנויות והאתגרים הייחודיים של מסע רוחני משותף תוך שמירה על צמיחה אישית."
+    },
+    "tags": [
+      "Conversion",
+      "Converting",
+      "Couple",
+      "Both",
+      "Partners",
+      "Begin",
+      "Journey",
+      "Together"
+    ],
+    "sources": [
+      "Talmud Bavli, Yevamot 47a-b",
+      "Becoming a Jew by Rabbi Maurice Lamm",
+      "Choosing a Jewish Life by Anita Diamant",
+      "Contemporary Conversion articles by Rabbi Dov Linzer",
+      "Ruth: A Modern Commentary by Rabbi Ellen Frankel"
+    ],
+    "cultural_parallels": [
+      "Chinese idiom 比翼双飞 (flying wing to wing)",
+      "Confucian concept of 修身 (self-cultivation)",
+      "Chinese marriage philosophy balancing unity and individuality",
+      "礼记 on personal cultivation as foundation"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "conversion/163-converting-as-couple/metadata.json"
+  },
+  {
+    "id": 164,
+    "title": {
+      "en": "Your First High Holidays as a Jew: What to Expect",
+      "zh": "作为犹太人的第一个赎罪日:期待什么",
+      "he": "ימי הנוראים הראשונים שלך כיהודי: מה לצפות"
+    },
+    "section": "conversion",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Conversion",
+      "Yamim Noraim (Days of Awe)",
+      "Shofar (ram's horn)",
+      "Tashlich (casting away sins)",
+      "Kol Nidrei",
+      "Five prohibitions of Yom Kippur",
+      "Neilah (closing prayer)",
+      "Teshuvah, Tefillah, Tzedakah",
+      "First",
+      "High",
+      "Holidays",
+      "Jew",
+      "Expect"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Lunar New Year vs Rosh Hashanah fresh beginnings",
+      "Confucian self-cultivation vs Jewish cheshbon hanefesh",
+      "Chinese ancestor veneration vs Yizkor memorial prayers",
+      "Maintaining harmony (和) vs seeking forgiveness before Yom Kippur"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "published",
+    "filePath": "conversion/164-first-high-holidays/metadata.json"
+  },
+  {
+    "id": 165,
+    "title": {
+      "en": "Dealing with Doubt: Is Questioning Normal During Conversion?",
+      "zh": "面对疑虑:皈依过程中的质疑正常吗?",
+      "he": "התמודדות עם ספק: האם לשאול שאלות זה נורמלי במהלך הגיור?"
+    },
+    "section": "conversion",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Conversion",
+      "Dealing",
+      "Doubt",
+      "Questioning",
+      "Normal",
+      "During"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "conversion/165-conversion-doubt-questioning/metadata.json"
+  },
+  {
+    "id": 166,
+    "title": {
+      "en": "After Conversion: Building Jewish Habits That Stick",
+      "zh": "皈依之后:建立持久的犹太习惯",
+      "he": "אחרי הגיור: בניית הרגלים יהודיים שמחזיקים מעמד"
+    },
+    "section": "conversion",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Conversion",
+      "Modeh Ani",
+      "Netilat Yadayim",
+      "Shema",
+      "Shabbat rhythm",
+      "Chavruta learning",
+      "Minyan",
+      "Brachot",
+      "Habit formation",
+      "Environmental design",
+      "Social accountability",
+      "After",
+      "Building",
+      "Jewish",
+      "Habits",
+      "That"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "千里之行,始于足下 (A journey of a thousand li begins with a single step)",
+      "十年磨一剑 (Ten years to sharpen one sword)",
+      "风水 (Feng shui - environmental design)",
+      "家庭、师长、社会 (Family, teacher, community relationships)"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "conversion/166-post-conversion-habits/metadata.json"
+  },
+  {
+    "id": 167,
+    "title": {
+      "en": "Raising Jewish Children When You're a Convert",
+      "zh": "皈依者如何养育犹太孩子",
+      "he": "גידול ילדים יהודיים כשאת/ה גר/ת"
+    },
+    "section": "conversion",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Conversion",
+      "Raising",
+      "Jewish",
+      "Children",
+      "You're",
+      "Convert"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Chinese concept of 言传身教 (teaching through words and actions)",
+      "Confucian educational ideal: 学而时习之,不亦说乎",
+      "Chinese appreciation for 传承 (passing down traditions)",
+      "先天 vs 后天 (innate vs acquired nature)"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "conversion/167-raising-children-converts/metadata.json"
+  },
+  {
+    "id": 168,
+    "title": {
+      "en": "A Chinese Convert's Story: From Beijing to the Beit Din",
+      "zh": "一个中国人的皈依故事:从北京到宗教法庭",
+      "he": "סיפור גיור סיני: מבייג'ינג לבית הדין"
+    },
+    "section": "conversion",
+    "description": {
+      "en": "The inspiring journey of Li Wei/Devorah Leah, a Chinese engineer who converted to Orthodox Judaism. Her story explores the cultural parallels between Chinese and Jewish traditions, the challenges of converting from a non-Western background, and the spiritual transformation from Beijing to the beit din.",
+      "zh": "李薇/德沃拉·莉娅的鼓舞人心的旅程,一位皈依正统犹太教的中国工程师。她的故事探讨了中国和犹太传统之间的文化相似性,从非西方背景皈依的挑战,以及从北京到宗教法庭的精神转变。",
+      "he": "המסע המעורר השראה של לי ווי/דבורה לאה, מהנדסת סינית שהתגיירה ליהדות אורתודוכסית. סיפורה חוקר את הדמיון התרבותי בין מסורות סיניות ויהודיות, את האתגרים של גיור מרקע לא-מערבי, ואת השינוי הרוחני מבייג'ינג לבית הדין."
+    },
+    "tags": [
+      "Conversion",
+      "Chinese",
+      "Convert's",
+      "Story",
+      "From",
+      "Beijing",
+      "Beit",
+      "Din"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "conversion/168-chinese-convert-story/metadata.json"
   }
 ]
