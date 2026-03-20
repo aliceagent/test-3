@@ -86,18 +86,6 @@ export default function Navigation() {
         </Link>
 
         <div className="flex items-center gap-4">
-          <Link
-            href="/bibliography"
-            className="hidden lg:inline-block text-sm text-white/80 hover:text-white transition-colors"
-          >
-            {t("bibliography")}
-          </Link>
-          <Link
-            href="/about"
-            className="hidden lg:inline-block text-sm text-white/80 hover:text-white transition-colors"
-          >
-            {t("about")}
-          </Link>
           <LanguageSwitcher />
           <button
             onClick={() => setMobileOpen(!mobileOpen)}
@@ -155,6 +143,24 @@ export default function Navigation() {
               </div>
             </div>
           ))}
+          <div className="ml-auto flex gap-1">
+            <Link
+              href="/bibliography"
+              className={`px-3 py-3 text-sm font-medium hover:bg-[var(--color-primary-light)] rounded-t transition-colors ${
+                pathname === "/bibliography" ? "text-[var(--color-gold)]" : ""
+              }`}
+            >
+              {t("bibliography")}
+            </Link>
+            <Link
+              href="/about"
+              className={`px-3 py-3 text-sm font-medium hover:bg-[var(--color-primary-light)] rounded-t transition-colors ${
+                pathname === "/about" ? "text-[var(--color-gold)]" : ""
+              }`}
+            >
+              {t("about")}
+            </Link>
+          </div>
         </div>
       </nav>
 
