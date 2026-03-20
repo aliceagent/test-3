@@ -1,0 +1,30 @@
+{
+  "article_id": 369,
+  "slug": "tzaar-baalei-chaim-animal-welfare",
+  "category": "practical-halacha-for-daily-life",
+  "title_en": "Tzaar Baalei Chaim: The Torah's Animal Welfare Laws",
+  "title_he": "צער בעלי חיים: דיני התורה לרווחת בעלי חיים",
+  "title_zh": "动物福利：犹太教的动物待遇法律",
+  "tags": [
+    "TzaarBaaleiChaim", "AnimalWelfare", "JewishLaw", "Compassion", "Halacha", "PracticalHalacha", "JewishEthics", "Shechita", "KosherSlaughter", "PetOwnership", "FactoryFarming", "MoralRefinement", "Stewardship", "动物福利", "仁", "DailyPractice", "BiblicalLaw", "TalmudWisdom", "ContemporaryJudaism", "LivingJewishly"
+  ],
+  "cover_image_description": "A serene Chinese brushstroke landscape in shan shui style showing a shepherd gently tending to animals in a peaceful valley. In the foreground, a man helps an overburdened donkey while nearby sheep graze. Rolling hills, sparse pine trees, traditional ink wash technique in muted earth tones. Mood: contemplative, peaceful, emphasizing kindness to creatures.",
+  "language_versions": ["en", "he", "zh"],
+  "bibliography": [
+    {"title": "Exodus 23:5 - Hebrew Bible with Commentary", "url": "https://www.sefaria.org/Exodus.23.5"},
+    {"title": "Deuteronomy 22:6-7 - The Law of Sending Away the Mother Bird", "url": "https://www.sefaria.org/Deuteronomy.22.6-7"},
+    {"title": "Deuteronomy 25:4 - Not Muzzling an Ox", "url": "https://www.sefaria.org/Deuteronomy.25.4"},
+    {"title": "Shabbat 128b - Talmudic Discussion on Animal Suffering", "url": "https://www.sefaria.org/Shabbat.128b"},
+    {"title": "Berachot 40a - Feeding Animals Before Oneself", "url": "https://www.sefaria.org/Berachot.40a"},
+    {"title": "Guide for the Perplexed, Part 3, Chapter 48", "url": "https://www.sefaria.org/Guide_for_the_Perplexed,_Part_3.48"},
+    {"title": "Noda BiYehuda, Yoreh Deah 10", "url": "https://www.sefaria.org/Noda_BiYehuda,_Yoreh_De'ah,_10"},
+    {"title": "The Animal in Jewish Thought", "url": "https://www.chabad.org/library/article_cdo/aid/1146289/jewish/The-Animal-in-Jewish-Thought.htm"},
+    {"title": "Kosher Slaughter: An Introduction to Shechita", "url": "https://www.chabad.org/library/article_cdo/aid/222241/jewish/Kosher-Slaughter.htm"},
+    {"title": "Kindness to Animals: Tzaar Baalei Chaim", "url": "https://aish.com/kindness-to-animals/"},
+    {"title": "Rabbi Samson Raphael Hirsch on Animals", "url": "https://www.sefaria.org/Hirsch_on_Exodus"},
+    {"title": "Pet Ownership in Jewish Law", "url": "https://torah.org/learning/halh-5768-kedoshim/"}
+  ],
+  "summary_en": "Explores the Torah's approach to animal welfare (*tzaar baalei chaim*): biblical roots, Talmudic development, halachic applications (from pet ownership to factory farming), and its impact on character, with practical guidelines.",
+  "summary_he": "סקירה על יחס התורה לבעלי חיים — שורשים בתורה, עיצוב הדינים בתלמוד, דוגמאות ויישומים מעשיים וחינוך לחמלה, כולל הנחיות מעשיות.",
+  "summary_zh": "探讨犹太教动物福利律法的来源、发展及其对现代生活的指导意义，包括实际守则。"
+}
