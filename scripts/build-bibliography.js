@@ -72,10 +72,17 @@ for (const filePath of files) {
   }
 
   const id = data.id;
-  // description can be a string or a {en,zh,he} object
-  let description = data.description || "";
-  if (typeof description === "object") {
-    description = description.en || description.zh || description.he || "";
+  // description can be a string or a {en,zh,he} object — preserve multilingual format
+  let description;
+  const rawDesc = data.description || "";
+  if (typeof rawDesc === "object") {
+    description = {
+      en: rawDesc.en || "",
+      zh: rawDesc.zh || "",
+      he: rawDesc.he || "",
+    };
+  } else {
+    description = { en: rawDesc, zh: "", he: "" };
   }
 
   const entry = {
