@@ -1,0 +1,65 @@
+{
+  "article_id": 43,
+  "title": "Building a Sukkah: A Practical Guide",
+  "section": "Holidays",
+  "sources": [
+    {
+      "type": "primary",
+      "title": "How to Build a Sukkah - The basics of building a sukkah and living inside it",
+      "author": "Chabad.org Staff",
+      "url": "https://www.chabad.org/library/article_cdo/aid/420823/jewish/How-to-Build-a-Sukkah.htm",
+      "accessed": "2026-03-17",
+      "status": "verified",
+      "description": "Comprehensive practical guide covering sukkah construction, materials, dimensions, and requirements"
+    },
+    {
+      "type": "primary", 
+      "title": "Building a Sukkah",
+      "author": "Rabbi Shraga Simmons",
+      "url": "https://aish.com/48960921/",
+      "accessed": "2026-03-17", 
+      "status": "verified",
+      "description": "Basic guide to sukkah construction with practical tips for beginners"
+    },
+    {
+      "type": "primary",
+      "title": "How to Make a Sukkah (Rules & Requirements)",
+      "author": "Rabbi Elozor Barclay and Rabbi Yitzchok Jaeger", 
+      "url": "https://aish.com/48969031/",
+      "accessed": "2026-03-17",
+      "status": "verified", 
+      "description": "Detailed halachic guidelines for ensuring sukkah is kosher, 31 commonly asked questions"
+    },
+    {
+      "type": "biblical",
+      "title": "Leviticus 23:42-43",
+      "source": "Sefaria",
+      "url": "https://www.sefaria.org/api/texts/Leviticus%2023%3A42-43",
+      "accessed": "2026-03-17", 
+      "status": "verified",
+      "description": "Primary Torah commandment to dwell in booths, with historical context"
+    }
+  ],
+  "research_notes": {
+    "key_themes": [
+      "Practical construction steps",
+      "Halachic requirements and dimensions", 
+      "Materials and their kosher status",
+      "Historical and spiritual significance",
+      "Connection to Exodus experience"
+    ],
+    "chinese_parallels": [
+      "Garden pavilion construction traditions",
+      "Festival temporary structures",
+      "Use of natural materials",
+      "Feng shui principles",
+      "Family involvement in building"
+    ],
+    "target_audience_considerations": [
+      "First-time builders need step-by-step guidance",
+      "Urban dwellers (apartments/balconies) need specific advice", 
+      "Material availability in China/Asia",
+      "Climate considerations for outdoor structures"
+    ]
+  }
+}

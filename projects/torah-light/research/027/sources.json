@@ -1,0 +1,98 @@
+{
+  "article_id": "027",
+  "title": "The Spiritual Meaning Behind Keeping Kosher",
+  "section": "Kosher Food",
+  "research_date": "2026-03-17T06:15:00Z",
+  "sources": [
+    {
+      "title": "The Purpose of Kashrut",
+      "source": "My Jewish Learning",
+      "url": "https://www.myjewishlearning.com/article/the-purpose-of-kashrut/",
+      "type": "web_fetch",
+      "status": "accessible",
+      "key_points": [
+        "Kashrut is a spiritual discipline rooted in daily life choices",
+        "Laws offer transformation of ordinary experiences into meaningful moments",
+        "Not about health but about spiritual purification and connection to God",
+        "Daily practice that extends spirituality beyond synagogue into every area of life"
+      ]
+    },
+    {
+      "title": "Kashrut",
+      "source": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kashrut",
+      "type": "web_fetch", 
+      "status": "accessible",
+      "key_points": [
+        "Hasidic view: food laws relate to 'sparks of holiness' that interact with various animals",
+        "Three categories of mitzvot: mishpatim (rational), eidot (understood after explanation), chukim (no rational explanation)",
+        "Some view kashrut as symbolic: kosher animals represent virtues, non-kosher represent vices",
+        "Demonstrates God's authority and human obedience without necessarily understanding why"
+      ]
+    },
+    {
+      "title": "The Purpose of Kashrut",
+      "source": "Reform Judaism",
+      "url": "https://reformjudaism.org/beliefs-practices/purpose-kashrut",
+      "type": "web_fetch",
+      "status": "accessible", 
+      "key_points": [
+        "Kashrut transforms ordinary experiences into moments of meaning and connection",
+        "Spiritual discipline that reminds us spirituality is inseparable from physical",
+        "Expression of devotion to God rather than health concerns",
+        "Creates daily reminders to turn ordinary moments into deeper connection and intentionality"
+      ]
+    },
+    {
+      "title": "A Question of Meaning, A Meditation on Kashrut",
+      "source": "OU Kosher",
+      "url": "https://oukosher.org/blog/articles/in-times-of-difficulty-a-question-of-meaning-a-meditation-on-kashrut/",
+      "type": "web_fetch",
+      "status": "accessible",
+      "key_points": [
+        "Kashrut affirms the connection (kesher) between physical and spiritual",
+        "Judaism embraces both physical and spiritual, not either/or",
+        "Eating becomes holy through blessings and conscious recognition of God",
+        "Material experiences elevated to spiritual heights through proper engagement"
+      ]
+    },
+    {
+      "title": "What Is Kosher? - Chabad.org",
+      "source": "Chabad.org",
+      "url": "https://www.chabad.org/library/article_cdo/aid/113425/jewish/What-Is-Kosher.htm",
+      "type": "web_search",
+      "status": "cloudflare_protected",
+      "key_points": [
+        "Kashrut as 'spiritual nutrition'",
+        "Life in its totality is a sacred endeavor",
+        "Nachmanides view on qualities being absorbed into ourselves"
+      ]
+    }
+  ],
+  "torah_sources": [
+    {
+      "reference": "Leviticus 11",
+      "description": "Primary biblical source for kosher animals",
+      "relevance": "Foundation of kashrut laws"
+    },
+    {
+      "reference": "Deuteronomy 14",
+      "description": "Repetition and expansion of dietary laws",
+      "relevance": "Connects kashrut to holiness: 'for you are a people consecrated to your God'"
+    },
+    {
+      "reference": "Deuteronomy 14:21",
+      "description": "Not boiling kid in mother's milk",
+      "relevance": "Basis for meat/dairy separation"
+    }
+  ],
+  "key_themes": [
+    "Spiritual elevation through physical acts",
+    "Connection between body and soul",
+    "Daily spiritual discipline",
+    "Transformation of mundane into sacred",
+    "Expression of devotion to God",
+    "Holiness through conscious choice",
+    "Unity of physical and spiritual realms"
+  ]
+}

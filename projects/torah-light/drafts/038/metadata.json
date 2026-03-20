@@ -1,0 +1,86 @@
+{
+  "article": {
+    "id": 38,
+    "title": "Blessings on Nature: What to Say When You See Lightning, a Rainbow, or the Ocean",
+    "title_chinese": "自然奇观祝词：见到闪电、彩虹或大海时该说什么",
+    "title_hebrew": "ברכות על הטבע: מה לומר כשרואים ברק, קשת או אוקיינוס",
+    "section": "Blessings",
+    "folder": "blessings",
+    "description": "A guide to the special blessings recited upon experiencing natural wonders, including the rare Shehecheyanu.",
+    "tags": [
+      "Blessings",
+      "Nature", 
+      "Lightning",
+      "Thunder",
+      "Rainbow",
+      "Ocean",
+      "Mountains",
+      "祝福",
+      "自然",
+      "闪电",
+      "雷声", 
+      "彩虹",
+      "海洋",
+      "山脉",
+      "Prayer",
+      "Divine",
+      "Gratitude",
+      "Wonder",
+      "Creation"
+    ],
+    "chinese_historical_period": "Han Dynasty (汉朝, 206 BCE-220 CE) for main Talmudic development; Shang Dynasty (商朝, ~1600-1046 BCE) for Sinai revelation; Song Dynasty (宋朝, 960-1279 CE) for Jewish communities in Kaifeng",
+    "word_count": {
+      "english": 6100,
+      "chinese": 2400,
+      "hebrew": 4400
+    },
+    "creation_date": "2026-03-17",
+    "status": "complete"
+  },
+  "blessings_covered": [
+    {
+      "name": "Oseh Ma'aseh Bereishit",
+      "hebrew": "ברוך אתה ה' אלהינו מלך העולם עושה מעשה בראשית",
+      "occasions": ["lightning", "mountains", "deserts", "impressive waters", "shooting stars", "comets", "earthquakes", "strong winds"],
+      "frequency": "30 days for most; lightning once per day"
+    },
+    {
+      "name": "She'kocho Oog'vuraso Malay Olam", 
+      "hebrew": "ברוך אתה ה' אלהינו מלך העולם שכחו וגבורתו מלא עולם",
+      "occasions": ["thunder"],
+      "frequency": "Once per day maximum"
+    },
+    {
+      "name": "Zocher Ha'brit",
+      "hebrew": "ברוך אתה ה' אלהינו מלך העולם זוכר הברית ונאמן בבריתו וקיים במאמרו", 
+      "occasions": ["complete rainbow"],
+      "frequency": "Each occurrence"
+    },
+    {
+      "name": "She'asa Et Ha'yam Ha'gadol",
+      "hebrew": "ברוך אתה ה' אלהינו מלך העולם שעשה את הים הגדול",
+      "occasions": ["ocean specifically"],
+      "frequency": "30 days"
+    }
+  ],
+  "cultural_connections": [
+    "Chinese shan shui (mountain-water) painting tradition",
+    "Five Sacred Mountains (五岳) spiritual significance",
+    "Dao (道) reflected in flowing water",
+    "Lei Gong (雷公) - Thunder God parallels",
+    "Rainbow as heavenly bridge in Chinese culture",
+    "Gratitude practices in Chinese tea ceremony"
+  ],
+  "key_teachings": [
+    "Thunder created to straighten crookedness of heart",
+    "Rabbi Hirsch Alps story - seeing God's wonders",
+    "Rainbow as reminder of divine covenant with Noah", 
+    "Ocean encounters inspire humility before infinity",
+    "Lightning shows ongoing divine creation (present tense)",
+    "Immediate response required for fleeting moments of awe"
+  ],
+  "sources_verified": true,
+  "url_check_date": "2026-03-17",
+  "languages": ["english", "chinese", "hebrew"],
+  "ready_for_upload": true
+}

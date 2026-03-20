@@ -1,0 +1,33 @@
+{
+  "id": 90,
+  "title": "Debunking Anti-Jewish Myths Popular in China",
+  "title_zh": "破解在中国流行的反犹迷思",
+  "title_he": "מפריכים את המיתוסים האנטישמיים הפופולריים בסין",
+  "section": "Antisemitism",
+  "folder": "antisemitism/090-debunking-myths-china",
+  "languages": ["en", "zh", "he"],
+  "word_count": {
+    "en": 7800,
+    "zh": 6200,
+    "he": 4200
+  },
+  "status": "completed",
+  "created_date": "2026-03-17",
+  "last_modified": "2026-03-17T18:45:00+02:00",
+  "bibliography_count": 8,
+  "tags": [
+    "Antisemitism",
+    "Stereotypes", 
+    "JewishHistory",
+    "ChineseJewishRelations",
+    "Holocaust",
+    "Talmud",
+    "CrossCulturalUnderstanding",
+    "MediaLiteracy",
+    "反犹主义",
+    "刻板印象",
+    "文化理解",
+    "大屠杀",
+    "塔木德"
+  ]
+}

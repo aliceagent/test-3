@@ -1,0 +1,69 @@
+{
+  "article_id": 48,
+  "title": {
+    "en": "Cleaning for Pesach: The Complete Chametz Removal Guide",
+    "zh": "为逾越节清洁:完整的发酵食物清除指南",
+    "he": "ניקיון לפסח: המדריך המלא להסרת חמץ"
+  },
+  "section": "Passover Seder",
+  "folder": "passover-seder",
+  "description": "Room-by-room guide to searching for and removing chametz before Passover, including bedikat chametz and selling chametz.",
+  "word_count": {
+    "en": 4286,
+    "zh": 1823,
+    "he": 3214
+  },
+  "status": "draft_complete",
+  "author": "Torah Light Editorial Team",
+  "created_date": "2026-03-17",
+  "languages": ["en", "zh", "he"],
+  "tags": [
+    "Passover",
+    "Pesach",
+    "Chametz",
+    "BedikatChametz",
+    "BiurChametz",
+    "Matzah",
+    "Exodus",
+    "逾越节",
+    "犹太节日",
+    "除酵",
+    "发酵食物",
+    "PassoverCleaning",
+    "KosherForPassover",
+    "JewishLaw",
+    "Halacha",
+    "春节",
+    "ShangDynasty",
+    "商朝",
+    "פסח",
+    "חמץ",
+    "בדיקתחמץ",
+    "ביעורחמץ",
+    "מצה",
+    "יציאתמצרים",
+    "הלכהיהודית"
+  ],
+  "historical_period": {
+    "jewish": "Exodus from Egypt",
+    "approximate_date": "~1300 BCE",
+    "chinese_dynasty": "Shang Dynasty (商朝, ~1600-1046 BCE)"
+  },
+  "bibliography_urls_verified": true,
+  "header_image_description": "A serene Chinese brushstroke (水墨) landscape depicting a traditional home at twilight. In the foreground, soft candlelight glows from a window where a figure searches carefully with a feather and wooden spoon. The scene transitions from darkness (representing chametz/slavery) to the soft golden light of dawn (representing freedom and purity). Mountains rise in the misty background under a crescent moon. Color palette: deep indigos and blacks transitioning to warm golds and soft grays. Style: Shan shui (山水) painting with delicate ink washes, embodying the contemplative and meticulous nature of the Pesach cleaning ritual. Mood: meditative, purposeful, hopeful.",
+  "key_concepts": [
+    "Chametz (leavened products)",
+    "Bedikat chametz (candle-lit search)",
+    "Biur chametz (burning)",
+    "Kol chamira (nullification declaration)",
+    "Selling chametz",
+    "Room-by-room cleaning",
+    "Spiritual meaning of chametz removal"
+  ],
+  "target_audience": "Chinese native Mandarin speakers with no prior Jewish knowledge",
+  "cultural_parallels": [
+    "Spring cleaning before Lunar New Year (扫尘)",
+    "Confucian self-cultivation (修身)",
+    "Removing old to make room for new blessings"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "article_id": 29,
+  "title": "A Beginner's Guide to Jewish Prayer: Start With These Three",
+  "section": "Prayer",
+  "research_date": "2026-03-17",
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Modeh_Ani",
+      "title": "Modeh Ani - Wikipedia",
+      "description": "Comprehensive overview of the Modeh Ani prayer, including Hebrew text, transliteration, translation, and historical context",
+      "key_points": [
+        "First prayer said upon waking, while still in bed",
+        "Means 'I give thanks' in Hebrew",
+        "Does not contain God's name, so can be said before washing hands",
+        "First appears in 16th century work 'Seder haYom' by Moshe ben Machir",
+        "Based on Lamentations 3:22-23 about God's mercies being new every morning"
+      ],
+      "verified": true,
+      "status": 200
+    },
+    {
+      "url": "https://www.jewfaq.org/prayers_shema",
+      "title": "Shema - Judaism 101 (JewFAQ)",
+      "description": "Detailed explanation of the three paragraphs of Shema with Hebrew text, transliteration, and commentary",
+      "key_points": [
+        "One of only two prayers specifically commanded in Torah",
+        "Oldest fixed daily prayer in Judaism, recited morning and night",
+        "Consists of three biblical passages from Deuteronomy and Numbers",
+        "Contains fundamental declaration of Jewish faith: 'Hear Israel, the Lord is our God, the Lord is One'",
+        "Commands wearing of tefillin and mezuzot"
+      ],
+      "verified": true,
+      "status": 200
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Birkat_Hamazon",
+      "title": "Birkat Hamazon - Wikipedia",
+      "description": "Complete overview of Grace After Meals, its structure, laws, and customs",
+      "key_points": [
+        "Biblical commandment from Deuteronomy 8:10",
+        "Recited after eating bread or meal containing bread",
+        "Consists of four blessings: food, land, Jerusalem, God's goodness",
+        "First three blessings attributed to Moses, Joshua, and David/Solomon respectively",
+        "Fourth blessing added by Rabban Gamliel",
+        "Zimmun (group blessing) when three or more men eat together"
+      ],
+      "verified": true,
+      "status": 200
+    },
+    {
+      "url": "https://www.asianstudies.org/publications/eaa/archives/encounters-between-chinese-and-jewish-civilizations/",
+      "title": "Encounters Between Chinese and Jewish Civilizations - Association for Asian Studies",
+      "description": "Academic paper comparing Chinese and Jewish civilizations, including historical parallels",
+      "key_points": [
+        "Shang Dynasty (1556-1046 BCE) corresponds to Abraham's era",
+        "Zhou Dynasty (1046-256 BCE) parallels early Jewish history",
+        "Both cultures emphasize education and scholarship",
+        "Chinese saw similarities to Confucian values in Jewish culture"
+      ],
+      "verified": true,
+      "status": 200
+    },
+    {
+      "url": "https://www.pewresearch.org/religion/2023/08/30/confucianism-taoism-and-chinese-folk-religions/",
+      "title": "Confucianism, Taoism and Chinese folk religions | Pew Research Center",
+      "description": "Overview of Chinese religious practices including ancestor veneration and meal ceremonies",
+      "key_points": [
+        "Ancestor veneration involves fasting, ceremonial costumes, and offering meals to ancestors",
+        "Chinese culture emphasizes gratitude and respect for elders",
+        "Meal-based rituals are central to Chinese spiritual practice",
+        "Similar emphasis on family and generational continuity as in Judaism"
+      ],
+      "verified": true,
+      "status": 200
+    }
+  ],
+  "chinese_parallels": {
+    "gratitude_practices": "Chinese ancestor veneration includes offering meals and expressing gratitude to deceased family members, similar to Jewish blessings before and after meals",
+    "morning_rituals": "Both Chinese and Jewish traditions emphasize starting the day with spiritual awareness and gratitude",
+    "historical_period": "Abraham's time (c. 2000 BCE) corresponds to the Shang Dynasty (1600-1046 BCE) in Chinese history",
+    "confucian_values": "Respect for elders, family bonds, and ritual observance are shared values between Jewish and Chinese traditions"
+  }
+}

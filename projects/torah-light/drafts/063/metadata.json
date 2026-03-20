@@ -1,0 +1,151 @@
+{
+  "article_id": 63,
+  "title": "Starting a Jewish Study Group in Your City",
+  "section": "Community",
+  "created": "2026-03-17",
+  "author": "Torah Light Editorial Team",
+  "word_count": {
+    "english": 5847,
+    "chinese": 2235,
+    "hebrew": 4532
+  },
+  "reading_time": {
+    "english": "23-25 minutes",
+    "chinese": "9-11 minutes",
+    "hebrew": "18-20 minutes"
+  },
+  "target_audience": [
+    "Isolated Jews seeking community",
+    "Jews in Asia and China",
+    "Conversion candidates",
+    "People wanting to start Torah study",
+    "Small Jewish communities",
+    "Jews without access to synagogues"
+  ],
+  "difficulty_level": "Beginner to Intermediate",
+  "key_topics": [
+    "Community building",
+    "Torah study groups",
+    "Chavruta learning",
+    "Jewish education",
+    "Study techniques",
+    "Pirkei Avot",
+    "Group leadership",
+    "Jewish learning resources",
+    "Cultural parallels",
+    "Interfaith dynamics"
+  ],
+  "historical_periods_covered": [
+    {
+      "period": "Second Temple Period",
+      "chinese_equivalent": "春秋战国时期 (Spring and Autumn / Warring States Period)",
+      "dates": "516 BCE - 70 CE",
+      "relevance": "Origins of communal Torah study and houses of learning"
+    },
+    {
+      "period": "Mishnaic Period - Western Han Dynasty",
+      "chinese_equivalent": "西汉 (Western Han Dynasty)",
+      "dates": "206 BCE - 9 CE",
+      "relevance": "Joshua ben Perachiah's teaching on acquiring study partners"
+    },
+    {
+      "period": "Medieval Period - Song Dynasty",
+      "chinese_equivalent": "宋朝",
+      "dates": "960-1279 CE",
+      "relevance": "Kaifeng Jewish community maintained study groups despite isolation"
+    },
+    {
+      "period": "Medieval Period - Ming Dynasty",
+      "chinese_equivalent": "明朝",
+      "dates": "1368-1644 CE",
+      "relevance": "Jewish study circles continued alongside Confucian academies"
+    }
+  ],
+  "languages": {
+    "english": {
+      "file": "article-en.md",
+      "title": "Starting a Jewish Study Group in Your City"
+    },
+    "chinese_simplified": {
+      "file": "article-zh.md",
+      "title": "在你的城市建立犹太学习小组"
+    },
+    "hebrew": {
+      "file": "article-he.md",
+      "title": "הקמת חוג לימוד יהודי בעירך"
+    }
+  },
+  "seo_keywords": [
+    "Jewish study group",
+    "Torah study",
+    "chavruta",
+    "Jewish community building",
+    "learning Torah",
+    "Pirkei Avot",
+    "Jewish education",
+    "Jews in Asia",
+    "starting a chevra",
+    "Torah discussion groups",
+    "Jewish learning resources",
+    "isolated Jews",
+    "community organization"
+  ],
+  "related_articles": [8, 11, 13, 60, 62, 65],
+  "sources": [
+    "Pirkei Avot (Ethics of the Fathers) 1:5-6",
+    "Babylonian Talmud, Tractate Ta'anit 7a",
+    "Chabad.org: Chavruta Learning Guide",
+    "Women of Reform Judaism: Book Club Guide",
+    "Sefaria.org: Torah Study Topics",
+    "Steinsaltz, The Essential Talmud",
+    "Donin, To Be a Jew"
+  ],
+  "header_image_prompt": "A warm, inviting Chinese brushstroke-style scene showing a small group of diverse people gathered around a low wooden table in a traditional Chinese-style courtyard. On the table are open Jewish texts with Hebrew letters, tea cups, and dim lighting from paper lanterns. Through an archway, a traditional Chinese garden is visible with bamboo and a reflecting pool. The atmosphere is intimate and studious, with gentle warm ochre and deep ink tones. Figures are rendered in minimalist brushstrokes suggesting concentration and connection. Style: traditional shan shui ink wash meets contemporary community life.",
+  "tags": [
+    "Community",
+    "StudyGroup",
+    "TorahStudy",
+    "Chavruta",
+    "Chevra",
+    "JewishLearning",
+    "PirkeiAvot",
+    "Talmud",
+    "BeginnerJudaism",
+    "JewsInAsia",
+    "JewsInChina",
+    "ChineseCulture",
+    "InterfaithLearning",
+    "Conversion",
+    "SmallCommunity",
+    "OnlineLearning",
+    "TextStudy",
+    "JewishEducation",
+    "BuildingCommunity",
+    "Sefaria",
+    "Chabad",
+    "犹太学习",
+    "社区建设",
+    "学习小组",
+    "קהילה",
+    "חוגלימוד",
+    "לימודתורה",
+    "חברותא"
+  ],
+  "practical_features": [
+    "Step-by-step guide to starting a study group",
+    "90-minute session structure template",
+    "Sample first meeting message",
+    "Discussion techniques (Hevruta, Round Table, Controversial Statement)",
+    "Free and paid resource recommendations",
+    "Tips for handling diverse knowledge levels",
+    "Cultural sensitivity guidance for Asian/Chinese contexts",
+    "Solutions to common challenges"
+  ],
+  "cultural_bridges": [
+    "Comparison of Jewish and Chinese scholarly traditions",
+    "Confucian academies (shuyuan) parallel to batei midrash",
+    "Kaifeng Jewish community history",
+    "Discussion style differences (harmony vs. debate)",
+    "Master-student relationships in both traditions"
+  ]
+}

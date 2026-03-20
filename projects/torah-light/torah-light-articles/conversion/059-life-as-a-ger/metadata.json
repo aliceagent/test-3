@@ -1,0 +1,50 @@
+{
+  "article_id": 59,
+  "title": "Life as a Ger: Stories from Jewish Converts Around the World",
+  "title_zh": "归信者的生活:来自世界各地犹太皈依者的故事",
+  "title_he": "חיי הגר: סיפורי מתגיירים מרחבי העולם",
+  "section": "Conversion",
+  "section_zh": "转宗",
+  "section_he": "התגיירות",
+  "description": "Personal stories from people who converted to Judaism, including converts from China and other Asian countries.",
+  "description_zh": "来自皈依犹太教的人的个人故事,包括来自中国和其他亚洲国家的皈依者。",
+  "description_he": "סיפורים אישיים מאנשים שהתגיירו ליהדות, כולל מתגיירים מסין וממדינות אסייתיות אחרות.",
+  "word_count": {
+    "en": 4500,
+    "zh": 3800,
+    "he": 3200
+  },
+  "status": "complete",
+  "created_date": "2026-03-17",
+  "hebrew_date": "28 Adar 5786",
+  "author": "torah-writer-59",
+  "files": [
+    "article-en.md",
+    "article-zh.md",
+    "article-he.md"
+  ],
+  "tags": [
+    "conversion",
+    "ger",
+    "ruth",
+    "converts",
+    "jewish-conversion",
+    "beit-din",
+    "mikvah",
+    "chinese-jews",
+    "asian-jews",
+    "转宗",
+    "皈依",
+    "路得"
+  ],
+  "sources_verified": true,
+  "urls_verified": [
+    "https://www.sefaria.org/Ruth",
+    "https://www.sefaria.org/Yevamot.47a",
+    "https://www.sefaria.org/Pesachim.87b",
+    "https://www.sefaria.org/Bava_Metzia.59b",
+    "https://www.sefaria.org/Mishneh_Torah%2C_Forbidden_Intercourse.13",
+    "https://www.sefaria.org/Iggrot_HaRambam",
+    "https://aish.com/conversion-in-biblical-times/"
+  ]
+}

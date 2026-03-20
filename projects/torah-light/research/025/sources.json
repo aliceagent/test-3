@@ -1,0 +1,72 @@
+{
+  "article_id": 25,
+  "title": "Setting Up Your First Kosher Kitchen",
+  "section": "Kosher Food",
+  "research_date": "2026-03-17",
+  "sources": [
+    {
+      "type": "primary_text",
+      "title": "Leviticus Chapter 11",
+      "url": "https://www.sefaria.org/Leviticus.11",
+      "description": "Biblical source on kosher and non-kosher animals, separation of pure and impure",
+      "verified": true
+    },
+    {
+      "type": "primary_text",
+      "title": "Deuteronomy Chapter 14",
+      "url": "https://www.sefaria.org/Deuteronomy.14",
+      "description": "Biblical reiteration of kashrut laws including prohibition of meat and milk",
+      "verified": true
+    },
+    {
+      "type": "educational",
+      "title": "Your Kosher Kitchen",
+      "url": "https://www.ok.org/consumers/your-kosher-kitchen/your-kosher-kitchen/",
+      "source": "OK Kosher Certification",
+      "description": "Comprehensive guide to setting up and maintaining a kosher kitchen",
+      "verified": true
+    },
+    {
+      "type": "educational",
+      "title": "Koshering Your Kitchen",
+      "url": "https://www.chabad.org/library/article_cdo/aid/82667/jewish/Koshering-Your-Kitchen.htm",
+      "source": "Chabad.org",
+      "description": "Practical step-by-step instructions for making a kitchen kosher",
+      "verified": true
+    },
+    {
+      "type": "educational",
+      "title": "What is Kosher Food?",
+      "url": "https://aish.com/28-kashrut-2/",
+      "source": "Aish.com",
+      "description": "Overview of kashrut laws and kosher kitchen requirements",
+      "verified": true
+    }
+  ],
+  "key_concepts": [
+    "Separation of meat and dairy",
+    "Two sets of dishes, utensils, pots",
+    "Koshering process (hagalah, libun)",
+    "Color-coding system for organization",
+    "Dedicated work surfaces",
+    "Kosher certification symbols",
+    "Starting gradually vs all-at-once"
+  ],
+  "chinese_parallels": [
+    {
+      "concept": "Ritual purity and separation",
+      "parallel": "Daoist concepts of purity (qing/清) and contamination (hui/秽)",
+      "note": "Both traditions recognize categories of pure and impure that affect spiritual practice"
+    },
+    {
+      "concept": "Kitchen organization and discipline",
+      "parallel": "Confucian emphasis on li (礼) - proper ordering and ritual correctness in daily life",
+      "note": "Kosher kitchen requires same attention to detail and proper procedure as traditional Chinese ritual practices"
+    },
+    {
+      "concept": "Food as spiritual practice",
+      "parallel": "Buddhist vegetarian kitchen practices and ritual food preparation",
+      "note": "Both systems elevate eating from mere sustenance to spiritual discipline"
+    }
+  ]
+}

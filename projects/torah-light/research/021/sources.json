@@ -1,0 +1,55 @@
+{
+  "article_id": 21,
+  "title": "Cholent and Other Shabbat Foods: Recipes for the Chinese Kitchen",
+  "section": "Shabbat",
+  "sources": [
+    {
+      "title": "The Ultimate Cholent Guide: A Hearty Shabbat Tradition",
+      "url": "https://aish.com/the-ultimate-cholent-guide-a-hearty-shabbat-tradition/",
+      "site": "Aish.com",
+      "status": "200 OK",
+      "notes": "Comprehensive guide to cholent variations including Ashkenazi, Algerian, Egyptian, and pasta-based versions"
+    },
+    {
+      "title": "What Is Cholent?",
+      "url": "https://www.chabad.org/recipes/recipe_cdo/aid/484250/jewish/What-Is-Cholent.htm",
+      "site": "Chabad.org",
+      "status": "200 OK (via Scrapling)",
+      "notes": "Explanation of cholent, chameen, and basic recipe with Shabbat context"
+    },
+    {
+      "title": "What You Need to Know About Making (and Serving) Cholent",
+      "url": "https://www.chabad.org/library/article_cdo/aid/6787865/jewish/What-You-Need-to-Know-About-Making-and-Serving-Cholent.htm",
+      "site": "Chabad.org",
+      "status": "200 OK (via Scrapling)",
+      "notes": "Halachic background on why cholent affirms Oral Torah tradition"
+    },
+    {
+      "title": "Cholent - Jewish Slow-Cooked Stew - Recipe & History",
+      "url": "https://toriavey.com/cholent/",
+      "site": "Tori Avey",
+      "status": "Live",
+      "notes": "Historical context and recipe variations"
+    },
+    {
+      "title": "Cholent",
+      "url": "https://en.wikipedia.org/wiki/Cholent",
+      "site": "Wikipedia",
+      "status": "Live",
+      "notes": "Etymology and general background"
+    },
+    {
+      "title": "The Ultimate Shabbat Menu Guide",
+      "url": "https://jamiegeller.com/menus/the-ultimate-shabbat-menu-guide/",
+      "site": "Jamie Geller",
+      "status": "Live",
+      "notes": "Traditional Shabbat foods including challah, gefilte fish, kugel"
+    }
+  ],
+  "chinese_parallels": [
+    "Slow-cooking tradition similar to Chinese 红烧 (hong shao/red braising)",
+    "One-pot cooking similar to Chinese 砂锅 (sha guo/clay pot cooking)",
+    "Shabbat foods developed during medieval period (Song Dynasty 宋朝 equivalent)",
+    "Community gathering around food similar to Chinese family meal traditions"
+  ]
+}

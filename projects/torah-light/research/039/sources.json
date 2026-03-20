@@ -1,0 +1,56 @@
+{
+  "article_id": 39,
+  "title": "The Tallit: More Than Just a Prayer Shawl",
+  "section": "Mitzvah Objects",
+  "primary_sources": {
+    "aish_com": {
+      "title": "The Deeper Meaning of Tallit, the Jewish Prayer Shawl",
+      "url": "https://aish.com/the-deeper-meaning-of-tallit-the-jewish-prayer-shawl/",
+      "status": "verified_live",
+      "content_file": "aish-content.md"
+    },
+    "chabad_org": {
+      "title": "Tallit and Tzitzit - The Jewish Prayer Shawl",
+      "url": "https://www.chabad.org/library/article_cdo/aid/110306/jewish/Tallit-and-Tzitzit.htm",
+      "status": "cloudflare_protected",
+      "content_file": "chabad-content.md"
+    },
+    "chabad_org_2": {
+      "title": "Tallit: The Jewish Prayer Shawl",
+      "url": "https://www.chabad.org/library/article_cdo/aid/530124/jewish/Tallit-The-Jewish-Prayer-Shawl.htm", 
+      "status": "cloudflare_protected",
+      "content_file": "chabad-content-2.md"
+    },
+    "myjewish_learning": {
+      "title": "The Tallit: Spiritual Significance",
+      "url": "https://www.myjewishlearning.com/article/the-tallit-spiritual-significance/",
+      "status": "verified_live",
+      "content_file": "myjewish-content.md"
+    }
+  },
+  "biblical_sources": {
+    "numbers_15_38": {
+      "title": "Numbers 15:38-39 - The Commandment of Tzitzit",
+      "url": "https://www.sefaria.org/Numbers.15.38-39",
+      "status": "verified_live"
+    },
+    "deuteronomy_22_12": {
+      "title": "Deuteronomy 22:12 - Tassels on Garments",
+      "url": "https://www.sefaria.org/Deuteronomy.22.12",
+      "status": "verified_live"
+    }
+  },
+  "additional_sources": {
+    "techelet_chabad": {
+      "title": "Tekhelet: The Mystery of the Long-Lost Biblical Blue Thread",
+      "url": "https://www.chabad.org/library/article_cdo/aid/530127/jewish/Tekhelet-The-Mystery-of-the-Long-Lost-Biblical-Blue-Thread.htm",
+      "status": "cloudflare_protected"
+    },
+    "blue_thread_aish": {
+      "title": "Blue Techelet Thread",
+      "url": "https://aish.com/blue-techelet-thread/",
+      "status": "needs_verification"
+    }
+  },
+  "research_notes": "Collected information about historical significance, numerical meaning (613 commandments), spiritual symbolism (blue and white), and practical laws. Need to include Chinese cultural parallels."
+}

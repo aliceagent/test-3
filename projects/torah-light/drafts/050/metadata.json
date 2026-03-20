@@ -1,0 +1,54 @@
+{
+  "article_id": 50,
+  "title": {
+    "en": "Tisha B'Av: Understanding the Saddest Day in Jewish History",
+    "zh": "圣殿被毁日：理解犹太历史上最悲伤的一天",
+    "he": "תשעה באב: הבנת היום העצוב ביותר בהיסטוריה היהודית"
+  },
+  "section": "Holidays",
+  "description": "The destructions of both Temples, the laws of mourning on Tisha B'Av, reading Eicha, and the message of hope within the grief.",
+  "status": "completed",
+  "word_count": {
+    "en": 3800,
+    "zh": 3400,
+    "he": 3600
+  },
+  "languages": ["en", "zh", "he"],
+  "sources_verified": true,
+  "chinese_historical_periods_included": true,
+  "bibliography_complete": true,
+  "tags": [
+    "TishaBAv",
+    "NinthOfAv",
+    "JewishHolidays",
+    "Mourning",
+    "HolyTemple",
+    "Jerusalem",
+    "JewishHistory",
+    "Lamentations",
+    "Eicha",
+    "ThreeWeeks",
+    "Teshuva",
+    "Hope",
+    "Redemption",
+    "Messiah",
+    "BaselessHatred",
+    "圣殿",
+    "禁食",
+    "耶路撒冷",
+    "犹太节日",
+    "תשעהבאב",
+    "בית_המקדש",
+    "אבלות",
+    "תשובה"
+  ],
+  "files": {
+    "article_en": "article-en.md",
+    "article_zh": "article-zh.md",
+    "article_he": "article-he.md",
+    "bibliography": "bibliography.md",
+    "metadata": "metadata.json"
+  },
+  "completion_date": "2026-03-17",
+  "writer": "subagent-torah-writer-50"
+}
