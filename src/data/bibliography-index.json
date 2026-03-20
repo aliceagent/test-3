@@ -255,7 +255,11 @@
       "he": ""
     },
     "section": "blessings",
-    "description": "The full text of the Grace After Meals with translation and explanation of each of the four blessings.",
+    "description": {
+      "en": "The full text of the Grace After Meals with translation and explanation of each of the four blessings.",
+      "zh": "饭后感恩祷告全文，附四段祝福的翻译和解释。",
+      "he": "הנוסח המלא של ברכת המזון עם תרגום והסבר לכל אחת מארבע הברכות."
+    },
     "tags": [
       "BirkatHaMazon",
       "GraceAfterMeals",
@@ -384,7 +388,11 @@
       "he": ""
     },
     "section": "conversion",
-    "description": "Sensitive guidance for maintaining loving relationships with non-Jewish family members during and after conversion.",
+    "description": {
+      "en": "Sensitive guidance for maintaining loving relationships with non-Jewish family members during and after conversion.",
+      "zh": "在皈依过程中及之后，如何维护与非犹太家庭成员亲密关系的敏感指导。",
+      "he": "הדרכה רגישה לשמירה על יחסים אוהבים עם בני משפחה שאינם יהודים במהלך ואחרי הגיור."
+    },
     "tags": [
       "#Conversion",
       "#FamilyRelationships",
@@ -424,7 +432,11 @@
       "he": ""
     },
     "section": "prayer",
-    "description": "A word-by-word breakdown of the three paragraphs of Shema, their meaning, and why Jews recite it twice daily.",
+    "description": {
+      "en": "A word-by-word breakdown of the three paragraphs of Shema, their meaning, and why Jews recite it twice daily.",
+      "zh": "Shema三段经文的逐词解析、含义，以及犹太人为何每日诵读两次。",
+      "he": "פירוש מילה במילה של שלושת הפרקים של קריאת שמע, משמעותם, ומדוע יהודים קוראים אותה פעמיים ביום."
+    },
     "tags": [
       "Shema",
       "Prayer",
@@ -477,7 +489,11 @@
       "he": ""
     },
     "section": "kosher-food",
-    "description": "How to make your favorite Chinese dishes kosher — from stir-fry to dumplings — including ingredient substitutions and kitchen setup.",
+    "description": {
+      "en": "How to make your favorite Chinese dishes kosher — from stir-fry to dumplings — including ingredient substitutions and kitchen setup.",
+      "zh": "如何让您喜爱的中餐变得符合洁食标准——从炒菜到饺子——包括食材替代和厨房设置。",
+      "he": "כיצד להכין את המאכלים הסיניים האהובים עליכם בכשרות — מטיגון מהיר ועד כיסוני בצק — כולל תחליפי מרכיבים והכנת המטבח."
+    },
     "tags": [
       "KosherFood",
       "ChineseCuisine",
@@ -517,7 +533,11 @@
       "he": "האם רוטב סויה כשר? מרכיבים אסייתיים נפוצים תחת המיקרוסקופ ההלכתי"
     },
     "section": "kosher-food",
-    "description": "A detailed guide to the kosher status of soy sauce, rice vinegar, miso, tofu, nori, and other Asian staples.",
+    "description": {
+      "en": "A detailed guide to the kosher status of soy sauce, rice vinegar, miso, tofu, nori, and other Asian staples.",
+      "zh": "豆油、米醋、味噌、豆腐、海苔等亚洲常用食材的洁食状态详细指南。",
+      "he": "מדריך מפורט לכשרות של רוטב סויה, חומץ אורז, מיסו, טופו, נורי ומצרכים אסיאתיים אחרים."
+    },
     "tags": [
       "KosherFood",
       "AsianCuisine",
@@ -592,7 +612,11 @@
       "he": ""
     },
     "section": "kosher-food",
-    "description": "A visual guide to the most common hechsher (kosher certification) symbols and what each one means.",
+    "description": {
+      "en": "A visual guide to the most common hechsher (kosher certification) symbols and what each one means.",
+      "zh": "最常见的洁食认证标志及其含义的图解指南。",
+      "he": "מדריך ויזואלי לסימני ההכשר הנפוצים ביותר ומשמעות כל אחד מהם."
+    },
     "tags": [
       "Kosher",
       "KosherCertification",
