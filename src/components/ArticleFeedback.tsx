@@ -34,29 +34,39 @@ export default function ArticleFeedback({
     const fp = getFingerprint();
 
     // Fetch aggregate votes
-    supabase
-      .from("article_votes")
-      .select("thumbs_up, thumbs_down")
-      .eq("section_id", sectionId)
-      .single()
-      .then(({ data }) => {
-        if (data) {
-          setVotes({ up: data.thumbs_up, down: data.thumbs_down });
-        }
-      });
+    try {
+      supabase
+        .from("article_votes")
+        .select("thumbs_up, thumbs_down")
+        .eq("section_id", sectionId)
+        .single()
+        .then(({ data }) => {
+          if (data) {
+            setVotes({ up: data.thumbs_up, down: data.thumbs_down });
+          }
+        })
+        .then(() => {}, () => {});
+    } catch {
+      // Supabase client may not be available
+    }
 
     // Fetch user's vote
-    supabase
-      .from("user_votes")
-      .select("vote")
-      .eq("section_id", sectionId)
-      .eq("user_fingerprint", fp)
-      .single()
-      .then(({ data }) => {
-        if (data) {
-          setUserVote(data.vote as "up" | "down");
-        }
-      });
+    try {
+      supabase
+        .from("user_votes")
+        .select("vote")
+        .eq("section_id", sectionId)
+        .eq("user_fingerprint", fp)
+        .single()
+        .then(({ data }) => {
+          if (data) {
+            setUserVote(data.vote as "up" | "down");
+          }
+        })
+        .then(() => {}, () => {});
+    } catch {
+      // Supabase client may not be available
+    }
   }, [sectionId]);
 
   const handleVote = useCallback(

@@ -20,7 +20,15 @@ function createNoopClient(): SupabaseClient {
   return new Proxy({} as any, handler) as SupabaseClient;
 }
 
-export const supabase: SupabaseClient =
-  supabaseUrl && supabaseAnonKey
-    ? createClient(supabaseUrl, supabaseAnonKey)
-    : createNoopClient();
+function initClient(): SupabaseClient {
+  if (supabaseUrl && supabaseAnonKey) {
+    try {
+      return createClient(supabaseUrl, supabaseAnonKey);
+    } catch {
+      return createNoopClient();
+    }
+  }
+  return createNoopClient();
+}
+
+export const supabase: SupabaseClient = initClient();

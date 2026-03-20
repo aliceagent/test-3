@@ -143,6 +143,24 @@ export default function Navigation() {
               </div>
             </div>
           ))}
+          <div className="ml-auto flex gap-1">
+            <Link
+              href="/bibliography"
+              className={`px-3 py-3 text-sm font-medium hover:bg-[var(--color-primary-light)] rounded-t transition-colors ${
+                pathname === "/bibliography" ? "text-[var(--color-gold)]" : ""
+              }`}
+            >
+              {t("bibliography")}
+            </Link>
+            <Link
+              href="/about"
+              className={`px-3 py-3 text-sm font-medium hover:bg-[var(--color-primary-light)] rounded-t transition-colors ${
+                pathname === "/about" ? "text-[var(--color-gold)]" : ""
+              }`}
+            >
+              {t("about")}
+            </Link>
+          </div>
         </div>
       </nav>
 
@@ -200,6 +218,20 @@ export default function Navigation() {
                 ))}
             </div>
           ))}
+          <Link
+            href="/bibliography"
+            onClick={() => setMobileOpen(false)}
+            className="block px-4 py-3 text-sm hover:bg-[var(--color-primary-light)] border-t border-white/10"
+          >
+            {t("bibliography")}
+          </Link>
+          <Link
+            href="/about"
+            onClick={() => setMobileOpen(false)}
+            className="block px-4 py-3 text-sm hover:bg-[var(--color-primary-light)] border-t border-white/10"
+          >
+            {t("about")}
+          </Link>
           <Link
             href="/admin"
             onClick={() => setMobileOpen(false)}
