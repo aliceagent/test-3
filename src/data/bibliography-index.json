@@ -8044,5 +8044,556 @@
     "chinese_dynasty_references": [],
     "status": "complete",
     "filePath": "conversion/168-chinese-convert-story/metadata.json"
+  },
+  {
+    "id": 336,
+    "title": {
+      "en": "Why Did God Create the World? Ten Answers from Jewish Sources",
+      "zh": "",
+      "he": ""
+    },
+    "section": "jewish-philosophy-big-questions",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "JewishPhilosophyBigQuestions",
+      "Did",
+      "God",
+      "Create",
+      "World",
+      "Ten",
+      "Answers",
+      "Jewish",
+      "Sources"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "jewish-philosophy-big-questions/336-why-god-created-world/metadata.json"
+  },
+  {
+    "id": 337,
+    "title": {
+      "en": "Theodicy: How Judaism Confronts the Problem of Evil",
+      "zh": "神义论：犹太教如何应对邪恶问题",
+      "he": "תיאודיציה: כיצד היהדות מתמודדת עם בעיית הרוע"
+    },
+    "section": "jewish-philosophy-big-questions",
+    "description": {
+      "en": "A survey of Jewish approaches to evil — from the Talmud's 'tzaddik v'ra lo' to the Holocaust theologians to the Rebbe's response.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Theodicy",
+      "ProblemOfEvil",
+      "JewishPhilosophy",
+      "Faith",
+      "Suffering",
+      "FreeWill",
+      "DivineJustice",
+      "Talmud",
+      "Maimonides",
+      "Holocaust",
+      "BookOfJob",
+      "Chassidism",
+      "神义论",
+      "邪恶问题",
+      "信仰",
+      "苦难",
+      "自由意志",
+      "天人合一",
+      "磨练"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "jewish-philosophy-big-questions/337-theodicy-judaism-problem-of-evil/metadata.json"
+  },
+  {
+    "id": 338,
+    "title": {
+      "en": "Gilgul Neshamot: The Jewish Concept of Reincarnation",
+      "zh": "灵魂轮回：犹太教的转世观念",
+      "he": "גלגול נשמות: תפיסת הגלגול היהודית"
+    },
+    "section": "jewish-philosophy-big-questions",
+    "description": {
+      "en": "The kabbalistic teaching that souls return to this world to complete their mission, with sources from the Zohar and the Arizal.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Reincarnation",
+      "GilgulNeshamot",
+      "Kabbalah",
+      "JewishMysticism",
+      "SoulJourney",
+      "Zohar",
+      "Arizal",
+      "Tikun",
+      "CharacterRefinement",
+      "Mitzvot",
+      "轮回",
+      "灵魂",
+      "犹太神秘主义",
+      "JewishPhilosophy",
+      "BigQuestions",
+      "Afterlife"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "jewish-philosophy-big-questions/338-gilgul-neshamot-reincarnation/metadata.json"
+  },
+  {
+    "id": 339,
+    "title": {
+      "en": "Olam Haba vs. Gan Eden vs. Gehinnom: The Jewish Afterlife Mapped",
+      "zh": "来世(Olam Haba)、伊甸园(Gan Eden)与地狱(Gehinnom):犹太教来世观地图",
+      "he": "עולם הבא מול גן עדן מול גיהנום: מפת העולם הבא היהודי"
+    },
+    "section": "jewish-philosophy-big-questions",
+    "description": {
+      "en": "Clarifying the different Jewish concepts of the afterlife — the World to Come, the Garden of Eden, and the purification of Gehinnom.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "OlamHaba",
+      "GanEden",
+      "Gehinnom",
+      "Afterlife",
+      "Resurrection",
+      "TechiyatHaMeitim",
+      "Jewish Eschatology",
+      "WorldToCome",
+      "Reward",
+      "Punishment",
+      "DivineMercy",
+      "Teshuvah",
+      "汉朝",
+      "生死观",
+      "JewishPhilosophy",
+      "BigQuestions"
+    ],
+    "sources": [
+      "Babylonian Talmud, Tractate Berachot 17a",
+      "Babylonian Talmud, Tractate Sanhedrin 105a, 39b, 97a",
+      "Mishnah Eduyot 2:10",
+      "Pirkei Avot 4:17",
+      "Talmud Yevamot 17a",
+      "Isaiah 25:8",
+      "Maimonides, Mishneh Torah, Laws of Repentance, Chapter 8",
+      "Chabad.org - The Afterlife: A Comprehensive Overview",
+      "My Jewish Learning - Jewish Views of the Afterlife",
+      "Aish.com - What Happens After We Die?"
+    ],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "jewish-philosophy-big-questions/339-olam-haba-gan-eden-gehinnom-jewish-afterlife/metadata.json"
+  },
+  {
+    "id": 340,
+    "title": {
+      "en": "What Makes Judaism Different from Christianity? A Respectful Comparison",
+      "zh": "犹太教与基督教有何不同?一个尊重的比较",
+      "he": "מה עושה את היהדות שונה מהנצרות? השוואה מכבדת"
+    },
+    "section": "jewish-philosophy-big-questions",
+    "description": {
+      "en": "Key theological differences — God's unity, the messiah, original sin, salvation, and law — explained clearly without polemics.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "JudaismVsChristianity",
+      "Monotheism",
+      "Messiah",
+      "OriginalSin",
+      "Torah",
+      "Covenant",
+      "Salvation",
+      "JewishPhilosophy",
+      "ComparativeReligion",
+      "Shema",
+      "Mitzvot",
+      "一神论",
+      "弥赛亚",
+      "妥拉",
+      "救赎",
+      "犹太哲学"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "jewish-philosophy-big-questions/340-judaism-christianity-comparison/metadata.json"
+  },
+  {
+    "id": 341,
+    "title": {
+      "en": "What Makes Judaism Different from Islam? A Respectful Comparison",
+      "zh": "犹太教与伊斯兰教的区别是什么？一次尊重的比较",
+      "he": "מה ההבדלים בין היהדות לאסלאם? השוואה מכבדת"
+    },
+    "section": "jewish-philosophy-big-questions",
+    "description": {
+      "en": "Shared roots and key divergences — prophecy, law, the Land of Israel, and the nature of revelation — explained with mutual respect.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Judaism",
+      "Islam",
+      "Comparative Religion",
+      "Prophecy",
+      "Abraham",
+      "Moses",
+      "Muhammad",
+      "Chosen People",
+      "Ummah",
+      "Land of Israel",
+      "Messiah",
+      "Conversion",
+      "Monotheism",
+      "Halacha",
+      "Sharia",
+      "Torah",
+      "Quran",
+      "Interfaith Dialogue",
+      "Respectful Comparison",
+      "亚伯拉罕诸教",
+      "犹太教",
+      "伊斯兰教",
+      "יהדות",
+      "אסלאם",
+      "דתות אברהם"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Confucian interpretation schools vs Jewish/Islamic revelation models",
+      "Confucianism (particularist) vs Buddhism (universalist) analogy",
+      "Chinese commentary tradition parallels rabbinic and Islamic scholarly interpretation"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "completed",
+    "filePath": "jewish-philosophy-big-questions/341-judaism-islam-comparison/metadata.json"
+  },
+  {
+    "id": 342,
+    "title": {
+      "en": "The Chosen People: What It Actually Means (And What It Doesn't)",
+      "zh": "被拣选的民族：真正的含义（以及它不代表什么）",
+      "he": "עם הסגולה: מה זה באמת אומר (ומה זה לא אומר)"
+    },
+    "section": "jewish-philosophy-big-questions",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "ChosenPeople",
+      "AmSegulah",
+      "JewishIdentity",
+      "Covenant",
+      "Responsibility",
+      "Monotheism",
+      "Torah",
+      "LightToTheNations",
+      "OrLagoyim",
+      "Converts",
+      "Noahide",
+      "EthicalMonotheism",
+      "JewishPhilosophy",
+      "BigQuestions",
+      "天命",
+      "Tianming",
+      "Brit",
+      "Israel",
+      "Jewish-Philosophy-Big-Questions",
+      "被拣选的民族",
+      "盟约",
+      "责任",
+      "一神论",
+      "托拉",
+      "万国之光",
+      "皈依者",
+      "诺亚律法",
+      "伦理一神论",
+      "犹太哲学",
+      "重大问题",
+      "עם_הסגולה",
+      "זהות_יהודית",
+      "ברית",
+      "אחריות",
+      "מונותאיזם",
+      "תורה",
+      "אור_לגויים",
+      "גרים",
+      "מצוות_בני_נח",
+      "מונותאיזם_אתי",
+      "פילוסופיה_יהודית",
+      "שאלות_גדולות"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "jewish-philosophy-big-questions/342-chosen-people/metadata.json"
+  },
+  {
+    "id": 343,
+    "title": {
+      "en": "Tikkun Olam: The Original Meaning vs. the Modern Usage",
+      "zh": "Tikkun Olam(修復世界):原始含義與現代用法",
+      "he": "תיקון עולם: המשמעות המקורית לעומת השימוש המודרני"
+    },
+    "section": "jewish-philosophy-big-questions",
+    "description": {
+      "en": "How a kabbalistic concept about cosmic repair became a catchphrase for social justice — and what the authentic Jewish teaching really says.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "TikkunOlam",
+      "SocialJustice",
+      "Kabbalah",
+      "Tzedakah",
+      "JewishEthics",
+      "LurianicKabbalah",
+      "Mishnah",
+      "Talmud",
+      "JewishPhilosophy",
+      "PropheticJustice",
+      "GemilutChasadim",
+      "TorahAndEthics",
+      "CosmicRepair",
+      "JewishLaw",
+      "ModernJudaism"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "jewish-philosophy-big-questions/343-tikkun-olam/metadata.json"
+  },
+  {
+    "id": 344,
+    "title": {
+      "en": "Emunah Peshutah: The Power of Simple Faith",
+      "zh": "单纯的信仰：Emunah Peshutah的力量",
+      "he": "אמונה פשוטה: כוחה של האמונה הטהורה"
+    },
+    "section": "jewish-philosophy-big-questions",
+    "description": {
+      "en": "The Chassidic valorization of simple, wholehearted faith over intellectual gymnastics — stories and teachings about trusting God completely.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "EmunaPeshutah",
+      "SimpleFaith",
+      "Chassidism",
+      "BaalShemTov",
+      "Faith",
+      "Trust",
+      "Judaism",
+      "JewishPhilosophy",
+      "Spirituality",
+      "Prayer",
+      "樸",
+      "無為",
+      "道家",
+      "单纯信仰",
+      "BigQuestions"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "jewish-philosophy-big-questions/344-emunah-peshutah-simple-faith/metadata.json"
+  },
+  {
+    "id": 345,
+    "title": {
+      "en": "The Purpose of Mitzvot: Why 613 Commandments?",
+      "zh": "诫命的目的:为什么有613条律法?",
+      "he": "מטרת המצוות: מדוע 613 מצוות?"
+    },
+    "section": "jewish-philosophy-big-questions",
+    "description": {
+      "en": "Exploring different approaches — Rambam's reasons for the commandments, the Kuzari's obedience model, and the Chassidic connection approach.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Mitzvot",
+      "613Commandments",
+      "Rambam",
+      "Maimonides",
+      "Kuzari",
+      "YehudaHalevi",
+      "Chassidut",
+      "BaalShemTov",
+      "JewishPhilosophy",
+      "TorahStudy",
+      "Devekut",
+      "ConnectionWithGod",
+      "RationalJudaism",
+      "MysticalJudaism",
+      "Obedience",
+      "禮",
+      "Covenant",
+      "SpiritualPractice",
+      "JewishLaw",
+      "Halacha"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "jewish-philosophy-big-questions/345-purpose-of-mitzvot/metadata.json"
+  },
+  {
+    "id": 346,
+    "title": {
+      "en": "Judaism and Buddhism: Convergences and Core Differences",
+      "zh": "犹太教与佛教：相通之处与核心差异",
+      "he": "יהדות ובודהיזם: מפגשים והבדלים מהותיים"
+    },
+    "section": "jewish-philosophy-big-questions",
+    "description": {
+      "en": "An honest comparison for the many Chinese learners who come from Buddhist or Daoist backgrounds — meditation, suffering, the self, and God.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Buddhism",
+      "Meditation",
+      "Self",
+      "Soul",
+      "Neshamah",
+      "God",
+      "Suffering",
+      "Prayer",
+      "Reincarnation",
+      "Kabbalah",
+      "Comparison",
+      "EasternPhilosophy",
+      "JewishPhilosophy",
+      "BigQuestions",
+      "佛教",
+      "灵魂",
+      "冥想"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Buddhism vs Judaism",
+      "Chinese Spring and Autumn Period",
+      "Shang Dynasty",
+      "Ming Dynasty",
+      "Meditation practices",
+      "Concept of self",
+      "Afterlife beliefs"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "jewish-philosophy-big-questions/346-judaism-buddhism/metadata.json"
+  },
+  {
+    "id": 347,
+    "title": {
+      "en": "The Age of the Universe: Jewish Views on 5,786 vs. 13.8 Billion Years",
+      "zh": "宇宙的年龄：犹太教对5786年与138亿年的不同观点",
+      "he": "גיל היקום: השקפות יהודיות על 5,786 לעומת 13.8 מיליארד שנים"
+    },
+    "section": "jewish-philosophy-big-questions",
+    "description": {
+      "en": "How Jewish thinkers reconcile the Torah's chronology with modern cosmology — from literal readings to Rabbi Aryeh Kaplan's approach.",
+      "zh": "犹太思想家如何调和托拉年表与现代宇宙学——从字面阅读到拉比阿里耶·卡普兰的方法。",
+      "he": "כיצד הוגי דעות יהודיים מפייסים את כרונולוגיית התורה עם קוסמולוגיה מודרנית — מקריאות מילוליות לגישת הרב אריה קפלן."
+    },
+    "tags": [
+      "Creation",
+      "Cosmology",
+      "ScienceAndReligion",
+      "AgeOfTheUniverse",
+      "RabbiAryehKaplan",
+      "BigBang",
+      "JewishPhilosophy",
+      "Relativity",
+      "Torah",
+      "Daoism",
+      "EmbraceComplexity",
+      "时间",
+      "宇宙年龄",
+      "科学与信仰",
+      "托拉",
+      "道家"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "jewish-philosophy-big-questions/347-age-of-universe/metadata.json"
+  },
+  {
+    "id": 348,
+    "title": {
+      "en": "What Happens When Moshiach Comes? A Detailed Picture",
+      "zh": "弥赛亚来临时会发生什么?详细的预言画面",
+      "he": "מה יקרה כשמשיח יבוא? תמונה מפורטת"
+    },
+    "section": "jewish-philosophy-big-questions",
+    "description": {
+      "en": "Gathering the exiles, rebuilding the Temple, universal peace, the resurrection — assembling the prophetic picture of the Messianic era from Jewish sources.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Moshiach",
+      "Messiah",
+      "Redemption",
+      "Prophetic Vision",
+      "Third Temple",
+      "Resurrection",
+      "Universal Peace",
+      "End of Days",
+      "Jewish Eschatology",
+      "Kibbutz Galuyot",
+      "Techiyat HaMetim",
+      "Maimonides",
+      "Isaiah",
+      "Datong",
+      "Confucian",
+      "Jewish Philosophy",
+      "Big Questions",
+      "Hope",
+      "Prophecy",
+      "Temple Mount",
+      "World to Come",
+      "弥赛亚",
+      "救赎",
+      "复活",
+      "大同",
+      "儒家",
+      "משיח",
+      "גאולה",
+      "תחיית המתים"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "jewish-philosophy-big-questions/348-what-happens-when-moshiach-comes/metadata.json"
   }
 ]
