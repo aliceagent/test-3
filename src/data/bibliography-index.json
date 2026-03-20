@@ -1217,7 +1217,11 @@
       "he": "ארבעת המינים: כיצד לבחור ולהשתמש בהם"
     },
     "section": "holidays",
-    "description": "A guide to selecting the lulav, etrog, hadas, and arava — and the waving ritual performed during Sukkot.",
+    "description": {
+      "en": "A guide to selecting the lulav, etrog, hadas, and arava — and the waving ritual performed during Sukkot.",
+      "zh": "如何挑选芦拉枝、香橼、桃金娘和柳枝——以及住棚节期间的挥舞仪式指南。",
+      "he": "מדריך לבחירת לולב, אתרוג, הדס וערבה — וטקס הנענועים בסוכות."
+    },
     "tags": [
       "Sukkot",
       "Four Species",
@@ -1252,7 +1256,11 @@
       "he": ""
     },
     "section": "holidays",
-    "description": "Why Jews study Torah all night on Shavuot, the connection to the Book of Ruth, and the custom of eating dairy foods.",
+    "description": {
+      "en": "Why Jews study Torah all night on Shavuot, the connection to the Book of Ruth, and the custom of eating dairy foods.",
+      "zh": "为什么犹太人在七七节通宵学习Torah、与《路得记》的关联，以及吃奶制品的习俗。",
+      "he": "מדוע יהודים לומדים תורה כל הלילה בשבועות, הקשר למגילת רות, ומנהג אכילת מאכלי חלב."
+    },
     "tags": [
       "Shavuot",
       "TorahStudy",
@@ -1287,7 +1295,11 @@
       "he": "מהי ציונות? נקודת מבט יהודית"
     },
     "section": "",
-    "description": "An exploration of Zionism from a Jewish perspective — its biblical roots, historical development, and theological significance.",
+    "description": {
+      "en": "An exploration of Zionism from a Jewish perspective — its biblical roots, historical development, and theological significance.",
+      "zh": "从犹太视角探索犹太复国主义——其圣经根源、历史发展和神学意义。",
+      "he": "חקירת הציונות מנקודת מבט יהודית — שורשיה המקראיים, התפתחותה ההיסטורית, ומשמעותה התיאולוגית."
+    },
     "tags": [
       "zionism",
       "israel",
@@ -1320,7 +1332,11 @@
       "he": "אברהם: היהודי הראשון ומה שלימד את העולם"
     },
     "section": "",
-    "description": "The story of Abraham, the founding father of the Jewish people, his discovery of monotheism, and the enduring lessons of his life for modern seekers.",
+    "description": {
+      "en": "The story of Abraham, the founding father of the Jewish people, his discovery of monotheism, and the enduring lessons of his life for modern seekers.",
+      "zh": "犹太民族始祖亚伯拉罕的故事、他对一神论的发现，以及他一生对现代求道者的恒久教诲。",
+      "he": "סיפורו של אברהם, אבי האומה היהודית, גילוי האמונה באל אחד, והלקחים הנצחיים מחייו למחפשים בימינו."
+    },
     "tags": [
       "abraham",
       "avraham",
@@ -1353,7 +1369,11 @@
       "he": ""
     },
     "section": "passover-seder",
-    "description": "Everything you need to run or attend your first Seder — from the Seder plate to the Four Questions to finding the afikoman.",
+    "description": {
+      "en": "Everything you need to run or attend your first Seder — from the Seder plate to the Four Questions to finding the afikoman.",
+      "zh": "参加或主持第一次家宴所需的一切——从Seder盘到四个问题再到寻找afikoman。",
+      "he": "כל מה שצריך כדי לנהל או להשתתף בסדר הראשון שלכם — מצלחת הסדר לארבע הקושיות ועד מציאת האפיקומן."
+    },
     "tags": [
       "#Passover",
       "#Seder",
@@ -1404,7 +1424,11 @@
       "he": "ניקיון לפסח: המדריך המלא להסרת חמץ"
     },
     "section": "passover-seder",
-    "description": "Room-by-room guide to searching for and removing chametz before Passover, including bedikat chametz and selling chametz.",
+    "description": {
+      "en": "Room-by-room guide to searching for and removing chametz before Passover, including bedikat chametz and selling chametz.",
+      "zh": "逾越节前逐房搜索和清除酵母的指南，包括搜查酵母和出售酵母的仪式。",
+      "he": "מדריך חדר-אחר-חדר לחיפוש והסרת חמץ לפני פסח, כולל בדיקת חמץ ומכירת חמץ."
+    },
     "tags": [
       "Passover",
       "Pesach",
@@ -1441,7 +1465,11 @@
       "he": "האם אלוהים קיים? הטיעונים הפילוסופיים היהודיים"
     },
     "section": "philosophy",
-    "description": "A survey of classical and modern arguments for God's existence from Rambam, the Kuzari, and contemporary thinkers.",
+    "description": {
+      "en": "A survey of classical and modern arguments for God's existence from Rambam, the Kuzari, and contemporary thinkers.",
+      "zh": "从Rambam、Kuzari和当代思想家的角度，概述关于上帝存在的经典和现代论证。",
+      "he": "סקירת הטיעונים הקלאסיים והמודרניים לקיום האל מהרמב\"ם, הכוזרי והוגים בני זמננו."
+    },
     "tags": [
       "Philosophy",
       "God",
@@ -1520,7 +1548,11 @@
       "he": ""
     },
     "section": "philosophy",
-    "description": "Understanding nefesh, ruach, neshamah, chayah, and yechidah — the five levels of the soul in Jewish mysticism.",
+    "description": {
+      "en": "Understanding nefesh, ruach, neshamah, chayah, and yechidah — the five levels of the soul in Jewish mysticism.",
+      "zh": "理解nefesh、ruach、neshamah、chayah和yechidah——犹太神秘主义中灵魂的五个层次。",
+      "he": "הבנת נפש, רוח, נשמה, חיה ויחידה — חמש דרגות הנשמה בקבלה."
+    },
     "tags": [
       "JewishSoul",
       "Neshamah",
@@ -1567,7 +1599,11 @@
       "he": ""
     },
     "section": "philosophy",
-    "description": "Exploring the seeming paradox of human choice and God's omniscience, as explained by Rambam and Chassidic thought.",
+    "description": {
+      "en": "Exploring the seeming paradox of human choice and God's omniscience, as explained by Rambam and Chassidic thought.",
+      "zh": "探索人类自由选择与上帝全知之间看似矛盾的关系，以Rambam和哈西迪思想的解释。",
+      "he": "חקירת הפרדוקס לכאורה בין בחירה חופשית לידיעת ה', כפי שמוסבר ברמב\"ם ובחסידות."
+    },
     "tags": [
       "FreeWill",
       "DivineProvidence",
@@ -1623,7 +1659,11 @@
       "he": ""
     },
     "section": "jewish-texts",
-    "description": "A chapter-by-chapter overview of Tanya's first section (Likutei Amarim), written for absolute beginners.",
+    "description": {
+      "en": "A chapter-by-chapter overview of Tanya's first section (Likutei Amarim), written for absolute beginners.",
+      "zh": "Tanya第一部分（Likutei Amarim）的逐章概述，专为初学者撰写。",
+      "he": "סקירה פרק-אחר-פרק של החלק הראשון בתניא (ליקוטי אמרים), כתובה למתחילים מוחלטים."
+    },
     "tags": [
       "Tanya",
       "Chabad",
@@ -1657,7 +1697,11 @@
       "he": ""
     },
     "section": "mussar",
-    "description": "A fascinating comparison between Jewish mussar teachings and Confucian self-cultivation, finding common ground between two ancient traditions.",
+    "description": {
+      "en": "A fascinating comparison between Jewish mussar teachings and Confucian self-cultivation, finding common ground between two ancient traditions.",
+      "zh": "犹太穆萨尔（品德修养）教义与儒家修身之道的精彩对比，寻找两大古老传统的共同点。",
+      "he": "השוואה מרתקת בין תורת המוסר היהודית לדרך ההשתלמות הקונפוציאנית, ומציאת מכנה משותף בין שני מסורות עתיקות."
+    },
     "tags": [
       "#Mussar",
       "#Confucianism",
@@ -1694,7 +1738,11 @@
       "he": ""
     },
     "section": "mussar",
-    "description": "A practical guide to the seven foundational character traits in Jewish thought: chesed, gevurah, tiferet, netzach, hod, yesod, malchut.",
+    "description": {
+      "en": "A practical guide to the seven foundational character traits in Jewish thought: chesed, gevurah, tiferet, netzach, hod, yesod, malchut.",
+      "zh": "犹太思想中七种基本品格特质的实用指南：仁慈、刚毅、和谐、持久、谦卑、根基、实现。",
+      "he": "מדריך מעשי לשבע המידות היסודיות במחשבה יהודית: חסד, גבורה, תפארת, נצח, הוד, יסוד, מלכות."
+    },
     "tags": [
       "Middot",
       "SevenMiddot",
@@ -1748,7 +1796,11 @@
       "he": "תורה ומדע: האם הם תואמים?"
     },
     "section": "",
-    "description": "Exploring how Jewish thought reconciles Torah with scientific discovery, from medieval sages to modern thinkers",
+    "description": {
+      "en": "Exploring how Jewish thought reconciles Torah with scientific discovery, from medieval sages to modern thinkers.",
+      "zh": "探索犹太思想如何调和Torah与科学发现——从中世纪圣人到现代思想家。",
+      "he": "כיצד המחשבה היהודית מפשרת בין תורה למדע, מחכמי ימי הביניים ועד הוגים בני זמננו."
+    },
     "tags": [
       "Torah",
       "Science",
@@ -1782,7 +1834,11 @@
       "he": ""
     },
     "section": "pirkei-avot",
-    "description": "A comprehensive exploration of Pirkei Avot Chapter 1, tracing the unbroken chain of Torah transmission from Moses at Sinai through the sages of the Mishnah, with parallels to Chinese philosophical traditions.",
+    "description": {
+      "en": "A comprehensive exploration of Pirkei Avot Chapter 1, tracing the unbroken chain of Torah transmission from Moses at Sinai through the sages of the Mishnah, with parallels to Chinese philosophical traditions.",
+      "zh": "深入探索《父辈的伦理》第一章，追溯从摩西在西奈山到密示拿圣人之间不间断的Torah传承链，并与中国哲学传统进行对比。",
+      "he": "חקירה מקיפה של פרקי אבות פרק א', העוקבת אחר שלשלת מסירת התורה הרציפה ממשה בסיני דרך חכמי המשנה, עם הקבלות למסורות הפילוסופיות הסיניות."
+    },
     "tags": [
       "PirkeiAvot",
       "EthicsOfTheFathers",
@@ -1824,7 +1880,11 @@
       "he": ""
     },
     "section": "jews-in-asia",
-    "description": "The complete history of the Jewish community of Kaifeng from the Song Dynasty to the present-day descendants.",
+    "description": {
+      "en": "The complete history of the Jewish community of Kaifeng from the Song Dynasty to the present-day descendants.",
+      "zh": "开封犹太社区从宋朝到当代后裔的完整历史。",
+      "he": "ההיסטוריה המלאה של הקהילה היהודית בקאיפנג משושלת סונג ועד צאצאי ימינו."
+    },
     "tags": [
       "KaifengJews",
       "ChineseJews",
@@ -1861,7 +1921,11 @@
       "he": ""
     },
     "section": "jewish-history",
-    "description": "An essential overview of the Shoah — how it happened, the six million, resistance, and why we say 'Never Again.'",
+    "description": {
+      "en": "An essential overview of the Shoah — how it happened, the six million, resistance, and why we say 'Never Again.'",
+      "zh": "大屠杀的基本概述——它是如何发生的、六百万遇难者、抵抗运动，以及我们为何说"永不再犯"。",
+      "he": "סקירה חיונית על השואה — כיצד קרתה, ששת המיליונים, ההתנגדות, ולמה אנו אומרים 'לעולם לא עוד'."
+    },
     "tags": [
       "Holocaust",
       "Shoah",
