@@ -4842,5 +4842,915 @@
     "chinese_dynasty_references": [],
     "status": "complete",
     "filePath": "holidays/335-chol-hamoed-intermediate-days/metadata.json"
+  },
+  {
+    "id": 200,
+    "title": {
+      "en": "Shabbat Hosting 101: How to Invite Guests and Run a Beautiful Meal",
+      "zh": "安息日待客指南:如何邀请客人并举办美好的聚餐",
+      "he": "אירוח בשבת 101: כיצד להזמין אורחים ולנהל סעודה יפה"
+    },
+    "section": "shabbat",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Shabbat",
+      "Hosting",
+      "Invite",
+      "Guests",
+      "Run",
+      "Beautiful",
+      "Meal"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "shabbat/200-shabbat-hosting-guide/metadata.json"
+  },
+  {
+    "id": 201,
+    "title": {
+      "en": "Shabbat Electricity: What's Really Forbidden and Why",
+      "zh": "安息日与电力:究竟禁止什么,为什么",
+      "he": "שבת וחשמל: מה באמת אסור ולמה"
+    },
+    "section": "shabbat",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Shabbat",
+      "Electricity",
+      "What's",
+      "Really",
+      "Forbidden"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "shabbat/201-shabbat-electricity-forbidden/metadata.json"
+  },
+  {
+    "id": 202,
+    "title": {
+      "en": "The Shabbat Elevator: How It Works and When You Can Use It",
+      "zh": "安息日电梯:工作原理与使用指南",
+      "he": "מעלית שבת: איך זה עובד ומתי אפשר להשתמש בה"
+    },
+    "section": "shabbat",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "shabbat",
+      "technology",
+      "halacha",
+      "electricity",
+      "modern-life",
+      "melachot"
+    ],
+    "sources": [
+      "zomet.org.il"
+    ],
+    "cultural_parallels": [
+      "Tang Dynasty xiūmù (休沐) rest days compared to Shabbat concept",
+      "Chinese cultural respect for rest and renewal"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "shabbat/202-shabbat-elevator-guide/metadata.json"
+  },
+  {
+    "id": 203,
+    "title": {
+      "en": "Shabbat in the Summer vs. Winter: Adjusting When Days Are Long or Short",
+      "zh": "夏季与冬季的安息日:当白昼长短变化时如何调整",
+      "he": "שבת בקיץ מול חורף: התאמה כאשר הימים ארוכים או קצרים"
+    },
+    "section": "shabbat",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Shabbat",
+      "Summer",
+      "Winter",
+      "Adjusting",
+      "Days",
+      "Are",
+      "Long",
+      "Short"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "published",
+    "filePath": "shabbat/203-shabbat-summer-winter/metadata.json"
+  },
+  {
+    "id": 204,
+    "title": {
+      "en": "Muktzeh: The Things You Can't Move on Shabbat",
+      "zh": "穆克茨(Muktzeh):安息日不可移动之物",
+      "he": "מוקצה: הדברים שאסור להזיז בשבת"
+    },
+    "section": "shabbat",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Shabbat",
+      "Muktzeh",
+      "Things",
+      "Can't",
+      "Move"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Song Dynasty scholar's study separation",
+      "Chinese tea ceremony boundaries",
+      "Daoist wu wei (non-action) principle",
+      "Zhou Dunyi's taiji (Supreme Ultimate)",
+      "Zhuangzi's useless tree parable",
+      "Traditional craft guild material segregation",
+      "Lian zuo (association determines status) concept"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "shabbat/204-muktzeh-guide/metadata.json"
+  },
+  {
+    "id": 205,
+    "title": {
+      "en": "Eruv: The Invisible Boundary That Changes Shabbat",
+      "zh": "爱鲁夫:改变安息日的无形边界",
+      "he": "עירוב: הגבול הבלתי נראה שמשנה את השבת"
+    },
+    "section": "shabbat",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "shabbat",
+      "eruv",
+      "halacha",
+      "carrying",
+      "community",
+      "urban-judaism",
+      "jewish-law",
+      "public-domain",
+      "private-domain"
+    ],
+    "sources": [
+      "https://www.sefaria.org/Eruvin",
+      "https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim",
+      "https://www.chabad.org/library/article_cdo/aid/1519892/"
+    ],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "shabbat/205-eruv-explained/metadata.json"
+  },
+  {
+    "id": 206,
+    "title": {
+      "en": "Melaveh Malkah: The Meal That Escorts the Shabbat Queen",
+      "zh": "梅拉维·玛尔卡：送别安息日女王的晚餐",
+      "he": "מלווה מלכה: הסעודה המלווה את מלכת השבת"
+    },
+    "section": "shabbat",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "shabbat",
+      "melaveh-malkah",
+      "saturday-night",
+      "havdalah",
+      "chassidus",
+      "david-hamelech",
+      "customs",
+      "fourth-meal",
+      "transitions",
+      "jewish-time"
+    ],
+    "sources": [
+      "Talmud Bavli, Tractate Shabbat 119b",
+      "Shulchan Aruch, Orach Chaim 300:1-2",
+      "Kitzur Shulchan Aruch 96:1",
+      "Zohar, Parashat Terumah",
+      "Sefer HaMinhagim Chabad"
+    ],
+    "cultural_parallels": [
+      "Chinese 送客 (sòng kè) - escorting guests tradition",
+      "Chinese 聚会 (jùhuì) - extending gatherings late into night",
+      "Japanese 二次会 (nijikai) - second party tradition",
+      "Middle Eastern extended tea service customs"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "shabbat/206-melaveh-malkah/metadata.json"
+  },
+  {
+    "id": 207,
+    "title": {
+      "en": "Teaching Children to Love Shabbat: Practical Tips by Age Group",
+      "zh": "教导孩子热爱安息日:按年龄段的实用建议",
+      "he": "לימוד ילדים לאהוב את השבת: עצות מעשיות לפי קבוצות גיל"
+    },
+    "section": "shabbat",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Shabbat",
+      "Sensory-rich Shabbat for toddlers",
+      "Meaningful roles for young children",
+      "Intellectual engagement for pre-teens",
+      "Teen autonomy and meaning-making",
+      "Gradual implementation",
+      "Consistency over perfection",
+      "Positive associations with Shabbat",
+      "Teaching",
+      "Children",
+      "Love",
+      "Practical",
+      "Tips",
+      "Age",
+      "Group"
+    ],
+    "sources": [
+      "https://www.chabad.org/library/article_cdo/aid/258549/jewish/Teaching-Children-About-Shabbat.htm",
+      "https://www.aish.com/sh/kg/48890752/",
+      "https://torah.org/learning/parsha/shabbat-family/"
+    ],
+    "cultural_parallels": [
+      "Chinese New Year sensory markers for early childhood",
+      "Traditional Chinese education: rote learning to textual analysis",
+      "Chinese coming-of-age traditions and responsibility",
+      "Family ritual transmission across cultures"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "shabbat/207-children-shabbat-tips/metadata.json"
+  },
+  {
+    "id": 208,
+    "title": {
+      "en": "Shabbat Games and Activities: Fun Without Screens",
+      "zh": "安息日游戏与活动：没有屏幕的快乐",
+      "he": "משחקים ופעילויות בשבת: כיף ללא מסכים"
+    },
+    "section": "shabbat",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "shabbat",
+      "family",
+      "children",
+      "games",
+      "activities",
+      "technology",
+      "parenting",
+      "screen-free",
+      "Jewish education"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "shabbat/208-shabbat-games-activities/metadata.json"
+  },
+  {
+    "id": 209,
+    "title": {
+      "en": "Cooking for Shabbat on a Budget: Delicious Meals Without Breaking the Bank",
+      "zh": "安息日预算烹饪：美味不贵的节日餐桌",
+      "he": "בישול לשבת בתקציב: ארוחות טעימות בלי לשבור את הכיס"
+    },
+    "section": "shabbat",
+    "description": {
+      "en": "A practical guide to preparing beautiful, meaningful Shabbat meals on a limited budget, with recipes, shopping strategies, and spiritual perspectives on hospitality and abundance.",
+      "zh": "在有限预算下准备美丽、有意义的安息日餐食的实用指南，包含食谱、购物策略和关于款待与丰盛的精神观点。",
+      "he": "מדריך מעשי להכנת ארוחות שבת יפות ומשמעותיות בתקציב מוגבל, עם מתכונים, אסטרטגיות קניות ונקודות מבט רוחניות על הכנסת אורחים ושפע."
+    },
+    "tags": [
+      "Shabbat",
+      "Cooking",
+      "Budget",
+      "Delicious",
+      "Meals",
+      "Without",
+      "Breaking",
+      "Bank"
+    ],
+    "sources": [
+      "https://www.chabad.org/library/article_cdo/aid/633659/jewish/The-Shabbat-Table.htm",
+      "https://www.aish.com/sh/s/Shabbat-Dinner-on-a-Budget.html"
+    ],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "completed",
+    "filePath": "shabbat/209-shabbat-budget-cooking/metadata.json"
+  },
+  {
+    "id": 210,
+    "title": {
+      "en": "The Spiritual Power of Shabbat Rest: Why Doing Nothing Is Doing Everything",
+      "zh": "安息日静止的灵性力量：为什么什么都不做就是做一切",
+      "he": "הכוח הרוחני של מנוחת השבת: למה לא לעשות כלום זה לעשות הכל"
+    },
+    "section": "shabbat",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "shabbat",
+      "rest",
+      "spirituality",
+      "menuchah",
+      "neshamah-yeteirah",
+      "heschel",
+      "wu-wei",
+      "meditation",
+      "mindfulness"
+    ],
+    "sources": [
+      "https://www.sefaria.org/Genesis.2.1-3",
+      "https://www.sefaria.org/Beitzah.16a",
+      "https://www.sefaria.org/Zohar.2.88b",
+      "https://www.aish.com/shabbat/",
+      "https://www.chabad.org/library/article_cdo/aid/633659/jewish/Shabbat.htm"
+    ],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "shabbat/210-shabbat-rest-spiritual/metadata.json"
+  },
+  {
+    "id": 211,
+    "title": {
+      "en": "Shabbat for Night-Shift Workers and Medical Professionals",
+      "zh": "夜班工作者和医护人员的安息日",
+      "he": "שבת לעובדי משמרות לילה ואנשי מקצועות רפואיים"
+    },
+    "section": "shabbat",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Shabbat",
+      "Night-Shift",
+      "Workers",
+      "Medical",
+      "Professionals"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "completed",
+    "filePath": "shabbat/211-shabbat-medical-workers/metadata.json"
+  },
+  {
+    "id": 212,
+    "title": {
+      "en": "Zemiros Lyrics and Melodies: Learn the Songs of the Shabbat Table",
+      "zh": "安息日餐桌歌曲：学唱Zemiros（זְמִירוֹת）",
+      "he": "זמירות שבת: למד את שירי שולחן השבת"
+    },
+    "section": "shabbat",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Shabbat",
+      "Zemiros",
+      "Lyrics",
+      "Melodies",
+      "Learn",
+      "Songs",
+      "Table"
+    ],
+    "sources": [
+      "Birnbaum, Philip. Daily Prayer Book. Hebrew Publishing Company, 1949.",
+      "Eisenberg, Ronald L. The JPS Guide to Jewish Traditions. Jewish Publication Society, 2004.",
+      "Hoffman, Lawrence A. My People's Prayer Book: Traditional Prayers, Modern Commentaries. Jewish Lights Publishing, 1997.",
+      "Scherman, Nosson (ed.). The Complete ArtScroll Siddur. Mesorah Publications, 1984.",
+      "https://www.chabad.org/multimedia/music_cdo/aid/420857/jewish/Shabbat-Songs.htm",
+      "https://www.aish.com/shabbat/"
+    ],
+    "cultural_parallels": [
+      "Chinese family dining traditions",
+      "Folk song transmission across generations",
+      "Communal singing traditions"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "shabbat/212-zemiros-shabbat-songs/metadata.json"
+  },
+  {
+    "id": 301,
+    "title": {
+      "en": "Classic Ashkenazi Cholent: A Slow-Cooked Shabbat Stew",
+      "zh": "经典阿什肯纳兹炖肉(Cholent): 安息日慢炖美食",
+      "he": "צ'ולנט אשכנזי קלאסי: תבשיל שבת בבישול איטי"
+    },
+    "section": "shabbat",
+    "description": {
+      "en": "The quintessential Shabbat lunch dish — a step-by-step recipe with meat, beans, barley, and potatoes that cooks overnight on a hot plate.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Shabbat",
+      "Cholent",
+      "ShabbatMeals",
+      "OnegShabbat",
+      "AskenazicCuisine",
+      "JewishCooking",
+      "SlowCooking",
+      "Halacha",
+      "ShabbatObservance",
+      "JewishTraditions",
+      "ComfortFood",
+      "安息日",
+      "炖肉",
+      "安息日餐食",
+      "安息日喜悦",
+      "阿什肯纳兹美食",
+      "犹太烹饪",
+      "慢炖",
+      "律法",
+      "安息日遵守",
+      "犹太传统",
+      "慰藉食物",
+      "宋朝",
+      "明朝",
+      "犹太传统",
+      "שבת",
+      "צ'ולנט",
+      "סעודותשבת",
+      "עונגשבת",
+      "מטבחאשכנזי",
+      "בישולייהודי",
+      "בישולאיטי",
+      "הלכה",
+      "שמירתשבת",
+      "מסורותיהודיות",
+      "אוכלנחמה"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Chinese slow-cooking philosophy (慢工出细活)",
+      "Old fire soup (老火汤) tradition - hours of patient simmering",
+      "Confucian concept of gradual accumulation (厚积薄发)",
+      "Daoist principle of wu wei (无为而治) - non-interference with natural processes",
+      "Buddhist gradual enlightenment (渐悟)",
+      "Community food sharing traditions (年夜饭, 中秋聚餐)",
+      "Neighborhood mutual aid and collective warmth (邻里互助)",
+      "Festival foods as cultural bonds (节日美食)"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "shabbat/301-classic-ashkenazi-cholent/metadata.json"
+  },
+  {
+    "id": 302,
+    "title": {
+      "en": "Sephardi Chamin and Dafina: Shabbat Stews from the Mediterranean",
+      "zh": "塞法迪哈明和达菲娜:地中海安息日炖菜",
+      "he": "חמין וטפינה ספרדיים: תבשילי שבת ממרחב הים התיכון"
+    },
+    "section": "shabbat",
+    "description": {
+      "en": "Recipes for the Sephardi and Moroccan versions of the overnight Shabbat stew, featuring rice, chickpeas, eggs, and warming spices.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Shabbat",
+      "SephardiCuisine",
+      "MoroccanJewish",
+      "Chamin",
+      "Dafina",
+      "ShabbatStew",
+      "SlowCooking",
+      "KosherFood",
+      "JewishLaw",
+      "MediterraneanJewish",
+      "NorthAfricanJewish",
+      "沙巴特",
+      "犹太美食",
+      "慢炖",
+      "地中海",
+      "摩洛哥",
+      "香料",
+      "米饭",
+      "鸡豆",
+      "שבת",
+      "מטבחספרדי",
+      "יהדותמרוקאית",
+      "חמין",
+      "טפינה"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Chinese clay pot cooking (砂锅)",
+      "Beggar's chicken (叫花鸡)",
+      "Chinese medicinal food principles (药膳同源)",
+      "Tang Dynasty spice trade",
+      "Silk Road cultural exchange"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "shabbat/302-sephardi-chamin-dafina/metadata.json"
+  },
+  {
+    "id": 303,
+    "title": {
+      "en": "Five Challah Shapes and What They Symbolize",
+      "zh": "五种辫子面包的形状及其象征意义",
+      "he": "חמישה צורות חלה ומשמעותן הסמלית"
+    },
+    "section": "shabbat",
+    "description": {
+      "en": "Round for Rosh Hashana, braided for Shabbat, key-shaped for after Pesach — learn the shapes, their meanings, and how to form each one.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Challah",
+      "Shabbat",
+      "JewishBaking",
+      "Braiding",
+      "RoundChallah",
+      "KeyChallah",
+      "LadderChallah",
+      "CrownChallah",
+      "RoshHashana",
+      "Passover",
+      "YomKippur",
+      "ShabbatShuvah",
+      "JewishSymbolism",
+      "HafrashatChallah",
+      "Mitzvah",
+      "JewishFood",
+      "Tradition",
+      "ShabbatTable",
+      "ChineseJewishParallels",
+      "中国结",
+      "安息日",
+      "面包",
+      "传统",
+      "象征意义",
+      "חלה",
+      "שבת",
+      "אפייה_יהודית"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Chinese knot-tying (中国结) and braiding as symbols of unity",
+      "Cyclical time in Chinese philosophy and Jewish calendar",
+      "Red envelopes and symbolic foods for blessing and prosperity",
+      "Phoenix crown (凤冠) and crown-shaped challah as symbols of honor"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "shabbat/303-five-challah-shapes/metadata.json"
+  },
+  {
+    "id": 304,
+    "title": {
+      "en": "Shabbat Salads: 10 Make-Ahead Recipes for the Friday Night Table",
+      "zh": "安息日沙拉：周五晚餐餐桌上的10道预制菜谱",
+      "he": "סלטים לשבת: 10 מתכונים להכנה מראש לשולחן יום שישי בערב"
+    },
+    "section": "shabbat",
+    "description": {
+      "en": "Israeli salad, Moroccan carrot salad, matbucha, coleslaw, and more — all prepared before Shabbat and served cold or at room temperature.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Shabbat",
+      "ShabbatMeals",
+      "KosherFood",
+      "MakeAheadRecipes",
+      "IsraeliSalad",
+      "MoroccanCarrotSalad",
+      "Matbucha",
+      "Coleslaw",
+      "Tabbouleh",
+      "SaladsForShabbat",
+      "OnegShabbat",
+      "HalachaAndCooking",
+      "Borer",
+      "ChineseJewishBridge",
+      "FridayNightDinner",
+      "ShabbatPreparation",
+      "SephardiCuisine",
+      "AshkenaziCuisine"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "shabbat/304-shabbat-salads/metadata.json"
+  },
+  {
+    "id": 305,
+    "title": {
+      "en": "The Blech and the Hot Plate: Keeping Food Warm on Shabbat",
+      "zh": "金属盖板与电热板：如何在安息日保持食物温热",
+      "he": "הבלך והפלטה החשמלית: שמירה על אוכל חם בשבת"
+    },
+    "section": "shabbat",
+    "description": {
+      "en": "The halachic requirements for keeping food warm on Shabbat, how to use a blech or hot plate properly, and what foods can be reheated.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Shabbat",
+      "Blech",
+      "HotPlate",
+      "Chazara",
+      "Bishul",
+      "KosherKitchen",
+      "Cholent",
+      "ShabbatMeals",
+      "Halacha",
+      "ShabbatPreparation",
+      "ShabbatCooking",
+      "JewishLaw",
+      "准备",
+      "安息日",
+      "犹太律法"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "shabbat/305-blech-hot-plate-shabbat/metadata.json"
+  },
+  {
+    "id": 306,
+    "title": {
+      "en": "Shabbat Desserts That Don't Need an Oven",
+      "zh": "安息日甜点：无需烤箱的美味",
+      "he": "קינוחי שבת שלא צריכים תנור"
+    },
+    "section": "shabbat",
+    "description": {
+      "en": "No-bake cakes, mousse, fruit compotes, and other desserts you can prepare before Shabbat — including Asian-inspired options with mochi and red bean.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Shabbat",
+      "ShabbatFood",
+      "NoBakeDesserts",
+      "OnegShabbat",
+      "ShabbatPreparation",
+      "KosherDesserts",
+      "Bishul",
+      "39Melachot",
+      "Menucha",
+      "ShabbatJoy",
+      "AsianJewishFusion",
+      "Mochi",
+      "Malabi",
+      "Tiramisu",
+      "ChocolateMousse",
+      "FruitCompote",
+      "Hospitality",
+      "HachmasatOrchim",
+      "安息日",
+      "犹太甜点",
+      "休息",
+      "שבת",
+      "אוכלשבת",
+      "קינוחיםללאאפייה"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Chinese tangshui (糖水) sweet soups",
+      "Japanese mochi desserts",
+      "Chinese red bean soup (hongdou tang 红豆汤)",
+      "Thai mango sticky rice",
+      "Tofu-based desserts"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "shabbat/306-shabbat-desserts-no-oven/metadata.json"
+  },
+  {
+    "id": 307,
+    "title": {
+      "en": "Oneg Shabbat: How to Create Joy on the Sabbath",
+      "zh": "安息日之乐:如何在安息日创造喜悦",
+      "he": "עונג שבת: כיצד ליצור שמחה בשבת"
+    },
+    "section": "shabbat",
+    "description": {
+      "en": "The mitzvah of enjoying Shabbat — through food, rest, intimacy, Torah study, and family time — and why pleasure is a commandment.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "OnegShabbat",
+      "ShabbatJoy",
+      "SabbathDelight",
+      "Shabbat",
+      "Rest",
+      "Menucha",
+      "Torah",
+      "FestiveMeals",
+      "Challah",
+      "Kiddush",
+      "Holiness",
+      "JewishLaw",
+      "Mitzvah",
+      "IsaiahProphet",
+      "Talmud",
+      "ShulchanAruch",
+      "Zohar",
+      "Chassidism",
+      "ChineseJewishBridge",
+      "宋朝",
+      "阴阳",
+      "年夜饭",
+      "安息日"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Chinese New Year feast (年夜饭) and Shabbat meals",
+      "Daoist yin-yang harmony and body-soul unity",
+      "Ming-Qing literati joy in refined pursuits and Torah study delight",
+      "Song Dynasty landscape painting aesthetic"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "shabbat/307-oneg-shabbat-create-joy-sabbath/metadata.json"
+  },
+  {
+    "id": 308,
+    "title": {
+      "en": "Shabbat Nap: The Holiest Sleep of the Week",
+      "zh": "安息日午睡：一周中最神圣的睡眠",
+      "he": "תנומת שבת: השינה הקדושה ביותר של השבוע"
+    },
+    "section": "shabbat",
+    "description": {
+      "en": "The tradition and spiritual value of the Shabbat afternoon rest, and why menucha (rest) is considered a gift from God to the Jewish people.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Shabbat",
+      "Menucha",
+      "Rest",
+      "ShabbatNap",
+      "OnegShabbat",
+      "NeshamaYeteira",
+      "SpiritualPractice",
+      "JewishLiving",
+      "Faith",
+      "Trust",
+      "DivineGift",
+      "Countercultural",
+      "安息日",
+      "休息",
+      "灵性实践",
+      "犹太生活",
+      "שבת",
+      "מנוחה",
+      "תנומה",
+      "עונגשבת",
+      "נשמהיתירה"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Wu wei (無為) - Daoist non-action",
+      "Yin and Yang balance",
+      "Xiaoji (孝) - filial piety and rest for elders",
+      "Traditional Chinese medicine's afternoon meridian",
+      "Dao De Jing on non-action"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "shabbat/308-shabbat-nap/metadata.json"
+  },
+  {
+    "id": 309,
+    "title": {
+      "en": "When Shabbat and a Holiday Overlap: Special Rules and Prayers",
+      "zh": "当安息日与节日重叠时:特殊规则与祷告",
+      "he": "כאשר שבת ויום טוב חופפים: כללים מיוחדים ותפילות"
+    },
+    "section": "shabbat",
+    "description": {
+      "en": "What changes when Yom Tov falls on Shabbat — kiddush, havdalah, candle lighting, and the combined prayers.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Shabbat",
+      "YomTov",
+      "Holidays",
+      "Kiddush",
+      "Havdalah",
+      "CandleLighting",
+      "EruvTavshilin",
+      "JewishLaw",
+      "Halacha",
+      "Prayer",
+      "ShabbatAndHolidays",
+      "SacredTime",
+      "JewishCalendar",
+      "Passover",
+      "Sukkot",
+      "Shavuot",
+      "ThreeDayYomTov",
+      "时间周期",
+      "神圣时刻",
+      "犹太律法",
+      "安息日",
+      "节日",
+      "祷告",
+      "律法",
+      "שבת",
+      "יוםטוב",
+      "חגים",
+      "קידוש",
+      "הבדלה",
+      "הלכה",
+      "תפילה"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Chinese calendar convergences",
+      "Solar terms (节气) overlapping with lunar months",
+      "Cyclical time concepts in Chinese philosophy",
+      "Auspicious calendar alignments"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "shabbat/309-shabbat-yom-tov-overlap/metadata.json"
+  },
+  {
+    "id": 310,
+    "title": {
+      "en": "Hosting Non-Jewish Friends for Shabbat Dinner: A Guide",
+      "zh": "邀请非犹太朋友参加安息日晚餐：完整指南",
+      "he": "אירוח חברים לא-יהודים לסעודת שבת: מדריך"
+    },
+    "section": "shabbat",
+    "description": {
+      "en": "How to invite non-Jewish friends for a Shabbat meal, what to explain, how to make them comfortable, and etiquette around blessings and rituals.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Shabbat",
+      "Hosting",
+      "Non-Jewish",
+      "Friends",
+      "Dinner",
+      "Guide"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "shabbat/310-hosting-non-jewish-friends-shabbat/metadata.json"
   }
 ]
