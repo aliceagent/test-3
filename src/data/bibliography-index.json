@@ -288,143 +288,6 @@
     "filePath": "blessings/037-birkat-hamazon-grace-after-meals/metadata.json"
   },
   {
-    "id": null,
-    "title": {
-      "en": "Jewish Mentorship: How a Teacher-Student Relationship Works in Judaism",
-      "zh": "犹太导师制:犹太教中师生关系的运作方式",
-      "he": "חניכות יהודית: כיצד פועל קשר רב-תלמיד ביהדות"
-    },
-    "section": "mentorship",
-    "description": "",
-    "tags": [
-      "Mentorship",
-      "RavTalmid",
-      "TorahStudy",
-      "JewishEducation",
-      "MosesAndJoshua",
-      "ElijahAndElisha",
-      "Mesorah",
-      "ChainOfTradition",
-      "Shimush",
-      "DerechEretz",
-      "师生关系",
-      "传统",
-      "道统",
-      "ChineseCulture",
-      "Confucianism",
-      "Daoism"
-    ],
-    "sources": [],
-    "cultural_parallels": [],
-    "chinese_dynasty_references": [],
-    "status": "completed",
-    "filePath": "community/062-mentorship/metadata.json"
-  },
-  {
-    "id": null,
-    "title": {
-      "en": "Thinking About Converting? What You Need to Know First",
-      "zh": "考虑皈依犹太教?首先您需要了解这些",
-      "he": "חושבים להתגייר? מה שצריך לדעת תחילה"
-    },
-    "section": "conversion",
-    "description": "",
-    "tags": [
-      "Conversion",
-      "Judaism",
-      "Orthodox",
-      "BecomingJewish",
-      "Ruth",
-      "BeithDin",
-      "Mikvah",
-      "Gerim",
-      "KabbalatMitzvot",
-      "Shabbat",
-      "Kashrut",
-      "JewishIdentity",
-      "ConversionProcess",
-      "路得",
-      "皈依",
-      "犹太教",
-      "正统派",
-      "גיור",
-      "יהדות",
-      "אורתודוקסיה"
-    ],
-    "sources": [],
-    "cultural_parallels": [],
-    "chinese_dynasty_references": [],
-    "status": "ready_for_qa",
-    "filePath": "conversion/056-thinking-about-converting/metadata.json"
-  },
-  {
-    "id": null,
-    "title": {
-      "en": "Finding a Rabbi and Community When You Live in Asia",
-      "zh": "",
-      "he": ""
-    },
-    "section": "",
-    "description": "",
-    "tags": [
-      "Conversion",
-      "Community",
-      "Rabbis",
-      "Asia",
-      "Chabad",
-      "OnlineLearning"
-    ],
-    "sources": [],
-    "cultural_parallels": [],
-    "chinese_dynasty_references": [],
-    "status": "",
-    "filePath": "conversion/060-finding-rabbi-community-asia/metadata.json"
-  },
-  {
-    "id": null,
-    "title": {
-      "en": "Navigating Family Relationships When You Become Jewish",
-      "zh": "",
-      "he": ""
-    },
-    "section": "conversion",
-    "description": {
-      "en": "Sensitive guidance for maintaining loving relationships with non-Jewish family members during and after conversion.",
-      "zh": "在皈依过程中及之后，如何维护与非犹太家庭成员亲密关系的敏感指导。",
-      "he": "הדרכה רגישה לשמירה על יחסים אוהבים עם בני משפחה שאינם יהודים במהלך ואחרי הגיור."
-    },
-    "tags": [
-      "#Conversion",
-      "#FamilyRelationships",
-      "#HonoringParents",
-      "#Ruth",
-      "#Ger",
-      "#ConvertToJudaism",
-      "#孝",
-      "#FilialPiety",
-      "#ShulchanAruch",
-      "#Talmud",
-      "#NonJewishFamily",
-      "#ChineseJews",
-      "#Naomi",
-      "#BookOfRuth",
-      "#RabbiJosephCaro",
-      "#明朝",
-      "#西周",
-      "#汉朝",
-      "#Xiào",
-      "#ConfucianValues",
-      "#NewbornChild",
-      "#SpiritualRebirth",
-      "#JewishIdentity"
-    ],
-    "sources": [],
-    "cultural_parallels": [],
-    "chinese_dynasty_references": [],
-    "status": "complete",
-    "filePath": "conversion/064-navigating-family-relationships/metadata.json"
-  },
-  {
     "id": 14,
     "title": {
       "en": "The Shema: Understanding the Most Important Prayer in Judaism",
@@ -1180,36 +1043,6 @@
     "filePath": "conversion/100-first-year-jew/metadata.json"
   },
   {
-    "id": null,
-    "title": {
-      "en": "Building a Sukkah: A Practical Guide",
-      "zh": "",
-      "he": ""
-    },
-    "section": "holidays",
-    "description": "",
-    "tags": [
-      "Sukkot",
-      "Sukkah",
-      "BuildingSukkah",
-      "JewishHoliday",
-      "FallFestival",
-      "HarvestFestival",
-      "TemporaryDwelling",
-      "JewishLaw",
-      "HolidayObservance",
-      "住棚节",
-      "犹太节日",
-      "ShangDynasty",
-      "商朝"
-    ],
-    "sources": [],
-    "cultural_parallels": [],
-    "chinese_dynasty_references": [],
-    "status": "",
-    "filePath": "holidays/043-building-sukkah/metadata.json"
-  },
-  {
     "id": 44,
     "title": {
       "en": "The Four Species (Arba Minim): How to Choose and Use Them",
@@ -1247,119 +1080,6 @@
     "chinese_dynasty_references": [],
     "status": "completed",
     "filePath": "holidays/044-four-species/metadata.json"
-  },
-  {
-    "id": null,
-    "title": {
-      "en": "Shavuot: The Night We Stayed Up to Receive the Torah",
-      "zh": "",
-      "he": ""
-    },
-    "section": "holidays",
-    "description": {
-      "en": "Why Jews study Torah all night on Shavuot, the connection to the Book of Ruth, and the custom of eating dairy foods.",
-      "zh": "为什么犹太人在七七节通宵学习Torah、与《路得记》的关联，以及吃奶制品的习俗。",
-      "he": "מדוע יהודים לומדים תורה כל הלילה בשבועות, הקשר למגילת רות, ומנהג אכילת מאכלי חלב."
-    },
-    "tags": [
-      "Shavuot",
-      "TorahStudy",
-      "TikkunLeilShavuot",
-      "MountSinai",
-      "TenCommandments",
-      "BookOfRuth",
-      "Conversion",
-      "DairyFoods",
-      "JewishHolidays",
-      "NighttimeLearning",
-      "PhysicalAndSpiritual",
-      "Kabbalah",
-      "CommitmentToTorah",
-      "ChineseDynasties",
-      "商朝",
-      "学习",
-      "修身",
-      "犹太节日"
-    ],
-    "sources": [],
-    "cultural_parallels": [],
-    "chinese_dynasty_references": [],
-    "status": "draft_complete",
-    "filePath": "holidays/049-shavuot-the-night-we-stayed-up/metadata.json"
-  },
-  {
-    "id": null,
-    "title": {
-      "en": "What is Zionism? A Jewish Perspective",
-      "zh": "什么是犹太复国主义？犹太视角",
-      "he": "מהי ציונות? נקודת מבט יהודית"
-    },
-    "section": "",
-    "description": {
-      "en": "An exploration of Zionism from a Jewish perspective — its biblical roots, historical development, and theological significance.",
-      "zh": "从犹太视角探索犹太复国主义——其圣经根源、历史发展和神学意义。",
-      "he": "חקירת הציונות מנקודת מבט יהודית — שורשיה המקראיים, התפתחותה ההיסטורית, ומשמעותה התיאולוגית."
-    },
-    "tags": [
-      "zionism",
-      "israel",
-      "eretz-yisrael",
-      "jerusalem",
-      "zion",
-      "theodor-herzl",
-      "rav-kook",
-      "aliyah",
-      "diaspora",
-      "jewish-homeland",
-      "state-of-israel",
-      "jewish-history",
-      "modern-israel",
-      "犹太复国主义",
-      "以色列",
-      "耶路撒冷"
-    ],
-    "sources": [],
-    "cultural_parallels": [],
-    "chinese_dynasty_references": [],
-    "status": "published",
-    "filePath": "israel/087-what-is-zionism/metadata.json"
-  },
-  {
-    "id": null,
-    "title": {
-      "en": "Abraham: The First Jew and What He Taught the World",
-      "zh": "亚伯拉罕：第一个犹太人和他教导世界的",
-      "he": "אברהם: היהודי הראשון ומה שלימד את העולם"
-    },
-    "section": "",
-    "description": {
-      "en": "The story of Abraham, the founding father of the Jewish people, his discovery of monotheism, and the enduring lessons of his life for modern seekers.",
-      "zh": "犹太民族始祖亚伯拉罕的故事、他对一神论的发现，以及他一生对现代求道者的恒久教诲。",
-      "he": "סיפורו של אברהם, אבי האומה היהודית, גילוי האמונה באל אחד, והלקחים הנצחיים מחייו למחפשים בימינו."
-    },
-    "tags": [
-      "abraham",
-      "avraham",
-      "first-jew",
-      "monotheism",
-      "founding-father",
-      "idol-smashing",
-      "covenant",
-      "genesis",
-      "hospitality",
-      "binding-of-isaac",
-      "akedah",
-      "jewish-history",
-      "biblical-figures",
-      "亚伯拉罕",
-      "一神论",
-      "犹太历史"
-    ],
-    "sources": [],
-    "cultural_parallels": [],
-    "chinese_dynasty_references": [],
-    "status": "published",
-    "filePath": "jewish-history/081-abraham-first-jew/metadata.json"
   },
   {
     "id": 47,
@@ -1957,91 +1677,6 @@
     "filePath": "jewish-history/089-holocaust-essential-overview/metadata.json"
   },
   {
-    "id": null,
-    "title": {
-      "en": "The Spiritual Meaning Behind Keeping Kosher",
-      "zh": "",
-      "he": ""
-    },
-    "section": "kosher-food",
-    "description": "",
-    "tags": [
-      "Kashrut",
-      "KeepingKosher",
-      "JewishSpiritualPractice",
-      "DailyDiscipline",
-      "Holiness",
-      "Kedushah",
-      "PhysicalSpiritualUnity",
-      "MindfulEating",
-      "JewishPhilosophy",
-      "ReligiousLaw",
-      "SpiritualNutrition",
-      "养生",
-      "敬天",
-      "修身",
-      "慎独"
-    ],
-    "sources": [],
-    "cultural_parallels": [],
-    "chinese_dynasty_references": [],
-    "status": "",
-    "filePath": "kosher-food/027-spiritual-meaning-kashrut/metadata.json"
-  },
-  {
-    "id": null,
-    "title": {
-      "en": "The Noahide Laws: Judaism's Universal Moral Code",
-      "zh": "诺亚七律:犹太教的普世道德准则",
-      "he": "שבע מצוות בני נח: קוד המוסר האוניברסלי של היהדות"
-    },
-    "section": "",
-    "description": {
-      "en": "An exploration of the Seven Noahide Laws—Judaism's universal ethical code for all humanity, including comparisons with Chinese philosophy.",
-      "zh": "探索诺亚七律——犹太教面向全人类的普世伦理准则，并与中国哲学进行比较。",
-      "he": "חקירת שבע מצוות בני נח — הקוד המוסרי האוניברסלי של היהדות לכל האנושות, כולל השוואות לפילוסופיה סינית."
-    },
-    "tags": [],
-    "sources": [],
-    "cultural_parallels": [],
-    "chinese_dynasty_references": [],
-    "status": "published",
-    "filePath": "non-jewish-relations/061-noahide-laws/metadata.json"
-  },
-  {
-    "id": null,
-    "title": {
-      "en": "Does God Exist? The Jewish Philosophical Arguments",
-      "zh": "",
-      "he": "האם אלוהים קיים? הטיעונים הפילוסופיים היהודיים"
-    },
-    "section": "",
-    "description": {
-      "en": "Explore the major Jewish philosophical arguments for God's existence, from Maimonides' First Cause to the Kuzari's national revelation, the argument from design, morality, and consciousness.",
-      "zh": "探索犹太哲学关于上帝存在的主要论证——从Maimonides的第一因到Kuzari的民族启示、设计论证、道德论证和意识论证。",
-      "he": "חקירת הטיעונים הפילוסופיים היהודיים המרכזיים לקיום האל, מהסיבה הראשונה של הרמב\"ם להתגלות הלאומית בכוזרי, טיעון מהעיצוב, המוסר וההכרה."
-    },
-    "tags": [
-      "philosophy",
-      "god",
-      "existence",
-      "maimonides",
-      "rambam",
-      "kuzari",
-      "creation",
-      "design",
-      "morality",
-      "consciousness",
-      "reason-and-faith",
-      "torah-and-science"
-    ],
-    "sources": [],
-    "cultural_parallels": [],
-    "chinese_dynasty_references": [],
-    "status": "",
-    "filePath": "philosophy/066-does-god-exist/metadata.json"
-  },
-  {
     "id": 79,
     "title": {
       "en": "Who is Rich? One Who is Happy With Their Lot — Teachings from Pirkei Avot",
@@ -2091,88 +1726,6 @@
     "filePath": "pirkei-avot/079-who-is-rich-happy-with-lot/metadata.json"
   },
   {
-    "id": null,
-    "title": {
-      "en": "Modeh Ani: The First Words a Jew Says Every Morning",
-      "zh": "",
-      "he": ""
-    },
-    "section": "prayer",
-    "description": {
-      "en": "The meaning and practice of the Modeh Ani prayer, said immediately upon waking — even before getting out of bed.",
-      "zh": "Modeh Ani祈祷的含义和实践——醒来后立即诵读，甚至在起床之前。",
-      "he": "משמעות ומנהג תפילת מודה אני, הנאמרת מיד עם ההשכמה — עוד לפני הקימה מהמיטה."
-    },
-    "tags": [
-      "ModehAni",
-      "Prayer",
-      "MorningPractice",
-      "Gratitude",
-      "感恩",
-      "JewishWisdom",
-      "Daily",
-      "Routine",
-      "Mindfulness",
-      "正念",
-      "ChineseTradition",
-      "Confucius",
-      "孔子",
-      "Spirituality",
-      "Awakening",
-      "Renewal",
-      "MingDynasty",
-      "ShangDynasty",
-      "商朝"
-    ],
-    "sources": [],
-    "cultural_parallels": [
-      "Confucian daily self-examination (三省吾身)",
-      "Taoist morning qi cultivation",
-      "Buddhist merit dedication practices",
-      "Chinese filial piety traditions (孝)"
-    ],
-    "chinese_dynasty_references": [],
-    "status": "draft_complete",
-    "filePath": "prayer/028-modeh-ani/metadata.json"
-  },
-  {
-    "id": null,
-    "title": {
-      "en": "The Exodus: History's Greatest Liberation Story",
-      "zh": "出埃及记：历史上最伟大的解放故事",
-      "he": "יציאת מצרים: סיפור הגאולה הגדול בהיסטוריה"
-    },
-    "section": "",
-    "description": {
-      "en": "The foundational narrative of the Jewish people — the Exodus from Egypt — exploring its historical context, theological significance, and enduring impact on concepts of freedom and liberation.",
-      "zh": "犹太民族的奠基叙事——出埃及记——探索其历史背景、神学意义，以及对自由和解放概念的深远影响。",
-      "he": "הנרטיב המכונן של העם היהודי — יציאת מצרים — חקירת ההקשר ההיסטורי, המשמעות התיאולוגית, וההשפעה המתמשכת על מושגי החירות והגאולה."
-    },
-    "tags": [
-      "exodus",
-      "yetziat-mitzrayim",
-      "moses",
-      "passover",
-      "pesach",
-      "liberation",
-      "slavery",
-      "freedom",
-      "ten-plagues",
-      "red-sea",
-      "mt-sinai",
-      "torah",
-      "出埃及记",
-      "摩西",
-      "逾越节",
-      "自由"
-    ],
-    "sources": [],
-    "cultural_parallels": [],
-    "chinese_dynasty_references": [],
-    "status": "published",
-    "filePath": "projects/torah-light/jewish-history/082-exodus-liberation-story/metadata.json"
-  },
-  {
     "id": 80,
     "title": {
       "en": "The Rambam's Mishneh Torah: A Guide to the Greatest Halachic Code",
@@ -2213,214 +1766,6 @@
     "chinese_dynasty_references": [],
     "status": "complete",
     "filePath": "projects/torah-light/jewish-texts/080-rambam-mishneh-torah/metadata.json"
-  },
-  {
-    "id": null,
-    "title": {
-      "en": "Taharat HaMishpacha: The Hidden Strength of Jewish Marriage",
-      "zh": "家庭纯洁律法:犹太婚姻的隐藏力量",
-      "he": "טהרת המשפחה: הכוח הנסתר של הנישואין היהודיים"
-    },
-    "section": "life-cycle",
-    "description": {
-      "en": "An introduction to the laws of family purity and how the mikvah cycle strengthens the marital bond.",
-      "zh": "家庭纯洁律法简介，以及浸礼池循环如何增强婚姻纽带。",
-      "he": "מבוא להלכות טהרת המשפחה וכיצד מחזור המקווה מחזק את הקשר הזוגי."
-    },
-    "tags": [],
-    "sources": [],
-    "cultural_parallels": [
-      "坐月子 (Confinement practices)",
-      "阴阳 (Yin-Yang cycles)",
-      "Water purification rituals"
-    ],
-    "chinese_dynasty_references": [
-      "Shang Dynasty (商朝, ~1600-1046 BCE)"
-    ],
-    "status": "complete",
-    "filePath": "projects/torah-light/life-cycle/095-family-purity/metadata.json"
-  },
-  {
-    "id": null,
-    "title": {
-      "en": "The Seven Middot (Character Traits) and How to Develop Them",
-      "zh": "犹太教七大品格特质及其修养方法",
-      "he": "שבע המידות: מדריך לפיתוח תכונות האופי"
-    },
-    "section": "",
-    "description": {
-      "en": "A comprehensive guide to the seven foundational character traits in Jewish thought - chesed, gevurah, tiferet, netzach, hod, yesod, and malchut - with practical applications for daily life and spiritual growth.",
-      "zh": "犹太思想中七种基本品格特质的全面指南——仁慈、刚毅、和谐、持久、谦卑、根基、实现——以及日常生活和灵性成长的实际应用。",
-      "he": "מדריך מקיף לשבע תכונות האופי היסודיות במחשבה היהודית — חסד, גבורה, תפארת, נצח, הוד, יסוד ומלכות — עם יישומים מעשיים לחיי יום-יום וצמיחה רוחנית."
-    },
-    "tags": [
-      "mussar",
-      "character-development",
-      "seven-middot",
-      "sefirot",
-      "chesed",
-      "gevurah",
-      "tiferet",
-      "netzach",
-      "hod",
-      "yesod",
-      "malchut",
-      "kabbalah",
-      "spiritual-growth",
-      "chassidus",
-      "counting-omer",
-      "jewish-ethics",
-      "品德修养",
-      "七大品格",
-      "confucianism",
-      "pirkei-avot",
-      "self-improvement"
-    ],
-    "sources": [],
-    "cultural_parallels": [],
-    "chinese_dynasty_references": [],
-    "status": "published",
-    "filePath": "projects/torah-light/mussar/074-seven-middot/metadata.json"
-  },
-  {
-    "id": null,
-    "title": {
-      "en": "Cheshbon HaNefesh: The Jewish Practice of Daily Self-Reflection",
-      "zh": "灵魂核算：犹太教的每日自我反思实践",
-      "he": "חשבון הנפש: מנהג יהודי של התבוננות יומית"
-    },
-    "section": "",
-    "description": {
-      "en": "An exploration of cheshbon hanefesh, the Jewish practice of daily self-reflection and spiritual accounting, rooted in the Mussar movement and applicable to modern life.",
-      "zh": "探索灵魂核算——犹太教的每日自我反思和灵性盘点实践，源于穆萨尔运动并适用于现代生活。",
-      "he": "חקירת חשבון הנפש, המנהג היהודי של התבוננות יומית וחישוב רוחני, המושרש בתנועת המוסר ורלוונטי לחיים המודרניים."
-    },
-    "tags": [
-      "cheshbon-hanefesh",
-      "mussar",
-      "self-reflection",
-      "daily-practice",
-      "character-development",
-      "soul-accounting",
-      "evening-routine",
-      "baal-shem-tov",
-      "jewish-spirituality",
-      "introspection",
-      "soul-searching",
-      "mindfulness",
-      "灵魂核算",
-      "每日反思",
-      "品格修养"
-    ],
-    "sources": [],
-    "cultural_parallels": [],
-    "chinese_dynasty_references": [],
-    "status": "published",
-    "filePath": "projects/torah-light/mussar/075-cheshbon-hanefesh/metadata.json"
-  },
-  {
-    "id": null,
-    "title": {
-      "en": "Torah and Science: Are They Compatible?",
-      "zh": "《托拉》与科学：它们是否兼容？",
-      "he": "תורה ומדע: האם הם תואמים?"
-    },
-    "section": "",
-    "description": {
-      "en": "An exploration of how Jewish thinkers throughout history have reconciled Torah with scientific knowledge, examining different approaches to apparent conflicts between religion and science.",
-      "zh": "探索犹太思想家如何在历史中调和Torah与科学知识，审视宗教与科学之间表面冲突的不同方法。",
-      "he": "חקירת הדרכים שבהן הוגים יהודיים לאורך ההיסטוריה פישרו בין תורה למדע, ובחינת גישות שונות לסתירות לכאורה בין דת למדע."
-    },
-    "tags": [
-      "torah-and-science",
-      "faith-and-reason",
-      "creation",
-      "evolution",
-      "big-bang",
-      "rambam",
-      "maimonides",
-      "jewish-philosophy",
-      "modern-orthodoxy",
-      "intelligent-design",
-      "natural-law",
-      "科学与托拉",
-      "创造论",
-      "理性与信仰"
-    ],
-    "sources": [],
-    "cultural_parallels": [],
-    "chinese_dynasty_references": [],
-    "status": "published",
-    "filePath": "projects/torah-light/philosophy/077-torah-and-science/metadata.json"
-  },
-  {
-    "id": null,
-    "title": {
-      "en": "The Morning Blessings: Starting Your Day with Gratitude",
-      "zh": "",
-      "he": ""
-    },
-    "section": "blessings",
-    "description": {
-      "en": "Full text and explanation of Birchot HaShachar — the 15 morning blessings that thank God for the basics of life.",
-      "zh": "晨间祝福的完整经文和解释——感谢上帝赐予生命基本事物的15条晨间祝祷。",
-      "he": "הטקסט המלא וההסבר של ברכות השחר — 15 הברכות שמודות לה' על יסודות החיים."
-    },
-    "tags": [],
-    "sources": [],
-    "cultural_parallels": [
-      "Confucian morning reflection (晨省)",
-      "Buddhist morning prayers (晨课)",
-      "Daoist morning exercises (晨练)",
-      "Traditional Chinese gratitude for basic needs (衣食住行)"
-    ],
-    "chinese_dynasty_references": [],
-    "status": "drafted",
-    "filePath": "projects/torah-light/torah-light-articles/blessings/032-morning-blessings-gratitude/metadata.json"
-  },
-  {
-    "id": null,
-    "title": {
-      "en": "Asher Yatzar: The Blessing That Thanks God for Your Body",
-      "zh": "阿舍·雅茨尔：感谢上帝赐予身体的祝福",
-      "he": "אשר יצר: הברכה שמודה לאלוהים על הגוף שלך"
-    },
-    "section": "blessings",
-    "description": {
-      "en": "Why Jews say a blessing after using the bathroom, and what this surprising practice teaches about appreciating health.",
-      "zh": "为什么犹太人在如厕后说祝祷，以及这个令人惊讶的习俗教会我们如何感恩健康。",
-      "he": "מדוע יהודים מברכים אחרי שימוש בשירותים, ומה המנהג המפתיע הזה מלמד על הערכת הבריאות."
-    },
-    "tags": [
-      "AsherYatzar",
-      "Blessings",
-      "Health",
-      "Gratitude",
-      "TalmudBerakhot",
-      "ChineseMedicine",
-      "Mindfulness",
-      "DailyPractice",
-      "BodyAndSoul",
-      "健康",
-      "感恩",
-      "中醫",
-      "正念",
-      "אשריצר",
-      "ברכות",
-      "בריאות",
-      "הכרתטוב"
-    ],
-    "sources": [],
-    "cultural_parallels": [
-      "Traditional Chinese Medicine emphasis on elimination for health",
-      "Chinese gratitude practices during New Year",
-      "Qi Gong mindfulness of internal processes",
-      "Daoist wu wei (effortless action) concept",
-      "Confucian body as gift from ancestors"
-    ],
-    "chinese_dynasty_references": [],
-    "status": "draft_complete",
-    "filePath": "projects/torah-light/torah-light-articles/blessings/033-asher-yatzar/metadata.json"
   },
   {
     "id": 2,
@@ -2856,94 +2201,6 @@
     "filePath": "projects/torah-light/torah-light-articles/holidays/041-rosh-hashana/metadata.json"
   },
   {
-    "id": null,
-    "title": {
-      "en": "Chanukah: Beyond the Dreidel — The Real Story and Its Lessons",
-      "zh": "光明节:超越陀螺游戏——真实的故事与教训",
-      "he": "חנוכה: מעבר לסביבון — הסיפור האמיתי והלקחים שלו"
-    },
-    "section": "holidays",
-    "description": {
-      "en": "The historical and spiritual significance of Chanukah, the miracle of the oil, and detailed menorah-lighting instructions.",
-      "zh": "光明节的历史和精神意义、油灯的奇迹，以及详细的烛台点燃说明。",
-      "he": "המשמעות ההיסטורית והרוחנית של חנוכה, נס פך השמן, והוראות מפורטות להדלקת המנורה."
-    },
-    "tags": [
-      "Chanukah",
-      "Hanukkah",
-      "Maccabees",
-      "MiracleOfTheOil",
-      "JewishHistory",
-      "Assimilation",
-      "LightInDarkness",
-      "MenorahLighting",
-      "Holidays",
-      "FewAgainstMany",
-      "SpiritualResilience",
-      "PublicWitness",
-      "Hellenism",
-      "TempleJerusalem",
-      "Mattityahu",
-      "JudahMaccabee",
-      "WesternHanDynasty",
-      "西汉",
-      "以弱胜强",
-      "星星之火可以燎原",
-      "JewishIdentity",
-      "TorahStudy",
-      "ReligiousFreedom"
-    ],
-    "sources": [],
-    "cultural_parallels": [],
-    "chinese_dynasty_references": [],
-    "status": "drafted",
-    "filePath": "projects/torah-light/torah-light-articles/holidays/045-chanukah-beyond-dreidel/metadata.json"
-  },
-  {
-    "id": null,
-    "title": {
-      "en": "Tisha B'Av: Understanding the Saddest Day in Jewish History",
-      "zh": "圣殿被毁日：理解犹太历史上最悲伤的一天",
-      "he": "תשעה באב: הבנת היום העצוב ביותר בהיסטוריה היהודית"
-    },
-    "section": "holidays",
-    "description": {
-      "en": "The destructions of both Temples, the laws of mourning on Tisha B'Av, reading Eicha, and the message of hope within the grief.",
-      "zh": "两座圣殿的毁灭、圣殿被毁日的哀悼律法、诵读《耶利米哀歌》，以及悲痛中的希望信息。",
-      "he": "חורבן שני בתי המקדש, הלכות אבלות בתשעה באב, קריאת איכה, ומסר התקווה שבתוך האבל."
-    },
-    "tags": [
-      "TishaBAv",
-      "NinthOfAv",
-      "JewishHolidays",
-      "Mourning",
-      "HolyTemple",
-      "Jerusalem",
-      "JewishHistory",
-      "Lamentations",
-      "Eicha",
-      "ThreeWeeks",
-      "Teshuva",
-      "Hope",
-      "Redemption",
-      "Messiah",
-      "BaselessHatred",
-      "圣殿",
-      "禁食",
-      "耶路撒冷",
-      "犹太节日",
-      "תשעהבאב",
-      "בית_המקדש",
-      "אבלות",
-      "תשובה"
-    ],
-    "sources": [],
-    "cultural_parallels": [],
-    "chinese_dynasty_references": [],
-    "status": "completed",
-    "filePath": "projects/torah-light/torah-light-articles/holidays/050-tisha-bav/metadata.json"
-  },
-  {
     "id": 21,
     "title": {
       "en": "Cholent and Other Shabbat Foods: Recipes for the Chinese Kitchen",
@@ -3119,249 +2376,6 @@
     "filePath": "projects/torah-light/torah-light-articles/holidays/053-fast-days-in-judaism/metadata.json"
   },
   {
-    "id": null,
-    "title": {
-      "en": "A Beginner's Guide to Jewish Prayer: Start With These Three",
-      "zh": "",
-      "he": ""
-    },
-    "section": "prayer",
-    "description": {
-      "en": "If you're new to Jewish prayer, start with Modeh Ani, Shema, and Birkat HaMazon — here's how.",
-      "zh": "如果您刚接触犹太祈祷，从Modeh Ani、Shema和饭后感恩祈祷开始——方法如下。",
-      "he": "אם אתם חדשים בתפילה יהודית, התחילו עם מודה אני, שמע וברכת המזון — הנה איך."
-    },
-    "tags": [],
-    "sources": [],
-    "cultural_parallels": [],
-    "chinese_dynasty_references": [],
-    "status": "draft_complete",
-    "filePath": "projects/torah-light/torah-light-articles/prayer/029-beginners-guide-jewish-prayer/metadata.json"
-  },
-  {
-    "id": null,
-    "title": {
-      "en": "Your First Shabbat: A Step-by-Step Guide for Complete Beginners",
-      "zh": "你的第一个安息日：完全初学者的分步指南",
-      "he": "השבת הראשונה שלך: מדריך שלב אחר שלב למתחילים מוחלטים"
-    },
-    "section": "shabbat",
-    "description": {
-      "en": "Everything you need to know to observe your first Shabbat, from Friday afternoon preparation to Havdalah Saturday night.",
-      "zh": "守第一个安息日所需了解的一切——从周五下午的准备到周六晚上的Havdalah。",
-      "he": "כל מה שצריך לדעת כדי לשמור את השבת הראשונה שלכם, מהכנות יום שישי אחר הצהריים ועד הבדלה במוצאי שבת."
-    },
-    "tags": [],
-    "sources": [],
-    "cultural_parallels": [],
-    "chinese_dynasty_references": [],
-    "status": "",
-    "filePath": "projects/torah-light/torah-light-articles/shabbat/016-your-first-shabbat/metadata.json"
-  },
-  {
-    "id": null,
-    "title": {
-      "en": "Kiddush: The Full Text, Translation, and Meaning",
-      "zh": "קידוש：完整经文、翻译与深意",
-      "he": "קידוש: הטקסט המלא, התרגום והמשמעות"
-    },
-    "section": "shabbat",
-    "description": {
-      "en": "Complete guide to Kiddush for Friday night and Shabbat day, with full Hebrew text, English and Chinese translations, transliteration, and deep meaning behind every word.",
-      "zh": "周五晚和安息日Kiddush的完整指南，含希伯来文全文、中英文翻译、音译及每个词的深层含义。",
-      "he": "מדריך מלא לקידוש ליל שבת ויום שבת, עם הטקסט המלא בעברית, תרגום לאנגלית וסינית, תעתיק, ומשמעות עמוקה מאחורי כל מילה."
-    },
-    "tags": [],
-    "sources": [],
-    "cultural_parallels": [],
-    "chinese_dynasty_references": [],
-    "status": "complete",
-    "filePath": "projects/torah-light/torah-light-articles/shabbat/019-kiddush/metadata.json"
-  },
-  {
-    "id": null,
-    "title": {
-      "en": "Havdalah: How to End Shabbat Beautifully",
-      "zh": "",
-      "he": ""
-    },
-    "section": "",
-    "description": {
-      "en": "A comprehensive guide to the Havdalah ceremony - the beautiful ritual that marks the end of Shabbat. Learn the step-by-step process using wine, spices, and braided candlelight to distinguish between the sacred and mundane.",
-      "zh": "Havdalah仪式的全面指南——标志安息日结束的美丽仪式。学习用葡萄酒、香料和编织蜡烛区分神圣与世俗的分步过程。",
-      "he": "מדריך מקיף לטקס ההבדלה — הטקס היפה שמסמן את סיום השבת. למדו את התהליך שלב אחר שלב עם יין, בשמים ונר הבדלה להבחין בין קודש לחול."
-    },
-    "tags": [],
-    "sources": [],
-    "cultural_parallels": [],
-    "chinese_dynasty_references": [],
-    "status": "published",
-    "filePath": "shabbat/020-havdalah/metadata.json"
-  },
-  {
-    "id": null,
-    "title": {
-      "en": "The Spiritual Meaning Behind Keeping Kosher",
-      "zh": "",
-      "he": ""
-    },
-    "section": "kosher-food",
-    "description": {
-      "en": "Beyond the rules: why kashrut matters spiritually, what it does for the soul, and how it elevates the act of eating.",
-      "zh": "超越规则：洁食的精神意义、对灵魂的作用，以及它如何提升饮食行为。",
-      "he": "מעבר לכללים: מדוע הכשרות חשובה מבחינה רוחנית, מה היא עושה לנשמה, וכיצד היא מרוממת את פעולת האכילה."
-    },
-    "tags": [
-      "#Kosher",
-      "#Kashrut",
-      "#Holiness",
-      "#SpiritualEating",
-      "#Torah",
-      "#Leviticus",
-      "#Maharal",
-      "#SelfDiscipline",
-      "#Elevation",
-      "#Kedushah",
-      "#קדושה",
-      "#כשרות",
-      "#修身",
-      "#道家",
-      "#商朝",
-      "#明朝",
-      "#元朝",
-      "#KosherFood"
-    ],
-    "sources": [
-      "https://aish.com/48945306/",
-      "https://aish.com/spiritual-eating/",
-      "https://www.sefaria.org/Leviticus.11",
-      "https://www.chabad.org/library/article_cdo/aid/60319/jewish/Why-Do-We-Keep-Kosher.htm"
-    ],
-    "cultural_parallels": [
-      "Daoist dietary purity practices",
-      "Buddhist vegetarianism",
-      "Confucian self-cultivation (修身)",
-      "Traditional Chinese Medicine - food as medicine affecting qi",
-      "Tea ceremony purification rituals"
-    ],
-    "chinese_dynasty_references": [],
-    "status": "drafted",
-    "filePath": "torah-light-articles/article-27/metadata.json"
-  },
-  {
-    "id": null,
-    "title": {
-      "en": "The Tallit: More Than Just a Prayer Shawl",
-      "zh": "",
-      "he": ""
-    },
-    "section": "mitzvah_objects",
-    "description": {
-      "en": "History, laws, and customs of the tallit — when to wear it, how to put it on, and the significance of the blue thread.",
-      "zh": "祈祷披巾的历史、律法和习俗——何时穿戴、如何穿上，以及蓝色线的意义。",
-      "he": "היסטוריה, הלכות ומנהגי הטלית — מתי ללבוש, כיצד לעטוף, ומשמעות החוט הכחול."
-    },
-    "tags": [
-      "Tallit",
-      "TzitzitFringes",
-      "PrayerShawl",
-      "MitzvahObjects",
-      "BiblicalCommandments",
-      "SacredNumbers",
-      "Techelet",
-      "BlueThread",
-      "MorningPrayer",
-      "ShangDynasty",
-      "商朝",
-      "DivinePresence",
-      "JewishRitual",
-      "SpiritualClothing",
-      "613Commandments"
-    ],
-    "sources": [],
-    "cultural_parallels": [],
-    "chinese_dynasty_references": [],
-    "status": "draft_complete",
-    "filePath": "torah-light-articles/article-39/metadata.json"
-  },
-  {
-    "id": null,
-    "title": {
-      "en": "The Seven Middot (Character Traits) and How to Develop Them",
-      "zh": "犹太教七大品格特质及其修养方法",
-      "he": "שבע המידות: מדריך לפיתוח תכונות האופי"
-    },
-    "section": "",
-    "description": {
-      "en": "A comprehensive guide to the seven foundational character traits in Jewish thought - chesed, gevurah, tiferet, netzach, hod, yesod, and malchut - with practical applications for daily life and spiritual growth.",
-      "zh": "犹太思想中七种基本品格特质的全面指南——仁慈、刚毅、和谐、持久、谦卑、根基、实现——以及日常生活和灵性成长的实际应用。",
-      "he": "מדריך מקיף לשבע תכונות האופי היסודיות במחשבה היהודית — חסד, גבורה, תפארת, נצח, הוד, יסוד ומלכות — עם יישומים מעשיים לחיי יום-יום וצמיחה רוחנית."
-    },
-    "tags": [
-      "mussar",
-      "character-development",
-      "seven-middot",
-      "sefirot",
-      "chesed",
-      "gevurah",
-      "tiferet",
-      "netzach",
-      "hod",
-      "yesod",
-      "malchut",
-      "kabbalah",
-      "spiritual-growth",
-      "chassidus",
-      "counting-omer",
-      "jewish-ethics",
-      "品德修养",
-      "七大品格",
-      "confucianism",
-      "pirkei-avot",
-      "self-improvement"
-    ],
-    "sources": [],
-    "cultural_parallels": [],
-    "chinese_dynasty_references": [],
-    "status": "published",
-    "filePath": "torah-light-articles/article-74/metadata.json"
-  },
-  {
-    "id": null,
-    "title": {
-      "en": "Finding a Rabbi and Community When You Live in Asia",
-      "zh": "在亚洲寻找拉比和犹太社区",
-      "he": "מציאת רב וקהילה במגורים באסיה"
-    },
-    "section": "conversion",
-    "description": "",
-    "tags": [
-      "Rabbi",
-      "Community",
-      "Conversion",
-      "Chabad",
-      "Asia",
-      "China",
-      "OnlineLearning",
-      "Ruth",
-      "Mentorship",
-      "师徒关系",
-      "犹太社区",
-      "拉比",
-      "亚洲犹太人",
-      "JewishAsia"
-    ],
-    "sources": [],
-    "cultural_parallels": [
-      "Chinese teacher-student bond (师徒关系)",
-      "Confucian teaching about seeking teachers",
-      "Chinese saying: One day as teacher, lifetime as father (一日为师，终身为父)"
-    ],
-    "chinese_dynasty_references": [],
-    "status": "draft_complete",
-    "filePath": "torah-light-articles/conversion/060-finding-rabbi-community-asia/metadata.json"
-  },
-  {
     "id": 4,
     "title": {
       "en": "The Story of Joseph: Leadership, Forgiveness, and Family",
@@ -3521,43 +2535,6 @@
     "filePath": "torah-light-articles/jewish-calendar/051-elul-preparation/metadata.json"
   },
   {
-    "id": null,
-    "title": {
-      "en": "Understanding Rashi: A Beginner's Guide to the Most Famous Commentator",
-      "zh": "理解拉西:最著名注释家的初学者指南",
-      "he": "הבנת רש\"י: מדריך למתחילים למפרש המפורסם ביותר"
-    },
-    "section": "torah-study",
-    "description": "",
-    "tags": [
-      "Rashi",
-      "Torah Commentary",
-      "Talmud Study",
-      "Peshat",
-      "Midrash",
-      "Jewish Scholars",
-      "Medieval Judaism",
-      "French Jewry",
-      "Torah Study",
-      "Rabbinic Literature",
-      "Jewish Education",
-      "Biblical Exegesis",
-      "宋朝",
-      "中世纪学者",
-      "犹太经典"
-    ],
-    "sources": [
-      "Wikipedia - Rashi",
-      "Chabad.org - Rashi's Method",
-      "TheTorah.com - Rashi Commentary Analysis",
-      "Sefaria.org - Rashi on Genesis"
-    ],
-    "cultural_parallels": [],
-    "chinese_dynasty_references": [],
-    "status": "complete",
-    "filePath": "torah-study/008-rashi-guide/metadata.json"
-  },
-  {
     "id": 101,
     "title": {
       "en": "Noach: What the Flood Teaches About Second Chances",
@@ -3595,22 +2572,6 @@
     "filePath": "weekly-parsha/102-lech-lecha-leaving-homeland/metadata.json"
   },
   {
-    "id": null,
-    "title": {
-      "en": "",
-      "zh": "",
-      "he": ""
-    },
-    "section": "",
-    "description": "",
-    "tags": [],
-    "sources": [],
-    "cultural_parallels": [],
-    "chinese_dynasty_references": [],
-    "status": "",
-    "filePath": "weekly-parsha/103-vayeira-hospitality-abraham/metadata.json"
-  },
-  {
     "id": 104,
     "title": {
       "en": "Chayei Sarah: How to Choose a Spouse — Lessons from Eliezer's Mission",
@@ -3629,43 +2590,6 @@
     "chinese_dynasty_references": [],
     "status": "complete",
     "filePath": "weekly-parsha/104-chayei-sarah-choosing-spouse/metadata.json"
-  },
-  {
-    "id": null,
-    "title": {
-      "en": "",
-      "zh": "",
-      "he": ""
-    },
-    "section": "",
-    "description": "",
-    "tags": [],
-    "sources": [],
-    "cultural_parallels": [],
-    "chinese_dynasty_references": [],
-    "status": "",
-    "filePath": "weekly-parsha/105-vayetze-jacobs-ladder/metadata.json"
-  },
-  {
-    "id": null,
-    "title": {
-      "en": "",
-      "zh": "",
-      "he": ""
-    },
-    "section": "",
-    "description": "",
-    "tags": [],
-    "sources": [],
-    "cultural_parallels": [
-      "Tai Chi philosophy",
-      "I Ching concepts",
-      "Confucian self-cultivation (修身)",
-      "Chinese martial arts principles"
-    ],
-    "chinese_dynasty_references": [],
-    "status": "",
-    "filePath": "weekly-parsha/106-vayishlach-wrestling-angel/metadata.json"
   },
   {
     "id": 107,
@@ -3706,22 +2630,6 @@
     "chinese_dynasty_references": [],
     "status": "completed",
     "filePath": "weekly-parsha/108-yitro-revelation-sinai/metadata.json"
-  },
-  {
-    "id": null,
-    "title": {
-      "en": "",
-      "zh": "",
-      "he": ""
-    },
-    "section": "",
-    "description": "",
-    "tags": [],
-    "sources": [],
-    "cultural_parallels": [],
-    "chinese_dynasty_references": [],
-    "status": "",
-    "filePath": "weekly-parsha/109-terumah-mishkan-sanctuary/metadata.json"
   },
   {
     "id": 110,
@@ -13632,5 +12540,1612 @@
     "chinese_dynasty_references": [],
     "status": "complete",
     "filePath": "jewish-stories-and-inspiration/378-golem-of-prague/metadata.json"
+  },
+  {
+    "id": 1,
+    "title": {
+      "en": "What is a Dvar Torah and How to Prepare One",
+      "zh": "",
+      "he": ""
+    },
+    "section": "weekly-parsha",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "WeeklyParsha",
+      "Dvar",
+      "Torah",
+      "Prepare",
+      "One"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "weekly-parsha/001-what-is-dvar-torah/metadata.json"
+  },
+  {
+    "id": 5,
+    "title": {
+      "en": "The Ten Plagues: What Each Plague Teaches About Justice",
+      "zh": "十灾:每一灾教导我们关于正义的什么",
+      "he": "עשר המכות: מה כל מכה מלמדת על צדק"
+    },
+    "section": "weekly-parsha",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "WeeklyParsha",
+      "Ten",
+      "Plagues",
+      "Each",
+      "Plague",
+      "Teaches",
+      "About",
+      "Justice"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "weekly-parsha/005-ten-plagues/metadata.json"
+  },
+  {
+    "id": 116,
+    "title": {
+      "en": "Va'etchanan: The Second Version of the Ten Commandments — What Changed and Why",
+      "zh": "瓦耶特哈南：十诫的第二个版本——改变了什么及其原因",
+      "he": "ואתחנן: הגירסה השנייה של עשרת הדברות — מה השתנה ולמה"
+    },
+    "section": "weekly-parsha",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "WeeklyParsha",
+      "Va'etchanan",
+      "Second",
+      "Version",
+      "Ten",
+      "Commandments",
+      "Changed"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [
+      {
+        "dynasty": "Ming",
+        "scholar": "Wang Yangming",
+        "concept": "知行合一 (unity of knowledge and action)",
+        "relevance": "Parallels the relationship between divine law and practical application"
+      },
+      {
+        "dynasty": "Song",
+        "concept": "理气关系 (li-qi relationship)",
+        "relevance": "Mirrors the relationship between eternal principles and their manifestation in context"
+      }
+    ],
+    "status": "complete",
+    "filePath": "weekly-parsha/116-vaetchanan-ten-commandments/metadata.json"
+  },
+  {
+    "id": 117,
+    "title": {
+      "en": "Ki Tavo: The First Fruits and the Power of Gratitude",
+      "zh": "基塔沃：初熟的果子与感恩的力量",
+      "he": "כי תבוא: הביכורים וכוח ההכרת הטוב"
+    },
+    "section": "weekly-parsha",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "WeeklyParsha",
+      "Mishnah Bikkurim",
+      "Berakhot 35a",
+      "Vayikra Rabbah 9:7",
+      "Tavo",
+      "First",
+      "Fruits",
+      "Power",
+      "Gratitude"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [
+      {
+        "dynasty": "汉朝 (Han Dynasty)",
+        "period": "206 BCE - 220 CE",
+        "reference": "籍田礼 (Ji Tian Li) - Imperial plowing ceremony"
+      },
+      {
+        "dynasty": "唐朝 (Tang Dynasty)",
+        "period": "618-907 CE",
+        "reference": "Tribute processions to Chang'an"
+      },
+      {
+        "dynasty": "宋朝 (Song Dynasty)",
+        "period": "960-1279 CE",
+        "reference": "理学 (Neo-Confucian) philosophy of 格物致知"
+      },
+      {
+        "dynasty": "明朝 (Ming Dynasty)",
+        "period": "1368-1644 CE",
+        "reference": "防微杜渐 (Prevention through early attention)"
+      }
+    ],
+    "status": "complete",
+    "filePath": "weekly-parsha/117-ki-tavo-first-fruits/metadata.json"
+  },
+  {
+    "id": 118,
+    "title": {
+      "en": "Nitzavim: You Are All Standing Here Today — Jewish Unity Before Entering Israel",
+      "zh": "尼茨维姆：你们今天都站在这里——进入以色列前的犹太团结",
+      "he": "נצבים: אתם נצבים היום כולכם — אחדות יהודית לפני הכניסה לארץ ישראל"
+    },
+    "section": "weekly-parsha",
+    "description": {
+      "en": "Moses's covenant renewal speech before entering the Promised Land, emphasizing that Jewish survival depends on unity in diversity, not uniformity.",
+      "zh": "摩西在进入应许之地前的盟约更新演讲，强调犹太人的生存依赖于多样性中的团结，而非一致性。",
+      "he": "נאום חידוש הברית של משה לפני הכניסה לארץ המובטחת, המדגיש שהישרדות יהודית תלויה באחדות במגוון, לא באחידות."
+    },
+    "tags": [
+      "WeeklyParsha",
+      "Nitzavim",
+      "Are",
+      "All",
+      "Standing",
+      "Here",
+      "Today",
+      "Jewish",
+      "Unity",
+      "Before",
+      "Entering",
+      "Israel"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Chinese concept of Harmony (和) - unity through diversity",
+      "Tang Dynasty integration of diverse ethnic groups",
+      "Confucian ideals of inclusive governance",
+      "Ancient Near Eastern covenant ceremonies"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "completed",
+    "filePath": "weekly-parsha/118-nitzavim-jewish-unity/metadata.json"
+  },
+  {
+    "id": 119,
+    "title": {
+      "en": "Ha'azinu: Moses's Song — Poetry as Prophecy",
+      "zh": "哈阿齐努：摩西之歌——诗歌作为预言",
+      "he": "האזינו: שירת משה — שירה כנבואה"
+    },
+    "section": "weekly-parsha",
+    "description": {
+      "en": "Analyzing the poetic structure and prophetic content of Moses's final song to the nation",
+      "zh": "分析摩西对民族最后颂歌的诗歌结构和预言内容",
+      "he": "ניתוח המבנה הפואטי והתוכן הנבואי של שירת משה האחרונה לעם"
+    },
+    "tags": [
+      "WeeklyParsha",
+      "Ha'azinu",
+      "Moses's",
+      "Song",
+      "Poetry",
+      "Prophecy"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "weekly-parsha/119-haazinu-moses-song/metadata.json"
+  },
+  {
+    "id": 120,
+    "title": {
+      "en": "V'Zot HaBracha: The Last Parsha — Moses Blesses the Tribes",
+      "zh": "《五经》最后一篇：摩西祝福各支族",
+      "he": "וזאת הברכה: הפרשה האחרונה — משה מברך את השבטים"
+    },
+    "section": "weekly-parsha",
+    "description": {
+      "en": "The Torah's final portion: Moses's individual blessings for each tribe and the bittersweet conclusion of our spiritual journey from slavery to the threshold of the Promised Land.",
+      "zh": "《托拉》的最后章节：摩西对各个支族的个别祝福，以及我们从奴役到应许之地门槛的灵性旅程的苦乐参半的结论。",
+      "he": "הפרשה האחרונה של התורה: ברכותיו הפרטיות של משה לכל שבט והסיום המתוק-מר של המסע הרוחני שלנו מעבדות לסף הארץ המובטחת."
+    },
+    "tags": [
+      "WeeklyParsha",
+      "V'Zot",
+      "HaBracha",
+      "Last",
+      "Parsha",
+      "Moses",
+      "Blesses",
+      "Tribes"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "weekly-parsha/120-vzot-habracha-final-blessing/metadata.json"
+  },
+  {
+    "id": 71,
+    "title": {
+      "en": "The Kuzari: A King's Search for Truth",
+      "zh": "《哈萨尔之书》:国王的真理探索",
+      "he": "הכוזרי: חיפוש המלך אחר האמת"
+    },
+    "section": "jewish-texts",
+    "description": {
+      "en": "An exploration of Rabbi Yehuda Halevi's Kuzari, the philosophical dialogue about a king's quest to discover the true path to God, and Judaism's unique approach to revelation and divine service.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Kuzari",
+      "JudahHalevi",
+      "JewishPhilosophy",
+      "Revelation",
+      "MountSinai",
+      "Prophecy",
+      "Khazars",
+      "ChosennessOfIsrael",
+      "LandOfIsrael",
+      "JewishHistory",
+      "Mesorah",
+      "Conversion",
+      "InterfaithDialogue",
+      "JewishApologetics",
+      "Torah",
+      "Mitzvot",
+      "GodOfAbraham",
+      "PhilosophyVsRevelation",
+      "PublicRevelation",
+      "JewishTexts",
+      "Particularism",
+      "Universalism",
+      "犹太哲学",
+      "哈萨尔",
+      "启示",
+      "西奈山",
+      "预言",
+      "犹太历史",
+      "传统链",
+      "皈依犹太教",
+      "הכוזרי",
+      "יהודה_הלוי",
+      "פילוסופיה_יהודית",
+      "נבואה",
+      "הר_סיני"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [
+      {
+        "dynasty": "Southern Song Dynasty",
+        "chinese": "南宋",
+        "years": "1127-1279 CE",
+        "context": "When Rabbi Yehuda Halevi wrote the Kuzari around 1140 CE"
+      },
+      {
+        "dynasty": "Tang Dynasty",
+        "chinese": "唐朝",
+        "years": "618-907 CE",
+        "context": "Contemporary with the Khazar Empire (650-969 CE)"
+      },
+      {
+        "dynasty": "Song Dynasty",
+        "chinese": "宋朝",
+        "years": "960-1279 CE",
+        "context": "Early Song period overlapped with the later Khazar Empire"
+      }
+    ],
+    "status": "published",
+    "filePath": "jewish-texts/071-kuzari-kings-search-truth/metadata.json"
+  },
+  {
+    "id": 72,
+    "title": {
+      "en": "Mesillat Yesharim: A Roadmap for Spiritual Growth",
+      "zh": "《正直之路》:精神成长的路线图",
+      "he": "מסילת ישרים: מפת דרכים לצמיחה רוחנית"
+    },
+    "section": "jewish-texts",
+    "description": {
+      "en": "An introduction to Rabbi Moshe Chaim Luzzatto's classic work on Jewish ethics and spiritual development, presenting the ten progressive levels from watchfulness to holiness.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "MesillatYesharim",
+      "Ramchal",
+      "Mussar",
+      "SpiritualGrowth",
+      "JewishEthics",
+      "SelfImprovement",
+      "Holiness",
+      "Humility",
+      "Watchfulness",
+      "Piety",
+      "Torah学习",
+      "犹太伦理",
+      "精神成长",
+      "正直之路",
+      "清朝",
+      "儒家",
+      "Zehirut",
+      "Zerizut",
+      "Nekiyut",
+      "Perishut",
+      "Taharah",
+      "Chassidut",
+      "Anavah",
+      "YiratChet",
+      "Kedushah",
+      "RuachHaKodesh",
+      "MosheChaimLuzzatto"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [
+      {
+        "dynasty": "Qing Dynasty",
+        "chinese": "清朝",
+        "years": "1644-1912 CE",
+        "context": "When Rabbi Moshe Chaim Luzzatto wrote Mesillat Yesharim (1743)"
+      }
+    ],
+    "status": "published",
+    "filePath": "jewish-texts/072-mesillat-yesharim-roadmap-spiritual-growth/metadata.json"
+  },
+  {
+    "id": 195,
+    "title": {
+      "en": "How to Read a Page of Talmud",
+      "zh": "如何阅读塔木德(Talmud)的一页",
+      "he": "איך לקרוא דף גמרא"
+    },
+    "section": "jewish-texts",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "JewishTexts",
+      "Read",
+      "Page",
+      "Talmud"
+    ],
+    "sources": [
+      "https://www.sefaria.org"
+    ],
+    "cultural_parallels": [
+      "Chinese classical text layout with commentaries",
+      "Thirteen Classics with Commentaries and Subcommentaries (十三经注疏)",
+      "Shiji (史记) with Jijie and Suoyin commentaries",
+      "Confucian dialogic tradition",
+      "Multi-generational scholarly commentary traditions"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "jewish-texts/195-reading-talmud-page/metadata.json"
+  },
+  {
+    "id": 197,
+    "title": {
+      "en": "The Jewish Bookshelf: 20 Books Every New Jew Should Own",
+      "zh": "犹太书架:每位新犹太人应拥有的20本书",
+      "he": "מדף הספרים היהודי: 20 ספרים שכל יהודי חדש צריך להחזיק"
+    },
+    "section": "jewish-texts",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "JewishTexts",
+      "Jewish",
+      "Bookshelf",
+      "Books",
+      "Every",
+      "New",
+      "Jew",
+      "Should",
+      "Own"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "jewish-texts/197-jewish-bookshelf-20-books/metadata.json"
+  },
+  {
+    "id": 234,
+    "title": {
+      "en": "Daf Yomi: The Global Movement to Study One Page of Talmud Daily",
+      "zh": "每日一页：全球犹太人共同学习塔木德的运动",
+      "he": "דף יומי: התנועה העולמית ללימוד עמוד אחד של תלמוד מדי יום"
+    },
+    "section": "jewish-texts",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Daf Yomi",
+      "Talmud Study",
+      "Jewish Learning",
+      "Daily Study",
+      "Siyum HaShas",
+      "Rabbi Meir Shapiro",
+      "Global Jewish Unity",
+      "Adult Education",
+      "Religious Practice",
+      "Jewish Texts"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "jewish-texts/234-daf-yomi-movement/metadata.json"
+  },
+  {
+    "id": 241,
+    "title": {
+      "en": "Pikuach Nefesh: When Saving a Life Overrides Everything",
+      "zh": "生命至上原则（Pikuach Nefesh）：当拯救生命凌驾于一切之上",
+      "he": "פיקוח נפש: כאשר הצלת חיים גוברת על הכל"
+    },
+    "section": "jewish-texts",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "PikuachNefesh",
+      "SavingLife",
+      "Shabbat",
+      "EmergencyHalacha",
+      "MedicalEthics",
+      "JewishLaw",
+      "ShulchanAruch",
+      "Talmud",
+      "YomKippur",
+      "MentalHealth",
+      "PublicHealth",
+      "Halacha",
+      "JewishValues",
+      "HumanLife",
+      "JewishTexts",
+      "生命至上",
+      "犹太法",
+      "安息日",
+      "פיקוחנפש",
+      "הלכה",
+      "שבת"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "jewish-texts/241-pikuach-nefesh/metadata.json"
+  },
+  {
+    "id": 245,
+    "title": {
+      "en": "The Alter Rebbe: Rabbi Schneur Zalman and the Birth of Chabad",
+      "zh": "阿尔特·雷贝:拉比施纽尔·扎勒曼与查巴德的诞生",
+      "he": "האדמו\"ר הזקן: רבי שניאור זלמן מלאדי ולידת חב\"ד"
+    },
+    "section": "chabad",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Alter Rebbe",
+      "Rabbi Schneur Zalman",
+      "Chabad",
+      "Chassidism",
+      "Tanya",
+      "19 Kislev",
+      "Beinoni",
+      "Chochmah Binah Daat",
+      "Qing Dynasty",
+      "Jewish Philosophy",
+      "Chabad History",
+      "Chinese Cultural Parallels"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Confucian scholar-disciple relationships",
+      "Neo-Confucian self-cultivation (修身)",
+      "Investigation of things to extend knowledge (格物致知)",
+      "Taoist wu wei (无为)",
+      "Chinese Qing Dynasty (Emperor Qianlong)"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "chabad/245-alter-rebbe-chabad/metadata.json"
+  },
+  {
+    "id": 246,
+    "title": {
+      "en": "The Rebbe's Ten Campaigns: Bringing Judaism to Every Jew",
+      "zh": "雷布的十大运动:将犹太教带给每一位犹太人",
+      "he": "עשר המבצעים של הרבי: להביא יהדות לכל יהודי"
+    },
+    "section": "chabad",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Rebbe",
+      "Menachem M Schneerson",
+      "Chabad-Lubavitch",
+      "Ten Campaigns",
+      "Jewish Outreach",
+      "Mivtzoim",
+      "Ahavat Yisrael",
+      "Tefillin",
+      "Mezuzah",
+      "Tzedakah",
+      "Torah Study",
+      "Candle Lighting",
+      "Kashrut",
+      "Family Purity",
+      "Jewish Education",
+      "Mitzvah",
+      "Modern Judaism",
+      "Kiruv",
+      "Love of Jews",
+      "Chassidut in Action",
+      "渐修",
+      "有教无类",
+      "Chabad",
+      "Jewish Tradition"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "chabad/246-rebbe-ten-campaigns/metadata.json"
+  },
+  {
+    "id": 250,
+    "title": {
+      "en": "The Niggun: Chassidic Melodies That Elevate the Soul",
+      "zh": "尼贡（Niggun）：提升灵魂的哈西德旋律",
+      "he": "הניגון: מנגינות חסידיות שמרוממות את הנשמה"
+    },
+    "section": "chabad",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Niggun",
+      "ChassidusMusic",
+      "BaalShemTov",
+      "AlterRebbe",
+      "Chabad",
+      "SoulSong",
+      "Meditation",
+      "CommunalSinging",
+      "JewishMysticism",
+      "Farbrengen",
+      "清朝",
+      "音樂修身",
+      "ניגון",
+      "חסידות"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Chinese guqin music - melodic purity over ornamentation",
+      "Confucian philosophy - music shapes character (樂)",
+      "Daoist meditation practices - wuwei through rhythmic repetition",
+      "Buddhist monastery chanting - communal embodied practice"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "completed",
+    "filePath": "chabad/250-niggun-melodies/metadata.json"
+  },
+  {
+    "id": 251,
+    "title": {
+      "en": "Farbrengen: The Chassidic Gathering That Transforms",
+      "zh": "Farbrengen:改变生命的哈西德聚会",
+      "he": "פארברענגען: המפגש החסידי שמשנה חיים"
+    },
+    "section": "chabad",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Farbrengen",
+      "Chabad",
+      "Chassidut",
+      "Niggun",
+      "Chassidic Gathering",
+      "Spiritual Transformation",
+      "Lubavitcher Rebbe",
+      "Baal Shem Tov",
+      "Alter Rebbe",
+      "Jewish Mysticism",
+      "Communal Prayer",
+      "L'chaim",
+      "Achdus",
+      "Unity",
+      "Qing Dynasty",
+      "Chinese Literati Gatherings",
+      "Daoism",
+      "Dao",
+      "Spiritual Practice",
+      "Jewish Life"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Chinese literati gatherings (文人雅集)",
+      "Japanese tea ceremony (茶道)",
+      "Confucian music and harmony (禮記)",
+      "Daoist concepts of the Way (道)",
+      "Sufi dhikr gatherings"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "chabad/251-farbrengen-gathering/metadata.json"
+  },
+  {
+    "id": 252,
+    "title": {
+      "en": "The Tzemach Tzedek, the Rebbe Rashab, and the Other Chabad Rebbes",
+      "zh": "第三代至第六代拉比：查巴德历史的承传",
+      "he": "הצמח צדק, הרבי רש״ב ושאר רבותינו נשיאי חב״ד"
+    },
+    "section": "chabad",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "ChabadHistory",
+      "TzemachTzedek",
+      "RebeMaharash",
+      "RebeRashab",
+      "FrierdikerRebe",
+      "ChassidicLeadership",
+      "JewishResistance",
+      "TorahEducation",
+      "Lchatchila",
+      "TomcheiTemimim",
+      "SovietJews",
+      "JewishCourage",
+      "Mesorah",
+      "清朝",
+      "Revolution",
+      "传承"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "completed",
+    "filePath": "chabad/252-chabad-rebbes-history/metadata.json"
+  },
+  {
+    "id": 213,
+    "title": {
+      "en": "Waiting Between Meat and Dairy: The Different Customs Explained",
+      "zh": "肉类和奶制品之间的等待时间:不同习俗详解",
+      "he": "המתנה בין בשר לחלב: המנהגים השונים מוסברים"
+    },
+    "section": "kosher-food",
+    "description": {
+      "en": "A comprehensive guide to the different Jewish customs for waiting between eating meat and dairy — from one hour to six hours — exploring the Talmudic sources, cultural wisdom, and practical implementation for families.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "KosherFood",
+      "MeatAndDairy",
+      "Kashrut",
+      "WaitingPeriod",
+      "Talmud",
+      "Halacha",
+      "AshkenaziCustoms",
+      "SephardiCustoms",
+      "洁食规定",
+      "肉类奶制品",
+      "犹太法律",
+      "等待时间",
+      "传统习俗",
+      "正念饮食",
+      "בשר וחלב",
+      "כשרות",
+      "הלכה",
+      "מנהגים",
+      "התלמוד",
+      "רמב״ם",
+      "JewishLaw",
+      "Mindfulness",
+      "Patience",
+      "Tradition",
+      "FamilyPractice",
+      "SpiritualDiscipline"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Confucian li (礼) and mindful eating practices",
+      "Chinese tea ceremony (茶道 chádào) timing vs. waiting between meat and dairy",
+      "Buddhist mindful eating vs. Jewish intentional consumption",
+      "Traditional Chinese patience and discipline values"
+    ],
+    "chinese_dynasty_references": [
+      {
+        "dynasty": "Wei-Jin-Northern and Southern Dynasties (魏晋南北朝)",
+        "dates": "220-589 CE",
+        "jewish_context": "Talmudic Period (~200-500 CE) when basic principles were established"
+      },
+      {
+        "dynasty": "Song, Yuan, and Ming Dynasties (宋元明)",
+        "dates": "960-1644 CE",
+        "jewish_context": "Rishonim Period (~1000-1500 CE) when major codifiers like Rambam established customs"
+      }
+    ],
+    "status": "complete",
+    "filePath": "kosher-food/213-waiting-meat-dairy/metadata.json"
+  },
+  {
+    "id": 214,
+    "title": {
+      "en": "Kosher Fish Guide: Which Fish Are Kosher and How to Verify",
+      "zh": "犹太洁食鱼类指南:哪些鱼是洁食及如何验证",
+      "he": "מדריך דגים כשרים: אילו דגים כשרים וכיצד לוודא"
+    },
+    "section": "kosher-food",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "KosherFood",
+      "Kosher",
+      "Fish",
+      "Guide",
+      "Which",
+      "Are",
+      "Verify"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "kosher-food/214-kosher-fish-guide/metadata.json"
+  },
+  {
+    "id": 215,
+    "title": {
+      "en": "Pas Yisroel, Cholov Yisroel, and Bishul Yisroel: The Extra Standards",
+      "zh": "犹太面包、犹太牛奶和犹太烹饪:超越基础的洁食标准",
+      "he": "פת ישראל, חלב ישראל ובישול ישראל: הסטנדרטים המוגברים"
+    },
+    "section": "kosher-food",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "KosherFood",
+      "Pas",
+      "Yisroel",
+      "Cholov",
+      "Bishul",
+      "Extra",
+      "Standards"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "kosher-food/215-pas-cholov-bishul-yisroel/metadata.json"
+  },
+  {
+    "id": 216,
+    "title": {
+      "en": "Kosher Wine and Grape Juice: Why It Matters Who Handles It",
+      "zh": "犹太洁食葡萄酒和葡萄汁：为什么由谁处理很重要",
+      "he": "יין ומיץ ענבים כשרים: למה חשוב מי נוגע בהם"
+    },
+    "section": "kosher-food",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "kosher",
+      "wine",
+      "grape-juice",
+      "stam-yeinam",
+      "mevushal",
+      "kashrut",
+      "food-laws",
+      "halacha",
+      "practical-guide"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Chinese baijiu and ritual spirits",
+      "Tea culture and specific production methods",
+      "Balance between hospitality and maintaining cultural boundaries"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "published",
+    "filePath": "kosher-food/216-kosher-wine-grape-juice/metadata.json"
+  },
+  {
+    "id": 217,
+    "title": {
+      "en": "Reading Kosher Symbols: OU, OK, Star-K and What They Mean",
+      "zh": "认识犹太洁食认证标志：OU、OK、Star-K 及其含义",
+      "he": "קריאת סימני כשרות: OU, OK, Star-K ומה הם אומרים"
+    },
+    "section": "kosher-food",
+    "description": {
+      "en": "A comprehensive guide to understanding kosher certification symbols including OU, OK, Star-K, and other major hechsherim, with explanations of letter codes (D, P, M), supervision processes, and practical guidance for reading food labels.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "KosherFood",
+      "Reading",
+      "Kosher",
+      "Symbols",
+      "Star-K",
+      "They",
+      "Mean"
+    ],
+    "sources": [
+      "https://oukosher.org",
+      "https://www.ok.org",
+      "https://www.star-k.org",
+      "https://www.kof-k.org",
+      "https://www.crcweb.org"
+    ],
+    "cultural_parallels": [
+      "Comparison to Chinese traditional food preparation standards and trust in local craftsmen",
+      "Parallels to traditional Chinese medicine ingredient sourcing and preparation standards",
+      "Reference to 食不厌精 (food preparation refinement) and 时令而食 (eating seasonally)"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "kosher-food/217-kosher-symbols-guide/metadata.json"
+  },
+  {
+    "id": 297,
+    "title": {
+      "en": "The Protocols of the Elders of Zion: History's Most Dangerous Forgery",
+      "zh": "《锡安长老会纪要》：历史上最危险的伪造文件",
+      "he": "פרוטוקולי זקני ציון: הזיוף המסוכן ביותר בהיסטוריה"
+    },
+    "section": "antisemitism",
+    "description": {
+      "en": "An in-depth exploration of The Protocols of the Elders of Zion - the most dangerous forgery in history - its fraudulent origins, deadly consequences, and lessons for combating conspiracy theories and hate in the modern era.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Antisemitism",
+      "Protocols",
+      "Forgery",
+      "Holocaust",
+      "Conspiracy",
+      "MediaLiteracy",
+      "CriticalThinking",
+      "JewishHistory",
+      "Nazi",
+      "Russia",
+      "清朝",
+      "谣言",
+      "仇恨",
+      "真相"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Qing Dynasty (1644-1912) as contemporary period",
+      "Cultural Revolution fabricated documents and false accusations",
+      "Chinese historical use of rumors during dynastic transitions",
+      "Parallels between scapegoating and political instability"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "antisemitism/297-protocols-elders-zion/metadata.json"
+  },
+  {
+    "id": 298,
+    "title": {
+      "en": "Blood Libel: The Accusation That Haunted Jews for Centuries",
+      "zh": "血祭诽谤：困扰犹太人数百年的指控",
+      "he": "עלילת הדם: האשמה שרדפה את היהודים במשך מאות שנים"
+    },
+    "section": "antisemitism",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "BloodLibel",
+      "Antisemitism",
+      "JewishHistory",
+      "MedievalEurope",
+      "Persecution",
+      "Scapegoating",
+      "Conspiracy",
+      "Truth",
+      "Justice",
+      "HumanRights",
+      "Passover",
+      "Martyrdom",
+      "Resilience",
+      "南宋",
+      "明朝",
+      "历史教训",
+      "反犹主义",
+      "עלילתדם",
+      "אנטישמיות",
+      "היסטוריהיהודית"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "completed",
+    "filePath": "antisemitism/298-blood-libel-history/metadata.json"
+  },
+  {
+    "id": 299,
+    "title": {
+      "en": "Jewish Pride: Building a Strong Identity in a Hostile World",
+      "zh": "犹太自豪感:在敌对世界中建立强大身份认同",
+      "he": "גאווה יהודית: בניית זהות חזקה בעולם עוין"
+    },
+    "section": "antisemitism",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "JewishPride",
+      "Identity",
+      "Antisemitism",
+      "Resilience",
+      "Heritage",
+      "Community",
+      "Purpose",
+      "TikkunOlam",
+      "KiddushHashem",
+      "JewishEducation",
+      "Israel",
+      "Assimilation",
+      "文化自信",
+      "传承",
+      "犹太认同",
+      "自豪感",
+      "גאווה_יהודית",
+      "זהות",
+      "אנטישמיות"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "antisemitism/299-jewish-pride-identity/metadata.json"
+  },
+  {
+    "id": 300,
+    "title": {
+      "en": "Why Are There So Few Jews? Understanding Jewish Demographics",
+      "zh": "为什么犹太人这么少？理解犹太人口现状",
+      "he": "למה יש כל כך מעט יהודים? הבנת הדמוגרפיה היהודית"
+    },
+    "section": "antisemitism",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "JewishDemographics",
+      "JewishPopulation",
+      "Holocaust",
+      "Assimilation",
+      "Conversion",
+      "Orthodox",
+      "Israel",
+      "JewishHistory",
+      "JewishIdentity",
+      "Antisemitism",
+      "JewishSurvival",
+      "Intermarriage",
+      "HanDynasty",
+      "SongDynasty",
+      "MingDynasty"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "antisemitism/300-jewish-demographics/metadata.json"
+  },
+  {
+    "id": 247,
+    "title": {
+      "en": "What is Kabbalah? The Authentic Jewish Mystical Tradition",
+      "zh": "什么是卡巴拉？犹太神秘主义的真正传统",
+      "he": "מהי קבלה? המסורת המיסטית היהודית האותנטית"
+    },
+    "section": "philosophy",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Kabbalah",
+      "Jewish Mysticism",
+      "Philosophy",
+      "Chassidism",
+      "Sefirot",
+      "Ein Sof",
+      "Tzimtzum",
+      "Tikkun Olam",
+      "Tanya",
+      "Zohar",
+      "Spirituality",
+      "Torah",
+      "Inner Dimension",
+      "Divine Wisdom",
+      "神秘主义",
+      "卡巴拉",
+      "道",
+      "阴阳",
+      "修身",
+      "Chabad",
+      "Baal Shem Tov",
+      "Alter Rebbe",
+      "Arizal"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Daoism - Ein Sof and the Dao (无法言说的道)",
+      "Yin-Yang - Sefirot balance (阴阳平衡)",
+      "Buddhist merit accumulation - Tikkun Olam (积功德)",
+      "Confucian self-cultivation - Character refinement (修身齐家治国平天下)",
+      "Han Dynasty - Early Kabbalistic traditions (汉朝)",
+      "Song-Ming Dynasty - Medieval Kabbalah flourishing (宋明时期)",
+      "Qing Dynasty - Chassidic integration (清朝)"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "philosophy/247-kabbalah-authentic/metadata.json"
+  },
+  {
+    "id": 248,
+    "title": {
+      "en": "The Ten Sefirot Explained Simply",
+      "zh": "十个神圣光辉的简单解释",
+      "he": "עשר הספירות מוסברות בפשטות"
+    },
+    "section": "philosophy",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Kabbalah",
+      "Sefirot",
+      "JewishMysticism",
+      "TenSefirot",
+      "Chabad",
+      "DivineAttributes",
+      "Spirituality",
+      "ChassidutThought",
+      "TreeOfLife",
+      "EinSof",
+      "神秘主义",
+      "卡巴拉",
+      "十个光辉",
+      "犹太哲学",
+      "平衡",
+      "道",
+      "Tiferet",
+      "Chesed",
+      "Gevurah",
+      "Philosophy",
+      "CharacterDevelopment",
+      "קבלה",
+      "ספירות",
+      "מיסטיקה_יהודית"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Dao (道) and Ein Sof",
+      "Wu Xing (五行) Five Elements",
+      "Yin-Yang Balance",
+      "Confucian Moderation (中庸)",
+      "Buddhist Emptiness (śūnyatā)",
+      "Wu Wei (无为) Enlightenment"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "philosophy/248-ten-sefirot-explained/metadata.json"
+  },
+  {
+    "id": 249,
+    "title": {
+      "en": "Hashgacha Pratit: Divine Providence in Daily Life",
+      "zh": "特殊护佑(Hashgacha Pratit):日常生活中的神意",
+      "he": "השגחה פרטית: ההשגחה האלוהית בחיי היום-יום"
+    },
+    "section": "philosophy",
+    "description": {
+      "en": "An exploration of the Jewish concept of Hashgacha Pratit (divine providence), teaching that God actively orchestrates every detail of individual lives with purpose and meaning. Includes cultural connections to Chinese concepts of yuánfèn (缘分) and the Dao (道).",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "#DivineProvidence",
+      "#HashgachaPratit",
+      "#JewishPhilosophy",
+      "#Faith",
+      "#Trust",
+      "#Bitachon",
+      "#FreeWill",
+      "#Destiny",
+      "#缘分",
+      "#道",
+      "#Rambam",
+      "#BaalShemTov",
+      "#Chassidut",
+      "#Meaning",
+      "#Purpose",
+      "#Gratitude",
+      "#Philosophy"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "philosophy/249-hashgacha-pratit/metadata.json"
+  },
+  {
+    "id": 144,
+    "title": {
+      "en": "The Haggadah's Four Sons: Which One Are You?",
+      "zh": "哈格达的四子：你是哪一个？",
+      "he": "ארבעה בנים בהגדה: איזה מהם אתה?"
+    },
+    "section": "passover-seder",
+    "description": {
+      "en": "A deep dive into the Wise, Wicked, Simple, and Silent children — what each represents and how to engage every type of learner.",
+      "he": "עיון מעמיק בילדים החכם, הרשע, התם והשתקן - מה כל אחד מייצג וכיצד לעסוק עם כל סוג לומד.",
+      "zh": "深入探讨智慧、邪恶、单纯和沉默的孩子——每个代表什么以及如何与每种类型的学习者互动。"
+    },
+    "tags": [
+      "PassoverSeder",
+      "Haggadah's",
+      "Four",
+      "Sons",
+      "Which",
+      "One",
+      "Are"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "passover-seder/144-four-sons-haggadah/metadata.json"
+  },
+  {
+    "id": 145,
+    "title": {
+      "en": "Matzah: The Bread of Affliction and Freedom",
+      "zh": "玛撒饼：苦难与自由的面包",
+      "he": "מצה: לחם העוני והחירות"
+    },
+    "section": "passover-seder",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "PassoverSeder",
+      "Matzah",
+      "Bread",
+      "Affliction",
+      "Freedom"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "passover-seder/145-matzah-bread-freedom/metadata.json"
+  },
+  {
+    "id": 149,
+    "title": {
+      "en": "Preparing Your Children for the Seder: Age-Appropriate Activities",
+      "zh": "为孩子们准备逾越节晚餐：适龄活动指南",
+      "he": "הכנת הילדים לליל הסדר: פעילויות מותאמות גיל"
+    },
+    "section": "passover-seder",
+    "description": {
+      "en": "Games, crafts, songs, and discussion prompts to keep children of all ages engaged and learning at the Passover Seder.",
+      "zh": "游戏、手工、歌曲和讨论提示，让各年龄段的孩子在逾越节晚餐中保持参与和学习。",
+      "he": "משחקים, יצירות, שירים ורמזי דיון כדי לשמור על מעורבות ולמידה של ילדים בכל הגילאים בליל הסדר."
+    },
+    "tags": [
+      "PassoverSeder",
+      "Preparing",
+      "Children",
+      "Seder",
+      "Age-Appropriate",
+      "Activities"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "passover-seder/149-seder-children-activities/metadata.json"
+  },
+  {
+    "id": 3,
+    "title": {
+      "en": "The Binding of Isaac: Faith, Sacrifice, and the Test of Abraham",
+      "zh": "以撒的捆绑:信仰、牺牲与亚伯拉罕的考验",
+      "he": "עקדת יצחק: אמונה, הקרבה ומבחן אברהם"
+    },
+    "section": "torah-study",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "TorahStudy",
+      "Binding",
+      "Isaac",
+      "Faith",
+      "Sacrifice",
+      "Test",
+      "Abraham"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "torah-study/003-binding-of-isaac/metadata.json"
+  },
+  {
+    "id": 61,
+    "title": {
+      "en": "The Noahide Laws: Judaism's Universal Moral Code",
+      "zh": "诺亚七律:犹太教的普世道德准则",
+      "he": "שבע מצוות בני נח: קוד המוסר האוניברסלי של היהדות"
+    },
+    "section": "non-jewish-relations",
+    "description": {
+      "en": "An exploration of the Seven Noahide Laws—Judaism's universal ethical code for all humanity, including comparisons with Chinese philosophy.",
+      "zh": "探索诺亚七律——犹太教为全人类制定的普世道德准则，包括与中国哲学的比较。",
+      "he": "חקירה של שבע מצוות בני נח - קוד האתי האוניברסלי של היהדות לכל האנושות, כולל השוואות עם פילוסופיה סינית."
+    },
+    "tags": [
+      "NonJewishRelations",
+      "Noahide",
+      "Laws",
+      "Judaism's",
+      "Universal",
+      "Moral",
+      "Code"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "published",
+    "filePath": "non-jewish-relations/061-noahide-laws/metadata.json"
+  },
+  {
+    "id": 62,
+    "title": {
+      "en": "Jewish Mentorship: How a Teacher-Student Relationship Works in Judaism",
+      "zh": "犹太导师制:犹太教中师生关系的运作方式",
+      "he": "חניכות יהודית: כיצד פועל קשר רב-תלמיד ביהדות"
+    },
+    "section": "community",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Mentorship",
+      "RavTalmid",
+      "TorahStudy",
+      "JewishEducation",
+      "MosesAndJoshua",
+      "ElijahAndElisha",
+      "Mesorah",
+      "ChainOfTradition",
+      "Shimush",
+      "DerechEretz",
+      "师生关系",
+      "传统",
+      "道统",
+      "ChineseCulture",
+      "Confucianism",
+      "Daoism"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "completed",
+    "filePath": "community/062-mentorship/metadata.json"
+  },
+  {
+    "id": 99,
+    "title": {
+      "en": "What is the Messiah? The Jewish View Explained Clearly",
+      "zh": "什么是弥赛亚?犹太教观点详解",
+      "he": "מהו המשיח? ההשקפה היהודית המוסברת בבירור"
+    },
+    "section": "messiah",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Messiah",
+      "Jewish",
+      "View",
+      "Explained",
+      "Clearly"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "messiah/099-what-is-messiah/metadata.json"
+  },
+  {
+    "id": 237,
+    "title": {
+      "en": "The Jewish Home: Making Your House a Mikdash Me'at",
+      "zh": "犹太家庭：将您的房屋打造成微型圣所",
+      "he": "הבית היהודי: הפיכת ביתך למקדש מעט"
+    },
+    "section": "jewish-home",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "MikdashMeAt",
+      "JewishHome",
+      "Temple",
+      "Sanctuary",
+      "Mezuzah",
+      "Shabbat",
+      "Hospitality",
+      "Kashrut",
+      "TorahStudy",
+      "HolySpace",
+      "Exile",
+      "DivinPresence",
+      "Shechinah",
+      "KaifengJews",
+      "JewsInAsia",
+      "犹太家庭",
+      "圣所",
+      "微型圣殿",
+      "מקדש_מעט",
+      "בית_המקדש",
+      "שכינה",
+      "Ezekiel",
+      "Kabbalah",
+      "ChassidutThought",
+      "Redemption"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "completed",
+    "filePath": "jewish-home/237-mikdash-meat-sanctuary/metadata.json"
+  },
+  {
+    "id": 500,
+    "title": {
+      "en": "The Spiritual Meaning Behind Keeping Kosher",
+      "zh": "守犹太洁食的灵性意义",
+      "he": "המשמעות הרוחנית של שמירת כשרות"
+    },
+    "section": "torah-light-articles",
+    "description": {
+      "en": "Beyond the rules: why kashrut matters spiritually, what it does for the soul, and how it elevates the act of eating.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "#Kosher",
+      "#Kashrut",
+      "#Holiness",
+      "#SpiritualEating",
+      "#Torah",
+      "#Leviticus",
+      "#Maharal",
+      "#SelfDiscipline",
+      "#Elevation",
+      "#Kedushah",
+      "#קדושה",
+      "#כשרות",
+      "#修身",
+      "#道家",
+      "#商朝",
+      "#明朝",
+      "#元朝",
+      "#KosherFood"
+    ],
+    "sources": [
+      "https://aish.com/48945306/",
+      "https://aish.com/spiritual-eating/",
+      "https://www.sefaria.org/Leviticus.11",
+      "https://www.chabad.org/library/article_cdo/aid/60319/jewish/Why-Do-We-Keep-Kosher.htm"
+    ],
+    "cultural_parallels": [
+      "Daoist dietary purity practices",
+      "Buddhist vegetarianism",
+      "Confucian self-cultivation (修身)",
+      "Traditional Chinese Medicine - food as medicine affecting qi",
+      "Tea ceremony purification rituals"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "drafted",
+    "filePath": "torah-light-articles/article-27/metadata.json"
+  },
+  {
+    "id": 501,
+    "title": {
+      "en": "The Tallit: More Than Just a Prayer Shawl",
+      "zh": "祷告披肩塔利特：不仅仅是一块布",
+      "he": "הטלית: יותר מסתם צעיף תפילה"
+    },
+    "section": "torah-light-articles",
+    "description": {
+      "en": "History, laws, and customs of the tallit — when to wear it, how to put it on, and the significance of the blue thread.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Tallit",
+      "TzitzitFringes",
+      "PrayerShawl",
+      "MitzvahObjects",
+      "BiblicalCommandments",
+      "SacredNumbers",
+      "Techelet",
+      "BlueThread",
+      "MorningPrayer",
+      "ShangDynasty",
+      "商朝",
+      "DivinePresence",
+      "JewishRitual",
+      "SpiritualClothing",
+      "613Commandments"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "draft_complete",
+    "filePath": "torah-light-articles/article-39/metadata.json"
+  },
+  {
+    "id": 502,
+    "title": {
+      "en": "The Seven Middot (Character Traits) and How to Develop Them",
+      "zh": "犹太教七大品格特质及其修养方法",
+      "he": "שבע המידות: מדריך לפיתוח תכונות האופי"
+    },
+    "section": "torah-light-articles",
+    "description": {
+      "en": "A comprehensive guide to the seven foundational character traits in Jewish thought - chesed, gevurah, tiferet, netzach, hod, yesod, and malchut - with practical applications for daily life and spiritual growth.",
+      "he": "מדריך מקיף לשבע המידות היסודיות במחשבה היהודית - חסד, גבורה, תפארת, נצח, הוד, יסוד ומלכות - עם יישומים מעשיים לחיים יומיים וצמיחה רוחנית.",
+      "zh": "犹太思想中七大基础品格特质——仁慈、力量、美、恒心、谦逊、基础和主权的全面指南，包含日常生活和精神成长的实际应用。"
+    },
+    "tags": [
+      "mussar",
+      "character-development",
+      "seven-middot",
+      "sefirot",
+      "chesed",
+      "gevurah",
+      "tiferet",
+      "netzach",
+      "hod",
+      "yesod",
+      "malchut",
+      "kabbalah",
+      "spiritual-growth",
+      "chassidus",
+      "counting-omer",
+      "jewish-ethics",
+      "品德修养",
+      "七大品格",
+      "confucianism",
+      "pirkei-avot",
+      "self-improvement"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "published",
+    "filePath": "torah-light-articles/article-74/metadata.json"
+  },
+  {
+    "id": 503,
+    "title": {
+      "en": "Ashkenazi vs. Sephardi: Understanding the Two Great Jewish Traditions",
+      "zh": "",
+      "he": ""
+    },
+    "section": "ashkenazi-sephardi",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "AshkenaziSephardi",
+      "Ashkenazi",
+      "Sephardi",
+      "Understanding",
+      "Two",
+      "Great",
+      "Jewish",
+      "Traditions"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "ashkenazi-sephardi/metadata.json"
   }
 ]
