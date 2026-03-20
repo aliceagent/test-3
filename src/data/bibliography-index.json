@@ -3126,7 +3126,11 @@
       "he": ""
     },
     "section": "prayer",
-    "description": "If you're new to Jewish prayer, start with Modeh Ani, Shema, and Birkat HaMazon — here's how.",
+    "description": {
+      "en": "If you're new to Jewish prayer, start with Modeh Ani, Shema, and Birkat HaMazon — here's how.",
+      "zh": "如果您刚接触犹太祈祷，从Modeh Ani、Shema和饭后感恩祈祷开始——方法如下。",
+      "he": "אם אתם חדשים בתפילה יהודית, התחילו עם מודה אני, שמע וברכת המזון — הנה איך."
+    },
     "tags": [],
     "sources": [],
     "cultural_parallels": [],
@@ -3142,7 +3146,11 @@
       "he": "השבת הראשונה שלך: מדריך שלב אחר שלב למתחילים מוחלטים"
     },
     "section": "shabbat",
-    "description": "Everything you need to know to observe your first Shabbat, from Friday afternoon preparation to Havdalah Saturday night.",
+    "description": {
+      "en": "Everything you need to know to observe your first Shabbat, from Friday afternoon preparation to Havdalah Saturday night.",
+      "zh": "守第一个安息日所需了解的一切——从周五下午的准备到周六晚上的Havdalah。",
+      "he": "כל מה שצריך לדעת כדי לשמור את השבת הראשונה שלכם, מהכנות יום שישי אחר הצהריים ועד הבדלה במוצאי שבת."
+    },
     "tags": [],
     "sources": [],
     "cultural_parallels": [],
@@ -3158,7 +3166,11 @@
       "he": "קידוש: הטקסט המלא, התרגום והמשמעות"
     },
     "section": "shabbat",
-    "description": "Complete guide to Kiddush for Friday night and Shabbat day, with full Hebrew text, English and Chinese translations, transliteration, and deep meaning behind every word.",
+    "description": {
+      "en": "Complete guide to Kiddush for Friday night and Shabbat day, with full Hebrew text, English and Chinese translations, transliteration, and deep meaning behind every word.",
+      "zh": "周五晚和安息日Kiddush的完整指南，含希伯来文全文、中英文翻译、音译及每个词的深层含义。",
+      "he": "מדריך מלא לקידוש ליל שבת ויום שבת, עם הטקסט המלא בעברית, תרגום לאנגלית וסינית, תעתיק, ומשמעות עמוקה מאחורי כל מילה."
+    },
     "tags": [],
     "sources": [],
     "cultural_parallels": [],
@@ -3174,7 +3186,11 @@
       "he": ""
     },
     "section": "",
-    "description": "A comprehensive guide to the Havdalah ceremony - the beautiful ritual that marks the end of Shabbat. Learn the step-by-step process using wine, spices, and braided candlelight to distinguish between the sacred and mundane.",
+    "description": {
+      "en": "A comprehensive guide to the Havdalah ceremony - the beautiful ritual that marks the end of Shabbat. Learn the step-by-step process using wine, spices, and braided candlelight to distinguish between the sacred and mundane.",
+      "zh": "Havdalah仪式的全面指南——标志安息日结束的美丽仪式。学习用葡萄酒、香料和编织蜡烛区分神圣与世俗的分步过程。",
+      "he": "מדריך מקיף לטקס ההבדלה — הטקס היפה שמסמן את סיום השבת. למדו את התהליך שלב אחר שלב עם יין, בשמים ונר הבדלה להבחין בין קודש לחול."
+    },
     "tags": [],
     "sources": [],
     "cultural_parallels": [],
@@ -3190,7 +3206,11 @@
       "he": ""
     },
     "section": "kosher-food",
-    "description": "Beyond the rules: why kashrut matters spiritually, what it does for the soul, and how it elevates the act of eating.",
+    "description": {
+      "en": "Beyond the rules: why kashrut matters spiritually, what it does for the soul, and how it elevates the act of eating.",
+      "zh": "超越规则：洁食的精神意义、对灵魂的作用，以及它如何提升饮食行为。",
+      "he": "מעבר לכללים: מדוע הכשרות חשובה מבחינה רוחנית, מה היא עושה לנשמה, וכיצד היא מרוממת את פעולת האכילה."
+    },
     "tags": [
       "#Kosher",
       "#Kashrut",
@@ -3236,7 +3256,11 @@
       "he": ""
     },
     "section": "mitzvah_objects",
-    "description": "History, laws, and customs of the tallit — when to wear it, how to put it on, and the significance of the blue thread.",
+    "description": {
+      "en": "History, laws, and customs of the tallit — when to wear it, how to put it on, and the significance of the blue thread.",
+      "zh": "祈祷披巾的历史、律法和习俗——何时穿戴、如何穿上，以及蓝色线的意义。",
+      "he": "היסטוריה, הלכות ומנהגי הטלית — מתי ללבוש, כיצד לעטוף, ומשמעות החוט הכחול."
+    },
     "tags": [
       "Tallit",
       "TzitzitFringes",
@@ -3268,7 +3292,11 @@
       "he": "שבע המידות: מדריך לפיתוח תכונות האופי"
     },
     "section": "",
-    "description": "A comprehensive guide to the seven foundational character traits in Jewish thought - chesed, gevurah, tiferet, netzach, hod, yesod, and malchut - with practical applications for daily life and spiritual growth.",
+    "description": {
+      "en": "A comprehensive guide to the seven foundational character traits in Jewish thought - chesed, gevurah, tiferet, netzach, hod, yesod, and malchut - with practical applications for daily life and spiritual growth.",
+      "zh": "犹太思想中七种基本品格特质的全面指南——仁慈、刚毅、和谐、持久、谦卑、根基、实现——以及日常生活和灵性成长的实际应用。",
+      "he": "מדריך מקיף לשבע תכונות האופי היסודיות במחשבה היהודית — חסד, גבורה, תפארת, נצח, הוד, יסוד ומלכות — עם יישומים מעשיים לחיי יום-יום וצמיחה רוחנית."
+    },
     "tags": [
       "mussar",
       "character-development",
@@ -3373,7 +3401,11 @@
       "he": ""
     },
     "section": "weekly-parsha",
-    "description": "A reusable framework for creating meaningful Shabbat table discussions from any weekly Torah portion.",
+    "description": {
+      "en": "A reusable framework for creating meaningful Shabbat table discussions from any weekly Torah portion.",
+      "zh": "一个可重复使用的框架，用于从每周Torah篇章中创建有意义的安息日餐桌讨论。",
+      "he": "מסגרת לשימוש חוזר ליצירת דיונים משמעותיים בשולחן השבת מכל פרשת שבוע."
+    },
     "tags": [
       "WeeklyParsha",
       "TorahStudy",
@@ -3449,7 +3481,11 @@
       "he": ""
     },
     "section": "jewish-calendar",
-    "description": "How the month before Rosh Hashanah is used for teshuvah (repentance), hearing the shofar daily, and the custom of Selichot.",
+    "description": {
+      "en": "How the month before Rosh Hashanah is used for teshuvah (repentance), hearing the shofar daily, and the custom of Selichot.",
+      "zh": "犹太新年前一个月如何用于忏悔（teshuvah）、每日聆听羊角号，以及Selichot的习俗。",
+      "he": "כיצד החודש שלפני ראש השנה משמש לתשובה, לשמיעת שופר יומית, ולמנהג הסליחות."
+    },
     "tags": [
       "Elul",
       "HighHolidays",
@@ -3582,7 +3618,11 @@
       "he": "חיי שרה: איך לבחור בן/בת זוג - לקחים משליחותו של אליעזר"
     },
     "section": "weekly-parsha",
-    "description": "The servant's journey to find a wife for Isaac and what the Torah teaches about identifying good character in a partner.",
+    "description": {
+      "en": "The servant's journey to find a wife for Isaac and what the Torah teaches about identifying good character in a partner.",
+      "zh": "仆人为以撒寻找妻子的旅程，以及Torah关于如何辨识伴侣良好品格的教导。",
+      "he": "מסעו של העבד למצוא אישה ליצחק ומה התורה מלמדת על זיהוי מידות טובות בבן/בת זוג."
+    },
     "tags": [],
     "sources": [],
     "cultural_parallels": [],
@@ -3635,7 +3675,11 @@
       "he": "מקץ: יוסף פותר את חלומות פרעה — אמונה בזמנים של אי־ודאות"
     },
     "section": "weekly-parsha",
-    "description": "How Joseph's ability to interpret dreams came from God, and what this teaches about trusting divine timing in our own lives.",
+    "description": {
+      "en": "How Joseph's ability to interpret dreams came from God, and what this teaches about trusting divine timing in our own lives.",
+      "zh": "约瑟解梦的能力如何来自上帝，以及这教导我们如何在生活中信靠神圣的时机。",
+      "he": "כיצד יכולתו של יוסף לפתור חלומות באה מאת ה', ומה זה מלמד על ביטחון בתזמון האלוקי בחיינו."
+    },
     "tags": [],
     "sources": [],
     "cultural_parallels": [],
@@ -3651,7 +3695,11 @@
       "he": "יתרו: הרגע שהשפיע על ההיסטוריה — קבלת התורה בהר סיני"
     },
     "section": "weekly-parsha",
-    "description": "A detailed look at the revelation at Mount Sinai, the preparation of the people, and why every Jewish soul was present.",
+    "description": {
+      "en": "A detailed look at the revelation at Mount Sinai, the preparation of the people, and why every Jewish soul was present.",
+      "zh": "详细审视西奈山的启示、民众的准备，以及为什么每个犹太灵魂都在场。",
+      "he": "מבט מפורט על ההתגלות בהר סיני, הכנת העם, ומדוע כל נשמה יהודית הייתה נוכחת."
+    },
     "tags": [],
     "sources": [],
     "cultural_parallels": [],
