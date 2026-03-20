@@ -1,0 +1,41 @@
+{
+  "id": 44,
+  "title": {
+    "en": "The Four Species (Arba Minim): How to Choose and Use Them",
+    "zh": "四種植物(Arba Minim):如何選擇和使用",
+    "he": "ארבעת המינים: כיצד לבחור ולהשתמש בהם"
+  },
+  "section": "Holidays",
+  "folder": "holidays",
+  "description": "A guide to selecting the lulav, etrog, hadas, and arava — and the waving ritual performed during Sukkot.",
+  "word_count": {
+    "en": 2847,
+    "zh": 1458,
+    "he": 2352
+  },
+  "languages": ["en", "zh", "he"],
+  "status": "completed",
+  "created": "2026-03-17T10:40:00+02:00",
+  "tags": [
+    "Sukkot",
+    "Four Species",
+    "Arba Minim",
+    "Lulav",
+    "Etrog",
+    "Jewish Unity",
+    "Mitzvah",
+    "Holidays",
+    "Torah Study",
+    "Good Deeds",
+    "四種植物",
+    "住棚節",
+    "Unity",
+    "Diversity",
+    "和",
+    "High Holidays",
+    "Tishrei",
+    "Hiddur Mitzvah"
+  ],
+  "bibliography_urls_verified": true,
+  "historical_period_mapping": "Shang Dynasty (商朝) ~1300-1046 BCE, Spring & Autumn to Han Dynasty (春秋時期至漢朝) ~957 BCE - 70 CE"
+}

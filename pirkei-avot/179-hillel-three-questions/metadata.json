@@ -1,0 +1,76 @@
+{
+  "id": 179,
+  "title": {
+    "en": "If I Am Not for Myself, Who Will Be for Me? — Hillel's Three Questions",
+    "zh": "若我不为自己,谁将为我?——希勒尔的三个问题",
+    "he": "אם אין אני לי, מי לי? — שלוש השאלות של הלל"
+  },
+  "section": "pirkei-avot",
+  "slug": "hillel-three-questions",
+  "batch": "200",
+  "author": "Torah Light Editorial Team",
+  "date_created": "2026-03-18",
+  "word_count": {
+    "en": 1453,
+    "zh": 841,
+    "he": 1412
+  },
+  "topics": [
+    "Pirkei Avot",
+    "Hillel the Elder",
+    "Ethics",
+    "Self-responsibility",
+    "Balance",
+    "Community service",
+    "Present moment",
+    "Chinese parallels",
+    "Confucianism",
+    "Mozi",
+    "Mussar"
+  ],
+  "primary_sources": [
+    "Pirkei Avot 1:14",
+    "Talmud Bavli Shabbat 31a"
+  ],
+  "cultural_parallels": [
+    "Confucian self-cultivation (修身)",
+    "Doctrine of the Mean (中庸)",
+    "Mencius on innate goodness",
+    "Mozi's universal love (兼爱)",
+    "I Ching on timing (时)",
+    "Chan/Zen present-moment awareness"
+  ],
+  "recommended_reading": [
+    "The Essential Talmud by Adin Steinsaltz",
+    "Letters to a Buddhist Jew by Rabbi Akiva Tatz",
+    "Pirkei Avos: A Chassidic Perspective by Rabbi Yitzchak Ginsburgh",
+    "Timeless Wisdom: Passages for Meditation from the Jewish Tradition by Eknath Easwaran"
+  ],
+  "online_resources": [
+    "Sefaria.org - Pirkei Avot with commentaries",
+    "Chabad.org - Ethics of Our Fathers",
+    "Aish.com - Pirkei Avos: Timeless Wisdom series"
+  ],
+  "target_audience": "Chinese native Mandarin speakers with no prior Jewish knowledge",
+  "tone": "Educational, warm, culturally sensitive",
+  "special_features": [
+    "Detailed comparison with Confucian thought",
+    "Practical application framework",
+    "Modern examples for career, relationships, and Jewish journey",
+    "Reflection questions for personal growth"
+  ],
+  "keywords": [
+    "Hillel the Elder",
+    "Pirkei Avot",
+    "self-responsibility",
+    "balance",
+    "community service",
+    "present moment",
+    "three questions",
+    "personal growth",
+    "Confucianism parallels",
+    "self-cultivation",
+    "ethical living",
+    "urgency"
+  ]
+}

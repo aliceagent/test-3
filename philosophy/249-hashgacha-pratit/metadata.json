@@ -1,0 +1,107 @@
+{
+  "id": 249,
+  "title": "Hashgacha Pratit: Divine Providence in Daily Life",
+  "title_zh": "特殊护佑(Hashgacha Pratit):日常生活中的神意",
+  "title_he": "השגחה פרטית: ההשגחה האלוהית בחיי היום-יום",
+  "section": "philosophy",
+  "slug": "hashgacha-pratit",
+  "word_count": {
+    "en": 1482,
+    "zh": 1638,
+    "he": 1425
+  },
+  "character_count": {
+    "zh": 4875
+  },
+  "description": "An exploration of the Jewish concept of Hashgacha Pratit (divine providence), teaching that God actively orchestrates every detail of individual lives with purpose and meaning. Includes cultural connections to Chinese concepts of yuánfèn (缘分) and the Dao (道).",
+  "keywords": [
+    "Hashgacha Pratit",
+    "divine providence",
+    "Jewish philosophy",
+    "faith",
+    "trust",
+    "bitachon",
+    "free will",
+    "destiny",
+    "Rambam",
+    "Baal Shem Tov",
+    "Chassidut",
+    "meaning",
+    "purpose"
+  ],
+  "tags": [
+    "#DivineProvidence",
+    "#HashgachaPratit",
+    "#JewishPhilosophy",
+    "#Faith",
+    "#Trust",
+    "#Bitachon",
+    "#FreeWill",
+    "#Destiny",
+    "#缘分",
+    "#道",
+    "#Rambam",
+    "#BaalShemTov",
+    "#Chassidut",
+    "#Meaning",
+    "#Purpose",
+    "#Gratitude",
+    "#Philosophy"
+  ],
+  "historical_periods": [
+    {
+      "period": "Southern Song Dynasty",
+      "chinese": "南宋",
+      "years": "1138-1204 CE",
+      "figure": "Maimonides (Rambam)"
+    },
+    {
+      "period": "Qing Dynasty",
+      "chinese": "清朝",
+      "years": "1698-1760",
+      "figure": "Baal Shem Tov"
+    },
+    {
+      "period": "Warring States to Han Dynasty",
+      "chinese": "战国-汉朝",
+      "years": "516 BCE - 70 CE",
+      "description": "Second Temple Period"
+    },
+    {
+      "period": "Song to Ming Dynasties",
+      "chinese": "宋-明",
+      "years": "1000-1500 CE",
+      "description": "Medieval Jewish philosophers"
+    }
+  ],
+  "cultural_parallels": [
+    {
+      "concept": "Yuánfèn (缘分)",
+      "description": "Chinese concept of fateful coincidence or destiny's connection",
+      "similarity": "Both recognize encounters aren't random",
+      "difference": "Hashgacha Pratit describes intentional acts of a personal God"
+    },
+    {
+      "concept": "Dao (道)",
+      "description": "The Way - aligning with natural flow of universe",
+      "similarity": "Both involve alignment with greater purpose",
+      "difference": "Hashgacha Pratit emphasizes relationship with caring God"
+    },
+    {
+      "concept": "Timing (时机)",
+      "description": "Everything happens at the right time",
+      "similarity": "Agreement on significance of timing",
+      "difference": "Jewish thought adds divine orchestration for individual benefit"
+    }
+  ],
+  "bibliography_count": 8,
+  "status": "complete",
+  "created_date": "2026-03-19",
+  "language_versions": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "target_audience": "Chinese native Mandarin speakers with no prior Jewish knowledge",
+  "tone": "Educational, warm, culturally sensitive"
+}

@@ -1,0 +1,84 @@
+{
+  "article_id": "046",
+  "title": {
+    "en": "Purim: Joy, Charity, and the Hidden Hand of God",
+    "zh": "普珥节:欢乐、慈善与神的隐藏之手",
+    "he": "פורים: שמחה, צדקה, ויד ה' הנסתרת"
+  },
+  "section": "Holidays",
+  "folder": "holidays",
+  "description": "Understanding the four mitzvot of Purim: Megillah reading, mishloach manot, gifts to the poor, and the festive meal.",
+  "word_count": {
+    "en": 3205,
+    "zh": 2891,
+    "he": 2947
+  },
+  "status": "draft_complete",
+  "languages": ["en", "zh", "he"],
+  "created_date": "2026-03-17",
+  "historical_period": "Persian Empire (~475 BCE, during China's Warring States period 戰國時代)",
+  "chinese_dynasty_equivalent": "Warring States period (戰國時代, 475-221 BCE)",
+  "key_themes": [
+    "Four mitzvot of Purim",
+    "Hidden hand of God",
+    "Joy and celebration",
+    "Charity to the poor",
+    "Reversal from mourning to joy",
+    "Hidden vs. revealed miracles",
+    "Divine providence"
+  ],
+  "chinese_cultural_parallels": [
+    "塞翁失馬 (blessing in disguise)",
+    "Spring Festival gift-giving traditions",
+    "Mid-Autumn Festival customs",
+    "Confucian values of 仁 (benevolence) and 义 (righteousness)",
+    "Buddhist compassion 慈悲"
+  ],
+  "biblical_figures": [
+    {
+      "name": "Esther",
+      "hebrew": "אסתר",
+      "chinese": "以斯帖",
+      "role": "Jewish queen who saved her people"
+    },
+    {
+      "name": "Mordechai",
+      "hebrew": "מרדכי",
+      "chinese": "末底改",
+      "role": "Esther's cousin and advisor"
+    },
+    {
+      "name": "Haman",
+      "hebrew": "המן",
+      "chinese": "哈曼",
+      "role": "Villain who plotted to destroy the Jews"
+    },
+    {
+      "name": "Achashverosh",
+      "hebrew": "אחשורוש",
+      "chinese": "亚哈随鲁",
+      "role": "King of Persia"
+    }
+  ],
+  "tags": [
+    "Purim",
+    "FourMitzvot",
+    "Megillah",
+    "MishloachManot",
+    "MatanotLaEvyonim",
+    "Esther",
+    "Mordechai",
+    "Haman",
+    "HiddenMiracles",
+    "DivineProvidence",
+    "JoyAndCharity",
+    "JewishHolidays",
+    "Holidays",
+    "塞翁失馬",
+    "仁",
+    "义",
+    "慈悲",
+    "春节",
+    "中秋节"
+  ]
+}

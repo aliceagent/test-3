@@ -1,0 +1,108 @@
+{
+  "id": 164,
+  "title": "Your First High Holidays as a Jew: What to Expect",
+  "title_zh": "作为犹太人的第一个赎罪日:期待什么",
+  "title_he": "ימי הנוראים הראשונים שלך כיהודי: מה לצפות",
+  "section": "conversion",
+  "slug": "first-high-holidays",
+  "batch": "200",
+  "author": "Torah Light Team",
+  "date_created": "2026-03-18",
+  "word_count_en": 4850,
+  "word_count_zh": 3680,
+  "word_count_he": 3420,
+  "keywords": [
+    "fasting tips",
+    "yom-kippur",
+    "conversion experience",
+    "synagogue services",
+    "first High Holidays",
+    "new Jew holidays",
+    "conversion",
+    "beginner-guide",
+    "teshuvah",
+    "yamim-noraim",
+    "Yom Kippur beginner",
+    "repentance period",
+    "Rosh Hashanah guide",
+    "Days of Awe",
+    "rosh-hashanah",
+    "high-holidays",
+    "Jewish New Year"
+  ],
+  "summary_en": "A comprehensive guide for new Jews experiencing their first High Holidays, covering Rosh Hashanah and Yom Kippur traditions, expectations, emotional landscapes, and practical tips. Includes Chinese cultural parallels and advice for navigating the intensive spiritual experience.",
+  "summary_zh": "为新犹太人首次体验赎罪日的全面指南,涵盖犹太新年和赎罪日传统、期望、情感景观和实用技巧。包括中国文化平行和驾驭密集精神体验的建议。",
+  "summary_he": "מדריך מקיף ליהודים חדשים החווים את ימי הנוראים הראשונים שלהם, המכסה מסורות ראש השנה ויום כיפורים, ציפיות, נופים רגשיים וטיפים מעשיים. כולל הקבלות תרבותיות סיניות ועצות לניווט החוויה הרוחנית האינטנסיבית.",
+  "target_audience": "Converts and new Jews experiencing their first Rosh Hashanah and Yom Kippur",
+  "difficulty_level": "beginner",
+  "reading_time_minutes": 18,
+  "cultural_parallels": [
+    "Lunar New Year vs Rosh Hashanah fresh beginnings",
+    "Confucian self-cultivation vs Jewish cheshbon hanefesh",
+    "Chinese ancestor veneration vs Yizkor memorial prayers",
+    "Maintaining harmony (和) vs seeking forgiveness before Yom Kippur"
+  ],
+  "key_concepts": [
+    "Yamim Noraim (Days of Awe)",
+    "Aseret Yemei Teshuvah (Ten Days of Repentance)",
+    "Shofar (ram's horn)",
+    "Tashlich (casting away sins)",
+    "Kol Nidrei",
+    "Five prohibitions of Yom Kippur",
+    "Neilah (closing prayer)",
+    "Teshuvah, Tefillah, Tzedakah"
+  ],
+  "related_articles": [
+    159,
+    160,
+    162,
+    136,
+    137,
+    138,
+    139
+  ],
+  "bibliography": [
+    {
+      "title": "Rosh Hashanah Yom Kippur Survival Kit",
+      "author": "Shimon Apisdorf",
+      "type": "book",
+      "description": "Accessible introduction to High Holidays"
+    },
+    {
+      "title": "Hilchot Teshuvah (Laws of Repentance)",
+      "author": "Rambam (Maimonides)",
+      "type": "classical-text",
+      "chapters": "1-2",
+      "description": "Classic Jewish text on repentance"
+    },
+    {
+      "title": "The High Holy Days: A Commentary on the Prayerbook",
+      "author": "Rabbi Joseph H. Hertz",
+      "type": "book",
+      "description": "Detailed commentary on High Holiday prayers"
+    },
+    {
+      "title": "High Holidays Guide",
+      "source": "Aish.com",
+      "type": "online-resource",
+      "url": "https://www.aish.com/h/hh/",
+      "description": "Comprehensive online High Holiday resources"
+    },
+    {
+      "title": "Rosh Hashanah and Yom Kippur Resources",
+      "source": "Chabad.org",
+      "type": "online-resource",
+      "url": "https://www.chabad.org/holidays/JewishNewYear/default_cdo/jewish/Rosh-Hashanah.htm",
+      "description": "Extensive guides and articles on the High Holidays"
+    }
+  ],
+  "seo_description": "Your first High Holidays as a Jew: Complete guide to Rosh Hashanah and Yom Kippur for new Jews and converts. Learn what to expect, traditions, prayers, and practical tips for navigating these holy days.",
+  "languages": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "status": "published",
+  "version": "1.0",
+  "last_updated": "2026-03-18"
+}

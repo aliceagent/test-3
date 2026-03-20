@@ -1,0 +1,136 @@
+{
+  "id": 300,
+  "title": "Why Are There So Few Jews? Understanding Jewish Demographics",
+  "title_zh": "为什么犹太人这么少？理解犹太人口现状",
+  "title_he": "למה יש כל כך מעט יהודים? הבנת הדמוגרפיה היהודית",
+  "section": "antisemitism",
+  "slug": "jewish-demographics",
+  "author": "Torah Light Editorial Team",
+  "date_created": "2026-03-19",
+  "word_count_en": 2867,
+  "word_count_zh": 1425,
+  "word_count_he": 2520,
+  "tags": [
+    "JewishDemographics",
+    "JewishPopulation",
+    "Holocaust",
+    "Assimilation",
+    "Conversion",
+    "Orthodox",
+    "Israel",
+    "JewishHistory",
+    "JewishIdentity",
+    "Antisemitism",
+    "JewishSurvival",
+    "Intermarriage",
+    "HanDynasty",
+    "SongDynasty",
+    "MingDynasty"
+  ],
+  "tags_zh": [
+    "犹太人口统计",
+    "犹太人口",
+    "大屠杀",
+    "同化",
+    "皈依",
+    "正统派",
+    "以色列",
+    "犹太历史",
+    "犹太身份",
+    "反犹主义",
+    "犹太生存",
+    "通婚",
+    "汉朝",
+    "宋朝",
+    "明朝"
+  ],
+  "tags_he": [
+    "דמוגרפיהיהודית",
+    "אוכלוסייהיהודית",
+    "שואה",
+    "התבוללות",
+    "גיור",
+    "אורתודוכסי",
+    "ישראל",
+    "היסטוריהיהודית",
+    "זהותיהודית",
+    "אנטישמיות",
+    "הישרדותיהודית",
+    "נישואיתערובת"
+  ],
+  "key_concepts": [
+    "Jewish population statistics",
+    "Holocaust demographic impact",
+    "Jewish assimilation trends",
+    "Orthodox vs non-Orthodox growth",
+    "Conversion to Judaism",
+    "Intermarriage rates",
+    "Israel demographics",
+    "Historical persecution",
+    "Matrilineal descent",
+    "Quality vs quantity"
+  ],
+  "chinese_parallels": [
+    "Shang Dynasty (商朝, ~1600-1046 BCE) - Abraham period",
+    "Han Dynasty (汉朝, 206 BCE - 220 CE) - Roman destruction",
+    "Song Dynasty (宋朝, 960-1279 CE) - Crusades period",
+    "Ming Dynasty (明朝, 1368-1644 CE) - Spanish Inquisition"
+  ],
+  "difficulty_level": "intermediate",
+  "target_audience": "Mandarin speakers curious about Jewish history and demographics",
+  "learning_objectives": [
+    "Understand why Jewish population is small despite ancient civilization",
+    "Learn about major historical catastrophes affecting Jewish numbers",
+    "Understand Jewish approach to conversion and non-proselytization",
+    "Recognize modern challenges of assimilation and intermarriage",
+    "Appreciate Orthodox population growth trends",
+    "Understand Israel's demographic impact",
+    "See quality over quantity in Jewish tradition"
+  ],
+  "related_articles": [
+    297,
+    298,
+    299,
+    253,
+    254,
+    259,
+    262,
+    263
+  ],
+  "bibliography": [
+    {
+      "title": "Jewish Population Statistics - World Jewish Congress",
+      "url": "https://www.worldjewishcongress.org/en/about/jewish-population",
+      "description": "Current global Jewish population data"
+    },
+    {
+      "title": "The Holocaust - United States Holocaust Memorial Museum",
+      "url": "https://www.ushmm.org/",
+      "description": "Historical documentation of Holocaust impact"
+    },
+    {
+      "title": "Jewish Demography - Pew Research Center",
+      "url": "https://www.pewresearch.org/religion/",
+      "description": "Contemporary Jewish demographic studies"
+    },
+    {
+      "title": "Deuteronomy 7:7 - Sefaria",
+      "url": "https://www.sefaria.org/Deuteronomy.7.7",
+      "description": "Biblical source on Jewish smallness"
+    },
+    {
+      "title": "Laws of Conversion - Chabad.org",
+      "url": "https://www.chabad.org/library/article_cdo/aid/1309878/jewish/Conversion-to-Judaism.htm",
+      "description": "Halachic requirements for conversion"
+    },
+    {
+      "title": "Orthodox Jewish Demographics - Jewish Virtual Library",
+      "url": "https://www.jewishvirtuallibrary.org/",
+      "description": "Orthodox population growth trends"
+    }
+  ],
+  "status": "complete",
+  "batch": "300",
+  "languages": ["en", "zh", "he"],
+  "version": "1.0"
+}

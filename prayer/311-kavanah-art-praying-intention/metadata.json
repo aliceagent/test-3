@@ -1,0 +1,81 @@
+{
+  "id": 311,
+  "title": "Kavanah: The Art of Praying with Intention",
+  "title_zh": "Kavanah（卡瓦纳）：带着意念祈祷的艺术",
+  "title_he": "כוונה: אמנות התפילה בכוונה",
+  "slug": "kavanah-art-praying-intention",
+  "section": "prayer",
+  "description": "How to move beyond rote recitation into genuine connection with God — practical techniques from Chassidic and Mussar traditions.",
+  "description_zh": "如何超越机械背诵进入与上帝的真实连接——来自哈西德派和穆萨尔派传统的实用技巧。",
+  "description_he": "איך לעבור מעבר לדקלום שגרתי לחיבור אמיתי עם הקב״ה - טכניקות מעשיות ממסורות החסידות והמוסר.",
+  "word_count": {
+    "en": 2215,
+    "zh": 1523,
+    "he": 2578
+  },
+  "languages": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "author": "Torah Light Content Team",
+  "created": "2026-03-19",
+  "last_updated": "2026-03-19",
+  "status": "completed",
+  "tags": [
+    "kavanah",
+    "prayer-with-intention",
+    "jewish-prayer",
+    "amidah",
+    "concentration",
+    "spirituality",
+    "chassidus",
+    "mussar",
+    "daily-practice",
+    "mindfulness",
+    "祷告",
+    "专注",
+    "意识",
+    "灵性修炼"
+  ],
+  "key_concepts": [
+    "Kavanah (intention in prayer)",
+    "Amidah prayer",
+    "Baal Shem Tov's approach to distracting thoughts",
+    "Rambam on awareness of meaning and presence",
+    "Chassidic and Mussar techniques",
+    "Prayer as dialogue with God",
+    "30-day kavanah practice plan"
+  ],
+  "cultural_parallels": [
+    "Confucian self-cultivation (修身)",
+    "Daoist wu wei (无为) - effortless action",
+    "Buddhist meditation practices",
+    "Chinese collective harmony (和)",
+    "Gradual spiritual growth similar to Chinese philosophical traditions"
+  ],
+  "historical_periods": [
+    {
+      "jewish_period": "Talmudic Period",
+      "approximate_dates": "70-500 CE",
+      "chinese_equivalent": "Han Dynasty (汉朝, 206 BCE - 220 CE) to Jin Dynasty"
+    },
+    {
+      "jewish_period": "Medieval Period (Maimonides)",
+      "approximate_dates": "960-1279 CE",
+      "chinese_equivalent": "Song Dynasty (宋朝)"
+    },
+    {
+      "jewish_period": "Chassidic Movement (Baal Shem Tov)",
+      "approximate_dates": "18th century",
+      "chinese_equivalent": "Qing Dynasty (清朝)"
+    }
+  ],
+  "target_audience": "Beginners to Jewish prayer seeking to deepen their spiritual practice and understanding of intention in prayer",
+  "difficulty_level": "Intermediate",
+  "estimated_reading_time": {
+    "en": "12-15 minutes",
+    "zh": "8-10 minutes",
+    "he": "13-16 minutes"
+  }
+}

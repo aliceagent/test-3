@@ -23,13 +23,13 @@
     },
     "reading_time": {
       "en": "11 minutes",
-      "zh": "6 minutes", 
+      "zh": "6 minutes",
       "he": "9 minutes"
     }
   },
   "themes": [
     "struggle",
-    "transformation", 
+    "transformation",
     "identity",
     "divine encounter",
     "persistence",
@@ -38,7 +38,7 @@
   ],
   "characters": [
     "Jacob/Israel",
-    "Angel/Divine Being", 
+    "Angel/Divine Being",
     "Esau"
   ],
   "historical_context": {
@@ -59,11 +59,6 @@
     "mood": "contemplative yet dramatic",
     "colors": "deep blacks and grays with touches of gold and soft pink"
   },
-  "tags": {
-    "en": ["#Vayishlach", "#Jacob", "#Israel", "#Wrestling", "#Struggle", "#Growth", "#Transformation", "#Angel", "#Blessing", "#Identity", "#WeeklyParsha", "#Torah"],
-    "zh": ["#瓦耶什拉赫", "#雅各", "#以色列", "#摔跤", "#挣扎", "#成长", "#转变", "#天使", "#祝福", "#身份", "#每周篇章", "#妥拉", "#商朝", "#修身"],
-    "he": ["#וישלח", "#יעקב", "#ישראל", "#נאבקות", "#מאבק", "#צמיחה", "#שינוי", "#מלאך", "#ברכה", "#זהות", "#פרשת_שבוע", "#תורה", "#שאנג", "#商朝", "#טיפוח_עצמי"]
-  },
   "bibliography": [
     {
       "title": "Genesis Chapter 32",
@@ -73,7 +68,7 @@
       "type": "primary_source"
     },
     {
-      "title": "The Struggle of Jacob", 
+      "title": "The Struggle of Jacob",
       "source": "Rashi's Commentary",
       "url": "https://www.sefaria.org/Rashi_on_Genesis.32.25",
       "description": "Classical rabbinic interpretation of the wrestling episode",
@@ -81,7 +76,7 @@
     },
     {
       "title": "Jacob's Wrestling Match",
-      "source": "Chabad.org", 
+      "source": "Chabad.org",
       "url": "https://www.chabad.org/library/article_cdo/aid/3679/jewish/Jacobs-Wrestling-Match.htm",
       "description": "Contemporary analysis of the spiritual significance",
       "type": "analysis"
@@ -89,7 +84,7 @@
     {
       "title": "The Name Israel Explained",
       "source": "Aish.com",
-      "url": "https://www.aish.com/atr/The-Name-Israel-Explained.html", 
+      "url": "https://www.aish.com/atr/The-Name-Israel-Explained.html",
       "description": "Exploration of the meaning and significance of the name change",
       "type": "educational"
     },
@@ -97,7 +92,7 @@
       "title": "Parashat Vayishlach: The Wrestling Match",
       "source": "Torah.org",
       "url": "https://torah.org/torah-portion/dwartorah-5781-vayishlach/",
-      "description": "Weekly Torah portion commentary and insights", 
+      "description": "Weekly Torah portion commentary and insights",
       "type": "weekly_commentary"
     }
   ],
@@ -111,5 +106,19 @@
     "historical_context_mapped": true,
     "header_image_described": true,
     "all_languages_tagged": true
-  }
+  },
+  "keywords": [
+    "#Vayishlach",
+    "#Jacob",
+    "#Israel",
+    "#Wrestling",
+    "#Struggle",
+    "#Growth",
+    "#Transformation",
+    "#Angel",
+    "#Blessing",
+    "#Identity",
+    "#WeeklyParsha",
+    "#Torah"
+  ]
 }

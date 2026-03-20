@@ -1,0 +1,120 @@
+{
+  "id": 173,
+  "title": "Anger Management the Jewish Way: What the Rambam Taught",
+  "title_zh": "犹太式愤怒管理:拉姆班教导的智慧",
+  "title_he": "ניהול כעסים בדרך היהודית: מה לימד הרמב\"ם",
+  "section": "mussar",
+  "slug": "anger-management-rambam",
+  "batch": "200",
+  "topics": [
+    "mussar",
+    "character-development",
+    "anger-management",
+    "rambam",
+    "maimonides",
+    "middot",
+    "self-control",
+    "emotional-regulation"
+  ],
+  "sources": [
+    {
+      "type": "primary",
+      "title": "Mishneh Torah, Hilchot De'ot 2:3",
+      "author": "Maimonides (Rambam)",
+      "description": "The Rambam's teaching on anger as an extremely bad trait requiring complete avoidance"
+    },
+    {
+      "type": "talmudic",
+      "title": "Talmud Bavli, Nedarim 22b",
+      "description": "The dangers of anger and how it pushes away the Divine Presence"
+    },
+    {
+      "type": "comparative",
+      "title": "The Analects of Confucius",
+      "author": "Confucius",
+      "description": "Chinese parallel teachings on controlling anger and thinking of consequences"
+    },
+    {
+      "type": "modern",
+      "title": "Everyday Holiness: The Jewish Spiritual Path of Mussar",
+      "author": "Alan Morinis",
+      "publisher": "Trumpeter",
+      "year": 2007,
+      "description": "Modern application of Mussar practices including anger management"
+    }
+  ],
+  "cultural_parallels": [
+    {
+      "culture": "Chinese",
+      "concepts": [
+        "Confucian teaching: 'When anger rises, think of the consequences' (Analects 12:21)",
+        "Daoist concept of wu wei (effortless action) - responding with calm flexibility",
+        "Harmony (he) as a supreme value in Chinese culture paralleling Jewish shalom",
+        "Confucian emphasis on self-cultivation (修身) before influencing others",
+        "Daoist 'water' metaphor - flexibility and adaptation over force"
+      ]
+    }
+  ],
+  "key_concepts": [
+    {
+      "term": "Ka'as (כעס)",
+      "definition": "Anger - considered by the Rambam to be an extremely bad trait requiring complete avoidance"
+    },
+    {
+      "term": "Middot (מידות)",
+      "definition": "Character traits - the subject of constant refinement in Jewish ethics"
+    },
+    {
+      "term": "Derech HaEmtza'it (דרך האמצעית)",
+      "definition": "The middle path - the Rambam's general principle for character traits, with anger being the exception"
+    },
+    {
+      "term": "Mussar (מוסר)",
+      "definition": "Jewish ethical and character development tradition"
+    },
+    {
+      "term": "Avodah Zarah (עבודה זרה)",
+      "definition": "Idolatry - the Rambam compares chronic anger to this because it replaces God with ego"
+    }
+  ],
+  "target_audience": "Chinese native Mandarin speakers with no prior Jewish knowledge",
+  "tone": "Educational, warm, culturally sensitive",
+  "word_count": {
+    "en": 1450,
+    "zh": 850,
+    "he": 1250
+  },
+  "reading_time_minutes": {
+    "en": 7,
+    "zh": 6,
+    "he": 6
+  },
+  "difficulty_level": "Intermediate",
+  "keywords": [
+    "anger management",
+    "Rambam",
+    "Maimonides",
+    "mussar",
+    "character development",
+    "Jewish ethics",
+    "emotional control",
+    "Confucius",
+    "Chinese parallels",
+    "middot",
+    "self-mastery"
+  ],
+  "related_articles": [
+    169,
+    170,
+    171,
+    176,
+    177,
+    182
+  ],
+  "created": "2026-03-18",
+  "language_versions": [
+    "en",
+    "zh",
+    "he"
+  ]
+}

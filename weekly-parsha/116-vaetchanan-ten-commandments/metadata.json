@@ -1,0 +1,97 @@
+{
+  "title": {
+    "en": "Va'etchanan: The Second Version of the Ten Commandments — What Changed and Why",
+    "zh": "瓦耶特哈南：十诫的第二个版本——改变了什么及其原因",
+    "he": "ואתחנן: הגירסה השנייה של עשרת הדברות — מה השתנה ולמה"
+  },
+  "article_number": 116,
+  "section": "weekly-parsha",
+  "parsha": "Va'etchanan",
+  "date": "2026-03-18",
+  "author": "Torah Light Editorial Team",
+  "summary": {
+    "en": "A careful comparison of the Ten Commandments in Exodus vs. Deuteronomy and what the differences reveal about divine revelation, human understanding, and the evolving nature of religious law.",
+    "zh": "对出埃及记与申命记中十诫的仔细比较及其差异所揭示的关于神圣启示、人类理解和宗教律法演进本质的深层含义。",
+    "he": "השוואה מעמיקה של עשרת הדברות בשמות ובדברים ומה שהשינויים מגלים על התגלות אלוהית, הבנה אנושית והטבע המתפתח של החוק הדתי."
+  },
+  "topics": {
+    "en": [
+      "Ten Commandments",
+      "Exodus",
+      "Deuteronomy",
+      "Biblical Comparison",
+      "Jewish Law",
+      "Torah Commentary",
+      "Divine Revelation",
+      "Sabbath",
+      "Religious Evolution"
+    ],
+    "zh": [
+      "十诫",
+      "出埃及记",
+      "申命记",
+      "圣经比较",
+      "犹太律法",
+      "妥拉评论",
+      "神圣启示",
+      "安息日",
+      "宗教演进"
+    ],
+    "he": [
+      "עשרת הדברות",
+      "שמות",
+      "דברים",
+      "השוואה תנ\"כית",
+      "הלכה יהודית",
+      "פרשנות תורה",
+      "התגלות אלוהית",
+      "שבת",
+      "התפתחות דתית"
+    ]
+  },
+  "chinese_dynasty_references": [
+    {
+      "dynasty": "Ming",
+      "scholar": "Wang Yangming",
+      "concept": "知行合一 (unity of knowledge and action)",
+      "relevance": "Parallels the relationship between divine law and practical application"
+    },
+    {
+      "dynasty": "Song",
+      "concept": "理气关系 (li-qi relationship)",
+      "relevance": "Mirrors the relationship between eternal principles and their manifestation in context"
+    }
+  ],
+  "biblical_references": [
+    "Exodus 20:2-17",
+    "Deuteronomy 5:6-21",
+    "Deuteronomy 4:13",
+    "Genesis 2:2"
+  ],
+  "commentaries": [
+    "Rashi",
+    "Ramban (Nachmanides)",
+    "Rasag (Sa'adia Gaon)",
+    "Ibn Ezra",
+    "Talmud Bavli"
+  ],
+  "word_count": {
+    "en": 1200,
+    "zh": 850,
+    "he": 950
+  },
+  "reading_time_minutes": {
+    "en": 5,
+    "zh": 4,
+    "he": 4
+  },
+  "keywords": [
+    "#Torah",
+    "#Va'etchanan",
+    "#TenCommandments",
+    "#Sabbath",
+    "#BiblicalComparison",
+    "#JewishLaw",
+    "#Revelation"
+  ]
+}

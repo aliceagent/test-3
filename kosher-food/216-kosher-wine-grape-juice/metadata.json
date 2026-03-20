@@ -1,0 +1,73 @@
+{
+  "id": 216,
+  "title": "Kosher Wine and Grape Juice: Why It Matters Who Handles It",
+  "title_zh": "犹太洁食葡萄酒和葡萄汁：为什么由谁处理很重要",
+  "title_he": "יין ומיץ ענבים כשרים: למה חשוב מי נוגע בהם",
+  "section": "kosher-food",
+  "slug": "kosher-wine-grape-juice",
+  "author": "Torah Light Team",
+  "created": "2026-03-19",
+  "updated": "2026-03-19",
+  "status": "published",
+  "languages": ["en", "zh", "he"],
+  "tags": [
+    "kosher",
+    "wine",
+    "grape-juice",
+    "stam-yeinam",
+    "mevushal",
+    "kashrut",
+    "food-laws",
+    "halacha",
+    "practical-guide"
+  ],
+  "difficulty": "beginner",
+  "reading_time_minutes": {
+    "en": 12,
+    "zh": 10,
+    "he": 10
+  },
+  "target_audience": "New Jews, converts, those starting to keep kosher, anyone curious about wine and grape juice laws in Judaism",
+  "key_concepts": [
+    "Stam yeinam (wine touched by non-Jews)",
+    "Mevushal wine (cooked wine)",
+    "Grape juice has same laws as wine",
+    "Historical and spiritual reasons for wine laws",
+    "Practical scenarios and solutions"
+  ],
+  "related_articles": [
+    213,
+    215,
+    220,
+    221
+  ],
+  "sources": [
+    {
+      "text": "Deuteronomy 32:38",
+      "type": "biblical"
+    },
+    {
+      "text": "Talmud Avodah Zarah 29b-30a",
+      "type": "talmudic"
+    },
+    {
+      "text": "Shulchan Aruch, Yoreh De'ah 123-125",
+      "type": "halachic"
+    },
+    {
+      "text": "Mishnah Torah, Hilchot Ma'achalot Assurot, Chapter 11",
+      "type": "halachic",
+      "author": "Rambam"
+    }
+  ],
+  "summary": {
+    "en": "An accessible guide to understanding why wine and grape juice must be handled by Sabbath-observant Jews, explaining the concepts of stam yeinam and mevushal wine, with practical scenarios for navigating wine laws in everyday life.",
+    "zh": "一份易于理解的指南，解释为什么葡萄酒和葡萄汁必须由守安息日的犹太人处理，解释stam yeinam和mevushal葡萄酒的概念，并提供日常生活中应对葡萄酒律法的实用场景。",
+    "he": "מדריך נגיש להבנת מדוע יין ומיץ ענבים חייבים להיות מטופלים על ידי יהודים שומרי שבת, מסביר את המושגים סתם יינם ויין מבושל, עם תרחישים מעשיים לניווט בדיני יין בחיי היומיום."
+  },
+  "cultural_parallels": [
+    "Chinese baijiu and ritual spirits",
+    "Tea culture and specific production methods",
+    "Balance between hospitality and maintaining cultural boundaries"
+  ]
+}

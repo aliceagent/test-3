@@ -1,0 +1,127 @@
+{
+  "article_id": 14,
+  "title": "The Shema: Understanding the Most Important Prayer in Judaism",
+  "section": "Prayer",
+  "created": "2024-03-17",
+  "author": "Torah Light Editorial Team",
+  "word_count": {
+    "english": 2847,
+    "chinese": 1251,
+    "hebrew": 2182
+  },
+  "reading_time": {
+    "english": "11-12 minutes",
+    "chinese": "5-6 minutes",
+    "hebrew": "8-9 minutes"
+  },
+  "target_audience": [
+    "Jewish beginners",
+    "Conversion candidates",
+    "Jews living in Asia",
+    "Chinese speakers interested in Judaism",
+    "Hebrew learners"
+  ],
+  "difficulty_level": "Beginner to Intermediate",
+  "key_topics": [
+    "Shema prayer",
+    "Daily Jewish practice",
+    "Torah study",
+    "Jewish law (Halacha)",
+    "Unity of God",
+    "Hebrew prayer",
+    "Jewish spirituality"
+  ],
+  "historical_periods_covered": [
+    {
+      "period": "Biblical Period",
+      "chinese_equivalent": "春秋战国时期 (Spring and Autumn / Warring States Period)",
+      "dates": "1000-586 BCE"
+    },
+    {
+      "period": "Medieval Period - Song Dynasty",
+      "chinese_equivalent": "宋朝",
+      "dates": "960-1279 CE",
+      "relevance": "Kaifeng Jewish community establishment"
+    },
+    {
+      "period": "Medieval Period - Ming Dynasty", 
+      "chinese_equivalent": "明朝",
+      "dates": "1368-1644 CE",
+      "relevance": "Jewish practice during Confucian orthodoxy promotion"
+    },
+    {
+      "period": "Qing Dynasty",
+      "chinese_equivalent": "清朝", 
+      "dates": "1644-1912 CE",
+      "relevance": "Jewish community integration while maintaining traditions"
+    },
+    {
+      "period": "Republic of China Period",
+      "chinese_equivalent": "民国时期",
+      "dates": "1912-1949 CE", 
+      "relevance": "Modernization and cultural identity searches"
+    },
+    {
+      "period": "Holocaust Period",
+      "chinese_equivalent": "二战时期",
+      "dates": "1933-1945 CE",
+      "relevance": "Shema as final words of martyrs"
+    }
+  ],
+  "languages": {
+    "english": {
+      "file": "article-en.md",
+      "title": "The Shema: Understanding the Most Important Prayer in Judaism"
+    },
+    "chinese_simplified": {
+      "file": "article-zh.md", 
+      "title": "示玛经：理解犹太教最重要的祷文"
+    },
+    "hebrew": {
+      "file": "article-he.md",
+      "title": "קריאת שמע: הבנת התפילה החשובה ביותר ביהדות"
+    }
+  },
+  "seo_keywords": [
+    "Shema Israel",
+    "Jewish prayer",
+    "Judaism basics",
+    "Torah study",
+    "Hebrew prayers",
+    "Jewish spirituality",
+    "Jewish practice",
+    "Daily prayers",
+    "Jewish education",
+    "Unity of God"
+  ],
+  "related_articles": [3, 6, 11, 28, 29, 30],
+  "sources": [
+    "Torah (Deuteronomy 6:4-9, 11:13-21; Numbers 15:37-41)",
+    "Talmud Bavli, Tractate Berakhot",
+    "Maimonides, Mishneh Torah, Laws of Reading the Shema",
+    "Shulchan Aruch, Orach Chaim",
+    "Steinsaltz, A Guide to Jewish Prayer",
+    "Donin, To Pray as a Jew"
+  ],
+  "header_image_prompt": "A serene dawn scene showing a Jewish man wrapped in a white tallit (prayer shawl) standing by a window, eyes closed in prayer as golden sunlight streams through. Hebrew letters of the Shema float gently in the light around him. The room contains traditional Jewish books and a mezuzah on the doorpost, with subtle Chinese elements like bamboo visible outside the window, symbolizing the integration of Jewish practice in an Asian setting.",
+  "tags": [
+    "Shema",
+    "Prayer", 
+    "Jewish_Basics",
+    "Daily_Practice",
+    "Torah",
+    "Faith",
+    "Unity_of_God",
+    "Jewish_Law",
+    "Spirituality",
+    "Hebrew",
+    "Deuteronomy",
+    "Numbers",
+    "Kaifeng_Jews",
+    "Chinese_Judaism",
+    "Morning_Prayer",
+    "Evening_Prayer",
+    "Conversion",
+    "Jewish_Education"
+  ]
+}

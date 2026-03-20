@@ -1,0 +1,85 @@
+{
+  "id": 160,
+  "title": "Choosing a Hebrew Name: A Guide for Converts",
+  "titleZh": "选择希伯来名字:皈依者指南",
+  "titleHe": "בחירת שם עברי: מדריך לגרים",
+  "section": "conversion",
+  "slug": "hebrew-name-converts",
+  "author": "Torah Light Team",
+  "dateCreated": "2026-03-18",
+  "language": {
+    "en": true,
+    "zh": true,
+    "he": true
+  },
+  "summary": {
+    "en": "A comprehensive guide to choosing a Hebrew name for converts, covering the tradition of 'ben/bat Avraham v'Sarah,' biblical and historical name sources, cultural parallels, and the significance of receiving a new identity as part of the Jewish people.",
+    "zh": "为皈依者选择希伯来名字的综合指南,涵盖了「某某本/巴特亚伯拉罕与撒拉「的传统、圣经和历史名字来源、文化对比,以及作为犹太民族一部分接受新身份的意义。",
+    "he": "מדריך מקיף לבחירת שם עברי לגרים, המכסה את המסורת של 'בן/בת אברהם ושרה', מקורות שמות מקראיים והיסטוריים, מקבילות תרבותיות, והמשמעות של קבלת זהות חדשה כחלק מהעם היהודי."
+  },
+  "wordCount": {
+    "en": 2890,
+    "zh": 1320,
+    "he": 1950
+  },
+  "readingTime": {
+    "en": "12-15 minutes",
+    "zh": "8-10 minutes",
+    "he": "10-12 minutes"
+  },
+  "targetAudience": "Converts to Orthodox Judaism, prospective converts, and those preparing for the beit din",
+  "keyTopics": [
+    "Hebrew name selection",
+    "Ben Avraham v'Sarah tradition",
+    "Biblical and Talmudic name sources",
+    "Cultural parallels (Chinese naming traditions)",
+    "Mikvah ceremony",
+    "Spiritual identity transformation",
+    "Practical naming considerations"
+  ],
+  "biblicalReferences": [
+    "Genesis 17:5 (Abram to Abraham)",
+    "Genesis 17:15 (Sarai to Sarah)",
+    "Genesis 32:28 (Jacob to Israel)",
+    "Talmud Yevamot 22a (convert as newborn)"
+  ],
+  "sources": [
+    "Talmud Bavli, Yevamot 22a",
+    "Rambam (Maimonides), Responsa to Ovadiah the Convert",
+    "Rabbi Joseph Telushkin, Jewish Literacy",
+    "Chabad.org resources on Jewish names"
+  ],
+  "culturalParallels": {
+    "chinese": [
+      "Buddhist dharma names (法名) upon ordination",
+      "Courtesy names (字) for scholars and poets",
+      "Name changes at major life transitions",
+      "The Confucian principle of 正名 (rectification of names)",
+      "Historical practice of adopting new names after imperial examination success"
+    ]
+  },
+  "relatedArticles": [
+    159,
+    161,
+    162,
+    164,
+    168
+  ],
+  "difficulty": "beginner-intermediate",
+  "specialFeatures": [
+    "Comprehensive naming options with examples",
+    "Chinese cultural parallels integrated throughout",
+    "Practical pronunciation and legal considerations",
+    "Discussion questions for reflection",
+    "Bibliography with authoritative sources"
+  ],
+  "keywords": [
+    "conversion",
+    "hebrew-names",
+    "jewish-identity",
+    "mikvah",
+    "ben-avraham",
+    "bat-avraham",
+    "spiritual-rebirth"
+  ]
+}

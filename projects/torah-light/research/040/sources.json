@@ -1,0 +1,61 @@
+{
+  "article_id": 40,
+  "title": "Buying Judaica Online: A Trusted Guide for Jews in Asia",
+  "section": "Mitzvah Objects",
+  "sources": [
+    {
+      "url": "https://mezuzahstore.com/",
+      "title": "Mezuzah Store - Mezuzah Cases & Kosher Scrolls Since 1999",
+      "status": "verified_200",
+      "type": "primary_retailer",
+      "description": "Specialized mezuzah store with kosher scrolls handwritten by certified scribes, computer-checked for accuracy"
+    },
+    {
+      "url": "https://www.ajudaica.com/",
+      "title": "aJudaica.com - Judaica Store, Jewish Gifts and Jewelry",
+      "status": "verified_200", 
+      "type": "primary_retailer",
+      "description": "Large Judaica retailer with tefillin, tallit, mezuzah, and other ritual items, ships worldwide"
+    },
+    {
+      "url": "https://www.judaicawebstore.com/",
+      "title": "Judaica Web Store - Jewish Gifts, Israeli Jewelry, Shofars",
+      "status": "verified_200",
+      "type": "primary_retailer", 
+      "description": "Large online marketplace for Israeli and Jewish products with worldwide shipping from Israel"
+    },
+    {
+      "url": "https://www.chabad.org/jewish-centers/country/China",
+      "title": "Chabad Centers in China",
+      "status": "verified_200",
+      "type": "community_resource",
+      "description": "Directory of Chabad houses in China where Jews can get guidance on purchasing ritual items"
+    },
+    {
+      "url": "https://www.chabadbeijing.com/",
+      "title": "Chabad House Beijing",
+      "status": "verified_200",
+      "type": "local_community",
+      "description": "Chabad center in Beijing providing kosher food and Jewish services since 2001"
+    },
+    {
+      "url": "https://judaism.stackexchange.com/questions/17081/where-can-i-buy-kosher-tefillin-scrolls",
+      "title": "Where can I buy kosher Tefillin scrolls? - Mi Yodeya",
+      "status": "verified_200", 
+      "type": "community_recommendations",
+      "description": "Jewish Q&A community recommendations for trusted tefillin suppliers including Ben's Tallit Shop"
+    }
+  ],
+  "research_notes": {
+    "chabad_presence_china": [
+      "Beijing", "Shanghai", "Hong Kong", "Guangzhou", "Shenzhen", "Chengdu", "Foshan", "Yiwu"
+    ],
+    "failed_sites": [
+      "https://www.tallit-shop.com/ (406 error)",
+      "https://www.worldofjudaica.com/ (403 error)", 
+      "https://arielakivajudaicastore.com/ (403 error)"
+    ],
+    "key_products": ["mezuzah", "tefillin", "tallit", "kiddush_cups", "shofar", "jewish_books"],
+    "certification_importance": "All sources emphasize kosher certification and proper rabbinic supervision"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "id": 186,
+  "title": {
+    "en": "Ten Teachings from Pirkei Avot That Will Change Your Daily Life",
+    "zh": "《先贤之章》中改变日常生活的十条教诲",
+    "he": "עשר הוראות מפרקי אבות שישנו את חיי היומיום שלך"
+  },
+  "section": "pirkei-avot",
+  "slug": "ten-practical-teachings",
+  "author": "Torah Light Project",
+  "date_created": "2026-03-18",
+  "word_count": {
+    "en": 1450,
+    "zh": 950,
+    "he": 1200
+  },
+  "target_audience": "Mandarin-speaking learners, all backgrounds",
+  "difficulty": "beginner-intermediate",
+  "reading_time_minutes": {
+    "en": 10,
+    "zh": 8,
+    "he": 9
+  },
+  "key_concepts": [
+    "Learning from everyone",
+    "Actions over words",
+    "Incremental progress",
+    "Judging favorably",
+    "Teacher-student relationships",
+    "Self-mastery",
+    "Balance of self and others",
+    "Moral courage",
+    "Time management",
+    "Three pillars of life"
+  ],
+  "chinese_cultural_parallels": [
+    "终身学习 (lifelong learning)",
+    "君子讷于言而敏于行 (actions over words)",
+    "千里之行,始于足下 (journey of thousand miles)",
+    "设身处地 (empathy)",
+    "师徒关系 (teacher-student relationship)",
+    "克己复礼 (self-mastery)",
+    "修身齐家治国平天下 (self-cultivation to governance)",
+    "天下兴亡,匹夫有责 (everyone's responsibility)",
+    "一寸光阴一寸金 (time is precious)"
+  ],
+  "primary_sources": [
+    "Pirkei Avot 1:6 (Joshua ben Perachiah)",
+    "Pirkei Avot 1:14 (Hillel)",
+    "Pirkei Avot 1:15 (Shammai)",
+    "Pirkei Avot 1:2 (Shimon the Righteous)",
+    "Pirkei Avot 2:5 (Hillel)",
+    "Pirkei Avot 2:15 (Rabbi Tarfon)",
+    "Pirkei Avot 2:16 (Rabbi Tarfon)",
+    "Pirkei Avot 4:1 (Ben Zoma)"
+  ],
+  "related_articles": [
+    179,
+    180,
+    181,
+    182,
+    183,
+    184,
+    185
+  ],
+  "bibliography": [
+    {
+      "title": "Pirkei Avot - Ethics of the Fathers",
+      "url": "https://www.sefaria.org/Pirkei_Avot",
+      "type": "primary_text"
+    },
+    {
+      "title": "Pirkei Avot with Commentary",
+      "url": "https://www.chabad.org/library/article_cdo/aid/2011/jewish/Ethics-of-the-Fathers.htm",
+      "type": "commentary"
+    },
+    {
+      "title": "A Code of Jewish Ethics - Rabbi Joseph Telushkin",
+      "type": "book"
+    }
+  ],
+  "keywords": [
+    "pirkei-avot",
+    "ethics",
+    "daily-practice",
+    "wisdom",
+    "character-development",
+    "practical-judaism",
+    "mussar"
+  ]
+}

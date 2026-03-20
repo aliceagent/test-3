@@ -1,0 +1,190 @@
+{
+  "title": {
+    "en": "Conversion to Judaism: A Complete Guide",
+    "zh": "皈依犹太教:完整指南",
+    "he": "התגיירות ליהדות: מדריך מקיף"
+  },
+  "description": {
+    "en": "A comprehensive guide to converting to Judaism, with practical advice for those in Asia and China. Covers the giyur process, Orthodox perspective, study requirements, beit din, mikvah, living as a ger/giyoret, famous converts, and resources.",
+    "zh": "皈依犹太教的综合指南,为亚洲和中国的人们提供实用建议。涵盖giyur过程、正统派观点、学习要求、犹太法庭、洁净池、作为ger/giyoret的生活、著名皈依者和资源。",
+    "he": "מדריך מקיף לגיור ליהדות, עם עצות מעשיות למי שנמצאים באסיה ובסין. מכסה את תהליך הגיור, נקודת מבט אורתודוכסית, דרישות לימוד, בית דין, מקווה, חיים כגר/גיורת, גרים מפורסמים ומשאבים."
+  },
+  "keywords": {
+    "en": [
+      "conversion",
+      "giyur",
+      "ger",
+      "giyoret",
+      "Orthodox conversion",
+      "beit din",
+      "mikvah",
+      "brit milah",
+      "kabbalat ol mitzvot",
+      "halakha",
+      "converting in China",
+      "converting in Asia",
+      "Chabad Beijing",
+      "Chabad Shanghai",
+      "Jewish conversion process",
+      "becoming Jewish",
+      "Ruth",
+      "Onkelos",
+      "Orthodox Judaism"
+    ],
+    "zh": [
+      "皈依",
+      "giyur",
+      "ger",
+      "giyoret",
+      "正统派皈依",
+      "犹太法庭",
+      "洁净池",
+      "割礼",
+      "接受诫命的轭",
+      "犹太律法",
+      "在中国皈依",
+      "在亚洲皈依",
+      "北京Chabad",
+      "上海Chabad",
+      "犹太教皈依过程",
+      "成为犹太人",
+      "路得",
+      "Onkelos",
+      "正统犹太教"
+    ],
+    "he": [
+      "גיור",
+      "גר",
+      "גיורת",
+      "גיור אורתודוכסי",
+      "בית דין",
+      "מקווה",
+      "ברית מילה",
+      "קבלת עול מצוות",
+      "הלכה",
+      "התגיירות בסין",
+      "התגיירות באסיה",
+      "חב\"ד בייג'ינג",
+      "חב\"ד שנחאי",
+      "תהליך גיור",
+      "להיות יהודי",
+      "רות",
+      "אונקלוס",
+      "יהדות אורתודוכסית"
+    ]
+  },
+  "category": "community-life",
+  "subcategory": "conversion",
+  "audience": "seekers, potential converts, those interested in Judaism",
+  "targetRegions": [
+    "Asia",
+    "China",
+    "Hong Kong",
+    "worldwide"
+  ],
+  "readingLevel": "intermediate to advanced",
+  "wordCount": {
+    "en": 4850,
+    "zh": 2600,
+    "he": 3400
+  },
+  "dateCreated": "2026-03-20",
+  "lastUpdated": "2026-03-20",
+  "author": "Torah Light Content Team",
+  "reviewStatus": "ready for review",
+  "relatedTopics": [
+    "Orthodox Judaism basics",
+    "Jewish law and practice",
+    "Living as an Orthodox Jew",
+    "Finding a Jewish community",
+    "Hebrew learning resources",
+    "Jewish lifecycle events",
+    "Shabbat observance",
+    "Kashrut",
+    "Prayer and blessings"
+  ],
+  "internalLinks": [
+    "/basics/what-is-judaism",
+    "/practices/shabbat",
+    "/practices/kashrut",
+    "/community-life/finding-a-community",
+    "/learning/hebrew-basics",
+    "/lifecycle/brit-milah",
+    "/lifecycle/marriage"
+  ],
+  "externalResources": [
+    {
+      "name": "Chabad.org Conversion Resources",
+      "url": "https://www.chabad.org/library/article_cdo/aid/1678/jewish/Conversion-101.htm"
+    },
+    {
+      "name": "Partners in Torah",
+      "url": "https://www.partnersintorah.org"
+    },
+    {
+      "name": "Sefaria",
+      "url": "https://www.sefaria.org"
+    },
+    {
+      "name": "Chabad Beijing",
+      "url": "https://www.chabadbeijing.com"
+    },
+    {
+      "name": "Chabad Shanghai",
+      "url": "https://www.chabadshanghai.org"
+    },
+    {
+      "name": "Chabad Hong Kong",
+      "url": "https://www.chabadhk.org"
+    }
+  ],
+  "seoOptimization": {
+    "primaryKeyword": "conversion to Judaism",
+    "secondaryKeywords": [
+      "how to convert to Judaism",
+      "Orthodox conversion",
+      "converting to Judaism in China",
+      "giyur process",
+      "becoming Jewish"
+    ],
+    "metaDescription": {
+      "en": "Complete guide to conversion to Judaism (giyur) with practical steps for those in Asia and China. Learn about the Orthodox conversion process, requirements, and what it means to become Jewish.",
+      "zh": "皈依犹太教(giyur)的完整指南,为亚洲和中国的人们提供实用步骤。了解正统派皈依过程、要求以及成为犹太人的意义。",
+      "he": "מדריך מלא לגיור ליהדות עם צעדים מעשיים למי שנמצאים באסיה ובסין. למד על תהליך הגיור האורתודוכסי, הדרישות ומה המשמעות של להיות יהודי."
+    }
+  },
+  "tone": "warm, encouraging, practical, honest, informative",
+  "perspective": "Orthodox Jewish, respectful of challenges, emphasizing authenticity",
+  "uniqueFeatures": [
+    "Specifically addresses Asian/Chinese audience",
+    "Practical steps for conversion from China",
+    "Contact information for Chabad centers in Asia",
+    "Honest discussion of Orthodox vs. non-Orthodox conversion",
+    "Hebrew terms with transliteration throughout",
+    "Famous convert stories for inspiration",
+    "Real challenges and honest advice",
+    "Phase-by-phase roadmap"
+  ],
+  "contentWarnings": [],
+  "accessibility": {
+    "languageLevel": "clear and accessible despite complex topic",
+    "structuredHeadings": true,
+    "bulletsAndLists": true,
+    "hebrewWithTransliteration": true
+  },
+  "qualityMetrics": {
+    "comprehensiveness": "high",
+    "accuracy": "high - based on Orthodox halakha",
+    "practicalUtility": "very high",
+    "culturalSensitivity": "high",
+    "geographicRelevance": "specifically tailored for Asia/China"
+  },
+  "nextSteps": [
+    "Contact local Chabad",
+    "Begin Torah study",
+    "Try Shabbat observance",
+    "Learn Hebrew basics",
+    "Connect with community"
+  ],
+  "notes": "This is mission-critical content for the target audience. The article balances warmth and encouragement with honesty about challenges. It clearly presents the Orthodox perspective while respecting the reader's journey. Practical information is prioritized, especially for those in China/Asia where resources are limited. Hebrew terms are included with transliteration to build familiarity and authenticity."
+}

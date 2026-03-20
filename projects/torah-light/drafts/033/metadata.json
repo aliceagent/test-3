@@ -1,0 +1,66 @@
+{
+  "article_id": 33,
+  "title": {
+    "en": "Asher Yatzar: The Blessing That Thanks God for Your Body",
+    "zh": "阿舍·雅茨尔：感谢上帝赐予身体的祝福", 
+    "he": "אשר יצר: הברכה שמודה לאלוהים על הגוף שלך"
+  },
+  "section": "Blessings",
+  "folder": "blessings",
+  "description": "Why Jews say a blessing after using the bathroom, and what this surprising practice teaches about appreciating health.",
+  "author": "Torah Light Research Team",
+  "date_created": "2026-03-17",
+  "word_count": {
+    "en": 1835,
+    "zh": 1456,
+    "he": 1623
+  },
+  "status": "draft_complete",
+  "languages": ["en", "zh", "he"],
+  "tags": [
+    "AsherYatzar",
+    "Blessings", 
+    "Health",
+    "Gratitude",
+    "TalmudBerakhot",
+    "ChineseMedicine",
+    "Mindfulness",
+    "DailyPractice",
+    "BodyAndSoul",
+    "健康",
+    "感恩", 
+    "中醫",
+    "正念",
+    "אשריצר",
+    "ברכות",
+    "בריאות",
+    "הכרתטוב"
+  ],
+  "chinese_historical_context": {
+    "period": "Han Dynasty",
+    "chinese_name": "漢朝",
+    "dates": "206 BCE - 220 CE",
+    "description": "When Talmudic rabbis established this blessing, China was under the Han Dynasty, a period that saw development of major TCM texts and systematization of traditional medicine."
+  },
+  "cultural_parallels": [
+    "Traditional Chinese Medicine emphasis on elimination for health",
+    "Chinese gratitude practices during New Year",
+    "Qi Gong mindfulness of internal processes", 
+    "Daoist wu wei (effortless action) concept",
+    "Confucian body as gift from ancestors"
+  ],
+  "key_sources": [
+    "Talmud Berakhot 60b",
+    "Aish.com personal narratives",
+    "My Jewish Learning blessing guide",
+    "Traditional Chinese Medicine principles"
+  ],
+  "header_image_style": "Chinese ink wash landscape with stream representing qi flow",
+  "target_audience": "Chinese native Mandarin speakers with no prior Jewish knowledge",
+  "educational_goals": [
+    "Introduce Asher Yatzar blessing and its meaning",
+    "Connect to Chinese cultural understanding of health",
+    "Demonstrate Jewish approach to sanctifying daily life",
+    "Show parallels between Jewish and Chinese holistic health views"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": 204,
+  "title": "Muktzeh: The Things You Can't Move on Shabbat",
+  "title_zh": "穆克茨(Muktzeh):安息日不可移动之物",
+  "title_he": "מוקצה: הדברים שאסור להזיז בשבת",
+  "section": "shabbat",
+  "slug": "muktzeh-guide",
+  "batch": "300",
+  "topics": [
+    "shabbat",
+    "muktzeh",
+    "halacha",
+    "jewish-law",
+    "practical-observance"
+  ],
+  "keywords": [
+    "muktzeh",
+    "shabbat laws",
+    "keli shemelachto l'issur",
+    "muktzeh machmat gufo",
+    "basis l'davar ha'assur",
+    "tiltul min hatzad",
+    "shabbat observance",
+    "jewish practice"
+  ],
+  "difficulty": "intermediate",
+  "word_count": {
+    "en": 4200,
+    "zh": 1650,
+    "he": 3500
+  },
+  "estimated_reading_time": {
+    "en": "18 minutes",
+    "zh": "10 minutes",
+    "he": "15 minutes"
+  },
+  "cultural_parallels": [
+    "Song Dynasty scholar's study separation",
+    "Chinese tea ceremony boundaries",
+    "Daoist wu wei (non-action) principle",
+    "Zhou Dunyi's taiji (Supreme Ultimate)",
+    "Zhuangzi's useless tree parable",
+    "Traditional craft guild material segregation",
+    "Lian zuo (association determines status) concept"
+  ],
+  "target_audience": "Chinese native Mandarin speakers with no prior Jewish knowledge",
+  "learning_objectives": [
+    "Understand the five categories of muktzeh",
+    "Learn which items can and cannot be moved on Shabbat",
+    "Grasp the spiritual purpose behind muktzeh laws",
+    "Apply practical muktzeh knowledge in daily Shabbat observance",
+    "Appreciate philosophical connections between Jewish and Chinese wisdom traditions"
+  ],
+  "halachic_sources": [
+    "Shulchan Aruch, Orach Chaim 308-310",
+    "Mishnah Berurah",
+    "39 Melochos (Rabbi Dovid Ribiat)",
+    "Shemirath Shabbath Kehilchatha (Rabbi Yehoshua Y. Neuwirth)",
+    "The Shabbos Home (Rabbi Simcha Bunim Cohen)"
+  ],
+  "web_sources": [
+    "Chabad.org",
+    "Aish.com",
+    "OU.org"
+  ],
+  "date_created": "2026-03-19",
+  "language_versions": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "author": "Torah Light Project",
+  "version": "1.0"
+}

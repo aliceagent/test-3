@@ -1,0 +1,71 @@
+{
+  "id": 119,
+  "title": {
+    "en": "Ha'azinu: Moses's Song — Poetry as Prophecy",
+    "zh": "哈阿齐努：摩西之歌——诗歌作为预言",
+    "he": "האזינו: שירת משה — שירה כנבואה"
+  },
+  "description": {
+    "en": "Analyzing the poetic structure and prophetic content of Moses's final song to the nation",
+    "zh": "分析摩西对民族最后颂歌的诗歌结构和预言内容",
+    "he": "ניתוח המבנה הפואטי והתוכן הנבואי של שירת משה האחרונה לעם"
+  },
+  "section": "weekly-parsha",
+  "parsha": "Ha'azinu",
+  "date_created": "2026-03-18",
+  "author": "Torah Light",
+  "word_count": {
+    "en": 926,
+    "zh": 843,
+    "he": 721
+  },
+  "reading_time_minutes": {
+    "en": 4,
+    "zh": 3,
+    "he": 3
+  },
+  "difficulty_level": "intermediate",
+  "themes": [
+    "Poetry and Prophecy",
+    "Divine Justice",
+    "Historical Cycles",
+    "Covenant Relationship",
+    "Literary Structure",
+    "Cross-Cultural Wisdom"
+  ],
+  "biblical_references": [
+    "Deuteronomy 32:1-43",
+    "Sanhedrin 94a",
+    "Ibn Ezra Commentary"
+  ],
+  "image": {
+    "filename": "header-haazinu-moses-song.png",
+    "style": "山水",
+    "description": "Chinese landscape style artwork depicting Moses calling to heaven and earth as witnesses, with mountains and flowing water representing the eternal nature of the covenant",
+    "generator": "DALL-E 3",
+    "size": "1792x1024",
+    "quality": "hd"
+  },
+  "keywords": [
+    "Ha'azinu",
+    "Moses",
+    "Poetry",
+    "Prophecy",
+    "Song",
+    "Shirah",
+    "Covenant",
+    "Witness",
+    "Heaven and Earth",
+    "Hebrew Literature",
+    "Deuteronomy",
+    "Final Address",
+    "Divine Justice",
+    "Historical Memory",
+    "Exile and Return",
+    "Parallelism",
+    "Biblical Poetry",
+    "Covenant Lawsuit",
+    "Prophetic Vision",
+    "Eternal Truths"
+  ]
+}

@@ -1,0 +1,300 @@
+{
+  "title": {
+    "en": "Israel: The Land of Promise and Return",
+    "zh": "以色列:应许与回归之地",
+    "he": "ישראל: ארץ ההבטחה והשיבה"
+  },
+  "slug": "israel",
+  "category": "history-identity",
+  "subcategory": "land-and-state",
+  "description": {
+    "en": "Explore the unique relationship between the Jewish people and the Land of Israel, from biblical promises to modern statehood, spanning 4,000 years of history, longing, and return.",
+    "zh": "探索犹太民族与以色列土地之间的独特关系,从圣经应许到现代建国,跨越4000年的历史、渴望和回归。",
+    "he": "חקרו את הקשר הייחודי בין העם היהודי לארץ ישראל, מהבטחות מקראיות למדינה מודרנית, המשתרע על פני 4,000 שנות היסטוריה, געגועים ושיבה."
+  },
+  "keywords": [
+    "Israel",
+    "Land of Israel",
+    "Eretz Yisrael",
+    "Promised Land",
+    "Zionism",
+    "Aliyah",
+    "Jerusalem",
+    "Temple",
+    "Diaspora",
+    "Jewish history",
+    "Biblical boundaries",
+    "Return to Zion",
+    "1948 Independence",
+    "Ingathering of Exiles",
+    "Holy sites",
+    "Western Wall",
+    "Temple Mount",
+    "Modern Israel",
+    "Israel-Diaspora relations",
+    "Israel-China relations"
+  ],
+  "readingTime": {
+    "en": 25,
+    "zh": 20,
+    "he": 22
+  },
+  "wordCount": {
+    "en": 4850,
+    "zh": 6200,
+    "he": 5400
+  },
+  "difficulty": "intermediate",
+  "audience": [
+    "general-jewish-audience",
+    "students",
+    "adults",
+    "chinese-speakers-interested-in-judaism",
+    "potential-converts",
+    "israel-visitors"
+  ],
+  "topics": [
+    {
+      "id": "biblical-promises",
+      "title": {
+        "en": "Biblical Promises and Covenant",
+        "zh": "圣经应许与盟约",
+        "he": "הבטחות מקראיות וברית"
+      }
+    },
+    {
+      "id": "biblical-history",
+      "title": {
+        "en": "Biblical History and Kingdoms",
+        "zh": "圣经历史与王国",
+        "he": "היסטוריה מקראית וממלכות"
+      }
+    },
+    {
+      "id": "exile-longing",
+      "title": {
+        "en": "2000 Years of Exile and Longing",
+        "zh": "两千年流亡与渴望",
+        "he": "אלפיים שנות גלות וגעגועים"
+      }
+    },
+    {
+      "id": "modern-zionism",
+      "title": {
+        "en": "Return to Zion and Modern Zionism",
+        "zh": "回归锡安与现代犹太复国主义",
+        "he": "שיבה לציון וציונות מודרנית"
+      }
+    },
+    {
+      "id": "independence-1948",
+      "title": {
+        "en": "1948 Independence and War",
+        "zh": "1948年独立与战争",
+        "he": "עצמאות 1948 ומלחמה"
+      }
+    },
+    {
+      "id": "ingathering-exiles",
+      "title": {
+        "en": "Ingathering of Exiles",
+        "zh": "流散者的聚集",
+        "he": "קיבוץ גלויות"
+      }
+    },
+    {
+      "id": "modern-israel",
+      "title": {
+        "en": "Modern Israel: Geography and Demographics",
+        "zh": "现代以色列:地理与人口",
+        "he": "ישראל המודרנית: גיאוגרפיה ודמוגרפיה"
+      }
+    },
+    {
+      "id": "holy-sites",
+      "title": {
+        "en": "Religious Significance and Holy Sites",
+        "zh": "宗教意义与圣地",
+        "he": "משמעות דתית ואתרים קדושים"
+      }
+    },
+    {
+      "id": "diaspora-relations",
+      "title": {
+        "en": "Israel-Diaspora Relations",
+        "zh": "以色列与散居地关系",
+        "he": "יחסי ישראל-תפוצות"
+      }
+    },
+    {
+      "id": "visiting-israel",
+      "title": {
+        "en": "Visiting Israel: Practical Guide",
+        "zh": "访问以色列:实用指南",
+        "he": "ביקור בישראל: מדריך מעשי"
+      }
+    },
+    {
+      "id": "israel-china",
+      "title": {
+        "en": "Israel and China Relations",
+        "zh": "以色列与中国关系",
+        "he": "יחסי ישראל וסין"
+      }
+    }
+  ],
+  "relatedArticles": [
+    "jerusalem",
+    "temple-history",
+    "jewish-diaspora",
+    "zionism",
+    "holocaust",
+    "jewish-holidays",
+    "torah-and-mitzvot",
+    "jewish-identity"
+  ],
+  "images": [
+    {
+      "id": "western-wall",
+      "alt": {
+        "en": "The Western Wall in Jerusalem",
+        "zh": "耶路撒冷的西墙",
+        "he": "הכותל המערבי בירושלים"
+      }
+    },
+    {
+      "id": "tel-aviv-skyline",
+      "alt": {
+        "en": "Modern Tel Aviv skyline",
+        "zh": "现代特拉维夫天际线",
+        "he": "קו הרקיע של תל אביב המודרנית"
+      }
+    },
+    {
+      "id": "dead-sea",
+      "alt": {
+        "en": "The Dead Sea and Masada",
+        "zh": "死海和马萨达",
+        "he": "ים המלח ומצדה"
+      }
+    },
+    {
+      "id": "jerusalem-old-city",
+      "alt": {
+        "en": "Jerusalem Old City aerial view",
+        "zh": "耶路撒冷旧城鸟瞰图",
+        "he": "מבט אווירי על העיר העתיקה בירושלים"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "id": "israel-history-overview",
+      "platform": "youtube",
+      "title": {
+        "en": "Israel: 4000 Years in 10 Minutes",
+        "zh": "以色列:10分钟了解4000年",
+        "he": "ישראל: 4000 שנה ב-10 דקות"
+      }
+    }
+  ],
+  "furtherReading": [
+    {
+      "title": "A History of Israel",
+      "author": "Howard M. Sachar",
+      "type": "book"
+    },
+    {
+      "title": "The Zionist Idea",
+      "author": "Arthur Hertzberg",
+      "type": "book"
+    },
+    {
+      "title": "Jerusalem: One City, Three Faiths",
+      "author": "Karen Armstrong",
+      "type": "book"
+    }
+  ],
+  "discussionQuestions": {
+    "en": [
+      "How does the covenant between God, the Jewish people, and the Land of Israel shape Jewish identity today?",
+      "What role did the longing for return play in sustaining Jewish identity during 2,000 years of exile?",
+      "How has the establishment of modern Israel fulfilled biblical prophecies and prayers?",
+      "What challenges and opportunities does the ingathering of exiles from diverse backgrounds create?",
+      "How do holy sites in Israel connect Jews worldwide regardless of their level of religious observance?",
+      "What is the significance of Israel-Diaspora relations in contemporary Jewish life?",
+      "How do Israel-China relations reflect broader global dynamics and opportunities?"
+    ],
+    "zh": [
+      "上帝、犹太民族和以色列土地之间的盟约如何塑造今天的犹太身份?",
+      "在2000年流亡期间,对回归的渴望在维持犹太身份方面发挥了什么作用?",
+      "现代以色列的建立如何实现圣经预言和祷告?",
+      "来自不同背景的流散者聚集带来了哪些挑战和机遇?",
+      "以色列的圣地如何连接全世界的犹太人,无论他们的宗教遵守程度如何?",
+      "以色列与散居地关系在当代犹太生活中的意义是什么?",
+      "以色列与中国的关系如何反映更广泛的全球动态和机遇?"
+    ],
+    "he": [
+      "כיצד הברית בין ה', העם היהודי וארץ ישראל מעצבת את הזהות היהודית כיום?",
+      "איזה תפקיד מילא הכיסופים לשיבה בשימור הזהות היהודית במהלך 2,000 שנות גלות?",
+      "כיצד הקמת ישראל המודרנית מגשימה נבואות ותפילות מקראיות?",
+      "אילו אתגרים והזדמנויות יוצר קיבוץ גלויות מרקעים מגוונים?",
+      "כיצד אתרים קדושים בישראל מחברים יהודים ברחבי העולם ללא קשר לרמת השמירה הדתית שלהם?",
+      "מה המשמעות של יחסי ישראל-תפוצות בחיים היהודיים העכשוויים?",
+      "כיצד יחסי ישראל-סין משקפים דינמיקה והזדמנויות גלובליות רחבות יותר?"
+    ]
+  },
+  "author": {
+    "name": "Torah Light Content Team",
+    "role": "Educational Content Creators"
+  },
+  "dateCreated": "2026-03-20",
+  "lastUpdated": "2026-03-20",
+  "version": "1.0",
+  "status": "published",
+  "license": "CC BY-NC-SA 4.0",
+  "targetAudience": {
+    "primary": "Chinese speakers exploring Judaism",
+    "secondary": ["General Jewish audience", "Students of Jewish history", "Israel visitors"]
+  },
+  "educationalLevel": ["high-school", "adult-education", "university"],
+  "estimatedCompletionTime": "60-90 minutes (including reflection)",
+  "interactiveElements": [
+    "discussion-questions",
+    "map-of-israel",
+    "timeline-interactive",
+    "virtual-tour-suggestions"
+  ],
+  "accessibility": {
+    "languages": ["en", "zh", "he"],
+    "formats": ["text", "audio-available", "print-friendly"],
+    "readabilityScore": {
+      "en": "college-level",
+      "zh": "intermediate-chinese",
+      "he": "standard-hebrew"
+    }
+  },
+  "seo": {
+    "metaTitle": {
+      "en": "Israel: Biblical Promises to Modern State | Torah Light",
+      "zh": "以色列:从圣经应许到现代国家 | Torah Light",
+      "he": "ישראל: מהבטחות מקראיות למדינה מודרנית | Torah Light"
+    },
+    "metaDescription": {
+      "en": "Comprehensive guide to Israel's 4,000-year history: biblical covenants, exile, Zionism, 1948 independence, holy sites, and modern Israel-Diaspora-China relations.",
+      "zh": "以色列4000年历史综合指南:圣经盟约、流亡、犹太复国主义、1948年独立、圣地以及现代以色列-散居地-中国关系。",
+      "he": "מדריך מקיף להיסטוריה בת 4,000 שנה של ישראל: בריתות מקראיות, גלות, ציונות, עצמאות 1948, אתרים קדושים ויחסי ישראל-תפוצות-סין מודרניים."
+    },
+    "canonicalUrl": "/history-identity/israel",
+    "openGraphImage": "/images/israel/jerusalem-panorama.jpg"
+  },
+  "printVersion": {
+    "available": true,
+    "format": "pdf",
+    "pageCount": {
+      "en": 18,
+      "zh": 15,
+      "he": 17
+    }
+  }
+}

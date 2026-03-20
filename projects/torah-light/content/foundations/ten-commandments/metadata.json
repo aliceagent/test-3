@@ -1,0 +1,232 @@
+{
+  "title": {
+    "en": "The Ten Commandments",
+    "zh": "十诫",
+    "he": "עשרת הדברות"
+  },
+  "slug": "ten-commandments",
+  "category": "foundations",
+  "hebrewName": "עֲשֶׂרֶת הַדִּבְּרוֹת",
+  "transliteration": "Aseret HaDibrot",
+  "alternateNames": {
+    "en": ["Ten Commandments", "Decalogue", "Ten Words"],
+    "zh": ["十诫", "十条诫命", "摩西十诫"],
+    "he": ["עשרת הדיברות", "לוחות הברית", "עשרת הדברים"]
+  },
+  "summary": {
+    "en": "The foundational divine laws given at Mount Sinai, establishing the covenant between God and Israel and serving as pillars for all Jewish law and ethics.",
+    "zh": "在西奈山颁布的基本神圣律法,建立上帝与以色列之间的盟约,作为所有犹太律法和伦理的支柱。",
+    "he": "חוקי היסוד האלוהיים שניתנו בהר סיני, מקימים את הברית בין ה' וישראל ומשמשים עמודי תווך לכל ההלכה והאתיקה היהודית."
+  },
+  "keywords": {
+    "en": ["Ten Commandments", "Sinai", "revelation", "Exodus", "Deuteronomy", "tablets", "covenant", "law", "ethics", "halakha"],
+    "zh": ["十诫", "西奈山", "启示", "出埃及记", "申命记", "法版", "盟约", "律法", "伦理", "哈拉卡"],
+    "he": ["עשרת הדברות", "סיני", "התגלות", "שמות", "דברים", "לוחות", "ברית", "תורה", "מוסר", "הלכה"]
+  },
+  "biblicalSources": [
+    {
+      "book": "Exodus",
+      "chapter": 20,
+      "verses": "1-14",
+      "description": "First giving of the Ten Commandments"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 5,
+      "verses": "6-18",
+      "description": "Second recounting with variations"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 19,
+      "verses": "1-25",
+      "description": "Preparation and context at Mount Sinai"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 31,
+      "verses": "18",
+      "description": "Tablets written by God's finger"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 32,
+      "verses": "15-19",
+      "description": "Breaking of the first tablets"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 34,
+      "verses": "1-28",
+      "description": "Second set of tablets"
+    }
+  ],
+  "talmudSources": [
+    {
+      "tractate": "Shabbat",
+      "page": "88a",
+      "description": "God held mountain over Israel like a barrel"
+    },
+    {
+      "tractate": "Shevuot",
+      "page": "20b",
+      "description": "Zachor and Shamor spoken simultaneously"
+    },
+    {
+      "tractate": "Makkot",
+      "page": "23b-24a",
+      "description": "All 613 commandments included in the Ten"
+    }
+  ],
+  "relatedConcepts": [
+    {
+      "slug": "brit-covenant",
+      "title": "Covenant (Brit)",
+      "relationship": "The Ten Commandments establish the covenant"
+    },
+    {
+      "slug": "revelation-sinai",
+      "title": "Revelation at Sinai",
+      "relationship": "Historical context and setting"
+    },
+    {
+      "slug": "shabbat",
+      "title": "Shabbat",
+      "relationship": "Fourth Commandment, foundational observance"
+    },
+    {
+      "slug": "taryag-mitzvot",
+      "title": "613 Commandments",
+      "relationship": "Ten Commandments as organizing categories"
+    },
+    {
+      "slug": "tablets-stone",
+      "title": "Tablets of Stone",
+      "relationship": "Physical medium of divine writing"
+    }
+  ],
+  "themes": [
+    "Divine revelation",
+    "Covenant relationship",
+    "Law and ethics integration",
+    "Human-divine relationship",
+    "Interpersonal responsibility",
+    "Monotheism",
+    "Sanctification of time (Sabbath)",
+    "Family structure",
+    "Social justice",
+    "Inner morality"
+  ],
+  "practicalApplications": [
+    "Daily recognition of God's presence and role",
+    "Rejection of idolatry in all forms",
+    "Respectful use of sacred language",
+    "Weekly Sabbath observance",
+    "Honoring and caring for parents",
+    "Sanctity of human life",
+    "Marital fidelity",
+    "Respect for property rights",
+    "Truthfulness in all dealings",
+    "Contentment and gratitude"
+  ],
+  "historicalSignificance": {
+    "en": "Given approximately 3,300 years ago at Mount Sinai during the Exodus from Egypt. Represents the only mass divine revelation in Jewish tradition, witnessed by an entire nation. Forms the basis for the covenant between God and Israel.",
+    "zh": "大约3300年前在出埃及期间于西奈山颁布。代表犹太传统中唯一的集体神圣启示,由整个民族见证。构成上帝与以色列之间盟约的基础。",
+    "he": "ניתנו לפני כ-3,300 שנה בהר סיני במהלך יציאת מצרים. מייצגות את ההתגלות האלוהית ההמונית היחידה במסורת היהודית, שנצפתה על ידי אומה שלמה. מהוות את הבסיס לברית בין ה' וישראל."
+  },
+  "structure": {
+    "tablets": 2,
+    "commandments": 10,
+    "divisions": {
+      "tablet1": {
+        "commandments": [1, 2, 3, 4, 5],
+        "focus": "Relationship between humans and God (bein adam l'Makom)"
+      },
+      "tablet2": {
+        "commandments": [6, 7, 8, 9, 10],
+        "focus": "Relationships between people (bein adam l'chaveiro)"
+      }
+    }
+  },
+  "versions": {
+    "exodus": {
+      "reference": "Exodus 20:1-14",
+      "sabbath_verb": "Zachor (Remember)",
+      "sabbath_rationale": "Creation"
+    },
+    "deuteronomy": {
+      "reference": "Deuteronomy 5:6-18",
+      "sabbath_verb": "Shamor (Observe)",
+      "sabbath_rationale": "Exodus from Egypt"
+    }
+  },
+  "readingLevel": "intermediate",
+  "estimatedReadingTime": {
+    "en": "20-25 minutes",
+    "zh": "15-20 minutes",
+    "he": "18-22 minutes"
+  },
+  "audience": [
+    "Students of Torah",
+    "Those seeking foundational Jewish knowledge",
+    "Interfaith learners",
+    "Bar/Bat Mitzvah preparation",
+    "Adult education programs"
+  ],
+  "pedagogicalNotes": {
+    "en": "Best studied with attention to both versions (Exodus and Deuteronomy). Consider the dual structure of tablets. Encourage reflection on modern applications of ancient principles.",
+    "zh": "最好同时关注两个版本(出埃及记和申命记)学习。考虑法版的双重结构。鼓励反思古代原则的现代应用。",
+    "he": "מומלץ ללמוד בתשומת לב לשתי הגרסאות (שמות ודברים). התבוננו במבנה הכפול של הלוחות. עודדו חשיבה על יישומים מודרניים של עקרונות עתיקים."
+  },
+  "discussionQuestions": {
+    "en": [
+      "Why do you think God chose to reveal these ten commandments to an entire nation rather than just to Moses?",
+      "How does the division between the two tablets reflect the integration of spiritual and ethical life?",
+      "What is the significance of the variations between the Exodus and Deuteronomy versions?",
+      "How do the Ten Commandments remain relevant in modern life?",
+      "Why is the prohibition against coveting (an internal state) included among these foundational laws?"
+    ],
+    "zh": [
+      "你认为为什么上帝选择向整个民族而不仅仅是摩西启示这十条诫命?",
+      "两块法版之间的划分如何反映精神和伦理生活的融合?",
+      "出埃及记和申命记版本之间的差异有什么意义?",
+      "十诫如何在现代生活中保持相关性?",
+      "为什么禁止贪婪(内部状态)被包括在这些基本律法中?"
+    ],
+    "he": [
+      "למה לדעתך ה' בחר לגלות את עשרת הדברות לאומה שלמה ולא רק למשה?",
+      "כיצד החלוקה בין שני הלוחות משקפת את השילוב של חיים רוחניים ואתיים?",
+      "מה המשמעות של השינויים בין גרסאות שמות ודברים?",
+      "כיצד עשרת הדברות נשארות רלוונטיות בחיים המודרניים?",
+      "מדוע איסור החימוד (מצב פנימי) כלול בין החוקים היסודיים האלה?"
+    ]
+  },
+  "furtherStudy": [
+    {
+      "topic": "Individual commandment deep-dives",
+      "description": "Detailed halachic analysis of each commandment"
+    },
+    {
+      "topic": "Comparative analysis",
+      "description": "Study differences between Exodus and Deuteronomy versions"
+    },
+    {
+      "topic": "Rabbinic commentary",
+      "description": "Explore medieval and modern commentaries (Rashi, Ibn Ezra, Ramban, etc.)"
+    },
+    {
+      "topic": "Historical context",
+      "description": "Ancient Near Eastern law codes and their relationship to the Ten Commandments"
+    },
+    {
+      "topic": "Mystical dimensions",
+      "description": "Kabbalistic interpretations and connections to sefirot"
+    }
+  ],
+  "author": "Torah Light Content Team",
+  "lastUpdated": "2026-03-20",
+  "version": "1.0",
+  "contentType": "educational-article",
+  "format": "markdown",
+  "license": "CC-BY-NC-SA-4.0"
+}

@@ -1,0 +1,79 @@
+{
+  "id": 59,
+  "title": "Life as a Ger: Stories from Jewish Converts Around the World",
+  "title_zh": "作为皈依者的生活:来自世界各地犹太皈依者的故事",
+  "title_he": "החיים כגר: סיפורים של גרים מרחבי העולם",
+  "section": "Conversion",
+  "section_zh": "皈依",
+  "section_he": "גיור",
+  "description": "Real stories from Jewish converts around the world, including Asia, sharing their journeys, challenges, and the transformative experience of choosing to become Jewish.",
+  "word_count_en": 5150,
+  "word_count_zh": 4900,
+  "word_count_he": 5300,
+  "status": "published",
+  "created": "2026-03-18T08:06:00+02:00",
+  "published": "2026-03-18T08:06:00+02:00",
+  "author": "Torah Light Writing Team",
+  "tags": [
+    "Conversion",
+    "Ger",
+    "Gerim",
+    "RuthTheConvert",
+    "JewishIdentity",
+    "BecomingJewish",
+    "ConversionStories",
+    "ChineseLearners",
+    "AsianJews",
+    "MikvahImmersion",
+    "BeitDin",
+    "ChosenPeople",
+    "ConvertLife",
+    "ShanghaiJews",
+    "KoreanJews",
+    "BrazilianJews",
+    "InterculturalJudaism",
+    "JewishCommunity",
+    "NewJew",
+    "ConversionJourney",
+    "犹太皈依",
+    "改宗",
+    "选择犹太教",
+    "Ruth",
+    "Onkelos",
+    "RabbiAkiva",
+    "Chabad",
+    "Mitzvot",
+    "Circumcision",
+    "Mikvah"
+  ],
+  "chinese_dynasty_references": [
+    {
+      "dynasty": "Western Zhou Dynasty",
+      "chinese": "西周",
+      "years": "~1046-771 BCE",
+      "context": "Period when Ruth spoke her famous words of conversion"
+    }
+  ],
+  "key_concepts": [
+    {
+      "english": "Convert",
+      "hebrew": "גר",
+      "chinese": "皈依者"
+    },
+    {
+      "english": "Your people shall be my people, and your God my God",
+      "hebrew": "עמך עמי ואלהיך אלהי",
+      "chinese": "你的民就是我的民，你的神就是我的神"
+    },
+    {
+      "english": "Commandments",
+      "hebrew": "מצוות",
+      "chinese": "诫命"
+    },
+    {
+      "english": "Ritual immersion pool",
+      "hebrew": "מקוה",
+      "chinese": "仪式浸池"
+    }
+  ]
+}

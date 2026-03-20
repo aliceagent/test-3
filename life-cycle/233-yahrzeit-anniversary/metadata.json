@@ -1,0 +1,100 @@
+{
+  "id": 233,
+  "title": "The Yahrzeit: Remembering Loved Ones Each Year",
+  "title_zh": "亚兹海特：每年纪念逝去的亲人",
+  "title_he": "יום השנה (יארצייט): זכר לאהובינו שעברו לעולמם",
+  "section": "life-cycle",
+  "slug": "yahrzeit-anniversary",
+  "description": "An educational introduction to the Jewish practice of yahrzeit - the annual commemoration of a loved one's death through candle lighting, Kaddish prayer, Torah study, and charitable giving.",
+  "description_zh": "关于犹太传统中亚兹海特习俗的教育性介绍——通过点蜡烛、诵读卡迪什祷文、学习妥拉和慈善捐赠来每年纪念逝者。",
+  "description_he": "מבוא חינוכי לנוהג היארצייט היהודי - הנצחת שנתית של פטירת אדם אהוב באמצעות הדלקת נר, אמירת קדיש, לימוד תורה ונתינת צדקה.",
+  "keywords": [
+    "yahrzeit",
+    "memorial",
+    "mourning",
+    "kaddish",
+    "death",
+    "remembrance",
+    "soul candle",
+    "annual commemoration",
+    "jewish mourning",
+    "life cycle"
+  ],
+  "keywords_zh": [
+    "亚兹海特",
+    "纪念",
+    "哀悼",
+    "卡迪什",
+    "死亡",
+    "怀念",
+    "灵魂之烛",
+    "年度纪念",
+    "犹太哀悼",
+    "生命周期",
+    "清明节",
+    "祖先崇拜"
+  ],
+  "keywords_he": [
+    "יארצייט",
+    "זיכרון",
+    "אבלות",
+    "קדיש",
+    "מוות",
+    "הנצחה",
+    "נר נשמה",
+    "ציון שנתי",
+    "אבל יהודי",
+    "מעגל החיים"
+  ],
+  "difficulty": "beginner",
+  "readingTime": {
+    "en": 12,
+    "zh": 8,
+    "he": 10
+  },
+  "cultural_parallels": [
+    "Qingming Festival (Chinese)",
+    "Obon (Japanese Buddhist)",
+    "Día de los Muertos (Mexican/Latin American)",
+    "Ancestor veneration traditions"
+  ],
+  "key_concepts": [
+    "Annual memorial observance on Hebrew calendar date of death",
+    "Lighting 24-hour memorial candle (ner neshama)",
+    "Reciting Mourner's Kaddish prayer",
+    "Torah study and charitable giving in memory of deceased",
+    "Visiting the grave",
+    "Elevating the soul through good deeds"
+  ],
+  "target_audience": "Chinese native Mandarin speakers with no prior Jewish knowledge",
+  "tone": "Educational, warm, culturally sensitive",
+  "sources": [
+    "Babylonian Talmud, Tractate Sanhedrin 104a",
+    "Proverbs 20:27",
+    "Shulchan Aruch, Yoreh De'ah 376",
+    "Zohar I:218b",
+    "Mishnah Peah 1:1",
+    "Goldberg, Chaim Binyamin. Mourning in Halachah. Mesorah Publications, 1991",
+    "Lamm, Maurice. The Jewish Way in Death and Mourning. Jonathan David Publishers, 2000"
+  ],
+  "related_articles": [
+    "Shiva: The Seven Days of Mourning",
+    "Understanding Jewish Burial Practices",
+    "The Kaddish Prayer Explained",
+    "Jewish Views on Death and the Afterlife",
+    "Visiting Jewish Cemeteries: Customs and Etiquette"
+  ],
+  "created": "2026-03-19",
+  "language_versions": {
+    "en": "article-en.md",
+    "zh": "article-zh.md",
+    "he": "article-he.md"
+  },
+  "word_count": {
+    "en": 4200,
+    "zh": 3850,
+    "he": 3200
+  },
+  "chinese_cultural_notes": "This article draws extensive parallels between yahrzeit and Chinese Qingming Festival, Japanese Obon, and broader ancestor veneration traditions. Emphasizes the universal human need to honor the deceased and maintain connection with those who have passed. Highlights similarities in practices: visiting graves, making offerings, lighting candles/incense, and belief that actions of the living benefit the deceased.",
+  "status": "completed"
+}

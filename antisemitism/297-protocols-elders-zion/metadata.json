@@ -1,0 +1,119 @@
+{
+  "id": 297,
+  "title": "The Protocols of the Elders of Zion: History's Most Dangerous Forgery",
+  "title_zh": "《锡安长老会纪要》：历史上最危险的伪造文件",
+  "title_he": "פרוטוקולי זקני ציון: הזיוף המסוכן ביותר בהיסטוריה",
+  "section": "antisemitism",
+  "slug": "protocols-elders-zion",
+  "description": "An in-depth exploration of The Protocols of the Elders of Zion - the most dangerous forgery in history - its fraudulent origins, deadly consequences, and lessons for combating conspiracy theories and hate in the modern era.",
+  "description_zh": "深入探讨《锡安长老会纪要》——历史上最危险的伪造品——其欺诈起源、致命后果，以及在现代时代对抗阴谋论和仇恨的教训。",
+  "description_he": "חקירה מעמיקה של פרוטוקולי זקני ציון - הזיוף המסוכן ביותר בהיסטוריה - מקורותיו המזויפים, השלכותיו הקטלניות, ולקחים למאבק בתיאוריות קונספירציה ושנאה בעידן המודרני.",
+  "keywords": [
+    "Protocols of the Elders of Zion",
+    "antisemitism",
+    "forgery",
+    "conspiracy theory",
+    "Holocaust",
+    "Nazi propaganda",
+    "Russia",
+    "Maurice Joly",
+    "Henry Ford",
+    "critical thinking",
+    "media literacy",
+    "Jewish history",
+    "hate speech",
+    "disinformation"
+  ],
+  "keywords_zh": [
+    "锡安长老会纪要",
+    "反犹主义",
+    "伪造",
+    "阴谋论",
+    "大屠杀",
+    "纳粹宣传",
+    "俄国",
+    "莫里斯·若利",
+    "亨利·福特",
+    "批判性思维",
+    "媒体素养",
+    "犹太历史",
+    "仇恨言论",
+    "虚假信息"
+  ],
+  "keywords_he": [
+    "פרוטוקולי זקני ציון",
+    "אנטישמיות",
+    "זיוף",
+    "תיאוריית קונספירציה",
+    "שואה",
+    "תעמולה נאצית",
+    "רוסיה",
+    "מוריס ג'ולי",
+    "הנרי פורד",
+    "חשיבה ביקורתית",
+    "אוריינות תקשורתית",
+    "היסטוריה יהודית",
+    "דברי שנאה",
+    "מידע כוזב"
+  ],
+  "word_count_en": 3542,
+  "char_count_zh": 4793,
+  "char_count_he": 8905,
+  "status": "complete",
+  "created": "2026-03-19T04:45:00Z",
+  "author": "Torah Light Editorial Team",
+  "target_audience": "Native Mandarin speakers with no prior Jewish knowledge; general readers interested in history, media literacy, and combating hate",
+  "cultural_parallels": [
+    "Qing Dynasty (1644-1912) as contemporary period",
+    "Cultural Revolution fabricated documents and false accusations",
+    "Chinese historical use of rumors during dynastic transitions",
+    "Parallels between scapegoating and political instability"
+  ],
+  "educational_objectives": [
+    "Understand the fraudulent origins of The Protocols",
+    "Recognize how conspiracy theories spread despite debunking",
+    "Learn critical thinking skills for evaluating information",
+    "Appreciate the deadly real-world consequences of hate propaganda",
+    "Develop strategies for responding to antisemitism and disinformation"
+  ],
+  "tags": [
+    "Antisemitism",
+    "Protocols",
+    "Forgery",
+    "Holocaust",
+    "Conspiracy",
+    "MediaLiteracy",
+    "CriticalThinking",
+    "JewishHistory",
+    "Nazi",
+    "Russia",
+    "清朝",
+    "谣言",
+    "仇恨",
+    "真相"
+  ],
+  "related_articles": [
+    298,
+    299,
+    300,
+    259,
+    262
+  ],
+  "bibliography_count": 7,
+  "images": {
+    "header_prompt": "A somber Chinese ink wash painting in muted grays and blacks. In the foreground, torn and scattered pages of an old document float away like autumn leaves, disintegrating in the wind. In the background, faint silhouettes of historical buildings from multiple eras fade into mist — representing how lies persist across time. A single bright streak of light breaks through dark clouds in the upper corner, symbolizing truth emerging. The style should evoke traditional shan shui (山水) painting with an emphasis on emptiness and shadow, creating a contemplative mood about the weight of falsehood and the resilience of truth."
+  },
+  "historical_period": {
+    "primary": "Early 20th Century (1900-1950)",
+    "primary_zh": "20世纪初（1900-1950）",
+    "primary_he": "תחילת המאה ה-20 (1900-1950)",
+    "chinese_equivalent": "Late Qing Dynasty to Republic of China (清朝晚期至民国)",
+    "years": "1903-present"
+  },
+  "difficulty_level": "Intermediate",
+  "estimated_reading_time_minutes": {
+    "en": 14,
+    "zh": 8,
+    "he": 12
+  }
+}

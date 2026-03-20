@@ -1,0 +1,66 @@
+=== SEFARIA: Deuteronomy 8:8 ===
+Source: https://www.sefaria.org/api/texts/Deuteronomy%208%3A8
+Hebrew Title: דברים
+English Title: N/A
+
+1. You shall faithfully observe all the Instruction that I enjoin upon you today, that you may thrive and increase and be able to possess the land that G<small>OD</small> promised on oath to your fathers.<sup class="footnote-marker">a</sup><i class="footnote"><b>fathers </b>See note at <a class="refLink" data-ref="Deuteronomy 1:35" href="Deuteronomy.1.35">1.35</a>.</i> 
+
+2. Remember the long way that the E<small>TERNAL</small> your God has made you travel in the wilderness these past forty years, in order to test you by hardships to learn what was in your hearts: whether you would keep the commandments or not. 
+
+3. [God] subjected you to the hardship of hunger and then gave you manna to eat, which neither you nor your ancestors had ever known, in order to teach you that a human being does not live on bread alone, but that one may live on anything that G<small>OD</small> decrees. 
+
+4. The clothes upon you did not wear out, nor did your feet swell these forty years. 
+
+5. Bear in mind that the E<small>TERNAL</small> your God disciplines you just as a man<sup class="footnote-marker">b</sup><i class="footnote"><b>man </b>See note at <a class="refLink" data-ref="Deuteronomy 1:31" href="Deuteronomy.1.31">1.31</a>.</i> disciplines his son. 
+
+6. Therefore keep the commandments of the E<small>TERNAL</small> your God: walk in God’s ways and show reverence.
+
+7. For the E<small>TERNAL</small> your God is bringing you into a good land, a land with streams and springs and fountains issuing from plain and hill; 
+
+8. a land of wheat and barley, of vines, figs, and pomegranates, a land of olive trees and honey; 
+
+9. a land where you may eat food without stint, where you will lack nothing; a land whose rocks are iron and from whose hills you can mine copper. 
+
+10. When you have eaten your fill, give thanks to the E<small>TERNAL</small> your God for the good land given to you.
+
+11. Take care lest you forget the E<small>TERNAL</small> your God and fail to keep the commandments, rules, and laws that I enjoin upon you today. 
+
+12. When you have eaten your fill, and have built fine houses to live in, 
+
+13. and your herds and flocks have multiplied, and your silver and gold have increased, and everything you own has prospered, 
+
+14. beware lest<sup class="footnote-marker">c</sup><i class="footnote"><b>lest </b>Heb. <i>pen</i>; moved down from v. <a class="refLink" data-ref="Deuteronomy 8:12" href="Deuteronomy.8.12">12</a> for clarity.</i> your heart grow haughty and you forget the E<small>TERNAL</small> your God—who freed you from the land of Egypt, the house of bondage; 
+
+15. who led you through the great and terrible wilderness with its <i>seraph</i><sup class="footnote-marker">d</sup><i class="footnote"><b>seraph </b>See note at <a class="refLink" data-ref="Numbers 21:6" href="Numbers.21.6">Num. 21.6</a>.</i> serpents and scorpions, a parched land with no water in it, who brought forth water for you from the flinty rock; 
+
+16. who fed you in the wilderness with manna, which your ancestors had never known, in order to test you by hardships only to benefit you in the end— 
+
+17. and you say to yourselves, “My own power and the might of my own hand have won this wealth for me.” 
+
+18. Remember that it is the E<small>TERNAL</small> your God who gives you the power to get wealth, in fulfillment of the covenant made on oath with your fathers, as is still the case.
+
+19. If you do forget the E<small>TERNAL</small> your God and follow other gods to serve them or bow down to them, I warn you this day that you shall certainly perish; 
+
+20. like the nations that G<small>OD</small> will cause to perish before you, so shall you perish—because you did not heed the E<small>TERNAL</small> your God.
+
+=== HEBREW TEXT ===
+1. כׇּל־הַמִּצְוָ֗ה אֲשֶׁ֨ר אָנֹכִ֧י מְצַוְּךָ֛ הַיּ֖וֹם תִּשְׁמְר֣וּן לַעֲשׂ֑וֹת לְמַ֨עַן תִּֽחְי֜וּן וּרְבִיתֶ֗ם וּבָאתֶם֙ וִֽירִשְׁתֶּ֣ם אֶת־הָאָ֔רֶץ אֲשֶׁר־נִשְׁבַּ֥ע יְהֹוָ֖ה לַאֲבֹתֵיכֶֽם׃
+2. וְזָכַרְתָּ֣ אֶת־כׇּל־הַדֶּ֗רֶךְ אֲשֶׁ֨ר הוֹלִֽיכְךָ֜ יְהֹוָ֧ה אֱלֹהֶ֛יךָ זֶ֛ה אַרְבָּעִ֥ים שָׁנָ֖ה בַּמִּדְבָּ֑ר לְמַ֨עַן עַנֹּֽתְךָ֜ לְנַסֹּֽתְךָ֗ לָדַ֜עַת אֶת־אֲשֶׁ֧ר בִּֽלְבָבְךָ֛ הֲתִשְׁמֹ֥ר <span class="mam-kq-trivial">מִצְוֺתָ֖ו</span> אִם־לֹֽא׃
+3. וַֽיְעַנְּךָ֮ וַיַּרְעִבֶ֒ךָ֒ וַיַּאֲכִֽלְךָ֤ אֶת־הַמָּן֙ אֲשֶׁ֣ר לֹא־יָדַ֔עְתָּ וְלֹ֥א יָדְע֖וּן אֲבֹתֶ֑יךָ לְמַ֣עַן הוֹדִֽיעֲךָ֗ כִּ֠י לֹ֣א עַל־הַלֶּ֤חֶם לְבַדּוֹ֙ יִחְיֶ֣ה הָֽאָדָ֔ם כִּ֛י עַל־כׇּל־מוֹצָ֥א פִֽי־יְהֹוָ֖ה יִחְיֶ֥ה הָאָדָֽם׃
+4. שִׂמְלָ֨תְךָ֜ לֹ֤א בָֽלְתָה֙ מֵֽעָלֶ֔יךָ וְרַגְלְךָ֖ לֹ֣א בָצֵ֑קָה זֶ֖ה אַרְבָּעִ֥ים שָׁנָֽה׃
+5. וְיָדַעְתָּ֖ עִם־לְבָבֶ֑ךָ כִּ֗י כַּאֲשֶׁ֨ר יְיַסֵּ֥ר אִישׁ֙ אֶת־בְּנ֔וֹ יְהֹוָ֥ה אֱלֹהֶ֖יךָ מְיַסְּרֶֽךָּ׃
+6. וְשָׁ֣מַרְתָּ֔ אֶת־מִצְוֺ֖ת יְהֹוָ֣ה אֱלֹהֶ֑יךָ לָלֶ֥כֶת בִּדְרָכָ֖יו וּלְיִרְאָ֥ה אֹתֽוֹ׃
+7. כִּ֚י יְהֹוָ֣ה אֱלֹהֶ֔יךָ מְבִֽיאֲךָ֖ אֶל־אֶ֣רֶץ טוֹבָ֑ה אֶ֚רֶץ נַ֣חֲלֵי מָ֔יִם עֲיָנֹת֙ וּתְהֹמֹ֔ת יֹצְאִ֥ים בַּבִּקְעָ֖ה וּבָהָֽר׃
+8. אֶ֤רֶץ חִטָּה֙ וּשְׂעֹרָ֔ה וְגֶ֥פֶן וּתְאֵנָ֖ה וְרִמּ֑וֹן אֶֽרֶץ־זֵ֥ית שֶׁ֖מֶן וּדְבָֽשׁ׃
+9. אֶ֗רֶץ אֲשֶׁ֨ר לֹ֤א בְמִסְכֵּנֻת֙ תֹּֽאכַל־בָּ֣הּ לֶ֔חֶם לֹֽא־תֶחְסַ֥ר כֹּ֖ל בָּ֑הּ אֶ֚רֶץ אֲשֶׁ֣ר אֲבָנֶ֣יהָ בַרְזֶ֔ל וּמֵהֲרָרֶ֖יהָ תַּחְצֹ֥ב נְחֹֽשֶׁת׃
+10. וְאָכַלְתָּ֖ וְשָׂבָ֑עְתָּ וּבֵֽרַכְתָּ֙ אֶת־יְהֹוָ֣ה אֱלֹהֶ֔יךָ עַל־הָאָ֥רֶץ הַטֹּבָ֖ה אֲשֶׁ֥ר נָֽתַן־לָֽךְ׃
+11. הִשָּׁ֣מֶר לְךָ֔ פֶּן־תִּשְׁכַּ֖ח אֶת־יְהֹוָ֣ה אֱלֹהֶ֑יךָ לְבִלְתִּ֨י שְׁמֹ֤ר מִצְוֺתָיו֙ וּמִשְׁפָּטָ֣יו וְחֻקֹּתָ֔יו אֲשֶׁ֛ר אָנֹכִ֥י מְצַוְּךָ֖ הַיּֽוֹם׃
+12. פֶּן־תֹּאכַ֖ל וְשָׂבָ֑עְתָּ וּבָתִּ֥ים טֹבִ֛ים תִּבְנֶ֖ה וְיָשָֽׁבְתָּ׃
+13. וּבְקָֽרְךָ֤ וְצֹֽאנְךָ֙ יִרְבְּיֻ֔ן וְכֶ֥סֶף וְזָהָ֖ב יִרְבֶּה־לָּ֑ךְ וְכֹ֥ל אֲשֶׁר־לְךָ֖ יִרְבֶּֽה׃
+14. וְרָ֖ם לְבָבֶ֑ךָ וְשָֽׁכַחְתָּ֙ אֶת־יְהֹוָ֣ה אֱלֹהֶ֔יךָ הַמּוֹצִיאֲךָ֛ מֵאֶ֥רֶץ מִצְרַ֖יִם מִבֵּ֥ית עֲבָדִֽים׃
+15. הַמּוֹלִ֨יכְךָ֜ בַּמִּדְבָּ֣ר&thinsp;<b>׀</b> הַגָּדֹ֣ל וְהַנּוֹרָ֗א נָחָ֤שׁ&thinsp;<small>׀</small>&thinsp;שָׂרָף֙ וְעַקְרָ֔ב וְצִמָּא֖וֹן אֲשֶׁ֣ר אֵֽין־מָ֑יִם הַמּוֹצִ֤יא לְךָ֙ מַ֔יִם מִצּ֖וּר הַֽחַלָּמִֽישׁ׃
+16. הַמַּאֲכִ֨לְךָ֥ מָן֙ בַּמִּדְבָּ֔ר אֲשֶׁ֥ר לֹא־יָדְע֖וּן אֲבֹתֶ֑יךָ לְמַ֣עַן עַנֹּֽתְךָ֗ וּלְמַ֙עַן֙ נַסֹּתֶ֔ךָ לְהֵיטִֽבְךָ֖ בְּאַחֲרִיתֶֽךָ׃
+17. וְאָמַרְתָּ֖ בִּלְבָבֶ֑ךָ כֹּחִי֙ וְעֹ֣צֶם יָדִ֔י עָ֥שָׂה לִ֖י אֶת־הַחַ֥יִל הַזֶּֽה׃
+18. וְזָֽכַרְתָּ֙ אֶת־יְהֹוָ֣ה אֱלֹהֶ֔יךָ כִּ֣י ה֗וּא הַנֹּתֵ֥ן לְךָ֛ כֹּ֖חַ לַעֲשׂ֣וֹת חָ֑יִל לְמַ֨עַן הָקִ֧ים אֶת־בְּרִית֛וֹ אֲשֶׁר־נִשְׁבַּ֥ע לַאֲבֹתֶ֖יךָ כַּיּ֥וֹם הַזֶּֽה׃&nbsp;<span class="mam-spi-pe">{פ}</span><br>
+19. וְהָיָ֗ה אִם־שָׁכֹ֤חַ תִּשְׁכַּח֙ אֶת־יְהֹוָ֣ה אֱלֹהֶ֔יךָ וְהָֽלַכְתָּ֗ אַחֲרֵי֙ אֱלֹהִ֣ים אֲחֵרִ֔ים וַעֲבַדְתָּ֖ם וְהִשְׁתַּחֲוִ֣יתָ לָהֶ֑ם הַעִדֹ֤תִי בָכֶם֙ הַיּ֔וֹם כִּ֥י אָבֹ֖ד תֹּאבֵדֽוּן׃
+20. כַּגּוֹיִ֗ם אֲשֶׁ֤ר יְהֹוָה֙ מַאֲבִ֣יד מִפְּנֵיכֶ֔ם כֵּ֖ן תֹּאבֵד֑וּן עֵ֚קֶב לֹ֣א תִשְׁמְע֔וּן בְּק֖וֹל יְהֹוָ֥ה אֱלֹהֵיכֶֽם׃&nbsp;<span class="mam-spi-pe">{פ}</span><br>

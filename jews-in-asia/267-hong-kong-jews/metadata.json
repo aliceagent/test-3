@@ -1,0 +1,59 @@
+{
+  "id": 267,
+  "title": "Hong Kong's Jewish Heritage: From the Kadoorie Family to Today",
+  "title_zh": "香港犹太传承：从嘉道理家族到今天",
+  "title_he": "המורשת היהודית של הונג קונג: ממשפחת קדורי ועד היום",
+  "section": "jews-in-asia",
+  "slug": "hong-kong-jews",
+  "word_count": {
+    "en": 3850,
+    "zh": 2650,
+    "he": 3200
+  },
+  "languages": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "tags": [
+    "JewsInAsia",
+    "HongKong",
+    "KadoorieFamily",
+    "SassoonFamily",
+    "Sephardic",
+    "Holocaust",
+    "Refugees",
+    "Philanthropy",
+    "Tzedakah",
+    "OhelLeah",
+    "PeninsulaHotel",
+    "Chabad",
+    "JewishHistory",
+    "ChineseHistory",
+    "QingDynasty"
+  ],
+  "chinese_dynasty_references": [
+    {
+      "dynasty": "清朝 (Qing Dynasty)",
+      "years": "1644-1912",
+      "context": "British colonization of Hong Kong in 1842"
+    }
+  ],
+  "key_figures": [
+    "Elias David Sassoon",
+    "Lady Leah Gubbay Sassoon",
+    "Elly Kadoorie",
+    "Ellis Kadoorie",
+    "Lawrence Kadoorie",
+    "Horace Kadoorie"
+  ],
+  "bibliography_count": 8,
+  "cultural_parallels": [
+    "Jewish tzedakah and Confucian 仁 (rén, benevolence)",
+    "Shared values of education, family, and community responsibility",
+    "Integration and mutual respect between Jewish and Chinese communities"
+  ],
+  "status": "complete",
+  "created_date": "2026-03-19",
+  "author": "Torah Light Writer Agent"
+}

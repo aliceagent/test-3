@@ -1,0 +1,61 @@
+{
+  "title": {
+    "en": "Shavuot All-Night Learning: Tikkun Leil Shavuot",
+    "zh": "五旬节通宵学习：修复五旬节之夜",
+    "he": "לימוד כל הלילה בשבועות: תיקון ליל שבועות"
+  },
+  "description": {
+    "en": "The custom of staying up all night studying Torah on Shavuot, its kabbalistic origins, and suggested learning topics for the night.",
+    "zh": "在五旬节通宵学习妥拉的习俗、其卡巴拉起源以及夜晚推荐的学习主题。",
+    "he": "המנהג של לימוד תורה כל הלילה בשבועות, מקורותיו הקבליים ונושאי לימוד מומלצים לליל."
+  },
+  "keywords": [
+    "Shavuot",
+    "Tikkun Leil Shavuot", 
+    "Torah study",
+    "all-night learning",
+    "Kabbalah",
+    "Jewish festivals",
+    "Safed mystics",
+    "Joseph Karo",
+    "Shlomo Alkabetz",
+    "Jewish tradition"
+  ],
+  "section": "holidays",
+  "article_number": 147,
+  "author": "Torah Light Editorial Team",
+  "created_date": "2026-03-18",
+  "header_image": {
+    "description": "A warm, golden study hall at midnight with open Torah scrolls, volumes of Talmud, and candles flickering as scholars bend over ancient texts. Through tall windows, the first light of dawn begins to break over Jerusalem's skyline, symbolizing the spiritual illumination gained through night-long Torah study on Shavuot.",
+    "alt_text": "Midnight Torah study session on Shavuot night",
+    "suggested_style": "Warm golden lighting, traditional Jewish study hall, dawn breaking over Jerusalem"
+  },
+  "topics": [
+    "Jewish festivals",
+    "Torah study",
+    "Kabbalistic customs",
+    "Night-long learning",
+    "Shavuot traditions",
+    "Mystical Judaism",
+    "Religious practices"
+  ],
+  "difficulty_level": "intermediate",
+  "estimated_reading_time": {
+    "en": "8-10 minutes",
+    "zh": "6-8 minutes", 
+    "he": "7-9 minutes"
+  },
+  "related_articles": [
+    "Shavuot: Festival of First Fruits",
+    "The Giving of the Torah at Sinai",
+    "Kabbalistic Customs and Traditions",
+    "Torah Study in Jewish Life"
+  ],
+  "cultural_references": {
+    "chinese_dynasties": [
+      "Ming Dynasty (1368-1644) - Scholar study practices",
+      "Song Dynasty (960-1279) - Neo-Confucian learning traditions",
+      "Qing Dynasty (1644-1912) - Academic traditions and collective discussion"
+    ]
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "id": 200,
+  "title": "Shabbat Hosting 101: How to Invite Guests and Run a Beautiful Meal",
+  "title_zh": "安息日待客指南:如何邀请客人并举办美好的聚餐",
+  "title_he": "אירוח בשבת 101: כיצד להזמין אורחים ולנהל סעודה יפה",
+  "section": "shabbat",
+  "slug": "shabbat-hosting-guide",
+  "batch": "200",
+  "milestone": true,
+  "milestone_note": "Final article (#200) in the Torah Light series",
+  "target_audience": "native Mandarin speakers with no prior Jewish knowledge",
+  "tone": "warm, educational, practical",
+  "word_count": {
+    "en": 4850,
+    "zh": 2150,
+    "he": 3100
+  },
+  "key_themes": [
+    "The mitzvah of hachnasat orchim (welcoming guests)",
+    "Practical preparation for hosting Shabbat meals",
+    "The spiritual significance of the Shabbat table",
+    "How to conduct a Shabbat meal step-by-step",
+    "Creating meaningful conversation and Torah discussion",
+    "Handling different guest situations with grace",
+    "Parallel Chinese hospitality traditions",
+    "The table as a miniature Temple"
+  ],
+  "chinese_cultural_parallels": [
+    "待客 (dài kè) - treating guests with honor",
+    "有朋自远方来,不亦乐乎 - joy of welcoming friends from afar",
+    "团圆饭 - reunion dinners that strengthen family bonds",
+    "礼尚往来 - reciprocity in hospitality",
+    "八道菜 tradition - abundant meals showing generosity",
+    "Host humility (不好意思,菜做得不好) parallel to Jewish modest hosting"
+  ],
+  "traditional_sources": [
+    "Babylonian Talmud, Tractate Shavuot 35b",
+    "Babylonian Talmud, Tractate Berachot 10b",
+    "Pirkei Avot 3:3",
+    "Pirkei Avot 2:1",
+    "Babylonian Talmud, Tractate Gittin 55b-56a",
+    "Genesis 18:1-8"
+  ],
+  "educational_resources": [
+    "Aish.com - The Art of Shabbat Hospitality",
+    "Chabad.org - Practical Guide to Hosting Shabbat Meals",
+    "Sefaria.org - Primary texts on hospitality"
+  ],
+  "practical_guides": [
+    "The Shabbos Table by Rabbi Paysach Krohn",
+    "The Shabbos Kitchen by Rabbi Simcha Bunim Cohen"
+  ],
+  "special_features": [
+    "Detailed step-by-step hosting guide",
+    "Three invitation strategies explained",
+    "Food preparation timeline and tips",
+    "Complete meal flow from candle lighting to Birkat HaMazon",
+    "Conversation topics to embrace and avoid",
+    "Handling difficult guest situations",
+    "Chinese-Jewish hospitality connections",
+    "Series finale reflection - article #200"
+  ],
+  "learning_outcomes": [
+    "Understand the spiritual importance of Shabbat hospitality",
+    "Know how and when to invite guests appropriately",
+    "Prepare home and meals for Shabbat hosting",
+    "Conduct a Shabbat meal with proper rituals and flow",
+    "Create meaningful Torah discussions at the table",
+    "Handle various guest situations gracefully",
+    "Appreciate parallels between Chinese and Jewish hospitality traditions",
+    "See the Shabbat table as a miniature Temple"
+  ],
+  "difficulty_level": "Beginner to Intermediate",
+  "estimated_reading_time": {
+    "en": "20-25 minutes",
+    "zh": "10-12 minutes",
+    "he": "15-18 minutes"
+  },
+  "publication_date": "2026-03-18",
+  "author": "Torah Light Editorial Team",
+  "editor": "OpenClaw AI Agent",
+  "quality_assurance": {
+    "sources_verified": true,
+    "chinese_translation_reviewed": true,
+    "hebrew_translation_reviewed": true,
+    "cultural_sensitivity_checked": true,
+    "practical_accuracy_confirmed": true
+  },
+  "series_info": {
+    "series_name": "Torah Light (Torah之光)",
+    "total_articles": 200,
+    "article_number": 200,
+    "position": "Final article in series",
+    "previous_article": 199,
+    "next_article": null
+  },
+  "seo_keywords": [
+    "Shabbat hosting",
+    "Jewish hospitality",
+    "hachnasat orchim",
+    "Shabbat meal guide",
+    "how to host Shabbat",
+    "inviting guests Shabbat",
+    "Shabbat dinner traditions",
+    "Orthodox Jewish hosting",
+    "Chinese Jewish parallels",
+    "Jewish table customs"
+  ],
+  "social_media_summary": "The final article in our 200-part series! Learn the beautiful art of Shabbat hospitality - from inviting guests to running a meaningful meal. Includes practical tips and fascinating Chinese-Jewish cultural parallels. 🕯️✨",
+  "notable_quotes": [
+    "Hospitality is greater than receiving the Divine Presence",
+    "Your table becomes an altar when you share it with others",
+    "One who hosts guests is as if they brought the morning and evening offerings",
+    "The warmth of Shabbat multiplies exponentially when there are guests at your table",
+    "Your table might be someone's gateway to an entire world"
+  ],
+  "completion_status": "complete",
+  "files_created": [
+    "article-en.md",
+    "article-zh.md",
+    "article-he.md",
+    "metadata.json"
+  ],
+  "keywords": [
+    "shabbat",
+    "hospitality",
+    "hachnasat-orchim",
+    "practical-guide",
+    "hosting",
+    "guests",
+    "shabbat-meal",
+    "kiddush",
+    "jewish-values",
+    "community",
+    "chinese-parallels",
+    "cultural-bridge"
+  ]
+}

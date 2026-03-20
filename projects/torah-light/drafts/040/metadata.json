@@ -1,0 +1,49 @@
+{
+  "id": 40,
+  "title": "Buying Judaica Online: A Trusted Guide for Jews in Asia",
+  "title_zh": "在线购买犹太教用品：亚洲犹太人信赖指南",
+  "title_he": "קניית יהדות באינטרנט: מדריך מהימן ליהודי אסיה",
+  "section": "Mitzvah Objects",
+  "description": "Where to purchase authentic mezuzot, tefillin, tallitot, and other ritual items when you live far from a Jewish community.",
+  "folder": "mitzvah-objects",
+  "status": "complete",
+  "word_count_en": 2850,
+  "word_count_zh": 1200,
+  "word_count_he": 2100,
+  "languages": ["en", "zh", "he"],
+  "created_date": "2026-03-17",
+  "author": "Torah Light Article Generator",
+  "target_audience": "Jews living in Asia, converts to Judaism, beginners in Jewish practice",
+  "key_topics": [
+    "online shopping",
+    "judaica stores", 
+    "mezuzah",
+    "tefillin",
+    "tallit",
+    "kosher certification",
+    "chabad centers asia",
+    "international shipping",
+    "religious items authenticity"
+  ],
+  "chinese_parallels": [
+    "online shopping culture",
+    "authenticity verification", 
+    "traditional craft appreciation",
+    "religious/spiritual objects",
+    "community recommendations"
+  ],
+  "historical_context": "Contemporary period (2020s) - modern e-commerce era",
+  "verified_urls": [
+    "https://mezuzahstore.com/",
+    "https://www.ajudaica.com/",
+    "https://www.judaicawebstore.com/",
+    "https://www.chabad.org/jewish-centers/country/China",
+    "https://www.chabadbeijing.com/",
+    "https://judaism.stackexchange.com/questions/17081/where-can-i-buy-kosher-tefillin-scrolls"
+  ],
+  "tags": [
+    "MitzvahObjects", "Judaica", "OnlineShopping", "JewsInAsia", "Mezuzah", "Tefillin", 
+    "Tallit", "ChabadChina", "KosherProducts", "JewishHome", "犹太用品", "在线购物", 
+    "亚洲犹太人", "宗教用品", "正宗犹太", "ChineseJews", "AsianJewry"
+  ]
+}

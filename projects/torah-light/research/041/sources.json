@@ -1,0 +1,65 @@
+{
+  "article_id": "041",
+  "title": "Rosh Hashana for Beginners: The Jewish New Year Explained",
+  "section": "holidays",
+  "sources": {
+    "torah_sources": [
+      {
+        "reference": "Leviticus 23:24-25",
+        "url": "https://www.sefaria.org/Leviticus.23.24-25",
+        "hebrew_name": "ויקרא",
+        "description": "Torah's primary command for Rosh Hashana observance",
+        "status": "verified"
+      },
+      {
+        "reference": "Numbers 29:1-6",
+        "url": "https://www.sefaria.org/Numbers.29.1-6", 
+        "hebrew_name": "במדבר",
+        "description": "Detailed laws of Rosh Hashana sacrifices and Yom Teruah",
+        "status": "verified"
+      },
+      {
+        "reference": "Psalms 81:4-5",
+        "url": "https://www.sefaria.org/Psalms.81.4-5",
+        "hebrew_name": "תהילים", 
+        "description": "Poetic reference to shofar blowing on new moon",
+        "status": "verified"
+      }
+    ],
+    "web_sources": [
+      {
+        "title": "Rosh Hashanah - Jewish New Year", 
+        "url": "https://aish.com/rosh-hashanah/",
+        "site": "Aish.com",
+        "description": "Comprehensive beginner's guide to Rosh Hashana customs",
+        "status": "verified"
+      },
+      {
+        "title": "Rosh HaShanah Customs, Symbols, and Traditions",
+        "url": "https://reformjudaism.org/jewish-holidays/rosh-hashanah/rosh-hashanah-customs-symbols-and-traditions",
+        "site": "Reform Judaism",
+        "description": "Detailed explanation of holiday symbols and practices",
+        "status": "needs_verification"
+      },
+      {
+        "title": "How Is Rosh Hashanah Celebrated?",
+        "url": "https://www.chabad.org/library/article_cdo/aid/4830/jewish/How-Is-Rosh-Hashanah-Celebrated.htm",
+        "site": "Chabad.org", 
+        "description": "Orthodox perspective on Rosh Hashana celebrations",
+        "status": "blocked_cloudflare"
+      },
+      {
+        "title": "Rosh Hashanah Customs",
+        "url": "https://www.myjewishlearning.com/article/rosh-hashanah-customs/",
+        "site": "My Jewish Learning",
+        "description": "Comprehensive guide to holiday customs and traditions",
+        "status": "needs_verification"
+      }
+    ],
+    "research_completed": "2026-03-17T07:24:00Z",
+    "urls_to_verify": [
+      "https://reformjudaism.org/jewish-holidays/rosh-hashanah/rosh-hashanah-customs-symbols-and-traditions",
+      "https://www.myjewishlearning.com/article/rosh-hashanah-customs/"
+    ]
+  }
+}

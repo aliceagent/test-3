@@ -1,0 +1,63 @@
+{
+  "id": 327,
+  "title": "The Megillah Reading: What to Listen For on Purim",
+  "title_zh": "普珥节的书卷朗读：聆听要点",
+  "title_he": "קריאת המגילה: למה להאזין בפורים",
+  "section": "holidays",
+  "slug": "megillah-reading-purim",
+  "description": "How to follow along during the Megillah reading, when to make noise at Haman's name, and the four special sections to focus on.",
+  "description_zh": "如何在书卷朗读期间跟随，何时在哈曼的名字时制造噪音，以及四个要关注的特殊段落。",
+  "description_he": "כיצד לעקוב במהלך קריאת המגילה, מתי לעשות רעש לשם המן, וארבעת הקטעים המיוחדים להתמקד בהם.",
+  "word_count": {
+    "en": 6234,
+    "zh": 5892,
+    "he": 4876
+  },
+  "language_versions": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "tags": [
+    "Purim",
+    "Megillah",
+    "EstherScroll",
+    "Holidays",
+    "HiddenMiracles",
+    "DivineSalvation",
+    "Haman",
+    "QueenEsther",
+    "Mordechai",
+    "JewishReading",
+    "春秋时代",
+    "隐藏的神",
+    "普珥节",
+    "以斯帖",
+    "犹太节日",
+    "פורים",
+    "מגילה",
+    "מגילת_אסתר",
+    "חגים",
+    "נסים_נסתרים"
+  ],
+  "chinese_historical_context": "Spring and Autumn Period (春秋, ~770-476 BCE) - Contemporary with the Achaemenid Empire in Persia during the 5th century BCE when the events of the Megillah occurred",
+  "key_concepts": [
+    "Mitzvah of hearing every word",
+    "Making noise to blot out Haman's name",
+    "Four key passages in the Megillah",
+    "Hidden presence of God in the story",
+    "Participatory communal reading",
+    "Purim celebration customs"
+  ],
+  "bibliography_count": 10,
+  "status": "complete",
+  "created_date": "2026-03-19",
+  "author": "Torah Light Project",
+  "target_audience": "Chinese native Mandarin speakers with no prior Jewish knowledge",
+  "reading_level": "intermediate",
+  "estimated_reading_time_minutes": {
+    "en": 25,
+    "zh": 22,
+    "he": 19
+  }
+}

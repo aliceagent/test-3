@@ -1,0 +1,53 @@
+{
+  "id": 276,
+  "title": "How to Make a Shiva Call: What to Say and What Not to Say",
+  "title_zh": "如何进行犹太守丧期探访：该说什么、不该说什么",
+  "title_he": "איך לבצע ביקור ניחום אבלים: מה לומר ומה לא לומר",
+  "section": "life-cycle",
+  "slug": "shiva-call-guide",
+  "word_count": {
+    "en": 3450,
+    "zh": 2890,
+    "he": 2680
+  },
+  "tags": [
+    "LifeCycle",
+    "Mourning",
+    "Shiva",
+    "NichumAvelim",
+    "Grief",
+    "Comfort",
+    "ChesedActs",
+    "JewishRituals",
+    "DeathAndMourning",
+    "Compassion",
+    "仁",
+    "ConfucianValues",
+    "Consolation",
+    "Community",
+    "BeingPresent"
+  ],
+  "related_concepts": [
+    "shiva",
+    "nichum avelim",
+    "mourning customs",
+    "Jewish funeral practices",
+    "chesed",
+    "kaddish",
+    "yahrzeit"
+  ],
+  "chinese_parallels": [
+    "Confucian concept of ren (仁) - humaneness and caring for others in need",
+    "Traditional Chinese mourning periods and funeral customs",
+    "The value of quiet presence and silent support"
+  ],
+  "historical_context": "The practice of sitting shiva and receiving condolence visits dates back to biblical times (Job 2:13), corresponding to China's Spring and Autumn Period (春秋时代, 770-476 BCE).",
+  "bibliography_count": 7,
+  "status": "complete",
+  "created": "2026-03-19T03:28:00Z",
+  "language_versions": {
+    "en": "article-en.md",
+    "zh": "article-zh.md",
+    "he": "article-he.md"
+  }
+}

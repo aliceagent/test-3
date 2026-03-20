@@ -1,0 +1,123 @@
+{
+  "id": 4,
+  "title": {
+    "en": "The Story of Joseph: Leadership, Forgiveness, and Family",
+    "zh": "约瑟的故事:领导力、宽恕与家庭",
+    "he": "סיפור יוסף: מנהיגות, סליחה ומשפחה"
+  },
+  "slug": "story-of-joseph",
+  "section": "torah-study",
+  "batch": "100",
+  "author": "Torah Light Editorial Team",
+  "dateCreated": "2026-03-18",
+  "language": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "primarySources": [
+    "Genesis 37-50",
+    "Rashi on Genesis 37-50",
+    "Ramban (Nachmanides) on Genesis 37-50",
+    "Talmud Bavli, Sotah 36b"
+  ],
+  "hebrewReferences": [
+    "בראשית לז-נ",
+    "רש״י על בראשית לז-נ",
+    "רמב״ן על בראשית לז-נ",
+    "תלמוד בבלי, סוטה לו ע״ב"
+  ],
+  "culturalParallels": [
+    "Confucian filial piety (孝, xiào)",
+    "Meritocracy in governance (贤能政治, xiánnéng zhèngzhì)",
+    "Daoist wu wei (无为) and natural order",
+    "Chinese concepts of destiny and providence",
+    "Moral integrity (正直, zhèngzhí)",
+    "Family harmony restoration"
+  ],
+  "wordCount": {
+    "en": 2800,
+    "zh": 2400,
+    "he": 3500
+  },
+  "readingTime": {
+    "en": "12-15 minutes",
+    "zh": "10-12 minutes",
+    "he": "15-18 minutes"
+  },
+  "targetAudience": "General Jewish learners; Chinese readers exploring Torah narratives; students of leadership and forgiveness",
+  "difficulty": "Beginner to Intermediate",
+  "relatedArticles": [
+    1,
+    2,
+    3,
+    5,
+    92
+  ],
+  "bibliography": [
+    {
+      "type": "primary",
+      "title": "Genesis 37-50 (Joseph narrative)",
+      "url": "https://www.sefaria.org/Genesis.37",
+      "verified": false
+    },
+    {
+      "type": "commentary",
+      "title": "Rashi on Genesis 37-50",
+      "url": "https://www.sefaria.org/Rashi_on_Genesis.37",
+      "verified": false
+    },
+    {
+      "type": "commentary",
+      "title": "Ramban on Genesis 37-50",
+      "url": "https://www.sefaria.org/Ramban_on_Genesis.37",
+      "verified": false
+    },
+    {
+      "type": "primary",
+      "title": "Talmud Bavli, Sotah 36b",
+      "url": "https://www.sefaria.org/Sotah.36b",
+      "verified": false
+    },
+    {
+      "type": "secondary",
+      "title": "Confucius, Analects",
+      "source": "Classical Chinese Philosophy"
+    },
+    {
+      "type": "secondary",
+      "title": "Mencius on Good Government",
+      "source": "Classical Chinese Philosophy"
+    },
+    {
+      "type": "article",
+      "title": "Rabbi Jonathan Sacks, Covenant & Conversation: Genesis",
+      "source": "Modern Jewish Commentary"
+    }
+  ],
+  "keywords": [
+    "Joseph",
+    "Yosef",
+    "Genesis",
+    "forgiveness",
+    "leadership",
+    "family reconciliation",
+    "Divine Providence",
+    "Egypt",
+    "dreams",
+    "Potiphar",
+    "Pharaoh",
+    "brothers",
+    "coat of many colors",
+    "pit to palace",
+    "Chinese parallels",
+    "Confucianism",
+    "filial piety",
+    "meritocracy"
+  ],
+  "summary": {
+    "en": "The dramatic story of Joseph from Genesis 37-50, exploring his journey from favored son to slave to prisoner to vizier of Egypt. Examines themes of sibling rivalry, Divine Providence, moral integrity, forgiveness, and family reconciliation, with deep parallels to Chinese concepts of filial piety, virtuous governance, and destiny.",
+    "zh": "创世记37-50章中约瑟的戏剧性故事,探索他从受宠儿子到奴隶到囚犯到埃及宰相的旅程。审视兄弟竞争、神圣天意、道德正直、宽恕和家庭和解的主题,与中国孝道、贤能政治和命运概念有深刻的相似之处。",
+    "he": "הסיפור הדרמטי של יוסף מבראשית לז-נ, החוקר את מסעו מבן אהוב לעבד לאסיר למשנה למלך במצרים. בוחן נושאים של יריבות בין אחים, השגחה אלוהית, יושרה מוסרית, סליחה ופיוס משפחתי, עם הקבלות עמוקות למושגים סיניים של אדיקות משפחתית, ממשל סגולי וגורל."
+  }
+}

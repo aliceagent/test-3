@@ -1,0 +1,72 @@
+{
+  "id": 201,
+  "title": {
+    "en": "Shabbat Electricity: What's Really Forbidden and Why",
+    "zh": "安息日与电力:究竟禁止什么,为什么",
+    "he": "שבת וחשמל: מה באמת אסור ולמה"
+  },
+  "section": "shabbat",
+  "slug": "shabbat-electricity-forbidden",
+  "summary": {
+    "en": "Why Orthodox Jews don't use electricity on Shabbat—exploring the halachic reasoning, practical applications, and surprising psychological benefits of weekly digital disconnection",
+    "zh": "为什么正统犹太人在安息日不使用电力——探讨律法推理、实际应用以及每周数字断连带来的惊人心理益处",
+    "he": "למה יהודים אורתודוכסים לא משתמשים בחשמל בשבת—חקירת ההנמקה ההלכתית, היישומים המעשיים והיתרונות הפסיכולוגיים המפתיעים של ניתוק דיגיטלי שבועי"
+  },
+  "keywords": [
+    "Shabbat",
+    "electricity",
+    "melacha",
+    "digital sabbath",
+    "halacha",
+    "Orthodox Judaism",
+    "technology",
+    "rest",
+    "wu wei",
+    "安息日",
+    "חשמל",
+    "מלאכה",
+    "digital detox"
+  ],
+  "cultural_parallels": [
+    {
+      "concept": "wu wei (无为)",
+      "description": "Daoist principle of non-action parallels Shabbat's cessation from creative work"
+    },
+    {
+      "concept": "shi zhong (时中)",
+      "description": "Confucian concept of doing the right thing at the right time—including knowing when to rest"
+    },
+    {
+      "concept": "agricultural calendar",
+      "description": "Ancient Chinese farmers knew land needs rest cycles, just as humans need Shabbat"
+    }
+  ],
+  "target_audience": "Mandarin speakers with no prior Jewish knowledge, intellectually curious about traditional observance and digital wellness",
+  "reading_time_minutes": {
+    "en": 12,
+    "zh": 8,
+    "he": 10
+  },
+  "difficulty_level": "beginner",
+  "related_topics": [
+    "39 melachot",
+    "Shabbat preparation",
+    "digital detox",
+    "pikuach nefesh",
+    "muktzeh",
+    "eruv"
+  ],
+  "sources_consulted": [
+    "Exodus 20:8-11 (Fourth Commandment)",
+    "Shulchan Aruch Orach Chayim 328 (electricity and fire)",
+    "Igrot Moshe on electricity (Rabbi Moshe Feinstein)",
+    "Contemporary research on digital wellness and mental health"
+  ],
+  "created": "2026-03-19",
+  "language_versions": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "batch": "300"
+}

@@ -1,0 +1,74 @@
+{
+  "article_id": 60,
+  "title": {
+    "en": "Finding a Rabbi and Community When You Live in Asia",
+    "zh": "在亚洲寻找拉比和犹太社区",
+    "he": "מציאת רב וקהילה במגורים באסיה"
+  },
+  "section": "Conversion",
+  "folder": "conversion",
+  "status": "draft_complete",
+  "word_count": {
+    "en": 2890,
+    "zh": 2156,
+    "he": 2374
+  },
+  "languages": ["en", "zh", "he"],
+  "created": "2026-03-17",
+  "author": "Torah Light Project - Article Writer Agent",
+  "primary_sources": [
+    "Ruth 1:16-17",
+    "Pirkei Avot 1:6"
+  ],
+  "key_topics": [
+    "Finding a rabbi",
+    "Chabad houses in Asia",
+    "Online learning platforms",
+    "Teacher-student relationship",
+    "Ruth the convert",
+    "Jewish community building",
+    "Distance learning"
+  ],
+  "cultural_parallels": [
+    "Chinese teacher-student bond (师徒关系)",
+    "Confucian teaching about seeking teachers",
+    "Chinese saying: One day as teacher, lifetime as father (一日为师，终身为父)"
+  ],
+  "chinese_historical_context": [
+    "Shang Dynasty (商朝, ~1800-1500 BCE) — Time of Abraham"
+  ],
+  "asian_locations_mentioned": [
+    "Beijing",
+    "Shanghai",
+    "Hong Kong",
+    "Guangzhou",
+    "Shenzhen",
+    "Chengdu",
+    "Bangkok",
+    "Singapore",
+    "Tokyo",
+    "Seoul",
+    "Taipei",
+    "Mumbai"
+  ],
+  "bibliography_count": 10,
+  "urls_verified": true,
+  "header_image_prompt": "A Chinese brushstroke landscape (山水) showing a solitary scholar on a mountain path winding toward a distant temple in the mist. The scholar carries a scroll and looks up toward the temple, which glows with soft golden light. Rendered in traditional ink wash style with muted grays, blacks, and subtle gold accents. The composition emphasizes the journey upward—depicting the seeker's path toward wisdom and community. Mountains fade into misty layers suggesting both physical distance and spiritual journey. Style: serene, contemplative, hopeful. The temple represents the Jewish community, the scholar represents the learner seeking connection.",
+  "tags": [
+    "Rabbi",
+    "Community",
+    "Conversion",
+    "Chabad",
+    "Asia",
+    "China",
+    "OnlineLearning",
+    "Ruth",
+    "Mentorship",
+    "师徒关系",
+    "犹太社区",
+    "拉比",
+    "亚洲犹太人",
+    "JewishAsia"
+  ],
+  "qa_notes": "Ready for QA review. All mandatory requirements fulfilled: Chinese historical context included, bibliography URLs verified (Cloudflare-protected URLs confirmed accessible via browser), three-language versions complete, tags section included, header image description present."
+}

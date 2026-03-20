@@ -1,0 +1,144 @@
+{
+  "id": 326,
+  "title": {
+    "en": "Latkes vs. Sufganiyot: The Great Chanukah Food Debate",
+    "zh": "土豆饼与果冻甜甜圈：光明节食物的伟大辩论",
+    "he": "לטקס נגד סופגניות: הוויכוח הגדול על אוכל חנוכה"
+  },
+  "slug": "latkes-sufganiyot-chanukah-foods",
+  "section": "holidays",
+  "batch": "300",
+  "author": "Torah Light Editorial Team",
+  "dateCreated": "2026-03-19",
+  "language": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "primarySources": [
+    "Babylonian Talmud, Shabbat 21b",
+    "Shulchan Aruch, Orach Chaim 670-683"
+  ],
+  "hebrewReferences": [
+    "תלמוד בבלי, מסכת שבת כ״א ע״ב",
+    "שולחן ערוך, אורח חיים סימן תר״ע-תרפ״ג"
+  ],
+  "culturalParallels": [
+    "Chinese peasant food tradition paralleling Jewish histapkut (being satisfied with little)",
+    "Scallion pancakes (葱油饼) as Chinese adaptation of Chanukah fried food custom",
+    "Kaifeng Jewish community (开封) blending Jewish law with Chinese culture",
+    "Jiaozi (饺子) and youtiao (油条) as simple foods elevated to treasured traditions",
+    "Western Han Dynasty (西汉, 206 BCE-9 CE) time period parallel to Chanukah miracle"
+  ],
+  "wordCount": {
+    "en": 4820,
+    "zh": 3640,
+    "he": 4680
+  },
+  "readingTime": {
+    "en": "20-25 minutes",
+    "zh": "15-18 minutes",
+    "he": "19-24 minutes"
+  },
+  "targetAudience": "Chinese native Mandarin speakers with no prior knowledge of Judaism; Jewish families in Asia; anyone interested in cross-cultural Jewish traditions and Chanukah foods",
+  "difficulty": "Beginner to Intermediate",
+  "relatedArticles": [],
+  "bibliography": [
+    {
+      "type": "primary",
+      "title": "The Laws of Chanukah",
+      "publisher": "Chabad.org",
+      "url": "https://www.chabad.org/holidays/chanukah/article_cdo/aid/102911/jewish/The-Laws-of-Chanukah.htm",
+      "verified": false,
+      "description": "Comprehensive halachic guide to Chanukah observance, including the custom of eating fried foods"
+    },
+    {
+      "type": "primary",
+      "title": "Babylonian Talmud, Shabbat 21b",
+      "publisher": "Sefaria.org",
+      "url": "https://www.sefaria.org/Shabbat.21b",
+      "verified": false,
+      "description": "The Talmudic source for the miracle of the oil that burned for eight days"
+    },
+    {
+      "type": "secondary",
+      "title": "Why Do We Eat Latkes on Hanukkah?",
+      "publisher": "Aish.com",
+      "url": "https://www.aish.com/h/c/l/Why-Do-We-Eat-Latkes-on-Hanukkah.html",
+      "verified": false,
+      "description": "Explanation of the connection between fried foods and the miracle of the oil"
+    },
+    {
+      "type": "secondary",
+      "title": "The History of Chanukah Foods",
+      "publisher": "My Jewish Learning",
+      "url": "https://www.myjewishlearning.com/article/the-history-of-hanukkah-foods/",
+      "verified": false,
+      "description": "Historical overview of how latkes and sufganiyot became Chanukah traditions"
+    },
+    {
+      "type": "article",
+      "title": "As Hanukkah Nears, Israel's Sufganiyot Get Ever More Creative",
+      "publisher": "The Times of Israel",
+      "url": "https://www.timesofisrael.com/as-hanukkah-nears-israels-sufganiyot-get-ever-more-creative/",
+      "verified": false,
+      "description": "Article on the evolution and creative variations of sufganiyot in modern Israel"
+    },
+    {
+      "type": "recipe",
+      "title": "Chinese Scallion Pancakes Recipe",
+      "publisher": "The Woks of Life",
+      "url": "https://thewoksoflife.com/chinese-scallion-pancakes/",
+      "verified": false,
+      "description": "Authentic recipe and technique for making traditional cong you bing"
+    },
+    {
+      "type": "article",
+      "title": "The Jews of Kaifeng",
+      "publisher": "Tablet Magazine",
+      "url": "https://www.tabletmag.com/sections/news/articles/the-jews-of-kaifeng",
+      "verified": false,
+      "description": "Historical overview of the ancient Jewish community in China and their unique customs"
+    }
+  ],
+  "keywords": [
+    "Chanukah",
+    "Hanukkah",
+    "Latkes",
+    "Sufganiyot",
+    "Levivot",
+    "Fried Foods",
+    "Oil Miracle",
+    "Maccabees",
+    "Hasmoneans",
+    "Jewish Food",
+    "Chinese-Jewish Cuisine",
+    "Scallion Pancakes",
+    "葱油饼",
+    "Cong You Bing",
+    "Chanukah Recipes",
+    "Holidays",
+    "光明节",
+    "Pirsumei Nisa",
+    "Asian Jews",
+    "Kaifeng Jews",
+    "开封",
+    "Western Han Dynasty",
+    "西汉",
+    "Jewish Traditions",
+    "Temple Menorah",
+    "Ashkenazi Traditions",
+    "Israeli Cuisine",
+    "Histapkut",
+    "Potato Pancakes",
+    "Jelly Doughnuts",
+    "Cross-Cultural Judaism",
+    "Jewish Diaspora",
+    "Kosher Cooking"
+  ],
+  "summary": {
+    "en": "An exploration of the three iconic Chanukah fried foods: latkes (potato pancakes), sufganiyot (jelly doughnuts), and scallion pancakes. The article explains the halachic reason for eating fried foods on Chanukah (pirsumei nisa - publicizing the miracle of the oil), provides authentic recipes for all three, and shows how Chinese culinary traditions like cong you bing can beautifully integrate into Jewish Chanukah observance. Includes cultural parallels between Jewish and Chinese food traditions, practical cooking tips, and the historical context of the Chanukah miracle during China's Western Han Dynasty.",
+    "zh": "探讨三种标志性的光明节油炸食品:拉特克斯（土豆煎饼）、苏芙甘尼约特（果冻甜甜圈）和葱油饼。文章解释了在光明节吃油炸食品的律法原因（宣传油的奇迹），提供了所有三种食品的正宗食谱，并展示了像葱油饼这样的中国烹饪传统如何完美融入犹太光明节庆祝活动。包括犹太和中国饮食传统之间的文化平行、实用烹饪技巧，以及光明节奇迹在中国西汉时期的历史背景。",
+    "he": "חקירת שלושת מאכלי החנוכה המטוגנים האיקוניים: לטקס (לביבות תפוחי אדמה), סופגניות ולביבות בצל ירוק. המאמר מסביר את הסיבה ההלכתית לאכילת מאכלים מטוגנים בחנוכה (פרסומי ניסא - פרסום נס השמן), מספק מתכונים אותנטיים לכל שלושה, ומראה כיצד מסורות קולינריות סיניות כמו cong you bing יכולות להשתלב בצורה יפה בקיום חנוכה יהודי. כולל מקבילות תרבותיות בין מסורות מזון יהודיות וסיניות, טיפים מעשיים לבישול, וההקשר ההיסטורי של נס חנוכה במהלך שושלת האן המערבית של סין."
+  }
+}

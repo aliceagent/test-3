@@ -1,0 +1,28 @@
+{
+  "generated": "2026-03-17T21:04:00Z",
+  "total_issues": 25,
+  "fix_queue": [
+    {"id": "042", "path": "holidays/042-yom-kippur", "issues": ["Missing Hebrew"]},
+    {"id": "065", "path": "chabad/065-chabad-houses-china", "issues": ["Missing Chinese", "Missing Hebrew"]},
+    {"id": "071", "path": "jewish-texts/071-kuzari-kings-search-truth", "issues": ["Missing Hebrew"]},
+    {"id": "086", "path": "israel/086-jerusalem-through-ages", "issues": ["Missing Hebrew"]},
+    {"id": "091", "path": "life-cycle/091-planning-jewish-wedding", "issues": ["Missing Chinese", "Missing Hebrew"]},
+    {"id": "094", "path": "life-cycle/094-jewish-home", "issues": ["Missing Hebrew"]},
+    {"id": "098", "path": "hebrew-learning/098-aleph-bet", "issues": ["Missing Chinese", "Missing Hebrew"]},
+    {"id": "001", "path": "weekly-parsha/001-what-is-dvar-torah", "issues": ["No dynasty refs"]},
+    {"id": "031", "path": "blessings/031-food-blessing-guide", "issues": ["No dynasty refs"]},
+    {"id": "040", "path": "mitzvah-objects/040-buying-judaica-online", "issues": ["No dynasty refs"]},
+    {"id": "055", "path": "holidays/055-tu-bishvat-seder", "issues": ["No dynasty refs"]},
+    {"id": "069", "path": "philosophy/069-free-will-divine-providence", "issues": ["No dynasty refs"]},
+    {"id": "084", "path": "jews-in-asia/084-shanghai-jewish-refugees", "issues": ["No dynasty refs"]},
+    {"id": "087", "path": "israel/087-what-is-zionism", "issues": ["No dynasty refs"]},
+    {"id": "089", "path": "jewish-history/089-holocaust-essential-overview", "issues": ["No dynasty refs"]}
+  ],
+  "legacy_cleanup": [
+    "content/torah-light-articles/",
+    "torah-light-articles/",
+    "projects/torah-light/torah-light-articles/",
+    "projects/torah-light/philosophy/",
+    "projects/torah-light/jewish-texts/"
+  ]
+}

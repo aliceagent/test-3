@@ -1,0 +1,79 @@
+{
+  "id": 273,
+  "title": "The Aufruf: Celebrating the Groom Before the Wedding",
+  "title_zh": "奥夫鲁夫（Aufruf）：婚礼前对新郎的庆祝",
+  "title_he": "אויפרוף: חגיגת החתן לפני החתונה",
+  "section": "life-cycle",
+  "slug": "aufruf-groom",
+  "status": "completed",
+  "word_count": {
+    "en": 4287,
+    "zh": 1502,
+    "he": 2301
+  },
+  "tags": [
+    "Aufruf",
+    "Jewish Wedding",
+    "Life Cycle",
+    "Torah",
+    "Aliyah",
+    "Shabbat",
+    "Community",
+    "Marriage",
+    "Blessing",
+    "Tradition",
+    "Ashkenazi",
+    "Sephardic",
+    "婚礼",
+    "犹太传统",
+    "托拉",
+    "安息日",
+    "社区",
+    "祝福",
+    "אויפרוף",
+    "חתונה_יהודית",
+    "מעגל_החיים",
+    "תורה",
+    "עלייה",
+    "שבת",
+    "קהילה"
+  ],
+  "author": "Torah Light Editorial Team",
+  "date_created": "2026-03-19",
+  "language_versions": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "target_audience": "Mandarin speakers with no prior Jewish knowledge",
+  "reading_level": "intermediate",
+  "estimated_reading_time_minutes": {
+    "en": 17,
+    "zh": 8,
+    "he": 11
+  },
+  "cultural_parallels": [
+    "Traditional Chinese wedding banquets with community participation",
+    "Historical period references to Chinese dynasties (Talmudic period = Northern and Southern Dynasties 南北朝, Medieval period = Song-Ming Dynasties 宋-明朝)"
+  ],
+  "key_concepts": [
+    "Aufruf ceremony",
+    "Aliyah to Torah",
+    "Candy throwing tradition",
+    "Pre-wedding customs",
+    "Community blessing",
+    "Generational connection",
+    "Transition ritual"
+  ],
+  "related_articles": [
+    272,
+    274,
+    91,
+    16
+  ],
+  "bibliography_sources": 5,
+  "images": {
+    "header_prompt_included": true,
+    "style": "Chinese brushstroke landscape (shan shui)"
+  }
+}

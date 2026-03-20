@@ -1,0 +1,204 @@
+{
+  "title": {
+    "en": "Money & Business Laws in Torah",
+    "zh": "托拉中的金钱与商业律法",
+    "he": "דיני ממון ועסקים בתורה"
+  },
+  "description": {
+    "en": "Comprehensive guide to Torah's teachings on money, business ethics, interest, charity, honest dealing, and integrating spiritual values with economic activity.",
+    "zh": "关于托拉在金钱、商业伦理、利息、慈善、诚实交易以及将灵性价值与经济活动结合方面教导的综合指南。",
+    "he": "מדריך מקיף להוראות התורה על ממון, אתיקה עסקית, ריבית, צדקה, עסקאות ישרות ושילוב ערכים רוחניים עם פעילות כלכלית."
+  },
+  "category": "daily-living",
+  "subcategory": "money-laws",
+  "topics": [
+    "business-ethics",
+    "honest-weights-measures",
+    "ribbit-interest",
+    "heter-iska",
+    "tzedakah-charity",
+    "maaser-tithing",
+    "employer-employee-relations",
+    "intellectual-property",
+    "hasagat-gevul",
+    "bal-tashchit",
+    "jewish-business",
+    "chinese-business-culture"
+  ],
+  "keywords": {
+    "en": [
+      "Torah business ethics",
+      "Jewish money laws",
+      "ribbit interest prohibition",
+      "tzedakah charity",
+      "maaser tithing",
+      "honest weights measures",
+      "heter iska",
+      "Maimonides eight levels",
+      "hasagat gevul",
+      "bal tashchit",
+      "employer employee Torah",
+      "Jewish business modern world",
+      "ona'ah fraud",
+      "timely payment wages"
+    ],
+    "zh": [
+      "托拉商业伦理",
+      "犹太金钱律法",
+      "利息禁令",
+      "慈善义务",
+      "什一奉献",
+      "诚实度量衡",
+      "商业许可",
+      "迈蒙尼德八层次",
+      "不侵犯生计",
+      "不浪费资源",
+      "雇主雇员托拉",
+      "现代犹太商业",
+      "欺诈禁令",
+      "及时支付工资"
+    ],
+    "he": [
+      "אתיקה עסקית תורנית",
+      "דיני ממון יהודיים",
+      "איסור ריבית",
+      "צדקה",
+      "מעשר כסף",
+      "משקל ומידה צדק",
+      "היתר עיסקא",
+      "שמונה מדרגות הרמב\"ם",
+      "השגת גבול",
+      "בל תשחית",
+      "יחסי מעביד עובד תורה",
+      "עסק יהודי עולם מודרני",
+      "אונאה",
+      "תשלום שכר במועד"
+    ]
+  },
+  "references": [
+    {
+      "type": "torah",
+      "book": "Exodus",
+      "chapter": 22,
+      "verse": 24,
+      "text": "If you lend money to My people, to the poor among you, do not act toward them as a creditor; exact no interest from them"
+    },
+    {
+      "type": "torah",
+      "book": "Leviticus",
+      "chapter": 19,
+      "verse": 13,
+      "text": "You shall not oppress your fellow. You shall not commit robbery. The wages of a laborer shall not remain with you until morning"
+    },
+    {
+      "type": "torah",
+      "book": "Deuteronomy",
+      "chapter": 25,
+      "verses": "13-15",
+      "text": "You shall not have in your pouch alternate weights... You must have completely honest weights and completely honest measures"
+    },
+    {
+      "type": "torah",
+      "book": "Deuteronomy",
+      "chapter": 23,
+      "verse": 21,
+      "text": "You may lend on interest to a foreigner, but to your brother you shall not lend on interest"
+    },
+    {
+      "type": "talmud",
+      "tractate": "Shabbat",
+      "page": "31a",
+      "text": "The first question asked of a person in the World to Come is: Did you conduct your business dealings with integrity?"
+    },
+    {
+      "type": "talmud",
+      "tractate": "Bava Batra",
+      "page": "9a",
+      "text": "Tzedakah is equal in importance to all the other commandments combined"
+    },
+    {
+      "type": "scholar",
+      "name": "Maimonides",
+      "work": "Mishneh Torah",
+      "topic": "Eight Levels of Giving"
+    }
+  ],
+  "relatedPages": [
+    "/daily-living/shabbat",
+    "/daily-living/kashrut",
+    "/values/honesty",
+    "/values/compassion",
+    "/community/charity"
+  ],
+  "difficulty": "intermediate",
+  "readingTime": {
+    "en": "18-22 minutes",
+    "zh": "15-18 分钟",
+    "he": "20-25 דקות"
+  },
+  "lastUpdated": "2026-03-20",
+  "author": "Torah Light Content Team",
+  "reviewedBy": "Rabbinic Advisory Board",
+  "languagesAvailable": ["en", "zh", "he"],
+  "crossCulturalBridges": ["chinese-business-culture"],
+  "practicalApplications": [
+    "Running a Jewish business",
+    "Calculating and giving maaser",
+    "Using heter iska for business financing",
+    "Implementing honest business practices",
+    "Fair employer-employee relations",
+    "Environmental responsibility in business",
+    "Cross-cultural business ethics"
+  ],
+  "targetAudience": [
+    "business-owners",
+    "entrepreneurs",
+    "employees",
+    "students",
+    "anyone-handling-money"
+  ],
+  "educationalGoals": [
+    "Understand Torah's comprehensive approach to money and business",
+    "Learn practical halachic guidelines for commerce",
+    "Apply ethical principles to modern business scenarios",
+    "Appreciate the spiritual dimension of economic activity",
+    "Build bridges between Jewish and Chinese business cultures"
+  ],
+  "discussionQuestions": {
+    "en": [
+      "How can Torah business ethics provide competitive advantage in modern markets?",
+      "What are the practical challenges of implementing heter iska in today's financial world?",
+      "How do you balance the obligation to give tzedakah with personal financial security?",
+      "What does 'hasagat gevul' mean in the age of disruptive startups?",
+      "How can Jewish and Chinese business cultures learn from each other?"
+    ],
+    "zh": [
+      "托拉商业伦理如何在现代市场中提供竞争优势?",
+      "在当今金融世界实施商业许可的实际挑战是什么?",
+      "如何平衡慈善义务与个人财务安全?",
+      "在破坏性初创公司时代,"不侵犯生计"意味着什么?",
+      "犹太和中国商业文化如何相互学习?"
+    ],
+    "he": [
+      "כיצד אתיקה עסקית תורנית יכולה לספק יתרון תחרותי בשווקים מודרניים?",
+      "מהם האתגרים המעשיים של יישום היתר עיסקא בעולם הפיננסי של היום?",
+      "כיצד מאזנים בין החובה לתת צדקה לבין ביטחון כלכלי אישי?",
+      "מה משמעות 'השגת גבול' בעידן של סטארטאפים משבשים?",
+      "כיצד תרבויות עסקיות יהודיות וסיניות יכולות ללמוד זו מזו?"
+    ]
+  },
+  "furtherStudy": [
+    "Shulchan Aruch, Choshen Mishpat (Laws of Commerce)",
+    "Mishneh Torah, Hilchot Matanot Aniyim (Laws of Charity)",
+    "Sefer HaChinuch on monetary commandments",
+    "Contemporary responsa on business ethics",
+    "Rabbi Joseph Telushkin: 'Jewish Literacy' business section"
+  ],
+  "version": "1.0",
+  "contentFormat": "markdown",
+  "wordCount": {
+    "en": 3985,
+    "zh": 3210,
+    "he": 3670
+  }
+}

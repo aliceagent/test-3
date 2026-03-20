@@ -1,0 +1,123 @@
+{
+  "id": 205,
+  "title": "Eruv: The Invisible Boundary That Changes Shabbat",
+  "title_zh": "爱鲁夫:改变安息日的无形边界",
+  "title_he": "עירוב: הגבול הבלתי נראה שמשנה את השבת",
+  "section": "shabbat",
+  "slug": "eruv-explained",
+  "author": "Torah Light Editorial Team",
+  "date_created": "2026-03-19",
+  "word_count_en": 1450,
+  "word_count_zh": 1020,
+  "word_count_he": 1380,
+  "tags": [
+    "shabbat",
+    "eruv",
+    "halacha",
+    "carrying",
+    "community",
+    "urban-judaism",
+    "jewish-law",
+    "public-domain",
+    "private-domain"
+  ],
+  "difficulty": "intermediate",
+  "target_audience": "Mandarin speakers with basic Jewish knowledge",
+  "topics": [
+    "What is an eruv and how does it work",
+    "Torah prohibition against carrying on Shabbat",
+    "Technical requirements for eruv construction",
+    "Historical development from Talmudic times to modern cities",
+    "Halachic controversies (Rabbi Feinstein vs. Rabbi Henkin)",
+    "Chinese cultural parallels (siheyuan, li, neiwai)",
+    "Community cooperation in building and maintaining eruvin",
+    "Impact on families, elderly, and disabled",
+    "Non-Jewish perspectives and controversies",
+    "Deeper meaning of boundaries and community"
+  ],
+  "chinese_cultural_parallels": [
+    "Siheyuan (四合院) courtyard houses as shared semi-private spaces",
+    "Confucian concept of li (礼) - ritual propriety in different contexts",
+    "Neiwai (内外) - inside/outside spatial distinctions",
+    "Stone lions (石狮) and paifang (牌坊) as symbolic boundary markers"
+  ],
+  "related_articles": [
+    201,
+    202,
+    204,
+    210,
+    225
+  ],
+  "sources": [
+    {
+      "type": "primary",
+      "title": "Talmud Bavli, Tractate Eruvin",
+      "url": "https://www.sefaria.org/Eruvin"
+    },
+    {
+      "type": "halacha",
+      "title": "Shulchan Aruch, Orach Chaim 345-395",
+      "url": "https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim"
+    },
+    {
+      "type": "commentary",
+      "title": "Mishna Berura",
+      "author": "Rabbi Yisrael Meir Kagan"
+    },
+    {
+      "type": "educational",
+      "title": "What is an Eruv?",
+      "author": "Rabbi Naftali Silberberg",
+      "publisher": "Chabad.org",
+      "url": "https://www.chabad.org/library/article_cdo/aid/1519892/"
+    },
+    {
+      "type": "scholarly",
+      "title": "The Contemporary Eruv: Eruvin in Modern Metropolitan Areas",
+      "author": "Rabbi Yosef Gavriel Bechhofer"
+    }
+  ],
+  "key_concepts": {
+    "reshut_hayachid": "Private domain - enclosed area 10 tefachim high",
+    "reshut_harabim": "Public domain - major thoroughfares with heavy traffic",
+    "karmelit": "Semi-public area - alleys, side streets",
+    "tzurat_hapetach": "Form of entrance - two poles with wire/string across top",
+    "eruv_chatzerot": "Courtyard eruv - original form merging households",
+    "melachot": "39 categories of work forbidden on Shabbat"
+  },
+  "practical_applications": [
+    "Carrying prayer books and glasses to synagogue",
+    "Pushing baby strollers",
+    "Using mobility aids for elderly and disabled",
+    "Wearing coats that might be removed",
+    "Bringing gifts when visiting friends",
+    "Improving Shabbat quality of life for families"
+  ],
+  "fun_facts": [
+    "Los Angeles eruv covers over 30 square miles",
+    "Eruv wires are often fishing line barely visible to passersby",
+    "Real estate within eruv boundaries commands premium prices",
+    "Weekly eruv inspection is critical - one broken wire invalidates it",
+    "Manhattan eruv remains controversial due to Rabbi Feinstein's opposition",
+    "Jerusalem has multiple overlapping eruvin for different neighborhoods"
+  ],
+  "learning_outcomes": [
+    "Understand the biblical and Talmudic basis for carrying restrictions",
+    "Comprehend the four spatial domains in Jewish law",
+    "Learn technical requirements for valid eruv construction",
+    "Appreciate historical development and modern adaptations",
+    "Recognize ongoing halachic debates and different opinions",
+    "See connections to Chinese concepts of space and propriety",
+    "Value community cooperation in religious observance",
+    "Understand real-world impact on Shabbat observance"
+  ],
+  "discussion_questions": [
+    "How does the eruv balance strict law with practical human needs?",
+    "What can we learn from the community cooperation required to maintain an eruv?",
+    "How are the Chinese concepts of siheyuan and neiwai similar to the eruv?",
+    "Why do different rabbis disagree about eruv validity in modern cities?",
+    "What does it mean that the eruv exists more in shared consciousness than physical reality?",
+    "How does the eruv make Judaism more accessible to families and the disabled?",
+    "Should religious communities seek public accommodations like eruvin? Why or why not?"
+  ]
+}

@@ -12,11 +12,6 @@
     "zh": "亚伯拉罕离开家园的激进信仰跨越——以及它对开始新属灵旅程的人意味着什么。",
     "he": "הקפיצה האמונית הרדיקלית של אברהם בעזיבת מולדתו — ומה זה אומר לכל מי שמתחיל מסע רוחני חדש."
   },
-  "tags": {
-    "en": ["Abraham", "LechLeka", "Faith", "Trust", "SpiritualJourney", "Genesis", "WeeklyParsha", "TorahStudy"],
-    "zh": ["亚伯拉罕", "利克利卡", "信仰", "信任", "属灵旅程", "创世记", "每周妥拉", "妥拉研习", "商朝", "离开舒适区", "精神成长"],
-    "he": ["אברהם", "לך_לך", "אמונה", "אמון", "מסע_רוחני", "בראשית", "פרשת_השבוע", "לימוד_תורה", "שושלת_שאנג", "עזיבת_אזור_נוחות", "צמיחה_רוחנית"]
-  },
   "word_count": {
     "en": 2847,
     "zh": 1247,
@@ -55,9 +50,19 @@
   ],
   "key_themes": [
     "Faith without sight",
-    "Leaving comfort zones for growth", 
+    "Leaving comfort zones for growth",
     "Divine calling and human response",
     "Cultural transitions and identity formation",
     "Historical parallels between ancient civilizations"
+  ],
+  "keywords": [
+    "Abraham",
+    "LechLeka",
+    "Faith",
+    "Trust",
+    "SpiritualJourney",
+    "Genesis",
+    "WeeklyParsha",
+    "TorahStudy"
   ]
 }

@@ -1,0 +1,77 @@
+{
+  "id": 213,
+  "title": "Waiting Between Meat and Dairy: The Different Customs Explained",
+  "title_zh": "肉类和奶制品之间的等待时间:不同习俗详解",
+  "title_he": "המתנה בין בשר לחלב: המנהגים השונים מוסברים",
+  "section": "Kosher Food",
+  "folder": "kosher-food",
+  "description": "A comprehensive guide to the different Jewish customs for waiting between eating meat and dairy — from one hour to six hours — exploring the Talmudic sources, cultural wisdom, and practical implementation for families.",
+  "word_count_en": 4856,
+  "word_count_zh": 3142,
+  "word_count_he": 3876,
+  "languages": ["en", "zh", "he"],
+  "status": "complete",
+  "chinese_dynasty_references": [
+    {
+      "dynasty": "Wei-Jin-Northern and Southern Dynasties (魏晋南北朝)",
+      "dates": "220-589 CE",
+      "jewish_context": "Talmudic Period (~200-500 CE) when basic principles were established"
+    },
+    {
+      "dynasty": "Song, Yuan, and Ming Dynasties (宋元明)",
+      "dates": "960-1644 CE",
+      "jewish_context": "Rishonim Period (~1000-1500 CE) when major codifiers like Rambam established customs"
+    }
+  ],
+  "cultural_parallels": [
+    "Confucian li (礼) and mindful eating practices",
+    "Chinese tea ceremony (茶道 chádào) timing vs. waiting between meat and dairy",
+    "Buddhist mindful eating vs. Jewish intentional consumption",
+    "Traditional Chinese patience and discipline values"
+  ],
+  "key_topics": [
+    "Meat and dairy separation (basar b'chalav)",
+    "Waiting customs: 1, 3, or 6 hours",
+    "Talmudic sources (Chullin 105a)",
+    "Ashkenazi vs. Sephardi customs",
+    "Rambam's rulings",
+    "Shulchan Aruch codification",
+    "Teaching children kashrut",
+    "Spiritual dimensions of waiting",
+    "Patience (savlanut)",
+    "Mindfulness (kavannah)",
+    "Self-discipline (yissuv hada'at)"
+  ],
+  "tags": [
+    "KosherFood",
+    "MeatAndDairy",
+    "Kashrut",
+    "WaitingPeriod",
+    "Talmud",
+    "Halacha",
+    "AshkenaziCustoms",
+    "SephardiCustoms",
+    "洁食规定",
+    "肉类奶制品",
+    "犹太法律",
+    "等待时间",
+    "传统习俗",
+    "正念饮食",
+    "בשר וחלב",
+    "כשרות",
+    "הלכה",
+    "מנהגים",
+    "התלמוד",
+    "רמב״ם",
+    "JewishLaw",
+    "Mindfulness",
+    "Patience",
+    "Tradition",
+    "FamilyPractice",
+    "SpiritualDiscipline"
+  ],
+  "bibliography_sources": 10,
+  "urls_verified": true,
+  "created": "2026-03-19T01:48:00+02:00",
+  "completed": "2026-03-19T01:58:00+02:00"
+}

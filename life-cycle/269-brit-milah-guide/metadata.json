@@ -1,0 +1,65 @@
+{
+  "id": 269,
+  "title": "Brit Milah: Everything You Need to Know About Jewish Circumcision",
+  "title_zh": "割礼（Brit Milah）：关于犹太割礼你需要知道的一切",
+  "title_he": "ברית מילה: כל מה שצריך לדעת על מילת יהודים",
+  "section": "life-cycle",
+  "slug": "brit-milah-guide",
+  "batch": "300",
+  "status": "completed",
+  "word_count": {
+    "en": 4847,
+    "zh": 1869,
+    "he": 3267
+  },
+  "languages": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "tags": [
+    "BritMilah",
+    "Circumcision",
+    "Covenant",
+    "Abraham",
+    "割礼",
+    "盟约",
+    "JewishBaby",
+    "LifeCycle",
+    "EighthDay",
+    "Mohel",
+    "Sandek",
+    "Tradition",
+    "Identity",
+    "商朝",
+    "ShangDynasty",
+    "Continuity",
+    "JewishLaw",
+    "Ritual",
+    "FamilyCelebration",
+    "JewishIdentity",
+    "孝道",
+    "ברית",
+    "אברהם",
+    "מוהל",
+    "זהות_יהודית"
+  ],
+  "cultural_parallels": [
+    "满月酒 (Full Month Celebration)",
+    "孝道 (Filial Piety)",
+    "制欲 (Regulating Desire)",
+    "礼 (Ritual Propriety)",
+    "商朝 (Shang Dynasty)"
+  ],
+  "historical_period": {
+    "jewish": "Patriarchs (Abraham)",
+    "approximate_dates": "~1800 BCE",
+    "chinese_equivalent": "商朝 (Shang Dynasty, ~1600-1046 BCE)"
+  },
+  "bibliography_count": 5,
+  "has_header_image_description": true,
+  "created_date": "2026-03-19",
+  "author": "Torah Light Project",
+  "target_audience": "Chinese native Mandarin speakers, no background in Judaism",
+  "tone": "Educational, warm, culturally sensitive"
+}

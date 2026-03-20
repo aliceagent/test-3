@@ -1,0 +1,95 @@
+{
+  "id": 321,
+  "title": "Apple and Honey: The Rosh Hashana Simanim and Their Meanings",
+  "title_zh": "苹果与蜂蜜：犹太新年的象征食物及其含义",
+  "title_he": "תפוח ודבש: סימני ראש השנה ומשמעותם",
+  "description": "The full list of symbolic foods eaten on Rosh Hashana night — pomegranate, dates, leeks, beets, fish head — with the prayers for each.",
+  "section": "holidays",
+  "slug": "apple-honey-rosh-hashana-simanim",
+  "word_count_en": 4156,
+  "word_count_zh": 1936,
+  "word_count_he": 2847,
+  "language_versions": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "tags": [
+    "RoshHashana",
+    "Simanim",
+    "AppleAndHoney",
+    "JewishHolidays",
+    "SymbolicFoods",
+    "NewYear",
+    "Pomegranate",
+    "Kavanah",
+    "Prayer",
+    "JewishTradition",
+    "ChineseJewishParallels",
+    "FoodCulture",
+    "汉朝",
+    "年糕",
+    "JewishNewYear",
+    "Holidays"
+  ],
+  "chinese_dynasty_references": [
+    {
+      "dynasty": "Han Dynasty",
+      "chinese": "汉朝",
+      "years": "206 BCE–220 CE",
+      "context": "Period when Talmudic tradition of simanim was established"
+    },
+    {
+      "dynasty": "Song Dynasty",
+      "chinese": "宋朝",
+      "years": "960-1279 CE",
+      "context": "Period of Rabbi Yehuda HaLevi (11th century Spain)"
+    }
+  ],
+  "cultural_parallels": [
+    {
+      "jewish": "Apple and honey (sweetness)",
+      "chinese": "Rice cakes 年糕 (progress, rising higher)"
+    },
+    {
+      "jewish": "Pomegranate (abundance)",
+      "chinese": "Fish 鱼 (surplus, abundance 余)"
+    },
+    {
+      "jewish": "Fish head (leadership)",
+      "chinese": "Whole fish (completeness, good beginning & end)"
+    },
+    {
+      "jewish": "Dates (end of enemies)",
+      "chinese": "Dumplings 饺子 (wealth, like ancient gold ingots)"
+    },
+    {
+      "jewish": "Round challah (continuity of year)",
+      "chinese": "Tangyuan 汤圆 (family reunion, wholeness)"
+    }
+  ],
+  "key_concepts": [
+    "Simanim - symbolic foods",
+    "Kavanah - intention in prayer",
+    "Hebrew wordplay and meaning",
+    "Rosh Hashana customs",
+    "Food as spiritual language",
+    "Cultural food symbolism"
+  ],
+  "talmudic_sources": [
+    "Horayot 12a - seeing symbolic items at the beginning of the year",
+    "Sotah 34a - actions of ancestors as signs for descendants"
+  ],
+  "halachic_sources": [
+    "Shulchan Aruch, Orach Chaim 583:1 - codified law on symbolic foods"
+  ],
+  "bibliography_count": 6,
+  "images": {
+    "header_description": "Traditional Chinese brushstroke landscape in shan shui style featuring a festive table with symbolic Rosh Hashana foods arranged outdoors in early autumn",
+    "style": "Chinese ink wash with watercolor accents",
+    "mood": "Contemplative and hopeful"
+  },
+  "status": "complete",
+  "created_date": "2026-03-19",
+  "author": "Torah Light Writer Agent"
+}

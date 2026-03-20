@@ -1,0 +1,214 @@
+{
+  "title": {
+    "en": "Understanding and Responding to Antisemitism",
+    "zh": "理解和应对反犹主义",
+    "he": "הבנה והתמודדות עם אנטישמיות"
+  },
+  "description": {
+    "en": "A comprehensive, educational guide to understanding antisemitism—its historical roots, modern manifestations, and how to respond with knowledge and resilience.",
+    "zh": "全面的教育指南,帮助理解反犹主义——其历史根源、现代表现形式,以及如何以知识和韧性来应对。",
+    "he": "מדריך חינוכי מקיף להבנת אנטישמיות - שורשיה ההיסטוריים, ביטויים מודרניים, וכיצד להגיב בידע ובחוסן."
+  },
+  "keywords": [
+    "antisemitism",
+    "Holocaust",
+    "Shoah",
+    "Jewish history",
+    "prejudice",
+    "discrimination",
+    "religious hatred",
+    "racial antisemitism",
+    "blood libel",
+    "conspiracy theories",
+    "anti-Zionism",
+    "Holocaust education",
+    "Never Again",
+    "Yad Vashem",
+    "resilience",
+    "Jewish identity",
+    "human rights",
+    "interfaith",
+    "education",
+    "combating hate"
+  ],
+  "category": "history-identity",
+  "subcategory": "antisemitism",
+  "difficulty": "intermediate",
+  "readingTime": {
+    "en": "15-20 minutes",
+    "zh": "15-20分钟",
+    "he": "15-20 דקות"
+  },
+  "author": "Torah Light Editorial Team",
+  "dateCreated": "2026-03-20",
+  "dateModified": "2026-03-20",
+  "version": "1.0",
+  "tone": "educational, sensitive, empowering",
+  "audience": [
+    "general public",
+    "Jewish community",
+    "educators",
+    "students",
+    "interfaith groups",
+    "human rights advocates"
+  ],
+  "contentWarnings": {
+    "en": "This article discusses historical persecution, violence, and the Holocaust. Content is educational and avoids graphic details, but may be emotionally challenging.",
+    "zh": "本文讨论历史迫害、暴力和大屠杀。内容是教育性的,避免了图形细节,但可能在情感上具有挑战性。",
+    "he": "מאמר זה דן ברדיפה היסטורית, אלימות והשואה. התוכן הוא חינוכי ונמנע מפרטים גרפיים, אך עשוי להיות מאתגר רגשית."
+  },
+  "learningObjectives": {
+    "en": [
+      "Understand the definition and forms of antisemitism (religious, racial, political, economic)",
+      "Trace the historical evolution from ancient hatred through the Holocaust to contemporary manifestations",
+      "Distinguish between legitimate criticism of policies and antisemitic tropes",
+      "Recognize antisemitism in its modern forms (online, political, conspiracy theories)",
+      "Learn about Jewish resilience and responses throughout history",
+      "Identify concrete actions individuals and institutions can take to combat antisemitism",
+      "Access educational resources for deeper learning"
+    ],
+    "zh": [
+      "理解反犹主义的定义和形式(宗教、种族、政治、经济)",
+      "追溯从古代仇恨到大屠杀到当代表现的历史演变",
+      "区分对政策的合法批评和反犹主义老套",
+      "识别现代形式的反犹主义(网络、政治、阴谋论)",
+      "了解犹太人在历史上的韧性和回应",
+      "识别个人和机构可以采取的对抗反犹主义的具体行动",
+      "获取更深入学习的教育资源"
+    ],
+    "he": [
+      "הבנת ההגדרה והצורות של אנטישמיות (דתית, גזעית, פוליטית, כלכלית)",
+      "עקיבה אחר ההתפתחות ההיסטורית משנאה עתיקה דרך השואה לביטויים עכשוויים",
+      "הבחנה בין ביקורת לגיטימית על מדיניות לבין טרופים אנטישמיים",
+      "זיהוי אנטישמיות בצורות המודרניות שלה (מקוון, פוליטי, תיאוריות קונספירציה)",
+      "למידה על חוסן יהודי ותגובות לאורך ההיסטוריה",
+      "זיהוי פעולות קונקרטיות שיחידים ומוסדות יכולים לנקוט כדי להילחם באנטישמיות",
+      "גישה למשאבים חינוכיים ללמידה עמוקה יותר"
+    ]
+  },
+  "resources": [
+    {
+      "name": "United States Holocaust Memorial Museum (USHMM)",
+      "url": "https://www.ushmm.org",
+      "type": "museum"
+    },
+    {
+      "name": "Yad Vashem",
+      "url": "https://www.yadvashem.org",
+      "type": "museum"
+    },
+    {
+      "name": "Anti-Defamation League (ADL)",
+      "url": "https://www.adl.org",
+      "type": "advocacy"
+    },
+    {
+      "name": "American Jewish Committee (AJC)",
+      "url": "https://www.ajc.org",
+      "type": "advocacy"
+    },
+    {
+      "name": "International Holocaust Remembrance Alliance (IHRA)",
+      "url": "https://www.holocaustremembrance.com",
+      "type": "education"
+    },
+    {
+      "name": "Anne Frank House",
+      "url": "https://www.annefrank.org",
+      "type": "museum"
+    },
+    {
+      "name": "Facing History and Ourselves",
+      "url": "https://www.facinghistory.org",
+      "type": "education"
+    },
+    {
+      "name": "Holocaust Educational Trust",
+      "url": "https://www.het.org.uk",
+      "type": "education"
+    },
+    {
+      "name": "Jewish Virtual Library",
+      "url": "https://www.jewishvirtuallibrary.org",
+      "type": "reference"
+    }
+  ],
+  "relatedTopics": [
+    "Jewish history",
+    "The Holocaust",
+    "Jewish identity",
+    "Religious persecution",
+    "Human rights",
+    "Genocide education",
+    "Contemporary Jewish life",
+    "Israel and Zionism",
+    "Interfaith relations",
+    "Social justice"
+  ],
+  "languages": {
+    "primary": "en",
+    "available": ["en", "zh", "he"]
+  },
+  "seo": {
+    "metaTitle": {
+      "en": "Understanding Antisemitism: History, Modern Forms & How to Respond | Torah Light",
+      "zh": "理解反犹主义:历史、现代形式及如何应对 | Torah Light",
+      "he": "הבנת אנטישמיות: היסטוריה, צורות מודרניות וכיצד להגיב | Torah Light"
+    },
+    "metaDescription": {
+      "en": "Comprehensive educational guide to antisemitism—from ancient hatred through the Holocaust to today. Learn what it is, why it persists, and how to combat it with knowledge and action.",
+      "zh": "全面的教育指南关于反犹主义——从古代仇恨到大屠杀到今天。了解它是什么,为何持续存在,以及如何通过知识和行动来对抗它。",
+      "he": "מדריך חינוכי מקיף לאנטישמיות - משנאה עתיקה דרך השואה עד היום. למדו מה זה, מדוע זה נמשך, וכיצד להילחם בזה עם ידע ופעולה."
+    },
+    "canonicalUrl": "/history-identity/antisemitism",
+    "ogImage": "/images/history-identity/antisemitism-og.jpg"
+  },
+  "accessibility": {
+    "screenReaderOptimized": true,
+    "highContrast": true,
+    "plainLanguageAvailable": false,
+    "audioVersionAvailable": false
+  },
+  "educationalUse": {
+    "classroomReady": true,
+    "discussionGuideAvailable": false,
+    "supplementaryMaterialsAvailable": false,
+    "recommendedGrades": "9-12, college, adult education"
+  },
+  "contentStructure": {
+    "sections": [
+      "Introduction",
+      "What is Antisemitism?",
+      "Historical Overview: An Ancient Hatred",
+      "Modern Antisemitism: The 19th and 20th Centuries",
+      "The Holocaust: Unprecedented Evil",
+      "Post-Holocaust World: 'Never Again'",
+      "Contemporary Antisemitism: New Forms, Old Hatred",
+      "Why Does Antisemitism Persist?",
+      "Jewish Responses: Resilience and Strength",
+      "Combating Antisemitism: What Can We Do?",
+      "Resources for Further Learning",
+      "Conclusion: Hope and Vigilance"
+    ],
+    "wordCount": {
+      "en": 3850,
+      "zh": 1950,
+      "he": 3650
+    },
+    "hasImages": false,
+    "hasVideos": false,
+    "hasInfographics": false,
+    "hasQuotes": true,
+    "hasFootnotes": false,
+    "hasBibliography": false
+  },
+  "license": "CC BY-NC-SA 4.0",
+  "citation": {
+    "apa": "Torah Light Editorial Team. (2026). Understanding and responding to antisemitism. Torah Light. https://torahlight.org/history-identity/antisemitism",
+    "mla": "Torah Light Editorial Team. \"Understanding and Responding to Antisemitism.\" Torah Light, 20 Mar. 2026, torahlight.org/history-identity/antisemitism.",
+    "chicago": "Torah Light Editorial Team. \"Understanding and Responding to Antisemitism.\" Torah Light. March 20, 2026. https://torahlight.org/history-identity/antisemitism."
+  },
+  "status": "published",
+  "featured": true,
+  "priority": "high"
+}

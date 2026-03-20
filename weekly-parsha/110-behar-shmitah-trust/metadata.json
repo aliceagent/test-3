@@ -7,7 +7,10 @@
   },
   "section": "weekly-parsha",
   "slug": "behar-shmitah-trust",
-  "torah_portion": ["Behar", "Bechukotai"],
+  "torah_portion": [
+    "Behar",
+    "Bechukotai"
+  ],
   "torah_reference": "Leviticus 25:1-27:34",
   "chinese_historical_period": {
     "name": "Shang Dynasty",
@@ -32,11 +35,6 @@
     "Generous giving",
     "Community economics"
   ],
-  "tags": {
-    "en": ["Shmitah", "Trust", "Faith", "Sabbatical", "DivineProvision", "Behar", "Bechukotai", "Economics", "Business", "Rest", "WeeklyParsha"],
-    "zh": ["安息年", "信靠", "信心", "神供应", "比哈尔", "比丘科泰", "经济学", "商业", "安息", "商朝", "每周妥拉段"],
-    "he": ["שמיטה", "בטחון", "אמונה", "שבתון", "השגחה", "בהר", "בחוקותי", "כלכלה", "עסקים", "מנוחה", "שושלת_שאנג", "פרשה_שבועית"]
-  },
   "word_count": {
     "en": 1458,
     "zh": 1089,
@@ -54,5 +52,18 @@
     "https://www.cgg.org/index.cfm/library/bqa/id/158/how-do-land-sabbath-jubilee-years-work-leviticus-25.htm"
   ],
   "created": "2026-03-18",
-  "status": "completed"
+  "status": "completed",
+  "keywords": [
+    "Shmitah",
+    "Trust",
+    "Faith",
+    "Sabbatical",
+    "DivineProvision",
+    "Behar",
+    "Bechukotai",
+    "Economics",
+    "Business",
+    "Rest",
+    "WeeklyParsha"
+  ]
 }

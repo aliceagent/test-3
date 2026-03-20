@@ -1,0 +1,54 @@
+{
+  "id": 229,
+  "title": "Bar and Bat Mitzvah: Coming of Age in Judaism",
+  "title_zh": "成人礼:犹太教的成年仪式——Bar和Bat Mitzvah",
+  "title_he": "בר ובת מצווה: טקס ההבשלה ביהדות",
+  "section": "life-cycle",
+  "slug": "bar-bat-mitzvah",
+  "author": "Torah Light Project",
+  "date_created": "2026-03-19",
+  "languages": ["en", "zh", "he"],
+  "word_count": {
+    "en": 2850,
+    "zh": 1650,
+    "he": 2100
+  },
+  "tags": [
+    "BarMitzvah",
+    "BatMitzvah",
+    "ComingOfAge",
+    "JewishLifeCycle",
+    "Torah",
+    "Mitzvot",
+    "JewishEducation",
+    "Tradition",
+    "Responsibility",
+    "Community",
+    "Talmud",
+    "Mishnah",
+    "13Years",
+    "AdultResponsibility",
+    "JewishIdentity",
+    "冠礼",
+    "成人礼",
+    "Transition",
+    "CulturalParallels"
+  ],
+  "key_concepts": [
+    "Religious majority at age 13 for boys, 12-13 for girls",
+    "Individual accountability for commandments",
+    "Torah reading and public ceremony",
+    "Historical development from ancient times",
+    "Cultural parallels to Chinese coming-of-age traditions",
+    "Community recognition and support",
+    "Distinction between ceremony and status change"
+  ],
+  "target_audience": "Chinese native Mandarin speakers with no background in Judaism",
+  "difficulty_level": "beginner",
+  "related_articles": [
+    272
+  ],
+  "bibliography_count": 6,
+  "status": "complete",
+  "version": "1.0"
+}

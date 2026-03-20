@@ -1,0 +1,101 @@
+{
+  "id": 354,
+  "title": "Korean Interest in Judaism and the Talmud: Separating Fact from Myth",
+  "title_zh": "韩国对犹太教和塔木德的兴趣：区分事实与神话",
+  "title_he": "העניין הקוריאני ביהדות ובתלמוד: הפרדת עובדות ממיתוסים",
+  "slug": "korean-talmud-interest",
+  "section": "jews-in-asia-expanded",
+  "description": "Examining why Korean families study the Talmud, what they actually read, and the complex relationship between admiration and stereotyping.",
+  "description_zh": "探讨韩国家庭为何学习塔木德，他们实际阅读的内容，以及钦佩与刻板印象之间的复杂关系。",
+  "description_he": "בחינת הסיבות שמשפחות קוריאניות לומדות את התלמוד, מה הן באמת קוראות, והיחסים המורכבים בין הערצה לבין סטריאוטיפים.",
+  "word_count": {
+    "en": 2387,
+    "zh": 1568,
+    "he": 1923
+  },
+  "languages": ["en", "zh", "he"],
+  "tags": [
+    "KoreanJewishRelations",
+    "Talmud",
+    "JewishEducation",
+    "CrossCulturalLearning",
+    "Stereotyping",
+    "Philosemitism",
+    "JewsInAsia",
+    "韩国",
+    "塔木德",
+    "犹太教育",
+    "跨文化学习",
+    "亚洲犹太人",
+    "孝",
+    "尊师重道",
+    "格物致知",
+    "天伦之乐",
+    "活到老学到老",
+    "יחסיםקוריאניםיהודיים",
+    "תלמוד",
+    "חינוךיהודי",
+    "למידהחוצתתרבויות",
+    "סטריאוטיפים",
+    "פילוסמיות",
+    "יהודיםבאסיה"
+  ],
+  "bibliography_count": 8,
+  "created_date": "2026-03-19",
+  "status": "completed",
+  "author": "Torah Light Project",
+  "historical_periods_mentioned": [
+    {
+      "jewish_period": "Post-War Era (Korea)",
+      "dates": "1950-1953 CE",
+      "chinese_equivalent": "Early PRC Era (中华人民共和国早期)",
+      "chinese_pinyin": "Zhonghua Renmin Gongheguo zaoqi"
+    }
+  ],
+  "cultural_parallels": [
+    {
+      "concept": "Education as path to success",
+      "jewish": "Talmud Torah keneged kulam",
+      "chinese": "格物致知 (gewu zhizhi)",
+      "korean": "Educational investment culture"
+    },
+    {
+      "concept": "Filial piety and family respect",
+      "jewish": "Kibud Av Va'em",
+      "chinese": "孝 (xiao)",
+      "korean": "Hyo (효)"
+    },
+    {
+      "concept": "Lifelong learning",
+      "jewish": "Torah study never stops",
+      "chinese": "活到老学到老 (huo dao lao xue dao lao)",
+      "korean": "평생학습 (lifelong learning)"
+    },
+    {
+      "concept": "Question-based learning",
+      "jewish": "Chavruta study and Socratic method",
+      "chinese": "博学之，审问之，慎思之，明辨之",
+      "korean": "Critical thinking emphasis"
+    }
+  ],
+  "key_topics": [
+    "Korean Talmud phenomenon",
+    "Cross-cultural admiration and stereotyping",
+    "Jewish education methods",
+    "Authentic vs. commercialized Jewish wisdom",
+    "Model minority stereotypes",
+    "Philosemitism in Asia",
+    "Korean-Jewish cultural parallels",
+    "Christian interest in Jewish roots",
+    "Economic development and education values"
+  ],
+  "target_audience": "Chinese and Korean readers interested in Jewish culture, readers exploring cross-cultural learning, those curious about the Asian fascination with Jewish success",
+  "difficulty_level": "Intermediate - requires cultural awareness",
+  "estimated_reading_time_minutes": {
+    "en": 12,
+    "zh": 8,
+    "he": 10
+  },
+  "related_articles": [349, 350, 351, 352, 353, 355, 356, 357, 358],
+  "notes": "This article addresses a sensitive topic - Asian fascination with Jewish culture - with balance, acknowledging both genuine cultural parallels and problematic stereotyping. It provides practical guidance for moving beyond commercialized myths toward authentic engagement with Jewish tradition."
+}

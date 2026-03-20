@@ -1,0 +1,69 @@
+{
+  "id": 359,
+  "title": "Waking Up Jewish: The First 10 Minutes of a Jewish Morning",
+  "title_zh": "犹太人的清晨：犹太早晨的前十分钟",
+  "title_he": "התעוררות יהודית: עשר הדקות הראשונות של בוקר יהודי",
+  "description": "From Modeh Ani to Negel Vasser to Tzitzit to morning blessings — a minute-by-minute guide to starting the day according to halacha.",
+  "section": "practical-halacha-for-daily-life",
+  "slug": "waking-up-jewish",
+  "word_count": {
+    "english": 4523,
+    "chinese": 1816,
+    "hebrew": 2941
+  },
+  "status": "complete",
+  "tags": [
+    "ModehAni",
+    "NegelVasser",
+    "AsherYatzar",
+    "Tzitzit",
+    "MorningBlessings",
+    "BirchotHaShachar",
+    "DailyHalacha",
+    "JewishMorningRoutine",
+    "PracticalJudaism",
+    "Gratitude",
+    "SpiritualAwakening",
+    "MitzvahObjects",
+    "RitualHandwashing",
+    "早晨祈祷",
+    "犹太传统",
+    "感恩",
+    "礼仪"
+  ],
+  "bibliography_count": 8,
+  "created": "2026-03-19T09:48:00Z",
+  "author": "Torah Light Article Production (Subagent)",
+  "languages": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "header_image_description": "A serene Chinese shan shui (山水) landscape in soft morning light. Dawn breaks over misty mountains with a small traditional dwelling nestled in the valley. A figure stands at the entrance, hands raised in prayer position. Gentle rays of sunlight pierce through morning mist, creating an atmosphere of quiet awakening and spiritual preparation. Rendered in traditional ink wash style with subtle golden highlights representing the divine presence at daybreak. Mood: peaceful, contemplative, spiritually awakening.",
+  "cultural_parallels": [
+    "Chinese tea culture and ritual preparation",
+    "Confucian filial piety and respect for heaven (天)",
+    "Daoist wu wei (无为) and natural alignment",
+    "Traditional Chinese morning acknowledgment of ancestors",
+    "Qi (气) energy transitions in traditional Chinese medicine",
+    "Confucian emphasis on ritual propriety (礼, lǐ)"
+  ],
+  "key_concepts": [
+    "Modeh Ani (מודה אני) - morning gratitude prayer",
+    "Negel Vasser - ritual handwashing upon waking",
+    "Asher Yatzar - blessing after using the bathroom",
+    "Tzitzit/Tallit Katan - ritual fringes",
+    "Birchot HaTorah - blessings on Torah study",
+    "Birchot HaShachar - morning blessings",
+    "Netilat Yadayim - ritual handwashing",
+    "Neshama (soul) restoration each morning",
+    "Ruach ra'ah - spirit of impurity during sleep"
+  ],
+  "target_audience": "Chinese native Mandarin speakers with no prior Jewish knowledge learning about practical Jewish observance",
+  "difficulty_level": "beginner",
+  "estimated_reading_time_minutes": {
+    "english": 18,
+    "chinese": 10,
+    "hebrew": 15
+  }
+}

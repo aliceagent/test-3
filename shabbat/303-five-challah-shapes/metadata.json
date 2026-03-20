@@ -1,0 +1,95 @@
+{
+  "id": 303,
+  "title": "Five Challah Shapes and What They Symbolize",
+  "title_zh": "五种辫子面包的形状及其象征意义",
+  "title_he": "חמישה צורות חלה ומשמעותן הסמלית",
+  "section": "shabbat",
+  "description": "Round for Rosh Hashana, braided for Shabbat, key-shaped for after Pesach — learn the shapes, their meanings, and how to form each one.",
+  "word_count": {
+    "en": 5280,
+    "zh": 4850,
+    "he": 4920
+  },
+  "tags": [
+    "Challah",
+    "Shabbat",
+    "JewishBaking",
+    "Braiding",
+    "RoundChallah",
+    "KeyChallah",
+    "LadderChallah",
+    "CrownChallah",
+    "RoshHashana",
+    "Passover",
+    "YomKippur",
+    "ShabbatShuvah",
+    "JewishSymbolism",
+    "HafrashatChallah",
+    "Mitzvah",
+    "JewishFood",
+    "Tradition",
+    "ShabbatTable",
+    "ChineseJewishParallels",
+    "中国结",
+    "安息日",
+    "面包",
+    "传统",
+    "象征意义",
+    "חלה",
+    "שבת",
+    "אפייה_יהודית"
+  ],
+  "cultural_parallels": [
+    "Chinese knot-tying (中国结) and braiding as symbols of unity",
+    "Cyclical time in Chinese philosophy and Jewish calendar",
+    "Red envelopes and symbolic foods for blessing and prosperity",
+    "Phoenix crown (凤冠) and crown-shaped challah as symbols of honor"
+  ],
+  "historical_periods": [
+    {
+      "jewish_period": "Patriarchs (Abraham, Isaac, Jacob)",
+      "dates": "~1800-1500 BCE",
+      "chinese_equivalent": "Shang Dynasty (商朝)"
+    },
+    {
+      "jewish_period": "Exodus and Wilderness",
+      "dates": "~1260-1220 BCE",
+      "chinese_equivalent": "Late Shang Dynasty (商朝晚期)"
+    },
+    {
+      "jewish_period": "Second Temple Period",
+      "dates": "516 BCE - 70 CE",
+      "chinese_equivalent": "Warring States through Han Dynasty (战国时代至汉朝)"
+    },
+    {
+      "jewish_period": "Mishnaic Period",
+      "dates": "~200 CE",
+      "chinese_equivalent": "Han Dynasty (汉朝)"
+    }
+  ],
+  "key_concepts": [
+    "Three-strand braid: Unity of patriarchs or truth/peace/justice",
+    "Six-strand braid: Six days of work or six orders of Mishnah",
+    "Round challah: Cyclical time and God's crown during High Holidays",
+    "Ladder challah: Prayers ascending to heaven (Jacob's ladder)",
+    "Key challah: Opening gates of divine sustenance after Passover",
+    "Crown challah: Royalty and honor for celebrations",
+    "Hafrashat challah: The mitzvah of separating a portion of dough"
+  ],
+  "practical_instructions": [
+    "Three-strand braiding technique",
+    "Six-strand braiding pattern",
+    "Round spiral shaping methods",
+    "Ladder construction with rungs",
+    "Key shape with shaft and teeth",
+    "Crown formation with upright points"
+  ],
+  "bibliography_count": 8,
+  "status": "complete",
+  "created_date": "2026-03-19",
+  "language_versions": [
+    "en",
+    "zh",
+    "he"
+  ]
+}

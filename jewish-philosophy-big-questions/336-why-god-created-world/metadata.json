@@ -1,0 +1,76 @@
+{
+  "id": 336,
+  "title": "Why Did God Create the World? Ten Answers from Jewish Sources",
+  "title_zh": "上帝为何创造世界? 来自犹太经典的十个答案",
+  "title_he": "למה ה׳ ברא את העולם? עשר תשובות ממקורות יהודיים",
+  "description": "From \"God wanted a dwelling place below\" to \"so human beings could earn their reward\" — the range of answers across Talmud, Kabbalah, and Chassidut.",
+  "description_zh": "从"上帝渴望在下界拥有居所"到"让人类能够赢得回报"——塔木德、卡巴拉和哈西迪主义中各种答案的范围。",
+  "description_he": "מ״נתאווה הקב״ה להיות לו דירה בתחתונים״ עד ״כדי שבני האדם יוכלו להרוויח את שכרם״ — מגוון התשובות בתלמוד, קבלה וחסידות.",
+  "section": "jewish-philosophy-big-questions",
+  "slug": "why-god-created-world",
+  "word_count": {
+    "en": 3400,
+    "zh": 2800,
+    "he": 2600
+  },
+  "status": "completed",
+  "created": "2026-03-19T08:14:00Z",
+  "tags": [
+    "Creation",
+    "Philosophy",
+    "Purpose",
+    "FreeWill",
+    "DivineAttributes",
+    "Partnership",
+    "Kingship",
+    "Mystery",
+    "Ramchal",
+    "Maimonides",
+    "Zohar",
+    "Tanya",
+    "ChabadPhilosophy",
+    "Midrash",
+    "商朝",
+    "宋朝",
+    "道家",
+    "天命",
+    "TorahWisdom",
+    "JewishThought",
+    "BigQuestions",
+    "ExistentialMeaning",
+    "WhyWeExist"
+  ],
+  "bibliography_count": 10,
+  "chinese_parallels": [
+    "Confucian self-cultivation (修身, xiūshēn) vs earning one's reward",
+    "Daoist concept of finding Dao (道) in the ordinary vs dwelling place below",
+    "Mandate of Heaven (天命, tiānmìng) vs divine kingship",
+    "Filial piety (孝, xiào) vs covenant relationship",
+    "Buddhist enlightenment through practice vs light from darkness",
+    "Dao De Jing on ineffable truth vs mystery beyond understanding"
+  ],
+  "historical_context": [
+    "Torah at Sinai (~1300 BCE) - Late Shang Dynasty (商朝, ~1300-1046 BCE)",
+    "Talmud compilation (2nd-5th century CE) - Wei-Jin period (魏晉, 220-420 CE)",
+    "Maimonides (1138-1204 CE) - Song Dynasty (宋朝, 960-1279 CE)",
+    "Ramchal (1707-1746) - Qing Dynasty (清朝)",
+    "Isaiah (8th century BCE) - Spring and Autumn period (春秋, 770-476 BCE)"
+  ],
+  "key_figures": [
+    "Rabbi Moshe Chaim Luzzatto (Ramchal)",
+    "Rabbi Moses Maimonides (Rambam)",
+    "Rabbi Shimon bar Yochai",
+    "Rabbi Schneur Zalman of Liadi (Alter Rebbe)"
+  ],
+  "sources": [
+    "Midrash Tanchuma",
+    "Tanya",
+    "Derech Hashem",
+    "Zohar",
+    "Tikkunei Zohar",
+    "Mishneh Torah",
+    "Book of Job",
+    "Isaiah",
+    "Talmud Bavli"
+  ]
+}

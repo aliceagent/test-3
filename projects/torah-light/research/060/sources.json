@@ -1,0 +1,81 @@
+{
+  "article_id": 60,
+  "title": "Finding a Rabbi and Community When You Live in Asia",
+  "section": "Conversion",
+  "sources": [
+    {
+      "type": "primary_text",
+      "title": "Book of Ruth 1:16-17",
+      "url": "https://www.sefaria.org/Ruth.1.16-17",
+      "source": "Sefaria",
+      "content": "Ruth's declaration of commitment to Judaism and the Jewish people",
+      "verified": true
+    },
+    {
+      "type": "article",
+      "title": "What Is A Rabbi?",
+      "url": "https://aish.com/what-is-a-rabbi/",
+      "source": "Aish.com",
+      "author": "Tzvi Gluckin",
+      "date": "August 25, 2024",
+      "content": "Definition of rabbi, role in community, how to find a mentor",
+      "verified": true
+    },
+    {
+      "type": "directory",
+      "title": "Chabad Centers in China",
+      "url": "https://www.chabad.org/centers/default_cdo/country/China/jewish/Chabad-Centers.htm",
+      "source": "Chabad.org",
+      "content": "Directory of Chabad houses in Beijing, Shanghai, Hong Kong, Guangzhou, Shenzhen, Chengdu, and other Chinese cities",
+      "verified": "accessible_via_scrapling",
+      "note": "Returns 403 with basic verification but accessible via browser with proper headers"
+    },
+    {
+      "type": "online_learning",
+      "title": "Aish Academy Online Learning",
+      "url": "https://academy.aish.com/",
+      "source": "Aish.com",
+      "content": "Virtual Jewish learning platform with interactive courses",
+      "verified": true
+    },
+    {
+      "type": "online_learning",
+      "title": "ChabadU Online Courses",
+      "url": "https://www.chabad.org/multimedia/video_cdo/aid/2530155/jewish/ChabadU.htm",
+      "source": "Chabad.org",
+      "content": "Online Torah study courses and video classes",
+      "verified": "accessible_via_scrapling"
+    },
+    {
+      "type": "online_learning",
+      "title": "Torah Classes - Virtual Classroom",
+      "url": "https://www.chabad.org/multimedia/video_cdo/aid/910937/jewish/Torah-Classes.htm",
+      "source": "Chabad.org",
+      "content": "The world's biggest virtual classroom for Torah study",
+      "verified": "accessible_via_scrapling"
+    }
+  ],
+  "key_themes": [
+    "Finding a rabbi as a mentor and guide",
+    "Chabad houses across Asia as community hubs",
+    "Virtual learning platforms for isolated learners",
+    "The rav-talmid (teacher-student) relationship",
+    "Building community even in isolation",
+    "Ruth as the model convert seeking community"
+  ],
+  "asian_cities_with_jewish_presence": [
+    "Beijing",
+    "Shanghai",
+    "Hong Kong",
+    "Guangzhou",
+    "Shenzhen",
+    "Chengdu",
+    "Singapore",
+    "Bangkok",
+    "Tokyo",
+    "Seoul",
+    "Taipei",
+    "Mumbai",
+    "Yangon"
+  ]
+}

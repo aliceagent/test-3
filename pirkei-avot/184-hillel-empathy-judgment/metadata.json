@@ -1,0 +1,132 @@
+{
+  "id": 184,
+  "title": "Do Not Judge Your Fellow Until You Have Reached Their Place",
+  "title_zh": "不要论断他人,直到你到达他的处境",
+  "title_he": "אל תדין את חברך עד שתגיע למקומו",
+  "section": "pirkei-avot",
+  "slug": "hillel-empathy-judgment",
+  "batch": "200",
+  "primary_source": "Pirkei Avot 2:5",
+  "primary_source_he": "פרקי אבות ב:ה",
+  "author": "Hillel the Elder",
+  "author_he": "הלל הזקן",
+  "themes": [
+    "empathy",
+    "judgment",
+    "humility",
+    "compassion",
+    "understanding others",
+    "dan l'kaf zechut",
+    "ethical behavior",
+    "interpersonal relationships"
+  ],
+  "chinese_parallels": [
+    "知人知面不知心 (You may know someone's face but not their heart)",
+    "己所不欲,勿施于人 (Confucius: Do not impose on others what you yourself do not desire)",
+    "将心比心 (Compare heart to heart)",
+    "Buddhist compassion and karma"
+  ],
+  "related_concepts": [
+    "Dan L'Kaf Zechut (judging favorably)",
+    "Anavah (humility)",
+    "Chesed (loving-kindness)",
+    "Lashon Hara (harmful speech)",
+    "Tzelem Elokim (divine image)"
+  ],
+  "word_count": {
+    "en": 1450,
+    "zh": 1200,
+    "he": 1380
+  },
+  "target_audience": "Chinese native Mandarin speakers with no prior Jewish knowledge",
+  "tone": "educational, warm, culturally sensitive",
+  "difficulty_level": "intermediate",
+  "estimated_reading_time_minutes": {
+    "en": 7,
+    "zh": 6,
+    "he": 7
+  },
+  "key_quotes": [
+    {
+      "text": "Al tadin et chaveircha ad she'tagia limkomo",
+      "translation_en": "Do not judge your fellow until you have reached their place",
+      "translation_zh": "不要论断你的同伴,直到你到达他的处境",
+      "translation_he": "אל תדין את חברך עד שתגיע למקומו",
+      "source": "Pirkei Avot 2:5"
+    }
+  ],
+  "practical_applications": [
+    "Pause before making judgments",
+    "Judge actions, not souls",
+    "Give benefit of the doubt (Dan L'Kaf Zechut)",
+    "Reflect on your own journey",
+    "Apply strict standards to yourself, lenient to others"
+  ],
+  "bibliography": [
+    {
+      "title": "Pirkei Avot",
+      "type": "primary_text",
+      "reference": "2:5"
+    },
+    {
+      "title": "Talmud Bavli, Tractate Shabbat",
+      "type": "primary_text",
+      "reference": "127b"
+    },
+    {
+      "title": "Talmud Bavli, Tractate Berakhot",
+      "type": "primary_text",
+      "reference": "58a"
+    },
+    {
+      "title": "Shmirat HaLashon",
+      "author": "Chofetz Chaim",
+      "type": "ethical_work"
+    },
+    {
+      "title": "Writings of Rabbi Yisrael Salanter",
+      "author": "Rabbi Yisrael Salanter",
+      "type": "mussar_literature"
+    },
+    {
+      "title": "Chovot HaLevavot (Duties of the Heart)",
+      "author": "Rabbeinu Bachya",
+      "type": "ethical_work"
+    }
+  ],
+  "seo_keywords": [
+    "Hillel the Elder",
+    "Pirkei Avot",
+    "Jewish ethics",
+    "empathy in Judaism",
+    "not judging others",
+    "dan l'kaf zechut",
+    "Jewish wisdom",
+    "compassion",
+    "understanding",
+    "犹太智慧",
+    "同理心",
+    "不论断他人"
+  ],
+  "created_date": "2026-03-18",
+  "language_versions": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "status": "completed",
+  "keywords": [
+    "empathy",
+    "judgment",
+    "Hillel the Elder",
+    "Pirkei Avot",
+    "compassion",
+    "dan l'kaf zechut",
+    "understanding others",
+    "humility",
+    "interpersonal relationships",
+    "benefit of the doubt",
+    "Jewish ethics",
+    "not judging"
+  ]
+}

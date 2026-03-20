@@ -1,0 +1,94 @@
+{
+  "id": 199,
+  "title": "Jewish Names and Their Meanings: A Guide for Naming Children",
+  "title_zh": "犹太人的名字及其含义:为孩子起名指南",
+  "title_he": "שמות יהודיים ומשמעויותיהם: מדריך לקריאת שם לילדים",
+  "section": "life-cycle",
+  "slug": "jewish-names-meanings",
+  "description": "A comprehensive guide to Jewish naming traditions, customs, and meanings for parents choosing names for their children.",
+  "description_zh": "为父母选择孩子名字提供犹太命名传统、习俗和含义的综合指南。",
+  "description_he": "מדריך מקיף למסורות קריאת שם יהודיות, מנהגים ומשמעויות להורים הבוחרים שמות לילדיהם.",
+  "keywords": [
+    "Jewish names",
+    "naming children",
+    "Hebrew names",
+    "baby naming",
+    "Ashkenazi naming",
+    "Sephardic naming",
+    "biblical names",
+    "brit milah",
+    "simchat bat",
+    "Chinese naming parallels"
+  ],
+  "keywords_zh": [
+    "犹太名字",
+    "给孩子起名",
+    "希伯来名字",
+    "婴儿命名",
+    "阿什肯纳兹命名",
+    "塞法迪命名",
+    "圣经名字",
+    "割礼",
+    "女孩命名仪式",
+    "中国命名平行"
+  ],
+  "keywords_he": [
+    "שמות יהודיים",
+    "קריאת שם לילדים",
+    "שמות עבריים",
+    "קריאת שם לתינוק",
+    "קריאת שם אשכנזית",
+    "קריאת שם ספרדית",
+    "שמות מקראיים",
+    "ברית מילה",
+    "שמחת בת",
+    "מקבילות קריאת שם סיניות"
+  ],
+  "target_audience": "Parents preparing to name their children, converts choosing Hebrew names, anyone interested in Jewish naming traditions",
+  "target_audience_zh": "准备为孩子起名的父母、选择希伯来名字的皈依者、任何对犹太命名传统感兴趣的人",
+  "target_audience_he": "הורים המתכוננים לקרוא שם לילדיהם, גרים הבוחרים שמות עבריים, כל מי שמתעניין במסורות קריאת שם יהודיות",
+  "cultural_parallels": [
+    "Chinese generation names (派行) and Jewish generational naming patterns",
+    "Meaning-based character selection in Chinese names vs. Hebrew name meanings",
+    "Protective naming practices in both cultures",
+    "Respect for elders reflected in naming customs"
+  ],
+  "sources": [
+    {
+      "type": "Talmud",
+      "reference": "Yoma 83b",
+      "topic": "Names influence character"
+    },
+    {
+      "type": "website",
+      "url": "https://www.chabad.org/library/article_cdo/aid/473466/jewish/Jewish-Names.htm",
+      "title": "Jewish Names - Chabad.org",
+      "description": "Comprehensive database of Jewish names"
+    },
+    {
+      "type": "website",
+      "url": "https://www.sefaria.org",
+      "title": "Sefaria",
+      "description": "Primary Jewish texts with translations for researching biblical names"
+    }
+  ],
+  "word_count": {
+    "en": 1443,
+    "zh": 1272,
+    "he": 1468
+  },
+  "tone": "educational, warm, culturally sensitive",
+  "difficulty_level": "beginner to intermediate",
+  "estimated_reading_time_minutes": {
+    "en": 8,
+    "zh": 6,
+    "he": 8
+  },
+  "created": "2026-03-18",
+  "author": "Torah Light Project",
+  "language_versions": [
+    "en",
+    "zh",
+    "he"
+  ]
+}

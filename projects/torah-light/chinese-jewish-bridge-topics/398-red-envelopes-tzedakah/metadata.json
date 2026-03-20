@@ -1,0 +1,188 @@
+{
+  "article_id": 398,
+  "title": {
+    "en": "Red Envelopes and Tzedakah: Giving Money in Chinese and Jewish Culture",
+    "zh": "红包与慈善(Tzedakah):中国和犹太文化中的金钱馈赠",
+    "he": "מעטפות אדומות וצדקה: מתן כסף בתרבות הסינית והיהודית"
+  },
+  "description": {
+    "en": "The custom of giving money in red envelopes (hongbao 红包) compared to the mitzvah of tzedakah — occasions, amounts, and spiritual meaning.",
+    "zh": "红包(hongbao 红包)习俗与慈善戒律(tzedakah)的比较——场合、金额和精神意义。",
+    "he": "מנהג נתינת כסף במעטפות אדומות (hongbao 红包) בהשוואה למצוות הצדקה — אירועים, סכומים ומשמעות רוחנית."
+  },
+  "section": "chinese-jewish-bridge-topics",
+  "topics": [
+    "hongbao",
+    "red envelopes",
+    "tzedakah",
+    "charity",
+    "giving",
+    "Chinese New Year",
+    "weddings",
+    "life cycle events",
+    "Maimonides",
+    "eight levels of tzedakah",
+    "numerology",
+    "lucky numbers",
+    "tithing",
+    "ma'aser",
+    "social harmony",
+    "reciprocity",
+    "justice",
+    "righteousness",
+    "digital hongbao",
+    "WeChat red envelopes",
+    "online tzedakah",
+    "moral education",
+    "character development",
+    "generational transmission",
+    "cross-cultural comparison"
+  ],
+  "keywords": {
+    "en": [
+      "hongbao",
+      "red envelope",
+      "tzedakah",
+      "charity",
+      "Chinese New Year",
+      "Jewish giving",
+      "Maimonides",
+      "eight levels",
+      "lucky numbers",
+      "tithing",
+      "reciprocity",
+      "justice",
+      "comparative religion"
+    ],
+    "zh": [
+      "红包",
+      "慈善",
+      "春节",
+      "犹太传统",
+      "迈蒙尼德",
+      "吉利数字",
+      "什一税",
+      "互惠",
+      "正义",
+      "比较宗教"
+    ],
+    "he": [
+      "הונגבאו",
+      "מעטפה אדומה",
+      "צדקה",
+      "שנה סינית חדשה",
+      "נתינה יהודית",
+      "רמב\"ם",
+      "שמונה דרגות",
+      "מספרי מזל",
+      "מעשר",
+      "הדדיות",
+      "צדק",
+      "דתות משווה"
+    ]
+  },
+  "date_created": "2026-03-20",
+  "author": "Torah Light",
+  "word_count": {
+    "en": 3847,
+    "zh": 3012,
+    "he": 3654
+  },
+  "languages": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "related_concepts": {
+    "chinese": [
+      "红包 (hongbao)",
+      "压岁钱 (yasuiqian)",
+      "面子 (face)",
+      "互惠 (reciprocity)",
+      "春节 (Chinese New Year)",
+      "吉利数字 (lucky numbers)",
+      "微信红包 (WeChat red envelopes)"
+    ],
+    "jewish": [
+      "צדקה (tzedakah)",
+      "צדק (tzedek - justice)",
+      "מעשר (ma'aser - tithe)",
+      "פושקה (pushke - tzedakah box)",
+      "תיקון עולם (tikkun olam)",
+      "רמב\"ם (Rambam/Maimonides)",
+      "ימים נוראים (High Holidays)"
+    ]
+  },
+  "comparative_themes": [
+    "Moral imperative of giving",
+    "Timing and ritual integration",
+    "Symbolic amounts and numerology",
+    "Generational value transmission",
+    "Social cohesion through giving",
+    "Material and spiritual dimensions",
+    "Modern digital adaptations",
+    "Educational pedagogy",
+    "Character formation"
+  ],
+  "key_differences": [
+    "Philosophical foundation (cosmological vs. monotheistic)",
+    "Direction of flow (elder-to-younger vs. wealthy-to-poor)",
+    "Reciprocity expectations (explicit vs. avoided)",
+    "Anonymity (identity matters vs. anonymity preferred)",
+    "Joy vs. justice framing",
+    "Fixed vs. proportional amounts"
+  ],
+  "biblical_references": [
+    "Deuteronomy 15:7-8"
+  ],
+  "rabbinic_sources": [
+    "Mishneh Torah (Maimonides)",
+    "Talmud"
+  ],
+  "cultural_practices": {
+    "chinese": [
+      "Spring Festival hongbao",
+      "Wedding hongbao",
+      "Birthday hongbao",
+      "Full moon celebration (满月酒)",
+      "Business opening hongbao",
+      "Digital WeChat red envelopes"
+    ],
+    "jewish": [
+      "Daily tzedakah",
+      "Before Shabbat and holidays",
+      "Before prayer",
+      "High Holiday emphasis",
+      "Bar/Bat Mitzvah tzedakah projects",
+      "Yahrtzeit donations"
+    ]
+  },
+  "suggested_reading_order": [
+    "Introduction",
+    "The Red Envelope Tradition",
+    "Tzedakah: The Jewish Imperative",
+    "Comparative Analysis",
+    "Modern Adaptations",
+    "Educational Dimensions",
+    "Conclusion"
+  ],
+  "target_audience": [
+    "General readers interested in comparative culture",
+    "Jewish readers learning about Chinese traditions",
+    "Chinese readers learning about Jewish traditions",
+    "Educators teaching cultural comparison",
+    "Students of religion and ethics",
+    "Cross-cultural practitioners"
+  ],
+  "reading_time_minutes": {
+    "en": 18,
+    "zh": 14,
+    "he": 17
+  },
+  "difficulty_level": "Intermediate",
+  "series": "Chinese-Jewish Bridge Topics",
+  "format": "Long-form comparative essay",
+  "license": "Torah Light Standard License",
+  "version": "1.0",
+  "status": "published"
+}

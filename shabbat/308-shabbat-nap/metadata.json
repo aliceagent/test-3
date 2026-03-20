@@ -1,0 +1,90 @@
+{
+  "id": 308,
+  "title": "Shabbat Nap: The Holiest Sleep of the Week",
+  "title_zh": "安息日午睡：一周中最神圣的睡眠",
+  "title_he": "תנומת שבת: השינה הקדושה ביותר של השבוע",
+  "description": "The tradition and spiritual value of the Shabbat afternoon rest, and why menucha (rest) is considered a gift from God to the Jewish people.",
+  "section": "shabbat",
+  "slug": "shabbat-nap",
+  "word_count": {
+    "en": 4283,
+    "zh": 2147,
+    "he": 3456
+  },
+  "author": "Torah Light Editorial Team",
+  "date_created": "2026-03-19",
+  "status": "complete",
+  "languages": ["en", "zh", "he"],
+  "tags": [
+    "Shabbat",
+    "Menucha",
+    "Rest",
+    "ShabbatNap",
+    "OnegShabbat",
+    "NeshamaYeteira",
+    "SpiritualPractice",
+    "JewishLiving",
+    "Faith",
+    "Trust",
+    "DivineGift",
+    "Countercultural",
+    "安息日",
+    "休息",
+    "灵性实践",
+    "犹太生活",
+    "שבת",
+    "מנוחה",
+    "תנומה",
+    "עונגשבת",
+    "נשמהיתירה"
+  ],
+  "key_concepts": [
+    "Menucha (rest)",
+    "Neshama Yeteira (additional soul)",
+    "Oneg Shabbat (delighting in Shabbat)",
+    "Shabbat schedule and structure",
+    "Faith and trust through rest",
+    "Chinese parallels: wu wei, yin/yang"
+  ],
+  "bibliography_count": 8,
+  "historical_periods_mentioned": [
+    {
+      "jewish_period": "Patriarchs (Abraham-Jacob)",
+      "dates": "~1800-1500 BCE",
+      "chinese_equivalent": "Shang Dynasty (商朝)",
+      "chinese_dates": "~1600-1046 BCE"
+    },
+    {
+      "jewish_period": "Exodus & Torah Reception",
+      "dates": "~1300 BCE",
+      "chinese_equivalent": "Late Shang Dynasty",
+      "chinese_dates": "~1300-1046 BCE"
+    },
+    {
+      "jewish_period": "Second Temple Period",
+      "dates": "516 BCE - 70 CE",
+      "chinese_equivalent": "Warring States → Han Dynasty (汉朝)",
+      "chinese_dates": "475 BCE - 220 CE"
+    },
+    {
+      "jewish_period": "Talmudic Period",
+      "dates": "200-500 CE",
+      "chinese_equivalent": "Three Kingdoms → Jin Dynasty",
+      "chinese_dates": "220-420 CE"
+    },
+    {
+      "jewish_period": "Medieval (Zohar written)",
+      "dates": "13th century CE",
+      "chinese_equivalent": "Yuan Dynasty",
+      "chinese_dates": "1271-1368 CE"
+    }
+  ],
+  "cultural_parallels": [
+    "Wu wei (無為) - Daoist non-action",
+    "Yin and Yang balance",
+    "Xiaoji (孝) - filial piety and rest for elders",
+    "Traditional Chinese medicine's afternoon meridian",
+    "Dao De Jing on non-action"
+  ],
+  "header_image_prompt": "A serene Chinese ink wash (水墨) landscape depicting a tranquil afternoon scene. A traditional Chinese pavilion nestles among gentle hills, with a figure resting peacefully inside, visible through open latticed windows. Soft afternoon light filters through willow branches. Muted earth tones of grey, cream, and pale blue. The composition suggests deep rest and spiritual peace. Style: traditional shan shui (山水) with delicate brushwork, emphasizing emptiness and quietude. Mood: contemplative serenity, the sacred quality of rest."
+}

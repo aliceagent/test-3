@@ -1,0 +1,92 @@
+{
+  "article_number": 153,
+  "title": {
+    "en": "Leap Years in the Jewish Calendar: Adding a Whole Month",
+    "zh": "犹太历中的闰年：增加整整一个月",
+    "he": "שנות המעוברות בלוח העברי: הוספת חודש שלם"
+  },
+  "section": "jewish-calendar",
+  "category": "calendar-systems",
+  "concepts": [
+    "Adar II (Adar Bet)",
+    "19-year Metonic cycle",
+    "Lunar-solar calendar adjustment",
+    "Hillel II calendar system",
+    "Sanhedrin leap year declarations",
+    "Agricultural calendar alignment",
+    "Purim timing in leap years",
+    "Hebrew birthday calculations"
+  ],
+  "difficulty": "intermediate",
+  "reading_time_minutes": {
+    "en": 8,
+    "zh": 6,
+    "he": 7
+  },
+  "languages": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "word_count": {
+    "en": 1247,
+    "zh": 856,
+    "he": 1089
+  },
+  "created": "2026-03-18",
+  "author": "Torah Light Editorial Team",
+  "summary": {
+    "en": "Explores the Jewish calendar's leap year system, explaining why Adar II is added seven times every 19 years to align lunar months with solar seasons, maintaining the proper timing of holidays and agricultural connections.",
+    "zh": "探讨犹太历闰年系统，解释为什么每19年增加七次第二个阿达尔月，以使阴历月份与阳历季节保持一致，维持节日的适当时机和农业联系。",
+    "he": "חוקר את מערכת השנים המעוברות של הלוח העברי, מסביר מדוע אדר ב' מתווסף שבע פעמים כל 19 שנה כדי ליישר חודשים ירחיים עם עונות שמשיות, תוך שמירה על תזמון נכון של חגים וקשרים חקלאיים."
+  },
+  "key_points": [
+    "Jewish calendar operates on lunar system but must align with solar seasons",
+    "Adar II added 7 times every 19 years following Metonic cycle",
+    "Prevents religious holidays from drifting through seasons",
+    "System formalized by Hillel II around 358 CE",
+    "Maintains agricultural relevance of festivals",
+    "Demonstrates remarkable astronomical accuracy for ancient system"
+  ],
+  "cultural_references": {
+    "chinese_dynasties": [
+      "Han Dynasty (202 BCE) - mentioned as contemporary to early Jewish calendar adjustments",
+      "Tang Dynasty - referenced for parallel astronomical developments",
+      "Jin Dynasty (358 CE) - contemporary to Hillel II's calendar formalization"
+    ]
+  },
+  "historical_periods": [
+    "Second Temple period",
+    "Talmudic era",
+    "Post-Temple diaspora",
+    "Modern era"
+  ],
+  "related_articles": [
+    "Hebrew Calendar Basics",
+    "Jewish Holidays and Seasons",
+    "Ancient Jewish Astronomy",
+    "Purim Celebrations",
+    "Agricultural Laws in Judaism"
+  ],
+  "image_description": "A circular diagram showing the 19-year Metonic cycle with Hebrew months arranged in a spiral, highlighting the seven leap years when Adar II (marked in gold) is added. Ancient scrolls and astronomical instruments from the Second Temple period frame the image.",
+  "seo_keywords": [
+    "Jewish leap year",
+    "Adar II",
+    "Hebrew calendar",
+    "Metonic cycle",
+    "Jewish holidays timing",
+    "lunar calendar adjustment",
+    "Hillel II calendar",
+    "Jewish astronomy"
+  ],
+  "keywords": [
+    "leap-years",
+    "adar-II",
+    "metonic-cycle",
+    "calendar-mathematics",
+    "seasonal-alignment",
+    "jewish-astronomy",
+    "holiday-timing",
+    "lunar-solar-calendar"
+  ]
+}

@@ -1,0 +1,400 @@
+{
+  "title": {
+    "en": "Jewish Holidays: A Comprehensive Guide",
+    "zh": "犹太节日:综合指南",
+    "he": "חגי ישראל: מדריך מקיף"
+  },
+  "description": {
+    "en": "An in-depth exploration of Jewish holidays, festivals, and fast days throughout the year, including their history, laws, customs, foods, and spiritual significance.",
+    "zh": "深入探索全年的犹太节日、庆典和禁食日,包括其历史、法律、习俗、食物和精神意义。",
+    "he": "חקר מעמיק של חגי ישראל, מועדים וימי צום לאורך השנה, כולל ההיסטוריה, ההלכות, המנהגים, המאכלים והמשמעות הרוחנית שלהם."
+  },
+  "category": "daily-living",
+  "subcategory": "holidays",
+  "tags": {
+    "en": [
+      "Jewish holidays",
+      "Rosh Hashanah",
+      "Yom Kippur",
+      "Sukkot",
+      "Chanukah",
+      "Purim",
+      "Passover",
+      "Shavuot",
+      "Tisha B'Av",
+      "Tu BiShvat",
+      "Lag BaOmer",
+      "Fast days",
+      "Jewish calendar",
+      "Jewish festivals",
+      "Jewish traditions",
+      "High Holy Days",
+      "Pilgrimage festivals",
+      "Shofar",
+      "Menorah",
+      "Megillah",
+      "Sukkah",
+      "Four Species",
+      "Jewish customs",
+      "Jewish laws",
+      "Jewish prayers"
+    ],
+    "zh": [
+      "犹太节日",
+      "犹太新年",
+      "赎罪日",
+      "住棚节",
+      "光明节",
+      "普珥节",
+      "逾越节",
+      "五旬节",
+      "圣殿被毁日",
+      "植树节",
+      "俄梅珥第33天",
+      "斋日",
+      "犹太历法",
+      "犹太庆典",
+      "犹太传统",
+      "大赎罪日",
+      "朝圣节",
+      "羊角号",
+      "灯台",
+      "以斯帖记",
+      "棚屋",
+      "四种植物",
+      "犹太习俗",
+      "犹太法律",
+      "犹太祈祷"
+    ],
+    "he": [
+      "חגי ישראל",
+      "ראש השנה",
+      "יום כיפור",
+      "סוכות",
+      "חנוכה",
+      "פורים",
+      "פסח",
+      "שבועות",
+      "תשעה באב",
+      "טו בשבט",
+      "לג בעומר",
+      "ימי צום",
+      "לוח עברי",
+      "מועדי ישראל",
+      "מסורת יהודית",
+      "ימים נוראים",
+      "שלוש רגלים",
+      "שופר",
+      "מנורה",
+      "מגילה",
+      "סוכה",
+      "ארבעת המינים",
+      "מנהגי ישראל",
+      "הלכה",
+      "תפילות"
+    ]
+  },
+  "holidays_covered": [
+    {
+      "name": {
+        "en": "Rosh Hashanah",
+        "zh": "犹太新年",
+        "he": "ראש השנה"
+      },
+      "hebrew_date": "1-2 Tishrei",
+      "key_observances": [
+        "Shofar blowing",
+        "Tashlich",
+        "Simanim (symbolic foods)",
+        "Special prayers"
+      ]
+    },
+    {
+      "name": {
+        "en": "Yom Kippur",
+        "zh": "赎罪日",
+        "he": "יום כיפור"
+      },
+      "hebrew_date": "10 Tishrei",
+      "key_observances": [
+        "25-hour fast",
+        "Kol Nidrei",
+        "Vidui (confession)",
+        "Neilah",
+        "Five prohibitions"
+      ]
+    },
+    {
+      "name": {
+        "en": "Sukkot",
+        "zh": "住棚节",
+        "he": "סוכות"
+      },
+      "hebrew_date": "15-21 Tishrei",
+      "key_observances": [
+        "Building and dwelling in sukkah",
+        "Four Species (lulav, etrog, hadassim, aravot)",
+        "Ushpizin",
+        "Hoshana Rabbah"
+      ]
+    },
+    {
+      "name": {
+        "en": "Shemini Atzeret / Simchat Torah",
+        "zh": "圣会八日 / 律法欢庆节",
+        "he": "שמיני עצרת / שמחת תורה"
+      },
+      "hebrew_date": "22-23 Tishrei",
+      "key_observances": [
+        "Geshem (rain prayer)",
+        "Completion of Torah reading cycle",
+        "Hakafot (dancing with Torah scrolls)",
+        "Yizkor"
+      ]
+    },
+    {
+      "name": {
+        "en": "Chanukah",
+        "zh": "光明节",
+        "he": "חנוכה"
+      },
+      "hebrew_date": "25 Kislev - 2 Tevet",
+      "key_observances": [
+        "Menorah lighting",
+        "Blessings",
+        "Latkes and sufganiyot",
+        "Dreidel game",
+        "Story of Maccabees"
+      ]
+    },
+    {
+      "name": {
+        "en": "Tu BiShvat",
+        "zh": "植树节",
+        "he": "טו בשבט"
+      },
+      "hebrew_date": "15 Shevat",
+      "key_observances": [
+        "Tu BiShvat seder",
+        "Eating fruits",
+        "Seven species of Israel",
+        "Environmental awareness"
+      ]
+    },
+    {
+      "name": {
+        "en": "Purim",
+        "zh": "普珥节",
+        "he": "פורים"
+      },
+      "hebrew_date": "14 Adar",
+      "key_observances": [
+        "Megillah reading",
+        "Mishloach manot (food gifts)",
+        "Matanot la'evyonim (gifts to poor)",
+        "Festive meal",
+        "Costumes",
+        "Hamantaschen"
+      ]
+    },
+    {
+      "name": {
+        "en": "Passover",
+        "zh": "逾越节",
+        "he": "פסח"
+      },
+      "hebrew_date": "15-22 Nissan",
+      "key_observances": [
+        "Seder",
+        "Matzah",
+        "Avoiding chametz",
+        "Four questions",
+        "Exodus story"
+      ]
+    },
+    {
+      "name": {
+        "en": "Lag BaOmer",
+        "zh": "俄梅珥第33天",
+        "he": "לג בעומר"
+      },
+      "hebrew_date": "18 Iyar",
+      "key_observances": [
+        "Bonfires",
+        "Pilgrimage to Meron",
+        "First haircut (upsherin)",
+        "Bows and arrows",
+        "Rabbi Shimon bar Yochai"
+      ]
+    },
+    {
+      "name": {
+        "en": "Shavuot",
+        "zh": "五旬节",
+        "he": "שבועות"
+      },
+      "hebrew_date": "6 Sivan",
+      "key_observances": [
+        "Tikkun Leil Shavuot (all-night study)",
+        "Reading Ten Commandments",
+        "Book of Ruth",
+        "Dairy foods",
+        "Decorating with greenery"
+      ]
+    },
+    {
+      "name": {
+        "en": "Tisha B'Av",
+        "zh": "圣殿被毁日",
+        "he": "תשעה באב"
+      },
+      "hebrew_date": "9 Av",
+      "key_observances": [
+        "25-hour fast",
+        "Reading Eicha (Lamentations)",
+        "Kinot (elegies)",
+        "Five prohibitions",
+        "Mourning for Temple destruction"
+      ]
+    },
+    {
+      "name": {
+        "en": "Fast of Gedaliah",
+        "zh": "基大利禁食",
+        "he": "צום גדליה"
+      },
+      "hebrew_date": "3 Tishrei",
+      "key_observances": [
+        "Dawn-to-nightfall fast",
+        "Commemoration of Gedaliah's assassination"
+      ]
+    },
+    {
+      "name": {
+        "en": "Tenth of Tevet",
+        "zh": "提别月十日",
+        "he": "עשרה בטבת"
+      },
+      "hebrew_date": "10 Tevet",
+      "key_observances": [
+        "Dawn-to-nightfall fast",
+        "Siege of Jerusalem",
+        "Kaddish for Holocaust victims"
+      ]
+    },
+    {
+      "name": {
+        "en": "Seventeenth of Tammuz",
+        "zh": "塔模斯月十七日",
+        "he": "שבעה עשר בתמוז"
+      },
+      "hebrew_date": "17 Tammuz",
+      "key_observances": [
+        "Dawn-to-nightfall fast",
+        "Beginning of Three Weeks",
+        "Five tragedies"
+      ]
+    },
+    {
+      "name": {
+        "en": "Fast of Esther",
+        "zh": "以斯帖禁食",
+        "he": "תענית אסתר"
+      },
+      "hebrew_date": "13 Adar",
+      "key_observances": [
+        "Dawn-to-nightfall fast",
+        "Preparation for Purim",
+        "Esther's three-day fast"
+      ]
+    }
+  ],
+  "word_count": {
+    "en": 6850,
+    "zh": 3400,
+    "he": 6750
+  },
+  "reading_time_minutes": {
+    "en": 28,
+    "zh": 15,
+    "he": 27
+  },
+  "author": "Torah Light Content Team",
+  "last_updated": "2026-03-20",
+  "version": "1.0",
+  "content_type": "comprehensive_guide",
+  "audience": "general",
+  "difficulty_level": "beginner_to_intermediate",
+  "related_topics": [
+    "Jewish calendar",
+    "Shabbat observance",
+    "Jewish prayers",
+    "Kosher dietary laws",
+    "Torah study",
+    "Jewish lifecycle events",
+    "Synagogue customs"
+  ],
+  "educational_objectives": [
+    "Understand the historical and spiritual significance of each Jewish holiday",
+    "Learn the specific laws and customs associated with each observance",
+    "Discover traditional foods and their symbolic meanings",
+    "Appreciate the cyclical nature of the Jewish calendar",
+    "Connect ancient traditions to modern practice",
+    "Recognize the diversity of Jewish holiday observances across communities"
+  ],
+  "seo": {
+    "meta_description": {
+      "en": "Complete guide to Jewish holidays including Rosh Hashanah, Yom Kippur, Chanukah, Purim, Passover, and more. Learn about customs, laws, foods, and spiritual meanings.",
+      "zh": "犹太节日完整指南,包括犹太新年、赎罪日、光明节、普珥节、逾越节等。了解习俗、法律、食物和精神意义。",
+      "he": "מדריך מלא לחגי ישראל כולל ראש השנה, יום כיפור, חנוכה, פורים, פסח ועוד. למידה על מנהגים, הלכות, מאכלים ומשמעויות רוחניות."
+    },
+    "keywords": {
+      "en": "Jewish holidays, High Holy Days, Jewish festivals, Jewish calendar, Rosh Hashanah shofar, Yom Kippur fasting, Sukkot sukkah, Chanukah menorah, Purim megillah, Passover seder, Shavuot Torah, Jewish traditions, Jewish customs",
+      "zh": "犹太节日, 大赎罪日, 犹太庆典, 犹太历法, 犹太新年羊角号, 赎罪日禁食, 住棚节棚屋, 光明节灯台, 普珥节以斯帖记, 逾越节晚餐, 五旬节托拉, 犹太传统, 犹太习俗",
+      "he": "חגי ישראל, ימים נוראים, מועדי ישראל, לוח עברי, שופר ראש השנה, צום יום כיפור, סוכת סוכות, מנורת חנוכה, מגילת פורים, סדר פסח, תורה שבועות, מסורת יהודית, מנהגי ישראל"
+    }
+  },
+  "content_structure": {
+    "sections": [
+      "Rosh Hashanah - The Jewish New Year",
+      "Yom Kippur - The Day of Atonement",
+      "Sukkot - The Festival of Booths",
+      "Shemini Atzeret and Simchat Torah",
+      "Chanukah - The Festival of Lights",
+      "Purim - The Festival of Lots",
+      "Passover - The Festival of Freedom",
+      "Shavuot - The Festival of Weeks",
+      "Tisha B'Av - The Ninth of Av",
+      "Tu BiShvat - The New Year for Trees",
+      "Lag BaOmer - The 33rd Day of the Omer",
+      "The Minor Fast Days",
+      "The Cycle of Jewish Time"
+    ],
+    "subsections_per_holiday": [
+      "Historical background and significance",
+      "Date and timing",
+      "Laws and prohibitions",
+      "Customs and traditions",
+      "Special prayers and liturgy",
+      "Traditional foods and their meanings",
+      "Modern observance practices"
+    ]
+  },
+  "cultural_notes": {
+    "en": "This guide presents traditional Jewish observances as practiced across various denominations. Customs may vary between Ashkenazi, Sephardic, and other Jewish communities. The content reflects mainstream Orthodox, Conservative, and Reform practices where applicable.",
+    "zh": "本指南介绍了各教派实践的传统犹太仪式。习俗可能在阿什肯纳兹、塞法迪和其他犹太社区之间有所不同。内容反映了主流正统派、保守派和改革派的做法(如适用)。",
+    "he": "מדריך זה מציג את הטקסים היהודיים המסורתיים כפי שנהוגים בזרמים שונים. המנהגים עשויים להשתנות בין קהילות אשכנזיות, ספרדיות ויהודיות אחרות. התוכן משקף את הנוהג המרכזי האורתודוקסי, הקונסרבטיבי והרפורמי במידת הצורך."
+    }
+  },
+  "accessibility": {
+    "language_level": "Intermediate - suitable for learners and those seeking deeper understanding",
+    "translations_available": ["en", "zh", "he"],
+    "glossary_needed": true,
+    "recommended_supplementary_materials": [
+      "Hebrew calendar converter",
+      "Prayer book (Siddur)",
+      "Holiday-specific guides",
+      "Audio recordings of prayers and blessings"
+    ]
+  }
+}

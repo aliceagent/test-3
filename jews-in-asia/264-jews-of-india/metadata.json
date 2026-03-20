@@ -1,0 +1,168 @@
+{
+  "id": 264,
+  "title": "The Jews of India: Three Distinct Communities",
+  "title_zh": "印度的犹太人:三个独特的社群",
+  "title_he": "יהודי הודו: שלוש קהילות מובחנות",
+  "section": "jews-in-asia",
+  "slug": "jews-of-india",
+  "author": "Torah Light Writer",
+  "date_created": "2026-03-19",
+  "word_count": {
+    "en": 5420,
+    "zh": 4850,
+    "he": 5180
+  },
+  "languages": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "tags": [
+    "JewsOfIndia",
+    "CochinJews",
+    "BeneIsrael",
+    "BaghdadiJews",
+    "IndianJewry",
+    "JewishDiaspora",
+    "JewsInAsia",
+    "Kerala",
+    "Mumbai",
+    "SassoonFamily",
+    "JewishHistory",
+    "CulturalSynthesis",
+    "ReligiousTolerance",
+    "Aliyah",
+    "JewishIdentity",
+    "ParadesiSynagogue",
+    "印度犹太人",
+    "科钦犹太人",
+    "本尼以色列",
+    "巴格达犹太人",
+    "יהודיהודו",
+    "יהודיקוצין",
+    "בניישראל",
+    "יהודיבגדאד"
+  ],
+  "historical_periods": [
+    {
+      "jewish": "King Solomon Era",
+      "dates": "~970-931 BCE",
+      "chinese": "Western Zhou Dynasty (西周)"
+    },
+    {
+      "jewish": "First Temple Destruction",
+      "dates": "586 BCE",
+      "chinese": "Late Spring and Autumn Period (春秋晚期)"
+    },
+    {
+      "jewish": "Copper Plate Inscriptions",
+      "dates": "~1000 CE",
+      "chinese": "Northern Song Dynasty (北宋)"
+    },
+    {
+      "jewish": "Spanish Inquisition refugees",
+      "dates": "15th-16th centuries",
+      "chinese": "Ming Dynasty (明朝)"
+    },
+    {
+      "jewish": "Greek Oppression (Bene Israel origin)",
+      "dates": "~175-140 BCE",
+      "chinese": "Western Han Dynasty (西汉)"
+    },
+    {
+      "jewish": "British Colonial Period",
+      "dates": "18th-20th centuries",
+      "chinese": "Qing Dynasty and Republican Period (清朝-民国)"
+    },
+    {
+      "jewish": "Indian Independence",
+      "dates": "1947",
+      "chinese": "Chinese Civil War and Early PRC (中华人民共和国成立初期)"
+    }
+  ],
+  "key_figures": [
+    "Joseph Rabban",
+    "David Sassoon",
+    "Bhaskara Ravi Varma"
+  ],
+  "key_locations": [
+    "Cochin (Kochi), Kerala",
+    "Mumbai (Bombay)",
+    "Konkan Coast",
+    "Paradesi Synagogue",
+    "Maharashtra"
+  ],
+  "communities": [
+    {
+      "name": "Cochin Jews (Malabar Jews)",
+      "origin": "Ancient settlers, possibly from King Solomon's time",
+      "sub_groups": ["White Jews (Paradesi)", "Black Jews (Malabari)", "Brown Jews (Meshuchrarim)"]
+    },
+    {
+      "name": "Bene Israel",
+      "origin": "Shipwreck survivors from Galilee (~175-140 BCE)",
+      "location": "Konkan Coast, Maharashtra, Mumbai",
+      "peak_population": "~20,000"
+    },
+    {
+      "name": "Baghdadi Jews",
+      "origin": "18th-19th century migrants from Iraq, Syria, Ottoman Empire",
+      "notable_families": ["Sassoon Family"]
+    }
+  ],
+  "current_statistics": {
+    "india_population": "4,000-5,000",
+    "israel_population": "85,000+",
+    "migration_period": "1948-1970s",
+    "major_israeli_cities": ["Beersheba", "Dimona"]
+  },
+  "cultural_contributions": [
+    "Unique Jewish-Indian fusion cuisine",
+    "Synagogue architecture blending Indian and Jewish styles",
+    "Jewish-Malayalam, Judeo-Arabic, and Marathi-Hebrew linguistic synthesis",
+    "Sassoon family philanthropic institutions",
+    "Distinguished military service records",
+    "Bridge between Indian and Israeli societies"
+  ],
+  "key_sites": [
+    {
+      "name": "Paradesi Synagogue",
+      "location": "Cochin, Kerala",
+      "built": 1568,
+      "notable_features": "Chinese porcelain tiles, Belgian chandeliers, copper floor"
+    },
+    {
+      "name": "Keneseth Eliyahoo Synagogue",
+      "location": "Mumbai"
+    },
+    {
+      "name": "Magen David Synagogue",
+      "location": "Mumbai"
+    },
+    {
+      "name": "Indian Jewish Heritage Centre",
+      "location": "Mumbai"
+    }
+  ],
+  "lessons": [
+    "Judaism's universal adaptability across cultures",
+    "Power of tolerance in allowing minority communities to thrive",
+    "Challenge of maintaining identity without external pressure",
+    "Multiple legitimate paths within Judaism",
+    "Cultural synthesis without assimilation is possible"
+  ],
+  "bibliography_count": 8,
+  "status": "completed",
+  "quality_check": {
+    "chinese_historical_context": true,
+    "bibliography_urls": true,
+    "three_language_versions": true,
+    "tags_section": true,
+    "header_image_description": true,
+    "word_count_met": {
+      "en": true,
+      "zh": true,
+      "he": true
+    }
+  }
+}

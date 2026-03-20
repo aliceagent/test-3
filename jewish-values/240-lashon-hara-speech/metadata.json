@@ -1,0 +1,114 @@
+{
+  "id": 240,
+  "title": "Lashon Hara: The Power and Danger of Speech",
+  "title_zh": "恶语伤人：言语的力量与危险",
+  "title_he": "לשון הרע: הכוח והסכנה של דיבור",
+  "section": "jewish-values",
+  "slug": "lashon-hara-speech",
+  "author": "Torah Light Writing Team",
+  "date_created": "2026-03-19",
+  "word_count": {
+    "en": 1450,
+    "zh": 850,
+    "he": 920
+  },
+  "languages": ["en", "zh", "he"],
+  "tags": [
+    "LashonHara",
+    "SpeechEthics",
+    "JewishValues",
+    "Mussar",
+    "ChofetzChaim",
+    "ProperSpeech",
+    "Gossip",
+    "言语伦理",
+    "慎言",
+    "EthicalLiving",
+    "DailyJudaism",
+    "TongueGuard",
+    "PositiveSpeech",
+    "Rechilut",
+    "Slander",
+    "JewishLaw",
+    "Halacha",
+    "InterpersonalEthics",
+    "BeinAdamLChavero",
+    "儒家",
+    "ConfucianParallels",
+    "לשוןהרע",
+    "אתיקתדיבור"
+  ],
+  "key_concepts": [
+    "Lashon hara (harmful speech)",
+    "Seven conditions for permitted negative speech",
+    "Cultural parallels with Confucian and Daoist thought",
+    "Digital age speech ethics",
+    "Power of words to build or destroy"
+  ],
+  "target_audience": "Chinese native Mandarin speakers with no prior Jewish knowledge",
+  "reading_level": "Intermediate",
+  "historical_periods": [
+    {
+      "jewish": "Mishnaic Period",
+      "dates": "70-200 CE",
+      "chinese_equivalent": "Han Dynasty (汉朝)"
+    },
+    {
+      "jewish": "Talmudic Period",
+      "dates": "200-500 CE",
+      "chinese_equivalent": "Three Kingdoms to Jin Dynasty (汉朝至晋朝)"
+    },
+    {
+      "jewish": "Chofetz Chaim",
+      "dates": "1838-1933 CE",
+      "chinese_equivalent": "Late Qing Dynasty (晚清)"
+    },
+    {
+      "jewish": "Wilderness Period (Miriam's punishment)",
+      "dates": "~1300 BCE",
+      "chinese_equivalent": "Late Shang Dynasty (商朝晚期)"
+    }
+  ],
+  "primary_sources": [
+    "Leviticus 19:16",
+    "Numbers 12:1-15",
+    "Psalms 34:13-14",
+    "Talmud Arachin 15b",
+    "Talmud Avodah Zarah 19b",
+    "Chofetz Chaim by Rabbi Yisrael Meir Kagan"
+  ],
+  "cultural_parallels": [
+    {
+      "concept": "Cautious Speech (慎言)",
+      "tradition": "Confucian",
+      "reference": "Analects of Confucius"
+    },
+    {
+      "concept": "Wu Wei (无为) - knowing when not to speak",
+      "tradition": "Daoist"
+    },
+    {
+      "concept": "Right Speech (samma vaca)",
+      "tradition": "Buddhist",
+      "reference": "Noble Eightfold Path"
+    },
+    {
+      "concept": "Ren (仁) - benevolence/humaneness",
+      "tradition": "Confucian"
+    }
+  ],
+  "practical_applications": [
+    "Workplace gossip avoidance",
+    "Social media ethics",
+    "Family dynamics",
+    "Professional references",
+    "Digital communication guidelines",
+    "30-day speech awareness challenge"
+  ],
+  "status": "complete",
+  "qa_status": "pending",
+  "bibliography_verified": true,
+  "three_language_consistency": true,
+  "chinese_dynasty_mappings": true,
+  "header_image_description": true
+}

@@ -1,0 +1,99 @@
+{
+  "id": 144,
+  "title": {
+    "en": "The Haggadah's Four Sons: Which One Are You?",
+    "he": "ארבעה בנים בהגדה: איזה מהם אתה?",
+    "zh": "哈格达的四子：你是哪一个？"
+  },
+  "description": {
+    "en": "A deep dive into the Wise, Wicked, Simple, and Silent children — what each represents and how to engage every type of learner.",
+    "he": "עיון מעמיק בילדים החכם, הרשע, התם והשתקן - מה כל אחד מייצג וכיצד לעסוק עם כל סוג לומד.",
+    "zh": "深入探讨智慧、邪恶、单纯和沉默的孩子——每个代表什么以及如何与每种类型的学习者互动。"
+  },
+  "section": "passover-seder",
+  "category": "jewish-education",
+  "date": "2026-03-18",
+  "author": "Torah Light Team",
+  "language": [
+    "en",
+    "he",
+    "zh"
+  ],
+  "readingTime": {
+    "en": 12,
+    "he": 9,
+    "zh": 8
+  },
+  "wordCount": {
+    "en": 2850,
+    "he": 1920,
+    "zh": 1650
+  },
+  "difficulty": "intermediate",
+  "audience": [
+    "families",
+    "educators",
+    "students",
+    "parents",
+    "community-leaders"
+  ],
+  "themes": [
+    "education-methodology",
+    "personality-types",
+    "jewish-parenting",
+    "seder-preparation",
+    "cultural-wisdom",
+    "cross-cultural-learning"
+  ],
+  "relatedTexts": [
+    "mechilta",
+    "haggadah-shel-pesach",
+    "mishnah"
+  ],
+  "culturalReferences": {
+    "chinese": [
+      "Tang Dynasty (618-907 CE)",
+      "Song Dynasty (960-1279 CE)",
+      "Ming Dynasty (1368-1644 CE)",
+      "Han Dynasty (206 BCE - 220 CE)",
+      "Yuan Dynasty (1271-1368 CE)",
+      "Chinese cyclical philosophy",
+      "Confucian values"
+    ]
+  },
+  "headerImage": {
+    "description": "A classical Chinese-style illustration showing four young scholars around a traditional study table, each representing different learning approaches - one engaged and questioning, one turning away dismissively, one listening simply, and one sitting silently. The scene is set against the backdrop of a traditional Chinese courtyard with lanterns, symbolizing the Four Sons across cultures and dynasties.",
+    "style": "traditional-chinese-art",
+    "elements": [
+      "scholars",
+      "study-table",
+      "courtyard",
+      "lanterns",
+      "cross-cultural-symbolism"
+    ]
+  },
+  "educationalObjectives": [
+    "Understanding diverse learning styles",
+    "Recognizing different approaches to tradition",
+    "Developing inclusive educational practices",
+    "Fostering respect for individual differences",
+    "Building bridges across cultural wisdom traditions"
+  ],
+  "practicalApplications": [
+    "Seder night discussions",
+    "Jewish education curriculum",
+    "Parent-child conversations",
+    "Community outreach programs",
+    "Interfaith dialogue"
+  ],
+  "keywords": [
+    "haggadah",
+    "four-sons",
+    "passover",
+    "education",
+    "learning-styles",
+    "pedagogy",
+    "seder",
+    "jewish-wisdom"
+  ]
+}

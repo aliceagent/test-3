@@ -1,0 +1,89 @@
+{
+  "id": 99,
+  "title": {
+    "en": "What is the Messiah? The Jewish View Explained Clearly",
+    "zh": "什么是弥赛亚?犹太教观点详解",
+    "he": "מהו המשיח? ההשקפה היהודית המוסברת בבירור"
+  },
+  "slug": "what-is-messiah",
+  "section": "messiah",
+  "batch": "100",
+  "author": "Torah Light Editorial Team",
+  "dateCreated": "2026-03-18",
+  "language": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "primarySources": [
+    "Isaiah 11:1-10",
+    "Maimonides, Mishneh Torah, Laws of Kings 11-12",
+    "Talmud Bavli, Sanhedrin 98a-99a"
+  ],
+  "hebrewReferences": [
+    "ישעיהו יא:א-י",
+    "רמב״ם, משנה תורה, הלכות מלכים יא-יב",
+    "תלמוד בבלי, סנהדרין צח ע״א-צט ע״א"
+  ],
+  "culturalParallels": [
+    "Confucian ideal of sage-king (圣王, shèng wáng)",
+    "Daoist concept of perfected world harmony",
+    "Chinese messianic movements and millennial hopes",
+    "Universal peace as shared ideal"
+  ],
+  "wordCount": {
+    "en": 2900,
+    "zh": 2300,
+    "he": 2700
+  },
+  "readingTime": {
+    "en": "12-15 minutes",
+    "zh": "10-12 minutes",
+    "he": "11-14 minutes"
+  },
+  "targetAudience": "Chinese readers exploring Jewish theology; those confused by Christian vs. Jewish concepts of messiah",
+  "difficulty": "Beginner to Intermediate",
+  "relatedArticles": [
+    100,
+    101,
+    102
+  ],
+  "bibliography": [
+    {
+      "type": "primary",
+      "title": "Isaiah 11:1-10",
+      "url": "https://www.sefaria.org/Isaiah.11.1-10",
+      "verified": false
+    },
+    {
+      "type": "primary",
+      "title": "Maimonides, Mishneh Torah, Laws of Kings 11-12",
+      "url": "https://www.sefaria.org/Mishneh_Torah,_Kings_and_Wars.11",
+      "verified": false
+    },
+    {
+      "type": "primary",
+      "title": "Talmud Bavli, Sanhedrin 98a-99a",
+      "url": "https://www.sefaria.org/Sanhedrin.98a",
+      "verified": false
+    }
+  ],
+  "keywords": [
+    "Messiah",
+    "Mashiach",
+    "Jewish theology",
+    "messianic age",
+    "Maimonides",
+    "Isaiah",
+    "redemption",
+    "Jewish-Christian differences",
+    "Chinese parallels",
+    "sage-king",
+    "world peace"
+  ],
+  "summary": {
+    "en": "A clear explanation of the Jewish concept of the Messiah (Mashiach) as a human leader who will bring world peace, rebuild the Temple, and gather the Jewish exiles. Distinguishes Jewish beliefs from Christian theology and draws parallels to Chinese concepts of the ideal sage-king.",
+    "zh": "清楚解释犹太教关于弥赛亚(马希亚赫)的概念,即将带来世界和平、重建圣殿并聚集犹太流散者的人类领袖。区分犹太信仰与基督教神学,并与中国理想圣王概念进行对比。",
+    "he": "הסבר ברור של המושג היהודי של המשיח (משיח) כמנהיג אנושי שיביא שלום עולמי, יבנה מחדש את בית המקדש ויאסוף את הגלויות היהודיות. מבחין בין אמונות יהודיות לתיאולוגיה נוצרית ומצייר הקבלות למושגים סיניים של מלך-חכם אידיאלי."
+  }
+}

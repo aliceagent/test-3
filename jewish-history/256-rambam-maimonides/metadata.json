@@ -1,0 +1,75 @@
+{
+  "id": 256,
+  "title": "The Rambam: Doctor, Philosopher, and Judaism's Greatest Codifier",
+  "title_zh": "拉姆班:医生、哲学家与犹太教最伟大的法典编纂者",
+  "title_he": "הרמב\"ם: רופא, פילוסוף ומקודד הגדול ביותר של היהדות",
+  "section": "jewish-history",
+  "slug": "rambam-maimonides",
+  "word_count": {
+    "en": 5420,
+    "zh": 4850,
+    "he": 4680
+  },
+  "character_count": {
+    "zh": 7789
+  },
+  "status": "complete",
+  "languages": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "tags": [
+    "Rambam",
+    "Maimonides",
+    "JewishHistory",
+    "JewishPhilosophy",
+    "JewishLaw",
+    "MishnehTorah",
+    "GuideForThePerplexed",
+    "Medicine",
+    "SouthernSongDynasty",
+    "南宋",
+    "IntellectualHistory",
+    "FaithAndReason",
+    "TorahScholar",
+    "MedicalEthics",
+    "JewishLeadership",
+    "ThirteenPrinciples",
+    "Codification",
+    "PhilosophicalTheology",
+    "HolisticMedicine"
+  ],
+  "historical_period": {
+    "jewish": "Medieval Rabbis Period (1000-1500 CE)",
+    "chinese_equivalent": "Southern Song Dynasty (南宋, 1127-1279 CE)",
+    "years": "1138-1204 CE"
+  },
+  "key_figures": [
+    {
+      "name": "Rabbi Moshe ben Maimon (Rambam/Maimonides)",
+      "role": "Subject of article - codifier, philosopher, physician",
+      "years": "1138-1204 CE"
+    },
+    {
+      "name": "Sultan Saladin",
+      "role": "Muslim leader whom the Rambam served as physician",
+      "years": "1137-1193 CE"
+    },
+    {
+      "name": "Ramban (Nachmanides)",
+      "role": "Later scholar who debated Rambam's philosophical approach",
+      "years": "1194-1270 CE"
+    }
+  ],
+  "bibliography_count": 8,
+  "cultural_parallels": [
+    "Neo-Confucian integration of Buddhist and Daoist concepts during Song Dynasty",
+    "Chinese legal codification comparable to Mishneh Torah",
+    "Traditional Chinese medicine's holistic approach paralleling Rambam's medical philosophy",
+    "Confucian scholar-official ideal (士大夫) resembling Rambam's integrated leadership",
+    "Zhu Xi (朱熹) as contemporary comprehensive thinker in Chinese tradition"
+  ],
+  "created": "2026-03-19T02:14:00Z",
+  "author": "Torah Light Writing Team"
+}

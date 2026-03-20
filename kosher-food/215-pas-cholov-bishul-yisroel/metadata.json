@@ -1,0 +1,90 @@
+{
+  "id": 215,
+  "title": {
+    "en": "Pas Yisroel, Cholov Yisroel, and Bishul Yisroel: The Extra Standards",
+    "zh": "犹太面包、犹太牛奶和犹太烹饪:超越基础的洁食标准",
+    "he": "פת ישראל, חלב ישראל ובישול ישראל: הסטנדרטים המוגברים"
+  },
+  "section": "kosher-food",
+  "slug": "pas-cholov-bishul-yisroel",
+  "author": "Torah Light Team",
+  "created": "2026-03-19",
+  "languages": ["en", "zh", "he"],
+  "topics": [
+    "kashrut",
+    "food laws",
+    "pas yisroel",
+    "cholov yisroel",
+    "bishul yisroel",
+    "rabbinic law",
+    "halachic standards",
+    "orthodox judaism"
+  ],
+  "difficulty": "intermediate",
+  "readingTime": {
+    "en": "8-10 minutes",
+    "zh": "6-8 minutes",
+    "he": "8-10 minutes"
+  },
+  "chineseParallels": [
+    "Imperial banquet traditions and food hierarchy",
+    "Historical food purity regulations in Chinese dynasties",
+    "Social class and food sharing customs",
+    "Market inspection systems for food quality"
+  ],
+  "keywords": {
+    "en": [
+      "kosher food",
+      "pas yisroel",
+      "cholov yisroel",
+      "bishul yisroel",
+      "jewish bread",
+      "jewish milk",
+      "jewish cooking",
+      "kashrut standards",
+      "rabbi moshe feinstein",
+      "cholov stam",
+      "pas palter",
+      "hidur mitzvah"
+    ],
+    "zh": [
+      "洁食",
+      "犹太面包",
+      "犹太牛奶",
+      "犹太烹饪",
+      "洁食标准",
+      "拉比法律",
+      "哈拉卡",
+      "正统犹太教",
+      "食品纯度"
+    ],
+    "he": [
+      "כשרות",
+      "פת ישראל",
+      "חלב ישראל",
+      "בישול ישראל",
+      "חלב סתם",
+      "פת פלטר",
+      "הידור מצווה",
+      "הלכה",
+      "שולחן מלכים"
+    ]
+  },
+  "talmudReferences": [
+    "Avodah Zarah 35b-36a"
+  ],
+  "halachicSources": [
+    "Shulchan Aruch, Yoreh De'ah 112-113",
+    "Shulchan Aruch, Yoreh De'ah 115",
+    "Shulchan Aruch, Yoreh De'ah 112:2",
+    "Igrot Moshe, Yoreh De'ah 1:47-49",
+    "Mishnah Berurah 603:1"
+  ],
+  "targetAudience": "Chinese native Mandarin speakers with no prior Jewish knowledge",
+  "pedagogicalApproach": "Explains enhanced kashrut standards with cultural parallels to Chinese traditions",
+  "wordCount": {
+    "en": 1453,
+    "zh": 1026,
+    "he": 1312
+  }
+}

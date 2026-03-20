@@ -1,0 +1,122 @@
+{
+  "id": 182,
+  "title": "Who is Strong? One Who Conquers Their Inclination",
+  "title_zh": "谁是强者?克服自己欲望的人",
+  "title_he": "איזהו גיבור? הכובש את יצרו",
+  "section": "pirkei-avot",
+  "slug": "ben-zoma-strength",
+  "author": "Torah Light Project",
+  "date_created": "2026-03-18",
+  "languages": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "source_text": "Pirkei Avot 4:1",
+  "source_quote": "איזהו גיבור? הכובש את יצרו",
+  "source_quote_translation": "Who is strong? One who conquers their inclination",
+  "word_count": {
+    "en": 1465,
+    "zh": 850,
+    "he": 1320
+  },
+  "target_audience": "Chinese Mandarin speakers learning about Judaism",
+  "difficulty_level": "intermediate",
+  "cultural_connections": [
+    "Confucian concept of 克己复礼 (restraining self, returning to propriety)",
+    "Mencius's four sprouts (四端) of moral virtue",
+    "Daodejing Chapter 33: 胜人者有力,胜己者强",
+    "Concept of 君子 (junzi - person of noble character)"
+  ],
+  "key_concepts": [
+    "yetzer-hatov",
+    "yetzer-hara",
+    "self-mastery",
+    "internal-strength",
+    "character-traits",
+    "daily-spiritual-practice"
+  ],
+  "related_articles": [
+    179,
+    180,
+    181,
+    183,
+    184,
+    185,
+    169,
+    173,
+    177
+  ],
+  "bibliography": [
+    {
+      "title": "Pirkei Avot (Ethics of the Fathers)",
+      "chapter": "4:1",
+      "type": "primary_source"
+    },
+    {
+      "title": "Talmud, Tractate Yoma",
+      "page": "69b",
+      "topic": "The necessity of the yetzer hara",
+      "type": "talmud"
+    },
+    {
+      "title": "Talmud, Tractate Kiddushin",
+      "page": "30b",
+      "topic": "Dragging the yetzer to the study hall",
+      "type": "talmud"
+    },
+    {
+      "title": "Talmud, Tractate Berachot",
+      "page": "34b",
+      "topic": "The standing of penitents",
+      "type": "talmud"
+    },
+    {
+      "title": "Talmud, Tractate Sukkah",
+      "page": "52b",
+      "topic": "The yetzer hara growing stronger",
+      "type": "talmud"
+    },
+    {
+      "title": "Mesillat Yesharim (Path of the Upright)",
+      "author": "Rabbi Moshe Chaim Luzzatto",
+      "type": "mussar"
+    },
+    {
+      "title": "Orchot Tzaddikim (Ways of the Righteous)",
+      "type": "mussar",
+      "period": "medieval"
+    },
+    {
+      "title": "Analects (论语)",
+      "author": "Confucius",
+      "type": "chinese_philosophy"
+    },
+    {
+      "title": "Mencius (孟子)",
+      "author": "Mengzi",
+      "type": "chinese_philosophy"
+    },
+    {
+      "title": "Daodejing (道德经)",
+      "author": "Laozi",
+      "chapter": "33",
+      "type": "chinese_philosophy"
+    }
+  ],
+  "notes": "This article draws extensive parallels between Jewish and Chinese philosophical traditions on self-mastery. Emphasizes the universal nature of the teaching while remaining grounded in Jewish sources. Chinese cultural connections include Confucian self-restraint (克己), Mencius's moral cultivation, and Daoist concepts of inner strength.",
+  "keywords": [
+    "pirkei-avot",
+    "ben-zoma",
+    "ethics",
+    "self-control",
+    "yetzer-hara",
+    "mussar",
+    "character-development",
+    "inner-strength",
+    "chinese-parallels",
+    "confucius",
+    "mencius",
+    "laozi"
+  ]
+}

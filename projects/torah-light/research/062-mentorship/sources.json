@@ -1,0 +1,62 @@
+{
+  "article_id": 62,
+  "title": "Jewish Mentorship: How a Teacher-Student Relationship Works in Judaism",
+  "section": "Mentorship",
+  "sources": [
+    {
+      "type": "biblical",
+      "text": "Pirkei Avot 1:6",
+      "content": "Acquire for yourself a teacher and acquire for yourself a friend",
+      "url": "https://www.sefaria.org/Pirkei_Avot.1.6"
+    },
+    {
+      "type": "talmudic",
+      "text": "Berakhot 63b",
+      "content": "I learned much from my teachers, more from my colleagues, and most from my students",
+      "url": "https://www.sefaria.org/Berakhot.63b"
+    },
+    {
+      "type": "biblical",
+      "text": "Proverbs 27:17",
+      "content": "As iron sharpens iron, so one person sharpens another",
+      "url": "https://www.sefaria.org/Proverbs.27.17"
+    },
+    {
+      "type": "talmudic",
+      "text": "Pirkei Avot 1:16",
+      "content": "Rabban Gamliel the son of Rabbi Judah the Prince used to say: Appoint for yourself a teacher",
+      "url": "https://www.sefaria.org/Pirkei_Avot.1.16"
+    },
+    {
+      "type": "historical",
+      "content": "Moses and Joshua - the archetypal teacher-student relationship",
+      "reference": "Exodus 33:11, Numbers 27:18-23"
+    },
+    {
+      "type": "historical",
+      "content": "Elijah and Elisha - prophetic mentorship",
+      "reference": "1 Kings 19:19-21, 2 Kings 2:1-15"
+    },
+    {
+      "type": "concept",
+      "content": "Rav-Talmid relationship as sacred bond beyond academic instruction"
+    },
+    {
+      "type": "concept",
+      "content": "Derech Eretz - proper conduct toward one's teacher"
+    }
+  ],
+  "cultural_parallels": [
+    "Confucian teacher-student relationships (师生关系)",
+    "Daoist master-disciple transmission",
+    "Chinese apprenticeship traditions",
+    "Filial piety extended to teachers (一日为师，终身为父)"
+  ],
+  "key_concepts": [
+    "Rav (רב) - rabbi/teacher",
+    "Talmid (תלמיד) - student/disciple",
+    "Emunat Chachamim - faith in the sages",
+    "Mesorah - chain of tradition",
+    "Shimush - serving/attending one's teacher"
+  ]
+}

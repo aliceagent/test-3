@@ -1,0 +1,159 @@
+{
+  "id": 237,
+  "title": "The Jewish Home: Making Your House a Mikdash Me'at",
+  "title_zh": "犹太家庭：将您的房屋打造成微型圣所",
+  "title_he": "הבית היהודי: הפיכת ביתך למקדש מעט",
+  "section": "jewish-home",
+  "slug": "mikdash-meat-sanctuary",
+  "author": "Torah Light Team",
+  "created_date": "2026-03-19",
+  "word_count": {
+    "en": 5847,
+    "zh": 2943,
+    "he": 3216
+  },
+  "status": "completed",
+  "language_versions": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "tags": [
+    "MikdashMeAt",
+    "JewishHome",
+    "Temple",
+    "Sanctuary",
+    "Mezuzah",
+    "Shabbat",
+    "Hospitality",
+    "Kashrut",
+    "TorahStudy",
+    "HolySpace",
+    "Exile",
+    "DivinPresence",
+    "Shechinah",
+    "KaifengJews",
+    "JewsInAsia",
+    "犹太家庭",
+    "圣所",
+    "微型圣殿",
+    "מקדש_מעט",
+    "בית_המקדש",
+    "שכינה",
+    "Ezekiel",
+    "Kabbalah",
+    "ChassidutThought",
+    "Redemption"
+  ],
+  "target_audience": "Chinese native Mandarin speakers, no background in Judaism",
+  "difficulty_level": "intermediate",
+  "reading_time_minutes": {
+    "en": 23,
+    "zh": 12,
+    "he": 13
+  },
+  "key_concepts": [
+    "Mikdash Me'at (miniature sanctuary)",
+    "Divine Presence (Shechinah) in the home",
+    "Table as altar",
+    "Mezuzah as threshold marker",
+    "Shabbat as Temple time",
+    "Hospitality as worship",
+    "Kashrut as Temple consciousness",
+    "Torah study greater than sacrifices",
+    "Home as continuation of Temple function"
+  ],
+  "historical_periods_mentioned": [
+    {
+      "jewish_period": "Babylonian Exile",
+      "dates": "586-516 BCE",
+      "chinese_equivalent": "Late Spring and Autumn Period (春秋时代晚期)"
+    },
+    {
+      "jewish_period": "Exodus/Wilderness",
+      "dates": "~1300 BCE",
+      "chinese_equivalent": "Late Shang Dynasty (商朝晚期)"
+    },
+    {
+      "jewish_period": "Patriarchal Period (Abraham)",
+      "dates": "~1800 BCE",
+      "chinese_equivalent": "Shang Dynasty (商朝)"
+    },
+    {
+      "jewish_period": "First Temple Period",
+      "dates": "957-586 BCE",
+      "chinese_equivalent": "Western Zhou to Spring and Autumn (西周至春秋)"
+    },
+    {
+      "jewish_period": "Second Temple Period",
+      "dates": "516 BCE - 70 CE",
+      "chinese_equivalent": "Warring States to Han Dynasty (战国至汉朝)"
+    },
+    {
+      "jewish_period": "Kaifeng Jewish Community",
+      "dates": "960-1279 CE",
+      "chinese_equivalent": "Song Dynasty (宋朝)"
+    }
+  ],
+  "biblical_sources": [
+    "Ezekiel 11:16",
+    "Exodus 25:8",
+    "Deuteronomy 6:4-9",
+    "Isaiah 56:7",
+    "Isaiah 1:11-17",
+    "Leviticus 11"
+  ],
+  "talmudic_sources": [
+    "Megillah 29a",
+    "Berachot 55a",
+    "Berachot 26b",
+    "Menachot 33a-34a",
+    "Menachot 33b",
+    "Menachot 110a",
+    "Shabbat 127a",
+    "Yoma 9b",
+    "Sanhedrin 99a",
+    "Pesachim 50b",
+    "Arachin 15b"
+  ],
+  "midrashic_sources": [
+    "Bereishit Rabbah 48:9"
+  ],
+  "other_jewish_texts": [
+    "Mishnah Pirkei Avot 3:3",
+    "Zohar on Shabbat candles",
+    "Chassidic teachings on mikdash me'at",
+    "Maimonides, Laws of Kings and Wars 11:1"
+  ],
+  "chinese_cultural_parallels": [
+    "Imperial Temple of Heaven vs. household altars",
+    "Confucian home libraries and self-cultivation (修身)",
+    "Spring Festival couplets (春联) vs. permanent mezuzah",
+    "Ancestor veneration rituals vs. daily mitzvot"
+  ],
+  "practical_application_sections": [
+    "Week 1: Establish boundaries (mezuzah)",
+    "Week 2: Create rhythms (Shabbat and daily prayer)",
+    "Week 3: Open your doors (hospitality)",
+    "Week 4: Elevate the mundane (kashrut, speech, ethics)"
+  ],
+  "bibliography_count": 14,
+  "all_urls_verified": true,
+  "images": {
+    "header_description": "Chinese ink wash landscape with home, Temple imagery in mist, mezuzah glow"
+  },
+  "related_articles": [
+    94,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    31,
+    65
+  ],
+  "notes": "This article provides a theological and mystical exploration of 'mikdash me'at' (miniature sanctuary), complementing the more practical approach in Article #94. Focuses on Kabbalistic understanding of how homes channel divine presence, the progression from Mishkan to Temple to dispersed holiness, and specific mechanisms (mezuzah as boundary, table as altar, kitchen as preparation chamber, candles as Divine Presence, books as Holy of Holies). Includes extensive guidance for Jews living in Asian cities without large communities, drawing on historical precedent of Kaifeng Jews. Emphasizes that building one's mikdash me'at hastens messianic redemption."
+}

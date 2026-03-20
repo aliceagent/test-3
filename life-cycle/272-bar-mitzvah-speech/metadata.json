@@ -1,0 +1,99 @@
+{
+  "id": 272,
+  "title": "Writing a Bar Mitzvah Speech: A Guide for Boys and Their Fathers",
+  "title_zh": "撰写成人礼演讲稿:给男孩和父亲的指南",
+  "title_he": "כתיבת נאום בר מצווה: מדריך לבנים ולאבותיהם",
+  "section": "life-cycle",
+  "slug": "bar-mitzvah-speech",
+  "author": "Torah Light Project",
+  "date_created": "2026-03-19",
+  "languages": ["en", "zh", "he"],
+  "word_count": {
+    "en": 1485,
+    "zh": 872,
+    "he": 1421
+  },
+  "tags": [
+    "BarMitzvah",
+    "LifeCycle",
+    "TorahStudy",
+    "Gratitude",
+    "Parenting",
+    "ComingOfAge",
+    "PublicSpeaking",
+    "FatherAndSon",
+    "HonoringParents",
+    "孝",
+    "成人礼",
+    "JewishEducation",
+    "Commitment",
+    "Responsibility",
+    "DvarTorah",
+    "FamilyValues",
+    "Tradition",
+    "JewishIdentity"
+  ],
+  "chinese_parallels": [
+    {
+      "concept": "Filial Piety (孝, xiào)",
+      "connection": "Honoring parents in Judaism parallels Confucian filial piety as foundational virtue"
+    },
+    {
+      "concept": "Coming-of-Age Ceremony (冠礼, guàn lǐ)",
+      "connection": "Zhou Dynasty capping ceremony marked transition to adulthood, similar to bar mitzvah"
+    },
+    {
+      "concept": "Han Dynasty (汉朝)",
+      "connection": "Second Temple period and Talmudic era correspond to Han Dynasty period in China"
+    }
+  ],
+  "torah_sources": [
+    {
+      "text": "Exodus 20:12",
+      "topic": "Fifth Commandment - Honor your father and mother",
+      "url": "https://www.sefaria.org/Exodus.20.12"
+    },
+    {
+      "text": "Kiddushin 30b",
+      "topic": "Honoring parents equals honoring God",
+      "url": "https://www.sefaria.org/Kiddushin.30b"
+    },
+    {
+      "text": "Kiddushin 49b",
+      "topic": "Power of spoken commitment",
+      "url": "https://www.sefaria.org/Kiddushin.49b"
+    },
+    {
+      "text": "Avot d'Rabbi Natan 23",
+      "topic": "Beginning of wisdom is silence",
+      "url": "https://www.sefaria.org/Avot_D'Rabbi_Natan.23"
+    }
+  ],
+  "key_concepts": [
+    "Bar Mitzvah - son of the commandment, becoming responsible for mitzvot at age 13",
+    "Hakarat Hatov (הכרת הטוב) - Jewish practice of gratitude and recognition",
+    "Hachnasat Orchim (הכנסת אורחים) - hospitality as sacred value",
+    "D'var Torah - Torah insight and commentary",
+    "Public commitment and the power of spoken words in Jewish tradition",
+    "Father-son relationship in Jewish education and transmission",
+    "Five-part speech structure: opening, Torah insights, gratitude, commitment, closing"
+  ],
+  "target_audience": "Bar mitzvah boys (age 12-13) and their fathers preparing for the ceremony; Jewish families in Chinese-speaking communities",
+  "difficulty_level": "Beginner to Intermediate",
+  "estimated_reading_time": {
+    "en": "12-15 minutes",
+    "zh": "8-10 minutes",
+    "he": "11-14 minutes"
+  },
+  "practical_applications": [
+    "Step-by-step guide to writing a meaningful bar mitzvah speech",
+    "Advice for fathers coaching their sons through speech preparation",
+    "Tips for finding personal Torah insights from weekly portion",
+    "Techniques for expressing authentic gratitude to family and community",
+    "Making realistic, specific commitments for Jewish life after bar mitzvah",
+    "Practice strategies for confident public speaking"
+  ],
+  "status": "complete",
+  "batch": "300",
+  "notes": "Emphasizes authentic voice, meaningful gratitude, and practical commitment over generic platitudes. Includes Chinese cultural parallels on filial piety and coming-of-age traditions. Features detailed advice for both sons and fathers working together."
+}

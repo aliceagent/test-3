@@ -1,0 +1,52 @@
+{
+  "batch": "content-plan",
+  "description": "Torah Light comprehensive content creation from CONTENT_PLAN.md",
+  "phases": {
+    "phase1_essential": [
+      {"id": "shabbat", "section": "daily-living", "status": "in_progress", "priority": 1},
+      {"id": "blessings", "section": "daily-living", "status": "in_progress", "priority": 2},
+      {"id": "conversion", "section": "community-life", "status": "in_progress", "priority": 3},
+      {"id": "prayer", "section": "daily-living", "status": "pending", "priority": 4},
+      {"id": "kosher-food", "section": "daily-living", "status": "pending", "priority": 5},
+      {"id": "torah-study", "section": "foundations", "status": "pending", "priority": 6},
+      {"id": "weekly-parsha", "section": "foundations", "status": "pending", "priority": 7}
+    ],
+    "phase2_core": [
+      {"id": "holidays", "section": "daily-living", "status": "pending"},
+      {"id": "passover-seder", "section": "daily-living", "status": "pending"},
+      {"id": "thirteen-principles", "section": "foundations", "status": "pending"},
+      {"id": "ten-commandments", "section": "foundations", "status": "pending"},
+      {"id": "life-cycle", "section": "community-life", "status": "pending"},
+      {"id": "mitzvah-objects", "section": "daily-living", "status": "pending"},
+      {"id": "jewish-calendar", "section": "daily-living", "status": "pending"}
+    ],
+    "phase3_deeper": [
+      {"id": "jewish-texts", "section": "texts-philosophy", "status": "pending"},
+      {"id": "pirkei-avot", "section": "texts-philosophy", "status": "pending"},
+      {"id": "philosophy", "section": "texts-philosophy", "status": "pending"},
+      {"id": "jewish-history", "section": "history-identity", "status": "pending"},
+      {"id": "chabad", "section": "texts-philosophy", "status": "pending"},
+      {"id": "mussar", "section": "texts-philosophy", "status": "pending"}
+    ],
+    "phase4_identity": [
+      {"id": "jews-in-asia", "section": "history-identity", "status": "pending"},
+      {"id": "ashkenazi-sephardi", "section": "history-identity", "status": "pending"},
+      {"id": "israel", "section": "history-identity", "status": "pending"},
+      {"id": "antisemitism", "section": "history-identity", "status": "pending"},
+      {"id": "messiah", "section": "history-identity", "status": "pending"},
+      {"id": "five-megillot", "section": "foundations", "status": "pending"},
+      {"id": "tabernacle", "section": "history-identity", "status": "pending"}
+    ],
+    "phase5_community": [
+      {"id": "family-purity", "section": "daily-living", "status": "pending"},
+      {"id": "clothing-modesty", "section": "daily-living", "status": "pending"},
+      {"id": "money-laws", "section": "daily-living", "status": "pending"},
+      {"id": "non-jewish-relations", "section": "daily-living", "status": "pending"},
+      {"id": "matchmaking", "section": "community-life", "status": "pending"},
+      {"id": "hebrew-learning", "section": "texts-philosophy", "status": "pending"}
+    ]
+  },
+  "completed": [],
+  "in_progress": ["shabbat", "blessings", "conversion"],
+  "last_updated": "2026-03-20T09:33:00+02:00"
+}

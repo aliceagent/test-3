@@ -1,0 +1,59 @@
+{
+  "id": 330,
+  "title": "Kitniyot: Why Ashkenazi Jews Don't Eat Rice on Pesach (and Sephardim Do)",
+  "title_zh": "Kitniyot（基特尼约特）：为什么德系犹太人逾越节不吃米饭（而塞法迪犹太人可以）",
+  "title_he": "קִטְנִיּוֹת: למה יהודים אשכנזים לא אוכלים אורז בפסח (ויהודים ספרדים כן)",
+  "slug": "kitniyot-ashkenazi-pesach",
+  "section": "holidays",
+  "description": "The history of the kitniyot prohibition, the 2015 ruling allowing some Ashkenazim to eat kitniyot, and the current state of the debate.",
+  "word_count": {
+    "en": 7145,
+    "zh": 2890,
+    "he": 5420
+  },
+  "tags": [
+    "Kitniyot",
+    "Passover",
+    "Pesach",
+    "Ashkenazi",
+    "Sephardi",
+    "Halacha",
+    "JewishLaw",
+    "Minhag",
+    "Holidays",
+    "KosherForPassover",
+    "Rice",
+    "Legumes",
+    "ConservativeJudaism",
+    "Orthodoxy",
+    "JewishCustom",
+    "ChineseCulture",
+    "宋朝",
+    "习俗",
+    "FoodCulture",
+    "JewishUnity"
+  ],
+  "chinese_dynasties_referenced": [
+    {
+      "dynasty": "Song Dynasty",
+      "chinese": "宋朝",
+      "years": "960-1279 CE",
+      "context": "When the kitniyot prohibition emerged in medieval Europe"
+    },
+    {
+      "dynasty": "Ming Dynasty",
+      "chinese": "明朝",
+      "years": "1368-1644 CE",
+      "context": "When the Shulchan Aruch was compiled"
+    }
+  ],
+  "bibliography_count": 10,
+  "files": {
+    "en": "article-en.md",
+    "zh": "article-zh.md",
+    "he": "article-he.md"
+  },
+  "status": "complete",
+  "created": "2026-03-19T07:47:00Z",
+  "author": "Torah Light Writing Team"
+}

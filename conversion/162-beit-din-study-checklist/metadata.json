@@ -1,0 +1,95 @@
+{
+  "id": 162,
+  "title": "What to Learn Before Your Beit Din: A Study Checklist",
+  "title_zh": "在拉比法庭面试前应学习什么:学习清单",
+  "title_he": "מה ללמוד לפני בית הדין: רשימת לימוד",
+  "section": "conversion",
+  "slug": "beit-din-study-checklist",
+  "batch": "200",
+  "languages": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "word_count": {
+    "en": 3246,
+    "zh": 1564,
+    "he": 2387
+  },
+  "topics": [
+    "conversion",
+    "beit din",
+    "study preparation",
+    "Jewish law",
+    "Shabbat",
+    "kashrut",
+    "prayer",
+    "Jewish calendar",
+    "taharat hamishpacha",
+    "lifecycle events",
+    "Jewish texts",
+    "mitzvot"
+  ],
+  "target_audience": "conversion candidates preparing for beit din appearance",
+  "tone": "educational, practical, encouraging",
+  "key_concepts": [
+    "beit din preparation",
+    "essential Jewish knowledge",
+    "Shabbat observance",
+    "kashrut basics",
+    "prayer structure",
+    "Jewish holidays",
+    "family purity",
+    "lifecycle events",
+    "Torah and texts",
+    "Jewish history"
+  ],
+  "chinese_cultural_parallels": [
+    "imperial civil service examination system vs beit din approach",
+    "温故知新 (reviewing old to learn new) study method",
+    "内圣外王 (inner sage, outer king) cultivation concept",
+    "Four Books and Five Classics parallel to Torah study",
+    "Buddhist/Confucian ritual practices vs Jewish prayer"
+  ],
+  "practical_elements": [
+    "12 essential knowledge areas",
+    "study timeline (3-6 months preparation)",
+    "common beit din questions",
+    "how to handle unknown answers",
+    "study strategies and resources"
+  ],
+  "sources": [
+    "Talmud, Shabbat 31a",
+    "Maimonides, Mishneh Torah, Hilchot Issurei Biah, Chapter 14",
+    "Shulchan Aruch, Yoreh Deah 268",
+    "Rabbi Maurice Lamm, Becoming a Jew",
+    "Rabbi Celso Cukierkorn and Rabbi Steven Carr Reuben, The Everything Jewish History and Heritage Book"
+  ],
+  "related_articles": [
+    159,
+    160,
+    161,
+    163,
+    164,
+    165,
+    166,
+    167,
+    168
+  ],
+  "created": "2026-03-18",
+  "status": "complete",
+  "keywords": [
+    "beit din",
+    "conversion",
+    "study preparation",
+    "Jewish law",
+    "Shabbat",
+    "kashrut",
+    "prayer",
+    "Jewish holidays",
+    "conversion checklist",
+    "rabbinical court",
+    "Orthodox conversion",
+    "study guide"
+  ]
+}

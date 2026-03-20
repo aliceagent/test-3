@@ -1,0 +1,88 @@
+{
+  "id": 129,
+  "title": {
+    "en": "Traveling Prayers: Tefilat HaDerech and Blessings for Journeys",
+    "zh": "旅行祈祷：路径之祷（Tefilat HaDerech）与旅程祝福",
+    "he": "תפילות נסיעה: תפילת הדרך וברכות למסעות"
+  },
+  "description": {
+    "en": "The traveler's prayer, when to say it, and other blessings and customs for safe travel — especially useful for frequent flyers in Asia.",
+    "zh": "旅行者的祈祷，何时诵读，以及其他安全旅行的祝福和习俗——特别适用于亚洲的常旅客。",
+    "he": "תפילת הנוסע, מתי לאמרה, וברכות ומנהגים אחרים לנסיעה בטוחה - שימושי במיוחד לנוסעים תכופים באסיה."
+  },
+  "section": "blessings",
+  "publishDate": "2026-03-18",
+  "author": "Torah Light Editorial Team",
+  "sources": [
+    {
+      "title": "Babylonian Talmud, Berakhot 29b-30a",
+      "url": "https://www.sefaria.org/Berakhot.29b.15-30a.1",
+      "type": "primary"
+    },
+    {
+      "title": "Kitzur Shulchan Aruch 68:1",
+      "url": "https://www.sefaria.org/Kitzur_Shulchan_Aruch.68.1",
+      "type": "legal"
+    },
+    {
+      "title": "Tefilat HaDerech - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tefilat_HaDerech",
+      "type": "reference"
+    },
+    {
+      "title": "OU Torah - Airplane Travel Halacha",
+      "url": "https://outorah.org/p/33617/",
+      "type": "contemporary"
+    },
+    {
+      "title": "Chabad.org - What You Need to Know About Plane Travel",
+      "url": "https://www.chabad.org/library/article_cdo/aid/6020010/jewish/What-You-Need-to-Know-About-Plane-Travel.htm",
+      "type": "contemporary"
+    }
+  ],
+  "culturalReferences": [
+    {
+      "period": "Tang Dynasty (618-907 CE)",
+      "context": "Chinese travel prayers and temple customs for mountain journeys",
+      "relevance": "Parallel traditions of seeking divine protection during travel"
+    },
+    {
+      "figure": "Xuanzang (Buddhist monk)",
+      "context": "Epic journey to India for sacred texts, beginning with elaborate protective ceremonies",
+      "relevance": "Universal human practice of ritual preparation for dangerous journeys"
+    },
+    {
+      "concept": "Shanshui (山水) - Mountain-Water",
+      "context": "Classical Chinese understanding of travel as dual physical-spiritual transformation",
+      "relevance": "Cultural parallel to Jewish understanding of journey as sacred passage"
+    }
+  ],
+  "keywords": [
+    "airplane halacha",
+    "journey",
+    "blessings",
+    "prayer",
+    "frequent flyers",
+    "Tefilat HaDerech",
+    "journey prayers",
+    "mountain-water philosophy",
+    "frequent flyer Jewish law",
+    "Asia business travel",
+    "travel blessings",
+    "business travel",
+    "Xuanzang pilgrimage",
+    "safety",
+    "airplane",
+    "Asia travel",
+    "Jewish travel customs",
+    "traveler's prayer",
+    "flight",
+    "travel",
+    "Tang Dynasty travel"
+  ],
+  "readingTime": {
+    "en": "8-10 minutes",
+    "zh": "6-8 minutes",
+    "he": "7-9 minutes"
+  }
+}

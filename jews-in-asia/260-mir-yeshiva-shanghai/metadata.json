@@ -1,0 +1,88 @@
+{
+  "id": 260,
+  "title": "The Mir Yeshiva's Miraculous Journey Through Shanghai",
+  "title_zh": "米尔神学院的上海奇迹之旅",
+  "title_he": "המסע המופלא של ישיבת מיר דרך שנחאי",
+  "section": "jews-in-asia",
+  "slug": "mir-yeshiva-shanghai",
+  "summary": "The remarkable story of how approximately 300 Torah scholars from Poland's Mir Yeshiva escaped Nazi persecution and spent five years (1941-1946) studying in Shanghai, China - the only place in the world that required no visa for entry. Despite extreme poverty, disease, and hardship in the Shanghai Ghetto, the yeshiva maintained its full study schedule, preserving a thousand-year tradition of Lithuanian Jewish scholarship. Today, the Mir Yeshiva thrives with thousands of students in Jerusalem and Brooklyn.",
+  "word_count_en": 2847,
+  "char_count_zh": 4692,
+  "word_count_he": 2401,
+  "tags": [
+    "MirYeshiva",
+    "Shanghai",
+    "Holocaust",
+    "JewsInAsia",
+    "TorahStudy",
+    "上海",
+    "犹太难民",
+    "二战",
+    "Refugees",
+    "JewishHistory",
+    "ChineseFriendship",
+    "LithuanianJews",
+    "TalmudStudy",
+    "CulturalPreservation",
+    "学习",
+    "传统",
+    "韧性"
+  ],
+  "key_figures": [
+    "Rabbi Eliezer Yehuda Finkel",
+    "Rabbi Yehuda Leib Finkel",
+    "Chiune Sugihara"
+  ],
+  "historical_periods": [
+    {
+      "jewish": "World War II",
+      "years": "1939-1945",
+      "chinese_equivalent": "Second Sino-Japanese War / Republican Era",
+      "chinese_years": "1937-1945 / 1912-1949",
+      "chinese_name": "抗日战争 / 中华民国时期"
+    },
+    {
+      "jewish": "Holocaust",
+      "years": "1933-1945",
+      "chinese_equivalent": "Republican Era",
+      "chinese_years": "1912-1949",
+      "chinese_name": "中华民国时期"
+    }
+  ],
+  "locations": [
+    "Mir (Belarus)",
+    "Shanghai",
+    "Hongkou District",
+    "Vilna (Lithuania)",
+    "Kobe (Japan)",
+    "Brooklyn (New York)",
+    "Jerusalem"
+  ],
+  "cultural_parallels": [
+    "Reverence for classical scholarship and learning",
+    "Preservation of ancient texts during times of upheaval",
+    "Scholar as cultural hero in both traditions",
+    "Cultural resilience through education",
+    "Mutual respect between Chinese and Jewish communities in Shanghai"
+  ],
+  "related_articles": [
+    264,
+    265,
+    266,
+    267,
+    268,
+    83,
+    84,
+    253,
+    254,
+    259
+  ],
+  "bibliography_count": 8,
+  "date_created": "2026-03-19",
+  "status": "complete",
+  "language_versions": {
+    "english": "article-en.md",
+    "chinese_simplified": "article-zh.md",
+    "hebrew": "article-he.md"
+  }
+}

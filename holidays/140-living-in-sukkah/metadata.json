@@ -1,0 +1,28 @@
+{
+  "id": 140,
+  "title": {
+    "en": "Living in the Sukkah: A Week of Radical Trust",
+    "zh": "住在棚屋中：彻底信任的一周",
+    "he": "לגור בסוכה: שבוע של אמון מוחלט"
+  },
+  "subtitle": {
+    "en": "The experience of eating, sleeping, and living in a temporary hut — practical building tips and the spiritual lesson of impermanence",
+    "zh": "在临时小屋中吃住生活的体验——实用建造技巧与无常的精神课程",
+    "he": "החוויה של אכילה, שינה וחיים בצריף זמני — עצות בנייה מעשיות ולקח רוחני של חולפות"
+  },
+  "section": "holidays",
+  "holiday": "sukkot",
+  "date_created": "2026-03-18",
+  "author": "Torah Light",
+  "image_description": "A peaceful sukkah at twilight with warm golden lights strung across the bamboo roof covering (s'chach), casting gentle shadows on the table set for evening meal. Through the gaps in the natural roof covering, stars begin to appear in the deepening blue sky. The scene conveys both the temporary nature and the sacred intimacy of dwelling in the sukkah.",
+  "reading_time_minutes": 5,
+  "difficulty": "intermediate",
+  "keywords": [
+    "sukkah",
+    "impermanence",
+    "trust",
+    "dwelling",
+    "temporary",
+    "faith"
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "article_id": 26,
+  "title_english": "Understanding Kosher Certification Symbols",
+  "title_chinese": "理解犹太洁食认证标志",
+  "title_hebrew": "הבנת סימני כשרות",
+  "section": "Kosher Food",
+  "folder": "kosher-food",
+  "description": "A visual guide to the most common hechsher (kosher certification) symbols and what each one means",
+  "word_count": {
+    "english": 4500,
+    "chinese": 3800,
+    "hebrew": 4200
+  },
+  "status": "completed",
+  "research_completed": "2026-03-17",
+  "writing_completed": "2026-03-17",
+  "qa_status": "pending",
+  "upload_status": "pending",
+  "primary_sources": [
+    "Chabad.org",
+    "Aish.com",
+    "OK Kosher Certification",
+    "OU Kosher",
+    "KosherQuest.org"
+  ],
+  "key_topics": [
+    "Kosher certification symbols",
+    "Hechsher identification",
+    "OU certification",
+    "OK Kosher",
+    "Star-K",
+    "Kof-K",
+    "Pareve vs Dairy vs Meat",
+    "Passover certification",
+    "Cholov Yisroel",
+    "Glatt Kosher",
+    "Plain K warning"
+  ],
+  "chinese_historical_parallels": [
+    "QS quality safety marks",
+    "Imperial food tasters",
+    "Official seals (印章)",
+    "Third-party certification systems"
+  ],
+  "files": {
+    "english": "article-en.md",
+    "chinese": "article-zh.md",
+    "hebrew": "article-he.md",
+    "bibliography": "bibliography.md",
+    "metadata": "metadata.json"
+  },
+  "tags": [
+    "Kosher",
+    "KosherCertification",
+    "Hechsher",
+    "OU",
+    "OKKosher",
+    "StarK",
+    "KofK",
+    "Kashrut",
+    "Pareve",
+    "Dairy",
+    "Meat",
+    "Passover",
+    "ChalavYisrael",
+    "犹太洁食",
+    "食品认证",
+    "质量安全"
+  ]
+}

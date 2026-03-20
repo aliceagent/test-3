@@ -17,22 +17,35 @@
     "zh": 3743
   },
   "status": "complete",
-  "tags": {
-    "en": ["Noach", "SecondChances", "Rainbow", "Covenant", "Flood", "WeeklyParsha", "Genesis", "Righteousness", "Renewal", "UniversalLaws", "NoachideLaws"],
-    "zh": ["诺亚", "第二次机会", "彩虹", "盟约", "洪水", "重新开始", "希望", "商朝", "每周妥拉篇", "创世记", "义", "更新", "普世律法", "诺亚律法", "彩虹", "仁者"],
-    "he": ["נח", "הזדמנויותשניות", "קשת", "ברית", "מבול", "פרשתשבוע", "בראשית", "צדקות", "חידוש", "חוקיםאוניברסליים", "מצוותבנינח"]
-  },
-  "themes": ["Second chances", "Divine mercy", "Renewal", "Hope", "Universal covenant", "Righteousness", "Faith", "Rebuilding"],
+  "themes": [
+    "Second chances",
+    "Divine mercy",
+    "Renewal",
+    "Hope",
+    "Universal covenant",
+    "Righteousness",
+    "Faith",
+    "Rebuilding"
+  ],
   "chinese_cultural_parallels": [
     "Phoenix mythology (鳳凰) - rebirth from destruction",
     "Confucian junzi (君子) concept - maintaining virtue in corrupt times",
-    "Seasonal renewal - winter death leading to spring rebirth", 
+    "Seasonal renewal - winter death leading to spring rebirth",
     "Chinese historical dynasty mapping to biblical periods",
     "Bridge symbolism in rainbow as connection between heaven and earth"
   ],
   "chinese_dynasty_reference": "Shang Dynasty (商朝, ~1600-1046 BCE)",
-  "biblical_figures": ["Noah", "Abraham (referenced)"],
-  "jewish_concepts": ["Tamim (perfect/wholehearted)", "Chamas (violence)", "Seven Noachide Laws", "Midrash", "Covenant"],
+  "biblical_figures": [
+    "Noah",
+    "Abraham (referenced)"
+  ],
+  "jewish_concepts": [
+    "Tamim (perfect/wholehearted)",
+    "Chamas (violence)",
+    "Seven Noachide Laws",
+    "Midrash",
+    "Covenant"
+  ],
   "practical_applications": [
     "Building hope through preparation",
     "Distinguishing between starting over and starting fresh",
@@ -46,14 +59,35 @@
   "header_image_prompt": "A serene Chinese ink wash painting showing a massive ancient ark floating peacefully on endless flood waters during a gentle rain. In the foreground, a delicate rainbow emerges through misty clouds, painted in subtle watercolor washes over traditional black ink. The composition features towering mountains in the background rendered in classic shan shui style with varying ink gradations. A pair of doves with olive branches fly gracefully in the middle distance. The mood is contemplative and hopeful, with muted earth tones of gray, brown, and subtle blue-green, accented by the soft rainbow colors. The style should evoke traditional Chinese landscape painting while incorporating this pivotal biblical scene.",
   "image_style": "Chinese brushstroke/shan shui (山水) landscape style",
   "creation_date": "2026-03-18",
-  "languages": ["English", "Simplified Chinese", "Hebrew"],
+  "languages": [
+    "English",
+    "Simplified Chinese",
+    "Hebrew"
+  ],
   "torah_portion": "Genesis 6:9-11:32",
-  "key_verses": ["Genesis 6:9", "Genesis 8:21", "Genesis 9:11-13"],
+  "key_verses": [
+    "Genesis 6:9",
+    "Genesis 8:21",
+    "Genesis 9:11-13"
+  ],
   "learning_objectives": [
     "Understand the concept of divine second chances",
     "Connect Noah's story to universal human experiences",
     "Appreciate the significance of the rainbow covenant",
     "Learn about righteousness in corrupt times",
     "Explore parallels between Jewish and Chinese wisdom traditions"
+  ],
+  "keywords": [
+    "Noach",
+    "SecondChances",
+    "Rainbow",
+    "Covenant",
+    "Flood",
+    "WeeklyParsha",
+    "Genesis",
+    "Righteousness",
+    "Renewal",
+    "UniversalLaws",
+    "NoachideLaws"
   ]
 }

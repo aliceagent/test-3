@@ -1,0 +1,59 @@
+{
+  "id": 298,
+  "title": "Blood Libel: The Accusation That Haunted Jews for Centuries",
+  "title_zh": "血祭诽谤：困扰犹太人数百年的指控",
+  "title_he": "עלילת הדם: האשמה שרדפה את היהודים במשך מאות שנים",
+  "section": "antisemitism",
+  "slug": "blood-libel-history",
+  "word_count_en": 4247,
+  "char_count_zh": 6214,
+  "word_count_he": 2892,
+  "status": "completed",
+  "created": "2026-03-19T06:45:00Z",
+  "languages": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "tags": [
+    "BloodLibel",
+    "Antisemitism",
+    "JewishHistory",
+    "MedievalEurope",
+    "Persecution",
+    "Scapegoating",
+    "Conspiracy",
+    "Truth",
+    "Justice",
+    "HumanRights",
+    "Passover",
+    "Martyrdom",
+    "Resilience",
+    "南宋",
+    "明朝",
+    "历史教训",
+    "反犹主义",
+    "עלילתדם",
+    "אנטישמיות",
+    "היסטוריהיהודית"
+  ],
+  "key_topics": [
+    "Blood libel accusations",
+    "Medieval antisemitism",
+    "Jewish persecution in Europe",
+    "Historical lies and propaganda",
+    "Jewish resilience",
+    "Modern antisemitism",
+    "Misinformation and scapegoating"
+  ],
+  "historical_periods": [
+    {
+      "jewish": "Medieval Europe",
+      "dates": "1144-1500 CE",
+      "chinese_equivalent": "Southern Song Dynasty to Ming Dynasty (南宋至明朝)"
+    }
+  ],
+  "bibliography_count": 10,
+  "chinese_cultural_parallels": true,
+  "header_image_prompt": "A haunting Chinese brushstroke landscape showing a medieval European village in the foreground with a small synagogue, set against towering misty mountains in the background. Dark storm clouds gather overhead while a single ray of light breaks through, illuminating a Torah scroll. The composition uses dramatic contrast between dark ink washes and ethereal white space, with muted grays, deep blacks, and a subtle golden accent for the light beam. Style: traditional shan shui (山水) with somber, contemplative mood suggesting both persecution and endurance."
+}

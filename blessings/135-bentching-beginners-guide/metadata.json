@@ -1,0 +1,112 @@
+{
+  "article_number": 135,
+  "title": {
+    "en": "Bentching Made Easy: A Beginner's Guide to Grace After Meals",
+    "zh": "餐后祝福简易指南：初学者的饭后感恩",
+    "he": "ברכת המזון בקלות: מדריך למתחילים לברכה אחר הארוחה"
+  },
+  "section": "blessings",
+  "topic": "birkat_hamazon",
+  "difficulty": "beginner",
+  "keywords": [
+    "grace_after_meals",
+    "torah",
+    "bentching",
+    "birkat hamazon",
+    "prayer",
+    "jewish tradition",
+    "birkat_hamazon",
+    "hebrew",
+    "gratitude",
+    "grace after meals",
+    "torah_commandment",
+    "spiritual_practice",
+    "jewish_practice",
+    "blessings",
+    "learning_hebrew"
+  ],
+  "description": {
+    "en": "A comprehensive beginner's guide to Birkat HaMazon (Grace After Meals), breaking down each of the four blessings paragraph by paragraph with meanings, learning tips, and practical advice for incorporating this ancient Jewish practice into daily life.",
+    "zh": "餐后祝福（Birkat HaMazon）的全面初学者指南，逐段分解四个祝福的含义，提供学习技巧和实用建议，帮助将这个古老的犹太实践融入日常生活。包含中国历史朝代参考。",
+    "he": "מדריך מקיף למתחילים לברכת המזון, המפרק כל אחת מארבע הברכות פסקה אחר פסקה עם משמעויות, טיפים ללימוד ועצות מעשיות לשילוב המנהג היהודי העתיק הזה בחיי היומיום."
+  },
+  "target_audience": "beginners",
+  "estimated_read_time": {
+    "en": "8-10 minutes",
+    "zh": "6-8 minutes",
+    "he": "7-9 minutes"
+  },
+  "related_topics": [
+    "hamotzi_blessing",
+    "shabbat_meals",
+    "kosher_food_laws",
+    "jewish_prayer",
+    "hebrew_learning",
+    "zimun",
+    "mayim_acharonim"
+  ],
+  "scripture_references": [
+    "Deuteronomy 8:10",
+    "Talmud Berakhot 48b",
+    "Shulchan Aruch Orach Chaim 184-201"
+  ],
+  "cultural_references": {
+    "chinese_dynasties": [
+      "Tang Dynasty (618-907) - Silk Road cultural connections",
+      "Ming Dynasty (1368-1644) - Unity and prosperity prayers",
+      "Song Dynasty (960-1279) - Benevolent governance ideals"
+    ]
+  },
+  "header_image": {
+    "description": "A warm, inviting dinner table scene with a family gathered around, hands folded in prayer, with soft candlelight illuminating Hebrew prayer books and traditional Jewish foods. The atmosphere conveys gratitude, tradition, and spiritual connection.",
+    "suggested_elements": [
+      "Family dinner table",
+      "Candlelight",
+      "Hebrew prayer books",
+      "Traditional Jewish foods",
+      "Hands in prayer position",
+      "Warm lighting",
+      "Gratitude atmosphere"
+    ]
+  },
+  "learning_structure": {
+    "four_blessings": [
+      {
+        "order": 1,
+        "name": "Hazan et HaKol",
+        "theme": "Divine provision",
+        "focus": "God as source of all sustenance"
+      },
+      {
+        "order": 2,
+        "name": "Al HaAretz",
+        "theme": "Land of Israel",
+        "focus": "Connection to Jewish history and covenant"
+      },
+      {
+        "order": 3,
+        "name": "Boneh Yerushalayim",
+        "theme": "Rebuilding Jerusalem",
+        "focus": "Hope for future redemption"
+      },
+      {
+        "order": 4,
+        "name": "HaTov VeHaMetiv",
+        "theme": "Universal goodness",
+        "focus": "God's kindness to all people"
+      }
+    ]
+  },
+  "practical_tips": [
+    "Start with one blessing at a time",
+    "Use transliteration for Hebrew learning",
+    "Listen to others bentching first",
+    "Practice regularly",
+    "Focus on gratitude intention"
+  ],
+  "creation_date": "2026-03-18",
+  "last_updated": "2026-03-18",
+  "author": "Torah Light Team",
+  "review_status": "completed",
+  "publication_ready": true
+}
