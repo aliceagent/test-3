@@ -119,7 +119,11 @@
       "he": "הקמת קבוצת לימוד יהודית בעירכם"
     },
     "section": "community",
-    "description": "How to organize and run a weekly Torah study group, even when you're not an expert — with discussion guides included.",
+    "description": {
+      "en": "How to organize and run a weekly Torah study group, even when you're not an expert — with discussion guides included.",
+      "zh": "如何组织和主持每周Torah学习小组，即使您不是专家——附带讨论指南。",
+      "he": "כיצד לארגן ולנהל שיעור תורה שבועי, גם כשאינכם מומחים — כולל מדריכי דיון."
+    },
     "tags": [
       "Community",
       "Torah Study",
@@ -152,7 +156,11 @@
       "he": "בתי חב\"ד בסין: המדריך והמפתח המלאים שלך"
     },
     "section": "community",
-    "description": "A comprehensive list of Chabad centers across China (Shanghai, Beijing, Hong Kong, Chengdu, and more) with contacts and services.",
+    "description": {
+      "en": "A comprehensive list of Chabad centers across China (Shanghai, Beijing, Hong Kong, Chengdu, and more) with contacts and services.",
+      "zh": "中国各地哈巴德中心的综合列表（上海、北京、香港、成都等），附联系方式和服务。",
+      "he": "רשימה מקיפה של בתי חב\"ד ברחבי סין (שנגחאי, בייג'ינג, הונג קונג, צ'נגדו ועוד) עם פרטי קשר ושירותים."
+    },
     "tags": [
       "Chabad",
       "ChabadHouse",
@@ -191,7 +199,11 @@
       "he": "אשכנזים וספרדים: הבנת שתי המסורות הגדולות של העם היהודי"
     },
     "section": "ashkenazi-&-sephardi",
-    "description": "A detailed comparison of customs, cuisine, prayer styles, and halachic rulings between Ashkenazi and Sephardi Jews.",
+    "description": {
+      "en": "A detailed comparison of customs, cuisine, prayer styles, and halachic rulings between Ashkenazi and Sephardi Jews.",
+      "zh": "阿什肯纳兹和塞法迪犹太人在习俗、饮食、祈祷风格和律法裁决方面的详细比较。",
+      "he": "השוואה מפורטת של מנהגים, מטבח, סגנונות תפילה ופסיקות הלכתיות בין אשכנזים לספרדים."
+    },
     "tags": [
       "Ashkenazi",
       "Sephardi",
