@@ -8595,5 +8595,514 @@
     "chinese_dynasty_references": [],
     "status": "complete",
     "filePath": "jewish-philosophy-big-questions/348-what-happens-when-moshiach-comes/metadata.json"
+  },
+  {
+    "id": 359,
+    "title": {
+      "en": "Waking Up Jewish: The First 10 Minutes of a Jewish Morning",
+      "zh": "犹太人的清晨：犹太早晨的前十分钟",
+      "he": "התעוררות יהודית: עשר הדקות הראשונות של בוקר יהודי"
+    },
+    "section": "practical-halacha-for-daily-life",
+    "description": {
+      "en": "From Modeh Ani to Negel Vasser to Tzitzit to morning blessings — a minute-by-minute guide to starting the day according to halacha.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "ModehAni",
+      "NegelVasser",
+      "AsherYatzar",
+      "Tzitzit",
+      "MorningBlessings",
+      "BirchotHaShachar",
+      "DailyHalacha",
+      "JewishMorningRoutine",
+      "PracticalJudaism",
+      "Gratitude",
+      "SpiritualAwakening",
+      "MitzvahObjects",
+      "RitualHandwashing",
+      "早晨祈祷",
+      "犹太传统",
+      "感恩",
+      "礼仪"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Chinese tea culture and ritual preparation",
+      "Confucian filial piety and respect for heaven (天)",
+      "Daoist wu wei (无为) and natural alignment",
+      "Traditional Chinese morning acknowledgment of ancestors",
+      "Qi (气) energy transitions in traditional Chinese medicine",
+      "Confucian emphasis on ritual propriety (礼, lǐ)"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "practical-halacha-for-daily-life/359-waking-up-jewish/metadata.json"
+  },
+  {
+    "id": 360,
+    "title": {
+      "en": "Sha'atnez: The Prohibition of Mixing Wool and Linen",
+      "zh": "沙特涅兹：禁止混合羊毛和亚麻",
+      "he": "שעטנז: איסור ערבוב צמר ופשתן"
+    },
+    "section": "practical-halacha-for-daily-life",
+    "description": {
+      "en": "One of the Torah's least-known laws — what sha'atnez is, why it matters, and how to get your clothing tested (even from Asia).",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Shaatnez",
+      "Shatnez",
+      "Chukim",
+      "PracticalHalacha",
+      "Mitzvot",
+      "Clothing",
+      "WoolAndLinen",
+      "JewishLaw",
+      "Halacha",
+      "Mindfulness",
+      "DivineCommand",
+      "ObservantJudaism",
+      "TextileLaws",
+      "KosherLiving"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "practical-halacha-for-daily-life/360-shaatnez-prohibition-wool-linen/metadata.json"
+  },
+  {
+    "id": 361,
+    "title": {
+      "en": "Checking Tefillin and Mezuzot: When and How Often",
+      "zh": "检查经匣和门框经文:何时检查及多久一次",
+      "he": "בדיקת תפילין ומזוזות: מתי וכמה פעמים"
+    },
+    "section": "practical-halacha-for-daily-life",
+    "description": {
+      "en": "The requirement to have the parchments inside your tefillin and mezuzot checked by a sofer (scribe), how often, and what can go wrong.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Tefillin",
+      "Mezuzah",
+      "Sofer",
+      "STaM",
+      "PracticalHalacha",
+      "DailyJewishLife",
+      "MitzvahObjects",
+      "SacredTexts",
+      "Kashrut",
+      "JewishLaw",
+      "Halacha",
+      "TefillinChecking",
+      "MezuzahChecking",
+      "JewishRituals",
+      "TorahObservance"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "practical-halacha-for-daily-life/361-checking-tefillin-mezuzot/metadata.json"
+  },
+  {
+    "id": 362,
+    "title": {
+      "en": "Kibud Av Va'Em: The Mitzvah of Honoring Parents — Even Difficult Ones",
+      "zh": "孝敬父母的诫命：即使是困难的父母关系",
+      "he": "כיבוד אב ואם: מצוות כיבוד הורים — אפילו הורים קשים"
+    },
+    "section": "practical-halacha-for-daily-life",
+    "description": {
+      "en": "The Torah's commandment to honor parents — what it requires (standing, not contradicting, providing food), its limits, and how converts fulfill it.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "KibudAvVaEm",
+      "HonoringParents",
+      "TenCommandments",
+      "FilialPiety",
+      "Mitzvot",
+      "PracticalHalacha",
+      "FamilyRelations",
+      "Parents",
+      "Respect",
+      "Gratitude",
+      "孝",
+      "儒家",
+      "商朝",
+      "DailyLiving",
+      "JewishEthics",
+      "DifficultParents",
+      "Boundaries",
+      "Converts"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "practical-halacha-for-daily-life/362-kibud-av-vaem-honoring-parents/metadata.json"
+  },
+  {
+    "id": 363,
+    "title": {
+      "en": "Visiting the Sick (Bikur Cholim): One of Judaism's Greatest Mitzvot",
+      "zh": "探访病人(Bikur Cholim):犹太教最伟大的诫命之一",
+      "he": "ביקור חולים: אחת המצוות הגדולות ביהדות"
+    },
+    "section": "practical-halacha-for-daily-life",
+    "description": {
+      "en": "When to visit, what to say, what not to say, bringing food, praying at the bedside, and the Talmud's teaching that visiting removes 1/60th of the illness.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "BikurCholim",
+      "VisitingTheSick",
+      "Mitzvah",
+      "Compassion",
+      "Chesed",
+      "Healing",
+      "PracticalHalacha",
+      "Community",
+      "Prayer",
+      "MiSheberach",
+      "Talmud",
+      "Rambam",
+      "仁",
+      "孝",
+      "身心合一",
+      "JewishEthics",
+      "DailyLife"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "practical-halacha-for-daily-life/363-visiting-sick-bikur-cholim/metadata.json"
+  },
+  {
+    "id": 364,
+    "title": {
+      "en": "Shmiras Einayim: Guarding Your Eyes in the Digital Age",
+      "zh": "守护眼睛(Shmiras Einayim):数字时代的犹太智慧",
+      "he": "שמירת עיניים: שמירה על העיניים בעידן הדיגיטלי"
+    },
+    "section": "practical-halacha-for-daily-life",
+    "description": {
+      "en": "The Jewish concept of guarding what you look at — from billboard advertisements to internet content — and practical strategies for a digital world.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "ShmirasEinayim",
+      "GuardingTheEyes",
+      "Kedusha",
+      "Holiness",
+      "Modesty",
+      "DigitalAge",
+      "InternetFiltering",
+      "SelfControl",
+      "MusarEthics",
+      "Halacha",
+      "PracticalJudaism",
+      "ModernChallenges",
+      "VisualPurity",
+      "MaritalIntimacy",
+      "SpiritualDiscipline",
+      "修身",
+      "礼",
+      "ChineseJewishParallels",
+      "IntentionalLiving"
+    ],
+    "sources": [
+      "https://www.sefaria.org/Numbers.15.39",
+      "https://www.sefaria.org/Job.31.1",
+      "https://www.sefaria.org/Berakhot.12b",
+      "https://www.sefaria.org/Avot_D'Rabbi_Natan.2",
+      "https://www.sefaria.org/Shulchan_Arukh,_Even_HaEzer.21.1",
+      "https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.75",
+      "https://www.aish.com/jl/m/mm/Shmiras-Einayim-A-Practical-Guide.html",
+      "https://www.chabad.org/library/article_cdo/aid/3993955/jewish/The-Power-of-Sight-in-Jewish-Thought.htm",
+      "https://www.sefaria.org/Shaarei_Teshuva.3.83"
+    ],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "completed",
+    "filePath": "practical-halacha-for-daily-life/364-shmiras-einayim-digital-age/metadata.json"
+  },
+  {
+    "id": 365,
+    "title": {
+      "en": "Bishul Akum: The Laws of Food Cooked by Non-Jews",
+      "zh": "非犹太人烹饪的食物法规（Bishul Akum）",
+      "he": "בישול עכו״ם: דיני מאכלים שבושלו על ידי גויים"
+    },
+    "section": "practical-halacha-for-daily-life",
+    "description": {
+      "en": "When food cooked by a non-Jew is prohibited, the exceptions, and how this applies when eating at restaurants or with non-Jewish colleagues in China.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "BishulAkum",
+      "Kashrut",
+      "KosherLaw",
+      "JewishDietary",
+      "FoodCooked",
+      "HalachicBoundaries",
+      "KosherRestaurants",
+      "TravelKosher",
+      "WorkplaceDining",
+      "犹太饮食",
+      "清真与犹太",
+      "饮食法规",
+      "PracticalHalacha",
+      "ModernObservance",
+      "JewishCommunity",
+      "ChineseJewry",
+      "בישולעכום",
+      "כשרות",
+      "דיניכשרות"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Chinese regional food identity",
+      "Taoist and Buddhist ritual purity",
+      "Chinese hospitality customs (li 礼)"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "practical-halacha-for-daily-life/365-bishul-akum-non-jewish-cooking/metadata.json"
+  },
+  {
+    "id": 366,
+    "title": {
+      "en": "The Berachah Acharonah: After-Blessings Beyond Birkat HaMazon",
+      "zh": "餐后祝福(Berachah Acharonah):不只是Birkat HaMazon",
+      "he": "ברכה אחרונה: ברכות שלאחר האכילה מעבר לברכת המזון"
+    },
+    "section": "practical-halacha-for-daily-life",
+    "description": {
+      "en": "When to say Al HaMichyah, Borei Nefashot, and the full Birkat HaMazon — a decision tree for which after-blessing applies.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "AfterBlessings",
+      "BirkatHaMazon",
+      "BerachahAcharonah",
+      "AlHaMichyah",
+      "BoreiNefashot",
+      "PracticalHalacha",
+      "Gratitude",
+      "Blessings",
+      "DailyPractice",
+      "JewishLaw",
+      "感恩",
+      "祝福",
+      "犹太律法",
+      "餐后祷告",
+      "ברכותאחרונות",
+      "ברכתהמזון",
+      "עלהמחיה",
+      "בוראנפשות",
+      "הלכהמעשית",
+      "הכרתטובה"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "practical-halacha-for-daily-life/366-berachah-acharonah-after-blessings/metadata.json"
+  },
+  {
+    "id": 367,
+    "title": {
+      "en": "Pas Palter: When Commercial Bread Is Permissible",
+      "zh": "Pas Palter：何时可以食用商业面包",
+      "he": "פת פלטר: מתי מותר לאכול לחם מסחרי"
+    },
+    "section": "practical-halacha-for-daily-life",
+    "description": {
+      "en": "The leniency of pas palter (commercial baker's bread) when pas Yisroel is unavailable — the halachic reasoning and when to rely on it.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "PasYisroel",
+      "PasPalter",
+      "Kashrut",
+      "Bread",
+      "Halacha",
+      "PracticalHalacha",
+      "DailyLife",
+      "KosherFood",
+      "JewishLaw",
+      "ChineseDiaspora",
+      "中庸",
+      "正念",
+      "洁食",
+      "面包",
+      "哈拉卡",
+      "实用哈拉卡",
+      "日常生活",
+      "洁食食品",
+      "犹太律法",
+      "中国侨民",
+      "פתישראל",
+      "פתפלטר",
+      "כשרות",
+      "לחם",
+      "הלכה",
+      "הלכהמעשית",
+      "חייםיומיומיים",
+      "אוכלכשר",
+      "דיןיהודי",
+      "תפוצהסינית"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Confucian Doctrine of the Mean (中庸, zhōngyōng)",
+      "Mindfulness (正念, zhèngniàn)",
+      "Chinese tea culture and elevation of daily activities"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "practical-halacha-for-daily-life/367-pas-palter-commercial-bread/metadata.json"
+  },
+  {
+    "id": 368,
+    "title": {
+      "en": "Marit Ayin: When Something Looks Wrong Even Though It Isn't",
+      "zh": "假象禁令：看起来不对即使实际上没问题",
+      "he": "מראית עין: כשמשהו נראה לא נכון למרות שהוא כן"
+    },
+    "section": "practical-halacha-for-daily-life",
+    "description": {
+      "en": "The principle of avoiding actions that appear to violate halacha — plant milk in a meat restaurant, entering a non-kosher establishment, and other modern examples.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "MaritAyin",
+      "Halacha",
+      "JewishEthics",
+      "PublicPerception",
+      "CommunityStandards",
+      "假象禁令",
+      "犹太律法",
+      "社区责任",
+      "PracticalHalacha",
+      "DailyJewishLife",
+      "IntegrityInAction",
+      "JewishLaw",
+      "Kashrut",
+      "Shabbat",
+      "ChineseCulture",
+      "儒家思想",
+      "名誉",
+      "מראיתעין",
+      "הלכה",
+      "אתיקהיהודית"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "practical-halacha-for-daily-life/368-marit-ayin/metadata.json"
+  },
+  {
+    "id": 369,
+    "title": {
+      "en": "Tzaar Baalei Chaim: The Torah's Animal Welfare Laws",
+      "zh": "动物福利：犹太教的动物待遇法律",
+      "he": "צער בעלי חיים: דיני התורה לרווחת בעלי חיים"
+    },
+    "section": "practical-halacha-for-daily-life",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "TzaarBaaleiChaim",
+      "AnimalWelfare",
+      "JewishLaw",
+      "Compassion",
+      "Halacha",
+      "PracticalHalacha",
+      "JewishEthics",
+      "Shechita",
+      "KosherSlaughter",
+      "PetOwnership",
+      "FactoryFarming",
+      "MoralRefinement",
+      "Stewardship",
+      "动物福利",
+      "仁",
+      "DailyPractice",
+      "BiblicalLaw",
+      "TalmudWisdom",
+      "ContemporaryJudaism",
+      "LivingJewishly"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "practical-halacha-for-daily-life/369-tzaar-baalei-chaim-animal-welfare/metadata.json"
+  },
+  {
+    "id": 370,
+    "title": {
+      "en": "Kibbutz Galuyot: The Ingathering of Exiles as a Daily Prayer",
+      "zh": "基布兹·加鲁约特：回归者的每日祈祷",
+      "he": "קיבוץ גלויות: כינוס הגולים בתפילה היומיומית"
+    },
+    "section": "practical-halacha-for-daily-life",
+    "description": {
+      "en": "Why Jews pray three times daily for the return of exiles to Israel — the tenth blessing of the Amidah and its ongoing relevance.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "KibbutzGaluyot",
+      "Ingathering",
+      "Amidah",
+      "Prayer",
+      "Exile",
+      "Diaspora",
+      "Israel",
+      "Redemption",
+      "Messianic",
+      "Hope",
+      "PracticalHalacha",
+      "DailyLife",
+      "JewishIdentity",
+      "落叶归根",
+      "天下大同",
+      "祈祷"
+    ],
+    "sources": [
+      "Chabad.org",
+      "Aish.com",
+      "Sefaria.org",
+      "Jewish Virtual Library",
+      "Orthodox Union",
+      "Torah Musings"
+    ],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "practical-halacha-for-daily-life/370-kibbutz-galuyot-ingathering-prayer/metadata.json"
   }
 ]
