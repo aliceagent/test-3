@@ -126,8 +126,16 @@ export default function Footer() {
           </div>
         </div>
 
-        <div className="mt-8 pt-8 border-t border-white/10 text-center text-sm text-white/50">
-          {t("copyright")}
+        <div className="mt-8 pt-8 border-t border-white/10 flex items-center justify-between text-sm text-white/50">
+          <span className="font-mono text-xs text-white/30">
+            build {process.env.NEXT_PUBLIC_GIT_HASH || "dev"}
+          </span>
+          <span>{t("copyright")}</span>
+          <span className="text-xs text-white/30">
+            {process.env.NEXT_PUBLIC_BUILD_TIME
+              ? new Date(process.env.NEXT_PUBLIC_BUILD_TIME).toLocaleDateString()
+              : ""}
+          </span>
         </div>
       </div>
     </footer>
