@@ -7,7 +7,11 @@
       "he": "איזו ברכה אני אומר? מדריך מהיר לברכות על מאכלים"
     },
     "section": "blessings",
-    "description": "A handy chart showing which blessing to say before and after every type of food and drink.",
+    "description": {
+      "en": "A handy chart showing which blessing to say before and after every type of food and drink.",
+      "zh": "一份实用图表，展示每种食物和饮料前后应说哪种祝福祷告。",
+      "he": "טבלה שימושית המראה איזו ברכה לומר לפני ואחרי כל סוג של אוכל ושתייה."
+    },
     "tags": [
       "Blessings",
       "Bracha",
