@@ -1996,7 +1996,11 @@
       "he": "שבע מצוות בני נח: קוד המוסר האוניברסלי של היהדות"
     },
     "section": "",
-    "description": "An exploration of the Seven Noahide Laws—Judaism's universal ethical code for all humanity, including comparisons with Chinese philosophy.",
+    "description": {
+      "en": "An exploration of the Seven Noahide Laws—Judaism's universal ethical code for all humanity, including comparisons with Chinese philosophy.",
+      "zh": "探索诺亚七律——犹太教面向全人类的普世伦理准则，并与中国哲学进行比较。",
+      "he": "חקירת שבע מצוות בני נח — הקוד המוסרי האוניברסלי של היהדות לכל האנושות, כולל השוואות לפילוסופיה סינית."
+    },
     "tags": [],
     "sources": [],
     "cultural_parallels": [],
@@ -2012,7 +2016,11 @@
       "he": "האם אלוהים קיים? הטיעונים הפילוסופיים היהודיים"
     },
     "section": "",
-    "description": "Explore the major Jewish philosophical arguments for God's existence, from Maimonides' First Cause to the Kuzari's national revelation, the argument from design, morality, and consciousness.",
+    "description": {
+      "en": "Explore the major Jewish philosophical arguments for God's existence, from Maimonides' First Cause to the Kuzari's national revelation, the argument from design, morality, and consciousness.",
+      "zh": "探索犹太哲学关于上帝存在的主要论证——从Maimonides的第一因到Kuzari的民族启示、设计论证、道德论证和意识论证。",
+      "he": "חקירת הטיעונים הפילוסופיים היהודיים המרכזיים לקיום האל, מהסיבה הראשונה של הרמב\"ם להתגלות הלאומית בכוזרי, טיעון מהעיצוב, המוסר וההכרה."
+    },
     "tags": [
       "philosophy",
       "god",
@@ -2041,7 +2049,11 @@
       "he": ""
     },
     "section": "pirkei-avot",
-    "description": "Exploring the famous teachings about wisdom, strength, honor, and wealth from Pirkei Avot Chapter 4.",
+    "description": {
+      "en": "Exploring the famous teachings about wisdom, strength, honor, and wealth from Pirkei Avot Chapter 4.",
+      "zh": "探索《父辈的伦理》第四章关于智慧、力量、荣誉和财富的著名教导。",
+      "he": "חקירת הלימודים המפורסמים על חוכמה, גבורה, כבוד ועושר מפרקי אבות פרק ד'."
+    },
     "tags": [
       "PirkeiAvot",
       "BenZoma",
@@ -2086,7 +2098,11 @@
       "he": ""
     },
     "section": "prayer",
-    "description": "The meaning and practice of the Modeh Ani prayer, said immediately upon waking — even before getting out of bed.",
+    "description": {
+      "en": "The meaning and practice of the Modeh Ani prayer, said immediately upon waking — even before getting out of bed.",
+      "zh": "Modeh Ani祈祷的含义和实践——醒来后立即诵读，甚至在起床之前。",
+      "he": "משמעות ומנהג תפילת מודה אני, הנאמרת מיד עם ההשכמה — עוד לפני הקימה מהמיטה."
+    },
     "tags": [
       "ModehAni",
       "Prayer",
@@ -2127,7 +2143,11 @@
       "he": "יציאת מצרים: סיפור הגאולה הגדול בהיסטוריה"
     },
     "section": "",
-    "description": "The foundational narrative of the Jewish people — the Exodus from Egypt — exploring its historical context, theological significance, and enduring impact on concepts of freedom and liberation.",
+    "description": {
+      "en": "The foundational narrative of the Jewish people — the Exodus from Egypt — exploring its historical context, theological significance, and enduring impact on concepts of freedom and liberation.",
+      "zh": "犹太民族的奠基叙事——出埃及记——探索其历史背景、神学意义，以及对自由和解放概念的深远影响。",
+      "he": "הנרטיב המכונן של העם היהודי — יציאת מצרים — חקירת ההקשר ההיסטורי, המשמעות התיאולוגית, וההשפעה המתמשכת על מושגי החירות והגאולה."
+    },
     "tags": [
       "exodus",
       "yetziat-mitzrayim",
@@ -2160,7 +2180,11 @@
       "he": ""
     },
     "section": "jewish-texts",
-    "description": "Who was Maimonides, what is the Mishneh Torah, and how to start studying it — even as a beginner.",
+    "description": {
+      "en": "Who was Maimonides, what is the Mishneh Torah, and how to start studying it — even as a beginner.",
+      "zh": "Maimonides是谁、什么是《密西拿律法书》，以及初学者如何开始学习。",
+      "he": "מיהו הרמב\"ם, מהי המשנה תורה, וכיצד להתחיל ללמוד אותה — גם כמתחילים."
+    },
     "tags": [
       "Rambam",
       "Maimonides",
@@ -2198,7 +2222,11 @@
       "he": "טהרת המשפחה: הכוח הנסתר של הנישואין היהודיים"
     },
     "section": "life-cycle",
-    "description": "An introduction to the laws of family purity and how the mikvah cycle strengthens the marital bond",
+    "description": {
+      "en": "An introduction to the laws of family purity and how the mikvah cycle strengthens the marital bond.",
+      "zh": "家庭纯洁律法简介，以及浸礼池循环如何增强婚姻纽带。",
+      "he": "מבוא להלכות טהרת המשפחה וכיצד מחזור המקווה מחזק את הקשר הזוגי."
+    },
     "tags": [],
     "sources": [],
     "cultural_parallels": [
@@ -2220,7 +2248,11 @@
       "he": "שבע המידות: מדריך לפיתוח תכונות האופי"
     },
     "section": "",
-    "description": "A comprehensive guide to the seven foundational character traits in Jewish thought - chesed, gevurah, tiferet, netzach, hod, yesod, and malchut - with practical applications for daily life and spiritual growth.",
+    "description": {
+      "en": "A comprehensive guide to the seven foundational character traits in Jewish thought - chesed, gevurah, tiferet, netzach, hod, yesod, and malchut - with practical applications for daily life and spiritual growth.",
+      "zh": "犹太思想中七种基本品格特质的全面指南——仁慈、刚毅、和谐、持久、谦卑、根基、实现——以及日常生活和灵性成长的实际应用。",
+      "he": "מדריך מקיף לשבע תכונות האופי היסודיות במחשבה היהודית — חסד, גבורה, תפארת, נצח, הוד, יסוד ומלכות — עם יישומים מעשיים לחיי יום-יום וצמיחה רוחנית."
+    },
     "tags": [
       "mussar",
       "character-development",
@@ -2258,7 +2290,11 @@
       "he": "חשבון הנפש: מנהג יהודי של התבוננות יומית"
     },
     "section": "",
-    "description": "An exploration of cheshbon hanefesh, the Jewish practice of daily self-reflection and spiritual accounting, rooted in the Mussar movement and applicable to modern life.",
+    "description": {
+      "en": "An exploration of cheshbon hanefesh, the Jewish practice of daily self-reflection and spiritual accounting, rooted in the Mussar movement and applicable to modern life.",
+      "zh": "探索灵魂核算——犹太教的每日自我反思和灵性盘点实践，源于穆萨尔运动并适用于现代生活。",
+      "he": "חקירת חשבון הנפש, המנהג היהודי של התבוננות יומית וחישוב רוחני, המושרש בתנועת המוסר ורלוונטי לחיים המודרניים."
+    },
     "tags": [
       "cheshbon-hanefesh",
       "mussar",
@@ -2290,7 +2326,11 @@
       "he": "תורה ומדע: האם הם תואמים?"
     },
     "section": "",
-    "description": "An exploration of how Jewish thinkers throughout history have reconciled Torah with scientific knowledge, examining different approaches to apparent conflicts between religion and science.",
+    "description": {
+      "en": "An exploration of how Jewish thinkers throughout history have reconciled Torah with scientific knowledge, examining different approaches to apparent conflicts between religion and science.",
+      "zh": "探索犹太思想家如何在历史中调和Torah与科学知识，审视宗教与科学之间表面冲突的不同方法。",
+      "he": "חקירת הדרכים שבהן הוגים יהודיים לאורך ההיסטוריה פישרו בין תורה למדע, ובחינת גישות שונות לסתירות לכאורה בין דת למדע."
+    },
     "tags": [
       "torah-and-science",
       "faith-and-reason",
@@ -2321,7 +2361,11 @@
       "he": ""
     },
     "section": "blessings",
-    "description": "Full text and explanation of Birchot HaShachar — the 15 morning blessings that thank God for the basics of life.",
+    "description": {
+      "en": "Full text and explanation of Birchot HaShachar — the 15 morning blessings that thank God for the basics of life.",
+      "zh": "晨间祝福的完整经文和解释——感谢上帝赐予生命基本事物的15条晨间祝祷。",
+      "he": "הטקסט המלא וההסבר של ברכות השחר — 15 הברכות שמודות לה' על יסודות החיים."
+    },
     "tags": [],
     "sources": [],
     "cultural_parallels": [
@@ -2342,7 +2386,11 @@
       "he": "אשר יצר: הברכה שמודה לאלוהים על הגוף שלך"
     },
     "section": "blessings",
-    "description": "Why Jews say a blessing after using the bathroom, and what this surprising practice teaches about appreciating health.",
+    "description": {
+      "en": "Why Jews say a blessing after using the bathroom, and what this surprising practice teaches about appreciating health.",
+      "zh": "为什么犹太人在如厕后说祝祷，以及这个令人惊讶的习俗教会我们如何感恩健康。",
+      "he": "מדוע יהודים מברכים אחרי שימוש בשירותים, ומה המנהג המפתיע הזה מלמד על הערכת הבריאות."
+    },
     "tags": [
       "AsherYatzar",
       "Blessings",
@@ -2398,7 +2446,11 @@
       "he": ""
     },
     "section": "torah-study",
-    "description": "Key moments in Moses's leadership journey and what they reveal about humility, delegation, and speaking truth to power.",
+    "description": {
+      "en": "Key moments in Moses's leadership journey and what they reveal about humility, delegation, and speaking truth to power.",
+      "zh": "摩西领导历程中的关键时刻，以及它们揭示的关于谦逊、授权和直言进谏的道理。",
+      "he": "רגעי מפתח במסע המנהיגות של משה ומה הם חושפים על ענווה, האצלת סמכויות ואמירת אמת לשלטון."
+    },
     "tags": [
       "Moses",
       "Moshe",
@@ -2440,7 +2492,11 @@
       "he": "שירת הים: כאשר העם היהודי שר ביחד בפעם הראשונה"
     },
     "section": "weekly-parsha",
-    "description": "Exploring Shirat HaYam (Exodus 15), the spontaneous song after crossing the Red Sea, and what it teaches about gratitude.",
+    "description": {
+      "en": "Exploring Shirat HaYam (Exodus 15), the spontaneous song after crossing the Red Sea, and what it teaches about gratitude.",
+      "zh": "探索红海之歌（出埃及记15章），渡过红海后的即兴颂歌，以及它关于感恩的教导。",
+      "he": "חקירת שירת הים (שמות ט\"ו), השיר הספונטני לאחר קריעת ים סוף, ומה היא מלמדת על הכרת הטוב."
+    },
     "tags": [
       "SongOfTheSea",
       "ShiratHaYam",
@@ -2477,7 +2533,11 @@
       "he": "מהי התורה שבעל פה? הבנת המשנה והתלמוד"
     },
     "section": "torah-study",
-    "description": "How the Oral Torah was transmitted from Sinai through generations, and why it's essential to understanding the Written Torah.",
+    "description": {
+      "en": "How the Oral Torah was transmitted from Sinai through generations, and why it's essential to understanding the Written Torah.",
+      "zh": "口传Torah如何从西奈山代代相传，以及为什么它对理解成文Torah至关重要。",
+      "he": "כיצד התורה שבעל פה הועברה מסיני דרך הדורות, ומדוע היא חיונית להבנת התורה שבכתב."
+    },
     "tags": [
       "Oral Torah",
       "Mishnah",
@@ -2520,7 +2580,11 @@
       "he": ""
     },
     "section": "torah-study",
-    "description": "The unique Jewish tradition of studying with a partner, how to find a chavruta, and tips for productive learning sessions.",
+    "description": {
+      "en": "The unique Jewish tradition of studying with a partner, how to find a chavruta, and tips for productive learning sessions.",
+      "zh": "犹太人独特的结伴学习传统，如何找到学习伙伴，以及高效学习的建议。",
+      "he": "המסורת היהודית הייחודית של לימוד בחברותא, כיצד למצוא חברותא, וטיפים ללמידה פרודוקטיבית."
+    },
     "tags": [
       "Chavruta",
       "Torah Study",
@@ -2557,7 +2621,11 @@
       "he": ""
     },
     "section": "shabbat",
-    "description": "Practical advice for observing Shabbat when you're the only Jewish person in your city, with tips for creating a meaningful experience.",
+    "description": {
+      "en": "Practical advice for observing Shabbat when you're the only Jewish person in your city, with tips for creating a meaningful experience.",
+      "zh": "当您是所在城市唯一的犹太人时守安息日的实用建议，以及创造有意义体验的窍门。",
+      "he": "עצות מעשיות לשמירת שבת כשאתם היהודים היחידים בעיר, עם טיפים ליצירת חוויה משמעותית."
+    },
     "tags": [
       "Shabbat",
       "ShabbatAlone",
@@ -2600,7 +2668,11 @@
       "he": "ל״ט אבות מלאכה - הסבר פשוט"
     },
     "section": "shabbat",
-    "description": "A clear, practical explanation of each of the 39 categories of creative work forbidden on Shabbat, with modern examples.",
+    "description": {
+      "en": "A clear, practical explanation of each of the 39 categories of creative work forbidden on Shabbat, with modern examples.",
+      "zh": "清晰实用地解释安息日禁止的39类创造性劳作，并附现代案例。",
+      "he": "הסבר ברור ומעשי של כל אחת מ-39 אבות המלאכה האסורות בשבת, עם דוגמאות מודרניות."
+    },
     "tags": [
       "#Shabbat",
       "#39Melachot",
@@ -2640,7 +2712,11 @@
       "he": ""
     },
     "section": "shabbat",
-    "description": "Complete guide to the Havdalah ceremony that ends Shabbat, with full Hebrew texts, meanings, and practical instructions for performing this beautiful weekly ritual.",
+    "description": {
+      "en": "Complete guide to the Havdalah ceremony that ends Shabbat, with full Hebrew texts, meanings, and practical instructions for performing this beautiful weekly ritual.",
+      "zh": "Havdalah仪式的完整指南——结束安息日的仪式，包含希伯来文全文、含义和实际操作说明。",
+      "he": "מדריך מלא לטקס ההבדלה המסיים את השבת, עם הטקסטים המלאים בעברית, משמעויותיהם, והוראות מעשיות לקיום הטקס השבועי היפה."
+    },
     "tags": [
       "Havdalah",
       "Shabbat",
@@ -2696,7 +2772,11 @@
       "he": ""
     },
     "section": "shabbat",
-    "description": "Clear, practical answers to the most common Shabbat questions about electricity, cooking, carrying, and more. A comprehensive guide for beginners and those encountering new situations.",
+    "description": {
+      "en": "Clear, practical answers to the most common Shabbat questions about electricity, cooking, carrying, and more. A comprehensive guide for beginners and those encountering new situations.",
+      "zh": "关于安息日最常见问题的清晰实用解答——用电、烹饪、搬运等。适合初学者和遇到新情况的人的全面指南。",
+      "he": "תשובות ברורות ומעשיות לשאלות השבת הנפוצות ביותר על חשמל, בישול, הוצאה ועוד. מדריך מקיף למתחילים ולנתקלים במצבים חדשים."
+    },
     "tags": [
       "Shabbat",
       "安息日",
@@ -2783,7 +2863,11 @@
       "he": "חנוכה: מעבר לסביבון — הסיפור האמיתי והלקחים שלו"
     },
     "section": "holidays",
-    "description": "The historical and spiritual significance of Chanukah, the miracle of the oil, and detailed menorah-lighting instructions.",
+    "description": {
+      "en": "The historical and spiritual significance of Chanukah, the miracle of the oil, and detailed menorah-lighting instructions.",
+      "zh": "光明节的历史和精神意义、油灯的奇迹，以及详细的烛台点燃说明。",
+      "he": "המשמעות ההיסטורית והרוחנית של חנוכה, נס פך השמן, והוראות מפורטות להדלקת המנורה."
+    },
     "tags": [
       "Chanukah",
       "Hanukkah",
@@ -2823,7 +2907,11 @@
       "he": "תשעה באב: הבנת היום העצוב ביותר בהיסטוריה היהודית"
     },
     "section": "holidays",
-    "description": "The destructions of both Temples, the laws of mourning on Tisha B'Av, reading Eicha, and the message of hope within the grief.",
+    "description": {
+      "en": "The destructions of both Temples, the laws of mourning on Tisha B'Av, reading Eicha, and the message of hope within the grief.",
+      "zh": "两座圣殿的毁灭、圣殿被毁日的哀悼律法、诵读《耶利米哀歌》，以及悲痛中的希望信息。",
+      "he": "חורבן שני בתי המקדש, הלכות אבלות בתשעה באב, קריאת איכה, ומסר התקווה שבתוך האבל."
+    },
     "tags": [
       "TishaBAv",
       "NinthOfAv",
@@ -2863,7 +2951,11 @@
       "he": "חולנט ומאכלי שבת נוספים: מתכונים למטבח הסיני"
     },
     "section": "shabbat",
-    "description": "Learn how to make traditional Shabbat foods like cholent, kugel, and gefilte fish in your Chinese kitchen, with adaptations and cultural parallels.",
+    "description": {
+      "en": "Learn how to make traditional Shabbat foods like cholent, kugel, and gefilte fish in your Chinese kitchen, with adaptations and cultural parallels.",
+      "zh": "学习如何在中式厨房制作传统安息日美食如炖肉煲、库格尔和酿鱼，附改良做法和文化对比。",
+      "he": "למדו להכין מאכלי שבת מסורתיים כחולנט, קוגל ודג גפילטע במטבח הסיני שלכם, עם התאמות והקבלות תרבותיות."
+    },
     "tags": [
       "Shabbat",
       "Cholent",
@@ -2936,7 +3028,11 @@
       "he": ""
     },
     "section": "prayer",
-    "description": "A blessing-by-blessing guide to the Shemoneh Esrei, with commentary on what each blessing means.",
+    "description": {
+      "en": "A blessing-by-blessing guide to the Shemoneh Esrei, with commentary on what each blessing means.",
+      "zh": "逐条解读十八祝祷（Shemoneh Esrei），附每条祝福的含义注释。",
+      "he": "מדריך ברכה-אחר-ברכה לשמונה עשרה, עם פירוש למשמעות כל ברכה."
+    },
     "tags": [
       "Amidah",
       "Prayer",
