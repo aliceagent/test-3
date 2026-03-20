@@ -1,274 +1,285 @@
-# Article Integration Plan — Torah Light
+# Article Import Plan — Torah Light
 
-## Current State
+## Scope
 
-### On the Website Now
-- **78 articles** in `src/data/articles.json` (only **36 with actual content**, 42 are empty stubs)
-- **99 bibliography entries** in `src/data/bibliography-index.json`
-- **40 section route pages** under `src/app/[locale]/`
-
-### On the `torah-light-articles` Branch (Not Yet Integrated)
-
-**Source A — 53 numbered articles with real markdown content** (trilingual EN/ZH/HE):
-These have full article text in markdown files and most have metadata.json with tags, sources, and cultural parallels.
-
-| Section | IDs | Count |
-|---------|-----|-------|
-| shabbat | 16, 19 | 2 |
-| prayer | 28, 29, 30 | 3 |
-| blessings | 32, 33, 37 | 3 |
-| mitzvah-objects | 35 | 1 |
-| holidays | 41, 43, 45, 49, 50, 53 | 6 |
-| conversion | 56, 57, 59, 60, 64 | 5 |
-| jewish-calendar | 51 | 1 |
-| jewish-history | 82 | 1 |
-| jewish-texts | 80 | 1 |
-| mussar | 75 | 1 |
-| philosophy | 76 | 1 |
-| life-cycle | 94 | 1 |
-| family-purity | 95 | 1 |
-| money-business | 96 | 1 |
-| hebrew-learning | 97, 98 | 2 |
-| jewish-stories (NEW section) | 379-385 | 7 |
-| chinese-jewish-bridge (NEW section) | 386-401 | 16 |
-
-**Source B — 33 comprehensive content plan pages** (trilingual, with metadata):
-Full-length guides mapping to existing sections. These don't have numeric IDs yet — each needs an ID assigned.
-
-| Category | Topics |
-|----------|--------|
-| daily-living | shabbat, blessings, clothing-modesty, family-purity, holidays, jewish-calendar, kosher-food, mitzvah-objects, money-laws, non-jewish-relations, passover-seder, prayer |
-| community-life | conversion, life-cycle, matchmaking |
-| foundations | five-megillot, ten-commandments, thirteen-principles, torah-study, weekly-parsha |
-| history-identity | antisemitism, ashkenazi-sephardi, israel, jewish-history, jews-in-asia, messiah, tabernacle |
-| texts-philosophy | chabad, hebrew-learning, jewish-texts, mussar, philosophy, pirkei-avot |
+**291 new articles** to import from article folders on `main` into the website.
+- Website currently has **78 articles** in `src/data/articles.json`
+- After import: **~369 articles**
+- Each article has trilingual markdown (EN/ZH/HE), metadata.json with tags, sources, and cultural parallels
+- All 291 need entries in both `articles.json` and `bibliography-index.json`
 
 ---
 
-## Integration Approach
+## Phase 0: Build Import Script + New Section Pages (2 batches)
 
-### Per-Article Checklist
-For each article, I will:
-1. **Read** the markdown content (EN/ZH/HE) from the branch
-2. **Extract/generate tags** from metadata.json (or create tags if missing)
-3. **Map to correct section** — match to existing website section slugs
-4. **Assign ID** — use existing numeric ID, or assign next available for content plan pages
-5. **Add to `src/data/articles.json`** — with title_en/zh/he and body_en/zh/he
-6. **Add to `src/data/bibliography-index.json`** — with tags, sources, cultural_parallels, chinese_dynasty_references
-7. **Verify** the section route page exists (create if needed)
+**Batch 0.1 — Import Script**
+Build a Python script that reads article folders and outputs updated JSON files:
+- Reads `metadata.json`, `article-en.md`, `article-zh.md`, `article-he.md` from each folder
+- Extracts: id, section, titles, body, tags, sources, cultural_parallels, chinese_dynasty_references
+- Maps section names to website conventions
+- Assigns IDs to 3 articles missing them (starting from 500)
+- Validates: title_en, body_en, section, tags present
+- **Checkpoint: Share dry-run report before importing anything**
 
-### New Section Routes Needed
-These 2 new sections need route pages created:
-- `chinese-jewish-bridge` → for IDs 386-401
-- `jewish-stories` → for IDs 379-385
+**Batch 0.2 — New Section Pages + Navigation**
+Create route pages for 7 new sections not currently on the website:
+1. `jewish-philosophy-big-questions` (13 articles)
+2. `practical-halacha-for-daily-life` (12 articles)
+3. `money-business` (9 articles)
+4. `jewish-values` (6 articles)
+5. `jewish-stories-and-inspiration` (8 articles)
+6. `jews-in-asia-expanded` (10 articles)
+7. `jewish-home` (1 article)
 
-### Section Mapping Fixes
-Some branch articles use slightly different section names than the website:
-- `money-business` → map to `money-laws` (existing route)
-- `jews-in-asia-expanded` → map to `jews-in-asia` (existing route)
-- `chinese-jewish-bridge-topics` → `chinese-jewish-bridge` (new route)
-- `jewish-stories-and-inspiration` → `jewish-stories` (new route)
+Add to Navbar, admin panel, translation files (en.json, zh.json, he.json).
+- **Checkpoint: Show new pages and translation keys**
+- **Commit & push**
 
 ---
 
-## Batch Plan (5 articles max per batch)
+## Phase 1: Import Holidays (29 articles — 6 batches)
 
-### Phase 1: Setup (1 batch)
-**Batch 0 — Infrastructure**
-- Create `chinese-jewish-bridge` section route page
-- Create `jewish-stories` section route page
-- Add translation keys for new sections to `messages/en.json`, `messages/zh.json`, `messages/he.json`
-- Fix section name inconsistencies (`mitzvahobjects` → `mitzvah-objects`, `ashkenazi--sephardi` → `ashkenazi-sephardi`)
+**Batch 1.1** (5 articles)
+- ID 43: Building a Sukkah: A Practical Guide
+- ID 49: Shavuot: The Night We Stayed Up to Receive the Torah
+- ID 136: The Shofar: How a Ram's Horn Wakes Up Your Soul
+- ID 137: Tashlich: Casting Away Your Sins at the Water
+- ID 138: The Five Prohibitions of Yom Kippur
 - **Commit & push, report to you**
 
-### Phase 2: Numbered Articles — Existing Sections (11 batches)
+**Batch 1.2** (5 articles)
+- ID 139: Kol Nidrei
+- ID 140: Living in the Sukkah
+- ID 141: Simchat Torah
+- ID 142: The Chanukah Menorah
+- ID 143: Mishloach Manot
+- **Commit & push, report to you**
 
-**Batch 1 — Shabbat & Prayer (5 articles)**
-- ID 16: Your First Shabbat
-- ID 19: Kiddush
-- ID 28: Prayer basics
-- ID 29: Beginner's Guide to Jewish Prayer
-- ID 30: The Amidah
-- **Commit & push, report status to you**
+**Batch 1.3** (5 articles)
+- ID 146: The Omer Period
+- ID 147: Shavuot All-Night Learning
+- ID 148: Shemini Atzeret
+- ID 150: Fast of Gedaliah
+- ID 321: Apple and Honey Simanim
+- **Commit & push, report to you**
 
-**Batch 2 — Blessings & Mitzvah Objects (4 articles)**
-- ID 32: Morning Blessings & Gratitude
-- ID 33: Asher Yatzar
-- ID 37: Blessings article
-- ID 35: Tefillin for Beginners
-- **Commit & push, report status to you**
+**Batch 1.4** (5 articles)
+- ID 322: How to Blow the Shofar
+- ID 323: Kapparot
+- ID 324: Building a Sukkah on a Chinese Balcony
+- ID 325: Ushpizin
+- ID 326: Latkes vs. Sufganiyot
+- **Commit & push, report to you**
 
-**Batch 3 — Holidays Part 1 (5 articles)**
-- ID 41: Rosh Hashana
-- ID 43: Holidays article
-- ID 45: Chanukah Beyond the Dreidel
-- ID 49: Holidays article
-- ID 50: Tisha B'Av
-- **Commit & push, report status to you**
+**Batch 1.5** (5 articles)
+- ID 327: The Megillah Reading
+- ID 328: Hamantaschen
+- ID 329: The Afikoman
+- ID 330: Kitniyot
+- ID 331: Cheesecake and Blintzes on Shavuot
+- **Commit & push, report to you**
 
-**Batch 4 — Holidays Part 2 & Calendar (2 articles)**
-- ID 53: Fast Days in Judaism
-- ID 51: Elul Preparation
-- **Commit & push, report status to you**
+**Batch 1.6** (4 articles)
+- ID 332: Book of Ruth on Shavuot
+- ID 333: Lag BaOmer Bonfires
+- ID 334: Isru Chag
+- ID 335: Chol HaMoed
+- **Checkpoint: "All 29 holidays articles imported." Commit & push.**
 
-**Batch 5 — Conversion (5 articles)**
-- ID 56: Conversion article
-- ID 57: Ruth — Famous Convert
-- ID 59: Life as a Ger
-- ID 60: Conversion article
-- ID 64: Navigating Family Relationships
-- **Commit & push, report status to you**
+---
 
-**Batch 6 — Texts, History, Philosophy (3 articles)**
-- ID 80: Rambam & Mishneh Torah
-- ID 82: Exodus Liberation Story
-- ID 76: What is Olam HaBa?
-- **Commit & push, report status to you**
+## Phase 2: Import Shabbat (23 articles — 5 batches)
 
-**Batch 7 — Mussar, Life Cycle, Family Purity (3 articles)**
-- ID 75: Cheshbon HaNefesh
-- ID 94: The Jewish Home
-- ID 95: Family Purity
-- **Commit & push, report status to you**
+**Batch 2.1** (5): IDs 200-204 (Hosting, Electricity, Elevator, Summer/Winter, Muktzeh)
+**Batch 2.2** (5): IDs 205-209 (Eruv, Melaveh Malkah, Children, Games, Budget Cooking)
+**Batch 2.3** (5): IDs 210-212, 301-302 (Spiritual Power, Night-Shift, Zemiros, Cholent, Sephardi Chamin)
+**Batch 2.4** (5): IDs 303-307 (Challah Shapes, Salads, Blech, Desserts, Oneg Shabbat)
+**Batch 2.5** (3): IDs 308-310 (Shabbat Nap, Holiday Overlap, Non-Jewish Guests)
+- **Checkpoint: "All 23 shabbat articles imported." Commit & push.**
 
-**Batch 8 — Money, Hebrew Learning (3 articles)**
-- ID 96: Tzedakah Commandment
-- ID 97: Learning Hebrew as a Mandarin Speaker
-- ID 98: Aleph-Bet in One Week
-- **Commit & push, report status to you**
+---
 
-**Batch 9 — Jewish Stories Part 1 (5 articles)**
-- ID 379: Bruriah — Brilliant Woman
-- ID 380: Lost Ten Tribes
-- ID 381: Baal Shem Tov Stories
-- ID 382: Kamtza & Bar Kamtza
-- ID 383: Rachel & Leah
-- **Commit & push, report status to you**
+## Phase 3: Import Life-Cycle (23 articles — 5 batches)
 
-**Batch 10 — Jewish Stories Part 2 (2 articles)**
-- ID 384: Esther's Courage
-- ID 385: The Rebbe's Dollar
-- **Commit & push, report status to you**
+**Batch 3.1** (5): IDs 94, 199, 227-229 (Jewish Home, Names, Brit Milah, Pidyon HaBen, Bar/Bat Mitzvah)
+**Batch 3.2** (5): IDs 230-233, 235 (Wedding, Mourning, Tahara, Yahrzeit, Upsherin)
+**Batch 3.3** (5): IDs 236, 269-272 (Naming, Brit Milah deep, Pidyon HaBen deep, Upsherin deep, Bar Mitzvah Speech)
+**Batch 3.4** (5): IDs 273-277 (Aufruf, Sheva Brachot, Funeral Guide, Shiva Call, Kaddish)
+**Batch 3.5** (3): IDs 278-280 (Yahrzeit deep, Yizkor, Jewish Adoption)
+- **Checkpoint: "All 23 life-cycle articles imported." Commit & push.**
 
-**Batch 11 — Chinese-Jewish Bridge Part 1 (5 articles)**
-- ID 386: Filial Piety & Kibud Av Va'Em
-- ID 387: Concept of Heaven
-- ID 388: Study as Worship
-- ID 389: Food as Culture
-- ID 390: Jewish-Chinese Family
-- **Commit & push, report status to you**
+---
 
-**Batch 12 — Chinese-Jewish Bridge Part 2 (5 articles)**
-- ID 391: Matchmaking
-- ID 392: New Year Compared
-- ID 393: Mourning Traditions
-- ID 394: Humility
-- ID 395: Tea & Torah
-- **Commit & push, report status to you**
+## Phase 4: Import Prayer (19 articles — 4 batches)
 
-**Batch 13 — Chinese-Jewish Bridge Part 3 (5 articles)**
-- ID 396: Chinese Medicine & Halacha
-- ID 397: Translating Concepts
-- ID 398: Red Envelopes & Tzedakah
-- ID 399: Zodiac & Calendar
-- ID 400: Being Jewish in China
-- **Commit & push, report status to you**
+**Batch 4.1** (5): IDs 28, 121-124 (Modeh Ani, Pray Without Hebrew, Bedtime Shema, Minyan, Tehillim)
+**Batch 4.2** (5): IDs 130-133, 311 (Facing Jerusalem, Hallel, Selichot, Kaddish, Kavanah)
+**Batch 4.3** (5): IDs 312-316 (Modim, Tachanun, Ashrei, Kedushah, Language)
+**Batch 4.4** (4): IDs 317-320 (Power of Amen, Mincha, Mi Sheberach, 30-Day Plan)
+- **Checkpoint: "All 19 prayer articles imported." Commit & push.**
 
-**Batch 14 — Chinese-Jewish Bridge Part 4 (1 article)**
-- ID 401: Three New Years
-- **Commit & push, report status to you**
+---
 
-### Phase 3: Content Plan Comprehensive Pages (7 batches)
+## Phase 5: Import Conversion (16 articles — 4 batches)
 
-These are the 33 full-length guide articles. Each needs a new numeric ID assigned (starting from ID 402).
+**Batch 5.1** (5): IDs 56-60 (Thinking About Converting, Ruth, Beit Din, Life as Ger, Finding a Rabbi)
+**Batch 5.2** (5): IDs 64, 159-162 (Family Relationships, Mikvah, Hebrew Name, Famous Converts, Study Checklist)
+**Batch 5.3** (5): IDs 163-167 (Couple Converting, First High Holidays, Doubt, After Conversion, Raising Children)
+**Batch 5.4** (1): ID 168 (Chinese Convert's Story)
+- **Checkpoint: "All 16 conversion articles imported." Commit & push.**
 
-**Batch 15 — Daily Living Guides Part 1 (4 articles)**
-- ID 402: Shabbat Complete Guide
-- ID 403: Blessings Complete Guide
-- ID 404: Prayer Complete Guide
-- ID 405: Kosher Food Complete Guide
-- **Commit & push, report status to you**
+---
 
-**Batch 16 — Daily Living Guides Part 2 (5 articles)**
-- ID 406: Holidays Complete Guide
-- ID 407: Jewish Calendar Complete Guide
-- ID 408: Passover Seder Complete Guide
-- ID 409: Mitzvah Objects Complete Guide
-- ID 410: Clothing & Modesty Complete Guide
-- **Commit & push, report status to you**
+## Phase 6: Import Jewish Philosophy (13 articles — 3 batches)
 
-**Batch 17 — Daily Living Guides Part 3 (3 articles)**
-- ID 411: Family Purity Complete Guide
-- ID 412: Money Laws Complete Guide
-- ID 413: Non-Jewish Relations Complete Guide
-- **Commit & push, report status to you**
+**Batch 6.1** (5): IDs 336-340
+**Batch 6.2** (5): IDs 341-345
+**Batch 6.3** (3): IDs 346-348
+- **Checkpoint: "All 13 jewish-philosophy articles imported." Commit & push.**
 
-**Batch 18 — Foundations (5 articles)**
-- ID 414: Torah Study Complete Guide
-- ID 415: Weekly Parsha Complete Guide
-- ID 416: Ten Commandments Complete Guide
-- ID 417: Thirteen Principles Complete Guide
-- ID 418: Five Megillot Complete Guide
-- **Commit & push, report status to you**
+---
 
-**Batch 19 — Community Life (3 articles)**
-- ID 419: Conversion Complete Guide
-- ID 420: Life Cycle Complete Guide
-- ID 421: Matchmaking Complete Guide
-- **Commit & push, report status to you**
+## Phase 7: Import Practical Halacha (12 articles — 3 batches)
 
-**Batch 20 — History & Identity (5 articles)**
-- ID 422: Jewish History Complete Guide
-- ID 423: Jews in Asia Complete Guide
-- ID 424: Israel Complete Guide
-- ID 425: Ashkenazi & Sephardi Complete Guide
-- ID 426: Antisemitism Complete Guide
-- **Commit & push, report status to you**
+**Batch 7.1** (5): IDs 359-363
+**Batch 7.2** (5): IDs 364-368
+**Batch 7.3** (2): IDs 369-370
+- **Checkpoint: "All 12 practical-halacha articles imported." Commit & push.**
 
-**Batch 21 — History & Identity Part 2 + Texts (5 articles)**
-- ID 427: Messiah Complete Guide
-- ID 428: Tabernacle Complete Guide
-- ID 429: Jewish Texts Complete Guide
-- ID 430: Chabad Complete Guide
-- ID 431: Hebrew Learning Complete Guide
-- **Commit & push, report status to you**
+---
 
-**Batch 22 — Texts & Philosophy (3 articles)**
-- ID 432: Mussar Complete Guide
-- ID 433: Philosophy Complete Guide
-- ID 434: Pirkei Avot Complete Guide
-- **Commit & push, report status to you**
+## Phase 8: Import Israel + Jewish History (21 articles — 5 batches)
 
-### Phase 4: Verification & Cleanup (1 batch)
+**Batch 8.1** (5): Israel IDs 86, 87, 187-189
+**Batch 8.2** (5): Israel IDs 190-194, 262
+**Batch 8.3** (5): Jewish History IDs 81, 253-256
+**Batch 8.4** (5): Jewish History IDs 257-259, 261, 263
+**Batch 8.5** (1): Israel ID 262
+- **Checkpoint: "All 21 israel + jewish-history articles imported." Commit & push.**
 
-**Batch 23 — Final QA**
-- Verify all 86 new articles render correctly in each locale (en/zh/he)
-- Verify bibliography index has entries for all new articles
-- Fix any section mapping issues or broken references
+---
+
+## Phase 9: Import Mussar + Mitzvah-Objects (21 articles — 5 batches)
+
+**Batch 9.1** (5): Mussar IDs 169-173
+**Batch 9.2** (5): Mussar IDs 174-178, 282
+**Batch 9.3** (5): Mitzvah-Objects IDs 196, 218-221
+**Batch 9.4** (5): Mitzvah-Objects IDs 222-226
+- **Checkpoint: "All 21 mussar + mitzvah-objects articles imported." Commit & push.**
+
+---
+
+## Phase 10: Import Jews-in-Asia + Jews-in-Asia-Expanded (17 articles — 4 batches)
+
+**Batch 10.1** (5): Jews-in-Asia IDs 84, 260, 264-266
+**Batch 10.2** (2): Jews-in-Asia IDs 267-268
+**Batch 10.3** (5): Jews-in-Asia-Expanded IDs 349-353
+**Batch 10.4** (5): Jews-in-Asia-Expanded IDs 354-358
+- **Checkpoint: "All 17 jews-in-asia articles imported." Commit & push.**
+
+---
+
+## Phase 11: Import Money-Business + Jewish Values (15 articles — 3 batches)
+
+**Batch 11.1** (5): Money-Business IDs 281, 283-286
+**Batch 11.2** (4): Money-Business IDs 287-290
+**Batch 11.3** (5): Jewish Values IDs 238-240, 242-243
+**Batch 11.4** (1): Jewish Values ID 244
+- **Checkpoint: "All 15 money-business + jewish-values articles imported." Commit & push.**
+
+---
+
+## Phase 12: Import Blessings + Hebrew Learning + Jewish Calendar (24 articles — 5 batches)
+
+**Batch 12.1** (5): Blessings IDs 37, 125-128
+**Batch 12.2** (3): Blessings IDs 129, 134-135
+**Batch 12.3** (5): Hebrew Learning IDs 98, 198, 291-293
+**Batch 12.4** (3): Hebrew Learning IDs 294-296
+**Batch 12.5** (5): Jewish Calendar IDs 151-155
+**Batch 12.6** (3): Jewish Calendar IDs 156-158
+- **Checkpoint: "All 24 blessings + hebrew + calendar articles imported." Commit & push.**
+
+---
+
+## Phase 13: Import Pirkei Avot + Jewish Stories (16 articles — 4 batches)
+
+**Batch 13.1** (5): Pirkei Avot IDs 179-183
+**Batch 13.2** (3): Pirkei Avot IDs 184-186
+**Batch 13.3** (5): Jewish Stories IDs 371-375
+**Batch 13.4** (3): Jewish Stories IDs 376-378
+- **Checkpoint: "All 16 pirkei-avot + jewish-stories articles imported." Commit & push.**
+
+---
+
+## Phase 14: Import Remaining Sections (28 articles — 6 batches)
+
+**Batch 14.1** (5): Weekly-Parsha IDs 1, 5, 116-118
+**Batch 14.2** (2): Weekly-Parsha IDs 119-120
+**Batch 14.3** (5): Jewish Texts IDs 71, 72, 195, 197, 234 + 241
+**Batch 14.4** (5): Chabad IDs 245-246, 250-252
+**Batch 14.5** (5): Kosher-Food IDs 213-217
+**Batch 14.6** (4): Antisemitism IDs 297-300
+- **Commit & push, report to you**
+
+**Batch 14.7** (5): Philosophy IDs 66, 247-249 + Passover IDs 144-145
+**Batch 14.8** (5): Passover ID 149 + Torah-Light-Articles (3) + Community ID 62 + Jewish-Home ID 237
+**Batch 14.9** (3): Messiah ID 99 + Non-Jewish-Relations ID 61 + Torah-Study ID 3
+- **Checkpoint: "All remaining sections imported." Commit & push.**
+
+---
+
+## Phase 15: Validation & Final QA
+
+- Verify `articles.json` has ~369 articles with title_en, body_en, section
+- Verify `bibliography-index.json` has entries for all articles with tags and sources
+- Verify all 7 new section pages render correctly
 - Run `npm run build` to confirm no errors
-- **Final commit & push, report complete summary to you**
+- Spot-check 10 random articles across different sections
+- **Final commit & push, full summary report**
 
 ---
 
 ## Communication Plan
 
-After **every batch** I will report to you with:
-1. Which articles were added (IDs and titles)
-2. Which sections they went into
-3. Whether tags and bibliography entries were created
-4. Any issues encountered (missing translations, metadata gaps, etc.)
-5. Running total of articles integrated vs remaining
+After **every batch** I report:
+1. Which articles were added (ID, title, section)
+2. Running total (e.g., "56/291 imported")
+3. Tags and bibliography entries created
+4. Any issues (missing translations, metadata gaps)
 
-After **every 5 batches** I will provide a summary checkpoint so you can review progress.
+After **each phase** I give a section summary.
+
+After **phases 8 and 14** I give a full progress checkpoint.
 
 ---
 
 ## Summary
 
-| Phase | Batches | Articles | Description |
-|-------|---------|----------|-------------|
-| 1: Setup | 1 | 0 | Infrastructure, new routes, fixes |
-| 2: Numbered | 14 | 53 | Articles with existing IDs from branch |
-| 3: Content Plans | 8 | 33 | Comprehensive guide pages |
-| 4: QA | 1 | 0 | Verification and cleanup |
-| **Total** | **24 batches** | **86 articles** | |
+| Phase | Section(s) | Articles | Batches |
+|-------|-----------|----------|---------|
+| 0 | Setup + new pages | 0 | 2 |
+| 1 | Holidays | 29 | 6 |
+| 2 | Shabbat | 23 | 5 |
+| 3 | Life-Cycle | 23 | 5 |
+| 4 | Prayer | 19 | 4 |
+| 5 | Conversion | 16 | 4 |
+| 6 | Jewish Philosophy | 13 | 3 |
+| 7 | Practical Halacha | 12 | 3 |
+| 8 | Israel + Jewish History | 21 | 5 |
+| 9 | Mussar + Mitzvah-Objects | 21 | 4 |
+| 10 | Jews-in-Asia (both) | 17 | 4 |
+| 11 | Money-Business + Jewish Values | 15 | 4 |
+| 12 | Blessings + Hebrew + Calendar | 24 | 6 |
+| 13 | Pirkei Avot + Stories | 16 | 4 |
+| 14 | All remaining sections | 28 | 9 |
+| 15 | Validation & QA | 0 | 1 |
+| **Total** | **34 sections** | **291 articles** | **~69 batches** |
+
+## What Each Article Gets
+
+1. **articles.json entry**: id, section, title_en/zh/he, body_en/zh/he, created_at, updated_at
+2. **bibliography-index.json entry**: id, title (3 langs), section, description, tags[], sources[], cultural_parallels[], chinese_dynasty_references[], status, filePath
+3. **Correct section mapping** to website slug
+4. **10-16 tags** from metadata.json
+5. **5-7 bibliography sources** from metadata.json
+6. **Cultural parallels** (Chinese-Jewish connections)
