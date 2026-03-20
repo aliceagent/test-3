@@ -6628,5 +6628,768 @@
     "chinese_dynasty_references": [],
     "status": "complete",
     "filePath": "life-cycle/280-jewish-adoption/metadata.json"
+  },
+  {
+    "id": 28,
+    "title": {
+      "en": "Modeh Ani: The First Words a Jew Says Every Morning",
+      "zh": "Modeh Ani：犹太人每天早晨说的第一句话",
+      "he": "מודה אני: המילים הראשונות שיהודי אומר כל בוקר"
+    },
+    "section": "prayer",
+    "description": {
+      "en": "The meaning and practice of the Modeh Ani prayer, said immediately upon waking — even before getting out of bed.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "ModehAni",
+      "Prayer",
+      "MorningPractice",
+      "Gratitude",
+      "感恩",
+      "JewishWisdom",
+      "Daily",
+      "Routine",
+      "Mindfulness",
+      "正念",
+      "ChineseTradition",
+      "Confucius",
+      "孔子",
+      "Spirituality",
+      "Awakening",
+      "Renewal",
+      "MingDynasty",
+      "ShangDynasty",
+      "商朝"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Confucian daily self-examination (三省吾身)",
+      "Taoist morning qi cultivation",
+      "Buddhist merit dedication practices",
+      "Chinese filial piety traditions (孝)"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "draft_complete",
+    "filePath": "prayer/028-modeh-ani/metadata.json"
+  },
+  {
+    "id": 121,
+    "title": {
+      "en": "How to Pray When You Don't Know Hebrew Yet",
+      "zh": "尚未掌握希伯来语时如何祈祷",
+      "he": "איך להתפלל כשעדיין לא יודעים עברית"
+    },
+    "section": "prayer",
+    "description": {
+      "en": "Practical guidance for beginners who want to start davening but haven't mastered Hebrew — what to say in your own language and what to learn first.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Prayer",
+      "Pray",
+      "Don't",
+      "Know",
+      "Hebrew",
+      "Yet"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [
+      {
+        "dynasty": "Eastern Han Dynasty",
+        "chinese": "东汉",
+        "years": "25-220 CE",
+        "context": "Period when Jewish communities in Babylonia were praying in Aramaic rather than Hebrew, showing historical precedent for prayer in vernacular languages"
+      },
+      {
+        "dynasty": "Han Dynasty",
+        "chinese": "汉朝",
+        "years": "206 BCE - 220 CE",
+        "context": "Chinese scholars mastered thousands of characters through patient daily practice, paralleling the approach needed for Hebrew learning"
+      },
+      {
+        "dynasty": "Tang Dynasty",
+        "chinese": "唐朝",
+        "years": "618-907 CE",
+        "context": "Li Bai (李白, 701-762 CE) wrote great verses after years of studying classical forms, showing that mastery comes through gradual practice"
+      },
+      {
+        "dynasty": "Song Dynasty",
+        "chinese": "宋朝",
+        "years": "960-1279 CE",
+        "context": "Scholar Zhu Xi (朱熹) taught that learning requires both study (学) and reflection (习), applicable to Jewish prayer learning"
+      }
+    ],
+    "status": "published",
+    "filePath": "prayer/121-praying-without-hebrew/metadata.json"
+  },
+  {
+    "id": 122,
+    "title": {
+      "en": "The Bedtime Shema: Ending Your Day with God",
+      "zh": "睡前示玛经：与神结束一天",
+      "he": "קריאת שמע על המטה: סיום היום עם הקב\"ה"
+    },
+    "section": "prayer",
+    "description": {
+      "en": "Explore the sacred Jewish practice of bedtime Shema, including the full text and meaning of Kriat Shema Al HaMitah, the prayers said before sleep, and the transformative practice of forgiving others before rest.",
+      "zh": "探索睡前示玛经的神圣犹太实践，包括克利亚特·示玛·阿尔·哈米塔的完整文本和意义、睡前祈祷，以及在休息前宽恕他人的转化性实践。",
+      "he": "חקרו את התרגול היהודי הקדוש של קריאת שמע על המטה, כולל הטקסט המלא והמשמעות של קריאת שמע על המטה, התפילות הנאמרות לפני השינה, והתרגול המשנה חיים של סליחה לאחרים לפני המנוחה."
+    },
+    "tags": [
+      "Prayer",
+      "Bedtime",
+      "Shema",
+      "Ending",
+      "Day",
+      "God"
+    ],
+    "sources": [
+      "https://www.sefaria.org/Berakhot.4b.7",
+      "https://www.sefaria.org/Shulchan_Arukh%2C_Orach_Chayim.239.1",
+      "https://www.myjewishlearning.com/article/bedtime-shema/",
+      "https://www.sefaria.org/Siddur_Sim_Shalom_for_Weekdays,_Kriat_Shema_Al_HaMitah.1",
+      "https://www.sefaria.org/Mishnah_Berurah.239.4.1"
+    ],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "prayer/122-bedtime-shema/metadata.json"
+  },
+  {
+    "id": 123,
+    "title": {
+      "en": "What is a Minyan and Why Does It Matter?",
+      "zh": "什么是敏扬（Minyan）？为什么它如此重要？",
+      "he": "מהו מנין ומדוע הוא כה חשוב?"
+    },
+    "section": "prayer",
+    "description": {
+      "en": "Understanding the sacred requirement of ten Jewish men for communal prayer, the spiritual power of collective worship, and practical guidance when no minyan is available.",
+      "zh": "理解犹太教集体祈祷中十名男性的神圣要求，集体崇拜的精神力量，以及当没有敏扬时的实用指导。",
+      "he": "הבנת הדרישה הקדושה לעשרה יהודים זכרים בתפילה ציבורית, הכוח הרוחני של עבודה קולקטיבית, והדרכה מעשית כאשר אין מנין זמין."
+    },
+    "tags": [
+      "Prayer",
+      "Minyan",
+      "Does",
+      "Matter"
+    ],
+    "sources": [
+      "https://www.sefaria.org/Megillah.23b",
+      "https://www.sefaria.org/Berakhot.8a",
+      "https://www.sefaria.org/Numbers.13",
+      "https://www.sefaria.org/Genesis.18.32",
+      "https://www.sefaria.org/Shulchan_Arukh%2C_Orach_Chayim.55",
+      "https://www.sefaria.org/Mishnah_Berurah.55"
+    ],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "published",
+    "filePath": "prayer/123-minyan-explained/metadata.json"
+  },
+  {
+    "id": 124,
+    "title": {
+      "en": "Tehillim (Psalms): The Jewish Answer to Every Emotion",
+      "zh": "诗篇（Tehillim）：犹太人对每种情感的回应",
+      "he": "תהילים: התשובה היהודית לכל רגש"
+    },
+    "section": "prayer",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Prayer",
+      "Tehillim",
+      "Psalms",
+      "Jewish",
+      "Answer",
+      "Every",
+      "Emotion"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "prayer/124-tehillim-psalms-guide/metadata.json"
+  },
+  {
+    "id": 130,
+    "title": {
+      "en": "Praying Facing Jerusalem: Why Direction Matters",
+      "zh": "面向耶路撒冷祷告：方向为何重要",
+      "he": "תפילה כלפי ירושלים: למה כיוון חשוב"
+    },
+    "section": "prayer",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Prayer",
+      "nochach_yerushalayim",
+      "temple_mount_orientation",
+      "global_jewish_unity",
+      "mizrach_determination",
+      "Praying",
+      "Facing",
+      "Jerusalem",
+      "Direction",
+      "Matters"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "prayer/130-praying-facing-jerusalem/metadata.json"
+  },
+  {
+    "id": 131,
+    "title": {
+      "en": "Hallel: The Psalms of Praise We Sing on Holidays",
+      "zh": "哈勒尔：节日吟唱的赞美诗篇",
+      "he": "הלל: תהילי השבח שאנו שרים בחגים"
+    },
+    "section": "prayer",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Prayer",
+      "Hallel",
+      "Psalms",
+      "Praise",
+      "Sing",
+      "Holidays"
+    ],
+    "sources": [
+      "Psalms 113-118",
+      "Talmud Bavli, Tractate Pesachim",
+      "Shulchan Aruch, Orach Chaim 422-426",
+      "Mishnah Sukkah 3:9-11"
+    ],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "prayer/131-hallel-psalms-praise/metadata.json"
+  },
+  {
+    "id": 132,
+    "title": {
+      "en": "Selichot: The Prayers of Repentance Before the High Holidays",
+      "zh": "赎罪祷告（Selichot）：大节期前的忏悔祷文",
+      "he": "סליחות: תפילות הסליחה לפני הימים הנוראים"
+    },
+    "section": "prayer",
+    "description": {
+      "en": "Exploring the sacred tradition of Selichot prayers, their liturgical structure, spiritual significance, and role in preparing the soul for Rosh Hashanah and Yom Kippur through pre-dawn penitential worship.",
+      "zh": "探索赛利豁特祷文的神圣传统，其礼拜结构、精神意义，以及通过黎明前忏悔崇拜为新年和赎罪日准备灵魂的作用。",
+      "he": "חקירת המסורת הקדושה של תפילות הסליחות, המבנה הליטורגי שלהן, המשמעות הרוחנית, ותפקידן בהכנת הנשמה לראש השנה ויום כפור דרך תפילת חרטה בשחר."
+    },
+    "tags": [
+      "Prayer",
+      "Selichot",
+      "Prayers",
+      "Repentance",
+      "Before",
+      "High",
+      "Holidays"
+    ],
+    "sources": [
+      "https://www.sefaria.org/Exodus.34.6-7",
+      "https://www.sefaria.org/Rosh_Hashanah.17b",
+      "https://www.sefaria.org/Shulchan_Arukh%2C_Orach_Chayim.581",
+      "https://www.sefaria.org/Mishnah_Berurah.581",
+      "https://www.sefaria.org/topics/high-holiday-liturgy",
+      "https://www.sefaria.org/Kitzur_Shulchan_Aruch.128"
+    ],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "published",
+    "filePath": "prayer/132-selichot-repentance/metadata.json"
+  },
+  {
+    "id": 133,
+    "title": {
+      "en": "Saying Kaddish: The Mourner's Prayer That Praises God",
+      "zh": "",
+      "he": ""
+    },
+    "section": "prayer",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Prayer",
+      "Kaddish contains no mention of death",
+      "Written in Aramaic, not Hebrew",
+      "Transforms grief into divine service",
+      "Creates community support for mourners",
+      "Saying",
+      "Kaddish",
+      "Mourner's",
+      "That",
+      "Praises",
+      "God"
+    ],
+    "sources": [
+      "Traditional Jewish Prayer Book",
+      "Talmud Bavli",
+      "Jewish mourning customs",
+      "Aramaic liturgy traditions"
+    ],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "prayer/133-kaddish-mourners-prayer/metadata.json"
+  },
+  {
+    "id": 311,
+    "title": {
+      "en": "Kavanah: The Art of Praying with Intention",
+      "zh": "Kavanah（卡瓦纳）：带着意念祈祷的艺术",
+      "he": "כוונה: אמנות התפילה בכוונה"
+    },
+    "section": "prayer",
+    "description": {
+      "en": "How to move beyond rote recitation into genuine connection with God — practical techniques from Chassidic and Mussar traditions.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "kavanah",
+      "prayer-with-intention",
+      "jewish-prayer",
+      "amidah",
+      "concentration",
+      "spirituality",
+      "chassidus",
+      "mussar",
+      "daily-practice",
+      "mindfulness",
+      "祷告",
+      "专注",
+      "意识",
+      "灵性修炼"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Confucian self-cultivation (修身)",
+      "Daoist wu wei (无为) - effortless action",
+      "Buddhist meditation practices",
+      "Chinese collective harmony (和)",
+      "Gradual spiritual growth similar to Chinese philosophical traditions"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "completed",
+    "filePath": "prayer/311-kavanah-art-praying-intention/metadata.json"
+  },
+  {
+    "id": 312,
+    "title": {
+      "en": "The Modim Prayer: Why We Bow and Give Thanks",
+      "zh": "Modim 祷文：为何我们鞠躬并献上感恩",
+      "he": "תפילת מודים: למה אנחנו משתחווים ונותנים תודה"
+    },
+    "section": "prayer",
+    "description": {
+      "en": "A close reading of the Modim blessing in the Amidah — the only blessing where the entire congregation bows — and its theology of gratitude.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Modim",
+      "Prayer",
+      "Gratitude",
+      "Amidah",
+      "Humility",
+      "DailyMiracles",
+      "Kavanah",
+      "Thanksgiving",
+      "JewishLiturgy",
+      "Bowing",
+      "ModimDRabbanan",
+      "孝",
+      "感恩",
+      "祈祷"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "completed",
+    "filePath": "prayer/312-modim-prayer-bow-give-thanks/metadata.json"
+  },
+  {
+    "id": 313,
+    "title": {
+      "en": "Tachanun: The Most Unpopular Prayer and Why We Need It",
+      "zh": "Tachanun:最不受欢迎的祷告——为何我们仍需要它",
+      "he": "תחנון: התפילה הכי פחות פופולרית – ולמה אנחנו צריכים אותה"
+    },
+    "section": "prayer",
+    "description": {
+      "en": "Why Jews rest their heads on their arms during this confessional prayer, when it's skipped, and what it teaches about vulnerability before God.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Prayer",
+      "Tachanun",
+      "Confession",
+      "Vulnerability",
+      "Humility",
+      "DivineAttributes",
+      "ThirteenAttributes",
+      "Teshuvah",
+      "Repentance",
+      "Supplication",
+      "Mussar",
+      "SelfExamination",
+      "KavanahinPrayer",
+      "Anavah",
+      "Nefilatapayim",
+      "祈祷",
+      "认罪",
+      "谦卑",
+      "悔改",
+      "自省",
+      "תפילה",
+      "תחנון",
+      "וידוי",
+      "פגיעות",
+      "ענווה"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Buddhist confession practices",
+      "Daoist wu wei (non-action)",
+      "Confucian self-examination (修身)",
+      "Confucian filial piety parallels to humility",
+      "Chinese historical period mapping (Western Zhou Dynasty)"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "prayer/313-tachanun-unpopular-prayer/metadata.json"
+  },
+  {
+    "id": 314,
+    "title": {
+      "en": "Ashrei: The Psalm Recited Three Times Daily",
+      "zh": "Ashrei:每日诵读三次的诗篇",
+      "he": "אשרי: המזמור הנאמר שלוש פעמים ביום"
+    },
+    "section": "prayer",
+    "description": {
+      "en": "Why Psalm 145 holds such a central place in Jewish prayer — its acrostic structure, its promises, and the missing letter nun.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Ashrei",
+      "Psalms",
+      "DailyPrayer",
+      "Shacharit",
+      "Mincha",
+      "Maariv",
+      "Kavanah",
+      "Acrostic",
+      "TehillimPsalms",
+      "GodsProvidence",
+      "WorldToCome",
+      "Talmud",
+      "三时",
+      "祈祷",
+      "诗篇",
+      "Prayer",
+      "תהילים",
+      "תפילה"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Three daily prayer times similar to Buddhist/Daoist practice (三时)",
+      "Alphabetic acrostic structure similar to Chinese hidden-head poetry (藏头诗)",
+      "Repetitive practice as formation similar to Confucian ritual (礼)",
+      "Chinese historical periods: Han Dynasty (汉朝) for Second Temple period, Song Dynasty (宋朝) for medieval rabbis"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "prayer/314-ashrei-psalm-three-times-daily/metadata.json"
+  },
+  {
+    "id": 315,
+    "title": {
+      "en": "The Kedushah: When We Imitate the Angels",
+      "zh": "圣洁祷文（Kedushah）：当我们模仿天使",
+      "he": "הקדושה: כאשר אנחנו מחקים את המלאכים"
+    },
+    "section": "prayer",
+    "description": {
+      "en": "Rising on our toes, swaying in unison, crying \"Kadosh, Kadosh, Kadosh\" — what happens during Kedushah and its mystical significance.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Kedushah",
+      "Prayer",
+      "Angels",
+      "Holiness",
+      "IsaiahsVision",
+      "EzekielsVision",
+      "JewishMysticism",
+      "Kabbalah",
+      "Minyan",
+      "CommunalPrayer",
+      "Seraphim",
+      "Kadosh",
+      "קדושה",
+      "天使",
+      "祈祷",
+      "圣洁"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "prayer/315-kedushah-imitating-angels/metadata.json"
+  },
+  {
+    "id": 316,
+    "title": {
+      "en": "Praying in a Language You Don't Understand: Is It Valid?",
+      "zh": "用不懂的语言祈祷:这样有效吗?",
+      "he": "תפילה בשפה שאינך מבין: האם זה תקף?"
+    },
+    "section": "prayer",
+    "description": {
+      "en": "The halachic debate about praying in Hebrew vs. your native language, and a balanced approach for learners still building Hebrew skills.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Prayer",
+      "Hebrew",
+      "Language",
+      "Kavanah",
+      "Shema",
+      "Amidah",
+      "Siddur",
+      "BeginnerJudaism",
+      "Chassidus",
+      "Halacha",
+      "Rashi",
+      "Maimonides",
+      "BaalShemTov",
+      "ChineseJewishLearners",
+      "Translation",
+      "SacredLanguage",
+      "HeartVsHead",
+      "JewishMysticism",
+      "Kabbalah"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "prayer/316-praying-language-dont-understand/metadata.json"
+  },
+  {
+    "id": 317,
+    "title": {
+      "en": "The Power of Amen: What You're Really Saying",
+      "zh": "阿们的力量：你真正在说什么",
+      "he": "כוח האמן: מה אתה באמת אומר"
+    },
+    "section": "prayer",
+    "description": {
+      "en": "The etymology, laws, and spiritual weight of responding 'Amen' — why it's considered even greater than making the blessing itself.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Amen",
+      "Prayer",
+      "Kavanah",
+      "Communal Prayer",
+      "Jewish Law",
+      "Halacha",
+      "Mysticism",
+      "Kabbalah",
+      "Gematria",
+      "Names of God",
+      "Affirmation",
+      "Chinese-Jewish Bridge",
+      "真言",
+      "正名",
+      "Berakhot",
+      "Talmud",
+      "Shulchan Aruch",
+      "Baal Shem Tov",
+      "Chafetz Chaim",
+      "Mishnah Berurah"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "completed",
+    "filePath": "prayer/317-power-of-amen/metadata.json"
+  },
+  {
+    "id": 318,
+    "title": {
+      "en": "Mincha: Why the Afternoon Prayer Is Considered the Hardest — and Most Powerful",
+      "zh": "午后祷告:为什么下午祷告最难——也最有力量",
+      "he": "מנחה: למה תפילת אחר הצהריים נחשבת הקשה ביותר — והעוצמתית ביותר"
+    },
+    "section": "prayer",
+    "description": {
+      "en": "The challenge of stopping mid-day to pray, why the Talmud says Elijah was answered specifically at Mincha, and tips for consistency.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Mincha",
+      "Prayer",
+      "Elijah",
+      "Gevurah",
+      "DailyPractice",
+      "Discipline",
+      "SpiritualWarfare",
+      "Amidah",
+      "Isaac",
+      "MountCarmel",
+      "午时",
+      "未时",
+      "氣",
+      "Interruption",
+      "Consistency",
+      "Shacharit",
+      "Maariv",
+      "Talmud"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "prayer/318-mincha-afternoon-prayer/metadata.json"
+  },
+  {
+    "id": 319,
+    "title": {
+      "en": "Prayer for the Sick: Mi Sheberach and Tehillim for Healing",
+      "zh": "为病人祈祷:米·舍贝拉赫祷文与诗篇的医治力量",
+      "he": "תפילה לחולה: מי שברך ותהילים לרפואה"
+    },
+    "section": "prayer",
+    "description": {
+      "en": "How to request a Mi Sheberach prayer, which Psalms to recite for a sick person, and the Jewish approach to prayer and medicine.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Prayer",
+      "Healing",
+      "Mi Sheberach",
+      "Tehillim",
+      "Psalms",
+      "Refuah Shleimah",
+      "Bikur Cholim",
+      "Medicine",
+      "Faith",
+      "Community",
+      "祈祷",
+      "医治",
+      "祈福",
+      "诗篇",
+      "信仰",
+      "身心合一",
+      "תפילה",
+      "ריפוי",
+      "מישברך",
+      "תהלים",
+      "רפואהשלמה",
+      "ביקורחולים"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [
+      {
+        "dynasty": "Western Zhou Dynasty (西周, ~1000 BCE)",
+        "chinese": "",
+        "years": "",
+        "context": ""
+      },
+      {
+        "dynasty": "Song Dynasty (宋朝, 960-1279 CE)",
+        "chinese": "",
+        "years": "",
+        "context": ""
+      },
+      {
+        "dynasty": "Three Kingdoms and Jin Dynasty (200-500 CE)",
+        "chinese": "",
+        "years": "",
+        "context": ""
+      },
+      {
+        "dynasty": "Spring and Autumn Period (春秋, ~700 BCE)",
+        "chinese": "",
+        "years": "",
+        "context": ""
+      }
+    ],
+    "status": "complete",
+    "filePath": "prayer/319-prayer-for-sick-mi-sheberach/metadata.json"
+  },
+  {
+    "id": 320,
+    "title": {
+      "en": "Building a Daily Prayer Routine: A 30-Day Plan for Beginners",
+      "zh": "建立每日祈祷习惯：30天新手计划",
+      "he": "בניית שגרת תפילה יומית: תוכנית 30 יום למתחילים"
+    },
+    "section": "prayer",
+    "description": {
+      "en": "A gradual plan that starts with Modeh Ani on Day 1 and builds to a complete Shacharit by Day 30 — designed for absolute beginners.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Prayer",
+      "Daily Practice",
+      "Shacharit",
+      "Amidah",
+      "Shema",
+      "Beginner Guide",
+      "Spiritual Discipline",
+      "Modeh Ani",
+      "Siddur",
+      "功夫",
+      "修身",
+      "Daily Routine",
+      "תפילה",
+      "שחרית",
+      "עמידה"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Confucian self-cultivation (修身)",
+      "Buddhist meditation practices",
+      "Tai Chi and Qigong morning routines",
+      "Gongfu (功夫) - skill through repetition"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "prayer/320-building-daily-prayer-routine/metadata.json"
   }
 ]
