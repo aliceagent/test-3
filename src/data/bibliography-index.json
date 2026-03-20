@@ -9104,5 +9104,878 @@
     "chinese_dynasty_references": [],
     "status": "complete",
     "filePath": "practical-halacha-for-daily-life/370-kibbutz-galuyot-ingathering-prayer/metadata.json"
+  },
+  {
+    "id": 86,
+    "title": {
+      "en": "Jerusalem Through the Ages: Why This City Matters to Jews",
+      "zh": "历代耶路撒冷：为何这座城市对犹太人至关重要",
+      "he": "ירושלים לאורך הדורות: למה העיר הזאת חשובה ליהודים"
+    },
+    "section": "israel",
+    "description": {
+      "en": "A comprehensive historical journey through Jerusalem's 3,000-year significance to the Jewish people, from King David's conquest to modern times.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Jerusalem",
+      "Yerushalayim",
+      "耶路撒冷",
+      "Israel",
+      "以色列",
+      "KingDavid",
+      "大卫王",
+      "Temple",
+      "圣殿",
+      "WesternWall",
+      "西墙",
+      "TishaBAv",
+      "圣殿被毁日",
+      "NextYearInJerusalem",
+      "明年在耶路撒冷",
+      "JewishHistory",
+      "犹太历史",
+      "SixDayWar",
+      "六日战争",
+      "1967",
+      "Zionism",
+      "锡安主义",
+      "HolyCity",
+      "圣城",
+      "TempleMount",
+      "圣殿山",
+      "Redemption",
+      "救赎",
+      "Exile",
+      "流亡",
+      "Return",
+      "回归",
+      "CityOfDavid",
+      "大卫之城",
+      "Shekhinah",
+      "神的临在",
+      "JewishPrayer",
+      "犹太祷告",
+      "LShanaHabaah",
+      "明年",
+      "IfIForgetYouJerusalem",
+      "我若忘记你耶路撒冷"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [
+      {
+        "dynasty": "Western Zhou Dynasty",
+        "chinese": "西周",
+        "years": "~1046-771 BCE",
+        "context": "Period when King David conquered Jerusalem and Solomon built the First Temple"
+      },
+      {
+        "dynasty": "Spring and Autumn Period",
+        "chinese": "春秋时代",
+        "years": "770-476 BCE",
+        "context": "When the Babylonians destroyed the First Temple in 586 BCE"
+      }
+    ],
+    "status": "published",
+    "filePath": "israel/086-jerusalem-through-ages/metadata.json"
+  },
+  {
+    "id": 87,
+    "title": {
+      "en": "What is Zionism? A Jewish Perspective",
+      "zh": "什么是犹太复国主义？犹太视角",
+      "he": "מהי ציונות? נקודת מבט יהודית"
+    },
+    "section": "israel",
+    "description": {
+      "en": "An exploration of Zionism from a Jewish perspective — its biblical roots, historical development, and theological significance.",
+      "he": "חקירה של הציונות מנקודת מבט יהודית — שורשיה המקראיים, התפתחותה ההיסטורית ומשמעותה התיאולוגית.",
+      "zh": "从犹太视角探索犹太复国主义——它的圣经根源、历史发展和神学意义。"
+    },
+    "tags": [
+      "zionism",
+      "israel",
+      "eretz-yisrael",
+      "jerusalem",
+      "zion",
+      "theodor-herzl",
+      "rav-kook",
+      "aliyah",
+      "diaspora",
+      "jewish-homeland",
+      "state-of-israel",
+      "jewish-history",
+      "modern-israel",
+      "犹太复国主义",
+      "以色列",
+      "耶路撒冷"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "published",
+    "filePath": "israel/087-what-is-zionism/metadata.json"
+  },
+  {
+    "id": 187,
+    "title": {
+      "en": "The Four Holy Cities of Israel: Jerusalem, Hebron, Safed, and Tiberias",
+      "zh": "以色列四大圣城:耶路撒冷、希伯伦、采法特与太巴列",
+      "he": "ארבע ערי הקודש בישראל: ירושלים, חברון, צפת וטבריה"
+    },
+    "section": "israel",
+    "description": {
+      "en": "An exploration of the four holy cities in Jewish tradition—Jerusalem, Hebron, Safed, and Tiberias—examining their historical significance, spiritual importance, and unique contributions to Jewish thought and practice.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Israel",
+      "Four",
+      "Holy",
+      "Cities",
+      "Jerusalem",
+      "Hebron",
+      "Safed",
+      "Tiberias"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Chinese sacred mountains (Mount Tai, Mount Emei, Mount Wutai)",
+      "Qufu as Confucius' birthplace",
+      "故鄉 (gùxiāng) - ancestral hometown concept",
+      "扫墓 (sǎo mù) - visiting ancestral graves",
+      "Buddhist monastery cities for meditation and spiritual practice",
+      "Four cardinal directions in Chinese cosmology"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "israel/187-four-holy-cities/metadata.json"
+  },
+  {
+    "id": 188,
+    "title": {
+      "en": "The Temple Mount: Past, Present, and Future",
+      "zh": "圣殿山:过去、现在与未来",
+      "he": "הר הבית: עבר, הווה ועתיד"
+    },
+    "section": "israel",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Israel",
+      "Yoma 54b",
+      "Sukkot 55b",
+      "Berachot 26b",
+      "Temple",
+      "Mount",
+      "Past",
+      "Present",
+      "Future"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "israel/188-temple-mount-history/metadata.json"
+  },
+  {
+    "id": 189,
+    "title": {
+      "en": "The Land of Milk and Honey: What the Torah Means",
+      "zh": "流淌着奶与蜜的土地:妥拉的真正含义",
+      "he": "ארץ זבת חלב ודבש: מה התורה מתכוונת"
+    },
+    "section": "israel",
+    "description": {
+      "en": "An exploration of the Torah's famous phrase 'land flowing with milk and honey' - its literal meaning, symbolic layers, and spiritual significance. Includes parallels to Chinese concepts of agricultural abundance and ideal society.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Israel",
+      "Land",
+      "Milk",
+      "Honey",
+      "Torah",
+      "Means"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "israel/189-land-milk-honey/metadata.json"
+  },
+  {
+    "id": 190,
+    "title": {
+      "en": "Praying for Rain in Israel: How Weather Connects Jews Worldwide",
+      "zh": "为以色列祈雨:天气如何连接全世界的犹太人",
+      "he": "תפילה לגשם בארץ ישראל: איך מזג האויר מחבר יהודים בכל העולם"
+    },
+    "section": "israel",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Israel",
+      "Prayer orientation toward Jerusalem",
+      "Israel's unique Mediterranean climate",
+      "Praying",
+      "Rain",
+      "Weather",
+      "Connects",
+      "Jews",
+      "Worldwide"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "completed",
+    "filePath": "israel/190-praying-rain-israel/metadata.json"
+  },
+  {
+    "id": 191,
+    "title": {
+      "en": "Making Aliyah: The Mitzvah of Living in Israel",
+      "zh": "回归以色列:定居圣地的诫命",
+      "he": "עלייה לארץ: מצוות ישיבת ארץ ישראל"
+    },
+    "section": "israel",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Israel",
+      "Aliyah (עלייה)",
+      "Eretz Yisrael",
+      "Mitzvah d'oraita",
+      "Nachmanides (Ramban)",
+      "Maimonides (Rambam)",
+      "Ketubot 110b",
+      "First and Second Temple periods",
+      "Modern aliyah waves since 1882",
+      "State of Israel establishment 1948",
+      "Spiritual dimensions of the Land",
+      "Practical challenges of immigration",
+      "Jewish Agency and Nefesh B'Nefesh",
+      "Making",
+      "Aliyah",
+      "Mitzvah"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "israel/191-making-aliyah-mitzvah/metadata.json"
+  },
+  {
+    "id": 192,
+    "title": {
+      "en": "Rachel's Tomb, the Cave of Machpelah, and Other Ancestral Sites",
+      "zh": "拉结之墓、麦比拉洞与其他祖先圣地",
+      "he": "קבר רחל, מערת המכפלה ואתרי קבורה אבותיים נוספים"
+    },
+    "section": "israel",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Israel",
+      "Rachel's",
+      "Tomb",
+      "Cave",
+      "Machpelah",
+      "Other",
+      "Ancestral",
+      "Sites"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Chinese ancestor veneration (祖先崇拜)",
+      "Qingming Festival tomb visiting (清明节扫墓)",
+      "Filial piety (孝道)",
+      "Ancestral tablets and memorial practices",
+      "Maintaining family bonds across generations",
+      "Respect for burial sites across cultures"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "israel/192-ancestral-burial-sites/metadata.json"
+  },
+  {
+    "id": 193,
+    "title": {
+      "en": "The Negev, the Galilee, and the Jordan Valley in the Torah",
+      "zh": "妥拉中的内盖夫、加利利和约旦河谷",
+      "he": "הנגב, הגליל ועמק הירדן בתורה"
+    },
+    "section": "israel",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Israel",
+      "Negev",
+      "Galilee",
+      "Jordan",
+      "Valley",
+      "Torah"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "israel/193-biblical-geography-israel/metadata.json"
+  },
+  {
+    "id": 194,
+    "title": {
+      "en": "Israel-China Relations: A Jewish Perspective",
+      "zh": "以色列与中国关系:犹太视角",
+      "he": "יחסי ישראל-סין: נקודת מבט יהודית"
+    },
+    "section": "israel",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Israel",
+      "Chesed (loving-kindness)",
+      "Hakarat HaTov (gratitude)",
+      "Tikkun Olam (repairing the world)",
+      "Historical memory",
+      "Cultural bridge-building",
+      "Emtza (balance/middle path)",
+      "Binah (discernment)",
+      "Tikvah (hope)",
+      "Israel-China",
+      "Relations",
+      "Jewish",
+      "Perspective"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "israel/194-israel-china-relations/metadata.json"
+  },
+  {
+    "id": 262,
+    "title": {
+      "en": "The Birth of the State of Israel in 1948",
+      "zh": "1948年以色列国的诞生",
+      "he": "הקמת מדינת ישראל בשנת 1948"
+    },
+    "section": "israel",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Israel",
+      "1948",
+      "Independence",
+      "David Ben-Gurion",
+      "Holocaust",
+      "Zionism",
+      "UN Partition Plan",
+      "War of Independence",
+      "Jewish State",
+      "State Building",
+      "National Restoration",
+      "Middle East",
+      "Arab-Israeli Conflict",
+      "Refugees",
+      "Democracy",
+      "Jewish History",
+      "Modern History",
+      "中华人民共和国",
+      "民族复兴",
+      "独立战争"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "israel/262-israel-birth-1948/metadata.json"
+  },
+  {
+    "id": 81,
+    "title": {
+      "en": "Abraham: The First Jew and What He Taught the World",
+      "zh": "亚伯拉罕：第一个犹太人和他教导世界的",
+      "he": "אברהם: היהודי הראשון ומה שלימד את העולם"
+    },
+    "section": "jewish-history",
+    "description": {
+      "en": "The story of Abraham, the founding father of the Jewish people, his discovery of monotheism, and the enduring lessons of his life for modern seekers.",
+      "he": "סיפורו של אברהם, אבי האומה היהודית, גילוי המונותאיזם שלו, והלקחים הנצחיים מחייו למחפשים מודרניים.",
+      "zh": "亚伯拉罕的故事——犹太人民的创始人，他对一神论的发现，以及他的人生对现代追寻者的永恒教训。"
+    },
+    "tags": [
+      "abraham",
+      "avraham",
+      "first-jew",
+      "monotheism",
+      "founding-father",
+      "idol-smashing",
+      "covenant",
+      "genesis",
+      "hospitality",
+      "binding-of-isaac",
+      "akedah",
+      "jewish-history",
+      "biblical-figures",
+      "亚伯拉罕",
+      "一神论",
+      "犹太历史"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "published",
+    "filePath": "jewish-history/081-abraham-first-jew/metadata.json"
+  },
+  {
+    "id": 253,
+    "title": {
+      "en": "The Golden Age of Spain: When Jews Thrived Under Muslim Rule",
+      "zh": "西班牙黄金时代:犹太人在穆斯林统治下的繁荣",
+      "he": "תור הזהב של ספרד: כאשר היהודים שגשגו תחת שלטון מוסלמי"
+    },
+    "section": "jewish-history",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "GoldenAge",
+      "Al-Andalus",
+      "SpanishJewry",
+      "IslamicSpain",
+      "MuslimJewishRelations",
+      "Maimonides",
+      "JudahHalevi",
+      "HebrewPoetry",
+      "JewishPhilosophy",
+      "Dhimmi",
+      "MedievalHistory",
+      "JewishHistory",
+      "Convivencia",
+      "唐朝",
+      "宋朝",
+      "TangDynasty",
+      "SongDynasty",
+      "CulturalFlourishing",
+      "Tolerance",
+      "Coexistence",
+      "ReligiousFundamentalism",
+      "Almoravids",
+      "Almohads",
+      "SamuelHaNagid",
+      "JewishGoldenAge"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Religious tolerance creating economic prosperity",
+      "Minority communities as cultural bridge-builders",
+      "Shared scholarly language enabling intellectual exchange",
+      "Golden ages being fragile and requiring constant protection"
+    ],
+    "chinese_dynasty_references": [
+      {
+        "period": "Tang Dynasty",
+        "chinese": "唐朝",
+        "years": "618-907 CE",
+        "context": "Beginning of Jewish golden age in Spain"
+      },
+      {
+        "period": "Song Dynasty",
+        "chinese": "宋朝",
+        "years": "960-1279 CE",
+        "context": "Peak and end of Jewish golden age in Spain"
+      },
+      {
+        "period": "Five Dynasties",
+        "chinese": "五代时期",
+        "years": "907-960 CE",
+        "context": "Hasdai ibn Shaprut's service in Córdoba"
+      }
+    ],
+    "status": "complete",
+    "filePath": "jewish-history/253-golden-age-spain/metadata.json"
+  },
+  {
+    "id": 254,
+    "title": {
+      "en": "The Spanish Inquisition and Expulsion of 1492",
+      "zh": "西班牙宗教裁判所与1492年驱逐令",
+      "he": "האינקוויזיציה הספרדית וגירוש 1492"
+    },
+    "section": "jewish-history",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "SpanishInquisition",
+      "Expulsion1492",
+      "SephardicJews",
+      "CryptoJews",
+      "Conversos",
+      "Marranos",
+      "Martyrdom",
+      "JewishHistory",
+      "明朝",
+      "MingDynasty",
+      "Diaspora",
+      "Persecution",
+      "ReligiousFreedom",
+      "HistoricalTrauma",
+      "CulturalResilience",
+      "TishaBAv",
+      "ForcedConversion",
+      "GoldenAge",
+      "Ladino",
+      "AntiSemitism"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Ming Dynasty purges of suspected dissidents",
+      "Qing Dynasty forced cultural assimilation (queue hairstyle)",
+      "Diaspora communities maintaining language and identity across centuries"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "jewish-history/254-spanish-inquisition/metadata.json"
+  },
+  {
+    "id": 255,
+    "title": {
+      "en": "Rashi of Troyes: The Man Whose Commentary You Can't Study Without",
+      "zh": "特鲁瓦的拉什:没有他的注释就无法学习的伟人",
+      "he": "רש\"י מטרואה: האיש שבלי פירושו אי אפשר ללמוד"
+    },
+    "section": "jewish-history",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "#Rashi",
+      "#Torah",
+      "#Talmud",
+      "#JewishHistory",
+      "#BiblicalCommentary",
+      "#TorahStudy",
+      "#FrenchJewry",
+      "#MedievalJudaism",
+      "#TalmudStudy",
+      "#Peshat",
+      "#Midrash",
+      "#NorthernSongDynasty",
+      "#北宋",
+      "#朱熹",
+      "#经典注疏",
+      "#Troyes",
+      "#AshkenaziHeritage",
+      "#JewishLearning",
+      "#北宋时期",
+      "#רש״י",
+      "#תורה",
+      "#תלמוד",
+      "#תולדותישראל",
+      "#פירושמקרא",
+      "#לימודתורה",
+      "#יהדותצרפת",
+      "#יהדותימיהביניים",
+      "#לימודתלמוד",
+      "#פשט",
+      "#מדרש"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "completed",
+    "filePath": "jewish-history/255-rashi-life-legacy/metadata.json"
+  },
+  {
+    "id": 256,
+    "title": {
+      "en": "The Rambam: Doctor, Philosopher, and Judaism's Greatest Codifier",
+      "zh": "拉姆班:医生、哲学家与犹太教最伟大的法典编纂者",
+      "he": "הרמב\"ם: רופא, פילוסוף ומקודד הגדול ביותר של היהדות"
+    },
+    "section": "jewish-history",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Rambam",
+      "Maimonides",
+      "JewishHistory",
+      "JewishPhilosophy",
+      "JewishLaw",
+      "MishnehTorah",
+      "GuideForThePerplexed",
+      "Medicine",
+      "SouthernSongDynasty",
+      "南宋",
+      "IntellectualHistory",
+      "FaithAndReason",
+      "TorahScholar",
+      "MedicalEthics",
+      "JewishLeadership",
+      "ThirteenPrinciples",
+      "Codification",
+      "PhilosophicalTheology",
+      "HolisticMedicine"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Neo-Confucian integration of Buddhist and Daoist concepts during Song Dynasty",
+      "Chinese legal codification comparable to Mishneh Torah",
+      "Traditional Chinese medicine's holistic approach paralleling Rambam's medical philosophy",
+      "Confucian scholar-official ideal (士大夫) resembling Rambam's integrated leadership",
+      "Zhu Xi (朱熹) as contemporary comprehensive thinker in Chinese tradition"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "jewish-history/256-rambam-maimonides/metadata.json"
+  },
+  {
+    "id": 257,
+    "title": {
+      "en": "The Vilna Gaon vs. the Baal Shem Tov: The Great Debate",
+      "zh": "维尔纳盖昂与巴尔谢姆托夫:伟大的辩论",
+      "he": "הגאון מווילנא מול הבעל שם טוב: הוויכוח הגדול"
+    },
+    "section": "jewish-history",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "VilnaGaon",
+      "BaalShemTov",
+      "Chassidism",
+      "Mitnagdim",
+      "JewishHistory",
+      "TorahStudy",
+      "JewishPhilosophy",
+      "Kabbalah",
+      "18thCentury",
+      "清朝",
+      "儒家道家",
+      "犹太思想",
+      "哈西迪",
+      "JewishIntellectual",
+      "Spirituality",
+      "LithuanianJudaism",
+      "EasternEuropeanJewry",
+      "Orthodoxy",
+      "ReligiousDebate",
+      "הגאוןמווילנא",
+      "הבעלשםטוב",
+      "חסידות",
+      "מתנגדים"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "jewish-history/257-vilna-gaon-vs-besht/metadata.json"
+  },
+  {
+    "id": 258,
+    "title": {
+      "en": "The Pale of Settlement: Jewish Life in Eastern Europe",
+      "zh": "犹太人定居区：东欧犹太生活史",
+      "he": "תחום המושב: חיי היהודים במזרח אירופה"
+    },
+    "section": "jewish-history",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "PaleOfSettlement",
+      "JewishHistory",
+      "EasternEurope",
+      "Shtetl",
+      "Pogroms",
+      "Immigration",
+      "YiddishCulture",
+      "RussianEmpire",
+      "Persecution",
+      "Resilience",
+      "Diaspora",
+      "AmericanJews",
+      "Zionism",
+      "JewishIdentity"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "jewish-history/258-pale-of-settlement/metadata.json"
+  },
+  {
+    "id": 259,
+    "title": {
+      "en": "Kristallnacht: The Night of Broken Glass",
+      "zh": "水晶之夜：碎玻璃之夜",
+      "he": "ליל הבדולח: ליל הזכוכית המנופצת"
+    },
+    "section": "jewish-history",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Kristallnacht",
+      "Holocaust",
+      "Jewish History",
+      "Nazi Germany",
+      "Antisemitism",
+      "Human Rights",
+      "Never Forget",
+      "Refugee Crisis",
+      "Moral Courage",
+      "Bystander Complicity",
+      "水晶之夜",
+      "大屠杀",
+      "犹太历史",
+      "民国时期",
+      "ליל_הבדולח",
+      "שואה",
+      "היסטוריה_יהודית"
+    ],
+    "sources": [
+      "https://www.ushmm.org/learn/timeline-of-events/before-1933-1938/kristallnacht",
+      "https://www.yadvashem.org/articles/general/kristallnacht.html",
+      "https://www.jewishvirtuallibrary.org/kristallnacht",
+      "https://www.history.com/topics/holocaust/kristallnacht",
+      "https://www.theholocaustexplained.org/the-nazi-rise-to-power/the-nazi-rise-to-power/kristallnacht/",
+      "https://encyclopedia.ushmm.org/content/en/article/the-evian-conference"
+    ],
+    "cultural_parallels": [
+      "State-sponsored persecution patterns across cultures",
+      "Refugee crises and international response",
+      "Moral courage in times of mass violence",
+      "Temporal context: Nazi Germany during China's Republican Era"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "completed",
+    "filePath": "jewish-history/259-kristallnacht/metadata.json"
+  },
+  {
+    "id": 261,
+    "title": {
+      "en": "Righteous Among the Nations: Non-Jews Who Saved Jewish Lives",
+      "zh": "国际义人:拯救犹太生命的非犹太英雄",
+      "he": "חסידי אומות העולם: לא-יהודים שהצילו חיים יהודיים"
+    },
+    "section": "jewish-history",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "RighteousAmongTheNations",
+      "Holocaust",
+      "MoralCourage",
+      "HolocaustRescuers",
+      "OskarSchindler",
+      "IrenaSendler",
+      "ChiuneSugihara",
+      "RaoulWallenberg",
+      "JewishHistory",
+      "WorldWarII",
+      "YadVashem",
+      "HeroicRescuers",
+      "HumanRights",
+      "义",
+      "仁",
+      "君子",
+      "道德勇气"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "completed",
+    "filePath": "jewish-history/261-righteous-among-nations/metadata.json"
+  },
+  {
+    "id": 263,
+    "title": {
+      "en": "Ethiopian Jews: The Beta Israel and Operation Solomon",
+      "zh": "埃塞俄比亚犹太人:贝塔以色列与所罗门行动",
+      "he": "יהודי אתיופיה: בית ישראל ומבצע שלמה"
+    },
+    "section": "jewish-history",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "EthiopianJews",
+      "BetaIsrael",
+      "OperationSolomon",
+      "OperationMoses",
+      "JewishHistory",
+      "Aliyah",
+      "Israel",
+      "Exodus",
+      "Redemption",
+      "JewishDiversity",
+      "寻根",
+      "犹太历史",
+      "以色列",
+      "יהודיםאתיופים",
+      "ביתישראל",
+      "מבצעשלמה",
+      "מבצעמשה",
+      "היסטוריהיהודית",
+      "עלייה"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Chinese diaspora preservation of identity",
+      "寻根 (searching for roots) concept",
+      "Homeland return movements",
+      "Dual identity challenges",
+      "Discrimination and resilience"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "completed",
+    "filePath": "jewish-history/263-ethiopian-jews/metadata.json"
   }
 ]
