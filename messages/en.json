@@ -32,6 +32,7 @@
     "nonJewishRelations": "Relations with Non-Jews",
     "community": "Community Forum",
     "mentorship": "Mentorship",
+    "bibliography": "Bibliography",
     "about": "About Us",
     "admin": "Admin Panel",
     "passoverSeder": "Passover Seder",
@@ -540,6 +541,20 @@
     "dailyPractice": "Daily Mussar Practice",
     "cheshbonHanefesh": "Cheshbon HaNefesh (Soul Accounting)",
     "chineseParallels": "Parallels with Chinese Self-Cultivation (修身)"
+  },
+  "bibliography": {
+    "title": "Bibliography & Source Index",
+    "subtitle": "Search articles by topic, tag, or keyword — in English, Chinese, or Hebrew",
+    "searchPlaceholder": "Search by topic, tag, keyword... (any language)",
+    "searchHint": "Tags are available in English, Chinese (中文), and Hebrew (עברית). Click any tag to search by it.",
+    "allSections": "All Sections",
+    "showingAll": "Showing all {count} indexed articles",
+    "showingFiltered": "Showing {count} of {total} articles",
+    "noResults": "No articles found",
+    "noResultsHint": "Try a different search term or clear the filter",
+    "untitled": "Untitled Article",
+    "sources": "{count} source(s)",
+    "culturalParallels": "{count} Chinese cultural parallel(s)"
   },
   "about": {
     "title": "About Torah Light",

@@ -87,6 +87,12 @@ export default function Navigation() {
 
         <div className="flex items-center gap-4">
           <Link
+            href="/bibliography"
+            className="hidden lg:inline-block text-sm text-white/80 hover:text-white transition-colors"
+          >
+            {t("bibliography")}
+          </Link>
+          <Link
             href="/about"
             className="hidden lg:inline-block text-sm text-white/80 hover:text-white transition-colors"
           >
@@ -206,6 +212,13 @@ export default function Navigation() {
                 ))}
             </div>
           ))}
+          <Link
+            href="/bibliography"
+            onClick={() => setMobileOpen(false)}
+            className="block px-4 py-3 text-sm hover:bg-[var(--color-primary-light)] border-t border-white/10"
+          >
+            {t("bibliography")}
+          </Link>
           <Link
             href="/about"
             onClick={() => setMobileOpen(false)}

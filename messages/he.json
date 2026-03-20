@@ -32,6 +32,7 @@
     "nonJewishRelations": "יחסים עם גויים",
     "community": "פורום קהילתי",
     "mentorship": "חונכות",
+    "bibliography": "ביבליוגרפיה",
     "about": "אודות",
     "admin": "ניהול",
     "passoverSeder": "ליל הסדר",
@@ -540,6 +541,20 @@
     "dailyPractice": "תרגול מוסר יומי",
     "cheshbonHanefesh": "חשבון הנפש",
     "chineseParallels": "מקבילות לתרבות הסינית של טיפוח עצמי"
+  },
+  "bibliography": {
+    "title": "ביבליוגרפיה ואינדקס מקורות",
+    "subtitle": "חפשו מאמרים לפי נושא, תגית או מילת מפתח — באנגלית, סינית או עברית",
+    "searchPlaceholder": "חפשו נושא, תגית, מילת מפתח... (בכל שפה)",
+    "searchHint": "תגיות זמינות באנגלית, סינית (中文) ועברית. לחצו על תגית כלשהי כדי לחפש לפיה.",
+    "allSections": "כל המדורים",
+    "showingAll": "מציג את כל {count} המאמרים המאונדקסים",
+    "showingFiltered": "מציג {count} מתוך {total} מאמרים",
+    "noResults": "לא נמצאו מאמרים",
+    "noResultsHint": "נסו מונח חיפוש אחר או נקו את הסינון",
+    "untitled": "מאמר ללא שם",
+    "sources": "{count} מקור/ות",
+    "culturalParallels": "{count} מקבילה/ות תרבותית/יות סינית/יות"
   },
   "about": {
     "title": "אודות אור התורה",

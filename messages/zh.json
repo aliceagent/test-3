@@ -32,6 +32,7 @@
     "nonJewishRelations": "与非犹太人的关系",
     "community": "社区论坛",
     "mentorship": "导师制度",
+    "bibliography": "参考书目",
     "about": "关于我们",
     "admin": "管理面板",
     "passoverSeder": "逾越节家宴",
@@ -540,6 +541,20 @@
     "dailyPractice": "每日Mussar练习",
     "cheshbonHanefesh": "灵魂自省 (Cheshbon HaNefesh)",
     "chineseParallels": "与中国修身思想的对比（修身）"
+  },
+  "bibliography": {
+    "title": "参考书目与来源索引",
+    "subtitle": "按主题、标签或关键词搜索文章——支持英文、中文或希伯来文",
+    "searchPlaceholder": "搜索主题、标签、关键词...（任何语言）",
+    "searchHint": "标签支持英文、中文和希伯来文（עברית）。点击任意标签即可按其搜索。",
+    "allSections": "所有版块",
+    "showingAll": "显示全部 {count} 篇已收录文章",
+    "showingFiltered": "显示 {total} 篇文章中的 {count} 篇",
+    "noResults": "未找到相关文章",
+    "noResultsHint": "请尝试不同的搜索词或清除筛选条件",
+    "untitled": "无标题文章",
+    "sources": "{count} 个来源",
+    "culturalParallels": "{count} 个中国文化对比"
   },
   "about": {
     "title": "关于Torah之光",
