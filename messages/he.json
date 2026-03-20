@@ -43,7 +43,14 @@
     "pirkeiAvot": "פרקי אבות",
     "israel": "ארץ ישראל",
     "mussar": "מוסר",
-    "jewishCalendar": "הלוח העברי"
+    "jewishCalendar": "הלוח העברי",
+    "jewishPhilosophyBigQuestions": "פילוסופיה יהודית",
+    "practicalHalacha": "הלכה מעשית",
+    "moneyBusiness": "כסף ואתיקה עסקית",
+    "jewishValues": "ערכים יהודיים",
+    "jewishStoriesAndInspiration": "סיפורים יהודיים",
+    "jewsInAsiaExpanded": "יהודים באסיה (מורחב)",
+    "jewishHome": "הבית היהודי"
   },
   "navCategories": {
     "foundations": "יסודות",
@@ -596,5 +603,65 @@
     "countingOmer": "ספירת העומר",
     "shmitah": "שמיטה",
     "practicalTools": "כלים ואפליקציות מעשיים"
+  },
+  "jewishPhilosophyBigQuestions": {
+    "title": "פילוסופיה יהודית: שאלות גדולות",
+    "subtitle": "חקירת השאלות העמוקות ביותר דרך עדשה יהודית",
+    "existence": "למה ברא ה' את העולם?",
+    "theodicy": "בעיית הרוע",
+    "afterlife": "העולם הבא",
+    "comparativeReligion": "יהדות ודתות אחרות",
+    "chosenPeople": "העם הנבחר",
+    "faithAndReason": "אמונה ושכל"
+  },
+  "practicalHalachaForDailyLife": {
+    "title": "הלכה מעשית לחיי יום-יום",
+    "subtitle": "יישום ההלכה במצבי חיים יומיומיים",
+    "morningRoutine": "סדר הבוקר היהודי",
+    "dietaryLaws": "דיני מאכלות מעבר לכשרות",
+    "businessEthics": "אתיקה עסקית",
+    "interpersonal": "חובות בין אדם לחברו",
+    "animalWelfare": "צער בעלי חיים"
+  },
+  "moneyBusiness": {
+    "title": "כסף ואתיקה עסקית ביהדות",
+    "subtitle": "חכמת התורה על השתכרות, נתינה ומסחר אתי",
+    "charity": "צדקה ונתינה",
+    "interest": "הלוואות ודיני ריבית",
+    "honesty": "יושר בעסקים",
+    "fairCompetition": "תחרות הוגנת",
+    "workers": "זכויות עובדים"
+  },
+  "jewishValues": {
+    "title": "ערכי יסוד יהודיים",
+    "subtitle": "העקרונות המוסריים המנחים את החיים היהודיים",
+    "tzedakah": "צדקה",
+    "honorParents": "כיבוד אב ואם",
+    "speech": "כוח הדיבור",
+    "hospitality": "הכנסת אורחים",
+    "goodManners": "דרך ארץ"
+  },
+  "jewishStoriesAndInspiration": {
+    "title": "סיפורים יהודיים והשראה",
+    "subtitle": "סיפורי חכמים, גיבורים וחוכמה נצחית",
+    "sages": "סיפורי חכמים",
+    "chassidic": "סיפורי חסידים",
+    "biblical": "גיבורות וגיבורי התנ\"ך",
+    "mystical": "מסעות מיסטיים"
+  },
+  "jewsInAsiaExpanded": {
+    "title": "יהודים באסיה: סיפורים מורחבים",
+    "subtitle": "חקירה מעמיקה של קהילות יהודיות ברחבי אסיה",
+    "landmarks": "אתרים יהודיים באסיה",
+    "rescuers": "מצילים צדיקים",
+    "communities": "קהילות ברחבי אסיה",
+    "perception": "כיצד אסיה תופסת את היהדות"
+  },
+  "jewishHome": {
+    "title": "הבית היהודי",
+    "subtitle": "הפיכת הבית למקדש מעט",
+    "mezuzah": "מזוזה וחפצי קדושה",
+    "kitchen": "המטבח הכשר",
+    "atmosphere": "יצירת אווירה יהודית"
   }
 }

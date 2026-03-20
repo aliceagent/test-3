@@ -69,6 +69,13 @@ const SECTIONS = [
   "israel",
   "mussar",
   "jewish-calendar",
+  "jewish-philosophy-big-questions",
+  "practical-halacha-for-daily-life",
+  "money-business",
+  "jewish-values",
+  "jewish-stories-and-inspiration",
+  "jews-in-asia-expanded",
+  "jewish-home",
 ];
 
 const ADMIN_PASSWORD = "torahlight2026";
