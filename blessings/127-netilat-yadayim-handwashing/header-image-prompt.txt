@@ -1,0 +1,13 @@
+DALL-E Header Image Prompt for Article #127 - Netilat Yadayim
+
+Style: Traditional Chinese landscape painting (山水, shanshui style)
+Medium: Watercolor and ink wash painting
+
+Prompt: "A serene traditional Chinese landscape painting in shanshui style, featuring majestic mountains shrouded in soft mist, with a gently flowing river winding through the scene. In the foreground, delicate bamboo and pine trees frame a small pavilion where a contemplative figure sits by flowing water. Subtle ink washes in shades of blue-gray and black create depth and tranquility. The composition emphasizes the harmony between water and stone, with misty clouds drifting between mountain peaks. Painted in the classical Song Dynasty style with minimal color palette, emphasizing the spiritual connection between humanity and nature through the element of water."
+
+Cultural Connection: The flowing water motif connects to the ritual handwashing theme, while the misty mountains evoke spiritual purification and elevation of the mundane to the sacred.
+
+Dimensions: 1200x600px (header format)
+File format: PNG with transparency support
+
+Alternative simpler prompt: "Traditional Chinese landscape painting with flowing water, mountains, mist, watercolor ink wash style, serene and spiritual atmosphere"

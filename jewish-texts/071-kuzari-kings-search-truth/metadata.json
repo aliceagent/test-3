@@ -1,0 +1,101 @@
+{
+  "id": 71,
+  "title": "The Kuzari: A King's Search for Truth",
+  "title_zh": "《哈萨尔之书》:国王的真理探索",
+  "title_he": "הכוזרי: חיפוש המלך אחר האמת",
+  "section": "Jewish Texts",
+  "section_zh": "犹太经典",
+  "section_he": "טקסטים יהודיים",
+  "description": "An exploration of Rabbi Yehuda Halevi's Kuzari, the philosophical dialogue about a king's quest to discover the true path to God, and Judaism's unique approach to revelation and divine service.",
+  "word_count_en": 8200,
+  "word_count_zh": 7400,
+  "word_count_he": 8000,
+  "status": "published",
+  "created": "2026-03-18T08:06:00+02:00",
+  "published": "2026-03-18T08:06:00+02:00",
+  "author": "Torah Light Writing Team",
+  "tags": [
+    "Kuzari",
+    "JudahHalevi",
+    "JewishPhilosophy",
+    "Revelation",
+    "MountSinai",
+    "Prophecy",
+    "Khazars",
+    "ChosennessOfIsrael",
+    "LandOfIsrael",
+    "JewishHistory",
+    "Mesorah",
+    "Conversion",
+    "InterfaithDialogue",
+    "JewishApologetics",
+    "Torah",
+    "Mitzvot",
+    "GodOfAbraham",
+    "PhilosophyVsRevelation",
+    "PublicRevelation",
+    "JewishTexts",
+    "Particularism",
+    "Universalism",
+    "犹太哲学",
+    "哈萨尔",
+    "启示",
+    "西奈山",
+    "预言",
+    "犹太历史",
+    "传统链",
+    "皈依犹太教",
+    "הכוזרי",
+    "יהודה_הלוי",
+    "פילוסופיה_יהודית",
+    "נבואה",
+    "הר_סיני"
+  ],
+  "chinese_dynasty_references": [
+    {
+      "dynasty": "Southern Song Dynasty",
+      "chinese": "南宋",
+      "years": "1127-1279 CE",
+      "context": "When Rabbi Yehuda Halevi wrote the Kuzari around 1140 CE"
+    },
+    {
+      "dynasty": "Tang Dynasty",
+      "chinese": "唐朝",
+      "years": "618-907 CE",
+      "context": "Contemporary with the Khazar Empire (650-969 CE)"
+    },
+    {
+      "dynasty": "Song Dynasty",
+      "chinese": "宋朝",
+      "years": "960-1279 CE",
+      "context": "Early Song period overlapped with the later Khazar Empire"
+    }
+  ],
+  "key_concepts": [
+    {
+      "english": "The Kuzari",
+      "hebrew": "הכוזרי",
+      "chinese": "哈萨尔之书"
+    },
+    {
+      "english": "Public revelation",
+      "hebrew": "התגלות פומבית",
+      "chinese": "公开启示"
+    },
+    {
+      "english": "Transmission of tradition",
+      "hebrew": "מסורה",
+      "chinese": "传统传承"
+    },
+    {
+      "english": "Commandments",
+      "hebrew": "מצוות",
+      "chinese": "诫命"
+    },
+    {
+      "english": "Prophecy",
+      "hebrew": "נבואה",
+      "chinese": "预言"
+    }
+  ]
+}

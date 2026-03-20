@@ -1,0 +1,77 @@
+{
+  "id": 97,
+  "title": {
+    "en": "Learning Hebrew as a Mandarin Speaker: Tips and Common Pitfalls",
+    "zh": "中文母语者学习希伯来语:技巧与常见陷阱",
+    "he": "לימוד עברית לדוברי מנדרינית: טיפים ומלכודות נפוצות"
+  },
+  "slug": "learning-hebrew-mandarin-speaker",
+  "section": "hebrew-learning",
+  "batch": "100",
+  "author": "Torah Light Editorial Team",
+  "dateCreated": "2026-03-18",
+  "language": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "primarySources": [
+    "Hebrew language pedagogy",
+    "Mandarin-Hebrew linguistic comparisons"
+  ],
+  "hebrewReferences": [
+    "פדגוגיה של שפה עברית"
+  ],
+  "culturalParallels": [
+    "Root-based morphology in Hebrew vs. character-based Chinese",
+    "Abjad writing system similarities to Chinese stroke order",
+    "Pronunciation challenges for Mandarin speakers",
+    "Grammar structure differences"
+  ],
+  "wordCount": {
+    "en": 3000,
+    "zh": 2500,
+    "he": 2800
+  },
+  "readingTime": {
+    "en": "13-15 minutes",
+    "zh": "10-12 minutes",
+    "he": "12-14 minutes"
+  },
+  "targetAudience": "Mandarin speakers learning Hebrew; Hebrew teachers working with Chinese students",
+  "difficulty": "Beginner to Intermediate",
+  "relatedArticles": [
+    92,
+    98,
+    95
+  ],
+  "bibliography": [
+    {
+      "type": "secondary",
+      "title": "Modern Hebrew Language Teaching Methods",
+      "source": "Hebrew Language Pedagogy"
+    },
+    {
+      "type": "secondary",
+      "title": "Contrastive Analysis: Hebrew and Mandarin",
+      "source": "Linguistic Research"
+    }
+  ],
+  "keywords": [
+    "Hebrew learning",
+    "Mandarin speakers",
+    "language acquisition",
+    "Hebrew alphabet",
+    "Hebrew grammar",
+    "pronunciation",
+    "common mistakes",
+    "study tips",
+    "Hebrew-Chinese comparison",
+    "language pedagogy"
+  ],
+  "summary": {
+    "en": "A practical guide for Mandarin speakers learning Hebrew, covering the Hebrew alphabet (aleph-bet), pronunciation challenges specific to Chinese speakers, grammar structures, common pitfalls, effective study strategies, and resources tailored for Chinese learners.",
+    "zh": "为中文母语者学习希伯来语提供的实用指南,涵盖希伯来字母表(阿列夫-贝特)、中文使用者特有的发音挑战、语法结构、常见陷阱、有效学习策略以及为中国学习者量身定制的资源。",
+    "he": "מדריך מעשי לדוברי מנדרינית הלומדים עברית, המכסה את האלף-בית העברי, אתגרי הגייה ספציפיים לדוברי סינית, מבני דקדוק, מלכודות נפוצות, אסטרטגיות למידה יעילות ומשאבים מותאמים ללומדים סינים."
+  }
+}

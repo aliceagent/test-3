@@ -1,0 +1,62 @@
+{
+  "id": 345,
+  "title": "The Purpose of Mitzvot: Why 613 Commandments?",
+  "title_zh": "诫命的目的:为什么有613条律法?",
+  "title_he": "מטרת המצוות: מדוע 613 מצוות?",
+  "description": "Exploring different approaches — Rambam's reasons for the commandments, the Kuzari's obedience model, and the Chassidic connection approach.",
+  "section": "jewish-philosophy-big-questions",
+  "slug": "purpose-of-mitzvot",
+  "word_count": {
+    "en": 3890,
+    "zh": 1820,
+    "he": 3210
+  },
+  "languages": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "tags": [
+    "Mitzvot",
+    "613Commandments",
+    "Rambam",
+    "Maimonides",
+    "Kuzari",
+    "YehudaHalevi",
+    "Chassidut",
+    "BaalShemTov",
+    "JewishPhilosophy",
+    "TorahStudy",
+    "Devekut",
+    "ConnectionWithGod",
+    "RationalJudaism",
+    "MysticalJudaism",
+    "Obedience",
+    "禮",
+    "Covenant",
+    "SpiritualPractice",
+    "JewishLaw",
+    "Halacha"
+  ],
+  "key_figures": [
+    "Maimonides (Rambam)",
+    "Yehuda Halevi",
+    "Baal Shem Tov"
+  ],
+  "historical_periods": [
+    "Song Dynasty (宋朝, 960-1279 CE)",
+    "Southern Song (南宋, 1127-1279 CE)",
+    "Northern Song (北宋, 960-1127 CE)",
+    "Qing Dynasty (清朝, 1644-1912 CE)"
+  ],
+  "chinese_cultural_parallels": [
+    "Confucian ritual propriety (li 禮)",
+    "Filial piety (xiao 孝)",
+    "Daoist harmony with the Way (Dao 道)",
+    "Xunzi's rationalist approach to ritual"
+  ],
+  "status": "complete",
+  "created_date": "2026-03-19",
+  "bibliography_count": 8,
+  "all_urls_verified": true
+}

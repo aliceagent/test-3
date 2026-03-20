@@ -1,0 +1,108 @@
+{
+  "id": 124,
+  "title": {
+    "en": "Tehillim (Psalms): The Jewish Answer to Every Emotion",
+    "zh": "诗篇（Tehillim）：犹太人对每种情感的回应",
+    "he": "תהילים: התשובה היהודית לכל רגש"
+  },
+  "subtitle": {
+    "en": "How King David's Psalms serve as prayers for healing, comfort, gratitude, and joy — with a guide to which chapters to read when.",
+    "zh": "大卫王的诗篇如何作为医治、安慰、感恩和喜乐的祷告——附什么时候阅读哪些章节的指南。",
+    "he": "איך תהילי דוד המלך משמשים כתפילות לרפואה, נחמה, הודיה ושמחה — עם מדריך לאילו פרקים לקרוא מתי."
+  },
+  "section": "prayer",
+  "date": "2026-03-18",
+  "author": "Torah Light Editorial Team",
+  "summary": {
+    "en": "An exploration of how the 150 Psalms of King David serve as a comprehensive emotional prayer book, offering divine words for every human feeling and situation, with practical guidance on which psalms to read for healing, comfort, gratitude, and spiritual strength.",
+    "zh": "探讨大卫王的150篇诗篇如何作为一部全面的情感祷告书，为每种人类感受和处境提供神圣的话语，并提供在需要医治、安慰、感恩和属灵力量时应该阅读哪些诗篇的实用指导。",
+    "he": "חקירה של האופן שבו 150 מזמורי דוד המלך משמשים כספר תפילות רגשי מקיף, המציע מילים אלוהיות לכל רגש ומצב אנושי, עם הדרכה מעשית לגבי אילו מזמורים לקרוא לריפוי, נחמה, הודיה וכוח רוחני."
+  },
+  "featured_psalms": [
+    23,
+    30,
+    20,
+    121,
+    49,
+    90,
+    16,
+    100,
+    118,
+    150,
+    92,
+    1,
+    119,
+    51,
+    139
+  ],
+  "reading_time": {
+    "en": "8-10 minutes",
+    "zh": "8-10分钟",
+    "he": "8-10 דקות"
+  },
+  "difficulty_level": "intermediate",
+  "languages": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "bibliography": [
+    {
+      "title": "The Complete Artscroll Siddur",
+      "author": "Rabbi Nosson Scherman",
+      "publisher": "Mesorah Publications",
+      "year": 2019,
+      "url": "https://www.artscroll.com/Books/9781422617847.html"
+    },
+    {
+      "title": "Tehillim: A New Translation with Commentary",
+      "author": "Rabbi Avrohom Chaim Feuer",
+      "publisher": "Mesorah Publications",
+      "year": 2016,
+      "url": "https://www.artscroll.com/Books/9781422618677.html"
+    },
+    {
+      "title": "The Book of Psalms: A Translation with Commentary",
+      "author": "Robert Alter",
+      "publisher": "W. W. Norton & Company",
+      "year": 2009,
+      "url": "https://wwnorton.com/books/9780393337044"
+    },
+    {
+      "title": "Psalms in Jewish Worship",
+      "author": "Dr. Reuven Hammer",
+      "publisher": "Jewish Publication Society",
+      "year": 2015,
+      "url": "https://jps.org/books/psalms-in-jewish-worship/"
+    },
+    {
+      "title": "The Therapeutic Value of Psalms",
+      "author": "Dr. William P. Brown",
+      "journal": "Journal of Psychology and Theology",
+      "year": 2018,
+      "url": "https://journals.sagepub.com/doi/10.1177/0091647118794199"
+    }
+  ],
+  "related_articles": [
+    "prayer-meditation-techniques",
+    "king-david-leadership",
+    "jewish-emotional-healing",
+    "daily-prayer-practice"
+  ],
+  "keywords": [
+    "Psalms",
+    "Tehillim",
+    "King David",
+    "Prayer",
+    "Healing",
+    "Comfort",
+    "Gratitude",
+    "Emotions",
+    "Spirituality",
+    "Jewish Prayer",
+    "Therapy",
+    "Meditation",
+    "Sacred Texts",
+    "Liturgy"
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "title": {
+    "en": "Brachot: The Art of Blessing",
+    "zh": "祝福词(Brachot):祝福的艺术",
+    "he": "ברכות: אומנות הברכה"
+  },
+  "slug": "blessings",
+  "category": "daily-living",
+  "subcategory": "prayer-and-blessings",
+  "tags": [
+    "brachot",
+    "blessings",
+    "prayer",
+    "gratitude",
+    "daily-practice",
+    "food-blessings",
+    "birchot-hashachar",
+    "asher-yatzar",
+    "modeh-ani",
+    "hamotzi",
+    "mezonot",
+    "mindfulness"
+  ],
+  "difficulty": "beginner",
+  "readingTime": {
+    "en": "15-20 minutes",
+    "zh": "15-20分钟",
+    "he": "15-20 דקות"
+  },
+  "description": {
+    "en": "A comprehensive guide to Jewish blessings (brachot) - from morning blessings to food blessings, natural phenomena, and practical applications for daily life. Includes Hebrew text, transliteration, and Chinese cultural adaptations.",
+    "zh": "犹太祝福词(brachot)综合指南 - 从晨祷到食物祝福、自然现象,以及日常生活的实际应用。包括希伯来语文本、音译和中国文化适应。",
+    "he": "מדריך מקיף לברכות יהודיות - מברכות השחר לברכות המזון, תופעות טבע ויישומים מעשיים לחיי היומיום. כולל טקסט עברי, תעתיק ואדפטציות לתרבות הסינית."
+  },
+  "keyTopics": [
+    {
+      "en": "What are brachot and why Jews bless God for everything",
+      "zh": "什么是祝福词以及为什么犹太人为一切祝福上帝",
+      "he": "מהן ברכות ולמה יהודים מברכים את ה' על הכל"
+    },
+    {
+      "en": "Morning blessings (Birchot HaShachar) with full text and transliteration",
+      "zh": "晨祷(Birchot HaShachar)完整文本和音译",
+      "he": "ברכות השחר עם נוסח מלא ותעתיק"
+    },
+    {
+      "en": "Food blessings: HaMotzi, Mezonot, HaGafen, HaEtz, HaAdamah, Shehakol",
+      "zh": "食物祝福:HaMotzi, Mezonot, HaGafen, HaEtz, HaAdamah, Shehakol",
+      "he": "ברכות מזון: המוציא, מזונות, הגפן, העץ, האדמה, שהכל"
+    },
+    {
+      "en": "Blessings after eating: Birkat HaMazon, Al HaMichya, Borei Nefashot",
+      "zh": "饭后祝福:Birkat HaMazon, Al HaMichya, Borei Nefashot",
+      "he": "ברכות אחרונות: ברכת המזון, על המחיה, בורא נפשות"
+    },
+    {
+      "en": "Blessings for natural phenomena (lightning, thunder, rainbow, ocean)",
+      "zh": "自然现象祝福(闪电、雷声、彩虹、海洋)",
+      "he": "ברכות על תופעות טבע (ברק, רעם, קשת, ים)"
+    },
+    {
+      "en": "Asher Yatzar - blessing after using the bathroom",
+      "zh": "Asher Yatzar - 使用洗手间后的祝福",
+      "he": "אשר יצר - ברכה אחרי שימוש בשירותים"
+    },
+    {
+      "en": "Practical guide: which blessing for which food (comprehensive list)",
+      "zh": "实用指南:哪种食物用哪个祝福(综合列表)",
+      "he": "מדריך מעשי: איזו ברכה על איזה מזון (רשימה מקיפה)"
+    },
+    {
+      "en": "Chinese foods and their blessings: rice, tofu, tea, noodles, dumplings",
+      "zh": "中国食物及其祝福:米饭、豆腐、茶、面条、饺子",
+      "he": "מזונות סיניים והברכות שלהם: אורז, טופו, תה, אטריות, כופתאות"
+    }
+  ],
+  "spiritualThemes": [
+    "gratitude",
+    "mindfulness",
+    "sanctifying-the-ordinary",
+    "divine-presence",
+    "consciousness",
+    "100-blessings-daily"
+  ],
+  "practicalElements": {
+    "hebrewTexts": true,
+    "transliteration": true,
+    "chineseTranslation": true,
+    "stepByStepGuide": true,
+    "foodCategories": true,
+    "culturalAdaptations": true
+  },
+  "targetAudience": [
+    "beginners",
+    "chinese-speakers",
+    "anyone-interested-in-jewish-prayer",
+    "seekers-of-mindfulness-practices",
+    "those-learning-hebrew-blessings"
+  ],
+  "relatedPages": [
+    "/daily-living/shabbat",
+    "/daily-living/prayer",
+    "/daily-living/kosher",
+    "/daily-living/modesty"
+  ],
+  "author": "Torah Light Team",
+  "dateCreated": "2026-03-20",
+  "lastUpdated": "2026-03-20",
+  "language": {
+    "primary": "en",
+    "available": ["en", "zh", "he"]
+  },
+  "wordCount": {
+    "en": 5200,
+    "zh": 3800,
+    "he": 4100
+  },
+  "culturalNotes": {
+    "chinese": {
+      "specialTopics": [
+        "Tea ceremony and blessing mindfulness parallels",
+        "Rice as staple - Mezonot blessing",
+        "Tofu and soy products - HaAdamah",
+        "Traditional Chinese foods categorization"
+      ],
+      "culturalBridges": [
+        "Chinese tea culture aligns with Jewish blessing consciousness",
+        "Gratitude practices in both traditions",
+        "Mindful eating in Chinese and Jewish contexts"
+      ]
+    }
+  },
+  "learningOutcomes": [
+    "Understand the spiritual significance of blessings in Judaism",
+    "Learn to recite basic Hebrew blessings with proper pronunciation",
+    "Know which blessing to say before different types of food",
+    "Incorporate daily blessings into morning routine",
+    "Develop a practice of gratitude through 100 daily blessings",
+    "Apply Jewish blessing principles to Chinese foods and cultural contexts"
+  ],
+  "featured": true,
+  "priority": "high",
+  "seoKeywords": [
+    "jewish blessings",
+    "brachot",
+    "hebrew prayers",
+    "food blessings",
+    "birchot hashachar",
+    "modeh ani",
+    "asher yatzar",
+    "hamotzi",
+    "jewish gratitude",
+    "100 blessings",
+    "jewish prayer guide",
+    "chinese jewish",
+    "torah light"
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "article_id": 397,
+  "title": {
+    "en": "Translating Jewish Concepts into Chinese: The Challenges of Religious Language",
+    "zh": "将犹太概念翻译成中文:宗教语言的挑战",
+    "he": "תרגום מושגים יהודיים לסינית: אתגרי השפה הדתית"
+  },
+  "description": {
+    "en": "Why certain Jewish concepts (kedushah, teshuvah, chesed) are difficult to translate into Chinese, and the best available translations being used.",
+    "zh": "为什么某些犹太概念(神圣、悔改、慈爱)难以翻译成中文,以及目前使用的最佳翻译。",
+    "he": "מדוע מושגים יהודיים מסוימים (קדושה, תשובה, חסד) קשים לתרגום לסינית, והתרגומים הטובים ביותר הזמינים בשימוש."
+  },
+  "section": "chinese-jewish-bridge-topics",
+  "keywords": [
+    "translation",
+    "Hebrew language",
+    "Chinese language",
+    "kedushah",
+    "teshuvah",
+    "chesed",
+    "religious language",
+    "cross-cultural communication",
+    "interfaith dialogue",
+    "linguistic challenges",
+    "Jewish education",
+    "Chinese Jewish community"
+  ],
+  "concepts_examined": [
+    {
+      "hebrew": "קְדֻשָּׁה",
+      "transliteration": "kedushah",
+      "english": "holiness/sanctity",
+      "chinese_translations": [
+        {
+          "term": "神圣",
+          "pinyin": "shénshèng",
+          "notes": "Standard translation; combines divine and sage/holy"
+        },
+        {
+          "term": "圣洁",
+          "pinyin": "shèngjié",
+          "notes": "Emphasizes purity and cleanliness"
+        },
+        {
+          "term": "神性",
+          "pinyin": "shénxìng",
+          "notes": "Divine nature; more abstract"
+        },
+        {
+          "term": "分别为圣",
+          "pinyin": "fēnbié wéi shèng",
+          "notes": "Separated as holy; literal but awkward"
+        }
+      ]
+    },
+    {
+      "hebrew": "תְּשׁוּבָה",
+      "transliteration": "teshuvah",
+      "english": "return/repentance",
+      "chinese_translations": [
+        {
+          "term": "悔改",
+          "pinyin": "huǐgǎi",
+          "notes": "Most common; combines regret and change"
+        },
+        {
+          "term": "回归",
+          "pinyin": "huíguī",
+          "notes": "Return; captures spatial metaphor"
+        },
+        {
+          "term": "悔罪",
+          "pinyin": "huǐzuì",
+          "notes": "Regret sin; more explicitly religious"
+        },
+        {
+          "term": "归正",
+          "pinyin": "guīzhèng",
+          "notes": "Return to correctness"
+        },
+        {
+          "term": "回转悔改",
+          "pinyin": "huízhuǎn huǐgǎi",
+          "notes": "Turn back and reform; compound term"
+        }
+      ]
+    },
+    {
+      "hebrew": "חֶסֶד",
+      "transliteration": "chesed",
+      "english": "loving-kindness/covenant loyalty",
+      "chinese_translations": [
+        {
+          "term": "慈爱",
+          "pinyin": "cí'ài",
+          "notes": "Compassionate love; most common"
+        },
+        {
+          "term": "恩慈",
+          "pinyin": "ēncí",
+          "notes": "Grace and mercy; implies unmerited favor"
+        },
+        {
+          "term": "良善",
+          "pinyin": "liángshàn",
+          "notes": "Goodness/kindness; too generic"
+        },
+        {
+          "term": "怜悯",
+          "pinyin": "liánmǐn",
+          "notes": "Mercy/pity; used in some Bible translations"
+        },
+        {
+          "term": "圣约之爱",
+          "pinyin": "shèngyuē zhī ài",
+          "notes": "Covenantal love; contemporary compound"
+        },
+        {
+          "term": "信实之爱",
+          "pinyin": "xìnshí zhī ài",
+          "notes": "Faithful love; emphasizes loyalty"
+        }
+      ]
+    }
+  ],
+  "translation_approaches": [
+    "Compound solutions (combining multiple Chinese concepts)",
+    "Borrowing from Buddhist terminology",
+    "Extensive footnoting and dual texts",
+    "Bilingual education with Hebrew terms retained",
+    "Creating neologisms for untranslatable concepts"
+  ],
+  "author": "Torah Light Editorial Team",
+  "date_created": "2026-03-20",
+  "word_count": {
+    "en": 3847,
+    "zh": 2156,
+    "he": 2914
+  },
+  "languages": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "reading_time_minutes": {
+    "en": 15,
+    "zh": 12,
+    "he": 14
+  },
+  "difficulty_level": "intermediate-advanced",
+  "target_audience": [
+    "Chinese speakers interested in Judaism",
+    "Jewish educators in Chinese-speaking contexts",
+    "Translation scholars",
+    "Interfaith dialogue participants",
+    "Students of comparative religion"
+  ],
+  "related_topics": [
+    "Hebrew language structure",
+    "Chinese philosophical vocabulary",
+    "Jewish theology fundamentals",
+    "Cross-cultural religious education",
+    "Confucian-Jewish dialogue",
+    "Biblical translation history"
+  ],
+  "sources_referenced": [
+    "Maimonides on teshuvah",
+    "Micah 6:8",
+    "Jewish liturgical traditions",
+    "Chinese Buddhist translation history",
+    "Contemporary Jewish-Chinese community practices"
+  ],
+  "practical_applications": [
+    "Jewish education in China",
+    "Interfaith dialogue between Jews and Chinese speakers",
+    "Academic scholarship on Judaism in Chinese",
+    "Literary translation of Jewish texts",
+    "Prayer book development for Chinese Jewish communities"
+  ],
+  "file_format": "markdown",
+  "encoding": "UTF-8",
+  "license": "Torah Light Project",
+  "status": "completed",
+  "revision": 1,
+  "tags": [
+    "linguistics",
+    "translation-theory",
+    "Jewish-Chinese-relations",
+    "religious-education",
+    "cultural-bridge-building",
+    "language-philosophy"
+  ]
+}

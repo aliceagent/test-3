@@ -1,0 +1,49 @@
+{
+  "id": 378,
+  "title": "The Golem of Prague: Legend, Mysticism, and Meaning",
+  "title_zh": "布拉格魔像：传说、神秘主义与深层意义",
+  "title_he": "הגולם מפראג: אגדה, מיסטיקה ומשמעות",
+  "slug": "golem-of-prague",
+  "section": "jewish-stories-and-inspiration",
+  "description": "The story of Rabbi Judah Loew (the Maharal) creating a creature from clay to protect the Jews of Prague — and its deeper spiritual meaning.",
+  "description_zh": "讲述犹大·勒夫拉比（马哈拉尔）用泥土创造魔像保护布拉格犹太人的故事及其深层精神意义。",
+  "description_he": "הסיפור על רבי יהודה ליווא (המהר"ל) שיצר יצור מחימר כדי להגן על יהודי פראג — והמשמעות הרוחנית העמוקה שלו.",
+  "word_count": {
+    "en": 1450,
+    "zh": 3200,
+    "he": 2100
+  },
+  "status": "completed",
+  "created_at": "2026-03-19",
+  "languages": ["en", "zh", "he"],
+  "tags": [
+    "Golem",
+    "Maharal",
+    "Prague",
+    "JewishFolklore",
+    "Kabbalah",
+    "Mysticism",
+    "ArtificialIntelligence",
+    "JewishHistory",
+    "SeferYetzirah",
+    "MingDynasty",
+    "明朝",
+    "犹太传说",
+    "布拉格",
+    "魔像",
+    "גולם",
+    "מהר"ל",
+    "פראג"
+  ],
+  "historical_figures": [
+    "Rabbi Judah Loew ben Bezalel (Maharal)",
+    "Emperor Wanli (parallel Chinese dynasty reference)"
+  ],
+  "sources": [
+    "Jewish Encyclopedia",
+    "Chabad.org",
+    "My Jewish Learning",
+    "Sefaria.org",
+    "YIVO Encyclopedia"
+  ]
+}

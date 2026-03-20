@@ -1,0 +1,53 @@
+{
+  "id": 371,
+  "title": "The Chafetz Chaim: The Man Who Changed How Jews Speak",
+  "title_zh": "查夫茨·哈伊姆：改变犹太人说话方式的人",
+  "title_he": "החפץ חיים: האיש ששינה את האופן שבו יהודים מדברים",
+  "slug": "chafetz-chaim-speech-ethics",
+  "section": "jewish-stories-and-inspiration",
+  "description": "The life story of Rabbi Yisrael Meir Kagan, who wrote the definitive work on the laws of speech and revolutionized Jewish ethics.",
+  "description_zh": "拉比以色列·梅尔·卡根的生平故事，他撰写了关于言语律法的权威著作并革命性地改变了犹太伦理。",
+  "description_he": "סיפור חייו של הרב ישראל מאיר קאגן, שכתב את היצירה היוצאת הדופן בחוקי הדיבור וחולל מהפכה באתיקה היהודית.",
+  "word_count_en": 1650,
+  "word_count_zh": 4800,
+  "word_count_he": 1850,
+  "char_count_zh": 4800,
+  "status": "complete",
+  "created_at": "2026-03-19",
+  "updated_at": "2026-03-19",
+  "languages": ["en", "zh", "he"],
+  "tags": [
+    "ChafetzChaim",
+    "LashonHara",
+    "SpeechEthics",
+    "JewishStories",
+    "Inspiration",
+    "Mussar",
+    "RabbiYisraelMeirKagan",
+    "ProperSpeech",
+    "Gossip",
+    "清朝",
+    "言语",
+    "道德",
+    "智慧",
+    "儒家",
+    "正语",
+    "חפץחיים",
+    "לשוןהרע",
+    "אתיקתדיבור"
+  ],
+  "historical_periods": {
+    "jewish": "19th-early 20th century",
+    "chinese": "Qing Dynasty (清朝, 1644-1912) to early Republic (民国初期, post-1911)"
+  },
+  "key_figures": [
+    "Rabbi Yisrael Meir Kagan (the Chafetz Chaim)"
+  ],
+  "sources": [
+    "Chofetz Chaim Heritage Foundation",
+    "Aish.com",
+    "Chabad.org",
+    "Sefaria.org",
+    "Orthodox Union"
+  ]
+}

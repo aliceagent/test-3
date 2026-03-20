@@ -1,0 +1,102 @@
+{
+  "id": 301,
+  "title": "Classic Ashkenazi Cholent: A Slow-Cooked Shabbat Stew",
+  "title_zh": "经典阿什肯纳兹炖肉(Cholent): 安息日慢炖美食",
+  "title_he": "צ'ולנט אשכנזי קלאסי: תבשיל שבת בבישול איטי",
+  "section": "shabbat",
+  "slug": "classic-ashkenazi-cholent",
+  "description": "The quintessential Shabbat lunch dish — a step-by-step recipe with meat, beans, barley, and potatoes that cooks overnight on a hot plate.",
+  "description_zh": "经典的安息日午餐佳肴——一份包含肉、豆类、大麦和土豆的详细食谱，在电炉上通宵烹饪。",
+  "description_he": "המאכל המסורתי לסעודת שבת צהריים — מתכון מפורט עם בשר, שעועית, שעורה ותפוחי אדמה שמתבשל בין לילה על פלטה.",
+  "languages": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "word_count": {
+    "en": 5847,
+    "zh": 3127,
+    "he": 3984
+  },
+  "chinese_character_count": 6235,
+  "tags": [
+    "Shabbat",
+    "Cholent",
+    "ShabbatMeals",
+    "OnegShabbat",
+    "AskenazicCuisine",
+    "JewishCooking",
+    "SlowCooking",
+    "Halacha",
+    "ShabbatObservance",
+    "JewishTraditions",
+    "ComfortFood",
+    "安息日",
+    "炖肉",
+    "安息日餐食",
+    "安息日喜悦",
+    "阿什肯纳兹美食",
+    "犹太烹饪",
+    "慢炖",
+    "律法",
+    "安息日遵守",
+    "犹太传统",
+    "慰藉食物",
+    "宋朝",
+    "明朝",
+    "犹太传统",
+    "שבת",
+    "צ'ולנט",
+    "סעודותשבת",
+    "עונגשבת",
+    "מטבחאשכנזי",
+    "בישולייהודי",
+    "בישולאיטי",
+    "הלכה",
+    "שמירתשבת",
+    "מסורותיהודיות",
+    "אוכלנחמה"
+  ],
+  "chinese_dynasties_mentioned": [
+    {
+      "dynasty": "宋朝",
+      "pinyin": "Song Chao",
+      "period": "960-1279 CE",
+      "context": "Medieval Ashkenazi communities emergence"
+    },
+    {
+      "dynasty": "明朝",
+      "pinyin": "Ming Chao",
+      "period": "1368-1644 CE",
+      "context": "Cholent tradition consolidation"
+    },
+    {
+      "dynasty": "清朝",
+      "pinyin": "Qing Chao",
+      "period": "1644-1912 CE",
+      "context": "Rabbi Schneur Zalman of Liadi's lifetime"
+    }
+  ],
+  "cultural_parallels": [
+    "Chinese slow-cooking philosophy (慢工出细活)",
+    "Old fire soup (老火汤) tradition - hours of patient simmering",
+    "Confucian concept of gradual accumulation (厚积薄发)",
+    "Daoist principle of wu wei (无为而治) - non-interference with natural processes",
+    "Buddhist gradual enlightenment (渐悟)",
+    "Community food sharing traditions (年夜饭, 中秋聚餐)",
+    "Neighborhood mutual aid and collective warmth (邻里互助)",
+    "Festival foods as cultural bonds (节日美食)"
+  ],
+  "bibliography_count": 7,
+  "has_header_image_prompt": true,
+  "difficulty_level": "intermediate",
+  "prep_time": "30 minutes",
+  "cook_time": "15-18 hours overnight",
+  "serves": "8-10 people",
+  "status": "complete",
+  "created_date": "2026-03-19",
+  "last_updated": "2026-03-19",
+  "author": "Torah Light Project",
+  "batch": "400",
+  "article_range": "301-400"
+}

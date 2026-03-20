@@ -1,0 +1,68 @@
+{
+  "id": 27,
+  "title": "The Spiritual Meaning Behind Keeping Kosher",
+  "title_zh": "守犹太洁食的灵性意义",
+  "title_he": "המשמעות הרוחנית של שמירת כשרות",
+  "section": "Kosher Food",
+  "section_zh": "犹太洁食",
+  "section_he": "כשרות",
+  "folder": "kosher-food",
+  "description": "Beyond the rules: why kashrut matters spiritually, what it does for the soul, and how it elevates the act of eating.",
+  "word_count_en": 2850,
+  "word_count_zh": 1520,
+  "word_count_he": 2420,
+  "status": "drafted",
+  "author": "Torah Light Editorial Team",
+  "created": "2026-03-17",
+  "last_updated": "2026-03-17T06:35:00+02:00",
+  "sources": [
+    "https://aish.com/48945306/",
+    "https://aish.com/spiritual-eating/",
+    "https://www.sefaria.org/Leviticus.11",
+    "https://www.chabad.org/library/article_cdo/aid/60319/jewish/Why-Do-We-Keep-Kosher.htm"
+  ],
+  "key_concepts": [
+    "Kashrut",
+    "Kedushah (Holiness)",
+    "Spiritual Blueprint",
+    "Torah as cosmic design",
+    "Elevation of the mundane",
+    "Self-discipline",
+    "Soul purification",
+    "Maharal of Prague",
+    "Rabbeinu Bechaye",
+    "Cultural parallels with Chinese philosophy"
+  ],
+  "tags": [
+    "#Kosher",
+    "#Kashrut",
+    "#Holiness",
+    "#SpiritualEating",
+    "#Torah",
+    "#Leviticus",
+    "#Maharal",
+    "#SelfDiscipline",
+    "#Elevation",
+    "#Kedushah",
+    "#קדושה",
+    "#כשרות",
+    "#修身",
+    "#道家",
+    "#商朝",
+    "#明朝",
+    "#元朝",
+    "#KosherFood"
+  ],
+  "historical_periods": [
+    "Wilderness Period (Late Shang Dynasty, ~1300-1260 BCE)",
+    "Maharal of Prague (Ming Dynasty, ~1520-1609 CE)",
+    "Rabbeinu Bechaye (Yuan Dynasty, ~1255-1340 CE)"
+  ],
+  "cultural_parallels": [
+    "Daoist dietary purity practices",
+    "Buddhist vegetarianism",
+    "Confucian self-cultivation (修身)",
+    "Traditional Chinese Medicine - food as medicine affecting qi",
+    "Tea ceremony purification rituals"
+  ]
+}

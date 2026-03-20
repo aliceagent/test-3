@@ -1,0 +1,88 @@
+{
+  "id": 93,
+  "title": {
+    "en": "Sitting Shiva: How to Mourn and How to Comfort the Mourner",
+    "zh": "守孝七日(Shiva):如何哀悼与如何安慰哀悼者",
+    "he": "ישיבת שבעה: איך להתאבל ואיך לנחם את האבל"
+  },
+  "slug": "sitting-shiva",
+  "section": "life-cycle",
+  "batch": "100",
+  "author": "Torah Light Editorial Team",
+  "dateCreated": "2026-03-18",
+  "language": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "primarySources": [
+    "Genesis 50:10",
+    "Talmud Bavli, Moed Katan 27b",
+    "Shulchan Aruch, Yoreh Deah 376-403"
+  ],
+  "hebrewReferences": [
+    "בראשית נ:י",
+    "תלמוד בבלי, מועד קטן כז ע״ב",
+    "שולחן ערוך, יורה דעה שעו-תג"
+  ],
+  "culturalParallels": [
+    "Chinese mourning periods and filial piety (孝, xiào)",
+    "Seven-day mourning period parallels",
+    "Community support during bereavement",
+    "Confucian mourning rituals (丧礼, sàng lǐ)"
+  ],
+  "wordCount": {
+    "en": 2800,
+    "zh": 2100,
+    "he": 2600
+  },
+  "readingTime": {
+    "en": "12-15 minutes",
+    "zh": "9-11 minutes",
+    "he": "11-14 minutes"
+  },
+  "targetAudience": "Chinese Jews and Chinese families supporting Jewish mourners; general Jewish education on mourning practices",
+  "difficulty": "Beginner to Intermediate",
+  "relatedArticles": [
+    92,
+    94,
+    95
+  ],
+  "bibliography": [
+    {
+      "type": "primary",
+      "title": "Genesis 50:10",
+      "url": "https://www.sefaria.org/Genesis.50.10",
+      "verified": false
+    },
+    {
+      "type": "primary",
+      "title": "Talmud Bavli, Moed Katan 27b",
+      "url": "https://www.sefaria.org/Moed_Katan.27b",
+      "verified": false
+    },
+    {
+      "type": "commentary",
+      "title": "Shulchan Aruch, Yoreh Deah 376-403",
+      "url": "https://www.sefaria.org/Shulchan_Arukh,_Yoreh_De'ah.376",
+      "verified": false
+    }
+  ],
+  "keywords": [
+    "Shiva",
+    "Jewish mourning",
+    "bereavement",
+    "Jewish lifecycle",
+    "comforting mourners",
+    "death and dying",
+    "Jewish funeral customs",
+    "Chinese parallels",
+    "filial piety",
+    "mourning practices"
+  ],
+  "summary": {
+    "en": "An in-depth guide to the Jewish seven-day mourning period (shiva), explaining the laws, customs, and emotional dimensions of mourning. Includes practical guidance for both mourners and visitors, with comparisons to Chinese mourning traditions and emphasis on community support.",
+    "zh": "深入指导犹太教七日哀悼期(shiva),解释哀悼的律法、习俗和情感层面。包括为哀悼者和访客提供的实用指导,与中国哀悼传统进行比较,并强调社区支持。",
+    "he": "מדריך מעמיק לתקופת האבלות היהודית בת שבעת הימים (שבעה), המסביר את ההלכות, המנהגים והממדים הרגשיים של האבלות. כולל הדרכה מעשית הן לאבלים והן למבקרים, עם השוואות למסורות אבלות סיניות ודגש על תמיכה קהילתית."
+  }
+}

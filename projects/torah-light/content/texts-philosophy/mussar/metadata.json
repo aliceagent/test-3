@@ -1,0 +1,249 @@
+{
+  "title": {
+    "en": "Mussar: The Jewish Path of Ethical Self-Improvement",
+    "zh": "穆萨尔:犹太人伦理自我提升之道",
+    "he": "מוסר: הדרך היהודית לשיפור עצמי אתי"
+  },
+  "slug": "mussar",
+  "category": "texts-philosophy",
+  "subcategory": "ethics",
+  "description": {
+    "en": "A comprehensive guide to Mussar, the Jewish discipline of ethical character development, including its history, core concepts, classical texts, practices, and modern revival.",
+    "zh": "全面介绍穆萨尔——犹太伦理品格发展的纪律,包括其历史、核心概念、经典文本、实践和现代复兴。",
+    "he": "מדריך מקיף למוסר, המשמעת היהודית לפיתוח אופי אתי, כולל ההיסטוריה, מושגי היסוד, הטקסטים הקלאסיים, התרגולים והתחייה המודרנית."
+  },
+  "keywords": [
+    "Mussar",
+    "ethics",
+    "character development",
+    "middot",
+    "Rabbi Yisrael Salanter",
+    "self-improvement",
+    "Jewish spirituality",
+    "moral philosophy",
+    "Mesillat Yesharim",
+    "cheshbon hanefesh",
+    "vaadim",
+    "Alan Morinis",
+    "Mussar Institute",
+    "Confucianism comparison"
+  ],
+  "topics": [
+    "What is Mussar",
+    "Historical background of the Mussar movement",
+    "Rabbi Yisrael Salanter",
+    "Middot (character traits)",
+    "Yetzer HaRa and Yetzer HaTov",
+    "Tikkun HaMiddot",
+    "Classic Mussar texts",
+    "Mesillat Yesharim",
+    "Orchot Tzaddikim",
+    "Chovot HaLevavot",
+    "Tomer Devorah",
+    "Cheshbon HaNefesh",
+    "Vaadim study groups",
+    "Modern Mussar revival",
+    "Comparison with Chinese self-cultivation"
+  ],
+  "authors": [
+    {
+      "name": "Torah Light Content Team",
+      "role": "Primary author"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Historical sources",
+      "works": [
+        "Rabbi Yisrael Salanter",
+        "Ramchal (Rabbi Moshe Chaim Luzzatto)",
+        "Rabbi Bachya ibn Paquda",
+        "Rabbi Moshe Cordovero"
+      ]
+    },
+    {
+      "name": "Modern Mussar revival",
+      "works": [
+        "Alan Morinis",
+        "Mussar Institute"
+      ]
+    }
+  ],
+  "wordCount": {
+    "en": 5247,
+    "zh": 8526,
+    "he": 6894
+  },
+  "readingTime": {
+    "en": "25-30 minutes",
+    "zh": "30-35 minutes",
+    "he": "25-30 minutes"
+  },
+  "difficulty": "intermediate",
+  "targetAudience": [
+    "Students of Jewish philosophy",
+    "Those interested in ethical self-improvement",
+    "Comparative religion scholars",
+    "Personal development practitioners",
+    "Interfaith dialogue participants"
+  ],
+  "relatedTopics": [
+    "Jewish ethics",
+    "Character development",
+    "Spiritual practices",
+    "Confucianism",
+    "Moral philosophy",
+    "Self-cultivation traditions",
+    "Jewish mysticism",
+    "Personal growth"
+  ],
+  "primarySources": [
+    {
+      "title": "Mesillat Yesharim (Path of the Just)",
+      "author": "Ramchal (Rabbi Moshe Chaim Luzzatto)",
+      "year": 1740
+    },
+    {
+      "title": "Orchot Tzaddikim (Ways of the Righteous)",
+      "author": "Anonymous",
+      "year": 1540
+    },
+    {
+      "title": "Chovot HaLevavot (Duties of the Heart)",
+      "author": "Rabbi Bachya ibn Paquda",
+      "year": 1080
+    },
+    {
+      "title": "Tomer Devorah (Palm Tree of Deborah)",
+      "author": "Rabbi Moshe Cordovero",
+      "year": 1588
+    }
+  ],
+  "modernReferences": [
+    {
+      "title": "Everyday Holiness",
+      "author": "Alan Morinis",
+      "year": 2007
+    },
+    {
+      "title": "The Soul of the Stranger",
+      "author": "Alan Morinis",
+      "year": 2019
+    },
+    {
+      "organization": "Mussar Institute",
+      "website": "mussarinstitute.org",
+      "founded": 2004
+    }
+  ],
+  "culturalComparisons": [
+    {
+      "tradition": "Confucianism",
+      "concepts": [
+        "Junzi (noble person)",
+        "Ren (benevolence)",
+        "Li (propriety)",
+        "Self-cultivation",
+        "Moral perfectibility"
+      ],
+      "similarities": [
+        "Emphasis on character development through practice",
+        "Specific virtues to cultivate",
+        "Balance between inner work and outer action",
+        "Teacher-student relationships",
+        "Gradual progress over time"
+      ],
+      "differences": [
+        "Theological framework",
+        "Community vs hierarchy emphasis",
+        "Emotional expression approaches",
+        "Text interpretation methods"
+      ]
+    }
+  ],
+  "practicalApplications": [
+    "Daily cheshbon hanefesh (soul accounting)",
+    "Focus on one middah at a time",
+    "Participation in vaadim (study groups)",
+    "Text study with emotional engagement",
+    "Journaling for self-reflection",
+    "Character trait development exercises",
+    "Mindful attention to triggers and patterns"
+  ],
+  "historicalPeriods": [
+    {
+      "period": "Ancient foundations",
+      "timeframe": "Biblical and Talmudic eras",
+      "description": "Ethical teachings embedded in Torah and rabbinic literature"
+    },
+    {
+      "period": "Medieval development",
+      "timeframe": "11th-16th centuries",
+      "description": "Classic Mussar texts written (Chovot HaLevavot, Orchot Tzaddikim, Mesillat Yesharim, Tomer Devorah)"
+    },
+    {
+      "period": "Mussar movement",
+      "timeframe": "19th-early 20th century",
+      "description": "Rabbi Yisrael Salanter founds formal Mussar movement in Lithuania"
+    },
+    {
+      "period": "Near extinction",
+      "timeframe": "1940s-1980s",
+      "description": "Holocaust devastation and limited continuation in yeshivot"
+    },
+    {
+      "period": "Modern revival",
+      "timeframe": "Late 20th century-present",
+      "description": "Alan Morinis and others bring Mussar to wider audiences"
+    }
+  ],
+  "learningObjectives": [
+    "Understand the historical development of the Mussar movement",
+    "Identify key middot (character traits) and their proper balance",
+    "Recognize the role of yetzer hara and yetzer hatov",
+    "Explore classic Mussar texts and their teachings",
+    "Learn practical Mussar practices (cheshbon hanefesh, vaadim, journaling)",
+    "Appreciate the modern Mussar revival and its relevance",
+    "Compare Mussar with Chinese self-cultivation traditions",
+    "Apply Mussar principles to contemporary ethical challenges"
+  ],
+  "tags": [
+    "mussar",
+    "ethics",
+    "character-development",
+    "middot",
+    "jewish-philosophy",
+    "spirituality",
+    "self-improvement",
+    "rabbi-yisrael-salanter",
+    "mesillat-yesharim",
+    "alan-morinis",
+    "confucianism",
+    "comparative-religion",
+    "jewish-texts",
+    "moral-philosophy",
+    "personal-growth"
+  ],
+  "publicationDate": "2026-03-20",
+  "lastModified": "2026-03-20",
+  "version": "1.0",
+  "license": "CC BY-SA 4.0",
+  "language": {
+    "available": ["en", "zh", "he"],
+    "primary": "en"
+  },
+  "seo": {
+    "metaDescription": {
+      "en": "Discover Mussar, the Jewish discipline of ethical self-improvement. Learn about its history from Rabbi Yisrael Salanter, core concepts like middot and tikkun hamiddot, classic texts, practices, and modern revival.",
+      "zh": "探索穆萨尔——犹太伦理自我提升的纪律。了解拉比以色列·萨兰特的历史、核心概念如米多特和提坤·哈米多特、经典文本、实践和现代复兴。",
+      "he": "גלה את המוסר, המשמעת היהודית לשיפור עצמי אתי. למד על ההיסטוריה מרבי ישראל סלנטר, מושגי ליבה כמו מידות ותיקון המידות, טקסטים קלאסיים, תרגולים ותחייה מודרנית."
+    },
+    "focusKeywords": [
+      "Mussar",
+      "Jewish ethics",
+      "character development",
+      "Rabbi Yisrael Salanter",
+      "middot"
+    ]
+  }
+}

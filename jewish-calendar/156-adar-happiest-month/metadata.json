@@ -1,0 +1,99 @@
+{
+  "id": 156,
+  "title": "Adar: The Happiest Month in the Jewish Calendar",
+  "title_zh": "亚达月:犹太历法中最快乐的月份",
+  "title_he": "אדר: החודש המשמח ביותר בלוח העברי",
+  "section": "jewish-calendar",
+  "slug": "adar-happiest-month",
+  "summary": "Explore why Adar is designated as the month of joy in the Jewish calendar, the significance of Purim's dramatic reversals, and practical ways to increase happiness during this special time.",
+  "summary_zh": "探索为什么亚达月被指定为犹太历法中的喜乐之月,普珥节戏剧性逆转的意义,以及在这个特殊时期增加幸福的实际方法。",
+  "summary_he": "חקרו מדוע אדר מוגדר כחודש השמחה בלוח העברי, משמעות ההיפוכים הדרמטיים של פורים, ודרכים מעשיות להגביר את האושר במהלך תקופה מיוחדת זו.",
+  "keywords": [
+    "Adar",
+    "Purim",
+    "Jewish calendar",
+    "joy",
+    "simcha",
+    "Megillat Esther",
+    "Book of Esther",
+    "Hebrew months",
+    "leap year",
+    "reversal",
+    "divine providence",
+    "hidden miracles",
+    "mishloach manot",
+    "matanot la'evyonim",
+    "Haman",
+    "Mordechai",
+    "Queen Esther",
+    "Chinese parallels",
+    "cultural comparisons"
+  ],
+  "topics": [
+    "Jewish Calendar",
+    "Purim",
+    "Joy and Celebration",
+    "Divine Providence",
+    "Cultural Parallels"
+  ],
+  "difficulty": "beginner",
+  "word_count_en": 1495,
+  "char_count_zh": 2844,
+  "word_count_he": 1420,
+  "estimated_reading_time_en": "6-7 minutes",
+  "estimated_reading_time_zh": "4-5 minutes",
+  "estimated_reading_time_he": "6-7 minutes",
+  "sources": [
+    {
+      "type": "primary",
+      "reference": "Talmud Bavli, Tractate Ta'anit 29a",
+      "note": "Source of the teaching 'When Adar enters, we increase in joy'"
+    },
+    {
+      "type": "primary",
+      "reference": "Megillat Esther (Book of Esther)",
+      "note": "The complete story of Purim"
+    },
+    {
+      "type": "primary",
+      "reference": "Talmud Bavli, Tractate Megillah 7b",
+      "note": "Teaching about drinking on Purim until unable to distinguish between cursed is Haman and blessed is Mordechai"
+    },
+    {
+      "type": "secondary",
+      "reference": "Rabbi Nachman of Breslov - Likutei Moharan",
+      "note": "Teaching on the great mitzvah to always be joyful"
+    },
+    {
+      "type": "cultural",
+      "reference": "I Ching (易经)",
+      "note": "Chinese philosophical text teaching about transformation of extremes"
+    }
+  ],
+  "cultural_parallels": [
+    {
+      "culture": "Chinese",
+      "concept": "否极泰来 (pǐ jí tài lái)",
+      "description": "When misfortune reaches its extreme, good fortune follows",
+      "connection": "Parallels the dramatic reversal theme of Purim"
+    },
+    {
+      "culture": "Chinese",
+      "concept": "Fish symbolism (鱼, yú)",
+      "description": "Fish represent abundance and prosperity in Chinese culture, similar to Jewish association",
+      "connection": "Both cultures use fish as symbols of blessing and plenty"
+    },
+    {
+      "culture": "Chinese",
+      "concept": "Lunar New Year celebrations",
+      "description": "Festive practices including special foods, gifts, family gatherings, and driving away evil",
+      "connection": "Shares festive spirit and some practices with Purim"
+    }
+  ],
+  "target_audience": "Chinese native Mandarin speakers with no prior Jewish knowledge",
+  "tone": "Educational, warm, culturally sensitive",
+  "format": "Educational article with cultural comparisons",
+  "created": "2026-03-18",
+  "batch": "200",
+  "article_range": "101-200"
+}

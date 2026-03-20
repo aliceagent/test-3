@@ -1,0 +1,59 @@
+{
+  "id": 347,
+  "title": {
+    "en": "The Age of the Universe: Jewish Views on 5,786 vs. 13.8 Billion Years",
+    "zh": "宇宙的年龄：犹太教对5786年与138亿年的不同观点",
+    "he": "גיל היקום: השקפות יהודיות על 5,786 לעומת 13.8 מיליארד שנים"
+  },
+  "description": {
+    "en": "How Jewish thinkers reconcile the Torah's chronology with modern cosmology — from literal readings to Rabbi Aryeh Kaplan's approach.",
+    "zh": "犹太思想家如何调和托拉年表与现代宇宙学——从字面阅读到拉比阿里耶·卡普兰的方法。",
+    "he": "כיצד הוגי דעות יהודיים מפייסים את כרונולוגיית התורה עם קוסמולוגיה מודרנית — מקריאות מילוליות לגישת הרב אריה קפלן."
+  },
+  "section": "jewish-philosophy-big-questions",
+  "slug": "age-of-universe",
+  "word_count": {
+    "en": 3420,
+    "zh": 1650,
+    "he": 2380
+  },
+  "author": "Torah Light Team",
+  "created": "2026-03-19",
+  "status": "complete",
+  "tags": [
+    "Creation",
+    "Cosmology",
+    "ScienceAndReligion",
+    "AgeOfTheUniverse",
+    "RabbiAryehKaplan",
+    "BigBang",
+    "JewishPhilosophy",
+    "Relativity",
+    "Torah",
+    "Daoism",
+    "EmbraceComplexity",
+    "时间",
+    "宇宙年龄",
+    "科学与信仰",
+    "托拉",
+    "道家"
+  ],
+  "chinese_parallels": [
+    "Daoist paradoxical truth (道可道，非常道)",
+    "Song Dynasty Li (理) vs Qi (气) debates",
+    "Multiple levels of reality in Chinese philosophy"
+  ],
+  "key_sources": [
+    "Rabbi Aryeh Kaplan - The Age of the Universe",
+    "Gerald Schroeder - Genesis and the Big Bang",
+    "Seder Olam Rabbah - Traditional Jewish chronology",
+    "Chabad.org - Time and Relativity in Torah"
+  ],
+  "target_audience": "Chinese native Mandarin speakers with no prior Jewish knowledge, particularly those with scientific backgrounds",
+  "reading_level": "Advanced beginner to intermediate",
+  "estimated_reading_time_minutes": {
+    "en": 14,
+    "zh": 8,
+    "he": 10
+  }
+}

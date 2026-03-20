@@ -1,0 +1,93 @@
+{
+  "id": 244,
+  "title": "Derech Eretz: Good Manners Before Torah",
+  "title_zh": "德里奇·艾雷茨：礼仪先于律法",
+  "title_he": "דרך ארץ: דרך ארץ קדמה לתורה",
+  "slug": "derech-eretz",
+  "section": "jewish-values",
+  "word_count_en": 3456,
+  "word_count_zh": 1287,
+  "word_count_he": 2183,
+  "status": "complete",
+  "languages": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "tags": [
+    "DerechEretz",
+    "JewishEthics",
+    "GoodManners",
+    "Torah",
+    "Mussar",
+    "礼",
+    "Confucianism",
+    "EthicsBeforeReligion",
+    "Hillel",
+    "CharacterDevelopment",
+    "JewishValues",
+    "PirkeiAvot",
+    "Respect",
+    "Integrity",
+    "CrossCulturalWisdom"
+  ],
+  "cultural_parallels": [
+    "Confucian Li (礼) - ritual propriety and proper conduct",
+    "Chinese filial piety and respect for elders",
+    "Eastern Han Dynasty (东汉, 25-220 CE) - contemporary with Mishnaic period",
+    "Confucius and Spring/Autumn period parallels with First Temple period",
+    "Integration of learning (学) and moral practice (行)"
+  ],
+  "historical_context": [
+    {
+      "jewish_period": "Patriarchs (Abraham)",
+      "approximate_date": "~1800 BCE",
+      "chinese_equivalent": "Xia Dynasty (夏朝, ~2070-1600 BCE)"
+    },
+    {
+      "jewish_period": "Mishnaic Period",
+      "approximate_date": "70-200 CE",
+      "chinese_equivalent": "Eastern Han Dynasty (东汉, 25-220 CE)"
+    },
+    {
+      "jewish_period": "Second Temple Period",
+      "approximate_date": "516 BCE - 70 CE",
+      "chinese_equivalent": "Warring States through Han Dynasty (战国-汉朝)"
+    },
+    {
+      "jewish_period": "Confucius era comparison",
+      "approximate_date": "Spring & Autumn Period (770-476 BCE)",
+      "chinese_equivalent": "Late First Temple Period"
+    }
+  ],
+  "key_figures": [
+    "Hillel the Elder",
+    "Rabbi Yishmael",
+    "Confucius (comparative)",
+    "Abraham"
+  ],
+  "sources": [
+    "Pirkei Avot 3:17",
+    "Talmud Bavli, Berachot 17a",
+    "Vayikra Rabbah 9:3",
+    "Talmud Bavli, Yoma 86a",
+    "Pirkei Avot 2:2",
+    "Mishneh Torah, Laws of Character Traits"
+  ],
+  "themes": [
+    "Ethics before religious observance",
+    "Character development as prerequisite for Torah study",
+    "Cross-cultural wisdom: Jewish and Confucian parallels",
+    "Integration of practical wisdom and sacred learning",
+    "Avoiding religious hypocrisy",
+    "Universal values vs. particular religious practices",
+    "Proper conduct in business and daily life"
+  ],
+  "target_audience": "Mandarin speakers with no Jewish background, Chinese Jews, converts to Judaism in Asia",
+  "educational_level": "Beginner to intermediate",
+  "estimated_reading_time_minutes": 12,
+  "created_date": "2026-03-19",
+  "author": "Torah Light Writing Team",
+  "requires_header_image": true,
+  "header_image_style": "Chinese shan shui (山水) ink wash landscape with scholarly courtyard garden scene"
+}

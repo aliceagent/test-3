@@ -1,0 +1,47 @@
+{
+  "id": 250,
+  "title": "The Niggun: Chassidic Melodies That Elevate the Soul",
+  "title_zh": "尼贡（Niggun）：提升灵魂的哈西德旋律",
+  "title_he": "הניגון: מנגינות חסידיות שמרוממות את הנשמה",
+  "section": "chabad",
+  "slug": "niggun-melodies",
+  "word_count_en": 3654,
+  "word_count_zh": 1687,
+  "word_count_he": 2934,
+  "status": "completed",
+  "author": "Torah Light Writer Agent",
+  "created_date": "2026-03-19",
+  "tags": [
+    "Niggun",
+    "ChassidusMusic",
+    "BaalShemTov",
+    "AlterRebbe",
+    "Chabad",
+    "SoulSong",
+    "Meditation",
+    "CommunalSinging",
+    "JewishMysticism",
+    "Farbrengen",
+    "清朝",
+    "音樂修身",
+    "ניגון",
+    "חסידות"
+  ],
+  "cultural_parallels": [
+    "Chinese guqin music - melodic purity over ornamentation",
+    "Confucian philosophy - music shapes character (樂)",
+    "Daoist meditation practices - wuwei through rhythmic repetition",
+    "Buddhist monastery chanting - communal embodied practice"
+  ],
+  "historical_period": {
+    "jewish": "Early Chassidic Movement (1700s)",
+    "chinese_equivalent": "Qing Dynasty (清朝)"
+  },
+  "bibliography_sources": 6,
+  "files": {
+    "article_en": "article-en.md",
+    "article_zh": "article-zh.md",
+    "article_he": "article-he.md",
+    "metadata": "metadata.json"
+  }
+}

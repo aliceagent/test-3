@@ -1,0 +1,89 @@
+{
+  "id": 94,
+  "title": {
+    "en": "The Jewish Home: Creating a Sanctuary for Your Family",
+    "zh": "犹太家庭:为您的家人打造圣所",
+    "he": "הבית היהודי: יצירת מקדש קטן למשפחתך"
+  },
+  "slug": "jewish-home",
+  "section": "life-cycle",
+  "batch": "100",
+  "author": "Torah Light Editorial Team",
+  "dateCreated": "2026-03-18",
+  "language": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "primarySources": [
+    "Deuteronomy 6:4-9",
+    "Exodus 25:8",
+    "Talmud Bavli, Yoma 11a"
+  ],
+  "hebrewReferences": [
+    "דברים ו:ד-ט",
+    "שמות כה:ח",
+    "תלמוד בבלי, יומא יא ע״א"
+  ],
+  "culturalParallels": [
+    "Confucian emphasis on family harmony (家和, jiā hé)",
+    "Chinese home as center of spiritual life",
+    "Ancestral altar parallels with Jewish home rituals",
+    "Chinese threshold customs and mezuzah"
+  ],
+  "wordCount": {
+    "en": 3100,
+    "zh": 2400,
+    "he": 2900
+  },
+  "readingTime": {
+    "en": "13-16 minutes",
+    "zh": "10-12 minutes",
+    "he": "12-15 minutes"
+  },
+  "targetAudience": "Chinese Jewish families building Jewish homes; intermarried families; converts establishing Jewish households",
+  "difficulty": "Beginner",
+  "relatedArticles": [
+    92,
+    93,
+    95,
+    96
+  ],
+  "bibliography": [
+    {
+      "type": "primary",
+      "title": "Deuteronomy 6:4-9 (Shema)",
+      "url": "https://www.sefaria.org/Deuteronomy.6.4-9",
+      "verified": false
+    },
+    {
+      "type": "primary",
+      "title": "Exodus 25:8",
+      "url": "https://www.sefaria.org/Exodus.25.8",
+      "verified": false
+    },
+    {
+      "type": "primary",
+      "title": "Talmud Bavli, Yoma 11a",
+      "url": "https://www.sefaria.org/Yoma.11a",
+      "verified": false
+    }
+  ],
+  "keywords": [
+    "Jewish home",
+    "mezuzah",
+    "Shabbat table",
+    "Jewish family life",
+    "mikdash me'at",
+    "sanctuary",
+    "Chinese parallels",
+    "family harmony",
+    "home rituals",
+    "Jewish hospitality"
+  ],
+  "summary": {
+    "en": "A practical guide to establishing a Jewish home, covering mezuzah, Shabbat observance, kosher kitchen basics, Jewish library essentials, and creating a space for Jewish learning and celebration. Draws parallels to Chinese concepts of home as spiritual center and family harmony.",
+    "zh": "建立犹太家庭的实用指南,涵盖门框经文匣、安息日遵守、洁食厨房基础、犹太图书馆必需品,以及为犹太学习和庆祝创造空间。与中国家庭作为精神中心和家庭和谐的概念进行对比。",
+    "he": "מדריך מעשי להקמת בית יהודי, המכסה מזוזה, שמירת שבת, יסודות מטבח כשר, חיוניים לספרייה יהודית, ויצירת מרחב ללימוד ולחגיגה יהודית. מצייר הקבלות למושגים סיניים של הבית כמרכז רוחני והרמוניה משפחתית."
+  }
+}

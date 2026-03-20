@@ -1,0 +1,67 @@
+{
+  "article_id": "038",
+  "title": "Blessings on Nature: What to Say When You See Lightning, a Rainbow, or the Ocean",
+  "section": "Blessings",
+  "sources": [
+    {
+      "url": "https://aish.com/42-natural-phenomenon-2/",
+      "title": "42. Natural Phenomena",
+      "source": "Aish.com",
+      "content_type": "comprehensive guide",
+      "description": "Detailed guide to blessings on natural phenomena including mountains, lightning, thunder, ocean, rainbow"
+    },
+    {
+      "url": "https://aish.com/blessing_on_natural_wonders/",
+      "title": "Blessing on Natural Wonders",
+      "source": "Aish.com",
+      "content_type": "ask the rabbi",
+      "description": "Specific guidance on mountain blessings with Rabbi Hirsch story"
+    },
+    {
+      "url": "https://aish.com/blessings-on-thunder-and-lightning/",
+      "title": "Blessings on Thunder and Lightning",
+      "source": "Aish.com",
+      "content_type": "ask the rabbi",
+      "description": "Detailed explanation of thunder and lightning blessings with timing rules"
+    },
+    {
+      "url": "https://aish.com/48957176/",
+      "title": "Over the Rainbow",
+      "source": "Aish.com",
+      "content_type": "article",
+      "description": "Deep exploration of rainbow blessing meaning and Noah's covenant"
+    }
+  ],
+  "key_blessings": [
+    {
+      "blessing": "Oseh Ma'aseh Bereshit",
+      "hebrew": "ברוך אתה ה' אלהינו מלך העולם עושה מעשה בראשית",
+      "english": "Blessed are You, Lord our God, King of the universe, Who forms the works of Creation",
+      "occasions": ["lightning", "mountains", "deserts", "ocean", "shooting stars", "comets", "earthquakes", "strong winds"]
+    },
+    {
+      "blessing": "She'kocho Oog'vuraso Malay Olam",
+      "hebrew": "ברוך אתה ה' אלהינו מלך העולם שכחו וגבורתו מלא עולם",
+      "english": "Blessed are You, Lord our God, King of the universe, whose strength and power fill the world",
+      "occasions": ["thunder"]
+    },
+    {
+      "blessing": "Zocher Ha'brit",
+      "hebrew": "ברוך אתה ה' אלהינו מלך העולם זוכר הברית ונאמן בבריתו וקיים במאמרו",
+      "english": "Blessed are You, Lord our God, King of the universe, Who remembers the covenant, and is faithful in His covenant and fulfills His word",
+      "occasions": ["rainbow"]
+    },
+    {
+      "blessing": "She'asa Et Ha'yam Ha'gadol",
+      "hebrew": "ברוך אתה ה' אלהינו מלך העולם שעשה את הים הגדול",
+      "english": "Blessed are You, Lord our God, King of the universe, who made the great ocean",
+      "occasions": ["ocean"]
+    },
+    {
+      "blessing": "Shehecheyanu",
+      "hebrew": "ברוך אתה ה' אלהינו מלך העולם שהחיינו וקיימנו והגיענו לזמן הזה",
+      "english": "Blessed are You, Lord our God, King of the universe, who has kept us alive, sustained us, and brought us to this time",
+      "occasions": ["rare special occasions", "seasonal first experiences"]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "article_id": 34,
+  "title": "What is a Mezuzah and Why is it on Every Jewish Doorpost?",
+  "section": "Mitzvah Objects",
+  "description": "The meaning, laws, and proper placement of the mezuzah — plus what's written on the scroll inside.",
+  "primary_sources": [
+    {
+      "url": "https://aish.com/mezuzah-prayer-placement-meaning/",
+      "title": "Mezuzah: Prayer, Placement & Meaning",
+      "source": "Aish.com",
+      "status": "fetched",
+      "content_type": "comprehensive guide",
+      "key_points": [
+        "Mezuzah definition and meaning",
+        "Biblical origins and commandments",
+        "Placement requirements and laws",
+        "Kosher requirements for scrolls",
+        "Blessings and prayers",
+        "Cultural significance"
+      ]
+    },
+    {
+      "url": "https://www.myjewishlearning.com/article/mezuzah/",
+      "title": "Why Jews Hang a Mezuzah on the Doorpost",
+      "source": "My Jewish Learning",
+      "status": "fetched",
+      "content_type": "educational overview",
+      "key_points": [
+        "Origins and biblical basis",
+        "Mezuzah scroll requirements",
+        "Placement laws and customs",
+        "Moving and tenant considerations",
+        "Symbolic vs protective device"
+      ]
+    },
+    {
+      "url": "https://www.chabad.org/library/article_cdo/aid/256915/jewish/What-Is-a-Mezuzah.htm",
+      "title": "What Is a Mezuzah? - The Scroll on the Doorpost",
+      "source": "Chabad.org",
+      "status": "attempted",
+      "content_type": "comprehensive guide",
+      "note": "Content requires additional extraction"
+    }
+  ],
+  "sefaria_content": [
+    {
+      "reference": "Deuteronomy 6:4-9",
+      "title": "Shema - First paragraph of mezuzah",
+      "status": "fetched",
+      "content_type": "biblical text"
+    },
+    {
+      "reference": "Deuteronomy 11:13-21", 
+      "title": "Second paragraph of mezuzah",
+      "status": "fetched",
+      "content_type": "biblical text"
+    }
+  ],
+  "additional_research_needed": [
+    "Historical context and timeline",
+    "Chinese cultural parallels",
+    "Modern practice variations",
+    "Cost and where to purchase"
+  ]
+}

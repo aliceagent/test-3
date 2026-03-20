@@ -1,0 +1,92 @@
+{
+  "id": 96,
+  "title": {
+    "en": "Tzedakah: Why Charity is a Commandment, Not Just a Nice Thing to Do",
+    "zh": "慈善捐赠(Tzedakah):为什么施舍是诫命,而不仅仅是一件好事",
+    "he": "צדקה: מדוע נתינה היא מצווה ולא רק דבר נחמד לעשות"
+  },
+  "slug": "tzedakah-commandment",
+  "section": "articles",
+  "batch": "100",
+  "author": "Torah Light Editorial Team",
+  "dateCreated": "2026-03-18",
+  "language": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "primarySources": [
+    "Deuteronomy 15:7-11",
+    "Leviticus 19:9-10",
+    "Maimonides, Mishneh Torah, Laws of Gifts to the Poor",
+    "Talmud Bavli, Bava Batra 9a-10b"
+  ],
+  "hebrewReferences": [
+    "דברים טו:ז-יא",
+    "ויקרא יט:ט-י",
+    "רמב״ם, משנה תורה, הלכות מתנות עניים",
+    "תלמוד בבלי, בבא בתרא ט ע״א-י ע״ב"
+  ],
+  "culturalParallels": [
+    "Confucian benevolence (仁, rén)",
+    "Chinese charitable traditions",
+    "Buddhist concepts of merit and giving",
+    "Daoist natural balance and social harmony"
+  ],
+  "wordCount": {
+    "en": 3400,
+    "zh": 2600,
+    "he": 3100
+  },
+  "readingTime": {
+    "en": "14-17 minutes",
+    "zh": "11-13 minutes",
+    "he": "13-16 minutes"
+  },
+  "targetAudience": "Chinese readers exploring Jewish ethics; Jewish learners understanding obligation vs. voluntary charity",
+  "difficulty": "Beginner to Intermediate",
+  "relatedArticles": [
+    94,
+    95,
+    97,
+    98
+  ],
+  "bibliography": [
+    {
+      "type": "primary",
+      "title": "Deuteronomy 15:7-11",
+      "url": "https://www.sefaria.org/Deuteronomy.15.7-11",
+      "verified": false
+    },
+    {
+      "type": "primary",
+      "title": "Maimonides, Mishneh Torah, Laws of Gifts to the Poor",
+      "url": "https://www.sefaria.org/Mishneh_Torah,_Gifts_to_the_Poor",
+      "verified": false
+    },
+    {
+      "type": "primary",
+      "title": "Talmud Bavli, Bava Batra 9a-10b",
+      "url": "https://www.sefaria.org/Bava_Batra.9a",
+      "verified": false
+    }
+  ],
+  "keywords": [
+    "tzedakah",
+    "charity",
+    "Jewish ethics",
+    "commandment",
+    "mitzvah",
+    "social justice",
+    "Maimonides",
+    "eight levels",
+    "Chinese parallels",
+    "benevolence",
+    "giving"
+  ],
+  "summary": {
+    "en": "An exploration of tzedakah as a commanded obligation rather than voluntary charity, covering biblical sources, Maimonides' eight levels of giving, practical guidelines for giving, and comparisons to Chinese concepts of benevolence and social responsibility.",
+    "zh": "探讨施舍(tzedakah)作为命令义务而非自愿慈善,涵盖圣经来源、迈蒙尼德的八级给予、实用给予指南,以及与中国仁爱和社会责任概念的比较。",
+    "he": "חקירה של צדקה כחובה מצווה ולא צדקה מרצון, המכסה מקורות תנכיים, שמונת דרגות הנתינה של הרמב״ם, הנחיות מעשיות לנתינה והשוואות למושגים סיניים של נדיבות ואחריות חברתית."
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": 351,
+  "title": "Chiune Sugihara: The Japanese Diplomat Who Saved 6,000 Jews",
+  "title_zh": "杉原千畝:拯救6000名犹太人的日本外交官",
+  "title_he": "צ'יונה סוגיהרה: הדיפלומט היפני שהציל 6,000 יהודים",
+  "description": "The full story of the 'Japanese Schindler' who defied orders to issue transit visas in Lithuania, saving thousands of Jewish lives.",
+  "section": "jews-in-asia-expanded",
+  "slug": "chiune-sugihara-japanese-schindler",
+  "word_count": {
+    "en": 2850,
+    "zh": 4200,
+    "he": 2650
+  },
+  "tags": [
+    "ChiuneSugihara",
+    "杉原千畝",
+    "RighteousAmongTheNations",
+    "Holocaust",
+    "VisasForLife",
+    "MoralCourage",
+    "JewsInAsia",
+    "Lithuania",
+    "JapaneseHistory",
+    "第二次世界大战",
+    "Bushido",
+    "仁",
+    "PikuachNefesh",
+    "MirYeshiva",
+    "Shanghai",
+    "Refugees",
+    "HumanRights",
+    "WorldWarII",
+    "KiddushHashem",
+    "LifeSaving",
+    "义人",
+    "NeverForget"
+  ],
+  "created": "2026-03-19",
+  "status": "complete",
+  "languages": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "bibliography_count": 8,
+  "files": {
+    "article_en": "article-en.md",
+    "article_zh": "article-zh.md",
+    "article_he": "article-he.md",
+    "metadata": "metadata.json"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": 338,
+  "title": "Gilgul Neshamot: The Jewish Concept of Reincarnation",
+  "title_zh": "灵魂轮回：犹太教的转世观念",
+  "title_he": "גלגול נשמות: תפיסת הגלגול היהודית",
+  "slug": "gilgul-neshamot-reincarnation",
+  "section": "jewish-philosophy-big-questions",
+  "description": "The kabbalistic teaching that souls return to this world to complete their mission, with sources from the Zohar and the Arizal.",
+  "description_zh": "卡巴拉教导认为灵魂回到这个世界来完成其使命，来源于《光辉之书》和阿里扎尔。",
+  "description_he": "תורת הקבלה שנשמות שבות לעולם הזה כדי להשלים את שליחותן, עם מקורות מהזוהר ומהאריז\"ל.",
+  "word_count_en": 2847,
+  "char_count_zh": 5625,
+  "word_count_he": 2134,
+  "tags": [
+    "Reincarnation",
+    "GilgulNeshamot",
+    "Kabbalah",
+    "JewishMysticism",
+    "SoulJourney",
+    "Zohar",
+    "Arizal",
+    "Tikun",
+    "CharacterRefinement",
+    "Mitzvot",
+    "轮回",
+    "灵魂",
+    "犹太神秘主义",
+    "JewishPhilosophy",
+    "BigQuestions",
+    "Afterlife"
+  ],
+  "chinese_parallels": [
+    "Buddhist concept of 轮回 (lúnhuí) compared to Jewish gilgul",
+    "Yuan Dynasty (元朝, 1271-1368) corresponds to Zohar composition period",
+    "Ming Dynasty (明朝) corresponds to Arizal period",
+    "Qing Dynasty (清朝) corresponds to Baal Shem Tov period",
+    "Different purposes: Buddhist escape vs Jewish completion"
+  ],
+  "key_sources": [
+    "Zohar II:99b",
+    "Shaar HaGilgulim (The Gate of Reincarnations) by the Arizal",
+    "Ecclesiastes 1:5",
+    "Deuteronomy 25:5-6 (Yibum)",
+    "2 Kings 2:9"
+  ],
+  "status": "complete",
+  "created_date": "2026-03-19",
+  "language_versions": {
+    "en": "article-en.md",
+    "zh": "article-zh.md",
+    "he": "article-he.md"
+  },
+  "bibliography_count": 7,
+  "has_header_image_prompt": true,
+  "practical_applications": [
+    "View recurring challenges as soul work spanning lifetimes",
+    "Follow passionate pulls toward specific mitzvot",
+    "Trust unusual circumstances as divinely chosen opportunities",
+    "Focus on present growth rather than past life speculation"
+  ]
+}

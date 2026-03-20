@@ -1,0 +1,56 @@
+{
+  "id": 257,
+  "title": "The Vilna Gaon vs. the Baal Shem Tov: The Great Debate",
+  "title_zh": "维尔纳盖昂与巴尔谢姆托夫:伟大的辩论",
+  "title_he": "הגאון מווילנא מול הבעל שם טוב: הוויכוח הגדול",
+  "section": "jewish-history",
+  "slug": "vilna-gaon-vs-besht",
+  "word_count": {
+    "en": 2846,
+    "zh": 1486,
+    "he": 2158
+  },
+  "char_count": {
+    "zh": 5952
+  },
+  "status": "complete",
+  "languages": ["en", "zh", "he"],
+  "tags": [
+    "VilnaGaon",
+    "BaalShemTov",
+    "Chassidism",
+    "Mitnagdim",
+    "JewishHistory",
+    "TorahStudy",
+    "JewishPhilosophy",
+    "Kabbalah",
+    "18thCentury",
+    "清朝",
+    "儒家道家",
+    "犹太思想",
+    "哈西迪",
+    "JewishIntellectual",
+    "Spirituality",
+    "LithuanianJudaism",
+    "EasternEuropeanJewry",
+    "Orthodoxy",
+    "ReligiousDebate",
+    "הגאוןמווילנא",
+    "הבעלשםטוב",
+    "חסידות",
+    "מתנגדים"
+  ],
+  "chinese_parallels": [
+    "Qing Dynasty (清朝, 1644-1912)",
+    "Confucianism vs. Daoism comparison"
+  ],
+  "historical_context": "Mid-18th century Eastern Europe during Qing Dynasty China",
+  "key_figures": [
+    "Vilna Gaon (Rabbi Elijah ben Solomon Zalman, 1720-1797)",
+    "Baal Shem Tov (Rabbi Israel ben Eliezer, 1698-1760)",
+    "Maggid of Mezeritch",
+    "Rabbi Schneur Zalman of Liadi"
+  ],
+  "bibliography_sources": 6,
+  "created": "2026-03-19T02:14:00Z"
+}

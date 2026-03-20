@@ -1,0 +1,57 @@
+{
+  "id": 258,
+  "title": "The Pale of Settlement: Jewish Life in Eastern Europe",
+  "title_zh": "犹太人定居区：东欧犹太生活史",
+  "title_he": "תחום המושב: חיי היהודים במזרח אירופה",
+  "section": "jewish-history",
+  "slug": "pale-of-settlement",
+  "word_count": {
+    "en": 1498,
+    "zh": 858,
+    "he": 1456
+  },
+  "languages": ["en", "zh", "he"],
+  "tags": [
+    "PaleOfSettlement",
+    "JewishHistory",
+    "EasternEurope",
+    "Shtetl",
+    "Pogroms",
+    "Immigration",
+    "YiddishCulture",
+    "RussianEmpire",
+    "Persecution",
+    "Resilience",
+    "Diaspora",
+    "AmericanJews",
+    "Zionism",
+    "JewishIdentity"
+  ],
+  "chinese_dynasty_parallels": [
+    {
+      "jewish_period": "Pale of Settlement Era",
+      "dates": "1791-1917",
+      "chinese_equivalent": "Qing Dynasty (清朝)",
+      "chinese_dates": "1644-1912"
+    }
+  ],
+  "cultural_parallels": [
+    {
+      "concept": "Hukou System (户口)",
+      "description": "Comparison between the Pale's residential restrictions and China's household registration system"
+    }
+  ],
+  "bibliography_count": 6,
+  "header_image_prompt": "A Chinese brushstroke landscape in traditional shan shui (山水) style depicting a vast, cold Eastern European plain with simple wooden villages scattered across rolling hills. In the foreground, a small shtetl with modest houses and a wooden synagogue sits beneath a grey winter sky. Ink wash technique in muted earth tones—charcoal greys, sepia browns, and touches of pale blue—creating a contemplative, melancholic mood.",
+  "key_themes": [
+    "Legal discrimination and ghettoization",
+    "Shtetl life and Yiddish culture",
+    "Economic restrictions and marginalization",
+    "Pogroms and systematic violence",
+    "Mass emigration and diaspora formation",
+    "Jewish responses: Haskalah, Zionism, Revolution"
+  ],
+  "status": "complete",
+  "created_at": "2026-03-19T02:14:00Z",
+  "completed_at": "2026-03-19T02:14:00Z"
+}

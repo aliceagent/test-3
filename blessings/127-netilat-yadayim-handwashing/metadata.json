@@ -1,0 +1,125 @@
+{
+  "article_id": 127,
+  "title": {
+    "en": "Netilat Yadayim: Why Jews Wash Their Hands in a Specific Way",
+    "zh": "净手礼：犹太人为何以特殊方式洗手",
+    "he": "נטילת ידיים: מדוע יהודים נוטלים ידיהם בצורה מיוחדת"
+  },
+  "subtitle": {
+    "en": "The spiritual (not hygienic) purpose of ritual handwashing, the proper method, and when it's required throughout the day",
+    "zh": "仪式性洗手的精神（而非卫生）目的、正确方法以及一天中何时需要",
+    "he": "המטרה הרוחנית (לא היגיינית) של נטילת ידיים טקסית, השיטה הנכונה ומתי נדרשת במהלך היום"
+  },
+  "section": "blessings",
+  "category": {
+    "en": "Jewish Rituals and Observances",
+    "zh": "犹太仪式和遵守",
+    "he": "טקסים יהודיים ושמירת מצוות"
+  },
+  "author": "Torah Light Editorial Team",
+  "publication_date": "2026-03-18",
+  "word_count": {
+    "en": 1247,
+    "zh": 856,
+    "he": 1089
+  },
+  "reading_time_minutes": {
+    "en": 6,
+    "zh": 4,
+    "he": 5
+  },
+  "sources": [
+    {
+      "title": "Babylonian Talmud, Tractate Berakhot",
+      "url": "https://www.sefaria.org/Berakhot",
+      "description": "Primary Talmudic discussions of handwashing requirements and blessings"
+    },
+    {
+      "title": "Babylonian Talmud, Tractate Chullin",
+      "url": "https://www.sefaria.org/Chullin",
+      "description": "Detailed laws regarding handwashing before eating and its historical development"
+    },
+    {
+      "title": "Mishneh Torah, Hilchot Berakhot",
+      "url": "https://www.sefaria.org/Mishneh_Torah%2C_Blessings",
+      "description": "Maimonides' codification of handwashing laws and procedures"
+    },
+    {
+      "title": "Shulchan Aruch, Orach Chaim 158-165",
+      "url": "https://www.sefaria.org/Shulchan_Arukh%2C_Orach_Chayim.158",
+      "description": "Authoritative code of Jewish law on handwashing requirements"
+    },
+    {
+      "title": "Exodus 30:17-21",
+      "url": "https://www.sefaria.org/Exodus.30.17-21",
+      "description": "Biblical source for priestly handwashing requirements in the Temple"
+    },
+    {
+      "title": "Leviticus 15:11",
+      "url": "https://www.sefaria.org/Leviticus.15.11",
+      "description": "Biblical hint (asmachta) used by rabbis to derive handwashing laws"
+    }
+  ],
+  "bibliography": [
+    {
+      "title": "Handwashing in Judaism - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Handwashing_in_Judaism",
+      "description": "Comprehensive overview of Jewish handwashing practices"
+    },
+    {
+      "title": "The Complete ArtScroll Siddur",
+      "publisher": "Mesorah Publications",
+      "description": "Traditional Jewish prayer book with handwashing blessings and instructions"
+    },
+    {
+      "title": "Kitzur Shulchan Aruch",
+      "author": "Rabbi Shlomo Ganzfried",
+      "url": "https://www.sefaria.org/Kitzur_Shulchan_Arukh",
+      "description": "Concise code of Jewish law including handwashing requirements"
+    }
+  ],
+  "cultural_references": {
+    "chinese_dynasties": [
+      {
+        "dynasty": "Han Dynasty (汉朝)",
+        "period": "206 BCE - 220 CE",
+        "reference": "Palace handwashing rituals and purification ceremonies"
+      },
+      {
+        "dynasty": "Tang Dynasty (唐朝)",
+        "period": "618 - 907 CE",
+        "reference": "Medical text '千金要方' (Qian Jin Yao Fang) emphasizing hand cleanliness"
+      },
+      {
+        "dynasty": "Song Dynasty (宋朝)",
+        "period": "960 - 1279 CE",
+        "reference": "Neo-Confucian emphasis on ritual propriety (礼) in daily practices"
+      }
+    ]
+  },
+  "keywords": [
+    "food preparation",
+    "daily observances",
+    "netilat yadayim",
+    "ritual purity",
+    "handwashing",
+    "talmud",
+    "spiritual cleansing",
+    "temple service",
+    "blessings",
+    "halakha"
+  ],
+  "related_articles": [
+    "hamotzi-blessing-over-bread",
+    "birkat-hamazon-grace-after-meals",
+    "temple-service-and-modern-practice",
+    "daily-jewish-blessings"
+  ],
+  "difficulty_level": "intermediate",
+  "target_audience": [
+    "jewish learners",
+    "comparative religion students",
+    "ritual studies scholars"
+  ],
+  "last_updated": "2026-03-18T13:36:00Z"
+}

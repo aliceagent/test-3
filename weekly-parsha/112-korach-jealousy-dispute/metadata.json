@@ -1,0 +1,89 @@
+{
+  "id": 112,
+  "title": {
+    "en": "Korach: The Dangers of Jealousy and Dispute",
+    "zh": "可拉（Korach）：嫉妒与争论的危险",
+    "he": "קרח: הסכנות של קנאה ומחלוקת"
+  },
+  "section": "weekly-parsha",
+  "slug": "korach-jealousy-dispute",
+  "batch": "200",
+  "wordCount": {
+    "en": 1547,
+    "zh": 1421,
+    "he": 1318
+  },
+  "characterCount": {
+    "en": 9008,
+    "zh": 3094,
+    "he": 6526
+  },
+  "themes": [
+    "jealousy",
+    "dispute",
+    "constructive-disagreement",
+    "leadership",
+    "rebellion",
+    "korach",
+    "moses",
+    "machloket-l-shem-shamayim"
+  ],
+  "chineseDynastyReference": "Shang Dynasty (商朝, ~1600-1046 BCE)",
+  "headerImagePrompt": "A traditional Chinese ink wash (水墨) landscape featuring a deep mountain chasm with misty peaks. The earth appears to be opening in a dramatic fissure, while cherry blossom trees bend away from the disturbance. In the foreground, wisps of incense smoke rise toward storm clouds, representing prayers ascending amid conflict. The style is reminiscent of Song Dynasty paintings with muted earth tones of brown, gray, and subtle touches of red, conveying both the solemnity of the moment and the eternal beauty of learning from our mistakes.",
+  "bibliography": [
+    {
+      "title": "A Tale Of Two Evil Character Traits: Jealousy & Machlokes",
+      "source": "Torah.org",
+      "url": "https://torah.org/torah-portion/ravfrand-5776-korach/",
+      "description": "Rabbi Yissocher Frand's analysis of jealousy and argumentativeness in Parshat Korach",
+      "verified": true
+    },
+    {
+      "title": "Parshat Korach: Power Versus Influence",
+      "source": "OU Torah",
+      "url": "https://outorah.org/p/942/",
+      "description": "Rabbi Jonathan Sacks on the distinction between power and influence in leadership",
+      "verified": true
+    },
+    {
+      "title": "Rashi Commentary on Numbers 16:1",
+      "source": "Sefaria.org",
+      "url": "https://www.sefaria.org/Rashi_on_Numbers.16.1",
+      "description": "Classical commentary explaining Korach's motivations",
+      "verified": true
+    },
+    {
+      "title": "Shang Dynasty (ca. 1600–1050 BCE)",
+      "source": "Smithsonian National Museum of Asian Art",
+      "url": "https://asia-archive.si.edu/learn/for-educators/teaching-china-with-the-smithsonian/explore-by-dynasty/shang-dynasty-2/",
+      "description": "Historical context for Chinese civilization during Moses' time",
+      "verified": true
+    },
+    {
+      "title": "Machloket L'Shem Shamayim: Striving For Intra-Jewish Unity",
+      "source": "Sefaria.org",
+      "url": "https://www.sefaria.org/sheets/28996",
+      "description": "Sources and analysis on constructive disagreement in Jewish thought",
+      "verified": true
+    }
+  ],
+  "createdAt": "2026-03-18T13:01:00Z",
+  "status": "completed",
+  "author": "Torah Light Subagent",
+  "keywords": [
+    "Korach",
+    "Jealousy",
+    "Machlokes",
+    "MachloketLShemShamayim",
+    "Leadership",
+    "Moses",
+    "Rebellion",
+    "Argument",
+    "Constructive",
+    "Destructive",
+    "Torah",
+    "WeeklyParsha",
+    "Community",
+    "Authority"
+  ]
+}

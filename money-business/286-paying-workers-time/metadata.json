@@ -1,0 +1,87 @@
+{
+  "id": 286,
+  "title": "Paying Workers on Time: A Torah Obligation",
+  "title_zh": "按时支付工人工资:妥拉的义务",
+  "title_he": "תשלום פועלים בזמן: חיוב תורה",
+  "section": "money-business",
+  "slug": "paying-workers-time",
+  "author": "Torah Light Editorial Team",
+  "date_created": "2026-03-19",
+  "word_count": {
+    "en": 1487,
+    "zh": 1032,
+    "he": 1245
+  },
+  "languages": ["en", "zh", "he"],
+  "tags": [
+    "TimelySalary",
+    "WorkersRights",
+    "TorahLaw",
+    "BusinessEthics",
+    "义",
+    "仁",
+    "商朝",
+    "汉朝",
+    "MoneyBusiness",
+    "LaborLaw",
+    "Dignity",
+    "Justice",
+    "Mitzvah",
+    "Halacha",
+    "דיניממונות"
+  ],
+  "torah_sources": [
+    "Deuteronomy 24:15",
+    "Leviticus 19:13"
+  ],
+  "talmudic_sources": [
+    "Bava Metzia 111a",
+    "Bava Metzia 112a"
+  ],
+  "halachic_sources": [
+    "Shulchan Aruch, Choshen Mishpat 339",
+    "Mishneh Torah, Hilchot Sechirut 11:1-4"
+  ],
+  "chinese_historical_parallels": [
+    {
+      "period": "Late Shang Dynasty",
+      "chinese": "商朝晚期",
+      "years": "~1300-1260 BCE",
+      "jewish_event": "Giving of Torah at Mount Sinai"
+    },
+    {
+      "period": "Han Dynasty",
+      "chinese": "汉朝",
+      "years": "206 BCE - 220 CE",
+      "jewish_event": "Late Second Temple Period and Talmudic Era"
+    },
+    {
+      "period": "Southern Song Dynasty",
+      "chinese": "南宋",
+      "years": "1127-1279 CE",
+      "jewish_event": "Era of Maimonides (Rambam)"
+    }
+  ],
+  "key_concepts": [
+    "Bal Talin - Prohibition against withholding wages",
+    "Worker dignity and human rights",
+    "Five Torah prohibitions violated by wage withholding",
+    "Reciprocal obligations of employers and employees",
+    "Modern applications to electronic payments and salaries"
+  ],
+  "cultural_connections": {
+    "confucian_ethics": "义 (Yi - righteousness) and 仁 (Ren - benevolence)",
+    "mohism": "Universal love and practical ethics",
+    "shared_values": "Dignity of labor, fulfilling obligations, treating others with respect"
+  },
+  "practical_applications": [
+    "Setting up automated payroll systems",
+    "Immediate payment to contractors and day laborers",
+    "Clear communication about payment schedules",
+    "Responsible cash flow planning for employers",
+    "Worker advocacy and honest labor"
+  ],
+  "status": "complete",
+  "reviewed": false,
+  "batch": "300"
+}

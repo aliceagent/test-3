@@ -1,0 +1,66 @@
+{
+  "id": 254,
+  "title": "The Spanish Inquisition and Expulsion of 1492",
+  "title_zh": "西班牙宗教裁判所与1492年驱逐令",
+  "title_he": "האינקוויזיציה הספרדית וגירוש 1492",
+  "section": "jewish-history",
+  "slug": "spanish-inquisition",
+  "word_count_en": 4287,
+  "char_count_zh": 6223,
+  "word_count_he": 3542,
+  "status": "complete",
+  "created_at": "2026-03-19T02:00:00Z",
+  "tags": [
+    "SpanishInquisition",
+    "Expulsion1492",
+    "SephardicJews",
+    "CryptoJews",
+    "Conversos",
+    "Marranos",
+    "Martyrdom",
+    "JewishHistory",
+    "明朝",
+    "MingDynasty",
+    "Diaspora",
+    "Persecution",
+    "ReligiousFreedom",
+    "HistoricalTrauma",
+    "CulturalResilience",
+    "TishaBAv",
+    "ForcedConversion",
+    "GoldenAge",
+    "Ladino",
+    "AntiSemitism"
+  ],
+  "chinese_dynasty_parallels": [
+    "明朝 (Ming Dynasty, 1368-1644)",
+    "宋朝 (Song Dynasty, 960-1279)",
+    "元朝 (Yuan Dynasty, 1271-1368)"
+  ],
+  "bibliography_count": 8,
+  "key_figures": [
+    "King Ferdinand",
+    "Queen Isabella",
+    "Don Isaac Abravanel",
+    "Maimonides (Rambam)",
+    "Rabbi Yehuda Halevi",
+    "Samuel HaNagid",
+    "Abraham Ibn Ezra",
+    "Sultan Bayezid II"
+  ],
+  "key_events": [
+    "1391 Massacres",
+    "1478 Spanish Inquisition Established",
+    "March 31, 1492 Alhambra Decree",
+    "July 31, 1492 Expulsion Deadline (Tisha B'Av)",
+    "1497 Portuguese Expulsion",
+    "1968 Alhambra Decree Revoked",
+    "2015 Spain Offers Citizenship to Descendants"
+  ],
+  "historical_context": "The Spanish Inquisition (1478-1834) and the Expulsion of 1492 represent one of the darkest chapters in Jewish history, ending Spain's Golden Age of Jewish scholarship and creating the Sephardic Diaspora that spread across three continents.",
+  "cultural_parallels": [
+    "Ming Dynasty purges of suspected dissidents",
+    "Qing Dynasty forced cultural assimilation (queue hairstyle)",
+    "Diaspora communities maintaining language and identity across centuries"
+  ]
+}

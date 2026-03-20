@@ -1,0 +1,85 @@
+{
+  "id": 165,
+  "title": "Dealing with Doubt: Is Questioning Normal During Conversion?",
+  "title_zh": "面对疑虑:皈依过程中的质疑正常吗?",
+  "title_he": "התמודדות עם ספק: האם לשאול שאלות זה נורמלי במהלך הגיור?",
+  "section": "conversion",
+  "slug": "conversion-doubt-questioning",
+  "batch": "200",
+  "author": "Torah Light Team",
+  "summary": "Explores the normal experience of doubt during conversion to Judaism, drawing on biblical examples (Moses, Abraham, Jeremiah) and Jewish tradition of wrestling with God. Distinguishes healthy questioning from paralyzing doubt, offers practical strategies for managing uncertainty, and includes parallels to Chinese scholarly tradition.",
+  "summary_zh": "探讨皈依犹太教过程中正常的疑虑体验,引用圣经例子(摩西、亚伯拉罕、耶利米)和与神角力的犹太传统。区分健康的质疑与瘫痪性怀疑,提供管理不确定性的实用策略,并包括与中国学者传统的平行。",
+  "summary_he": "בוחן את החוויה הנורמלית של ספק במהלך גיור ליהדות, תוך הסתמכות על דוגמאות מקראיות (משה, אברהם, ירמיהו) ועל המסורת היהודית של היאבקות עם אלוהים. מבדיל בין שאילת שאלות בריאה לבין ספק משתק, מציע אסטרטגיות מעשיות להתמודדות עם אי-ודאות, וכולל מקבילות למסורת המלומדים הסינית.",
+  "keywords": [
+    "conversion",
+    "doubt",
+    "questioning",
+    "faith",
+    "emunah",
+    "Israel",
+    "wrestling with God",
+    "Moses",
+    "Abraham",
+    "Talmud",
+    "beit din",
+    "mikvah",
+    "Chinese philosophy",
+    "Confucius",
+    "gewu",
+    "junzi",
+    "healthy doubt",
+    "spiritual journey",
+    "conversion process",
+    "Jewish identity"
+  ],
+  "target_audience": "Individuals in the process of converting to Judaism who are experiencing doubts and questions, as well as their family members and sponsors who want to understand this normal part of the journey",
+  "difficulty": "intermediate",
+  "word_count_en": 3021,
+  "character_count_zh": 4251,
+  "word_count_he": 2456,
+  "cultural_parallels": [
+    {
+      "concept": "Chinese scholarly tradition",
+      "description": "Confucian emphasis on questioning and investigation (gewu) as path to understanding, parallel to Jewish tradition of wrestling with text and tradition"
+    },
+    {
+      "concept": "The junzi (scholar-gentleman)",
+      "description": "Ideal of constant self-examination and intellectual struggle, similar to Jewish concept of engagement with Torah and mitzvot"
+    }
+  ],
+  "biblical_sources": [
+    "Exodus 3:11 - Moses questions his worthiness",
+    "Exodus 4:1,10,13 - Moses expresses doubts at burning bush",
+    "Genesis 17:17 - Abraham laughs at God's promise",
+    "Genesis 18:12 - Sarah laughs at prophecy",
+    "Jeremiah 20:7 - Prophet's complaint to God",
+    "Genesis 32:28 - Jacob renamed Israel (one who wrestles with God)"
+  ],
+  "talmudic_concepts": [
+    "Multiple opinions recorded without resolution",
+    "Argument as sacred activity",
+    "Machloket l'shem shamayim (disputes for the sake of heaven)"
+  ],
+  "practical_applications": [
+    "Identifying source of specific doubts",
+    "Speaking openly with sponsoring rabbi",
+    "Connecting with other converts for support",
+    "Returning to original motivation for conversion",
+    "Taking breaks from overwhelming study",
+    "Studying Jewish history for perspective"
+  ],
+  "reflection_questions": [
+    "What specific doubts have I been experiencing lately? Can I name them clearly?",
+    "Who in my life can I talk to about these struggles?",
+    "When I look back at why I started this journey, does that 'why' still resonate?",
+    "What would it look like to give myself permission to struggle without judging myself?"
+  ],
+  "further_reading": [
+    "Choosing a Jewish Life by Anita Diamant",
+    "Finding God: Selected Responses by Adin Steinsaltz",
+    "Pirkei Avot (Ethics of the Fathers) 2:4"
+  ],
+  "tone": "warm, reassuring, educational, empathetic",
+  "created_date": "2026-03-18",
+  "language_versions": ["en", "zh", "he"]
+}

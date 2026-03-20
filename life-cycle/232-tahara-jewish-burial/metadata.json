@@ -1,0 +1,125 @@
+{
+  "id": 232,
+  "title": "Tahara and Jewish Burial: Honoring the Dead",
+  "title_zh": "塔哈拉与犹太葬礼：敬重逝者",
+  "title_he": "טהרה וקבורה יהודית: כיבוד המתים",
+  "section": "life-cycle",
+  "slug": "tahara-jewish-burial",
+  "summary": "An exploration of tahara (ritual purification) and Jewish burial practices, examining the sacred work of the Chevra Kadisha, the meaning behind burial customs, and how Jewish traditions honor the deceased with dignity and respect.",
+  "summary_zh": "探索塔哈拉（仪式净化）和犹太葬礼习俗，审视圣洁会的神圣工作、葬礼习俗背后的意义，以及犹太传统如何以尊严和尊重敬重逝者。",
+  "summary_he": "חקירה של טהרה (טיהור טקסי) ונוהגי קבורה יהודיים, בחינת העבודה הקדושה של חברא קדישא, המשמעות מאחורי מנהגי קבורה, וכיצד מסורות יהודיות מכבדות את הנפטרים בכבוד ובהערכה.",
+  "keywords": [
+    "tahara",
+    "Jewish burial",
+    "Chevra Kadisha",
+    "tachrichim",
+    "Jewish funeral",
+    "death rituals",
+    "chesed shel emet",
+    "life cycle",
+    "Jewish mourning",
+    "burial customs"
+  ],
+  "keywords_zh": [
+    "塔哈拉",
+    "犹太葬礼",
+    "圣洁会",
+    "寿衣",
+    "犹太葬礼仪式",
+    "死亡仪式",
+    "真正的善举",
+    "生命周期",
+    "犹太哀悼",
+    "葬礼习俗"
+  ],
+  "keywords_he": [
+    "טהרה",
+    "קבורה יהודית",
+    "חברא קדישא",
+    "תכריכים",
+    "לוויה יהודית",
+    "טקסי מוות",
+    "חסד של אמת",
+    "מעגל החיים",
+    "אבלות יהודית",
+    "מנהגי קבורה"
+  ],
+  "target_audience": "Chinese native Mandarin speakers with no prior Jewish knowledge",
+  "cultural_parallels": [
+    "Confucian values of honoring the body and respecting ancestors",
+    "Chinese funeral washing and dressing customs",
+    "Community mutual aid societies (hui) similar to Chevra Kadisha",
+    "Comparison between natural decomposition vs. preservation practices"
+  ],
+  "sources": [
+    {
+      "type": "primary_text",
+      "title": "Talmud, Moed Katan 27b",
+      "description": "On the simplicity of burial garments"
+    },
+    {
+      "type": "primary_text",
+      "title": "Genesis 1:27",
+      "description": "Humanity created in the image of God"
+    },
+    {
+      "type": "primary_text",
+      "title": "Genesis 3:19",
+      "description": "Dust to dust - return to earth"
+    },
+    {
+      "type": "primary_text",
+      "title": "Deuteronomy 34:6",
+      "description": "God buried Moses"
+    },
+    {
+      "type": "halachic",
+      "title": "Shulchan Aruch, Yoreh De'ah 352-362",
+      "description": "Laws regarding the treatment of the deceased"
+    },
+    {
+      "type": "book",
+      "title": "Gesher HaChaim",
+      "author": "Rabbi Yechiel Michel Tukachinsky",
+      "description": "Comprehensive guide to Jewish mourning practices"
+    },
+    {
+      "type": "book",
+      "title": "Jewish Insights into Death and Mourning",
+      "author": "Rabbi Maurice Lamm",
+      "description": "Contemporary guide for understanding Jewish practices around death"
+    }
+  ],
+  "word_count": {
+    "en": 1450,
+    "zh": 850,
+    "he": 1380
+  },
+  "reading_time_minutes": {
+    "en": 7,
+    "zh": 5,
+    "he": 7
+  },
+  "difficulty_level": "intermediate",
+  "related_articles": [
+    275,
+    276,
+    277,
+    278,
+    279
+  ],
+  "related_topics": [
+    "Jewish funeral customs",
+    "Shiva and mourning",
+    "Kaddish prayer",
+    "Yahrzeit observance",
+    "Yizkor memorial service"
+  ],
+  "created_date": "2026-03-19",
+  "language_versions": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "status": "complete"
+}

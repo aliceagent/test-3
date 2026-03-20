@@ -1,0 +1,90 @@
+{
+  "id": 30,
+  "title": "Understanding the Amidah: The Silent Prayer at the Heart of Jewish Worship",
+  "title_zh": "理解阿米达祷文:犹太敬拜核心的默祷",
+  "title_he": "הבנת תפילת העמידה: התפילה השקטה שבלב העבודה היהודית",
+  "section": "Prayer",
+  "section_zh": "祷告",
+  "section_he": "תפילה",
+  "description": "A blessing-by-blessing guide to the Shemoneh Esrei, with commentary on what each blessing means.",
+  "word_count_en": 4850,
+  "word_count_zh": 4320,
+  "word_count_he": 4210,
+  "status": "drafted",
+  "drafted_at": "2026-03-17T06:37:00Z",
+  "languages": ["en", "zh", "he"],
+  "tags": [
+    "Amidah",
+    "Prayer",
+    "ShemonehEsrei",
+    "Tefillah",
+    "StandingPrayer",
+    "JewishWorship",
+    "Kavanah",
+    "Intention",
+    "TempleService",
+    "HanDynasty",
+    "漢朝",
+    "Ritual",
+    "Meditation",
+    "InnerCultivation",
+    "修養",
+    "ChineseJewishConnections",
+    "Sincerity",
+    "誠",
+    "DailyPrayer",
+    "SpiritualDiscipline"
+  ],
+  "historical_period": "Second Temple/Han Dynasty (70-220 CE)",
+  "chinese_dynasty": "Han Dynasty (漢朝, 206 BCE–220 CE)",
+  "cultural_connections": [
+    "Confucian ritual propriety (禮, li)",
+    "Daoist meditation and stillness",
+    "Chinese concept of sincerity (誠, chéng)",
+    "Inner cultivation (修養, xiūyǎng)"
+  ],
+  "key_concepts": [
+    "Three-part structure: Praise, Request, Gratitude",
+    "Silent prayer following Hannah's example",
+    "Standing posture as respect",
+    "Kavanah (intention) in prayer",
+    "Prayer replacing Temple sacrifices",
+    "Portable sanctuary concept"
+  ],
+  "sources": [
+    {
+      "title": "What Is the Amidah?",
+      "source": "Chabad.org",
+      "url": "https://www.chabad.org/library/article_cdo/aid/3834226/jewish/What-Is-the-Amidah.htm",
+      "verified": true
+    },
+    {
+      "title": "Adding Personal Requests to Daily Prayers",
+      "source": "Aish.com",
+      "url": "https://aish.com/adding-personal-requests-to-daily-prayers/",
+      "verified": true
+    },
+    {
+      "title": "Amidah",
+      "source": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Amidah",
+      "verified": true
+    },
+    {
+      "title": "Talmud, Tractate Berakhot 4b-5b",
+      "source": "Sefaria.org",
+      "url": "https://www.sefaria.org/Berakhot.4b",
+      "verified": true
+    },
+    {
+      "title": "Translation of the Weekday Amidah",
+      "source": "Chabad.org",
+      "url": "https://www.chabad.org/library/article_cdo/aid/867674/jewish/Translation.htm",
+      "verified": true
+    }
+  ],
+  "target_folder": "prayer",
+  "target_audience": "Chinese seekers exploring Judaism for the first time",
+  "reading_level": "Beginner to Intermediate",
+  "estimated_reading_time_minutes": 20
+}

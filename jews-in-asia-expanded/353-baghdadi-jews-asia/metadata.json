@@ -1,0 +1,78 @@
+{
+  "id": 353,
+  "title": "The Baghdadi Jews of Asia: From Iraq to India to Shanghai",
+  "title_zh": "亚洲的巴格达犹太人:从伊拉克到印度到上海",
+  "title_he": "יהודי בגדאד באסיה: מעיראק להודו לשנחאי",
+  "description": "Tracing the Sassoon, Kadoorie, and Hardoon families who built synagogues, businesses, and communities across the Asian continent.",
+  "section": "jews-in-asia-expanded",
+  "slug": "353-baghdadi-jews-asia",
+  "status": "complete",
+  "word_count": {
+    "en": 5890,
+    "zh": 4320,
+    "he": 3180
+  },
+  "languages": ["en", "zh", "he"],
+  "tags": [
+    "BaghdadiJews",
+    "Sassoon",
+    "Kadoorie",
+    "Hardoon",
+    "Shanghai",
+    "Mumbai",
+    "HongKong",
+    "JewishHistory",
+    "AsianJewry",
+    "SephardiJews",
+    "Diaspora",
+    "JewishBusinessHistory",
+    "Philanthropy",
+    "SynagogueArchitecture",
+    "19thCentury",
+    "20thCentury",
+    "清朝",
+    "商业家族",
+    "犹太社区"
+  ],
+  "key_figures": [
+    "David Sassoon",
+    "Elias David Sassoon",
+    "Albert Sassoon",
+    "Elly Kadoorie",
+    "Ellis Kadoorie",
+    "Michael Kadoorie",
+    "Silas Aaron Hardoon",
+    "Luo Jialing"
+  ],
+  "locations": [
+    "Baghdad",
+    "Mumbai (Bombay)",
+    "Shanghai",
+    "Hong Kong",
+    "Kolkata (Calcutta)",
+    "Pune",
+    "Singapore"
+  ],
+  "historical_periods": [
+    {
+      "jewish": "Babylonian Exile",
+      "dates": "586 BCE",
+      "chinese": "Spring and Autumn Period (春秋时代, 770-476 BCE)"
+    },
+    {
+      "jewish": "Talmudic Period",
+      "dates": "200-500 CE",
+      "chinese": "Three Kingdoms through Jin Dynasty"
+    },
+    {
+      "jewish": "Baghdadi Jewish Migration",
+      "dates": "1830s-1940s",
+      "chinese": "Qing Dynasty (清朝, 1644-1912) through Republic of China"
+    }
+  ],
+  "created_date": "2026-03-19",
+  "author": "Torah Light Writing Team",
+  "bibliography_count": 10,
+  "has_cultural_parallels": true,
+  "has_header_image_description": true
+}

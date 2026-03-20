@@ -1,0 +1,73 @@
+{
+  "id": 34,
+  "title": "What is a Mezuzah and Why is it on Every Jewish Doorpost?",
+  "section": "Mitzvah Objects",
+  "description": "The meaning, laws, and proper placement of the mezuzah — plus what's written on the scroll inside.",
+  "status": "draft_complete",
+  "languages": {
+    "en": {
+      "title": "What is a Mezuzah and Why is it on Every Jewish Doorpost?",
+      "file": "article-en.md",
+      "word_count": 2156,
+      "status": "complete"
+    },
+    "zh": {
+      "title": "门框上的门柱经卷（Mezuzah）是什么？为什么每个犹太人的门口都有？",
+      "file": "article-zh.md", 
+      "word_count": 867,
+      "status": "complete"
+    },
+    "he": {
+      "title": "מה זו מזוזה ומדוע היא נמצאת על כל משקוף יהודי?",
+      "file": "article-he.md",
+      "word_count": 1534,
+      "status": "complete"
+    }
+  },
+  "cultural_parallels": [
+    "Chinese Spring Festival couplets (春联)",
+    "Door decoration traditions across cultures",
+    "Threshold sanctification practices",
+    "Written blessings for home protection"
+  ],
+  "historical_context": {
+    "period": "Mosaic period (c. 1300-1260 BCE)",
+    "chinese_equivalent": "Late Shang Dynasty (商朝晚期)",
+    "significance": "Biblical commandment establishing permanent home identification"
+  },
+  "key_topics": [
+    "Biblical origins (Deuteronomy 6:4-9, 11:13-21)",
+    "Kosher requirements and scribal laws",
+    "Proper placement and installation", 
+    "Cultural significance and daily practice",
+    "Moving considerations and community aspects",
+    "Spiritual meaning beyond superstition"
+  ],
+  "practical_information": {
+    "cost": "$30-40 for kosher scroll",
+    "placement": "Right doorpost, shoulder height, slight angle (Ashkenazi)",
+    "blessing_required": true,
+    "inspection_frequency": "Twice every seven years",
+    "installation_timing": "Within 30 days (diaspora), immediately (Israel)"
+  },
+  "bibliography_sources": 4,
+  "tags": [
+    "#Mezuzah",
+    "#MitzvahObjects", 
+    "#JewishHome",
+    "#DoorpostTradition",
+    "#Shema",
+    "#Deuteronomy",
+    "#门柱传统",
+    "#犹太家庭",
+    "#春联",
+    "#ThresholdSacred",
+    "#TorahCommandments",
+    "#HomeSanctification",
+    "#JewishIdentity", 
+    "#DivinePresence"
+  ],
+  "created": "2026-03-17T08:54:00+02:00",
+  "author": "Torah Light Project",
+  "target_audience": "Chinese native Mandarin speakers with no prior Jewish knowledge"
+}

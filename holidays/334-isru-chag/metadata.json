@@ -1,0 +1,146 @@
+{
+  "id": 334,
+  "title": {
+    "en": "Isru Chag: The Day After the Holiday",
+    "zh": "节后日（Isru Chag）：节日之后的那一天",
+    "he": "איסרו חג: היום שאחרי החג"
+  },
+  "slug": "isru-chag",
+  "section": "holidays",
+  "batch": "300",
+  "author": "Torah Light Editorial Team",
+  "dateCreated": "2026-03-19",
+  "language": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "primarySources": [
+    "Psalms 118:27",
+    "Babylonian Talmud, Sukkah 45b"
+  ],
+  "hebrewReferences": [
+    "תהילים קיח:כז",
+    "תלמוד בבלי, מסכת סוכה מה ע״ב"
+  ],
+  "culturalParallels": [
+    "Chinese 年后 (Nián Hòu) — post-New Year period where festival feelings linger",
+    "Spring Festival (春节) extended celebration through Lantern Festival (元宵节)",
+    "Buffer zones between sacred and ordinary time in both traditions",
+    "Gradual return to normalcy vs. instant switching"
+  ],
+  "wordCount": {
+    "en": 6820,
+    "zh": 4245,
+    "he": 6470
+  },
+  "readingTime": {
+    "en": "25-30 minutes",
+    "zh": "18-22 minutes",
+    "he": "24-28 minutes"
+  },
+  "targetAudience": "Chinese native Mandarin speakers with no prior knowledge of Judaism; also suitable for general beginners in Jewish learning",
+  "difficulty": "Beginner to Intermediate",
+  "relatedArticles": [
+    55,
+    321,
+    322,
+    323,
+    324,
+    325,
+    326,
+    327,
+    328,
+    329,
+    330,
+    331,
+    332,
+    333,
+    335
+  ],
+  "bibliography": [
+    {
+      "type": "primary",
+      "title": "Psalm 118:27",
+      "url": "https://www.sefaria.org/Psalms.118.27",
+      "verified": false,
+      "description": "The biblical source for the phrase 'isru chag'"
+    },
+    {
+      "type": "primary",
+      "title": "Babylonian Talmud, Sukkah 45b",
+      "url": "https://www.sefaria.org/Sukkah.45b",
+      "verified": false,
+      "description": "Talmudic discussion: eating on Isru Chag is like building an altar"
+    },
+    {
+      "type": "article",
+      "title": "The Day After the Holiday: Understanding Isru Chag",
+      "publisher": "Chabad.org",
+      "url": "https://www.chabad.org/library/article_cdo/aid/4619917/jewish/Isru-Chag.htm",
+      "verified": false,
+      "description": "Overview of the customs and laws of Isru Chag"
+    },
+    {
+      "type": "article",
+      "title": "Isru Chag: Binding the Festival",
+      "publisher": "Aish.com",
+      "url": "https://www.aish.com/jl/h/cc/Isru-Chag-Binding-the-Festival.html",
+      "verified": false,
+      "description": "Explanation of the spiritual significance of extending festival joy"
+    },
+    {
+      "type": "reference",
+      "title": "Omitting Tachanun on Special Days",
+      "publisher": "Halachipedia",
+      "url": "https://halachipedia.com/index.php?title=Tachanun",
+      "verified": false,
+      "description": "Comprehensive list of days when Tachanun is not recited, including Isru Chag"
+    },
+    {
+      "type": "reference",
+      "title": "The Jewish Calendar and Holidays",
+      "publisher": "Sefaria.org",
+      "url": "https://www.sefaria.org/topics/jewish-calendar",
+      "verified": false,
+      "description": "Context for understanding how Isru Chag fits into the yearly cycle"
+    }
+  ],
+  "keywords": [
+    "Isru Chag",
+    "Jewish Holidays",
+    "Pesach",
+    "Shavuot",
+    "Sukkot",
+    "Pilgrimage",
+    "Temple Service",
+    "Tachanun",
+    "Jewish Calendar",
+    "Transition",
+    "Sacred Time",
+    "Savoring",
+    "年后",
+    "Cultural Bridge",
+    "Psalms",
+    "Talmud",
+    "Holidays",
+    "Three Pilgrimage Festivals",
+    "Shalosh Regalim",
+    "Post-Holiday",
+    "Chinese New Year",
+    "Spring Festival",
+    "Buffer Days",
+    "Gradual Transition",
+    "Psychological Transition",
+    "Jewish Practice",
+    "Synagogue Customs",
+    "Festival Extension",
+    "Holiness",
+    "Daily Life"
+  ],
+  "summary": {
+    "en": "An exploration of Isru Chag, the day immediately following each of the three pilgrimage festivals (Pesach, Shavuot, Sukkot). The article explains the biblical origins, Talmudic interpretations, practical customs (omitting Tachanun, avoiding fasting and eulogies), and the spiritual concept of extending sacred time into ordinary life. Draws parallels to Chinese post-New Year traditions (年后) and offers modern applications for honoring life transitions.",
+    "zh": "探讨节后日（Isru Chag），即三大朝圣节（逾越节、七七节、住棚节）之后的那一天。文章解释圣经起源、塔木德解释、实践习俗（省略忏悔祈祷、避免禁食和悼词）以及将神圣时间延续到日常生活的属灵概念。与中国春节后的传统（年后）进行对比，并提供关于尊重生活过渡的现代应用。",
+    "he": "חקירה של איסרו חג, היום מיד לאחר כל אחד משלושת חגי הרגל (פסח, שבועות, סוכות). המאמר מסביר את המקורות המקראיים, הפרשנויות התלמודיות, המנהגים המעשיים (השמטת תחנון, הימנעות מצום והספדים) והמושג הרוחני של הארכת זמן קדוש לחיים רגילים. מצייר הקבלות למסורות סיניות שלאחר השנה החדשה (年后) ומציע יישומים מודרניים לכיבוד מעברי חיים."
+  }
+}

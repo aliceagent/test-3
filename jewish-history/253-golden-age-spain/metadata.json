@@ -1,0 +1,148 @@
+{
+  "id": 253,
+  "title": "The Golden Age of Spain: When Jews Thrived Under Muslim Rule",
+  "title_zh": "西班牙黄金时代:犹太人在穆斯林统治下的繁荣",
+  "title_he": "תור הזהב של ספרד: כאשר היהודים שגשגו תחת שלטון מוסלמי",
+  "section": "jewish-history",
+  "slug": "golden-age-spain",
+  "word_count_en": 5128,
+  "word_count_zh": 4892,
+  "word_count_he": 4756,
+  "char_count_zh": 11842,
+  "languages": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "tags": [
+    "GoldenAge",
+    "Al-Andalus",
+    "SpanishJewry",
+    "IslamicSpain",
+    "MuslimJewishRelations",
+    "Maimonides",
+    "JudahHalevi",
+    "HebrewPoetry",
+    "JewishPhilosophy",
+    "Dhimmi",
+    "MedievalHistory",
+    "JewishHistory",
+    "Convivencia",
+    "唐朝",
+    "宋朝",
+    "TangDynasty",
+    "SongDynasty",
+    "CulturalFlourishing",
+    "Tolerance",
+    "Coexistence",
+    "ReligiousFundamentalism",
+    "Almoravids",
+    "Almohads",
+    "SamuelHaNagid",
+    "JewishGoldenAge"
+  ],
+  "chinese_dynasty_references": [
+    {
+      "period": "Tang Dynasty",
+      "chinese": "唐朝",
+      "years": "618-907 CE",
+      "context": "Beginning of Jewish golden age in Spain"
+    },
+    {
+      "period": "Song Dynasty",
+      "chinese": "宋朝",
+      "years": "960-1279 CE",
+      "context": "Peak and end of Jewish golden age in Spain"
+    },
+    {
+      "period": "Five Dynasties",
+      "chinese": "五代时期",
+      "years": "907-960 CE",
+      "context": "Hasdai ibn Shaprut's service in Córdoba"
+    }
+  ],
+  "historical_figures": [
+    {
+      "name": "Maimonides (Rambam)",
+      "name_he": "הרמב\"ם",
+      "name_zh": "迈蒙尼德",
+      "years": "1138-1204 CE",
+      "role": "Philosopher, physician, legal codifier"
+    },
+    {
+      "name": "Judah Halevi",
+      "name_he": "יהודה הלוי",
+      "name_zh": "犹大·哈莱维",
+      "years": "c. 1075-1141 CE",
+      "role": "Poet and philosopher"
+    },
+    {
+      "name": "Samuel ibn Naghrillah (Samuel HaNagid)",
+      "name_he": "שמואל הנגיד",
+      "name_zh": "撒母耳·伊本·纳格里拉",
+      "years": "993-1056 CE",
+      "role": "Vizier, poet, Talmudic scholar"
+    },
+    {
+      "name": "Solomon ibn Gabirol",
+      "name_he": "שלמה אבן גבירול",
+      "name_zh": "所罗门·伊本·加比洛尔",
+      "years": "c. 1021-1070 CE",
+      "role": "Poet and philosopher"
+    },
+    {
+      "name": "Hasdai ibn Shaprut",
+      "name_he": "חסדאי אבן שפרוט",
+      "name_zh": "哈斯代·伊本·沙普鲁特",
+      "years": "c. 915-970 CE",
+      "role": "Physician and diplomat"
+    },
+    {
+      "name": "Bahya ibn Paquda",
+      "name_he": "בחיי אבן פקודה",
+      "name_zh": "巴希亚·伊本·帕库达",
+      "years": "c. 1050-1120 CE",
+      "role": "Philosopher, author of Duties of the Heart"
+    }
+  ],
+  "key_concepts": [
+    {
+      "term": "Dhimmi",
+      "arabic": "ذمي",
+      "definition": "Protected status for Jews and Christians under Islamic law"
+    },
+    {
+      "term": "Jizya",
+      "arabic": "جزية",
+      "definition": "Special tax paid by non-Muslims in exchange for protection and religious freedom"
+    },
+    {
+      "term": "Al-Andalus",
+      "arabic": "الأندلس",
+      "definition": "Muslim-ruled Iberian Peninsula (711-1492 CE)"
+    },
+    {
+      "term": "Nagid",
+      "hebrew": "נגיד",
+      "definition": "Jewish community leader representing Jews to Muslim authorities"
+    }
+  ],
+  "time_period": {
+    "start": "711 CE",
+    "end": "1090 CE",
+    "duration_years": 379,
+    "chinese_equivalent": "Tang Dynasty to early Song Dynasty (唐朝至宋朝初期)"
+  },
+  "cultural_parallels": [
+    "Religious tolerance creating economic prosperity",
+    "Minority communities as cultural bridge-builders",
+    "Shared scholarly language enabling intellectual exchange",
+    "Golden ages being fragile and requiring constant protection"
+  ],
+  "bibliography_count": 10,
+  "image_description_type": "Chinese brushstroke landscape (shan shui 山水)",
+  "status": "complete",
+  "created_date": "2026-03-19",
+  "author": "Torah Light Writer Agent",
+  "version": "1.0"
+}

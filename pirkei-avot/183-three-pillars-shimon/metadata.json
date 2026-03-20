@@ -1,0 +1,149 @@
+{
+  "id": 183,
+  "title": {
+    "en": "The World Stands on Three Things: Torah, Worship, and Deeds of Kindness",
+    "zh": "世界建立在三件事上:妥拉、敬拜与善行",
+    "he": "העולם עומד על שלושה דברים: על התורה, על העבודה ועל גמילות חסדים"
+  },
+  "slug": "three-pillars-shimon",
+  "section": "pirkei-avot",
+  "batch": "200",
+  "author": "Torah Light Editorial Team",
+  "dateCreated": "2026-03-18",
+  "language": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "primarySources": [
+    "Pirkei Avot 1:2",
+    "Babylonian Talmud, Sukkah 49b",
+    "Babylonian Talmud, Shabbat 31a"
+  ],
+  "hebrewReferences": [
+    "פרקי אבות א:ב",
+    "תלמוד בבלי, מסכת סוכה מ״ט ע״ב",
+    "תלמוד בבלי, מסכת שבת ל״א ע״א"
+  ],
+  "culturalParallels": [
+    "Confucian virtue of Ren (仁) compared to Gemilut Chasadim",
+    "Daoist concept of Dao (道) paralleling Torah as cosmic principle",
+    "Chinese ancestral worship (祭祀) compared to Temple service",
+    "Confucian Li (礼) and Jewish ritual structure"
+  ],
+  "wordCount": {
+    "en": 1420,
+    "zh": 960,
+    "he": 1305
+  },
+  "readingTime": {
+    "en": "7-9 minutes",
+    "zh": "5-6 minutes",
+    "he": "6-8 minutes"
+  },
+  "targetAudience": "Chinese native Mandarin speakers with no prior knowledge of Judaism; also suitable for general beginners in Jewish learning",
+  "difficulty": "Beginner to Intermediate",
+  "relatedArticles": [
+    179,
+    180,
+    181,
+    182,
+    184,
+    185,
+    186
+  ],
+  "bibliography": [
+    {
+      "type": "primary",
+      "title": "Pirkei Avot 1:2 (Mishnah)",
+      "url": "https://www.sefaria.org/Pirkei_Avot.1.2",
+      "verified": false
+    },
+    {
+      "type": "primary",
+      "title": "Babylonian Talmud, Sukkah 49b",
+      "url": "https://www.sefaria.org/Sukkah.49b",
+      "verified": false
+    },
+    {
+      "type": "primary",
+      "title": "Babylonian Talmud, Shabbat 31a",
+      "url": "https://www.sefaria.org/Shabbat.31a",
+      "verified": false
+    },
+    {
+      "type": "commentary",
+      "title": "Rashi on Pirkei Avot",
+      "url": "https://www.sefaria.org/Rashi_on_Pirkei_Avot.1.2",
+      "verified": false
+    },
+    {
+      "type": "commentary",
+      "title": "Rabbeinu Yonah on Pirkei Avot",
+      "url": "https://www.sefaria.org/Rabbeinu_Yonah_on_Pirkei_Avot.1.2",
+      "verified": false
+    },
+    {
+      "type": "commentary",
+      "title": "Bartenura on Pirkei Avot 1:2",
+      "url": "https://www.sefaria.org/Bartenura_on_Pirkei_Avot.1.2",
+      "verified": false
+    },
+    {
+      "type": "secondary",
+      "title": "Confucius, Analects 15:23",
+      "source": "Classical Chinese Philosophy"
+    },
+    {
+      "type": "secondary",
+      "title": "Rabbi Moshe Chaim Luzzatto, Mesillat Yesharim (Path of the Just)",
+      "source": "Jewish Mussar Literature"
+    },
+    {
+      "type": "article",
+      "title": "The Three Pillars of Life",
+      "publisher": "Aish.com",
+      "url": "https://aish.com/the-three-pillars/",
+      "verified": false
+    },
+    {
+      "type": "article",
+      "title": "Torah, Service, and Acts of Kindness",
+      "publisher": "Chabad.org",
+      "url": "https://www.chabad.org/library/article_cdo/aid/682679/jewish/Torah-Service-and-Acts-of-Kindness.htm",
+      "verified": false
+    }
+  ],
+  "keywords": [
+    "Pirkei Avot",
+    "Chinese Parallels",
+    "Ren",
+    "Shimon HaTzaddik",
+    "Dao",
+    "Gemilut Chasadim",
+    "Mussar",
+    "Avodah",
+    "Acts of Kindness",
+    "avodah",
+    "cultural parallels",
+    "Prayer",
+    "dao",
+    "Torah study",
+    "Confucianism",
+    "three pillars",
+    "Jewish Ethics",
+    "Torah Study",
+    "ren",
+    "gemilut chasadim",
+    "Jewish ethics",
+    "Three Pillars",
+    "acts of kindness",
+    "prayer",
+    "Chinese philosophy"
+  ],
+  "summary": {
+    "en": "An exploration of Shimon HaTzaddik's famous teaching that the world stands on three pillars: Torah (study/wisdom), Avodah (worship/prayer), and Gemilut Chasadim (acts of loving-kindness). The article explains each pillar's meaning, historical context, practical application, and draws parallels to Chinese philosophical concepts like Dao, Ren, and Li.",
+    "zh": "探讨西蒙公义者的著名教导:世界建立在三大支柱上——妥拉(学习/智慧)、阿沃达(敬拜/祷告)和格米鲁特·哈萨迪姆(慈爱善行)。文章解释每个支柱的含义、历史背景、实际应用,并与中国哲学概念如道、仁和礼进行对比。",
+    "he": "חקירה של ההוראה המפורסמת של שמעון הצדיק שהעולם עומד על שלושה דברים: תורה (לימוד/חכמה), עבודה (פולחן/תפילה) וגמילות חסדים (מעשי חסד אוהבים). המאמר מסביר את משמעותו של כל עמוד, הקשר היסטורי, יישום מעשי, ומצייר הקבלות למושגים פילוסופיים סיניים כמו דאו, רן ולי."
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "article_id": 56,
+  "title": "Thinking About Converting? What You Need to Know First",
+  "section": "Conversion",
+  "sources": [
+    {
+      "type": "primary",
+      "title": "How to Convert to Judaism - What to Expect at a Conversion",
+      "url": "https://www.chabad.org/library/article_cdo/aid/2972927/jewish/How-to-Convert-to-Judaism.htm",
+      "author": "Menachem Posner and Yehuda Shurpin",
+      "site": "Chabad.org",
+      "verified": true,
+      "key_content": "Three requirements: kabbalat mitzvot, mikvah, circumcision; Biblical basis from Sinai; spiritual perspective on convert's soul"
+    },
+    {
+      "type": "primary",
+      "title": "How to Convert to Judaism",
+      "url": "https://aish.com/how-to-convert-to-judaism/",
+      "author": "Kylie Ora Lobell",
+      "site": "Aish.com",
+      "verified": true,
+      "key_content": "Step-by-step process, timeline (minimum 1 year), community requirements, alternative of Noahide laws"
+    },
+    {
+      "type": "biblical",
+      "title": "Book of Ruth 1:16-17",
+      "url": "https://www.sefaria.org/Ruth.1.16-17",
+      "site": "Sefaria.org",
+      "verified": true,
+      "key_content": "Ruth's declaration: 'Your people shall be my people, and your God my God' - most famous convert in Jewish history"
+    },
+    {
+      "type": "context",
+      "title": "The Dragon's Yarmulke: Jewish Communities in China",
+      "url": "https://uschinatoday.org/features/2008/10/24/the-dragons-yarmulke-jewish-communities-in-china/",
+      "site": "US-China Today",
+      "verified": true,
+      "key_content": "NOTE: Conversion of local Chinese people currently prohibited in China; local Chinese cannot participate in rituals unless married to a Jew"
+    }
+  ],
+  "research_notes": {
+    "key_requirements": [
+      "Find sponsoring Orthodox rabbi",
+      "Connect with recognized beit din (court of 3 rabbis)",
+      "Study period: minimum 1 year, often longer",
+      "Must live within walking distance of Orthodox synagogue",
+      "Access to kosher food required",
+      "Integration into Jewish community essential",
+      "Learn to observe Shabbat and kashrut",
+      "Choose Hebrew name",
+      "Final steps: beit din examination, mikvah immersion",
+      "Men: circumcision or hatafat dam brit"
+    ],
+    "timeline": "Minimum 1 year, typical 1-3 years, sometimes longer. In Israel: 10 months (400-450 study hours)",
+    "challenges": [
+      "Geographic isolation from Orthodox communities",
+      "High cost of living in Orthodox neighborhoods",
+      "Finding and approaching sponsoring rabbi",
+      "Family relationship dynamics",
+      "Loneliness when entering without Jewish family",
+      "Finding marriage partner in small communities",
+      "Complete lifestyle change"
+    ],
+    "china_specific": "Currently, conversion of local Chinese nationals is not permitted within China. Chinese nationals interested in conversion would need to pursue this in another country (Israel, USA, etc.) or online study leading to conversion elsewhere.",
+    "alternative": "Noahide Laws (7 commandments) offer path to meaningful relationship with God without conversion"
+  }
+}

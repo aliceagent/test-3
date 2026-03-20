@@ -1,0 +1,84 @@
+{
+  "id": 209,
+  "title": {
+    "en": "Cooking for Shabbat on a Budget: Delicious Meals Without Breaking the Bank",
+    "zh": "安息日预算烹饪：美味不贵的节日餐桌",
+    "he": "בישול לשבת בתקציב: ארוחות טעימות בלי לשבור את הכיס"
+  },
+  "section": "shabbat",
+  "slug": "shabbat-budget-cooking",
+  "author": "Torah Light Editorial Team",
+  "dateCreated": "2026-03-19",
+  "targetAudience": "Chinese native Mandarin speakers with no prior Jewish knowledge",
+  "keywords": {
+    "en": ["Shabbat", "budget cooking", "kosher meals", "Jewish hospitality", "frugality", "challah", "cholent", "meal planning"],
+    "zh": ["安息日", "预算烹饪", "洁食", "犹太款待", "节俭", "哈拉面包", "炖菜", "餐食计划"],
+    "he": ["שבת", "בישול בתקציב", "ארוחות כשרות", "הכנסת אורחים", "חסכון", "חלה", "צ'ולנט", "תכנון ארוחות"]
+  },
+  "description": {
+    "en": "A practical guide to preparing beautiful, meaningful Shabbat meals on a limited budget, with recipes, shopping strategies, and spiritual perspectives on hospitality and abundance.",
+    "zh": "在有限预算下准备美丽、有意义的安息日餐食的实用指南，包含食谱、购物策略和关于款待与丰盛的精神观点。",
+    "he": "מדריך מעשי להכנת ארוחות שבת יפות ומשמעותיות בתקציב מוגבל, עם מתכונים, אסטרטגיות קניות ונקודות מבט רוחניות על הכנסת אורחים ושפע."
+  },
+  "culturalNotes": {
+    "zh": "本文包含亚洲食材改编建议，如使用豆腐、白菜、米饭等本地实惠食材制作符合洁食律法的安息日餐食。强调节俭作为中国和犹太传统中的共同美德。"
+  },
+  "topics": [
+    "Shabbat observance",
+    "Budget meal planning",
+    "Jewish hospitality (hachnasat orchim)",
+    "Home cooking",
+    "Frugality as a Jewish value",
+    "Shabbat recipes",
+    "Cultural adaptation"
+  ],
+  "difficulty": "beginner",
+  "readingTime": {
+    "en": "12-15 minutes",
+    "zh": "8-10 minutes",
+    "he": "10-12 minutes"
+  },
+  "sources": [
+    {
+      "type": "Talmud",
+      "reference": "Babylonian Talmud, Tractate Shabbat 119a",
+      "description": "Teaching on the special nature of Shabbat food"
+    },
+    {
+      "type": "Mishna",
+      "reference": "Pirkei Avot 4:1",
+      "description": "Who is rich? One who is satisfied with their portion"
+    },
+    {
+      "type": "Book",
+      "title": "The Shabbos Kitchen",
+      "author": "Rabbi Simcha Bunim Cohen",
+      "publisher": "ArtScroll",
+      "year": 2011
+    },
+    {
+      "type": "Website",
+      "title": "The Shabbat Table",
+      "url": "https://www.chabad.org/library/article_cdo/aid/633659/jewish/The-Shabbat-Table.htm",
+      "publisher": "Chabad.org"
+    },
+    {
+      "type": "Website",
+      "title": "Shabbat Dinner on a Budget",
+      "url": "https://www.aish.com/sh/s/Shabbat-Dinner-on-a-Budget.html",
+      "publisher": "Aish.com"
+    }
+  ],
+  "relatedArticles": [
+    207,
+    208,
+    225,
+    232
+  ],
+  "status": "completed",
+  "wordCount": {
+    "en": 1453,
+    "zh": 852,
+    "he": 1286
+  }
+}

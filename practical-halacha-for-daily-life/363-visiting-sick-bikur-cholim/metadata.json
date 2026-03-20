@@ -1,0 +1,57 @@
+{
+  "id": 363,
+  "title": "Visiting the Sick (Bikur Cholim): One of Judaism's Greatest Mitzvot",
+  "title_zh": "探访病人(Bikur Cholim):犹太教最伟大的诫命之一",
+  "title_he": "ביקור חולים: אחת המצוות הגדולות ביהדות",
+  "slug": "visiting-sick-bikur-cholim",
+  "section": "practical-halacha-for-daily-life",
+  "description": "When to visit, what to say, what not to say, bringing food, praying at the bedside, and the Talmud's teaching that visiting removes 1/60th of the illness.",
+  "word_count": {
+    "en": 2847,
+    "zh": 1456,
+    "he": 1981
+  },
+  "language_versions": {
+    "en": "article-en.md",
+    "zh": "article-zh.md",
+    "he": "article-he.md"
+  },
+  "tags": [
+    "BikurCholim",
+    "VisitingTheSick",
+    "Mitzvah",
+    "Compassion",
+    "Chesed",
+    "Healing",
+    "PracticalHalacha",
+    "Community",
+    "Prayer",
+    "MiSheberach",
+    "Talmud",
+    "Rambam",
+    "仁",
+    "孝",
+    "身心合一",
+    "JewishEthics",
+    "DailyLife"
+  ],
+  "chinese_parallels": [
+    "仁 (ren - benevolence)",
+    "孝 (xiao - filial piety)",
+    "身心合一 (body-mind unity)",
+    "听 (ting - deep listening)"
+  ],
+  "key_sources": [
+    "Genesis 18:1 - God visits Abraham",
+    "Sotah 14a - Imitating God's attributes",
+    "Nedarim 39b-40a - Laws of visiting the sick",
+    "Mishneh Torah, Laws of Mourning 14:1",
+    "Shulchan Aruch, Yoreh De'ah 335",
+    "Shabbat 127a - Reward in this world and the next"
+  ],
+  "historical_period": "Talmudic Period (70-500 CE)",
+  "chinese_dynasty_equivalent": "汉朝至晋朝 (Han through Jin Dynasties)",
+  "status": "complete",
+  "created_date": "2026-03-19",
+  "author": "Torah Light Project"
+}

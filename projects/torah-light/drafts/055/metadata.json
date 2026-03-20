@@ -1,0 +1,53 @@
+{
+  "id": 55,
+  "title": "Tu BiShvat Seder: The New Year for Trees",
+  "title_zh": "图·比舍瓦特晚宴:树木的新年",
+  "title_he": "סדר ט\"ו בשבט: ראש השנה לאילנות",
+  "section": "Holidays",
+  "folder": "holidays",
+  "description": "How to conduct a Tu BiShvat Seder with the seven species, four cups of wine, and environmental teachings from Torah.",
+  "word_count_en": 4286,
+  "word_count_zh": 1642,
+  "word_count_he": 2489,
+  "status": "draft_complete",
+  "languages": ["en", "zh", "he"],
+  "date_written": "2026-03-17",
+  "tags": [
+    "TuBiShvat",
+    "NewYearForTrees",
+    "Holidays",
+    "SevenSpecies",
+    "JewishCalendar",
+    "Environment",
+    "Kabbalah",
+    "BalTashchit",
+    "清明节",
+    "树木",
+    "农业节日",
+    "环境保护",
+    "七种物种",
+    "טובשבט",
+    "ראשהשנהלאילנות",
+    "חגים",
+    "שבעתהמינים",
+    "לוחעברי",
+    "סביבה",
+    "קבלה",
+    "בלתשחית"
+  ],
+  "bibliography_urls": [
+    "https://www.sefaria.org/Deuteronomy.8.8",
+    "https://www.sefaria.org/Leviticus.19.23-25",
+    "https://www.sefaria.org/Mishnah_Rosh_Hashanah.1.1",
+    "https://www.chabad.org/library/article_cdo/aid/468738/jewish/Tu-BiShvat-What-and-How.htm",
+    "https://www.chabad.org/kabbalah/article_cdo/aid/379846/jewish/Tu-BShevat-Basics.htm",
+    "https://aish.com/48965616/",
+    "https://aish.com/abcs-of-tu-bshvat/"
+  ],
+  "chinese_historical_period": "Later Han Dynasty (后汉, 25-220 CE)",
+  "cultural_parallels": [
+    "Qingming Festival (清明节)",
+    "Spring Festival (春节)",
+    "Tree symbolism: Pine, Bamboo, Plum Blossom, Peach"
+  ]
+}

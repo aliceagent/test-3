@@ -1,0 +1,115 @@
+{
+  "id": 364,
+  "title": "Shmiras Einayim: Guarding Your Eyes in the Digital Age",
+  "title_zh": "守护眼睛(Shmiras Einayim):数字时代的犹太智慧",
+  "title_he": "שמירת עיניים: שמירה על העיניים בעידן הדיגיטלי",
+  "slug": "shmiras-einayim-digital-age",
+  "section": "practical-halacha-for-daily-life",
+  "description": "The Jewish concept of guarding what you look at — from billboard advertisements to internet content — and practical strategies for a digital world.",
+  "description_zh": "犹太教关于守护你所看的东西的概念——从广告牌到互联网内容——以及数字世界的实用策略。",
+  "description_he": "המושג היהודי של שמירה על מה שאתה מסתכל עליו — מפרסומות שלטי חוצות ועד תוכן אינטרנט — ואסטרטגיות מעשיות לעולם דיגיטלי.",
+  "word_count_en": 5430,
+  "word_count_zh": 2640,
+  "word_count_he": 4210,
+  "char_count_zh": 7846,
+  "tags": [
+    "ShmirasEinayim",
+    "GuardingTheEyes",
+    "Kedusha",
+    "Holiness",
+    "Modesty",
+    "DigitalAge",
+    "InternetFiltering",
+    "SelfControl",
+    "MusarEthics",
+    "Halacha",
+    "PracticalJudaism",
+    "ModernChallenges",
+    "VisualPurity",
+    "MaritalIntimacy",
+    "SpiritualDiscipline",
+    "修身",
+    "礼",
+    "ChineseJewishParallels",
+    "IntentionalLiving"
+  ],
+  "related_articles": [
+    360,
+    362,
+    367,
+    368
+  ],
+  "sources": [
+    {
+      "title": "Numbers 15:39",
+      "url": "https://www.sefaria.org/Numbers.15.39",
+      "type": "primary"
+    },
+    {
+      "title": "Job 31:1",
+      "url": "https://www.sefaria.org/Job.31.1",
+      "type": "primary"
+    },
+    {
+      "title": "Talmud Bavli, Berachot 12b",
+      "url": "https://www.sefaria.org/Berakhot.12b",
+      "type": "primary"
+    },
+    {
+      "title": "Avot D'Rabbi Natan, Chapter 2",
+      "url": "https://www.sefaria.org/Avot_D'Rabbi_Natan.2",
+      "type": "primary"
+    },
+    {
+      "title": "Shulchan Aruch, Even HaEzer 21:1",
+      "url": "https://www.sefaria.org/Shulchan_Arukh,_Even_HaEzer.21.1",
+      "type": "halacha"
+    },
+    {
+      "title": "Shulchan Aruch, Orach Chaim 75",
+      "url": "https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.75",
+      "type": "halacha"
+    },
+    {
+      "title": "Shmiras Einayim: A Practical Guide",
+      "url": "https://www.aish.com/jl/m/mm/Shmiras-Einayim-A-Practical-Guide.html",
+      "type": "secondary"
+    },
+    {
+      "title": "The Power of Sight in Jewish Thought",
+      "url": "https://www.chabad.org/library/article_cdo/aid/3993955/jewish/The-Power-of-Sight-in-Jewish-Thought.htm",
+      "type": "secondary"
+    },
+    {
+      "title": "Rabbeinu Yonah, Sha'arei Teshuvah 3:83",
+      "url": "https://www.sefaria.org/Shaarei_Teshuva.3.83",
+      "type": "commentary"
+    }
+  ],
+  "chinese_parallels": [
+    {
+      "concept": "Self-Cultivation (修身)",
+      "description": "Confucian emphasis on controlling desires and cultivating inner virtue"
+    },
+    {
+      "concept": "Propriety (礼)",
+      "description": "Maintaining proper relationships and behavior in society"
+    },
+    {
+      "concept": "Restraining Oneself (克己复礼)",
+      "description": "The Analects' teaching on self-restraint and returning to propriety"
+    }
+  ],
+  "historical_period": "Contemporary application of ancient principles",
+  "chinese_dynasty_equivalent": "Modern Era (现代)",
+  "difficulty_level": "intermediate",
+  "target_audience": "all_observance_levels",
+  "practical_application": true,
+  "status": "completed",
+  "created_date": "2026-03-19",
+  "language_versions": [
+    "en",
+    "zh",
+    "he"
+  ]
+}

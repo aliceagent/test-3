@@ -1,0 +1,142 @@
+{
+  "id": 335,
+  "title": "Chol HaMoed: The In-Between Days of Sukkot and Pesach",
+  "title_zh": "节中日:逾越节与住棚节的中间日子",
+  "title_he": "חול המועד: הימים הביניים של סוכות ופסח",
+  "slug": "chol-hamoed-intermediate-days",
+  "section": "holidays",
+  "description": "What's permitted and what's restricted during the intermediate days, the custom of outings and trips, and the special Torah readings.",
+  "author": "Torah Light Team",
+  "date_created": "2026-03-19",
+  "word_count_en": 2950,
+  "word_count_zh": 3800,
+  "word_count_he": 3200,
+  "languages": ["en", "zh", "he"],
+  "tags": [
+    "CholHaMoed",
+    "Sukkot",
+    "Pesach",
+    "JewishHolidays",
+    "IntermediateDays",
+    "Holidays",
+    "SacredTime",
+    "JewishLaw",
+    "Halacha",
+    "FestivalCustoms",
+    "TorahReadings",
+    "Hallel",
+    "FamilyTime",
+    "住棚节",
+    "逾越节",
+    "犹太节日",
+    "神圣时间",
+    "过渡",
+    "חולהמועד",
+    "סוכות",
+    "פסח",
+    "חגיםיהודיים"
+  ],
+  "related_articles": [
+    334,
+    321,
+    324,
+    326,
+    329,
+    330
+  ],
+  "cultural_parallels": [
+    "Chinese philosophy - Daoism's recognition of transitions (dawn/dusk) having special character",
+    "I Ching (易经) - constant change and intermediate states having significance",
+    "Gradual scaling between extremes rather than binary sacred/profane"
+  ],
+  "key_concepts": [
+    "Chol HaMoed - intermediate days of Sukkot and Pesach",
+    "Work restrictions - permitted vs. prohibited categories",
+    "Davar Ha'aved - preventing loss",
+    "Tzorchei HaMoed - needs of the festival",
+    "Torah readings and Hallel during intermediate days",
+    "Custom of family outings and trips",
+    "Isru Chag - the day after the festival",
+    "Holiness as a spectrum, not binary"
+  ],
+  "historical_periods": [
+    {
+      "jewish_period": "Spring and Autumn Period (development of Chol HaMoed distinction)",
+      "dates": "~770-476 BCE",
+      "chinese_equivalent": "Spring and Autumn Period (春秋时代)"
+    },
+    {
+      "jewish_period": "Mishnaic compilation",
+      "dates": "~200 CE",
+      "chinese_equivalent": "Eastern Han Dynasty (东汉)"
+    },
+    {
+      "jewish_period": "First Temple Period",
+      "dates": "957-586 BCE",
+      "chinese_equivalent": "Spring and Autumn Period (春秋)"
+    },
+    {
+      "jewish_period": "Second Temple Period",
+      "dates": "516 BCE - 70 CE",
+      "chinese_equivalent": "Warring States to Eastern Han Dynasty (战国至东汉)"
+    }
+  ],
+  "sources": [
+    {
+      "type": "Torah",
+      "reference": "Exodus 12:15-16",
+      "description": "Seven days eating unleavened bread, first and seventh days as sacred occasions"
+    },
+    {
+      "type": "Torah",
+      "reference": "Leviticus 23:35-36",
+      "description": "Sukkot - first day and eighth day as sacred occasions"
+    },
+    {
+      "type": "Torah",
+      "reference": "Numbers 29:17-34",
+      "description": "Sacrifices during Sukkot"
+    },
+    {
+      "type": "Torah",
+      "reference": "Exodus 33:12-34:26",
+      "description": "Moses's request to see God's glory, Thirteen Attributes of Mercy"
+    },
+    {
+      "type": "Writings",
+      "reference": "Psalms 113-118",
+      "description": "Hallel"
+    },
+    {
+      "type": "Writings",
+      "reference": "Psalms 118:27",
+      "description": "Source for Isru Chag - 'Bind the festival offering'"
+    },
+    {
+      "type": "Writings",
+      "reference": "Song of Songs",
+      "description": "Read on Shabbat Chol HaMoed Pesach"
+    },
+    {
+      "type": "Talmud",
+      "reference": "Megillah 10b",
+      "description": "'My creatures are drowning in the sea' - reason for Half Hallel on Pesach"
+    },
+    {
+      "type": "Mishnah",
+      "reference": "General",
+      "description": "Detailed discussions about permitted work on Chol HaMoed (compiled ~200 CE)"
+    }
+  ],
+  "practical_applications": [
+    "Understanding what work is permitted on Chol HaMoed",
+    "Planning family outings during intermediate days",
+    "Maintaining festive character while engaging in permitted activities",
+    "Attending synagogue for special Torah readings",
+    "Continuing to fulfill festival mitzvot (sukkah, matzah, etc.)",
+    "Balancing rest and activity appropriately"
+  ],
+  "status": "complete",
+  "qa_status": "pending",
+  "version": "1.0"
+}

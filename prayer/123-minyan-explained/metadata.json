@@ -1,0 +1,94 @@
+{
+  "id": "123",
+  "title": {
+    "en": "What is a Minyan and Why Does It Matter?",
+    "zh": "什么是敏扬（Minyan）？为什么它如此重要？",
+    "he": "מהו מנין ומדוע הוא כה חשוב?"
+  },
+  "description": {
+    "en": "Understanding the sacred requirement of ten Jewish men for communal prayer, the spiritual power of collective worship, and practical guidance when no minyan is available.",
+    "zh": "理解犹太教集体祈祷中十名男性的神圣要求，集体崇拜的精神力量，以及当没有敏扬时的实用指导。",
+    "he": "הבנת הדרישה הקדושה לעשרה יהודים זכרים בתפילה ציבורית, הכוח הרוחני של עבודה קולקטיבית, והדרכה מעשית כאשר אין מנין זמין."
+  },
+  "section": "prayer",
+  "category": "communal-worship",
+  "author": "Torah Light Editorial Team",
+  "publishDate": "2026-03-18",
+  "lastModified": "2026-03-18",
+  "readingTime": {
+    "en": "12 minutes",
+    "zh": "8 minutes",
+    "he": "10 minutes"
+  },
+  "difficulty": "intermediate",
+  "sources": [
+    {
+      "text": "Talmud Bavli, Megillah 23b",
+      "url": "https://www.sefaria.org/Megillah.23b",
+      "description": "Primary source for the requirement of ten men for a minyan"
+    },
+    {
+      "text": "Talmud Bavli, Berakhot 8a",
+      "url": "https://www.sefaria.org/Berakhot.8a",
+      "description": "God never rejects the prayer of a congregation"
+    },
+    {
+      "text": "Numbers 13-14",
+      "url": "https://www.sefaria.org/Numbers.13",
+      "description": "The story of the ten scouts and the 'evil congregation'"
+    },
+    {
+      "text": "Genesis 18:32",
+      "url": "https://www.sefaria.org/Genesis.18.32",
+      "description": "Abraham's plea for Sodom - ten righteous people"
+    },
+    {
+      "text": "Shulchan Aruch, Orach Chaim 55",
+      "url": "https://www.sefaria.org/Shulchan_Arukh%2C_Orach_Chayim.55",
+      "description": "Laws regarding minyan requirements"
+    },
+    {
+      "text": "Mishnah Berurah on Orach Chaim 55",
+      "url": "https://www.sefaria.org/Mishnah_Berurah.55",
+      "description": "Commentary on minyan laws and practices"
+    }
+  ],
+  "relatedArticles": [
+    "122",
+    "124",
+    "89",
+    "156"
+  ],
+  "keywords": [
+    "collective worship",
+    "religious quorum",
+    "minyan",
+    "congregation",
+    "synagogue",
+    "communal prayer",
+    "Torah reading",
+    "divine presence",
+    "jewish community",
+    "amidah repetition",
+    "shekhinah",
+    "kaddish",
+    "ten men",
+    "Jewish law"
+  ],
+  "seoDescription": {
+    "en": "Learn about the Jewish minyan - why ten men are required for certain prayers, the spiritual significance of communal worship, and what to do when no minyan is available.",
+    "zh": "了解犹太教敏扬——为什么某些祈祷需要十名男性，集体崇拜的精神意义，以及当没有敏扬时该怎么办。",
+    "he": "למדו על המנין היהודי - מדוע נדרשים עשרה גברים לתפילות מסוימות, המשמעות הרוחנית של עבודה קהילתית, ומה לעשות כאשר אין מנין זמין."
+  },
+  "wordCount": {
+    "en": 1147,
+    "zh": 892,
+    "he": 1024
+  },
+  "languages": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "status": "published"
+}

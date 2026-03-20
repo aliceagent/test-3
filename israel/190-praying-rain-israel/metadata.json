@@ -1,0 +1,106 @@
+{
+  "id": 190,
+  "title": "Praying for Rain in Israel: How Weather Connects Jews Worldwide",
+  "title_zh": "为以色列祈雨:天气如何连接全世界的犹太人",
+  "title_he": "תפילה לגשם בארץ ישראל: איך מזג האויר מחבר יהודים בכל העולם",
+  "section": "israel",
+  "slug": "praying-rain-israel",
+  "batch": "200",
+  "word_count": {
+    "en": 1485,
+    "zh": 1205,
+    "he": 1320
+  },
+  "topics": [
+    "Israel",
+    "Prayer",
+    "Jewish Calendar",
+    "Agriculture",
+    "Diaspora",
+    "Jewish Unity",
+    "Amidah",
+    "Rain Prayer",
+    "Cultural Parallels"
+  ],
+  "hebrew_terms": [
+    {
+      "term": "v'ten tal u'matar livracha",
+      "translation": "give dew and rain for a blessing",
+      "transliteration": "v'ten tal u'matar livracha"
+    },
+    {
+      "term": "yoreh",
+      "translation": "early rain",
+      "transliteration": "yoreh"
+    },
+    {
+      "term": "malkosh",
+      "translation": "late rain",
+      "transliteration": "malkosh"
+    },
+    {
+      "term": "Amidah",
+      "translation": "the standing prayer",
+      "transliteration": "Amidah"
+    },
+    {
+      "term": "geshem",
+      "translation": "rain",
+      "transliteration": "geshem"
+    },
+    {
+      "term": "gashmiut",
+      "translation": "physicality/materiality",
+      "transliteration": "gashmiut"
+    }
+  ],
+  "chinese_cultural_parallels": [
+    "春雨 (spring rain) and 秋雨 (autumn rain) in Chinese agriculture",
+    "祈雨 (rain prayers) by Chinese emperors",
+    "天命 (Mandate of Heaven) linked to natural phenomena",
+    "中国 (Middle Kingdom) concept paralleling Israel as spiritual center",
+    "《诗经》(Book of Songs) containing prayers for timely rain"
+  ],
+  "key_concepts": [
+    "Prayer orientation toward Jerusalem",
+    "Israel's unique Mediterranean climate",
+    "Connection between rain and spiritual state",
+    "Diaspora Jews maintaining connection to Israel through prayer",
+    "Jewish calendar synchronized to Israel's agricultural needs",
+    "Rain as symbol of resurrection and divine blessing",
+    "Unity of Jewish people across continents through shared prayer"
+  ],
+  "target_audience": "Jews and those exploring Judaism, especially in Chinese-speaking communities",
+  "difficulty_level": "beginner to intermediate",
+  "practical_applications": [
+    "When to start saying the rain prayer in different locations",
+    "How to find the prayer in your siddur",
+    "Understanding the Jewish calendar's connection to Israel",
+    "Developing awareness of Israel in daily prayer life",
+    "Connecting to Jewish peoplehood through shared practices"
+  ],
+  "sources_referenced": [
+    "Deuteronomy 11:11-14",
+    "Talmud (story of Choni HaMe'agel)",
+    "Mishnah (drought protocols)",
+    "Classical Chinese agricultural texts (《诗经》)",
+    "Jewish liturgy (Amidah prayer)"
+  ],
+  "author_notes": "This article emphasizes the unique aspect of Diaspora Jews praying for rain in Israel according to Israel's calendar, not their local weather. Special attention given to Chinese cultural parallels including agricultural rain traditions, imperial rain prayers, and the concept of a spiritual center. The article aims to show how daily prayer connects Jews worldwide to the Land of Israel and to each other.",
+  "date_created": "2026-03-18",
+  "status": "completed",
+  "keywords": [
+    "rain prayer",
+    "Israel",
+    "Amidah",
+    "v'ten tal u'matar",
+    "Jewish prayer",
+    "agricultural calendar",
+    "yoreh",
+    "malkosh",
+    "diaspora",
+    "Jewish unity",
+    "divine providence",
+    "Israel climate"
+  ]
+}

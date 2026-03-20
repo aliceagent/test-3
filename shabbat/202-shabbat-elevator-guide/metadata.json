@@ -1,0 +1,96 @@
+{
+  "id": 202,
+  "title": "The Shabbat Elevator: How It Works and When You Can Use It",
+  "title_zh": "安息日电梯:工作原理与使用指南",
+  "title_he": "מעלית שבת: איך זה עובד ומתי אפשר להשתמש בה",
+  "section": "shabbat",
+  "slug": "shabbat-elevator-guide",
+  "author": "Torah Light Editorial Team",
+  "batch": "300",
+  "language_versions": {
+    "en": "article-en.md",
+    "zh": "article-zh.md",
+    "he": "article-he.md"
+  },
+  "tags": [
+    "shabbat",
+    "technology",
+    "halacha",
+    "electricity",
+    "modern-life",
+    "melachot"
+  ],
+  "target_audience": "Mandarin speakers with no prior Jewish knowledge",
+  "tone": "Educational, warm, culturally sensitive",
+  "word_count": {
+    "en": 1470,
+    "zh": 1208,
+    "he": 1450
+  },
+  "cultural_parallels": [
+    "Tang Dynasty xiūmù (休沐) rest days compared to Shabbat concept",
+    "Chinese cultural respect for rest and renewal"
+  ],
+  "key_concepts": [
+    "Thirty-nine melachot (forbidden creative work)",
+    "Shabbat elevator automatic operation",
+    "Pikuach nefesh (saving life overrides Shabbat)",
+    "Shinui (changing manner of action)",
+    "Different community customs (minhagim)"
+  ],
+  "sources": [
+    {
+      "title": "Shemirat Shabbat K'Hilchata",
+      "author": "Rabbi Yehoshua Neuwirth",
+      "type": "book",
+      "description": "Comprehensive modern guide to Shabbat observance"
+    },
+    {
+      "title": "The Sabbath Elevator",
+      "author": "Rabbi Michael Broyde and Rabbi Howard Jachter",
+      "publication": "Journal of Halacha and Contemporary Society",
+      "type": "article"
+    },
+    {
+      "title": "Institute for Science and Halacha",
+      "organization": "Machon Tzomet",
+      "url": "zomet.org.il",
+      "type": "organization"
+    },
+    {
+      "title": "Yalkut Yosef",
+      "description": "Sephardic halachic rulings on Shabbat and technology",
+      "type": "book"
+    },
+    {
+      "title": "39 Melochos",
+      "author": "Rabbi Dovid Ribiat",
+      "type": "book",
+      "description": "Detailed treatment of Shabbat work categories"
+    }
+  ],
+  "seo_keywords": [
+    "Shabbat elevator",
+    "Jewish Shabbat technology",
+    "elevator on Sabbath",
+    "Orthodox Jewish elevator",
+    "electricity on Shabbat",
+    "melachot Shabbat",
+    "安息日电梯",
+    "犹太安息日",
+    "מעלית שבת"
+  ],
+  "reading_time_minutes": {
+    "en": 12,
+    "zh": 10,
+    "he": 11
+  },
+  "difficulty_level": "intermediate",
+  "prerequisites": [
+    "Basic understanding of Shabbat concept",
+    "Familiarity with Orthodox Jewish practice"
+  ],
+  "created_date": "2026-03-19",
+  "last_updated": "2026-03-19",
+  "status": "complete"
+}

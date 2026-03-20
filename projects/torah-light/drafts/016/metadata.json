@@ -1,0 +1,89 @@
+{
+  "article_id": 16,
+  "title": {
+    "en": "Your First Shabbat: A Step-by-Step Guide for Complete Beginners",
+    "zh": "你的第一个安息日：完全初学者的分步指南",
+    "he": "השבת הראשונה שלך: מדריך שלב אחר שלב למתחילים מוחלטים"
+  },
+  "section": "Shabbat",
+  "description": "Everything you need to know to observe your first Shabbat, from Friday afternoon preparation to Havdalah Saturday night.",
+  "target_audience": "Complete beginners to Judaism and Shabbat observance",
+  "cultural_focus": "Adapted for readers living in China and Asia with limited access to Jewish communities",
+  "word_count": {
+    "en": 2834,
+    "zh": 1205,
+    "he": 2156
+  },
+  "languages": ["en", "zh", "he"],
+  "created_date": "2026-03-17",
+  "author": "Torah Light Editorial Team",
+  "historical_periods_referenced": [
+    {
+      "period": "Creation",
+      "chinese_context": "Biblical foundation for Shabbat observance"
+    },
+    {
+      "period": "Mount Sinai Revelation",
+      "chinese_context": "Origin of Shabbat commandment"
+    },
+    {
+      "period": "Tang Dynasty (618-907 CE)",
+      "chinese_context": "Jewish merchants observing Shabbat along Silk Road"
+    },
+    {
+      "period": "Song Dynasty (960-1279 CE)",
+      "chinese_context": "Kaifeng Jewish community establishment and Shabbat traditions"
+    },
+    {
+      "period": "Ming Dynasty (1368-1644 CE)",
+      "chinese_context": "Continued Shabbat observance despite assimilation pressures"
+    }
+  ],
+  "key_topics": [
+    "Shabbat preparation",
+    "Candle lighting",
+    "Kiddush ceremony",
+    "Challah blessing",
+    "Shabbat meals",
+    "Shabbat restrictions",
+    "Havdalah ceremony",
+    "Practical tips for beginners",
+    "Solo Shabbat observance",
+    "Gradual adoption strategies"
+  ],
+  "hebrew_terms_explained": [
+    "Shabbat",
+    "Kiddush", 
+    "Challah",
+    "HaMotzi",
+    "Havdalah",
+    "Netilat Yadayim",
+    "Birkat HaMazon",
+    "Besamim",
+    "Eruv"
+  ],
+  "practical_elements": {
+    "shopping_list": [
+      "Candles and candlesticks",
+      "Wine or grape juice",
+      "Kiddush cup",
+      "Challah bread",
+      "White tablecloth",
+      "Prayer books"
+    ],
+    "timeline": "25-hour observance from Friday sunset to Saturday night",
+    "difficulty_level": "Beginner-friendly with gradual adoption suggestions",
+    "required_preparation_time": "2-3 hours on Friday afternoon"
+  },
+  "accessibility_notes": {
+    "dietary_substitutions": "Grape juice for wine, any bread for challah in emergencies",
+    "equipment_alternatives": "Regular candles for Shabbat candles, creative solutions for missing items",
+    "solo_practitioner_guidance": "Specific instructions for those observing alone",
+    "progressive_adoption": "4-week gradual introduction plan"
+  },
+  "cultural_adaptations": {
+    "chinese_context": "References to Chinese historical periods and cultural parallels",
+    "asia_specific_guidance": "Advice for those living far from Jewish communities",
+    "universal_themes": "Family gathering, gratitude, rest, and spiritual reflection"
+  }
+}

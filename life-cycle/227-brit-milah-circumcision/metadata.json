@@ -1,0 +1,88 @@
+{
+  "id": 227,
+  "title": "Brit Milah (Circumcision): The Covenant in the Flesh",
+  "title_zh": "割礼(Brit Milah):刻在肉身上的盟约",
+  "title_he": "ברית מילה: הברית בבשר",
+  "section": "life-cycle",
+  "slug": "brit-milah-circumcision",
+  "batch": "300",
+  "word_count": {
+    "en": 2175,
+    "zh": 1247,
+    "he": 1568
+  },
+  "created": "2026-03-19",
+  "topics": [
+    "brit milah",
+    "circumcision",
+    "covenant",
+    "Jewish law",
+    "life cycle",
+    "Abraham",
+    "Torah commandment",
+    "mohel",
+    "eighth day",
+    "Jewish identity"
+  ],
+  "keywords": [
+    "brit milah",
+    "Jewish circumcision",
+    "covenant of Abraham",
+    "eighth day",
+    "mohel",
+    "sandek",
+    "Torah commandment",
+    "Jewish ritual",
+    "life cycle event",
+    "Elijah's chair"
+  ],
+  "description": "A comprehensive guide to brit milah (Jewish circumcision), exploring its biblical origins, spiritual significance, medical aspects, and historical continuity as the physical sign of the eternal covenant between God and the Jewish people.",
+  "sources": [
+    {
+      "type": "primary",
+      "text": "Genesis 17:10-12",
+      "url": "https://www.sefaria.org/Genesis.17.10-12"
+    },
+    {
+      "type": "commentary",
+      "author": "Maimonides (Rambam)",
+      "work": "Guide for the Perplexed and Mishneh Torah"
+    },
+    {
+      "type": "mystical",
+      "work": "Zohar",
+      "topic": "Spiritual significance of circumcision"
+    },
+    {
+      "type": "commentary",
+      "author": "Nachmanides (Ramban)",
+      "work": "Commentary on Genesis"
+    },
+    {
+      "type": "reference",
+      "work": "Talmud",
+      "topic": "Laws and traditions of brit milah"
+    }
+  ],
+  "target_audience": "Chinese native Mandarin speakers with no prior Jewish knowledge",
+  "cultural_parallels": [
+    "Mǎnyuè (满月) - Chinese one-month celebration ceremony",
+    "Zhuāzhōu (抓周) - Chinese first birthday ceremony",
+    "Life passage rituals in Chinese tradition"
+  ],
+  "key_concepts": [
+    "Brit Milah as eternal covenant",
+    "Significance of eighth day",
+    "Role of mohel and sandek",
+    "Medical and spiritual aspects",
+    "Historical continuity across persecution",
+    "Physical mark of Jewish identity",
+    "Connection to Abraham and future generations"
+  ],
+  "related_articles": [
+    269,
+    270,
+    271,
+    272
+  ]
+}

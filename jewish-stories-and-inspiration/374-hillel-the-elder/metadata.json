@@ -1,0 +1,156 @@
+{
+  "id": 374,
+  "title": {
+    "en": "Hillel the Elder: \"What is Hateful to You, Do Not Do to Others\"",
+    "zh": "希勒尔长老：\"己所不欲，勿施于人\"",
+    "he": "הִלֵּל הַזָּקֵן: \"דָּבָר שֶׁהוּא שֶׂנוּא לָךְ, אַל תַּעֲשֶׂה לַחֲבֵרְךָ\""
+  },
+  "slug": "hillel-the-elder",
+  "section": "jewish-stories-and-inspiration",
+  "batch": "300",
+  "author": "Torah Light Editorial Team",
+  "dateCreated": "2026-03-19",
+  "language": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "primarySources": [
+    "Babylonian Talmud, Shabbat 31a",
+    "Pirkei Avot 1:12-15",
+    "Pirkei Avot 2:4-6",
+    "Babylonian Talmud, Yoma 35b",
+    "Babylonian Talmud, Eruvin 13b"
+  ],
+  "hebrewReferences": [
+    "תלמוד בבלי, מסכת שבת ל״א ע״א",
+    "פרקי אבות א:יב-טו",
+    "פרקי אבות ב:ד-ו",
+    "תלמוד בבלי, מסכת יומא לה ע"ב",
+    "תלמוד בבלי, מסכת עירובין יג ע"ב"
+  ],
+  "culturalParallels": [
+    "Confucian Golden Rule in Analects 15:23 (己所不欲，勿施于人)",
+    "Han Dynasty (汉朝) parallel to Second Temple period",
+    "Chinese ink wash painting (水墨) style for imagery",
+    "Daoist humility compared to Hillel's character"
+  ],
+  "wordCount": {
+    "en": 1425,
+    "zh": 1280,
+    "he": 1350
+  },
+  "readingTime": {
+    "en": "7-9 minutes",
+    "zh": "6-8 minutes",
+    "he": "7-9 minutes"
+  },
+  "targetAudience": "Chinese native Mandarin speakers with no prior knowledge of Judaism; also suitable for general beginners in Jewish learning",
+  "difficulty": "Beginner to Intermediate",
+  "relatedArticles": [
+    375,
+    376,
+    377,
+    378,
+    379
+  ],
+  "bibliography": [
+    {
+      "type": "primary",
+      "title": "Babylonian Talmud, Shabbat 31a: The Convert Who Approached Shammai and Hillel",
+      "url": "https://www.sefaria.org/Shabbat.31a",
+      "verified": false
+    },
+    {
+      "type": "primary",
+      "title": "Pirkei Avot 1:12-15: The Teachings of Hillel",
+      "url": "https://www.sefaria.org/Pirkei_Avot.1.12",
+      "verified": false
+    },
+    {
+      "type": "primary",
+      "title": "Pirkei Avot 2:4-6: Hillel's Three Questions",
+      "url": "https://www.sefaria.org/Pirkei_Avot.2.4",
+      "verified": false
+    },
+    {
+      "type": "primary",
+      "title": "Babylonian Talmud, Yoma 35b: Hillel's Poverty and Dedication",
+      "url": "https://www.sefaria.org/Yoma.35b",
+      "verified": false
+    },
+    {
+      "type": "primary",
+      "title": "Babylonian Talmud, Eruvin 13b: The Debates Between Hillel and Shammai",
+      "url": "https://www.sefaria.org/Eruvin.13b",
+      "verified": false
+    },
+    {
+      "type": "commentary",
+      "title": "Rashi on Shabbat 31a",
+      "url": "https://www.sefaria.org/Rashi_on_Shabbat.31a",
+      "verified": false
+    },
+    {
+      "type": "commentary",
+      "title": "Tosafot on Shabbat 31a",
+      "url": "https://www.sefaria.org/Tosafot_on_Shabbat.31a",
+      "verified": false
+    },
+    {
+      "type": "article",
+      "title": "Hillel: The Life and Teachings of Hillel the Elder",
+      "publisher": "Chabad.org",
+      "url": "https://www.chabad.org/library/article_cdo/aid/464196/jewish/Hillel.htm",
+      "verified": false
+    },
+    {
+      "type": "secondary",
+      "title": "Confucius, Analects 15:23",
+      "source": "Classical Chinese Philosophy"
+    },
+    {
+      "type": "book",
+      "title": "Hillel: If Not Now, When?",
+      "author": "Joseph Telushkin",
+      "publisher": "Jewish Publication Society"
+    }
+  ],
+  "keywords": [
+    "Hillel",
+    "Hillel the Elder",
+    "Golden Rule",
+    "Ethics",
+    "Pirkei Avot",
+    "Torah Study",
+    "Humility",
+    "Patience",
+    "Convert",
+    "Judaism",
+    "Jewish Values",
+    "希勒尔",
+    "己所不欲勿施于人",
+    "道德",
+    "犹太教",
+    "汉朝",
+    "Han Dynasty",
+    "הילל",
+    "הילל הזקן",
+    "כלל הזהב",
+    "אתיקה",
+    "פרקי אבות",
+    "לימוד תורה",
+    "ענווה",
+    "סבלנות",
+    "גר",
+    "יהדות",
+    "ערכים יהודיים",
+    "Jewish Stories and Inspiration",
+    "Torah之光"
+  ],
+  "summary": {
+    "en": "An exploration of Hillel the Elder's life and teachings, focusing on his famous formulation of the Golden Rule: \"What is hateful to you, do not do to others.\" The article covers his journey from poverty to leadership, his contrast with Shammai, and draws parallels to Confucian ethics.",
+    "zh": "探索希勒尔长老的生平和教导,重点关注他对黄金法则的著名表述:\"己所不欲,勿施于人。\"文章涵盖了他从贫困到领导地位的旅程、与沙迈的对比,并与儒家伦理进行了比较。",
+    "he": "חקירה של חייו ולימודיו של הילל הזקן, המתמקדת בניסוחו המפורסם של כלל הזהב: \"דָּבָר שֶׁהוּא שֶׂנוּא לָךְ, אַל תַּעֲשֶׂה לַחֲבֵרְךָ.\" המאמר מכסה את מסעו מעוני למנהיגות, ההשוואה שלו עם שמאי, ומצייר הקבלות לאתיקה הקונפוציאנית."
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "articleId": 137,
+  "title": {
+    "en": "Tashlich: Casting Away Your Sins at the Water",
+    "zh": "塔什利赫：在水边抛弃罪恶",
+    "he": "תשליך: השלכת החטאים אל המים"
+  },
+  "section": "holidays",
+  "category": "Jewish Holidays",
+  "subcategory": "High Holy Days",
+  "publishDate": "2026-03-18",
+  "author": "Torah Light Editorial Team",
+  "readingTime": {
+    "en": "8 minutes",
+    "zh": "6 minutes",
+    "he": "7 minutes"
+  },
+  "difficulty": "intermediate",
+  "audience": "general",
+  "headerImage": {
+    "description": "A peaceful river or stream with people standing at the water's edge, symbolically shaking out their pockets. The scene captures the spiritual act of casting away sins during Tashlich, with autumn leaves floating on the water's surface, representing renewal and cleansing.",
+    "alt": "People performing Tashlich ritual at water's edge during Rosh Hashana",
+    "suggested_style": "realistic photography with warm autumn lighting"
+  },
+  "summary": {
+    "en": "Explore the beautiful Jewish tradition of Tashlich, performed during Rosh Hashana, where participants symbolically cast away their sins at bodies of water. Learn about its origins, spiritual meaning, traditional prayers, and modern observance.",
+    "zh": "探索美丽的犹太传统塔什利赫，在犹太新年期间执行，参与者在水体边象征性地抛弃他们的罪恶。了解其起源、精神意义、传统祈祷和现代遵循。",
+    "he": "חקר המסורת היהודית היפה של תשליך, המבוצע במהלך ראש השנה, כאשר המשתתפים משליכים באופן סמלי את חטאיהם בגופי מים. למד על מקורותיו, משמעותו הרוחנית, תפילות מסורתיות ושמירה מודרנית."
+  },
+  "relatedTopics": [
+    "Rosh Hashana customs",
+    "Jewish repentance practices",
+    "Water symbolism in Judaism",
+    "High Holy Days rituals",
+    "Medieval Jewish traditions"
+  ],
+  "biblicalReferences": [
+    {
+      "book": "Micah",
+      "chapter": 7,
+      "verse": 19,
+      "text": "You will cast all their sins into the depths of the sea"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 118,
+      "verses": "5-9"
+    },
+    {
+      "book": "Psalms",
+      "chapter": 33,
+      "verses": "18-22"
+    }
+  ],
+  "culturalConnections": {
+    "chinese_dynasties": [
+      "Tang Dynasty water culture in Buddhist practice",
+      "Song Dynasty neo-Confucian natural contemplation",
+      "Ming Dynasty literati water poetry and spiritual reflection",
+      "Qing Dynasty religious tolerance and multicultural practices"
+    ]
+  },
+  "wordCounts": {
+    "en": 3920,
+    "zh": 1380,
+    "he": 2780
+  },
+  "lastModified": "2026-03-18T16:37:00+02:00",
+  "status": "published",
+  "seo": {
+    "keywords": [
+      "Tashlich",
+      "Rosh Hashana customs",
+      "Jewish water rituals",
+      "casting away sins",
+      "Jewish repentance",
+      "High Holy Days",
+      "Micah 7:19",
+      "Jewish traditions"
+    ],
+    "metaDescription": {
+      "en": "Discover the meaningful Jewish tradition of Tashlich - casting away sins at water during Rosh Hashana. Learn its history, prayers, and modern practice.",
+      "zh": "发现有意义的犹太传统塔什利赫——在犹太新年期间在水边抛弃罪恶。了解其历史、祈祷和现代实践。",
+      "he": "גלה את המסורת היהודית המשמעותית של תשליך - השלכת חטאים במים במהלך ראש השנה. למד את ההיסטוריה, התפילות והתרגול המודרני."
+    }
+  },
+  "keywords": [
+    "rosh-hashana",
+    "tashlich",
+    "repentance",
+    "water-rituals",
+    "high-holy-days",
+    "jewish-customs",
+    "teshuva",
+    "forgiveness",
+    "spiritual-cleansing"
+  ]
+}

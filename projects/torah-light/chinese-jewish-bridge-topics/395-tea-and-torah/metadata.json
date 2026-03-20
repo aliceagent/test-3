@@ -1,0 +1,133 @@
+{
+  "articleId": 395,
+  "title": {
+    "en": "Tea and Torah: Creating a Chinese-Jewish Learning Ritual",
+    "zh": "茶与妥拉:创建中犹学习仪式",
+    "he": "תה ותורה: יצירת טקס לימוד סיני-יהודי"
+  },
+  "description": {
+    "en": "A practical guide to combining Chinese tea culture with Torah study — creating a meaningful personal ritual that bridges both worlds.",
+    "zh": "将中国茶文化与妥拉学习相结合的实用指南——创造一个连接两个世界的有意义的个人仪式。",
+    "he": "מדריך מעשי לשילוב תרבות התה הסינית עם לימוד תורה — יצירת טקס אישי משמעותי המגשר בין שני העולמות."
+  },
+  "section": "chinese-jewish-bridge-topics",
+  "tags": [
+    "tea-ceremony",
+    "torah-study",
+    "chinese-culture",
+    "jewish-practice",
+    "mindfulness",
+    "ritual",
+    "spiritual-practice",
+    "cultural-bridge",
+    "gongfu-cha",
+    "chavruta",
+    "contemplation",
+    "wisdom-traditions"
+  ],
+  "dateCreated": "2026-03-20",
+  "wordCount": {
+    "en": 3862,
+    "zh": 2147,
+    "he": 2734
+  },
+  "readingTime": {
+    "en": "15-20 minutes",
+    "zh": "8-12 minutes",
+    "he": "11-15 minutes"
+  },
+  "difficulty": "intermediate",
+  "practiceLevel": "beginner-friendly",
+  "keyTopics": [
+    "Tea ceremony fundamentals (gongfu cha)",
+    "Torah study practices",
+    "Creating sacred space",
+    "Tea selection for different study types",
+    "Step-by-step ritual guide",
+    "Seasonal alignment with Jewish holidays",
+    "Chavruta with tea",
+    "Shabbat integration",
+    "Philosophical foundations"
+  ],
+  "practicalElements": {
+    "equipment": [
+      "Gaiwan or small teapot (120-150ml)",
+      "Fair cup (gong dao bei)",
+      "Small tea cups (30-50ml)",
+      "Tea tray or cloth",
+      "Temperature-controlled kettle",
+      "Quality loose-leaf tea",
+      "Jewish texts",
+      "Notebook for insights"
+    ],
+    "recommendedTeas": {
+      "greenTea": ["Longjing (Dragon Well)", "Biluochun"],
+      "oolongTea": ["Tieguanyin (Iron Goddess)", "Dancong"],
+      "puerhTea": ["Ripe (shou) pu-erh", "Raw (sheng) pu-erh"],
+      "whiteTea": ["Bai Mu Dan (White Peony)", "Silver Needle"]
+    },
+    "timeCommitment": {
+      "beginner": "30 minutes",
+      "intermediate": "45-60 minutes",
+      "advanced": "90+ minutes"
+    }
+  },
+  "culturalContext": {
+    "chineseElements": [
+      "Gongfu cha (功夫茶) tea ceremony",
+      "Dao (道) concept of 'the way'",
+      "Mindful practice and presence",
+      "Seasonal wisdom",
+      "Ritual aesthetics"
+    ],
+    "jewishElements": [
+      "Torah study (learning)",
+      "Halakha (הלכה) - 'the way'",
+      "Chavruta (חברותא) - paired study",
+      "Blessings and sacred time",
+      "Jewish holidays and calendar",
+      "Pirkei Avot teachings"
+    ]
+  },
+  "languageVersions": {
+    "en": "article-en.md",
+    "zh": "article-zh.md",
+    "he": "article-he.md"
+  },
+  "targetAudience": [
+    "Jewish learners interested in East Asian practices",
+    "Chinese individuals exploring Jewish tradition",
+    "Interfaith families",
+    "Spiritual seekers bridging traditions",
+    "Tea enthusiasts interested in ritual",
+    "Torah students seeking new learning frameworks"
+  ],
+  "relatedArticles": [],
+  "quotes": [
+    {
+      "text": "Turn it over and over, for everything is in it",
+      "source": "Pirkei Avot 5:22",
+      "language": "en"
+    },
+    {
+      "text": "It is not your duty to finish the work, but neither are you free to desist from it",
+      "source": "Pirkei Avot 2:16",
+      "language": "en"
+    }
+  ],
+  "blessings": [
+    {
+      "name": "Torah Study Blessing",
+      "hebrew": "בָּרוּךְ אַתָּה ה' אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֹתָיו וְצִוָּנוּ לַעֲסוֹק בְּדִבְרֵי תוֹרָה",
+      "transliteration": "Baruch atah Adonai, Eloheinu melech ha'olam, asher kid'shanu b'mitzvotav v'tzivanu la'asok b'divrei Torah",
+      "translation": "Blessed are You, Adonai our God, Sovereign of the universe, who has sanctified us with commandments and commanded us to engage with words of Torah"
+    }
+  ],
+  "author": {
+    "type": "AI-generated",
+    "model": "Claude",
+    "purpose": "Educational bridge-building between Chinese and Jewish traditions"
+  },
+  "license": "Creative Commons BY-NC-SA 4.0",
+  "version": "1.0"
+}

@@ -1,0 +1,50 @@
+{
+  "article_id": 56,
+  "title": {
+    "en": "Thinking About Converting? What You Need to Know First",
+    "zh": "考虑皈依犹太教?首先您需要了解这些",
+    "he": "חושבים להתגייר? מה שצריך לדעת תחילה"
+  },
+  "section": "Conversion",
+  "folder": "conversion",
+  "word_count": {
+    "en": 6847,
+    "zh": 5923,
+    "he": 6234
+  },
+  "status": "ready_for_qa",
+  "author": "Torah Light Research Team",
+  "date_created": "2026-03-17",
+  "languages": ["en", "zh", "he"],
+  "tags": [
+    "Conversion",
+    "Judaism",
+    "Orthodox",
+    "BecomingJewish",
+    "Ruth",
+    "BeithDin",
+    "Mikvah",
+    "Gerim",
+    "KabbalatMitzvot",
+    "Shabbat",
+    "Kashrut",
+    "JewishIdentity",
+    "ConversionProcess",
+    "路得",
+    "皈依",
+    "犹太教",
+    "正统派",
+    "גיור",
+    "יהדות",
+    "אורתודוקסיה"
+  ],
+  "historical_context": {
+    "abraham_era": "Shang Dynasty (商朝, ~1600-1046 BCE)",
+    "sinai_era": "Late Shang Dynasty (~1300-1046 BCE)",
+    "ruth_era": "Early Western Zhou Dynasty (周朝, ~1100 BCE)"
+  },
+  "sources_verified": true,
+  "all_languages_complete": true,
+  "chinese_dynasty_mappings_included": true,
+  "bibliography_urls_verified": true
+}

@@ -1,0 +1,107 @@
+{
+  "id": 86,
+  "title": "Jerusalem Through the Ages: Why This City Matters to Jews",
+  "title_zh": "历代耶路撒冷：为何这座城市对犹太人至关重要",
+  "title_he": "ירושלים לאורך הדורות: למה העיר הזאת חשובה ליהודים",
+  "section": "Israel",
+  "section_zh": "以色列",
+  "section_he": "ישראל",
+  "description": "A comprehensive historical journey through Jerusalem's 3,000-year significance to the Jewish people, from King David's conquest to modern times.",
+  "word_count_en": 10000,
+  "word_count_zh": 8800,
+  "word_count_he": 9500,
+  "status": "published",
+  "created": "2026-03-18T08:06:00+02:00",
+  "published": "2026-03-18T08:06:00+02:00",
+  "author": "Torah Light Writing Team",
+  "tags": [
+    "Jerusalem",
+    "Yerushalayim",
+    "耶路撒冷",
+    "Israel",
+    "以色列",
+    "KingDavid",
+    "大卫王",
+    "Temple",
+    "圣殿",
+    "WesternWall",
+    "西墙",
+    "TishaBAv",
+    "圣殿被毁日",
+    "NextYearInJerusalem",
+    "明年在耶路撒冷",
+    "JewishHistory",
+    "犹太历史",
+    "SixDayWar",
+    "六日战争",
+    "1967",
+    "Zionism",
+    "锡安主义",
+    "HolyCity",
+    "圣城",
+    "TempleMount",
+    "圣殿山",
+    "Redemption",
+    "救赎",
+    "Exile",
+    "流亡",
+    "Return",
+    "回归",
+    "CityOfDavid",
+    "大卫之城",
+    "Shekhinah",
+    "神的临在",
+    "JewishPrayer",
+    "犹太祷告",
+    "LShanaHabaah",
+    "明年",
+    "IfIForgetYouJerusalem",
+    "我若忘记你耶路撒冷"
+  ],
+  "chinese_dynasty_references": [
+    {
+      "dynasty": "Western Zhou Dynasty",
+      "chinese": "西周",
+      "years": "~1046-771 BCE",
+      "context": "Period when King David conquered Jerusalem and Solomon built the First Temple"
+    },
+    {
+      "dynasty": "Spring and Autumn Period",
+      "chinese": "春秋时代",
+      "years": "770-476 BCE",
+      "context": "When the Babylonians destroyed the First Temple in 586 BCE"
+    }
+  ],
+  "key_concepts": [
+    {
+      "english": "Jerusalem",
+      "hebrew": "ירושלים",
+      "chinese": "耶路撒冷"
+    },
+    {
+      "english": "City of David",
+      "hebrew": "עיר דוד",
+      "chinese": "大卫之城"
+    },
+    {
+      "english": "The Temple",
+      "hebrew": "בית המקדש",
+      "chinese": "圣殿"
+    },
+    {
+      "english": "Divine Presence",
+      "hebrew": "שכינה",
+      "chinese": "神的临在"
+    },
+    {
+      "english": "If I forget you, O Jerusalem",
+      "hebrew": "אם אשכחך ירושלים",
+      "chinese": "我若忘记你，耶路撒冷"
+    },
+    {
+      "english": "Next year in Jerusalem",
+      "hebrew": "לשנה הבאה בירושלים",
+      "chinese": "明年在耶路撒冷"
+    }
+  ]
+}

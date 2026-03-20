@@ -1,0 +1,175 @@
+{
+  "id": 230,
+  "title": {
+    "en": "Jewish Wedding Traditions: Under the Chuppah",
+    "zh": "犹太婚礼传统:在婚礼华盖(Chuppah)之下",
+    "he": "מסורות החתונה היהודית: תחת החופה"
+  },
+  "slug": "jewish-wedding-chuppah",
+  "section": "life-cycle",
+  "batch": "200",
+  "author": "Torah Light Editorial Team",
+  "dateCreated": "2026-03-19",
+  "language": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "primarySources": [
+    "Genesis 18:1-2",
+    "Genesis 22:17",
+    "Genesis 24:65",
+    "Genesis 29:23-25",
+    "Genesis 1:28",
+    "Genesis 2:18",
+    "Psalms 104:15",
+    "Babylonian Talmud, Shabbat 88a"
+  ],
+  "hebrewReferences": [
+    "בראשית יח:א-ב",
+    "בראשית כב:יז",
+    "בראשית כד:סה",
+    "בראשית כט:כג-כה",
+    "בראשית א:כח",
+    "בראשית ב:יח",
+    "תהילים קד:טו",
+    "תלמוד בבלי, מסכת שבת פ״ח ע״א"
+  ],
+  "culturalParallels": [
+    "Chinese bridal sedan chair (花轿, huājiào) compared to chuppah as transitional space",
+    "Dragon and phoenix (龙凤, lóngfèng) symbolizing cosmic union paralleling Jewish wedding symbolism",
+    "Chinese wedding as cosmic event paralleling Jewish view of marriage as re-enactment of fundamental forces",
+    "Traditional Chinese wedding pavilion compared to chuppah structure"
+  ],
+  "wordCount": {
+    "en": 6850,
+    "zh": 5420,
+    "he": 6380
+  },
+  "readingTime": {
+    "en": "27-30 minutes",
+    "zh": "18-22 minutes",
+    "he": "25-28 minutes"
+  },
+  "targetAudience": "Chinese native Mandarin speakers with no prior knowledge of Judaism; also suitable for general beginners in Jewish wedding customs",
+  "difficulty": "Beginner",
+  "relatedArticles": [
+    225,
+    226,
+    227,
+    228,
+    229,
+    231,
+    232,
+    233
+  ],
+  "bibliography": [
+    {
+      "type": "primary",
+      "title": "Genesis 18:1-2 (Torah)",
+      "url": "https://www.sefaria.org/Genesis.18.1-2",
+      "verified": false
+    },
+    {
+      "type": "primary",
+      "title": "Genesis 22:17 (Torah)",
+      "url": "https://www.sefaria.org/Genesis.22.17",
+      "verified": false
+    },
+    {
+      "type": "primary",
+      "title": "Genesis 24:65 (Torah)",
+      "url": "https://www.sefaria.org/Genesis.24.65",
+      "verified": false
+    },
+    {
+      "type": "primary",
+      "title": "Genesis 29:23-25 (Torah)",
+      "url": "https://www.sefaria.org/Genesis.29.23-25",
+      "verified": false
+    },
+    {
+      "type": "primary",
+      "title": "Psalms 104:15",
+      "url": "https://www.sefaria.org/Psalms.104.15",
+      "verified": false
+    },
+    {
+      "type": "primary",
+      "title": "Babylonian Talmud, Shabbat 88a",
+      "url": "https://www.sefaria.org/Shabbat.88a",
+      "verified": false
+    },
+    {
+      "type": "commentary",
+      "title": "The Jewish Wedding: A Comprehensive Guide",
+      "publisher": "Chabad.org",
+      "url": "https://www.chabad.org/library/article_cdo/aid/160980/jewish/The-Jewish-Wedding.htm",
+      "verified": false
+    },
+    {
+      "type": "commentary",
+      "title": "Under the Chuppah: The Meaning Behind Jewish Wedding Traditions",
+      "publisher": "Aish.com",
+      "url": "https://aish.com/jewish-wedding-traditions/",
+      "verified": false
+    },
+    {
+      "type": "article",
+      "title": "The Chuppah: Open on All Sides",
+      "publisher": "My Jewish Learning",
+      "url": "https://www.myjewishlearning.com/article/the-chuppah/",
+      "verified": false
+    },
+    {
+      "type": "article",
+      "title": "Breaking the Glass at Jewish Weddings",
+      "publisher": "My Jewish Learning",
+      "url": "https://www.myjewishlearning.com/article/breaking-the-glass/",
+      "verified": false
+    },
+    {
+      "type": "article",
+      "title": "The Seven Blessings (Sheva Brachot)",
+      "publisher": "Chabad.org",
+      "url": "https://www.chabad.org/library/article_cdo/aid/477170/jewish/The-Seven-Blessings.htm",
+      "verified": false
+    },
+    {
+      "type": "secondary",
+      "title": "The Ketubah: Jewish Marriage Contract",
+      "source": "Traditional Jewish Law"
+    }
+  ],
+  "keywords": [
+    "Jewish wedding",
+    "chuppah",
+    "ketubah",
+    "sheva brachot",
+    "seven blessings",
+    "kiddushin",
+    "nisuin",
+    "bedeken",
+    "breaking the glass",
+    "yichud",
+    "wedding ring",
+    "Jewish marriage",
+    "life cycle",
+    "Chinese wedding parallels",
+    "marriage covenant",
+    "wedding ceremony",
+    "Orthodox wedding",
+    "Jewish traditions",
+    "wedding customs",
+    "hora dance",
+    "mazel tov",
+    "bridal canopy",
+    "Jewish life cycle events",
+    "wedding rituals"
+  ],
+  "summary": {
+    "en": "A comprehensive guide to Jewish wedding traditions, explaining the chuppah (wedding canopy), the two-part ceremony (kiddushin and nisuin), the seven blessings, breaking the glass, and the deeper meanings behind each ritual. Includes cultural parallels to Chinese wedding traditions and practical guidance for first-time attendees.",
+    "zh": "全面介绍犹太婚礼传统，解释婚礼华盖(chuppah)、两部分仪式(订婚和成婚)、七个祝福、踩碎玻璃杯以及每个仪式背后的深层含义。包括与中国婚礼传统的文化对照以及首次参加者的实用指南。",
+    "he": "מדריך מקיף למסורות החתונה היהודית, המסביר את החופה, הטקס הדו-שלבי (קידושין ונישואין), שבע הברכות, שבירת הכוס והמשמעויות העמוקות מאחורי כל טקס. כולל הקבלות תרבותיות למסורות חתונה סיניות והדרכה מעשית למשתתפים לראשונה."
+  }
+}

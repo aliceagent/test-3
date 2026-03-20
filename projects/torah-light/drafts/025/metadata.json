@@ -1,0 +1,40 @@
+{
+  "id": 25,
+  "title": "Setting Up Your First Kosher Kitchen",
+  "title_zh": "建立你的第一个犹太洁食厨房",
+  "title_he": "הקמת המטבח הכשר הראשון שלך",
+  "section": "Kosher Food",
+  "section_zh": "犹太洁食",
+  "section_he": "מזון כשר",
+  "folder": "kosher-food",
+  "word_count_en": 2847,
+  "word_count_zh": 2658,
+  "word_count_he": 2719,
+  "created_date": "2026-03-17",
+  "status": "complete",
+  "chinese_dynasty_reference": "Shang Dynasty (商朝, ~1600-1046 BCE)",
+  "cultural_parallels": [
+    "Confucian li (礼) - ritual propriety and proper ordering",
+    "Daoist purity concepts (qing 清)",
+    "Buddhist vegetarian kitchen practices",
+    "Traditional Chinese kitchen organization"
+  ],
+  "tags": [
+    "KosherKitchen",
+    "Kashrut",
+    "犹太洁食",
+    "Separation",
+    "MeatAndDairy",
+    "洁食厨房",
+    "JewishPractice",
+    "HalachicLiving",
+    "TorahObservance",
+    "礼",
+    "Ritual",
+    "SpiritualDiscipline",
+    "DailyMitzvot",
+    "KosherFood"
+  ],
+  "bibliography_verified": true,
+  "all_urls_live": true
+}

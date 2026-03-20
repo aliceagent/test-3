@@ -1,0 +1,96 @@
+{
+  "id": 210,
+  "title": "The Spiritual Power of Shabbat Rest: Why Doing Nothing Is Doing Everything",
+  "title_zh": "安息日静止的灵性力量：为什么什么都不做就是做一切",
+  "title_he": "הכוח הרוחני של מנוחת השבת: למה לא לעשות כלום זה לעשות הכל",
+  "section": "shabbat",
+  "slug": "shabbat-rest-spiritual",
+  "tags": [
+    "shabbat",
+    "rest",
+    "spirituality",
+    "menuchah",
+    "neshamah-yeteirah",
+    "heschel",
+    "wu-wei",
+    "meditation",
+    "mindfulness"
+  ],
+  "difficulty": "beginner",
+  "target_audience": "Chinese native Mandarin speakers with no background in Judaism",
+  "word_count_en": 1487,
+  "char_count_zh": 2100,
+  "sources": [
+    {
+      "type": "primary",
+      "text": "Genesis 2:1-3",
+      "url": "https://www.sefaria.org/Genesis.2.1-3"
+    },
+    {
+      "type": "primary",
+      "text": "Talmud Bavli, Tractate Beitzah 16a",
+      "url": "https://www.sefaria.org/Beitzah.16a"
+    },
+    {
+      "type": "primary",
+      "text": "Zohar, Parashat Yitro",
+      "url": "https://www.sefaria.org/Zohar.2.88b"
+    },
+    {
+      "type": "book",
+      "author": "Heschel, Abraham Joshua",
+      "title": "The Sabbath: Its Meaning for Modern Man",
+      "publisher": "Farrar, Straus and Giroux",
+      "year": 1951
+    },
+    {
+      "type": "book",
+      "author": "Sacks, Jonathan",
+      "title": "Ceremony & Celebration: Introduction to the Holidays",
+      "publisher": "Maggid Books",
+      "year": 2017
+    },
+    {
+      "type": "book",
+      "author": "Lamm, Maurice",
+      "title": "The Shabbat Seder",
+      "publisher": "Jonathan David Publishers",
+      "year": 2003
+    },
+    {
+      "type": "web",
+      "title": "The Gift of Shabbat",
+      "url": "https://www.aish.com/shabbat/"
+    },
+    {
+      "type": "web",
+      "title": "Shabbat Overview",
+      "url": "https://www.chabad.org/library/article_cdo/aid/633659/jewish/Shabbat.htm"
+    }
+  ],
+  "chinese_parallels": [
+    "Daoist wu wei (無為) - non-doing, effortless action",
+    "Buddhist meditation and non-striving",
+    "Confucian emphasis on ritual rest and family time"
+  ],
+  "key_concepts": [
+    "Neshamah Yeteirah (additional soul)",
+    "Rest as creative act",
+    "Breaking the illusion of control",
+    "Sabbath as taste of World to Come",
+    "Doing nothing produces everything"
+  ],
+  "practical_applications": [
+    "Start with one Shabbat meal",
+    "Put away all devices",
+    "Prepare everything before Shabbat begins",
+    "Find community for shared experience"
+  ],
+  "created": "2026-03-19",
+  "batch": "300",
+  "language_versions": [
+    "en",
+    "zh",
+    "he"
+  ]
+}

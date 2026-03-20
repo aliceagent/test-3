@@ -1,0 +1,58 @@
+{
+  "id": 139,
+  "title": {
+    "en": "Kol Nidrei: The Most Famous Prayer That Isn't Actually a Prayer",
+    "zh": "所有誓言(Kol Nidrei)：最著名的「祈祷」其实并非祈祷",
+    "he": "כל נדרי: \"התפילה\" הכי מפורסמת שבעצם לא תפילה"
+  },
+  "section": "holidays",
+  "topic": "yom-kippur",
+  "subtopics": [
+    "kol-nidrei",
+    "liturgy", 
+    "jewish-law",
+    "music",
+    "prayer"
+  ],
+  "summary": {
+    "en": "The history and legal nature of Kol Nidrei, why it's chanted three times, and the haunting melody that moves Jews to tears.",
+    "zh": "《所有誓言》的历史和法律性质，为什么要诵读三次，以及令犹太人感动落泪的令人难忘旋律。",
+    "he": "ההיסטוריה והטבע ההלכתי של כל נדרי, מדוע הוא נטען שלוש פעמים, והניגון החודר המביא יהודים לדמעות."
+  },
+  "keywords": [
+    "Kol Nidrei",
+    "Yom Kippur",
+    "Jewish law",
+    "Aramaic",
+    "liturgy",
+    "vows",
+    "melody",
+    "synagogue",
+    "repentance"
+  ],
+  "difficulty": "intermediate",
+  "readingTime": {
+    "en": 12,
+    "zh": 8,
+    "he": 10
+  },
+  "dateWritten": "2026-03-18",
+  "author": "Torah Light Editorial Team",
+  "cultural_references": {
+    "chinese_dynasties": [
+      "Tang Dynasty (618-907 CE) - Jewish communities along Silk Road developing musical traditions",
+      "Song Dynasty (960-1279 CE) - Confucian thought on self-cultivation and human fallibility"
+    ]
+  },
+  "headerImage": {
+    "description": "An ancient synagogue sanctuary bathed in the golden glow of evening light, with a Torah ark opened to reveal sacred scrolls, while congregants in white prayer shawls bow their heads in solemn reverence. Candles flicker on the bimah, casting dancing shadows on stone walls that have witnessed centuries of Yom Kippur observance.",
+    "alt": "Synagogue sanctuary during Kol Nidrei service",
+    "generate": false
+  },
+  "relatedArticles": [
+    "yom-kippur-complete-guide",
+    "jewish-prayer-vs-legal-declaration", 
+    "aramaic-in-jewish-liturgy",
+    "synagogue-music-traditions"
+  ]
+}

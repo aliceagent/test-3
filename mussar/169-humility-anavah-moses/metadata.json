@@ -1,0 +1,157 @@
+{
+  "id": 169,
+  "title": "Humility (Anavah): The Trait Moses Was Known For",
+  "title_zh": "谦逊(Anavah):摩西最突出的品质",
+  "title_he": "ענוה: המידה שבה התבלט משה רבנו",
+  "section": "mussar",
+  "slug": "humility-anavah-moses",
+  "batch": "200",
+  "description": "Exploring Moses's defining character trait of humility (anavah), how he demonstrated it throughout his life, and practical steps to cultivate this essential Jewish virtue.",
+  "description_zh": "探索摩西最显著的品格特质——谦逊(anavah),他如何在一生中展现这一品质,以及培养这一重要犹太美德的实践步骤。",
+  "description_he": "חקירת תכונת האופי המגדירה של משה - ענווה, כיצד הפגין אותה לאורך חייו, וצעדים מעשיים לטיפוח מידה יהודית חיונית זו.",
+  "keywords": [
+    "humility",
+    "anavah",
+    "Moses",
+    "character development",
+    "mussar",
+    "Jewish ethics",
+    "leadership",
+    "modesty",
+    "self-improvement",
+    "Confucianism",
+    "Daoism",
+    "Chinese philosophy"
+  ],
+  "keywords_zh": [
+    "谦逊",
+    "ענוה",
+    "摩西",
+    "品格发展",
+    "穆萨尔",
+    "犹太伦理",
+    "领导力",
+    "谦虚",
+    "自我提升",
+    "儒家",
+    "道家",
+    "中国哲学"
+  ],
+  "keywords_he": [
+    "ענווה",
+    "משה רבנו",
+    "פיתוח אופי",
+    "מוסר",
+    "אתיקה יהודית",
+    "מנהיגות",
+    "צניעות",
+    "שיפור עצמי",
+    "קונפוציאניזם",
+    "דאואיזם",
+    "פילוסופיה סינית"
+  ],
+  "sources": [
+    {
+      "type": "torah",
+      "reference": "Numbers 12:3",
+      "text": "Now Moses was very humble, more than any other person on the face of the earth"
+    },
+    {
+      "type": "torah",
+      "reference": "Exodus 3:11",
+      "text": "Moses's initial reluctance at the burning bush"
+    },
+    {
+      "type": "torah",
+      "reference": "Numbers 11:29",
+      "text": "Moses's response to Eldad and Medad prophesying"
+    },
+    {
+      "type": "torah",
+      "reference": "Numbers 12:1-16",
+      "text": "Miriam and Aaron's criticism and Moses's response"
+    },
+    {
+      "type": "mishna",
+      "reference": "Pirkei Avot 2:8",
+      "text": "If you have studied much Torah, do not claim credit for yourself"
+    },
+    {
+      "type": "mishna",
+      "reference": "Pirkei Avot 4:1",
+      "text": "Who is wise? One who learns from every person"
+    },
+    {
+      "type": "philosophy",
+      "reference": "Maimonides (Rambam)",
+      "text": "Humility as the middle path between arrogance and self-abasement"
+    },
+    {
+      "type": "musar",
+      "reference": "Mesillat Yesharim, Chapter 22",
+      "text": "Rabbi Moshe Chaim Luzzatto on the trait of humility"
+    },
+    {
+      "type": "musar",
+      "reference": "Orchot Tzaddikim, Gate of Humility",
+      "text": "Classical Mussar text on developing humility"
+    },
+    {
+      "type": "cultural_parallel",
+      "reference": "Confucius, Analects",
+      "text": "The superior person is modest in speech but exceeds in actions"
+    },
+    {
+      "type": "cultural_parallel",
+      "reference": "Tao Te Ching, Chapter 8",
+      "text": "Water as the model of humility and strength"
+    }
+  ],
+  "cultural_parallels": [
+    {
+      "tradition": "Confucianism",
+      "concept": "謙 (qian) - humility/modesty",
+      "parallel": "Similar emphasis on humility as fundamental virtue; modesty in speech matched by excellence in action"
+    },
+    {
+      "tradition": "Daoism",
+      "concept": "Water symbolism",
+      "parallel": "Both traditions use water as metaphor for humility; water seeks lowest place yet is strongest element; Torah compared to water that only 'stays' with the humble"
+    },
+    {
+      "tradition": "Chinese wisdom",
+      "concept": "Empty vessel proverb",
+      "parallel": "Full vessel makes no sound; half-empty makes most noise - parallels Talmudic teaching on not claiming credit for Torah study"
+    }
+  ],
+  "target_audience": "Chinese native Mandarin speakers with no prior Jewish knowledge",
+  "difficulty_level": "beginner-intermediate",
+  "estimated_reading_time_minutes": 12,
+  "related_articles": [
+    170,
+    171,
+    173,
+    176,
+    177
+  ],
+  "torah_portions": [
+    "Bamidbar (Numbers 11-12)",
+    "Shemot (Exodus 3-4)"
+  ],
+  "practical_applications": [
+    "Daily gratitude practice",
+    "Learning from everyone",
+    "Focusing on contribution over recognition",
+    "Acknowledging limitations",
+    "Active listening",
+    "Studying humble role models",
+    "Anonymous service"
+  ],
+  "author_notes": "This article emphasizes the paradox of Moses being both the most humble and most powerful leader, showing how humility enhances rather than diminishes effectiveness. Special attention given to Chinese cultural parallels (Confucian qian, Daoist water symbolism) to make the Jewish concept relatable to Chinese readers. Practical exercises drawn from Mussar tradition for actionable character development.",
+  "date_created": "2026-03-18",
+  "language_versions": {
+    "en": "article-en.md",
+    "zh": "article-zh.md",
+    "he": "article-he.md"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": 51,
+  "title": "The Jewish Month of Elul: 30 Days of Preparation for the High Holidays",
+  "title_zh": "犹太历埃卢月：为大赎罪日做准备的30天",
+  "title_he": "חודש אלול: 30 יום של הכנה לימים הנוראים",
+  "section": "Jewish Calendar",
+  "folder": "jewish-calendar",
+  "description": "How the month before Rosh Hashanah is used for teshuvah (repentance), hearing the shofar daily, and the custom of Selichot.",
+  "word_count_en": 3420,
+  "word_count_zh": 1682,
+  "word_count_he": 2893,
+  "status": "complete",
+  "languages": ["en", "zh", "he"],
+  "created": "2026-03-17",
+  "tags": [
+    "Elul",
+    "HighHolidays",
+    "RoshHashanah",
+    "YomKippur",
+    "Teshuvah",
+    "Repentance",
+    "Shofar",
+    "Psalm27",
+    "Selichot",
+    "JewishCalendar",
+    "Preparation",
+    "SelfReflection",
+    "Forgiveness",
+    "Mercy",
+    "KingInTheField",
+    "Tzedakah",
+    "Charity",
+    "SpiritualGrowth",
+    "JewishPractice",
+    "修身",
+    "自省",
+    "商朝"
+  ],
+  "chinese_dynasty": "Shang Dynasty (商朝, ~1600-1046 BCE)",
+  "biblical_period": "Time of King David composing Psalms",
+  "sources": [
+    {
+      "title": "The Month of Elul",
+      "source": "Chabad.org",
+      "url": "https://www.chabad.org/holidays/JewishNewYear/template_cdo/aid/4685/jewish/Month-of-Elul.htm",
+      "verified": "2026-03-17",
+      "status": "accessible"
+    },
+    {
+      "title": "Shofar During the Month of Elul: How and Why",
+      "source": "Chabad.org",
+      "url": "https://www.chabad.org/holidays/JewishNewYear/template_cdo/aid/2306683/jewish/Shofar-During-the-Month-of-Elul-How-and-Why.htm",
+      "verified": "2026-03-17",
+      "status": "accessible"
+    },
+    {
+      "title": "Psalms 27",
+      "source": "Sefaria.org",
+      "url": "https://www.sefaria.org/Psalms.27",
+      "verified": "2026-03-17",
+      "status": "accessible"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": 248,
+  "title": "The Ten Sefirot Explained Simply",
+  "title_zh": "十个神圣光辉的简单解释",
+  "title_he": "עשר הספירות מוסברות בפשטות",
+  "section": "philosophy",
+  "slug": "ten-sefirot-explained",
+  "batch": 300,
+  "author": "Torah Light Editorial Team",
+  "date_created": "2026-03-19",
+  "word_count": {
+    "en": 5214,
+    "zh": 2847,
+    "he": 2319
+  },
+  "summary": "A comprehensive yet accessible introduction to the Ten Sefirot—the divine attributes through which God's infinite light flows into finite creation. Explains the structure of the Tree of Life, each individual Sefirah, and how this system applies to personal spiritual growth and decision-making.",
+  "summary_zh": "全面而易懂地介绍十个神圣光辉——上帝的无限之光通过这些神圣属性流入有限创造。解释生命之树的结构、每个单独的光辉,以及这个体系如何应用于个人精神成长和决策。",
+  "summary_he": "מבוא מקיף אך נגיש לעשר הספירות—התכונות האלוהיות שדרכן זורם האור האינסופי של אלוהים לבריאה הסופית. מסביר את מבנה עץ החיים, כל ספירה בנפרד, וכיצד מערכת זו מיושמת לצמיחה רוחנית אישית ולקבלת החלטות.",
+  "topics": [
+    "Kabbalah",
+    "Jewish Mysticism",
+    "Sefirot",
+    "Chassidut",
+    "Chabad Philosophy",
+    "Spiritual Growth",
+    "Divine Attributes",
+    "Tree of Life"
+  ],
+  "tags": [
+    "Kabbalah",
+    "Sefirot",
+    "JewishMysticism",
+    "TenSefirot",
+    "Chabad",
+    "DivineAttributes",
+    "Spirituality",
+    "ChassidutThought",
+    "TreeOfLife",
+    "EinSof",
+    "神秘主义",
+    "卡巴拉",
+    "十个光辉",
+    "犹太哲学",
+    "平衡",
+    "道",
+    "Tiferet",
+    "Chesed",
+    "Gevurah",
+    "Philosophy",
+    "CharacterDevelopment",
+    "קבלה",
+    "ספירות",
+    "מיסטיקה_יהודית"
+  ],
+  "cultural_parallels": [
+    "Dao (道) and Ein Sof",
+    "Wu Xing (五行) Five Elements",
+    "Yin-Yang Balance",
+    "Confucian Moderation (中庸)",
+    "Buddhist Emptiness (śūnyatā)",
+    "Wu Wei (无为) Enlightenment"
+  ],
+  "historical_period": {
+    "jewish": "Kabbalistic systematization: 12th-13th century CE (Zohar period)",
+    "chinese_equivalent": "Song Dynasty (宋朝, 960-1279 CE)"
+  },
+  "key_figures": [
+    "Rabbi Schneur Zalman of Liadi (Alter Rebbe)",
+    "Baal Shem Tov",
+    "Rabbi Isaac Luria (Arizal)",
+    "Rabbi Adin Steinsaltz"
+  ],
+  "difficulty_level": "Intermediate-Advanced",
+  "target_audience": "Readers with basic Jewish knowledge seeking deeper understanding of mystical concepts",
+  "reading_time_minutes": {
+    "en": 23,
+    "zh": 15,
+    "he": 12
+  },
+  "bibliography_count": 8,
+  "status": "complete",
+  "quality_check": {
+    "chinese_dynasty_mappings": true,
+    "clickable_urls": true,
+    "three_languages": true,
+    "cultural_parallels": true,
+    "tags_section": true,
+    "header_image_description": true
+  }
+}

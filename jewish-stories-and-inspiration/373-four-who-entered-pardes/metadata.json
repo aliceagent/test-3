@@ -1,0 +1,62 @@
+{
+  "id": 373,
+  "title": "The Four Who Entered the Pardes: A Mystical Journey Gone Wrong",
+  "title_zh": "进入神秘果园的四位贤者：一场灵性探索的警示",
+  "title_he": "ארבעה שנכנסו לפרדס: מסע מסתורי שהסתבך",
+  "slug": "four-who-entered-pardes",
+  "section": "jewish-stories-and-inspiration",
+  "description": "The Talmud's story of four rabbis who entered mystical contemplation — one died, one went mad, one became a heretic, and Rabbi Akiva emerged in peace.",
+  "description_zh": "塔木德关于四位进入神秘沉思的拉比的故事——一人死去，一人发疯，一人成为异端，只有阿吉瓦拉比平安归来。",
+  "description_he": "סיפור התלמוד על ארבעה חכמים שנכנסו להתבוננות מיסטית — אחד מת, אחד השתגע, אחד הפך לכופר, ורבי עקיבא יצא בשלום.",
+  "word_count_en": 1450,
+  "word_count_zh": 1150,
+  "word_count_he": 1280,
+  "char_count_zh": 4850,
+  "status": "completed",
+  "historical_period": "Talmudic Period",
+  "historical_period_dates": "70-500 CE",
+  "chinese_dynasty": "东汉 (Eastern Han Dynasty)",
+  "chinese_dynasty_dates": "25-220 CE",
+  "key_figures": [
+    "Rabbi Akiva",
+    "Ben Azzai",
+    "Ben Zoma",
+    "Elisha ben Avuya (Acher)"
+  ],
+  "key_figures_he": [
+    "רבי עקיבא",
+    "בן עזאי",
+    "בן זומא",
+    "אלישע בן אבויה (אחר)"
+  ],
+  "key_figures_zh": [
+    "阿吉瓦拉比",
+    "本·阿赛",
+    "本·佐马",
+    "以利沙·本·阿弗亚（另一个人）"
+  ],
+  "tags": [
+    "Mysticism",
+    "Jewish Mysticism",
+    "Kabbalah",
+    "Talmud",
+    "Rabbi Akiva",
+    "Elisha ben Avuya",
+    "Pardes",
+    "Spiritual Danger",
+    "Mystical Experience",
+    "东汉",
+    "犹太神秘主义",
+    "果园",
+    "Ben Azzai",
+    "Ben Zoma",
+    "Four Sages",
+    "Jewish Stories and Inspiration",
+    "Mussar",
+    "Jewish Philosophy"
+  ],
+  "primary_source": "Talmud Bavli, Tractate Chagigah 14b",
+  "primary_source_url": "https://www.sefaria.org/Chagigah.14b.4",
+  "created_date": "2026-03-19",
+  "content_version": "1.0"
+}

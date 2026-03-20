@@ -1,0 +1,123 @@
+{
+  "id": 296,
+  "title": "Hebrew Handwriting: Learning Ktav (Cursive Script)",
+  "title_zh": "希伯来语手写体：学习Ktav（草书）",
+  "title_he": "כתב יד עברי: לימוד כתב (כתב רהוט)",
+  "section": "hebrew-learning",
+  "slug": "hebrew-cursive-ktav",
+  "author": "Torah Light Editorial Team",
+  "date_created": "2026-03-19",
+  "word_count": {
+    "en": 4856,
+    "zh": 1134,
+    "he": 2318
+  },
+  "languages": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "tags": [
+    "Hebrew",
+    "HebrewLearning",
+    "Ktav",
+    "Cursive",
+    "Handwriting",
+    "HebrewScript",
+    "书法",
+    "草书",
+    "Language",
+    "Literacy",
+    "Israel",
+    "MandarinSpeakers",
+    "中文学习者",
+    "犹太教育",
+    "希伯来语",
+    "עברית",
+    "לימוד_עברית",
+    "כתב",
+    "כתב_רהוט",
+    "כתב_יד"
+  ],
+  "cultural_parallels": [
+    "Chinese calligraphy (书法, shūfǎ)",
+    "Cursive script styles (草书 cǎoshū, 行书 xíngshū)",
+    "Seal script to clerical script evolution (篆书 to 隶书)",
+    "Song Dynasty (960-1279 CE) for medieval Hebrew development",
+    "Mandarin stroke order awareness"
+  ],
+  "historical_periods": [
+    {
+      "jewish_period": "Babylonian Exile",
+      "dates": "586-516 BCE",
+      "chinese_equivalent": "Spring and Autumn to Warring States period (春秋 to 战国)"
+    },
+    {
+      "jewish_period": "Medieval rabbinical scribes",
+      "dates": "960-1279 CE",
+      "chinese_equivalent": "Song Dynasty (宋朝)"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Hebrew Handwriting",
+      "source": "Chabad.org",
+      "url": "https://www.chabad.org/library/article_cdo/aid/4269915/jewish/Hebrew-Handwriting.htm",
+      "type": "educational",
+      "verified": true
+    },
+    {
+      "title": "Learn to Write Hebrew: Cursive",
+      "source": "Hebrew4Christians",
+      "url": "https://www.hebrew4christians.com/Grammar/Unit_One/Writing_Cursive/writing_cursive.html",
+      "type": "tutorial",
+      "verified": true
+    },
+    {
+      "title": "Hebrew Cursive Alphabet",
+      "source": "Jewish Virtual Library",
+      "url": "https://www.jewishvirtuallibrary.org/hebrew-alphabet",
+      "type": "reference",
+      "verified": true
+    },
+    {
+      "title": "How to Write in Hebrew Cursive",
+      "source": "Ulpan La-Inyan",
+      "url": "https://www.ulpan.com/hebrew-cursive-writing/",
+      "type": "practical_guide",
+      "verified": true
+    },
+    {
+      "title": "History of Hebrew Script",
+      "source": "Sefaria.org",
+      "url": "https://www.sefaria.org/",
+      "type": "historical",
+      "verified": true
+    }
+  ],
+  "target_audience": "Mandarin speakers learning Hebrew, beginners to intermediate Hebrew students",
+  "difficulty_level": "intermediate",
+  "reading_time_minutes": {
+    "en": 20,
+    "zh": 8,
+    "he": 12
+  },
+  "key_concepts": [
+    "Hebrew print (dfus) vs. cursive (ktav)",
+    "Letter transformations from print to cursive",
+    "Semi-cursive nature of Hebrew handwriting",
+    "Learning methodology for ktav",
+    "Cultural parallels to Chinese cursive writing",
+    "Practical applications of Hebrew cursive"
+  ],
+  "practical_tips": [
+    "Practice 15-20 minutes daily for 2-3 months",
+    "Use lined paper to maintain proper descenders",
+    "Start with common words before full sentences",
+    "Read real Israeli handwriting for exposure",
+    "Apply Chinese calligraphy discipline to Hebrew practice"
+  ],
+  "status": "completed",
+  "qa_status": "pending",
+  "version": "1.0"
+}

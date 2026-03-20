@@ -1,0 +1,97 @@
+{
+  "id": 361,
+  "title": "Checking Tefillin and Mezuzot: When and How Often",
+  "title_zh": "检查经匣和门框经文:何时检查及多久一次",
+  "title_he": "בדיקת תפילין ומזוזות: מתי וכמה פעמים",
+  "description": "The requirement to have the parchments inside your tefillin and mezuzot checked by a sofer (scribe), how often, and what can go wrong.",
+  "section": "practical-halacha-for-daily-life",
+  "slug": "361-checking-tefillin-mezuzot",
+  "word_count": {
+    "en": 5948,
+    "zh": 1847,
+    "he": 3012
+  },
+  "tags": [
+    "Tefillin",
+    "Mezuzah",
+    "Sofer",
+    "STaM",
+    "PracticalHalacha",
+    "DailyJewishLife",
+    "MitzvahObjects",
+    "SacredTexts",
+    "Kashrut",
+    "JewishLaw",
+    "Halacha",
+    "TefillinChecking",
+    "MezuzahChecking",
+    "JewishRituals",
+    "TorahObservance"
+  ],
+  "chinese_historical_periods_mentioned": [
+    {
+      "period": "Shang Dynasty",
+      "chinese": "商朝",
+      "dates": "~1600-1046 BCE",
+      "context": "Referenced when discussing the giving of the Torah at Sinai (~3,300 years ago)"
+    },
+    {
+      "period": "Han Dynasty",
+      "chinese": "汉朝",
+      "dates": "~200 CE",
+      "context": "Referenced when discussing Rabbi Judah the Prince and the compilation of the Mishnah"
+    },
+    {
+      "period": "Northern and Southern Dynasties",
+      "chinese": "南北朝",
+      "dates": "~500 CE",
+      "context": "Referenced when discussing the Babylonian Talmud tractate Menachot"
+    },
+    {
+      "period": "Southern Song Dynasty",
+      "chinese": "南宋",
+      "dates": "1135-1204 CE",
+      "context": "Referenced when discussing Maimonides (Rambam)"
+    },
+    {
+      "period": "Ming Dynasty",
+      "chinese": "明朝",
+      "dates": "1563 CE",
+      "context": "Referenced when discussing the Shulchan Aruch"
+    }
+  ],
+  "key_concepts": [
+    "Tefillin (phylacteries)",
+    "Mezuzah (doorpost scrolls)",
+    "Sofer (scribe)",
+    "STaM (Torah scrolls, tefillin, mezuzot)",
+    "Klaf (parchment)",
+    "Pasul (invalid)",
+    "Kosher (valid according to Jewish law)",
+    "Negiah (letters touching)",
+    "Genizah (storage for sacred texts)",
+    "Ibud (parchment preparation process)",
+    "Kavanah (intention)",
+    "Tagim (letter crowns)"
+  ],
+  "practical_guidance": [
+    "Check tefillin at least twice every seven years",
+    "Check mezuzot at least every 3.5 years",
+    "More frequent checking recommended in humid climates (Asia)",
+    "Check immediately after water exposure, drops, or structural damage",
+    "Only qualified sofrim can perform proper checking",
+    "Keep a checking log with dates and results",
+    "Cost: $20-40 per mezuzah, $50-100 per tefillin set",
+    "Never assume used items are kosher - always have them checked",
+    "Resources in Asia: Chabad Houses in major cities, mailing to Israel/Hong Kong/Bangkok/Singapore"
+  ],
+  "bibliography_sources": 8,
+  "languages": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "status": "complete",
+  "created_date": "2026-03-19",
+  "author": "Torah Light Editorial Team"
+}

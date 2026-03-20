@@ -1,0 +1,106 @@
+{
+  "id": 306,
+  "title": "Shabbat Desserts That Don't Need an Oven",
+  "title_zh": "安息日甜点：无需烤箱的美味",
+  "title_he": "קינוחי שבת שלא צריכים תנור",
+  "slug": "shabbat-desserts-no-oven",
+  "section": "shabbat",
+  "description": "No-bake cakes, mousse, fruit compotes, and other desserts you can prepare before Shabbat — including Asian-inspired options with mochi and red bean.",
+  "author": "Torah Light Team",
+  "date_created": "2026-03-19",
+  "word_count": {
+    "en": 3451,
+    "zh": 1943,
+    "he": 3128
+  },
+  "reading_time_minutes": {
+    "en": 14,
+    "zh": 8,
+    "he": 13
+  },
+  "languages": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "tags": [
+    "Shabbat",
+    "ShabbatFood",
+    "NoBakeDesserts",
+    "OnegShabbat",
+    "ShabbatPreparation",
+    "KosherDesserts",
+    "Bishul",
+    "39Melachot",
+    "Menucha",
+    "ShabbatJoy",
+    "AsianJewishFusion",
+    "Mochi",
+    "Malabi",
+    "Tiramisu",
+    "ChocolateMousse",
+    "FruitCompote",
+    "Hospitality",
+    "HachmasatOrchim",
+    "安息日",
+    "犹太甜点",
+    "休息",
+    "שבת",
+    "אוכלשבת",
+    "קינוחיםללאאפייה"
+  ],
+  "cultural_parallels": [
+    "Chinese tangshui (糖水) sweet soups",
+    "Japanese mochi desserts",
+    "Chinese red bean soup (hongdou tang 红豆汤)",
+    "Thai mango sticky rice",
+    "Tofu-based desserts"
+  ],
+  "halachic_topics": [
+    "Bishul (cooking prohibition on Shabbat)",
+    "39 Melachot (prohibited work categories)",
+    "Oneg Shabbat (delighting in the Sabbath)",
+    "Blech and hot plates",
+    "Advance preparation for Shabbat",
+    "Menucha (rest)"
+  ],
+  "recipes_included": [
+    "Fruit Compote (Kompot)",
+    "Chocolate Mousse",
+    "Tiramisu (Kosher/Pareve Version)",
+    "No-Bake Cheesecake",
+    "Malabi (Rose Water Milk Pudding)",
+    "Mochi Dessert Cups",
+    "Tofu Panna Cotta",
+    "Sweet Red Bean Soup (Cold)",
+    "Matcha No-Bake Tart",
+    "Mango Sticky Rice (Modified)"
+  ],
+  "key_sources": [
+    "Shabbat 118b (Talmud)",
+    "Shulchan Aruch, Orach Chayim 242",
+    "Orthodox Union - Laws of Cooking on Shabbat",
+    "Chabad.org - 39 Categories of Sabbath Work"
+  ],
+  "target_audience": "Chinese/Asian learners of Judaism, beginners to Shabbat observance",
+  "difficulty_level": "Beginner to Intermediate",
+  "prerequisites": [
+    "Basic understanding of Shabbat",
+    "Awareness of cooking prohibition on Shabbat"
+  ],
+  "related_articles": [
+    305,
+    301,
+    302,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22
+  ],
+  "status": "complete",
+  "qa_approved": false,
+  "version": "1.0"
+}

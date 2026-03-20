@@ -1,0 +1,46 @@
+{
+  "id": 340,
+  "title": "What Makes Judaism Different from Christianity? A Respectful Comparison",
+  "title_zh": "犹太教与基督教有何不同?一个尊重的比较",
+  "title_he": "מה עושה את היהדות שונה מהנצרות? השוואה מכבדת",
+  "slug": "judaism-christianity-comparison",
+  "section": "jewish-philosophy-big-questions",
+  "description": "Key theological differences — God's unity, the messiah, original sin, salvation, and law — explained clearly without polemics.",
+  "word_count": {
+    "en": 5246,
+    "zh": 4821,
+    "he": 4892
+  },
+  "languages": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "tags": [
+    "JudaismVsChristianity",
+    "Monotheism",
+    "Messiah",
+    "OriginalSin",
+    "Torah",
+    "Covenant",
+    "Salvation",
+    "JewishPhilosophy",
+    "ComparativeReligion",
+    "Shema",
+    "Mitzvot",
+    "一神论",
+    "弥赛亚",
+    "妥拉",
+    "救赎",
+    "犹太哲学"
+  ],
+  "historical_period": {
+    "jewish": "Second Temple Period to Present",
+    "chinese_equivalent": "Han Dynasty (汉朝, 202 BCE-220 CE) to Present",
+    "approximate_dates": "~30 CE - Present"
+  },
+  "bibliography_count": 8,
+  "status": "complete",
+  "created": "2026-03-19T08:27:00Z",
+  "author": "Torah Light Editorial Team"
+}

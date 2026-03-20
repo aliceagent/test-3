@@ -16,7 +16,7 @@
   },
   "themes": [
     "Marriage",
-    "Character Assessment", 
+    "Character Assessment",
     "Divine Providence",
     "Family Values",
     "Hospitality",
@@ -35,14 +35,14 @@
   "biblical_figures": [
     {
       "name": "Abraham",
-      "hebrew": "אברהם", 
+      "hebrew": "אברהם",
       "chinese": "亚伯拉罕",
       "role": "Patriarch who sends servant to find wife for Isaac"
     },
     {
       "name": "Isaac",
       "hebrew": "יצחק",
-      "chinese": "以撒", 
+      "chinese": "以撒",
       "role": "Abraham's son, the intended groom"
     },
     {
@@ -66,16 +66,11 @@
   ],
   "key_lessons": [
     "Character matters more than convenience in marriage",
-    "Actions reveal true character better than words", 
+    "Actions reveal true character better than words",
     "Shared values are the foundation of lasting relationships",
     "Divine providence works through human effort",
     "Both parties must freely consent to marriage"
   ],
-  "tags": {
-    "en": ["ChayeiSarah", "IsaacAndRebecca", "MarriageWisdom", "CharacterAssessment", "Eliezer", "SpouseSelection", "JewishValues", "TorahWisdom", "WeeklyParsha", "Relationships", "Providence", "LifePartner"],
-    "zh": ["夏叶萨拉", "以撒和利百加", "婚姻智慧", "品格评估", "以利以谢", "配偶选择", "犹太价值观", "托拉智慧", "每周经文", "商朝", "仁", "关系", "天意", "人生伴侣"],
-    "he": ["חייששרה", "יצחקורבקה", "חכמתנישואין", "הערכתאופי", "אליעזר", "בחירתבןזוג", "ערכיםיהודיים", "חכמתתורה", "פרשתשבוע", "יחסים", "השגחה", "בןזוגלחיים"]
-  },
   "header_image": {
     "style": "Chinese ink wash / shan shui landscape",
     "description": "Ancient well with palm trees in foreground, figure with camels approaching while another draws water, rolling desert hills fading into misty background",
@@ -90,5 +85,19 @@
   "chinese_character_count": 3535,
   "status": "complete",
   "created": "2026-03-18",
-  "batch": "200"
+  "batch": "200",
+  "keywords": [
+    "ChayeiSarah",
+    "IsaacAndRebecca",
+    "MarriageWisdom",
+    "CharacterAssessment",
+    "Eliezer",
+    "SpouseSelection",
+    "JewishValues",
+    "TorahWisdom",
+    "WeeklyParsha",
+    "Relationships",
+    "Providence",
+    "LifePartner"
+  ]
 }

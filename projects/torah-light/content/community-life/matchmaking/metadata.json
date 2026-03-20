@@ -1,0 +1,299 @@
+{
+  "title": {
+    "en": "Shidduchim: The Jewish Path to Finding Your Life Partner",
+    "zh": "Shidduchim:犹太人寻找生活伴侣的道路",
+    "he": "שידוכים: הדרך היהודית למציאת בן או בת הזוג"
+  },
+  "description": {
+    "en": "A comprehensive guide to Jewish matchmaking and dating, covering the shidduch process from first meeting to engagement, with practical advice for singles worldwide.",
+    "zh": "关于犹太配对和约会的综合指南,涵盖从第一次见面到订婚的shidduch过程,为全球单身者提供实用建议。",
+    "he": "מדריך מקיף לשידוכים והיכרות יהודית, המכסה את תהליך השידוכים מהפגישה הראשונה ועד האירוסין, עם עצות מעשיות לרווקים ברחבי העולם."
+  },
+  "category": "community-life",
+  "subcategory": "matchmaking",
+  "keywords": {
+    "en": [
+      "shidduchim",
+      "matchmaking",
+      "shadchan",
+      "bashert",
+      "jewish dating",
+      "marriage",
+      "engagement",
+      "vort",
+      "singles",
+      "conversion",
+      "international dating",
+      "long distance",
+      "hashkafa",
+      "middot",
+      "character",
+      "values",
+      "modesty",
+      "tzniut"
+    ],
+    "zh": [
+      "shidduchim",
+      "配对",
+      "媒人",
+      "bashert",
+      "犹太约会",
+      "婚姻",
+      "订婚",
+      "单身",
+      "皈依",
+      "国际约会",
+      "远距离",
+      "品格",
+      "价值观",
+      "谦逊"
+    ],
+    "he": [
+      "שידוכים",
+      "שדכן",
+      "בשרט",
+      "היכרות",
+      "נישואין",
+      "אירוסין",
+      "ורט",
+      "רווקים",
+      "גיור",
+      "השקפת עולם",
+      "מידות",
+      "אופי",
+      "ערכים",
+      "צניעות"
+    ]
+  },
+  "targetAudience": {
+    "en": [
+      "Single Jewish adults seeking marriage",
+      "Parents supporting children in shidduchim",
+      "Converts to Judaism navigating dating",
+      "Jews in China and Asia seeking matches",
+      "Those new to Orthodox dating practices",
+      "Shadchanim and matchmakers",
+      "Community rabbis and educators"
+    ],
+    "zh": [
+      "寻求婚姻的单身犹太成年人",
+      "支持子女配对的父母",
+      "皈依犹太教并约会的人",
+      "在中国和亚洲寻找配对的犹太人",
+      "不熟悉正统约会方式的人",
+      "媒人",
+      "社区拉比和教育工作者"
+    ],
+    "he": [
+      "יהודים רווקים המחפשים נישואין",
+      "הורים התומכים בילדים בשידוכים",
+      "גרים המנווטים היכרות",
+      "יהודים בסין ובאסיה המחפשים שידוכים",
+      "מי שחדש לנוהגי היכרות אורתודוקסיים",
+      "שדכנים",
+      "רבנים ומחנכים קהילתיים"
+    ]
+  },
+  "topics": [
+    {
+      "name": {
+        "en": "What is a Shidduch",
+        "zh": "什么是Shidduch",
+        "he": "מהו שידוך"
+      },
+      "summary": {
+        "en": "Understanding the concept of bashert and traditional Jewish matchmaking",
+        "zh": "理解bashert的概念和传统犹太配对",
+        "he": "הבנת מושג הבשרט והשידוכים המסורתיים"
+      }
+    },
+    {
+      "name": {
+        "en": "Why Matchmaking",
+        "zh": "为什么配对",
+        "he": "למה שידוכים"
+      },
+      "summary": {
+        "en": "Purpose-driven dating versus casual dating culture",
+        "zh": "有目的的约会与随意约会文化",
+        "he": "היכרות למטרה מול תרבות דייטים מזדמנת"
+      }
+    },
+    {
+      "name": {
+        "en": "The Shadchan",
+        "zh": "媒人",
+        "he": "השדכן"
+      },
+      "summary": {
+        "en": "Role and responsibilities of the matchmaker",
+        "zh": "媒人的角色和责任",
+        "he": "תפקיד ואחריות השדכן"
+      }
+    },
+    {
+      "name": {
+        "en": "The Process",
+        "zh": "流程",
+        "he": "התהליך"
+      },
+      "summary": {
+        "en": "From suggestion to engagement: research, dating, and decision-making",
+        "zh": "从建议到订婚:调查、约会和决策",
+        "he": "מהצעה לאירוסין: בירור, היכרות וקבלת החלטה"
+      }
+    },
+    {
+      "name": {
+        "en": "What to Look For",
+        "zh": "寻找什么",
+        "he": "מה לחפש"
+      },
+      "summary": {
+        "en": "Character, values, hashkafa, and practical compatibility",
+        "zh": "品格、价值观、hashkafa和实际兼容性",
+        "he": "מידות, ערכים, השקפת עולם והתאמה מעשית"
+      }
+    },
+    {
+      "name": {
+        "en": "Dating Guidelines",
+        "zh": "约会指南",
+        "he": "הנחיות היכרות"
+      },
+      "summary": {
+        "en": "Modesty, boundaries, conversation topics, and knowing when to say yes or no",
+        "zh": "谦逊、界限、对话主题以及何时说是或否",
+        "he": "צניעות, גבולות, נושאי שיחה ומתי לומר כן או לא"
+      }
+    },
+    {
+      "name": {
+        "en": "Engagement and Wedding",
+        "zh": "订婚和婚礼",
+        "he": "אירוסין וחתונה"
+      },
+      "summary": {
+        "en": "The vort celebration and preparing for marriage",
+        "zh": "vort庆祝和婚姻准备",
+        "he": "חגיגת הורט והכנה לנישואין"
+      }
+    },
+    {
+      "name": {
+        "en": "Singles in China/Asia",
+        "zh": "中国/亚洲的单身者",
+        "he": "רווקים בסין/אסיה"
+      },
+      "summary": {
+        "en": "Resources, long-distance dating, and finding matches abroad",
+        "zh": "资源、远距离约会和在国外寻找配对",
+        "he": "משאבים, היכרות למרחקים ומציאת שידוכים בחו\"ל"
+      }
+    },
+    {
+      "name": {
+        "en": "Converting and Dating",
+        "zh": "皈依和约会",
+        "he": "גיור והיכרות"
+      },
+      "summary": {
+        "en": "Special considerations for converts seeking marriage",
+        "zh": "寻求婚姻的皈依者的特殊考虑",
+        "he": "שיקולים מיוחדים לגרים המחפשים נישואין"
+      }
+    },
+    {
+      "name": {
+        "en": "Hishtadlut and Bitachon",
+        "zh": "努力和信任",
+        "he": "השתדלות ובטחון"
+      },
+      "summary": {
+        "en": "Balancing human effort with trust in God's plan",
+        "zh": "平衡人类努力与对上帝计划的信任",
+        "he": "איזון בין מאמץ אנושי לאמון בתכנית ה'"
+      }
+    },
+    {
+      "name": {
+        "en": "Success Stories",
+        "zh": "成功故事",
+        "he": "סיפורי הצלחה"
+      },
+      "summary": {
+        "en": "Encouraging examples of successful shidduchim",
+        "zh": "成功配对的鼓舞人心的例子",
+        "he": "דוגמאות מעודדות של שידוכים מוצלחים"
+      }
+    }
+  ],
+  "tone": "warm, practical, encouraging, informative",
+  "readingTime": {
+    "en": "15-20 minutes",
+    "zh": "15-20分钟",
+    "he": "15-20 דקות"
+  },
+  "wordCount": {
+    "en": 3800,
+    "zh": 2800,
+    "he": 3200
+  },
+  "difficulty": "beginner to intermediate",
+  "relatedContent": [
+    "torah-family-life",
+    "conversion-guide",
+    "wedding-planning",
+    "jewish-life-cycle",
+    "community-resources"
+  ],
+  "resources": {
+    "shadchanOrganizations": [
+      "SawYouAtSinai",
+      "JWed",
+      "Chabad Matchmaking Network"
+    ],
+    "books": [
+      "The Art of the Date by Rosie Einhorn and Sherry Zimmerman",
+      "The Magic Touch by Gila Manolson",
+      "Outside/Inside by Gila Manolson"
+    ],
+    "websites": [
+      "https://www.chabad.org",
+      "https://www.aish.com/dating",
+      "https://www.torahanytime.com"
+    ]
+  },
+  "author": {
+    "name": "Torah Light Content Team",
+    "role": "Educational Content Creators",
+    "expertise": "Jewish Life, Community, and Matchmaking"
+  },
+  "dateCreated": "2026-03-20",
+  "lastUpdated": "2026-03-20",
+  "version": "1.0",
+  "language": {
+    "available": ["en", "zh", "he"],
+    "primary": "en"
+  },
+  "seo": {
+    "metaTitle": {
+      "en": "Shidduchim Guide: Jewish Matchmaking & Dating | Torah Light",
+      "zh": "Shidduchim指南:犹太配对与约会 | Torah Light",
+      "he": "מדריך שידוכים: היכרות יהודית | Torah Light"
+    },
+    "metaDescription": {
+      "en": "Complete guide to Jewish matchmaking (shidduchim) covering the dating process, finding a shadchan, what to look for in a spouse, and special guidance for singles worldwide.",
+      "zh": "犹太配对(shidduchim)完整指南,涵盖约会过程、寻找媒人、在配偶中寻找什么,以及为全球单身者提供的特别指导。",
+      "he": "מדריך מלא לשידוכים יהודיים המכסה את תהליך ההיכרות, מציאת שדכן, מה לחפש בבן/בת זוג, והדרכה מיוחדת לרווקים ברחבי העולם."
+    },
+    "canonicalUrl": "/community-life/matchmaking",
+    "ogImage": "/images/community/matchmaking-cover.jpg"
+  },
+  "accessibility": {
+    "readabilityScore": "moderate",
+    "plainLanguage": true,
+    "screenReaderFriendly": true,
+    "translations": ["zh", "he"]
+  }
+}

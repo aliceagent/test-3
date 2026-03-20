@@ -1,0 +1,119 @@
+{
+  "id": 352,
+  "title": "Ho Feng-Shan: The Chinese Diplomat Who Issued Visas to Jews",
+  "title_zh": "何凤山：向犹太人发放签证的中国外交官",
+  "title_he": "הו פנג-שאן: הדיפלומט הסיני שהנפיק אשרות ליהודים",
+  "section": "jews-in-asia-expanded",
+  "slug": "ho-feng-shan-chinese-diplomat",
+  "description": "The story of China's consul in Vienna who issued thousands of visas to Shanghai, enabling Jews to escape Nazi-occupied Austria.",
+  "author": "Torah Light Team",
+  "date_created": "2026-03-19",
+  "word_count": {
+    "en": 4821,
+    "zh": 1342,
+    "he": 3012
+  },
+  "languages": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "tags": [
+    "HoFengShan",
+    "何凤山",
+    "RighteousAmongNations",
+    "Holocaust",
+    "JewishRefugees",
+    "Shanghai",
+    "Vienna",
+    "Rescue",
+    "DiplomaticCourage",
+    "义",
+    "ChineseJewishRelations",
+    "WorldWarII",
+    "MoralCourage",
+    "YadVashem",
+    "JewsInAsia"
+  ],
+  "historical_period": {
+    "jewish": "World War II / Holocaust Period",
+    "dates": "1938-1940",
+    "chinese_equivalent": "Second Sino-Japanese War / 抗日战争时期 (1937-1945)"
+  },
+  "people_mentioned": [
+    {
+      "name": "Ho Feng-Shan",
+      "chinese": "何凤山",
+      "hebrew": "הו פנג-שאן",
+      "role": "Chinese Consul-General in Vienna (1938-1940)",
+      "significance": "Issued thousands of visas to Shanghai that enabled Austrian Jews to escape Nazi persecution"
+    },
+    {
+      "name": "Chen Jie",
+      "chinese": "陈介",
+      "hebrew": "צ'ן ג'יה",
+      "role": "Chinese Ambassador to Germany (based in Berlin)",
+      "significance": "Ho's superior who ordered him to stop issuing visas"
+    },
+    {
+      "name": "Eric Goldstaub",
+      "hebrew": "אריק גולדשטאוב",
+      "role": "Jewish refugee saved by Ho's visa",
+      "significance": "Later discovered Ho was still alive and helped bring his story to light"
+    },
+    {
+      "name": "Manli Ho",
+      "chinese": "何曼礼",
+      "hebrew": "מנלי הו",
+      "role": "Ho Feng-Shan's daughter",
+      "significance": "Received the Righteous Among the Nations award on behalf of her father"
+    }
+  ],
+  "places_mentioned": [
+    "Vienna, Austria",
+    "Shanghai, China",
+    "Hongkou District, Shanghai",
+    "Berlin, Germany",
+    "Yiyang, Hunan Province",
+    "Jerusalem, Israel",
+    "Yad Vashem",
+    "San Francisco, USA"
+  ],
+  "key_concepts": [
+    {
+      "english": "Righteous Among the Nations",
+      "hebrew": "חסיד אומות העולם",
+      "chinese": "国际义人",
+      "definition": "Highest honor Israel bestows on non-Jews who risked their lives to save Jews during the Holocaust"
+    },
+    {
+      "english": "Yi (Righteousness)",
+      "chinese": "义",
+      "hebrew": "יי",
+      "definition": "Confucian virtue representing the moral obligation to do what is right even when difficult or costly"
+    },
+    {
+      "english": "Anschluss",
+      "german": "Anschluss",
+      "chinese": "德奥合并",
+      "hebrew": "אנשלוס",
+      "definition": "Nazi Germany's annexation of Austria in March 1938"
+    }
+  ],
+  "bibliography_sources": 8,
+  "cultural_parallels": [
+    "Confucian concept of Yi (义) and Jewish concept of moral obligation",
+    "Chinese and Jewish responses to rescue and gratitude (Hakarat Hatov)",
+    "Shanghai as refuge during shared suffering of both peoples",
+    "Parallel with Japanese diplomat Sugihara Chiune"
+  ],
+  "related_articles": [
+    351,
+    349,
+    353
+  ],
+  "header_image_prompt": "A dramatic Chinese brushstroke landscape painting in traditional 山水 style depicting Vienna's skyline with the distinctive Stephansdom cathedral in the background, transitioning into a stylized representation of Shanghai's waterfront. In the foreground, a figure in 1930s-era diplomatic dress stands at a desk with stacks of visa documents, his posture conveying quiet determination. A shaft of light breaks through storm clouds above, illuminating the visa papers. The color palette features muted grays and blues for the troubled European scene, gradually warming to golden earth tones representing hope and Shanghai as sanctuary. Style: ink wash with subtle sepia accents, contemplative yet urgent mood, emphasizing the bridge between two worlds through one man's moral courage.",
+  "status": "complete",
+  "qa_status": "pending",
+  "notes": "Article includes detailed historical context, cultural parallels between Confucian and Jewish values, practical application for readers, and comprehensive bibliography with verified URLs. All three language versions completed with consistent content."
+}

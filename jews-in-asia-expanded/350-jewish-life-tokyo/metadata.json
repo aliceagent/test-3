@@ -1,0 +1,95 @@
+{
+  "id": 350,
+  "title": "Jewish Life in Tokyo: The Community You Didn't Know Existed",
+  "title_zh": "东京的犹太生活:你不知道的社区",
+  "title_he": "חיים יהודיים בטוקיו: הקהילה שלא ידעת שקיימת",
+  "section": "jews-in-asia-expanded",
+  "slug": "350-jewish-life-tokyo",
+  "description": "The history and current state of the Jewish community in Tokyo — the Chabad house, kosher restaurants, and the community center in Hiroo.",
+  "author": "Torah Light Content Team",
+  "created_date": "2026-03-19",
+  "word_count": {
+    "en": 2184,
+    "zh": 1430,
+    "he": 1956
+  },
+  "languages": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "tags": [
+    "JewsInAsia",
+    "Tokyo",
+    "JewishCommunity",
+    "Japan",
+    "Diaspora",
+    "KosherFood",
+    "Chabad",
+    "Synagogue",
+    "JewishTravel",
+    "AsianJewry",
+    "広尾",
+    "ユダヤ教",
+    "东京",
+    "ChiuneSugihara",
+    "CulturalSynthesis",
+    "JapaneseJewishRelations",
+    "亚洲犹太人",
+    "犹太社区",
+    "日本",
+    "侨民",
+    "洁食",
+    "哈巴德",
+    "会堂",
+    "犹太旅行",
+    "יהודיםבאסיה",
+    "קהילהיהודית",
+    "יפן",
+    "תפוצות",
+    "אוכלכשר",
+    "ביתכנסת",
+    "מסעותיהודיים"
+  ],
+  "related_articles": [
+    349,
+    351,
+    352
+  ],
+  "key_locations": [
+    "Tokyo",
+    "Hiroo",
+    "Japan",
+    "Jewish Community Center of Japan (JCCJ)",
+    "Chabad of Japan"
+  ],
+  "key_people": [
+    "Rabbi Binyomin Edery",
+    "Chiune Sugihara",
+    "David Levi"
+  ],
+  "historical_periods": [
+    {
+      "jewish_period": "Modern Era",
+      "dates": "1861-present",
+      "chinese_equivalent": "Late Qing Dynasty to Present (晚清至今)"
+    },
+    {
+      "jewish_period": "World War II Era",
+      "dates": "1939-1945",
+      "chinese_equivalent": "Second Sino-Japanese War / WWII Era (抗日战争时期)"
+    }
+  ],
+  "educational_topics": [
+    "Jewish communities in Asia",
+    "Diaspora Jewish life",
+    "Kosher food infrastructure",
+    "Jewish-Japanese cultural parallels",
+    "Modern Jewish community building",
+    "Chabad outreach",
+    "Jewish travel and tourism"
+  ],
+  "status": "complete",
+  "qa_status": "pending",
+  "version": "1.0"
+}

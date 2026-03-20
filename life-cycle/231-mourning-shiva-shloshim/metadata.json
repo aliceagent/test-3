@@ -1,0 +1,100 @@
+{
+  "id": 231,
+  "title": "Jewish Mourning Customs: From Shiva to Shloshim",
+  "title_zh": "犹太哀悼习俗:从守丧七日到守丧三十日",
+  "title_he": "מנהגי אבלות יהודיים: משבעה ועד שלושים",
+  "section": "life-cycle",
+  "slug": "mourning-shiva-shloshim",
+  "summary": "An exploration of Jewish mourning practices from the seven-day shiva period through the thirty-day shloshim, revealing the psychological wisdom and spiritual depth of these ancient traditions.",
+  "summary_zh": "探讨犹太人从守丧七日到守丧三十日的哀悼习俗,揭示这些古老传统中的心理智慧和精神深度。",
+  "summary_he": "חקירה של מנהגי אבלות יהודיים מתקופת שבעת הימים דרך תקופת השלושים יום, המגלה את החכמה הפסיכולוגית והעומק הרוחני של מסורות עתיקות אלה.",
+  "topics": [
+    "mourning",
+    "shiva",
+    "shloshim",
+    "life cycle",
+    "Jewish law",
+    "grief",
+    "community support",
+    "burial customs",
+    "Kaddish"
+  ],
+  "keywords": [
+    "shiva",
+    "shloshim",
+    "avelut",
+    "Jewish mourning",
+    "seven days",
+    "thirty days",
+    "grief",
+    "Kaddish",
+    "minyan",
+    "nichum aveilim",
+    "se'udat havra'ah",
+    "keriah",
+    "shabbat",
+    "community"
+  ],
+  "difficulty": "beginner",
+  "wordCount": {
+    "en": 1450,
+    "zh": 1260,
+    "he": 1380
+  },
+  "readingTime": {
+    "en": 7,
+    "zh": 5,
+    "he": 7
+  },
+  "sources": [
+    {
+      "type": "book",
+      "author": "Lamm, Maurice",
+      "title": "The Jewish Way in Death and Mourning",
+      "publisher": "Jonathan David Publishers",
+      "location": "Middle Village, NY",
+      "year": 2000
+    },
+    {
+      "type": "book",
+      "author": "Goldberg, Chaim Binyamin",
+      "title": "Mourning in Halachah",
+      "publisher": "Mesorah Publications",
+      "location": "Brooklyn",
+      "year": 1991
+    },
+    {
+      "type": "primary",
+      "title": "Talmud Bavli, Tractate Moed Katan",
+      "section": "Chapters 3 (laws of mourning)"
+    },
+    {
+      "type": "primary",
+      "title": "Shulchan Aruch, Yoreh De'ah",
+      "section": "sections 375-403 (laws of mourning)"
+    },
+    {
+      "type": "book",
+      "author": "Kolatch, Alfred J.",
+      "title": "The Jewish Mourner's Book of Why",
+      "publisher": "Jonathan David Publishers",
+      "location": "Middle Village, NY",
+      "year": 1993
+    }
+  ],
+  "culturalParallels": [
+    "Chinese traditional mourning periods",
+    "Filial piety practices",
+    "Community support systems",
+    "Mourning clothing customs",
+    "Staged grief processing"
+  ],
+  "relatedArticles": [
+    276,
+    "burial-customs",
+    "kaddish-prayer",
+    "jewish-lifecycle"
+  ],
+  "dateCreated": "2026-03-19",
+  "version": "1.0"
+}

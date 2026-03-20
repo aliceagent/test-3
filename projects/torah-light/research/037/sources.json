@@ -1,0 +1,43 @@
+{
+  "article_id": 37,
+  "title": "Birkat HaMazon: The Complete Grace After Meals Explained",
+  "section": "Blessings",
+  "research_date": "2026-03-17",
+  "sources": [
+    {
+      "title": "Grace After Meals - Chabad.org",
+      "url": "https://www.chabad.org/library/article_cdo/aid/865866/jewish/Grace-After-Meals.htm",
+      "type": "chabad",
+      "status": "verified",
+      "description": "Full Hebrew and English text of Birkat HaMazon with explanations"
+    },
+    {
+      "title": "What is Birkat Hamazon, or Benching? - My Jewish Learning",
+      "url": "https://www.myjewishlearning.com/article/birkat-hamazon/",
+      "type": "educational",
+      "status": "verified",
+      "description": "Comprehensive explanation of the four blessings, zimmun, and history"
+    },
+    {
+      "title": "Birkat Hamazon - Sefaria Library",
+      "url": "https://www.sefaria.org/Birkat_Hamazon",
+      "type": "sefaria",
+      "status": "verified",
+      "description": "Primary text with Hebrew and English translation"
+    },
+    {
+      "title": "Birkat Hamazon - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Birkat_Hamazon",
+      "type": "reference",
+      "status": "verified",
+      "description": "General reference information and structure"
+    },
+    {
+      "title": "Weekday Birkat Hamazon - Sefaria Sheet",
+      "url": "https://www.sefaria.org/sheets/313697",
+      "type": "sefaria",
+      "status": "verified",
+      "description": "Weekday version with explanations"
+    }
+  ]
+}

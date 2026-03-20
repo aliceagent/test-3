@@ -1,0 +1,110 @@
+{
+  "article_id": 26,
+  "article_title": "Understanding Kosher Certification Symbols",
+  "section": "Kosher Food",
+  "research_date": "2026-03-17",
+  "sources": [
+    {
+      "title": "What Is Kosher?",
+      "source": "Chabad.org",
+      "url": "https://www.chabad.org/library/article_cdo/aid/113425/jewish/Kosher-Symbols.htm",
+      "description": "Comprehensive overview of kosher laws and certification requirements",
+      "status": "verified",
+      "fetched": true
+    },
+    {
+      "title": "Kosher Symbols",
+      "source": "Aish.com",
+      "url": "https://aish.com/kosher-symbols/",
+      "description": "Guide to reliable kosher certification symbols and warning about plain 'K' labels",
+      "status": "verified",
+      "fetched": true
+    },
+    {
+      "title": "The Kosher Symbols Clarified",
+      "source": "OK Kosher Certification",
+      "url": "https://www.ok.org/consumers/kosher-basics/the-kosher-symbols-clarified/",
+      "description": "Detailed explanation of OK symbol restrictions and kosher categories",
+      "status": "verified",
+      "fetched": true
+    },
+    {
+      "title": "Orthodox Union Kosher",
+      "source": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Orthodox_Union_Kosher",
+      "description": "History of the OU kosher certification, the world's largest",
+      "status": "verified",
+      "fetched": false
+    },
+    {
+      "title": "About the OU",
+      "source": "OU Kosher",
+      "url": "https://oukosher.org/about-the-ou/",
+      "description": "OU certifies 1.3 million products in 15,000 plants across 105 countries",
+      "status": "verified",
+      "fetched": false
+    },
+    {
+      "title": "Star-K",
+      "source": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Star-K",
+      "description": "Information about Star-K certification and Star-S for Passover kitniyot",
+      "status": "verified",
+      "fetched": false
+    },
+    {
+      "title": "Kosher Symbols",
+      "source": "KosherQuest.org",
+      "url": "https://kosherquest.org/kosher-symbols/",
+      "description": "Database of kosher symbols approved by Rabbi Eidlitz",
+      "status": "verified",
+      "fetched": false
+    }
+  ],
+  "key_certification_agencies": [
+    {
+      "name": "Orthodox Union (OU)",
+      "symbol": "Ⓤ (U in circle)",
+      "founded": "1923",
+      "headquarters": "United States",
+      "size": "World's largest - 1.3M+ products, 15,000 plants, 105 countries",
+      "first_product": "Heinz Vegetarian Baked Beans"
+    },
+    {
+      "name": "OK Kosher Certification",
+      "symbol": "Ⓚ (K in circle)",
+      "headquarters": "United States",
+      "notes": "Clear symbol restriction system (D, DE, M, P, PY, F, CY)"
+    },
+    {
+      "name": "Star-K",
+      "symbol": "Star-K",
+      "headquarters": "Baltimore, Maryland",
+      "notes": "Known for stricter standards (e.g., Cholov Yisroel milk requirements)"
+    },
+    {
+      "name": "Kof-K",
+      "symbol": "Kof-K",
+      "headquarters": "United States",
+      "notes": "One of the 'Big Four' US certification agencies"
+    },
+    {
+      "name": "cRc (Chicago Rabbinical Council)",
+      "symbol": "cRc",
+      "headquarters": "Chicago, Illinois",
+      "notes": "Serves Midwest region of United States"
+    }
+  ],
+  "chinese_parallels": [
+    {
+      "concept": "Food certification and safety standards",
+      "parallel": "Similar to China's food safety certification system (食品安全认证), kosher symbols provide consumer confidence",
+      "dynasty_context": "Ancient Chinese dynasties had imperial food inspectors - kosher supervision is a 3,000+ year tradition"
+    },
+    {
+      "concept": "Third-party verification",
+      "parallel": "Like China's CCC (China Compulsory Certificate) mark, kosher symbols show independent verification",
+      "notes": "Both systems prevent fraud and protect consumers"
+    }
+  ]
+}

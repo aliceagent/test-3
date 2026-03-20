@@ -1,0 +1,33 @@
+{
+  "id": 42,
+  "title": {
+    "en": "Yom Kippur: The Holiest Day of the Year",
+    "zh": "赎罪日：一年中最神圣的日子",
+    "he": "יום כיפור: היום הקדוש ביותר בשנה"
+  },
+  "section": "Holidays",
+  "description": "A complete guide to the Day of Atonement — the five prohibitions, Kol Nidrei, vidui (confession), and the Ne'ilah closing prayer.",
+  "word_count": {
+    "en": 2890,
+    "zh": 1650,
+    "he": 2200
+  },
+  "status": "draft",
+  "created_date": "2026-03-17",
+  "author": "Torah Light Editorial Team",
+  "target_audience": "Chinese native Mandarin speakers with no prior Jewish knowledge",
+  "key_themes": [
+    "repentance",
+    "atonement", 
+    "fasting",
+    "prayer",
+    "forgiveness",
+    "spiritual purification"
+  ],
+  "chinese_historical_context": "Shang Dynasty (商朝, c. 1600-1046 BCE)",
+  "cultural_parallels": [
+    "Confucian self-reflection (fanxing)",
+    "Sincere intention (chengyi)",
+    "Harmony before advancement"
+  ]
+}

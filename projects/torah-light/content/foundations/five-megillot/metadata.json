@@ -1,0 +1,274 @@
+{
+  "title": {
+    "en": "The Five Megillot: Sacred Scrolls of the Jewish Calendar",
+    "zh": "五卷书:犹太历法中的神圣卷轴",
+    "he": "חמש מגילות: מגילות קודש בלוח השנה היהודי"
+  },
+  "slug": "five-megillot",
+  "category": "foundations",
+  "topics": [
+    "five-megillot",
+    "shir-hashirim",
+    "ruth",
+    "eicha",
+    "kohelet",
+    "esther",
+    "jewish-holidays",
+    "biblical-scrolls"
+  ],
+  "keywords": {
+    "en": [
+      "Five Megillot",
+      "Song of Songs",
+      "Book of Ruth",
+      "Lamentations",
+      "Ecclesiastes",
+      "Book of Esther",
+      "Passover",
+      "Shavuot",
+      "Tisha B'Av",
+      "Sukkot",
+      "Purim",
+      "Jewish holidays",
+      "Biblical scrolls",
+      "Ketuvim",
+      "Hebrew Bible"
+    ],
+    "zh": [
+      "五卷书",
+      "雅歌",
+      "路得记",
+      "哀歌",
+      "传道书",
+      "以斯帖记",
+      "逾越节",
+      "七七节",
+      "圣殿被毁日",
+      "住棚节",
+      "普珥节",
+      "犹太节日",
+      "圣经卷轴",
+      "圣录",
+      "希伯来圣经"
+    ],
+    "he": [
+      "חמש מגילות",
+      "שיר השירים",
+      "מגילת רות",
+      "איכה",
+      "קהלת",
+      "מגילת אסתר",
+      "פסח",
+      "שבועות",
+      "תשעה באב",
+      "סוכות",
+      "פורים",
+      "חגים יהודיים",
+      "מגילות קודש",
+      "כתובים",
+      "תנך"
+    ]
+  },
+  "description": {
+    "en": "Comprehensive guide to the Five Megillot (sacred scrolls) read during Jewish holidays: Song of Songs, Ruth, Lamentations, Ecclesiastes, and Esther. Explore their themes, authorship, connection to holidays, and spiritual significance.",
+    "zh": "犹太节日期间诵读的五卷书(神圣卷轴)综合指南:雅歌、路得记、哀歌、传道书和以斯帖记。探索它们的主题、作者、与节日的联系以及精神意义。",
+    "he": "מדריך מקיף לחמש המגילות הנקראות בחגים היהודיים: שיר השירים, רות, איכה, קהלת ואסתר. חקור את נושאיהן, מחברותן, הקשר לחגים והמשמעות הרוחנית."
+  },
+  "author": "Torah Light Team",
+  "publishDate": "2026-03-20",
+  "lastModified": "2026-03-20",
+  "readingTime": {
+    "en": "25-30 minutes",
+    "zh": "20-25分钟",
+    "he": "25-30 דקות"
+  },
+  "relatedArticles": [
+    "jewish-holidays",
+    "passover",
+    "shavuot",
+    "sukkot",
+    "purim",
+    "tisha-bav",
+    "biblical-poetry",
+    "king-solomon"
+  ],
+  "hebrewVerses": [
+    {
+      "book": "Song of Songs",
+      "reference": "8:6",
+      "hebrew": "שִׂימֵנִי כַחוֹתָם עַל־לִבֶּךָ כַּחוֹתָם עַל־זְרוֹעֶךָ כִּי־עַזָּה כַמָּוֶת אַהֲבָה",
+      "transliteration": "Simeini kachotam al-libecha kachotam al-zro'echa ki-azah kamavet ahavah",
+      "translation": "Set me as a seal upon your heart, as a seal upon your arm; for love is strong as death"
+    },
+    {
+      "book": "Ruth",
+      "reference": "1:16",
+      "hebrew": "כִּי אֶל־אֲשֶׁר תֵּלְכִי אֵלֵךְ וּבַאֲשֶׁר תָּלִינִי אָלִין עַמֵּךְ עַמִּי וֵאלֹהַיִךְ אֱלֹהָי",
+      "transliteration": "Ki el-asher telchi elech uva'asher talini alin amech ami vElohayich Elohai",
+      "translation": "Where you go, I will go; where you lodge, I will lodge; your people shall be my people, and your God my God"
+    },
+    {
+      "book": "Lamentations",
+      "reference": "3:22-23",
+      "hebrew": "חַסְדֵי יְהוָה כִּי לֹא־תָמְנוּ כִּי לֹא־כָלוּ רַחֲמָיו חֲדָשִׁים לַבְּקָרִים רַבָּה אֱמוּנָתֶךָ",
+      "transliteration": "Chasdei Adonai ki lo-tamnu ki lo-chalu rachamav chadashim labekarim rabah emunatecha",
+      "translation": "The steadfast love of the LORD never ceases; His mercies never come to an end; they are new every morning; great is Your faithfulness"
+    },
+    {
+      "book": "Ecclesiastes",
+      "reference": "1:2",
+      "hebrew": "הֲבֵל הֲבָלִים אָמַר קֹהֶלֶת הֲבֵל הֲבָלִים הַכֹּל הָבֶל",
+      "transliteration": "Havel havalim amar Kohelet havel havalim hakol havel",
+      "translation": "Vanity of vanities, says Kohelet, vanity of vanities; all is vanity"
+    },
+    {
+      "book": "Esther",
+      "reference": "4:14",
+      "hebrew": "וּמִי יוֹדֵעַ אִם־לְעֵת כָּזֹאת הִגַּעַתְּ לַמַּלְכוּת",
+      "transliteration": "Umi yodea im-l'et kazot higat lamalchut",
+      "translation": "And who knows whether you have not attained royalty for such a time as this?"
+    }
+  ],
+  "megillot": [
+    {
+      "name": {
+        "en": "Song of Songs",
+        "zh": "雅歌",
+        "he": "שיר השירים"
+      },
+      "holiday": {
+        "en": "Passover (Pesach)",
+        "zh": "逾越节",
+        "he": "פסח"
+      },
+      "author": {
+        "en": "King Solomon",
+        "zh": "所罗门王",
+        "he": "שלמה המלך"
+      },
+      "themes": [
+        "divine love",
+        "redemption",
+        "covenant relationship",
+        "spiritual devotion"
+      ],
+      "readingTime": "Spring"
+    },
+    {
+      "name": {
+        "en": "Ruth",
+        "zh": "路得记",
+        "he": "רות"
+      },
+      "holiday": {
+        "en": "Shavuot",
+        "zh": "七七节",
+        "he": "שבועות"
+      },
+      "author": {
+        "en": "Samuel (traditional)",
+        "zh": "撒母耳(传统)",
+        "he": "שמואל (מסורתי)"
+      },
+      "themes": [
+        "conversion",
+        "loyalty",
+        "chesed (loving-kindness)",
+        "divine providence",
+        "Davidic lineage"
+      ],
+      "readingTime": "Late Spring/Early Summer"
+    },
+    {
+      "name": {
+        "en": "Lamentations",
+        "zh": "哀歌",
+        "he": "איכה"
+      },
+      "holiday": {
+        "en": "Tisha B'Av",
+        "zh": "圣殿被毁日",
+        "he": "תשעה באב"
+      },
+      "author": {
+        "en": "Jeremiah the Prophet",
+        "zh": "先知耶利米",
+        "he": "ירמיהו הנביא"
+      },
+      "themes": [
+        "mourning",
+        "Temple destruction",
+        "national tragedy",
+        "hope in despair",
+        "divine justice"
+      ],
+      "readingTime": "Summer"
+    },
+    {
+      "name": {
+        "en": "Ecclesiastes",
+        "zh": "传道书",
+        "he": "קהלת"
+      },
+      "holiday": {
+        "en": "Sukkot",
+        "zh": "住棚节",
+        "he": "סוכות"
+      },
+      "author": {
+        "en": "King Solomon (in old age)",
+        "zh": "所罗门王(晚年)",
+        "he": "שלמה המלך (בזקנתו)"
+      },
+      "themes": [
+        "life's meaning",
+        "impermanence",
+        "wisdom",
+        "fear of God",
+        "vanity of earthly pursuits"
+      ],
+      "readingTime": "Autumn"
+    },
+    {
+      "name": {
+        "en": "Esther",
+        "zh": "以斯帖记",
+        "he": "אסתר"
+      },
+      "holiday": {
+        "en": "Purim",
+        "zh": "普珥节",
+        "he": "פורים"
+      },
+      "author": {
+        "en": "Mordechai and Men of the Great Assembly (traditional)",
+        "zh": "末底改和大会堂成员(传统)",
+        "he": "מרדכי ואנשי כנסת הגדולה (מסורתי)"
+      },
+      "themes": [
+        "hidden miracles",
+        "courage",
+        "Jewish unity",
+        "reversal of fortune",
+        "divine providence"
+      ],
+      "readingTime": "Late Winter"
+    }
+  ],
+  "educationalLevel": "intermediate-advanced",
+  "targetAudience": [
+    "Jewish students",
+    "Torah learners",
+    "Holiday celebrants",
+    "Interfaith learners",
+    "Biblical scholars"
+  ],
+  "contentType": "comprehensive-article",
+  "languages": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "version": "1.0",
+  "license": "CC-BY-SA-4.0"
+}

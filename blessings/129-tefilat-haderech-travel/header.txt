@@ -1,0 +1,11 @@
+[HEADER IMAGE PLACEHOLDER]
+
+Style: Traditional Chinese 山水 (Shanshui) painting style
+Elements: Mountains, water, mist, traditional Chinese landscape
+Theme: Journey and travel, peaceful passage through nature
+Colors: Traditional ink wash tones - grays, blues, subtle greens
+Mood: Serene, contemplative, suggesting safe passage
+
+DALL-E Prompt: "Traditional Chinese shanshui mountain-water landscape painting in ink wash style, featuring misty mountains, flowing water, and a sense of peaceful journey. Soft grays and blues with traditional Chinese artistic techniques. Evokes safe travel and spiritual passage through nature's beauty."
+
+Note: This header should be generated using DALL-E or similar AI image generation tool with the above specifications.

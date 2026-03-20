@@ -1,0 +1,98 @@
+{
+  "id": 3,
+  "title": {
+    "en": "The Binding of Isaac: Faith, Sacrifice, and the Test of Abraham",
+    "zh": "以撒的捆绑:信仰、牺牲与亚伯拉罕的考验",
+    "he": "עקדת יצחק: אמונה, הקרבה ומבחן אברהם"
+  },
+  "slug": "binding-of-isaac",
+  "section": "torah-study",
+  "batch": "100",
+  "author": "Torah Light Editorial Team",
+  "dateCreated": "2026-03-18",
+  "language": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "primarySources": [
+    "Genesis 22:1-19",
+    "Rashi on Genesis 22",
+    "Ramban (Nachmanides) on Genesis 22",
+    "Talmud Bavli, Sanhedrin 89b"
+  ],
+  "hebrewReferences": [
+    "בראשית כב:א-יט",
+    "רש״י על בראשית כב",
+    "רמב״ן על בראשית כב",
+    "תלמוד בבלי, סנהדרין פט ע״ב"
+  ],
+  "culturalParallels": [
+    "Confucian filial piety and obedience",
+    "Chinese loyalty to Heaven's mandate",
+    "Tests of faith in Chinese classical literature",
+    "Parent-child relationship dynamics"
+  ],
+  "wordCount": {
+    "en": 1900,
+    "zh": 1500,
+    "he": 1700
+  },
+  "readingTime": {
+    "en": "8-10 minutes",
+    "zh": "6-8 minutes",
+    "he": "7-9 minutes"
+  },
+  "targetAudience": "General Jewish learners; Chinese readers exploring Torah narratives",
+  "difficulty": "Beginner to Intermediate",
+  "relatedArticles": [
+    1,
+    2,
+    4,
+    5
+  ],
+  "bibliography": [
+    {
+      "type": "primary",
+      "title": "Genesis 22:1-19 (Akedah)",
+      "url": "https://www.sefaria.org/Genesis.22.1-19",
+      "verified": false
+    },
+    {
+      "type": "commentary",
+      "title": "Rashi on Genesis 22",
+      "url": "https://www.sefaria.org/Rashi_on_Genesis.22",
+      "verified": false
+    },
+    {
+      "type": "commentary",
+      "title": "Ramban on Genesis 22",
+      "url": "https://www.sefaria.org/Ramban_on_Genesis.22",
+      "verified": false
+    },
+    {
+      "type": "primary",
+      "title": "Talmud Bavli, Sanhedrin 89b",
+      "url": "https://www.sefaria.org/Sanhedrin.89b",
+      "verified": false
+    }
+  ],
+  "keywords": [
+    "Binding of Isaac",
+    "Akedah",
+    "Abraham",
+    "Isaac",
+    "faith",
+    "sacrifice",
+    "test",
+    "Genesis",
+    "Torah narrative",
+    "Jewish theology",
+    "Mount Moriah"
+  ],
+  "summary": {
+    "en": "An in-depth exploration of the Akedah (Binding of Isaac), one of the most profound and challenging narratives in the Torah. Examines Abraham's test of faith, the theological and ethical questions it raises, traditional Jewish commentaries, and parallels to Chinese concepts of loyalty and filial piety.",
+    "zh": "深入探讨阿克达(以撒的捆绑),这是妥拉中最深刻和最具挑战性的叙事之一。审视亚伯拉罕的信仰考验、它引发的神学和伦理问题、传统犹太评论,以及与中国忠诚和孝顺概念的相似之处。",
+    "he": "חקירה מעמיקה של העקדה (עקדת יצחק), אחד הסיפורים המעמיקים והמאתגרים ביותר בתורה. בוחן את מבחן האמונה של אברהם, השאלות התיאולוגיות והאתיות שהוא מעלה, פירושים יהודיים מסורתיים והקבלות למושגים סיניים של נאמנות ואדיקות משפחתית."
+  }
+}

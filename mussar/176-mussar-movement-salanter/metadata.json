@@ -1,0 +1,102 @@
+{
+  "id": 176,
+  "title": "The Mussar Movement: Rabbi Yisrael Salanter's Revolution",
+  "title_zh": "穆萨尔运动:拉比伊斯雷尔·萨兰特的革命",
+  "title_he": "תנועת המוסר: המהפכה של רבי ישראל סלנטר",
+  "section": "mussar",
+  "slug": "mussar-movement-salanter",
+  "batch": "200",
+  "author": "Torah Light Editorial Team",
+  "created": "2026-03-18",
+  "keywords": [
+    "Lithuanian Judaism",
+    "self-cultivation",
+    "Confucian parallels",
+    "cheshbon hanefesh",
+    "character traits",
+    "self-examination",
+    "mussar",
+    "Lithuanian yeshivas",
+    "修身",
+    "middot",
+    "character development",
+    "Orthodox Judaism",
+    "ethical self-improvement",
+    "Mussar Movement",
+    "ethical development",
+    "xiushen",
+    "Jewish ethics",
+    "Rabbi Yisrael Salanter",
+    "Jewish spiritual practice"
+  ],
+  "summary": "The story of Rabbi Yisrael Salanter's revolutionary approach to ethical self-improvement in 19th-century Lithuania, exploring the systematic methods of the Mussar Movement and drawing parallels to Confucian self-cultivation traditions.",
+  "word_count": {
+    "en": 1462,
+    "zh": 912,
+    "he": 1371
+  },
+  "cultural_parallels": [
+    "Confucian self-cultivation (修身, xiushen)",
+    "Chinese practice of self-reflection (内省, neixin)",
+    "Comparison between 君子 (junzi) ideal and Jewish ethical development"
+  ],
+  "difficulty_level": "intermediate",
+  "target_audience": "Chinese Mandarin speakers interested in Jewish ethics and character development, those exploring comparative philosophy",
+  "sources": [
+    {
+      "type": "traditional",
+      "title": "Orchot Tzaddikim (Ways of the Righteous)",
+      "author": "Anonymous",
+      "period": "Medieval"
+    },
+    {
+      "type": "traditional",
+      "title": "Mesillat Yesharim (Path of the Just)",
+      "author": "Rabbi Moshe Chaim Luzzatto",
+      "period": "18th century"
+    },
+    {
+      "type": "traditional",
+      "title": "Chovot HaLevavot (Duties of the Heart)",
+      "author": "Rabbeinu Bachya ibn Paquda",
+      "period": "11th century"
+    },
+    {
+      "type": "modern",
+      "title": "Everyday Holiness",
+      "author": "Alan Morinis",
+      "year": 2007
+    },
+    {
+      "type": "biographical",
+      "title": "Rabbi Yisrael Salanter: Religious-Ethical Thinker",
+      "author": "Dov Katz",
+      "note": "Standard biography"
+    }
+  ],
+  "learning_outcomes": [
+    "Understanding the origins and goals of the Mussar Movement",
+    "Learning Rabbi Yisrael Salanter's systematic approach to character development",
+    "Recognizing parallels between Jewish and Confucian ethical traditions",
+    "Practical methods for implementing mussar practice in daily life",
+    "Historical context of 19th-century Lithuanian Jewish life"
+  ],
+  "related_articles": [
+    169,
+    170,
+    171,
+    172,
+    173,
+    174,
+    175,
+    177,
+    178
+  ],
+  "discussion_questions": [
+    "How does the Mussar Movement's approach to character development compare to modern self-help methods?",
+    "What are the similarities and differences between Jewish mussar and Confucian self-cultivation?",
+    "Why did Rabbi Salanter believe that systematic ethical study was necessary even for Torah scholars?",
+    "How can the practice of cheshbon hanefesh (self-examination) be integrated into modern life?",
+    "What makes the 'one trait at a time' approach effective for character development?"
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "id": 217,
+  "title": "Reading Kosher Symbols: OU, OK, Star-K and What They Mean",
+  "title_zh": "认识犹太洁食认证标志：OU、OK、Star-K 及其含义",
+  "title_he": "קריאת סימני כשרות: OU, OK, Star-K ומה הם אומרים",
+  "section": "kosher-food",
+  "slug": "kosher-symbols-guide",
+  "description": "A comprehensive guide to understanding kosher certification symbols including OU, OK, Star-K, and other major hechsherim, with explanations of letter codes (D, P, M), supervision processes, and practical guidance for reading food labels.",
+  "description_zh": "全面指南，帮助理解洁食认证符号，包括 OU、OK、Star-K 和其他主要 hechsherim，解释字母代码（D、P、M）、监督流程以及阅读食品标签的实用指导。",
+  "description_he": "מדריך מקיף להבנת סימני הכשר כולל OU, OK, Star-K והכשרים מרכזיים אחרים, עם הסברים על קודי אותיות (D, P, M), תהליכי פיקוח והדרכה מעשית לקריאת תוויות מזון.",
+  "keywords": [
+    "kosher symbols",
+    "OU",
+    "OK Kosher",
+    "Star-K",
+    "hechsher",
+    "kosher certification",
+    "kashrut",
+    "dairy kosher",
+    "pareve",
+    "meat kosher",
+    "food labels",
+    "mashgiach",
+    "Passover kosher",
+    "Cholov Yisroel"
+  ],
+  "keywords_zh": [
+    "洁食符号",
+    "OU",
+    "OK Kosher",
+    "Star-K",
+    "hechsher",
+    "洁食认证",
+    "kashrut",
+    "乳制品洁食",
+    "pareve",
+    "肉类洁食",
+    "食品标签",
+    "mashgiach",
+    "逾越节洁食",
+    "Cholov Yisroel"
+  ],
+  "keywords_he": [
+    "סימני כשרות",
+    "OU",
+    "OK Kosher",
+    "Star-K",
+    "הכשר",
+    "הכשרת כשרות",
+    "כשרות",
+    "חלבי",
+    "פרווה",
+    "בשרי",
+    "תוויות מזון",
+    "משגיח",
+    "כשר לפסח",
+    "חלב ישראל"
+  ],
+  "target_audience": "Beginners to kosher observance, converts, and anyone learning to navigate kosher food shopping",
+  "target_audience_zh": "洁食遵守的初学者、皈依者以及任何学习浏览洁食购物的人",
+  "target_audience_he": "מתחילים בשמירת כשרות, גרים, וכל מי שלומד לנווט בקניית מזון כשר",
+  "difficulty": "beginner",
+  "estimated_reading_time_minutes": 12,
+  "word_count_en": 2950,
+  "char_count_zh": 5267,
+  "word_count_he": 2475,
+  "author": "Torah Light Editorial Team",
+  "date_created": "2026-03-19",
+  "last_updated": "2026-03-19",
+  "version": "1.0",
+  "related_articles": [
+    215,
+    216,
+    218,
+    219,
+    220
+  ],
+  "cultural_parallels": [
+    "Comparison to Chinese traditional food preparation standards and trust in local craftsmen",
+    "Parallels to traditional Chinese medicine ingredient sourcing and preparation standards",
+    "Reference to 食不厌精 (food preparation refinement) and 时令而食 (eating seasonally)"
+  ],
+  "topics_covered": [
+    "Major kosher certification agencies (OU, OK, Star-K, Kof-K, CRC)",
+    "Understanding letter codes (D for dairy, P for pareve, M for meat, Fish)",
+    "Passover certification symbols",
+    "How kosher supervision works (mashgiach, ingredient approval, equipment koshering)",
+    "Practical label reading guidance",
+    "Special considerations (Cholov Yisroel, Yoshon, Bishul Yisroel, Pat Yisroel)",
+    "When to consult rabbinic authority"
+  ],
+  "sources": [
+    {
+      "type": "organization",
+      "name": "Orthodox Union (OU)",
+      "url": "https://oukosher.org",
+      "description": "Official OU kosher certification website with extensive resources"
+    },
+    {
+      "type": "organization",
+      "name": "OK Kosher Certification",
+      "url": "https://www.ok.org",
+      "description": "Official OK Kosher website with product search and information"
+    },
+    {
+      "type": "organization",
+      "name": "Star-K Kosher Certification",
+      "url": "https://www.star-k.org",
+      "description": "Star-K official website with detailed kosher guides and articles"
+    },
+    {
+      "type": "organization",
+      "name": "Kof-K Kosher Supervision",
+      "url": "https://www.kof-k.org",
+      "description": "Official Kof-K certification website"
+    },
+    {
+      "type": "organization",
+      "name": "Chicago Rabbinical Council (CRC)",
+      "url": "https://www.crcweb.org",
+      "description": "CRC kosher certification and Passover guide publisher"
+    }
+  ],
+  "practical_applications": [
+    "Identifying kosher symbols while grocery shopping",
+    "Understanding dairy, meat, and pareve classifications",
+    "Planning kosher meals based on certification codes",
+    "Choosing Passover products",
+    "Verifying certification authenticity"
+  ],
+  "learning_objectives": [
+    "Recognize the five major kosher certification symbols",
+    "Understand what D, P, M, and Fish codes mean",
+    "Learn how kosher supervision actually works",
+    "Know when to consult a rabbi about kosher questions",
+    "Navigate supermarket aisles with confidence"
+  ],
+  "chinese_cultural_notes": [
+    "Comparison made to traditional Chinese workshop culture and neighborhood trust systems",
+    "Parallel drawn to traditional Chinese medicine ingredient standards",
+    "Reference to Confucian dietary refinement concepts",
+    "Note on similarity between kosher separation of meat/dairy and Chinese food compatibility concepts (相克)"
+  ],
+  "content_warnings": [],
+  "recommended_follow_up": [
+    "Article on specific kosher dietary laws",
+    "Guide to setting up a kosher kitchen",
+    "Passover food preparation guide"
+  ],
+  "batch": "300",
+  "production_notes": "Article commissioned to explain kosher certification symbols commonly encountered in supermarkets. Focuses on practical identification and understanding of major hechsherim. Includes Chinese cultural parallels comparing kosher supervision to traditional craftsmanship and food preparation standards."
+}

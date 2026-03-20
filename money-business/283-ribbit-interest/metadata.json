@@ -1,0 +1,73 @@
+{
+  "id": 283,
+  "title": "Ribbit: Why Jews Cannot Charge Interest to Other Jews",
+  "title_zh": "利息禁令（Ribbit）：为什么犹太人不能向同胞收取利息",
+  "title_he": "רִבִּית: מדוע אסור ליהודים לגבות ריבית מיהודים אחרים",
+  "section": "money-business",
+  "slug": "ribbit-interest",
+  "batch": 300,
+  "status": "completed",
+  "word_counts": {
+    "en": 1485,
+    "zh": 1242,
+    "he": 1389
+  },
+  "languages": ["en", "zh", "he"],
+  "tags": [
+    "Ribbit",
+    "Interest",
+    "Jewish Law",
+    "Tzedakah",
+    "Gemach",
+    "Business Ethics",
+    "Torah",
+    "Lending",
+    "Community",
+    "Chesed",
+    "Heter Iska",
+    "利息",
+    "慈善",
+    "犹太律法",
+    "商业伦理",
+    "ריבית",
+    "הלכה",
+    "צדקה",
+    "גמ״ח",
+    "אתיקה עסקית"
+  ],
+  "key_concepts": [
+    "Ribbit (interest prohibition)",
+    "Heter Iska (business partnership permit)",
+    "Gemach (free loan societies)",
+    "Biblical basis in Exodus, Leviticus, Deuteronomy",
+    "Communal solidarity over profit",
+    "Comparison with Islamic riba",
+    "Chinese philosophical parallels (义利之辨)"
+  ],
+  "biblical_references": [
+    "Exodus 22:24",
+    "Leviticus 25:36-37",
+    "Deuteronomy 23:20-21"
+  ],
+  "talmudic_references": [
+    "Bava Metzia 61a-75b"
+  ],
+  "historical_period": "Given at Mount Sinai (~1300 BCE, Late Shang Dynasty 商朝)",
+  "cultural_parallels": [
+    "Confucian emphasis on 仁 (benevolence) in economic relations",
+    "义利之辨 (righteousness vs. profit debate) in Chinese philosophy",
+    "Islamic prohibition of riba",
+    "Gemach system as communal mutual aid"
+  ],
+  "practical_applications": [
+    "Use of heter iska for mortgages and business loans",
+    "Credit card considerations with Jewish-owned banks",
+    "Personal lending between friends and family",
+    "Gemach organizations for lifecycle events"
+  ],
+  "target_audience": "Mandarin-speaking readers with no prior Jewish knowledge",
+  "tone": "Educational, warm, culturally sensitive",
+  "created_date": "2026-03-19",
+  "author": "Torah Light Project",
+  "version": "1.0"
+}

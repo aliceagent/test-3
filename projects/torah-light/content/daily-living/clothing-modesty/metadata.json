@@ -1,0 +1,95 @@
+{
+  "title": {
+    "en": "Clothing & Modesty: The Art of Tzniut",
+    "zh": "服饰与谦逊:端庄之道(Tzniut)",
+    "he": "לבוש וצניעות: אמנות הצניעות"
+  },
+  "description": {
+    "en": "Explore the Jewish concept of tzniut (modesty) as a comprehensive philosophy of living with dignity, self-respect, and inner worth. More than clothing rules, tzniut is about highlighting the soul and creating meaningful boundaries.",
+    "zh": "探索犹太教的端庄(tzniut)概念,这是一种以尊严、自尊和内在价值生活的全面哲学。端庄不仅仅是服装规则,而是关于彰显灵魂和创造有意义的界限。",
+    "he": "חקרו את המושג היהודי של צניעות כפילוסופיה מקיפה של חיים בכבוד, כבוד עצמי וערך פנימי. מעבר לכללי לבוש, צניעות היא על הבלטת הנשמה ויצירת גבולות משמעותיים."
+  },
+  "category": "daily-living",
+  "subcategory": "clothing-modesty",
+  "tags": {
+    "en": ["tzniut", "modesty", "clothing", "Jewish law", "women", "men", "shatnez", "hair covering", "dignity", "self-respect", "boundaries", "intimacy", "modest fashion", "cultural values"],
+    "zh": ["端庄", "谦逊", "服饰", "犹太律法", "女性", "男性", "沙特尼斯", "头发遮盖", "尊严", "自尊", "界限", "亲密关系", "端庄时尚", "文化价值"],
+    "he": ["צניעות", "לבוש", "הלכה", "נשים", "גברים", "שעטנז", "כיסוי ראש", "כבוד", "כבוד עצמי", "גבולות", "אינטימיות", "אופנה צנועה", "ערכים תרבותיים"]
+  },
+  "relatedTopics": [
+    "daily-living/blessings-prayers",
+    "daily-living/prayer-tefillin",
+    "family-life/marriage-family",
+    "ethics-values/speech-ethics"
+  ],
+  "difficulty": "beginner-intermediate",
+  "audience": ["beginners", "seekers", "observant", "cultural-explorers", "chinese-speakers"],
+  "keyPoints": {
+    "en": [
+      "Tzniut is a holistic philosophy of dignity, not just clothing rules",
+      "It highlights the soul rather than hiding the body",
+      "Specific guidelines for women: elbows, knees, collarbone coverage",
+      "Hair covering for married women varies by community",
+      "Men also have modesty requirements: kippah, tzitzit, lowering gaze",
+      "Shatnez: prohibition of wool-linen mixtures",
+      "Modesty extends to speech, behavior, and lifestyle",
+      "Diverse practices across Orthodox, Conservative, Reform communities",
+      "Cultural bridges with Chinese values of humility and propriety",
+      "Modern modest fashion is creative and accessible"
+    ],
+    "zh": [
+      "端庄是一种整体的尊严哲学,不仅仅是服装规则",
+      "它彰显灵魂而非隐藏身体",
+      "女性的具体指导:遮盖肘部、膝盖、锁骨",
+      "已婚女性的头发遮盖因社区而异",
+      "男性也有端庄要求:基帕、祈祷披巾、降低目光",
+      "沙特尼斯:禁止羊毛和亚麻的混合",
+      "端庄延伸到言语、行为和生活方式",
+      "正统派、保守派、改革派社区的多样化实践",
+      "与中国谦逊和礼仪价值观的文化桥梁",
+      "现代端庄时尚具有创意且易于获得"
+    ],
+    "he": [
+      "צניעות היא פילוסופיה הוליסטית של כבוד, לא רק כללי לבוש",
+      "היא מבליטה את הנשמה במקום להסתיר את הגוף",
+      "הנחיות ספציפיות לנשים: כיסוי מרפקים, ברכיים, עצם הבריח",
+      "כיסוי שיער לנשים נשואות משתנה לפי קהילה",
+      "גם לגברים יש דרישות צניעות: כיפה, ציצית, הורדת מבט",
+      "שעטנז: איסור תערובות צמר ופשתן",
+      "צניעות משתרעת לדיבור, התנהגות ואורח חיים",
+      "נוהגים מגוונים בקרב קהילות אורתודוקסיות, קונסרבטיביות ורפורמיות",
+      "גשרים תרבותיים עם ערכים סיניים של ענווה והגינות",
+      "אופנה צנועה מודרנית היא יצירתית ונגישה"
+    ]
+  },
+  "culturalNotes": {
+    "chinese": "The article includes a dedicated section on 'Modesty in Chinese Culture' that draws parallels between Jewish tzniut and Chinese values of humility (谦虚 qiānxū), propriety (礼 lǐ), and inner cultivation (修养 xiūyǎng). This cultural bridge helps Chinese readers connect Jewish modesty concepts with familiar Confucian values.",
+    "universal": "Modesty is framed positively as dignity, self-respect, and freedom from objectification rather than as restriction or oppression. The tone emphasizes personal choice, education, and the diversity of practice across different Jewish communities."
+  },
+  "practicalGuidance": {
+    "included": true,
+    "topics": [
+      "Shopping strategies for modest clothing",
+      "Building a modest wardrobe",
+      "Special occasions and athletic wear",
+      "Starting gradually if new to tzniut",
+      "Finding community support",
+      "Shatnez checking procedures"
+    ]
+  },
+  "wordCount": {
+    "en": 3876,
+    "zh": 1521,
+    "he": 3215
+  },
+  "lastUpdated": "2026-03-20",
+  "author": "Torah Light Content Team",
+  "reviewStatus": "complete",
+  "tone": "positive, educational, respectful, empowering",
+  "accessibility": {
+    "readingLevel": "intermediate",
+    "culturallySensitive": true,
+    "includesMultiplePerspectives": true,
+    "practicalExamples": true
+  }
+}

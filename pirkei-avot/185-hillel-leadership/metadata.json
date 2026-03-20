@@ -1,0 +1,161 @@
+{
+  "id": 185,
+  "title": {
+    "en": "In a Place Where There Are No Leaders, Strive to Be a Leader",
+    "zh": "在没有领袖的地方,努力成为领袖",
+    "he": "במקום שאין אנשים, השתדל להיות איש"
+  },
+  "section": "pirkei-avot",
+  "slug": "hillel-leadership",
+  "author": "Torah Light Editorial Team",
+  "dateCreated": "2026-03-18",
+  "primarySource": {
+    "text": "Pirkei Avot 2:5",
+    "textHebrew": "פרקי אבות ב׳:ה׳",
+    "quote": "Bemakom she'ein anashim, hishtadel lihyot ish",
+    "quoteHebrew": "במקום שאין אנשים, השתדל להיות איש",
+    "translation": "In a place where there are no leaders, strive to be a leader",
+    "speaker": "Hillel the Elder"
+  },
+  "topics": [
+    "leadership",
+    "responsibility",
+    "moral courage",
+    "pirkei avot",
+    "hillel",
+    "personal growth",
+    "ethics",
+    "community service"
+  ],
+  "culturalParallels": [
+    {
+      "culture": "Chinese",
+      "concept": "Tianming (天命) - Mandate of Heaven",
+      "description": "The concept that legitimate leadership requires moral authority and virtue"
+    },
+    {
+      "culture": "Chinese",
+      "concept": "Junzi (君子) - The Superior Person",
+      "description": "Confucian ideal of a person who acts with virtue regardless of formal position"
+    },
+    {
+      "culture": "Chinese",
+      "concept": "天下兴亡,匹夫有责",
+      "description": "Everyone bears responsibility for the rise and fall of society"
+    }
+  ],
+  "keyTeachings": [
+    "Leadership is about recognizing needs and choosing to meet them, not about titles or power",
+    "When moral guidance is absent, individuals have a responsibility to provide it",
+    "True leadership requires humility, service orientation, and alignment with Torah values",
+    "Fear of inadequacy should not prevent action when leadership is desperately needed",
+    "Leadership should be collaborative and temporary, willingly handed off when others can carry it"
+  ],
+  "practicalApplications": [
+    "Identify leadership vacuums in your community and consider how you can fill them",
+    "Start small: address one specific need rather than trying to solve everything",
+    "Seek wisdom and collaboration rather than acting alone",
+    "Lead with service in mind, not self-promotion",
+    "Be willing to step back when appropriate leadership emerges"
+  ],
+  "historicalExamples": [
+    {
+      "figure": "Nachshon ben Aminadav",
+      "event": "Walking into the Red Sea",
+      "lesson": "Leading through action when others are paralyzed by fear"
+    },
+    {
+      "figure": "Queen Esther",
+      "event": "Risking her life to save the Jewish people",
+      "lesson": "Accepting leadership responsibility despite personal risk"
+    },
+    {
+      "figure": "The Maccabees",
+      "event": "Resisting Greek assimilation",
+      "lesson": "Rising to lead when spiritual crisis has no other leaders"
+    }
+  ],
+  "targetAudience": "Mandarin speakers exploring Jewish ethics and personal development",
+  "readingLevel": "Intermediate",
+  "estimatedReadingTime": {
+    "en": "12-15 minutes",
+    "zh": "8-10 minutes",
+    "he": "10-12 minutes"
+  },
+  "relatedArticles": [
+    179,
+    180,
+    181,
+    182,
+    183,
+    184,
+    186
+  ],
+  "bibliography": [
+    {
+      "title": "Pirkei Avot with Commentary",
+      "type": "Primary Text",
+      "relevance": "Source text for Hillel's teaching"
+    },
+    {
+      "title": "Midrash Rabbah - Exodus",
+      "type": "Classical Commentary",
+      "relevance": "Story of Nachshon entering the Red Sea"
+    },
+    {
+      "title": "Mishneh Torah - Laws of Character Traits",
+      "author": "Rambam (Maimonides)",
+      "type": "Halakhic Text",
+      "relevance": "Guidance on developing leadership qualities"
+    },
+    {
+      "title": "Talmud Bavli - Sanhedrin 98b",
+      "type": "Talmudic Text",
+      "relevance": "Discussion on waiting for Messiah versus taking action"
+    },
+    {
+      "title": "The Analects",
+      "author": "Confucius",
+      "type": "Classical Chinese Philosophy",
+      "relevance": "Parallel teachings on moral leadership and the junzi concept"
+    }
+  ],
+  "hebrewTerms": [
+    {
+      "term": "anashim",
+      "hebrew": "אנשים",
+      "definition": "People, specifically ethical people or leaders"
+    },
+    {
+      "term": "ish",
+      "hebrew": "איש",
+      "definition": "A person of substance, integrity, and action"
+    },
+    {
+      "term": "hishtadel",
+      "hebrew": "השתדל",
+      "definition": "Strive, make an effort (active, effortful verb)"
+    }
+  ],
+  "wordCount": {
+    "en": 4247,
+    "zh": 2847,
+    "he": 2156
+  },
+  "version": "1.0",
+  "status": "completed",
+  "keywords": [
+    "leadership",
+    "responsibility",
+    "moral courage",
+    "Hillel the Elder",
+    "Pirkei Avot",
+    "stepping up",
+    "community service",
+    "ethical leadership",
+    "taking initiative",
+    "Nachshon ben Aminadav",
+    "humility",
+    "service"
+  ]
+}

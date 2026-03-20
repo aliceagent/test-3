@@ -1,0 +1,81 @@
+{
+  "id": 84,
+  "title": "Shanghai's Jewish Refugees: How China Saved Thousands During the Holocaust",
+  "title_zh": "上海的犹太难民：中国如何在大屠杀期间拯救数千人",
+  "title_he": "פליטים יהודים בשנחאי: כיצד סין הצילה אלפים במהלך השואה",
+  "section": "Jews in Asia",
+  "section_zh": "亚洲犹太人",
+  "section_he": "יהודים באסיה",
+  "description": "The story of 20,000 Jewish refugees who found sanctuary in Shanghai during World War II when the rest of the world closed its doors, and the Chinese-Jewish bonds forged in that time.",
+  "word_count_en": 5050,
+  "word_count_zh": 4450,
+  "word_count_he": 4800,
+  "status": "published",
+  "created": "2026-03-18T08:06:00+02:00",
+  "published": "2026-03-18T08:06:00+02:00",
+  "author": "Torah Light Writing Team",
+  "tags": [
+    "JewsInAsia",
+    "Shanghai",
+    "Holocaust",
+    "Refugees",
+    "HoFengShan",
+    "何鳳山",
+    "Hongkou",
+    "虹口",
+    "ChineseRescue",
+    "上海",
+    "WorldWarII",
+    "Sanctuary",
+    "OhelMoishe",
+    "JewishHistory",
+    "ChineseHistory",
+    "Compassion",
+    "仁",
+    "Exile",
+    "Diaspora",
+    "華僑",
+    "Remembrance",
+    "Kristallnacht",
+    "EvianConference",
+    "RepublicOfChina",
+    "民国时期",
+    "JointDistributionCommittee",
+    "RighteousAmongNations"
+  ],
+  "chinese_dynasty_references": [
+    {
+      "dynasty": "Republic of China",
+      "chinese": "民国时期",
+      "years": "1912-1949",
+      "context": "Period when Shanghai served as refuge for Jewish refugees (1938-1945)"
+    }
+  ],
+  "key_concepts": [
+    {
+      "english": "Shanghai Jewish Refugees",
+      "hebrew": "פליטים יהודים בשנחאי",
+      "chinese": "上海犹太难民"
+    },
+    {
+      "english": "Hongkou District (Shanghai Ghetto)",
+      "hebrew": "רובע הונגקו (הגטו של שנחאי)",
+      "chinese": "虹口区（上海隔都）"
+    },
+    {
+      "english": "Dr. Ho Feng Shan (Chinese Schindler)",
+      "hebrew": "ד״ר הו פנג שאן",
+      "chinese": "何鳳山博士"
+    },
+    {
+      "english": "Righteous Among the Nations",
+      "hebrew": "חסידי אומות העולם",
+      "chinese": "国际义人"
+    },
+    {
+      "english": "Do not oppress the stranger",
+      "hebrew": "וגר לא תלחץ",
+      "chinese": "不可欺压寄居者"
+    }
+  ]
+}

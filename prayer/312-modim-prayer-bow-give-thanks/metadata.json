@@ -1,0 +1,40 @@
+{
+  "id": 312,
+  "title": "The Modim Prayer: Why We Bow and Give Thanks",
+  "title_zh": "Modim 祷文：为何我们鞠躬并献上感恩",
+  "title_he": "תפילת מודים: למה אנחנו משתחווים ונותנים תודה",
+  "section": "prayer",
+  "description": "A close reading of the Modim blessing in the Amidah — the only blessing where the entire congregation bows — and its theology of gratitude.",
+  "slug": "modim-prayer-bow-give-thanks",
+  "word_count": {
+    "en": 3429,
+    "zh": 1856,
+    "he": 2453
+  },
+  "tags": [
+    "Modim",
+    "Prayer",
+    "Gratitude",
+    "Amidah",
+    "Humility",
+    "DailyMiracles",
+    "Kavanah",
+    "Thanksgiving",
+    "JewishLiturgy",
+    "Bowing",
+    "ModimDRabbanan",
+    "孝",
+    "感恩",
+    "祈祷"
+  ],
+  "cultural_connections": [
+    "Chinese filial piety (孝, xiào)",
+    "Daoist wu wei (無為)",
+    "Confucian gratitude toward ancestors"
+  ],
+  "historical_period": "Talmudic Period (200-500 CE, corresponding to Han-Jin Dynasties)",
+  "bibliography_count": 6,
+  "created": "2026-03-19T06:44:00Z",
+  "status": "completed",
+  "author": "Torah Light Project"
+}

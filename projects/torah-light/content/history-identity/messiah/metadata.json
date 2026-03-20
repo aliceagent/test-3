@@ -1,0 +1,158 @@
+{
+  "title": {
+    "en": "Mashiach: The Jewish Messiah",
+    "zh": "弥赛亚(MASHIACH):犹太教的救世主",
+    "he": "מָשִׁיחַ: המשיח היהודי"
+  },
+  "slug": "messiah",
+  "category": "history-identity",
+  "subcategory": "beliefs",
+  "description": {
+    "en": "A comprehensive exploration of the Jewish concept of Mashiach (Messiah) - a human king from David's lineage who will bring peace, rebuild the Temple, and usher in an era of universal knowledge of God. Includes biblical prophecies, Rambam's criteria, resurrection, the World to Come, false messiahs in history, and the distinction between Jewish and Christian messianic beliefs.",
+    "zh": "全面探讨犹太教的弥赛亚概念 - 大卫王朝的一位人类国王,他将带来和平、重建圣殿,并开启对上帝的普遍认知时代。包括圣经预言、兰班姆的标准、死者复活、来世、历史上的假弥赛亚,以及犹太教和基督教弥赛亚信仰之间的区别。",
+    "he": "חקירה מקיפה של המושג היהודי של משיח - מלך אנושי מזרע דוד שיביא שלום, יבנה את בית המקדש, ויביא עידן של ידיעה אוניברסלית של ה'. כולל נבואות מקראיות, קריטריונים של הרמב\"ם, תחיית המתים, עולם הבא, משיחי שקר בהיסטוריה, וההבדל בין אמונות משיחיות יהודיות ונוצריות."
+  },
+  "keywords": [
+    "Mashiach",
+    "Messiah",
+    "Messianic Era",
+    "King David",
+    "Davidic lineage",
+    "Third Temple",
+    "Ingathering of exiles",
+    "Rambam",
+    "Maimonides",
+    "Mishneh Torah",
+    "Techiyat HaMeitim",
+    "Resurrection",
+    "Olam HaBa",
+    "World to Come",
+    "False messiahs",
+    "Shabbtai Tzvi",
+    "Bar Kochba",
+    "Ani Ma'amin",
+    "Isaiah",
+    "Micah",
+    "Ezekiel",
+    "Jeremiah",
+    "Zechariah",
+    "Biblical prophecy",
+    "Jewish vs Christian beliefs",
+    "Orthodox Judaism",
+    "Jewish eschatology",
+    "Messianic prophecies",
+    "Jewish redemption"
+  ],
+  "author": "Torah Light Content Team",
+  "dateCreated": "2026-03-20",
+  "dateModified": "2026-03-20",
+  "wordCount": {
+    "en": 3850,
+    "zh": 3200,
+    "he": 3400
+  },
+  "readingTime": {
+    "en": "15-20 minutes",
+    "zh": "12-18 minutes",
+    "he": "13-19 minutes"
+  },
+  "difficulty": "intermediate",
+  "audience": [
+    "Jewish learners",
+    "Those interested in Jewish theology",
+    "Comparative religion students",
+    "Anyone curious about messianic beliefs"
+  ],
+  "relatedTopics": [
+    "prophecy",
+    "temple",
+    "redemption",
+    "resurrection",
+    "afterlife",
+    "davidic-dynasty",
+    "jewish-law",
+    "eschatology"
+  ],
+  "sources": [
+    {
+      "type": "Tanakh",
+      "references": [
+        "Isaiah 2:4",
+        "Isaiah 9:5-7",
+        "Isaiah 11:1-9",
+        "Isaiah 27:13",
+        "Jeremiah 23:5",
+        "Jeremiah 31:30-33",
+        "Ezekiel 36:24",
+        "Ezekiel 37:12",
+        "Ezekiel 40-48",
+        "Daniel 12:2",
+        "Micah 5:1-2",
+        "Zechariah 14:9"
+      ]
+    },
+    {
+      "type": "Talmud",
+      "references": [
+        "Sanhedrin 98a",
+        "Sanhedrin 10:1"
+      ]
+    },
+    {
+      "type": "Halakhic",
+      "references": [
+        "Mishneh Torah, Hilchot Melachim U'Milchamot 11-12"
+      ]
+    },
+    {
+      "type": "Prayer",
+      "references": [
+        "Amidah (Shemoneh Esrei)",
+        "Ani Ma'amin"
+      ]
+    }
+  ],
+  "keyPoints": [
+    "The Mashiach is a human being, not divine",
+    "Must be a direct patrilineal descendant of King David",
+    "Will rebuild the Third Temple in Jerusalem",
+    "Will gather all Jewish exiles to Israel",
+    "Will bring universal peace and knowledge of God",
+    "Rambam established clear, empirical criteria for identifying the Messiah",
+    "Resurrection of the dead (techiyat hameitim) is a core belief",
+    "Olam HaBa (World to Come) is the spiritual afterlife",
+    "History has seen false messiahs like Bar Kochba and Shabbtai Tzvi",
+    "Jewish messianic belief differs fundamentally from Christianity",
+    "Active waiting and preparation hasten the redemption",
+    "Daily expression: 'Ani Ma'amin' - I believe in the coming of Mashiach"
+  ],
+  "learningObjectives": [
+    "Understand the Jewish concept of Mashiach as a human king, not a divine figure",
+    "Identify biblical sources and prophecies about the Messianic era",
+    "Know Rambam's criteria for recognizing the true Messiah",
+    "Distinguish between the Messianic era, resurrection, and the World to Come",
+    "Learn lessons from false messiahs throughout Jewish history",
+    "Understand how Jewish messianic beliefs differ from Christian theology",
+    "Appreciate the active nature of messianic hope in daily Jewish life"
+  ],
+  "discussion-questions": [
+    "Why does Judaism emphasize that the Mashiach must be human rather than divine?",
+    "How do Rambam's empirical criteria help protect against false messianic claims?",
+    "What role do biblical prophecies play in shaping Jewish messianic expectations?",
+    "How did the Shabbtai Tzvi episode impact Jewish communities and messianic movements?",
+    "What is the relationship between our actions today and hastening the redemption?",
+    "How does the Jewish concept of resurrection differ from Christian understandings?",
+    "Why is the distinction between Jewish and Christian messianic beliefs important?",
+    "What does 'active waiting' for the Mashiach look like in practice?"
+  ],
+  "format": "article",
+  "languages": ["en", "zh", "he"],
+  "status": "published",
+  "version": "1.0",
+  "license": "Torah Light Educational Content License",
+  "accessibility": {
+    "transliterations": true,
+    "hebrewText": true,
+    "simplified-chinese": true
+  }
+}

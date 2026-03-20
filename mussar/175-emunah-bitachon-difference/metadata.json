@@ -1,0 +1,118 @@
+{
+  "id": 175,
+  "title": {
+    "en": "Emunah (Faith) vs. Bitachon (Trust): Understanding the Difference",
+    "zh": "信仰(Emunah)与信靠(Bitachon):理解其中的差别",
+    "he": "אמונה מול בטחון: הבנת ההבדל"
+  },
+  "section": "mussar",
+  "slug": "emunah-bitachon-difference",
+  "batch": "200",
+  "keywords": [
+    "emunah",
+    "bitachon",
+    "faith",
+    "trust",
+    "mussar",
+    "Jewish character development",
+    "Abraham",
+    "Binding of Isaac"
+  ],
+  "summary": {
+    "en": "Explores the crucial distinction between emunah (belief in God) and bitachon (trust in God's plan), showing how foundational faith transforms into lived trust through daily challenges.",
+    "zh": "探讨信仰(相信上帝存在)与信靠(相信上帝的计划)之间的关键区别,展示基础性信仰如何通过日常挑战转化为活出来的信任。",
+    "he": "בוחן את ההבחנה החשובה בין אמונה (אמונה בקב\"ה) לבטחון (אמון בתוכנית הקב\"ה), ומראה כיצד אמונה יסודית הופכת לאמון חי דרך אתגרים יומיומיים."
+  },
+  "topics": [
+    "faith and trust",
+    "Jewish philosophy",
+    "character development",
+    "practical spirituality",
+    "dealing with challenges"
+  ],
+  "difficulty": "intermediate",
+  "readingTimeMinutes": {
+    "en": 12,
+    "zh": 8,
+    "he": 10
+  },
+  "sources": [
+    {
+      "type": "Torah",
+      "reference": "Genesis 22:1-19",
+      "description": "The Binding of Isaac - foundational narrative for understanding emunah and bitachon"
+    },
+    {
+      "type": "Torah",
+      "reference": "Exodus 20:2",
+      "description": "First of the Ten Commandments - basis for emunah"
+    },
+    {
+      "type": "Torah",
+      "reference": "Genesis 50:20",
+      "description": "Joseph's statement to his brothers about divine providence"
+    },
+    {
+      "type": "Classical Text",
+      "work": "Chovot HaLevavot (Duties of the Heart)",
+      "author": "Rabbi Bachya ibn Paquda",
+      "section": "Gate of Trust (Sha'ar HaBitachon)",
+      "description": "Comprehensive treatment of bitachon in medieval Jewish philosophy"
+    },
+    {
+      "type": "Halakhic Authority",
+      "author": "Rambam (Maimonides)",
+      "work": "Mishneh Torah",
+      "description": "Lists belief in God as the first commandment"
+    },
+    {
+      "type": "Modern Authority",
+      "author": "Chazon Ish",
+      "description": "Distinguished between emunah and bitachon - defining emunah as belief God can do anything, bitachon as trust God will do what's best"
+    },
+    {
+      "type": "Modern Work",
+      "work": "Michtav MeEliyahu (Strive for Truth)",
+      "author": "Rabbi Eliyahu Dessler",
+      "description": "Discusses bitachon in context of hidden divine accounting"
+    },
+    {
+      "type": "Biblical Book",
+      "work": "Tehillim (Psalms)",
+      "chapters": "23, 27, 91, 121",
+      "description": "King David's expressions of trust in God amid challenges"
+    }
+  ],
+  "culturalParallels": {
+    "chinese": [
+      {
+        "concept": "信 (xìn)",
+        "description": "One of the five constant Confucian virtues - trust/faithfulness",
+        "similarity": "Shares some foundational aspects with emunah as basic conviction about reality",
+        "difference": "Jewish emunah is specifically directed toward one personal God"
+      },
+      {
+        "concept": "天命 (tiānmìng)",
+        "description": "Mandate of Heaven / Destiny - ancient Chinese belief in Heaven's will",
+        "similarity": "Accepting one's role in cosmic order parallels aspects of bitachon",
+        "difference": "Bitachon is relational and personal, while tiānmìng can be more fatalistic"
+      }
+    ]
+  },
+  "practicalApplications": [
+    "Keep a gratitude journal to recognize divine providence",
+    "Practice reframing challenges as potential benefits",
+    "Read Psalms to internalize patterns of trust",
+    "Study Torah narratives of God's interventions",
+    "Balance hishtadlut (human effort) with trust in outcomes"
+  ],
+  "targetAudience": "Learners seeking to understand fundamental Jewish concepts of faith and trust, particularly useful for those facing life challenges or developing spiritual resilience",
+  "pedagogicalNotes": "Article uses concrete examples and cross-cultural parallels to make abstract theological concepts accessible. Suitable for study groups or individual reflection.",
+  "dateCreated": "2026-03-18",
+  "language": "multilingual",
+  "wordCount": {
+    "en": 1450,
+    "zh": 1100,
+    "he": 1380
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 295,
+  "title": "Common Mistakes Mandarin Speakers Make in Hebrew (and How to Fix Them)",
+  "title_zh": "中文母语者学习希伯来语的常见错误(及解决方法)",
+  "title_he": "טעויות נפוצות של דוברי מנדרינית בלימוד עברית (וכיצד לתקן אותן)",
+  "section": "hebrew-learning",
+  "slug": "hebrew-mandarin-mistakes",
+  "word_count_en": 1492,
+  "word_count_zh": 1247,
+  "word_count_he": 1386,
+  "status": "complete",
+  "languages": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "tags": [
+    "HebrewLearning",
+    "MandarinSpeakers",
+    "LanguageAcquisition",
+    "Grammar",
+    "Pronunciation",
+    "VerbConjugation",
+    "Nikud",
+    "中文",
+    "希伯来语",
+    "语言学习",
+    "犹太教育"
+  ],
+  "created": "2026-03-19T06:33:00Z",
+  "author": "Torah Light Project",
+  "target_audience": "Mandarin speakers learning Hebrew",
+  "difficulty": "beginner-intermediate",
+  "reading_time_minutes": 12,
+  "has_bibliography": true,
+  "bibliography_entries": 6,
+  "cultural_parallels": [
+    "Chinese character radicals vs Hebrew roots",
+    "Chinese tones vs Hebrew stress patterns",
+    "Grass script (草书) vs unvocalized Hebrew text",
+    "Chinese measure words vs Hebrew binyanim",
+    "Kaifeng Jews historical reference"
+  ]
+}

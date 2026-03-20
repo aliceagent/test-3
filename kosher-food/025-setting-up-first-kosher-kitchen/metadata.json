@@ -1,0 +1,72 @@
+{
+  "id": 25,
+  "title": "Setting Up Your First Kosher Kitchen",
+  "title_zh": "建立你的第一个犹太洁食厨房",
+  "title_he": "הקמת המטבח הכשר הראשון שלך",
+  "section": "Kosher Food",
+  "section_zh": "犹太洁食",
+  "section_he": "כשרות",
+  "description": "A practical, step-by-step guide to creating a kosher kitchen from scratch, including koshering appliances, separating meat and dairy, and maintaining the system in daily life.",
+  "word_count_en": 5900,
+  "word_count_zh": 5500,
+  "word_count_he": 5700,
+  "status": "published",
+  "created": "2026-03-18T08:06:00+02:00",
+  "published": "2026-03-18T08:06:00+02:00",
+  "author": "Torah Light Writing Team",
+  "tags": [
+    "KosherKitchen",
+    "KashrutBasics",
+    "MeatAndDairy",
+    "JewishPractice",
+    "KosherFood",
+    "ChineseJews",
+    "BeginnerGuide",
+    "犹太洁食",
+    "分离肉类和乳制品",
+    "犹太厨房",
+    "KosherLiving",
+    "JewishHome",
+    "TorahLaw",
+    "Kashrut",
+    "DietaryLaws",
+    "Koshering",
+    "Parve",
+    "SeparateDishes",
+    "JewishLifestyle",
+    "BeginnerKosher"
+  ],
+  "chinese_dynasty_references": [],
+  "key_concepts": [
+    {
+      "english": "Kosher kitchen",
+      "hebrew": "מטבח כשר",
+      "chinese": "犹太洁食厨房"
+    },
+    {
+      "english": "Meat and dairy separation",
+      "hebrew": "הפרדת בשר וחלב",
+      "chinese": "肉类和乳制品分离"
+    },
+    {
+      "english": "Parve (neutral foods)",
+      "hebrew": "פרווה",
+      "chinese": "中性食物"
+    },
+    {
+      "english": "Koshering",
+      "hebrew": "הכשרה",
+      "chinese": "使之符合洁食规定"
+    },
+    {
+      "english": "You shall not cook a kid in its mother's milk",
+      "hebrew": "לא תבשל גדי בחלב אמו",
+      "chinese": "不可用山羊羔母的奶煮山羊羔"
+    },
+    {
+      "english": "Dietary laws",
+      "hebrew": "כשרות",
+      "chinese": "饮食律法"
+    }
+  ]
+}

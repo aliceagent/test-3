@@ -1,0 +1,206 @@
+{
+  "title": {
+    "en": "Jews in Asia: A Journey Through History and Identity",
+    "zh": "亚洲犹太人: 历史与身份的旅程",
+    "he": "יהודי אסיה: מסע בהיסטוריה וזהות"
+  },
+  "slug": "jews-in-asia",
+  "category": "history-identity",
+  "subcategory": "diaspora-communities",
+  "description": {
+    "en": "Explore the rich history of Jewish communities across Asia, from ancient Kaifeng to modern Shanghai, Hong Kong, and beyond. Discover stories of resilience, commerce, refuge, and cultural exchange spanning over a millennium.",
+    "zh": "探索亚洲犹太社区的丰富历史,从古老的开封到现代的上海、香港及其他地区。发现跨越千年的韧性、商业、避难和文化交流的故事。",
+    "he": "חקרו את ההיסטוריה העשירה של הקהילות היהודיות ברחבי אסיה, מקאיפנג העתיקה ועד שנחאי, הונג קונג ומעבר להן המודרניות. גלו סיפורים של חוסן, מסחר, מקלט וחילופי תרבות המשתרעים על פני יותר מאלף שנה."
+  },
+  "keywords": [
+    "Jews in Asia",
+    "Kaifeng Jews",
+    "Shanghai Jews",
+    "Hong Kong Jewish community",
+    "Harbin Jews",
+    "Baghdadi Jews",
+    "Jewish diaspora",
+    "Chinese Jews",
+    "Asian Jewish history",
+    "Sassoon family",
+    "Kadoorie family",
+    "Holocaust refugees Shanghai",
+    "Bene Israel",
+    "Cochin Jews",
+    "Jewish communities Asia",
+    "Chabad Asia",
+    "kosher food Asia",
+    "Jewish life in China",
+    "Silk Road Jews",
+    "Asian Jewish heritage"
+  ],
+  "tags": {
+    "en": [
+      "diaspora history",
+      "Asian Jews",
+      "community history",
+      "Jewish heritage",
+      "cultural integration",
+      "Holocaust refuge",
+      "merchant history",
+      "Silk Road",
+      "modern Jewish life"
+    ],
+    "zh": [
+      "散居史",
+      "亚洲犹太人",
+      "社区历史",
+      "犹太遗产",
+      "文化融合",
+      "大屠杀避难所",
+      "商人历史",
+      "丝绸之路",
+      "现代犹太生活"
+    ],
+    "he": [
+      "היסטוריית גלות",
+      "יהודי אסיה",
+      "היסטוריה קהילתית",
+      "מורשת יהודית",
+      "אינטגרציה תרבותית",
+      "מקלט מהשואה",
+      "היסטוריית סוחרים",
+      "דרך המשי",
+      "חיים יהודיים מודרניים"
+    ]
+  },
+  "author": "Torah Light Content Team",
+  "dateCreated": "2026-03-20",
+  "dateModified": "2026-03-20",
+  "languages": ["en", "zh", "he"],
+  "wordCount": {
+    "en": 5847,
+    "zh": 8503,
+    "he": 5892
+  },
+  "readingTime": {
+    "en": "25-30 minutes",
+    "zh": "30-35 minutes",
+    "he": "25-30 minutes"
+  },
+  "audience": [
+    "Jewish travelers to Asia",
+    "Jews living in Asia",
+    "Students of Jewish history",
+    "Researchers of diaspora communities",
+    "Cultural historians",
+    "General readers interested in Jewish heritage"
+  ],
+  "geographicFocus": [
+    "China",
+    "Hong Kong",
+    "Japan",
+    "India",
+    "Singapore",
+    "Thailand",
+    "Southeast Asia",
+    "East Asia",
+    "South Asia"
+  ],
+  "historicalPeriods": [
+    "Song Dynasty (960-1279)",
+    "Ming Dynasty (1368-1644)",
+    "Qing Dynasty (1644-1912)",
+    "19th Century",
+    "Early 20th Century",
+    "World War II Era",
+    "Post-1949",
+    "Contemporary (21st Century)"
+  ],
+  "keyTopics": [
+    {
+      "topic": "Kaifeng Jewish Community",
+      "coverage": "extensive",
+      "sections": ["origins", "golden age", "decline", "modern rediscovery"]
+    },
+    {
+      "topic": "Shanghai Jewish History",
+      "coverage": "extensive",
+      "sections": ["Baghdadi Jews", "Russian Jews", "WWII refugees", "Holocaust sanctuary"]
+    },
+    {
+      "topic": "Hong Kong Jews",
+      "coverage": "moderate",
+      "sections": ["early history", "synagogues", "modern community"]
+    },
+    {
+      "topic": "Harbin Jewish Community",
+      "coverage": "moderate",
+      "sections": ["Russian Jewish frontier", "golden age", "decline"]
+    },
+    {
+      "topic": "Indian Jewish Communities",
+      "coverage": "moderate",
+      "sections": ["Bene Israel", "Cochin Jews", "Baghdadi Jews"]
+    },
+    {
+      "topic": "Modern Jewish Life",
+      "coverage": "extensive",
+      "sections": ["Chabad presence", "kosher food", "community resources", "travel information"]
+    }
+  ],
+  "notableFigures": [
+    "David Sassoon",
+    "Sir Elly Kadoorie",
+    "Sir Michael Kadoorie",
+    "Chiune Sugihara"
+  ],
+  "resources": {
+    "chabadCenters": [
+      "Beijing",
+      "Shanghai",
+      "Hong Kong",
+      "Bangkok",
+      "Tokyo",
+      "Singapore",
+      "Mumbai"
+    ],
+    "museums": [
+      "Shanghai Jewish Refugees Museum",
+      "Kaifeng Jewish History Museum"
+    ],
+    "synagogues": [
+      "Ohel Rachel Synagogue (Shanghai)",
+      "Ohel Leah Synagogue (Hong Kong)",
+      "Maghain Aboth Synagogue (Singapore)",
+      "Paradesi Synagogue (Cochin)"
+    ]
+  },
+  "relatedContent": [
+    "Jewish diaspora worldwide",
+    "Silk Road trade routes",
+    "Holocaust refugees",
+    "Sephardic Jewish communities",
+    "Jewish merchant dynasties",
+    "Modern Jewish travel",
+    "Kosher living abroad"
+  ],
+  "educationalLevel": "general audience",
+  "contentType": "comprehensive historical article",
+  "citations": "historical sources, community records, museum collections, academic research",
+  "imagesSuggested": [
+    "Kaifeng stele inscriptions",
+    "Ohel Rachel Synagogue Shanghai",
+    "Shanghai Jewish Refugees Museum",
+    "Ohel Leah Synagogue Hong Kong",
+    "Harbin Main Synagogue",
+    "Paradesi Synagogue Cochin",
+    "Maps showing Jewish communities in Asia",
+    "Historical photographs of Baghdadi merchant families",
+    "Contemporary photos of Chabad centers"
+  ],
+  "accessibility": {
+    "readabilityScore": "intermediate",
+    "languageLevel": "accessible to general readers",
+    "structuredHeadings": true,
+    "comprehensiveCoverage": true
+  },
+  "seoOptimized": true,
+  "featured": true,
+  "status": "published"
+}

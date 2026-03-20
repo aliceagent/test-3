@@ -1,0 +1,51 @@
+{
+  "article_id": 28,
+  "title": "Modeh Ani: The First Words a Jew Says Every Morning",
+  "section": "Prayer",
+  "research_date": "2026-03-17",
+  "sources": [
+    {
+      "title": "Modeh Ani - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Modeh_Ani",
+      "status": "verified",
+      "category": "reference",
+      "description": "Comprehensive overview of Modeh Ani prayer, historical origins, and textual variants"
+    },
+    {
+      "title": "Modeh Ani: It's Not Just About Gratitude",
+      "url": "https://www.myjewishlearning.com/article/modeh-ani-its-not-just-about-gratitude/",
+      "status": "verified", 
+      "category": "educational",
+      "description": "Analysis of the triple meaning of 'modeh' and word order significance"
+    },
+    {
+      "title": "Modeh Ani – The Jewish prayer of thanks first thing in the morning",
+      "url": "https://www.jewishwisdom.co/jewish-prayer/modeh-ani-jewish-prayer-thanks/",
+      "status": "verified",
+      "category": "educational", 
+      "description": "Practical insights and interpretation of God's faith in humanity"
+    },
+    {
+      "title": "Modeh Ani: Start Your Day Off Right",
+      "url": "https://voices.sefaria.org/sheets/416419",
+      "status": "verified",
+      "category": "sefaria",
+      "description": "Teaching sheet with medical connection and Lubavitcher Rebbe's perspective"
+    }
+  ],
+  "additional_sources": [
+    {
+      "title": "Analects of Confucius",
+      "url": null,
+      "category": "classical_text",
+      "description": "Zengzi's practice of daily three-fold self-examination (三省吾身)"
+    },
+    {
+      "title": "Lamentations 3:22-23",
+      "url": "https://www.sefaria.org/Lamentations.3.22-23",
+      "status": "needs_verification",
+      "category": "biblical",
+      "description": "Biblical source for daily renewal concept"
+    }
+  ]
+}

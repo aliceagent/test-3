@@ -1,0 +1,88 @@
+{
+  "id": 349,
+  "title": "The Ohel Rachel Synagogue: Shanghai's Hidden Jewish Landmark",
+  "title_zh": "拉结会堂：上海隐藏的犹太地标",
+  "title_he": "בית הכנסת אוהל רחל: ציון יהודי נסתר בשנחאי",
+  "slug": "ohel-rachel-synagogue-shanghai",
+  "section": "jews-in-asia-expanded",
+  "description": "The history of this Sephardi synagogue built in 1920, its survival through the Communist era, and its current status as a protected building.",
+  "author": "Torah Light Editorial Team",
+  "date_created": "2026-03-19",
+  "date_updated": "2026-03-19",
+  "languages": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "word_count": {
+    "en": 4800,
+    "zh": 2950,
+    "he": 3100
+  },
+  "tags": [
+    "JewsinAsia",
+    "Shanghai",
+    "OhelRachel",
+    "SephardiJews",
+    "Sassoon",
+    "JewishHistory",
+    "Synagogue",
+    "Architecture",
+    "China",
+    "JewishRefugees",
+    "Holocaust",
+    "CulturalHeritage",
+    "上海",
+    "犹太人",
+    "沙遜家族",
+    "20thCentury",
+    "CommunityBuilding",
+    "HistoricalMemory",
+    "יהודיםבאסיה",
+    "אוהלרחל",
+    "יהודיםספרדים"
+  ],
+  "related_articles": [
+    350,
+    351,
+    352,
+    353,
+    357
+  ],
+  "primary_sources": [
+    "University of Hong Kong Asian Studies Archive",
+    "Shanghai Municipal Archives",
+    "Jewish Museum London",
+    "China Heritage Quarterly",
+    "Shanghai Jewish Refugees Museum"
+  ],
+  "chinese_historical_period": "民国时期 (Republican Era, 1912-1949)",
+  "jewish_historical_period": "Modern Era (20th Century)",
+  "difficulty_level": "intermediate",
+  "estimated_reading_time_minutes": {
+    "en": 20,
+    "zh": 15,
+    "he": 18
+  },
+  "key_concepts": [
+    "Sephardic Jews",
+    "Jewish diaspora in Asia",
+    "Sassoon family",
+    "Shanghai Jewish community",
+    "Moorish Revival architecture",
+    "Jewish refugees in China",
+    "Cultural heritage preservation",
+    "Synagogue as community center"
+  ],
+  "cultural_parallels": [
+    "Memorial architecture (Chinese 纪念堂 tradition)",
+    "Filial piety and ancestor honoring",
+    "Islamic architectural influence via Silk Road",
+    "Chinese hospitality toward refugees (待客之道)",
+    "Religious site preservation in modern China"
+  ],
+  "status": "completed",
+  "qa_status": "pending",
+  "bibliography_verified": true,
+  "header_image_prompt": "A serene Chinese brushstroke landscape painting in traditional shan shui (山水) style, depicting the elegant architecture of the Ohel Rachel Synagogue rising gracefully against a misty Shanghai skyline. In the foreground, delicate bamboo and willow branches frame the scene, while distant pagodas echo the synagogue's towers. The color palette features soft grays, warm ambers, and subtle touches of gold, creating a harmonious blend of Jewish and Chinese architectural elements. The mood is contemplative and respectful, honoring the building's century-long journey through history. Rendered in flowing ink wash technique with careful attention to the synagogue's distinctive Moorish Revival arches and Star of David motifs integrated into the traditional Chinese artistic composition."
+}

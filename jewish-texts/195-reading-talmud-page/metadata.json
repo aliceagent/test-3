@@ -1,0 +1,93 @@
+{
+  "id": 195,
+  "title": {
+    "en": "How to Read a Page of Talmud",
+    "zh": "如何阅读塔木德(Talmud)的一页",
+    "he": "איך לקרוא דף גמרא"
+  },
+  "slug": "reading-talmud-page",
+  "section": "jewish-texts",
+  "batch": "200",
+  "author": "Torah Light Editorial Team",
+  "date_created": "2026-03-18",
+  "keywords": [
+    "Talmud",
+    "Gemara",
+    "Mishnah",
+    "Rashi",
+    "Tosafot",
+    "Jewish texts",
+    "Torah study",
+    "rabbinic literature",
+    "Babylonian Talmud",
+    "how to study Talmud"
+  ],
+  "target_audience": "Beginners seeking to understand how to approach Talmud study, particularly those from Chinese cultural backgrounds",
+  "cultural_parallels": [
+    "Chinese classical text layout with commentaries",
+    "Thirteen Classics with Commentaries and Subcommentaries (十三经注疏)",
+    "Shiji (史记) with Jijie and Suoyin commentaries",
+    "Confucian dialogic tradition",
+    "Multi-generational scholarly commentary traditions"
+  ],
+  "reading_time_minutes": {
+    "en": 12,
+    "zh": 8,
+    "he": 10
+  },
+  "difficulty_level": "Beginner-Intermediate",
+  "related_articles": [
+    197,
+    124,
+    134
+  ],
+  "sources": [
+    {
+      "type": "primary",
+      "title": "Babylonian Talmud",
+      "description": "The primary text discussed throughout the article"
+    },
+    {
+      "type": "commentary",
+      "title": "Rashi's Commentary on the Talmud",
+      "author": "Rabbi Shlomo Yitzchaki (Rashi)",
+      "period": "1040-1105 CE"
+    },
+    {
+      "type": "commentary",
+      "title": "Tosafot",
+      "description": "Commentaries by Rashi's descendants and students",
+      "period": "12th-14th centuries"
+    },
+    {
+      "type": "reference",
+      "title": "Sefaria.org",
+      "url": "https://www.sefaria.org",
+      "description": "Free digital access to Talmud with translations and commentaries"
+    },
+    {
+      "type": "reference",
+      "title": "Artscroll Schottenstein Talmud",
+      "description": "English translation with extensive explanatory notes"
+    },
+    {
+      "type": "cultural_parallel",
+      "title": "Thirteen Classics with Commentaries and Subcommentaries (十三经注疏)",
+      "description": "Traditional Chinese classical texts with multi-layered commentaries, demonstrating similar scholarly traditions"
+    }
+  ],
+  "summary": {
+    "en": "A comprehensive beginner's guide to understanding and reading a page of Talmud, explaining its unique layout with Mishnah, Gemara, Rashi, and Tosafot commentaries. Includes practical steps for study, common challenges, modern tools, and fascinating parallels to Chinese classical text traditions.",
+    "zh": "全面的初学者指南,解释如何理解和阅读塔木德的一页,说明其独特的版面布局,包括米示拿、革马拉、拉希和托萨佛特注释。包括学习的实际步骤、常见挑战、现代工具,以及与中国经典文本传统的迷人相似之处。",
+    "he": "מדריך מקיף למתחילים להבנה וקריאה של דף גמרא, המסביר את הפריסה הייחודית שלו עם משנה, גמרא, רש\"י ותוספות. כולל צעדים מעשיים ללימוד, אתגרים נפוצים, כלים מודרניים, והקבלות מרתקות למסורות טקסט קלאסי סיני."
+  },
+  "teaching_points": [
+    "Understanding the structure of a Talmud page",
+    "The roles of Mishnah, Gemara, Rashi, and Tosafot",
+    "Step-by-step approach to reading and comprehension",
+    "Navigating Talmudic argumentation patterns",
+    "Modern tools and resources for learners",
+    "Cultural parallels to Chinese classical commentary traditions",
+    "The living conversation nature of Talmud study"
+  ]
+}

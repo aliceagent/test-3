@@ -1,0 +1,66 @@
+{
+  "id": 307,
+  "title": "Oneg Shabbat: How to Create Joy on the Sabbath",
+  "title_zh": "安息日之乐:如何在安息日创造喜悦",
+  "title_he": "עונג שבת: כיצד ליצור שמחה בשבת",
+  "section": "shabbat",
+  "slug": "oneg-shabbat-create-joy-sabbath",
+  "description": "The mitzvah of enjoying Shabbat — through food, rest, intimacy, Torah study, and family time — and why pleasure is a commandment.",
+  "word_count": {
+    "en": 3389,
+    "zh": 1248,
+    "he": 2456
+  },
+  "tags": [
+    "OnegShabbat",
+    "ShabbatJoy",
+    "SabbathDelight",
+    "Shabbat",
+    "Rest",
+    "Menucha",
+    "Torah",
+    "FestiveMeals",
+    "Challah",
+    "Kiddush",
+    "Holiness",
+    "JewishLaw",
+    "Mitzvah",
+    "IsaiahProphet",
+    "Talmud",
+    "ShulchanAruch",
+    "Zohar",
+    "Chassidism",
+    "ChineseJewishBridge",
+    "宋朝",
+    "阴阳",
+    "年夜饭",
+    "安息日"
+  ],
+  "bibliography_count": 8,
+  "cultural_parallels": [
+    "Chinese New Year feast (年夜饭) and Shabbat meals",
+    "Daoist yin-yang harmony and body-soul unity",
+    "Ming-Qing literati joy in refined pursuits and Torah study delight",
+    "Song Dynasty landscape painting aesthetic"
+  ],
+  "historical_references": [
+    {
+      "figure": "Rabbi Yehudah HaNasi",
+      "era": "Eastern Han Dynasty (东汉, 25-220 CE)",
+      "context": "Compiler of the Mishnah who had a special Friday preparation ritual"
+    },
+    {
+      "text": "Zohar",
+      "era": "Song Dynasty (宋朝, 960-1279 CE)",
+      "context": "Medieval Spain mystical text teaching about extra soul on Shabbat"
+    }
+  ],
+  "status": "complete",
+  "created": "2026-03-19T06:31:00Z",
+  "author": "Torah Light Project - Article Writer",
+  "language_versions": [
+    "article-en.md",
+    "article-zh.md",
+    "article-he.md"
+  ]
+}

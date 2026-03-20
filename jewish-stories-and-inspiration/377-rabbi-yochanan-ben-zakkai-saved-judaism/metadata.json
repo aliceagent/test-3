@@ -1,0 +1,117 @@
+{
+  "id": 377,
+  "title": {
+    "en": "Rabbi Yochanan Ben Zakkai: The Man Who Saved Judaism After the Temple",
+    "zh": "拉比约哈南·本·扎卡伊：拯救圣殿之后犹太教的人",
+    "he": "רבן יוחנן בן זכאי: האיש שהציל את היהדות אחרי החורבן"
+  },
+  "slug": "rabbi-yochanan-ben-zakkai-saved-judaism",
+  "section": "jewish-stories-and-inspiration",
+  "description": {
+    "en": "How one rabbi smuggled himself out of besieged Jerusalem in a coffin and founded the academy at Yavneh, ensuring Judaism's survival after the Temple's destruction.",
+    "zh": "一位拉比如何将自己藏在棺材里从被围困的耶路撒冷偷运出来，并在雅夫内建立了学院，确保了圣殿被毁后犹太教的存续。",
+    "he": "כיצד רב אחד הבריח את עצמו מירושלים הנצורה בארון מתים וייסד את ישיבת יבנה, מה ש הבטיח את הישרדות היהדות לאחר חורבן הבית"
+  },
+  "status": "completed",
+  "created_at": "2026-03-19",
+  "word_count": {
+    "en": 4700,
+    "zh": 5600,
+    "he": 4900
+  },
+  "tags": [
+    "RabbiYochananBenZakkai",
+    "Yavneh",
+    "SecondTemple",
+    "TempleDestruction",
+    "JewishSurvival",
+    "RabbinicJudaism",
+    "Talmud",
+    "Vespasian",
+    "RomanDestruction",
+    "JewishHistory",
+    "LeadershipInCrisis",
+    "Transformation",
+    "TorahStudy",
+    "JewishDiaspora",
+    "约哈南本扎卡伊",
+    "第二圣殿",
+    "犹太历史",
+    "犹太教转型",
+    "犹太学者",
+    "YavnehAcademy",
+    "犹太学院"
+  ],
+  "sources": [
+    {
+      "title": "Gittin 56a-b: Rabbi Yochanan ben Zakkai and Vespasian",
+      "source": "Sefaria",
+      "url": "https://www.sefaria.org/Gittin.56a"
+    },
+    {
+      "title": "Rabban Yochanan ben Zakkai",
+      "source": "Chabad.org",
+      "url": "https://www.chabad.org/library/article_cdo/aid/112077/jewish/Rabban-Yochanan-ben-Zakkai.htm"
+    },
+    {
+      "title": "Yavneh: The Crucible of Rabbinic Judaism",
+      "source": "My Jewish Learning",
+      "url": "https://www.myjewishlearning.com/article/yavneh/"
+    },
+    {
+      "title": "The Destruction of the Second Temple",
+      "source": "Jewish Virtual Library",
+      "url": "https://www.jewishvirtuallibrary.org/the-destruction-of-the-second-temple"
+    },
+    {
+      "title": "Pirkei Avot 2:8: The Five Students of Rabbi Yochanan ben Zakkai",
+      "source": "Sefaria",
+      "url": "https://www.sefaria.org/Pirkei_Avot.2.8"
+    }
+  ],
+  "historical_context": {
+    "jewish_period": "Second Temple Destruction",
+    "approximate_date": "70 CE",
+    "chinese_equivalent": "Eastern Han Dynasty (东汉朝, 25-220 CE)"
+  },
+  "main_figures": [
+    {
+      "name_en": "Rabbi Yochanan ben Zakkai",
+      "name_zh": "拉比约哈南·本·扎卡伊",
+      "name_he": "רבן יוחנן בן זכאי",
+      "role": "Central figure who escaped Jerusalem and founded the academy at Yavneh"
+    },
+    {
+      "name_en": "Vespasian",
+      "name_zh": "韦斯帕芗",
+      "name_he": "וספסיאנוס",
+      "role": "Roman general who became emperor; granted Yochanan's request for Yavneh"
+    },
+    {
+      "name_en": "Abba Sikra",
+      "name_zh": "阿巴·西克拉",
+      "name_he": "אבא סיקרא",
+      "role": "Yochanan's nephew and leader of the zealots who helped with the escape"
+    }
+  ],
+  "key_themes": [
+    "Courage in crisis",
+    "Vision over attachment",
+    "Transformation not preservation",
+    "The power of education",
+    "Portable faith"
+  ],
+  "cultural_connections": {
+    "chinese": [
+      "Confucius traveling during Warring States",
+      "Scholars preserving texts during book burning",
+      "Transmission of wisdom through teacher-student chains"
+    ],
+    "universal": [
+      "Resilience in the face of destruction",
+      "Transformation of religious practice",
+      "Leadership during crisis"
+    ]
+  },
+  "bibliography_count": 5
+}

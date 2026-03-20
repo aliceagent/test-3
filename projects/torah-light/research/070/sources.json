@@ -1,0 +1,32 @@
+{
+  "article_id": 70,
+  "title": "Introduction to Tanya: Chabad's Foundational Text",
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Tanya_(Judaism)",
+      "title": "Tanya (Judaism) - Wikipedia",
+      "type": "encyclopedia",
+      "verified": true
+    },
+    {
+      "url": "https://www.chabad.org/library/tanya/tanya_cdo/aid/1028862/jewish/Introduction.htm",
+      "title": "Tanya Introduction - Chabad.org",
+      "type": "primary_text",
+      "verified": true
+    },
+    {
+      "url": "https://www.sefaria.org/Tanya",
+      "title": "Tanya - Sefaria Library",
+      "type": "primary_text",
+      "verified": true
+    }
+  ],
+  "key_facts": {
+    "author": "Rabbi Schneur Zalman of Liadi (1745-1812)",
+    "original_title": "Likkutei Amarim (Collected Sayings)",
+    "first_published": 1796,
+    "nickname": "Tanya",
+    "sections": 5,
+    "chinese_period": "Qing Dynasty (清朝, 1644-1912)"
+  }
+}

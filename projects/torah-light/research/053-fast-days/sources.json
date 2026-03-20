@@ -1,0 +1,70 @@
+{
+  "article_id": 53,
+  "title": "Fast Days in Judaism: When, Why, and How to Fast",
+  "section": "Holidays",
+  "sources": [
+    {
+      "title": "Jewish Fast Days - Days of Opportunity",
+      "url": "https://www.chabad.org/library/article_cdo/aid/609607/jewish/Jewish-Fast-Days.htm",
+      "type": "chabad",
+      "key_points": [
+        "List of all major fast days",
+        "Technical details about fasting",
+        "Spiritual meaning of fasting",
+        "Exemptions for pregnant, nursing, ill people"
+      ]
+    },
+    {
+      "title": "Zechariah 8:19 - Four Fast Days",
+      "url": "https://www.sefaria.org/Zechariah.8.19",
+      "type": "sefaria",
+      "key_points": [
+        "Fast of the fourth month (Tammuz 17)",
+        "Fast of the fifth month (Tisha B'Av)",
+        "Fast of the seventh month (Fast of Gedaliah)",
+        "Fast of the tenth month (Asarah B'Tevet)",
+        "These will become occasions for joy when Messiah comes"
+      ]
+    }
+  ],
+  "fast_days": {
+    "yom_kippur": {
+      "date": "10 Tishrei",
+      "type": "major",
+      "duration": "25 hours (sunset to nightfall)",
+      "reason": "Day of Atonement",
+      "five_restrictions": true
+    },
+    "tisha_bav": {
+      "date": "9 Av",
+      "type": "major",
+      "duration": "25 hours (sunset to nightfall)",
+      "reason": "Both Holy Temples destroyed",
+      "five_restrictions": true
+    },
+    "fast_of_gedaliah": {
+      "date": "3 Tishrei",
+      "type": "minor",
+      "duration": "dawn to nightfall",
+      "reason": "Assassination of Gedaliah, governor of Judea"
+    },
+    "asarah_btevet": {
+      "date": "10 Tevet",
+      "type": "minor",
+      "duration": "dawn to nightfall",
+      "reason": "Babylonians laid siege on Jerusalem"
+    },
+    "fast_of_esther": {
+      "date": "13 Adar",
+      "type": "minor",
+      "duration": "dawn to nightfall",
+      "reason": "Esther had the Jews fast before approaching the king"
+    },
+    "shivah_asar_btammuz": {
+      "date": "17 Tammuz",
+      "type": "minor",
+      "duration": "dawn to nightfall",
+      "reason": "Romans breached the walls of Jerusalem"
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": 158,
+  "title": "Converting Dates: How to Find Your Hebrew Birthday",
+  "section": "jewish-calendar",
+  "slug": "hebrew-birthday-conversion",
+  "batch": "200",
+  "languages": {
+    "en": "article-en.md",
+    "zh": "article-zh.md",
+    "he": "article-he.md"
+  },
+  "keywords": [
+    "Hebrew calendar",
+    "Hebrew birthday",
+    "date conversion",
+    "Jewish calendar",
+    "lunisolar calendar",
+    "Hebcal",
+    "birthday customs",
+    "mazal",
+    "spiritual significance",
+    "Chinese parallels"
+  ],
+  "topics": [
+    "Hebrew calendar basics",
+    "Converting Gregorian to Hebrew dates",
+    "Birthday observance customs",
+    "Leap year complications",
+    "Chinese cultural parallels",
+    "Bar/Bat mitzvah calculations",
+    "Spiritual significance of birthdays"
+  ],
+  "targetAudience": "Chinese native Mandarin speakers with no background in Judaism",
+  "culturalParallels": [
+    "Chinese lunar calendar birthdays",
+    "12-year zodiac cycle vs 19-year Jewish cycle",
+    "本命年 (běnmìngnián) concept",
+    "Milestone birthday customs in Chinese culture"
+  ],
+  "tools": [
+    "Hebcal.com",
+    "Chabad.org calendar converter",
+    "MyZmanim.com"
+  ],
+  "relatedArticles": [
+    151,
+    152,
+    153,
+    154,
+    157,
+    162
+  ],
+  "wordCount": {
+    "en": 1450,
+    "zh": 2100,
+    "he": 1350
+  },
+  "dateCreated": "2026-03-18",
+  "author": "Torah Light Writer Agent",
+  "status": "complete"
+}

@@ -1,0 +1,101 @@
+{
+  "id": 376,
+  "title": "Nachshon Ben Aminadav: The Man Who Walked Into the Sea",
+  "title_zh": "亚米拿达的儿子拿赫雄：走进海中的那人",
+  "title_he": "נַחְשׁוֹן בֶּן עַמִּינָדָב: האיש שצעד לתוך הים",
+  "slug": "nachshon-ben-aminadav-the-man-who-walked-into-the-sea",
+  "section": "jewish-stories-and-inspiration",
+  "description": "The midrashic story of the man who stepped into the Red Sea before it split — and what it teaches about taking the first step before seeing results.",
+  "description_zh": "《米德拉什》中关于那人在红海分开之前踏入水中的故事——以及它教导我们如何在看到结果之前就迈出第一步。",
+  "status": "completed",
+  "created_at": "2026-03-19",
+  "word_count": {
+    "en": 1450,
+    "zh": 2100,
+    "he": 1680
+  },
+  "tags": [
+    "Nachshon",
+    "Faith",
+    "Emunah",
+    "Courage",
+    "Red Sea",
+    "Exodus",
+    "Leadership",
+    "Trust",
+    "Jewish Inspiration",
+    "Midrash",
+    "Biblical Heroes",
+    "Nachshon ben Aminadav",
+    "Splitting of the Sea",
+    "Faith in Action",
+    "Nachshon Principle",
+    "拿赫雄",
+    "信心",
+    "勇气",
+    "出埃及",
+    "红海",
+    "犹太故事",
+    "信仰",
+    "商朝",
+    "大禹",
+    "犹太教"
+  ],
+  "sources": [
+    {
+      "title": "Sotah 37a: Nachshon ben Aminadav at the Sea",
+      "url": "https://www.sefaria.org/Sotah.37a",
+      "source": "Sefaria"
+    },
+    {
+      "title": "Exodus Chapter 14: The Splitting of the Red Sea",
+      "url": "https://www.sefaria.org/Exodus.14",
+      "source": "Sefaria"
+    },
+    {
+      "title": "Nachshon ben Aminadav: Faith and Initiative",
+      "url": "https://www.chabad.org/library/article_cdo/aid/2935112/jewish/Nachshon.htm",
+      "source": "Chabad.org"
+    },
+    {
+      "title": "The Leadership of Nachshon",
+      "url": "https://www.aish.com/jl/l/m/48971111.html",
+      "source": "Aish.com"
+    },
+    {
+      "title": "Names of the Nesi'im in the Desert - Numbers 1:1-16",
+      "url": "https://www.sefaria.org/Numbers.1",
+      "source": "Sefaria"
+    }
+  ],
+  "historical_context": {
+    "jewish_period": "The Exodus (Exodus from Egypt)",
+    "approximate_date_bce": "1300-1260",
+    "chinese_equivalent": "Shang Dynasty (商朝, ~1600-1046 BCE)"
+  },
+  "main_figures": [
+    {
+      "name_en": "Nachshon ben Aminadav",
+      "name_zh": "拿赫雄·本·亚米拿达",
+      "name_he": "נַחְשׁוֹן בֶּן עַמִּינָדָב",
+      "role": "Prince of the tribe of Judah"
+    },
+    {
+      "name_en": "Moses",
+      "name_zh": "摩西",
+      "name_he": "מֹשֶׁה",
+      "role": "Prophet and leader of Israel"
+    },
+    {
+      "name_en": "Pharaoh",
+      "name_zh": "法老",
+      "name_he": "פַּרְעֹה",
+      "role": "King of Egypt"
+    }
+  ],
+  "chinese_parallels": [
+    "Yu the Great (大禹) - taming the floods through persistent action",
+    "Wu Wei (无为) - acting in harmony with the natural flow",
+    "Confucian emphasis on knowledge through practice"
+  ]
+}

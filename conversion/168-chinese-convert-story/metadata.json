@@ -1,0 +1,150 @@
+{
+  "id": 168,
+  "title": {
+    "en": "A Chinese Convert's Story: From Beijing to the Beit Din",
+    "zh": "一个中国人的皈依故事:从北京到宗教法庭",
+    "he": "סיפור גיור סיני: מבייג'ינג לבית הדין"
+  },
+  "section": "conversion",
+  "slug": "chinese-convert-story",
+  "description": {
+    "en": "The inspiring journey of Li Wei/Devorah Leah, a Chinese engineer who converted to Orthodox Judaism. Her story explores the cultural parallels between Chinese and Jewish traditions, the challenges of converting from a non-Western background, and the spiritual transformation from Beijing to the beit din.",
+    "zh": "李薇/德沃拉·莉娅的鼓舞人心的旅程,一位皈依正统犹太教的中国工程师。她的故事探讨了中国和犹太传统之间的文化相似性,从非西方背景皈依的挑战,以及从北京到宗教法庭的精神转变。",
+    "he": "המסע המעורר השראה של לי ווי/דבורה לאה, מהנדסת סינית שהתגיירה ליהדות אורתודוכסית. סיפורה חוקר את הדמיון התרבותי בין מסורות סיניות ויהודיות, את האתגרים של גיור מרקע לא-מערבי, ואת השינוי הרוחני מבייג'ינג לבית הדין."
+  },
+  "keywords": [
+    "conversion",
+    "Chinese Jews",
+    "giyur",
+    "beit din",
+    "Orthodox Judaism",
+    "Asian converts",
+    "cultural parallels",
+    "mikvah",
+    "Hebrew name",
+    "conversion journey"
+  ],
+  "chineseKeywords": [
+    "皈依",
+    "中国犹太人",
+    "宗教法庭",
+    "正统犹太教",
+    "亚裔皈依者",
+    "文化相似性",
+    "仪式浴池",
+    "希伯来名字",
+    "皈依旅程"
+  ],
+  "hebrewKeywords": [
+    "גיור",
+    "יהודים סינים",
+    "בית דין",
+    "יהדות אורתודוכסית",
+    "גרים אסייתים",
+    "דמיון תרבותי",
+    "מקווה",
+    "שם עברי",
+    "מסע גיור"
+  ],
+  "targetAudience": "Prospective converts, especially from Asian and non-Western backgrounds; Chinese speakers considering conversion; Jews-by-choice looking for relatable stories",
+  "type": "narrative",
+  "readingTime": {
+    "en": "12-15 minutes",
+    "zh": "8-10 minutes",
+    "he": "10-12 minutes"
+  },
+  "culturalParallels": [
+    "Confucian filial piety (孝, xiào) and honoring parents",
+    "Chinese classical scholarship and Talmudic study methods",
+    "Mandate of Heaven (天命, tiānmìng) and accepting God's will",
+    "Family emphasis in both cultures",
+    "Historical trauma and resilience",
+    "Yuánfèn (缘分) - destiny that brings people together"
+  ],
+  "chineseTerms": [
+    {
+      "characters": "择善固执",
+      "pinyin": "zé shàn gù zhí",
+      "meaning": "choose what is good and hold fast to it"
+    },
+    {
+      "characters": "孝",
+      "pinyin": "xiào",
+      "meaning": "filial piety"
+    },
+    {
+      "characters": "天命",
+      "pinyin": "tiānmìng",
+      "meaning": "Mandate of Heaven"
+    },
+    {
+      "characters": "缘分",
+      "pinyin": "yuánfèn",
+      "meaning": "fate/destiny that brings people together"
+    }
+  ],
+  "themes": [
+    "Spiritual seeking",
+    "Cultural identity",
+    "Family relationships",
+    "Conversion challenges",
+    "Orthodox Judaism",
+    "Asian Jewish experience",
+    "Cross-cultural understanding",
+    "Commitment and sacrifice",
+    "Finding meaning",
+    "Joining the Jewish people"
+  ],
+  "relatedArticles": [
+    159,
+    160,
+    161,
+    162,
+    163,
+    164,
+    165,
+    166,
+    167
+  ],
+  "sources": [
+    {
+      "type": "book",
+      "title": "To Be a Jew",
+      "author": "Rabbi Hayim Halevy Donin",
+      "relevance": "Mentioned as study resource for converts"
+    },
+    {
+      "type": "book",
+      "title": "Jewish Literacy",
+      "author": "Rabbi Joseph Telushkin",
+      "relevance": "Mentioned as study resource for converts"
+    },
+    {
+      "type": "text",
+      "title": "Pirkei Avot",
+      "reference": "Chapter 2, Mishnah 16",
+      "quote": "You are not obligated to complete the work, but neither are you free to desist from it",
+      "relevance": "Quoted regarding commitment to conversion journey"
+    },
+    {
+      "type": "concept",
+      "title": "Conversion Process",
+      "relevance": "Orthodox conversion requirements, beit din, mikvah, choosing Hebrew name"
+    }
+  ],
+  "dateCreated": "2026-03-18",
+  "batch": "200",
+  "characterCount": {
+    "en": 13767,
+    "zh": 4540,
+    "he": 10212
+  },
+  "wordCount": {
+    "en": 2187
+  },
+  "educationalLevel": "intermediate",
+  "emotionalTone": "warm, inspiring, realistic, hopeful",
+  "narrativeStyle": "first-person testimony with cultural analysis",
+  "practicalApplication": "Guidance for prospective converts, especially from Asian backgrounds; understanding the conversion journey; appreciating cultural parallels",
+  "unique": "First comprehensive narrative about a Chinese convert's journey with authentic cultural details and Confucian parallels"
+}

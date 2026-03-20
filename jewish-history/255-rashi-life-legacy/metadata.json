@@ -1,0 +1,121 @@
+{
+  "id": 255,
+  "title": "Rashi of Troyes: The Man Whose Commentary You Can't Study Without",
+  "title_zh": "特鲁瓦的拉什:没有他的注释就无法学习的伟人",
+  "title_he": "רש\"י מטרואה: האיש שבלי פירושו אי אפשר ללמוד",
+  "section": "jewish-history",
+  "slug": "rashi-life-legacy",
+  "author": "Torah Light Editorial Team",
+  "date_created": "2026-03-19",
+  "date_updated": "2026-03-19",
+  "language_versions": {
+    "en": "article-en.md",
+    "zh": "article-zh.md",
+    "he": "article-he.md"
+  },
+  "word_count": {
+    "en": 3485,
+    "zh": 5200,
+    "he": 3800
+  },
+  "target_audience": "Chinese native Mandarin speakers with no prior Jewish knowledge",
+  "difficulty_level": "Intermediate",
+  "estimated_reading_time": {
+    "en": "17 minutes",
+    "zh": "12 minutes",
+    "he": "19 minutes"
+  },
+  "keywords": [
+    "Rashi",
+    "Torah commentary",
+    "Talmud study",
+    "Jewish history",
+    "Medieval France",
+    "Biblical interpretation",
+    "Peshat",
+    "Midrash",
+    "Troyes",
+    "Northern Song Dynasty",
+    "Ashkenazi heritage"
+  ],
+  "tags": [
+    "#Rashi",
+    "#Torah",
+    "#Talmud",
+    "#JewishHistory",
+    "#BiblicalCommentary",
+    "#TorahStudy",
+    "#FrenchJewry",
+    "#MedievalJudaism",
+    "#TalmudStudy",
+    "#Peshat",
+    "#Midrash",
+    "#NorthernSongDynasty",
+    "#北宋",
+    "#朱熹",
+    "#经典注疏",
+    "#Troyes",
+    "#AshkenaziHeritage",
+    "#JewishLearning",
+    "#北宋时期",
+    "#רש״י",
+    "#תורה",
+    "#תלמוד",
+    "#תולדותישראל",
+    "#פירושמקרא",
+    "#לימודתורה",
+    "#יהדותצרפת",
+    "#יהדותימיהביניים",
+    "#לימודתלמוד",
+    "#פשט",
+    "#מדרש"
+  ],
+  "chinese_cultural_parallels": [
+    "Zhu Xi (朱熹) and the tradition of annotated classics",
+    "Northern Song Dynasty (北宋, 960-1127 CE)",
+    "Neo-Confucianism development during Rashi's lifetime",
+    "Comparing Torah commentary to Chinese classical annotation tradition",
+    "The Analects (论语) with scholarly commentaries"
+  ],
+  "historical_period": {
+    "jewish": "Medieval French Jewry, Golden Age of Ashkenaz",
+    "chinese_equivalent": "Northern Song Dynasty (北宋, 960-1127 CE)",
+    "years": "1040-1105 CE"
+  },
+  "key_figures": [
+    "Rashi (Rabbi Shlomo Yitzchaki, 1040-1105)",
+    "Rabbi Yaakov ben Yakar (Rashi's teacher)",
+    "Rabbi Yitzchak ben Yehuda (Rashi's teacher)",
+    "Rashbam (Rashi's grandson)",
+    "Zhu Xi (朱熹, for cultural parallel)"
+  ],
+  "main_concepts": [
+    "Peshat (plain meaning)",
+    "Midrash (rabbinic interpretation)",
+    "Torah commentary methodology",
+    "Talmud accessibility",
+    "Oral Torah transmission",
+    "Rashi script",
+    "Medieval yeshiva learning",
+    "Grammar and syntax analysis",
+    "Cultural translation"
+  ],
+  "bibliography_sources": [
+    "Sefaria.org - Genesis and Talmud texts",
+    "Chabad.org - Rashi biography and commentary",
+    "Traditional Rashi commentaries on Chumash and Talmud",
+    "Historical sources on Medieval French Jewry"
+  ],
+  "related_articles": [
+    233,
+    234,
+    235,
+    236,
+    238,
+    253,
+    256
+  ],
+  "status": "completed",
+  "qa_status": "pending",
+  "notes": "Article draws strong parallel between Rashi and Zhu Xi's role as annotators of classical texts. Emphasizes accessibility and pedagogical clarity. Includes detailed explanation of Rashi's methodology and lasting influence. Chinese historical context (Northern Song Dynasty) integrated throughout."
+}

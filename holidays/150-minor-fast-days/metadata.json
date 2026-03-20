@@ -1,0 +1,74 @@
+{
+  "id": 150,
+  "title": {
+    "en": "The Fast of Gedaliah and the Minor Fast Days Explained",
+    "zh": "基大利亚禁食日与四个次要禁食日详解",
+    "he": "צום גדליה וארבעת הצומות הקלים"
+  },
+  "description": {
+    "en": "Why we fast on Tzom Gedaliah, 10 Tevet, 17 Tammuz, and Ta'anit Esther — the historical events and laws of each.",
+    "zh": "我们为什么要在基大利亚禁食日、提别月十日、塔木兹月十七日和以斯帖禁食日禁食——每个节日的历史事件和律法。",
+    "he": "למה אנו מתענים בצום גדליה, עשרה בטבת, שבעה עשר בתמוז ותענית אסתר — האירועים ההיסטוריים וההלכות של כל אחד."
+  },
+  "category": "holidays",
+  "level": "intermediate",
+  "author": "Torah Light Editorial",
+  "publish_date": "2026-03-18",
+  "last_updated": "2026-03-18",
+  "reading_time": {
+    "en": "8-10 minutes",
+    "zh": "6-8 minutes",
+    "he": "7-9 minutes"
+  },
+  "languages": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "related_articles": [
+    "temple-destruction",
+    "tisha-bav",
+    "repentance-and-fasting",
+    "jewish-mourning-practices"
+  ],
+  "keywords": [
+    "repentance",
+    "Jewish mourning",
+    "Temple",
+    "mourning",
+    "minor fast days",
+    "Gedaliah",
+    "history",
+    "Tenth of Tevet",
+    "fast days",
+    "Seventeenth of Tammuz",
+    "Jewish calendar",
+    "Fast of Esther",
+    "Temple destruction",
+    "minor fasts"
+  ],
+  "header_image": {
+    "description": "Ancient Jerusalem cityscape showing the walls and Temple Mount during the period of the kingdoms of Israel and Judah, with ethereal lighting suggesting both historical grandeur and the shadow of coming tragedy. The image should evoke the solemnity of remembrance while maintaining hope for redemption.",
+    "alt_text": {
+      "en": "Jerusalem walls and Temple Mount in ancient times",
+      "zh": "古代耶路撒冷城墙和圣殿山",
+      "he": "חומות ירושלים והר הבית בימי קדם"
+    }
+  },
+  "seo": {
+    "meta_description": {
+      "en": "Learn about the four minor Jewish fast days: Tzom Gedaliah, 10 Tevet, 17 Tammuz, and Ta'anit Esther. Discover their historical origins, laws, and spiritual significance.",
+      "zh": "了解四个犹太次要禁食日：基大利亚禁食日、提别月十日、塔木兹月十七日和以斯帖禁食日。探索它们的历史起源、律法和精神意义。",
+      "he": "למד על ארבעת הצומות הקלים: צום גדליה, עשרה בטבת, שבעה עשר בתמוז ותענית אסתר. גלה את מקורותיהם ההיסטוריים, הלכותיהם ומשמעותם הרוחנית."
+    }
+  },
+  "references": [
+    "Babylonian Talmud, Ta'anit 26b-29a",
+    "Mishnah Berurah on Orach Chaim 549-550",
+    "Rambam, Hilchot Ta'aniot",
+    "Shulchan Aruch, Orach Chaim 549-550",
+    "Book of Jeremiah 41:1-3",
+    "Book of Esther 4:16",
+    "2 Kings 25:1-4, 8-9"
+  ]
+}

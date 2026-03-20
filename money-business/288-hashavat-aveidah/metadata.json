@@ -1,0 +1,76 @@
+{
+  "id": 288,
+  "title": "Returning Lost Objects: The Mitzvah of Hashavat Aveidah",
+  "title_zh": "归还失物:拾金不昧的诫命 (Hashavat Aveidah)",
+  "title_he": "החזרת אבידה: מצוות השבת האבידה",
+  "section": "money-business",
+  "slug": "hashavat-aveidah",
+  "word_count": {
+    "en": 1450,
+    "zh": 920,
+    "he": 1100
+  },
+  "tags": [
+    "HashavatAveidah",
+    "LostAndFound",
+    "JewishLaw",
+    "Ethics",
+    "Honesty",
+    "PropertyLaw",
+    "Mitzvot",
+    "TorahEthics",
+    "Halacha",
+    "MoneyBusiness",
+    "Integrity",
+    "Reciprocity",
+    "礼尚往来",
+    "Confucius",
+    "孔子",
+    "GoldenRule",
+    "Talmud",
+    "CommunityCare",
+    "SocialHarmony",
+    "中国文化",
+    "Daoism",
+    "無為"
+  ],
+  "cultural_parallels": [
+    "Confucian reciprocity (礼尚往来)",
+    "Golden Rule from Analects",
+    "Daoist Wu Wei and natural harmony",
+    "Tang Dynasty legal codes on lost property"
+  ],
+  "historical_periods": [
+    {
+      "jewish": "Biblical commandment period",
+      "date": "~1200-1000 BCE",
+      "chinese": "Late Shang Dynasty / Early Zhou Dynasty (商周)"
+    },
+    {
+      "jewish": "Talmudic period",
+      "date": "200-500 CE",
+      "chinese": "Three Kingdoms to Jin Dynasty"
+    },
+    {
+      "jewish": "Chassidic period (Baal Shem Tov)",
+      "date": "1698 CE",
+      "chinese": "Late Ming / Early Qing Dynasty (明清)"
+    }
+  ],
+  "key_concepts": [
+    "Hashavat Aveidah (returning lost objects)",
+    "Simanim (identifying marks)",
+    "Ye'ush (owner gives up hope)",
+    "Obligation to actively seek owner",
+    "When you can keep found objects",
+    "Spiritual dimension of returning lost items"
+  ],
+  "bibliography_count": 8,
+  "status": "completed",
+  "created_date": "2026-03-19",
+  "language_versions": [
+    "article-en.md",
+    "article-zh.md",
+    "article-he.md"
+  ]
+}

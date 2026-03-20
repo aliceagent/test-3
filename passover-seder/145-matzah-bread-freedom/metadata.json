@@ -1,0 +1,90 @@
+{
+  "id": 145,
+  "title": {
+    "en": "Matzah: The Bread of Affliction and Freedom",
+    "he": "מצה: לחם העוני והחירות",
+    "zh": "玛撒饼：苦难与自由的面包"
+  },
+  "section": "passover-seder",
+  "category": "holiday-traditions",
+  "date_created": "2026-03-18",
+  "summary": {
+    "en": "Explores the profound paradox of matzah as both the bread of slavery and liberation, the spiritual significance of the 18-minute rule, and how our greatest challenges can become foundations for triumph.",
+    "he": "חוקר את הפרדוקס העמוק של המצה כלחם עבדות וגאולה כאחד, המשמעות הרוחנית של כלל 18 הדקות, וכיצד האתגרים הגדולים שלנו יכולים להפוך ליסודות לניצחון.",
+    "zh": "探索玛撒饼作为奴役和解放面包的深刻悖论，18分钟规则的精神意义，以及我们最大的挑战如何能成为胜利的基础。"
+  },
+  "key_concepts": [
+    {
+      "term": "Lechem Oni",
+      "definition": "Bread of affliction - the matzah eaten during slavery in Egypt"
+    },
+    {
+      "term": "Eighteen-minute rule",
+      "definition": "The time limit from water touching flour to complete the matzah before it becomes chametz"
+    },
+    {
+      "term": "Shmura Matzah",
+      "definition": "Guarded matzah watched from harvest to consumption"
+    },
+    {
+      "term": "Chai",
+      "definition": "Hebrew for life, represented by the number eighteen"
+    }
+  ],
+  "cross_references": [
+    "exodus-story",
+    "chametz-removal",
+    "seder-symbols",
+    "spiritual-transformation",
+    "jewish-calendar"
+  ],
+  "difficulty_level": "intermediate",
+  "reading_time_minutes": 8,
+  "header_image": {
+    "description": "Ancient hands kneading dough on a wooden surface with wheat stalks, an hourglass showing 18 minutes, and broken matzah pieces arranged in a circle - symbolizing the transformation from slavery to freedom through time and tradition.",
+    "style": "realistic historical illustration",
+    "colors": [
+      "warm browns",
+      "golden wheat tones",
+      "soft lighting"
+    ],
+    "elements": [
+      "hands",
+      "dough",
+      "wooden surface",
+      "wheat stalks",
+      "hourglass",
+      "matzah pieces",
+      "circle arrangement"
+    ]
+  },
+  "cultural_references": {
+    "chinese_dynasties": [
+      {
+        "dynasty": "Tang",
+        "reference": "Poetry about finding light after darkness, paralleling the transformation from affliction to freedom"
+      },
+      {
+        "dynasty": "Song",
+        "reference": "Zhu Xi's philosophy of continuous learning and vigilance, relating to spiritual alertness"
+      },
+      {
+        "dynasty": "Ming",
+        "reference": "Wang Yangming's concept of unity of knowledge and action, connecting to the practice of freedom"
+      }
+    ]
+  },
+  "keywords": [
+    "passover",
+    "matzah",
+    "slavery",
+    "freedom",
+    "eighteen-minutes",
+    "chametz",
+    "shmura-matzah",
+    "bread-of-affliction",
+    "exodus",
+    "jewish-law",
+    "spiritual-transformation"
+  ]
+}
