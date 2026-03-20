@@ -648,7 +648,11 @@
       "he": ""
     },
     "section": "kosher-food",
-    "description": "Beyond the rules: why kashrut matters spiritually, what it does for the soul, and how it elevates the act of eating.",
+    "description": {
+      "en": "Beyond the rules: why kashrut matters spiritually, what it does for the soul, and how it elevates the act of eating.",
+      "zh": "超越规则：洁食的精神意义、对灵魂的作用，以及它如何提升饮食行为。",
+      "he": "מעבר לכללים: מדוע הכשרות חשובה מבחינה רוחנית, מה היא עושה לנשמה, וכיצד היא מרוממת את פעולת האכילה."
+    },
     "tags": [
       "#Kosher",
       "#Kashrut",
@@ -694,7 +698,11 @@
       "he": ""
     },
     "section": "mitzvah-objects",
-    "description": "The meaning, laws, and proper placement of the mezuzah — plus what's written on the scroll inside.",
+    "description": {
+      "en": "The meaning, laws, and proper placement of the mezuzah — plus what's written on the scroll inside.",
+      "zh": "门柱圣卷的含义、律法和正确安装方式——以及卷轴上写了什么。",
+      "he": "משמעות, הלכות וקביעה נכונה של המזוזה — ומה כתוב בקלף שבפנים."
+    },
     "tags": [
       "#Mezuzah",
       "#MitzvahObjects",
@@ -730,7 +738,11 @@
       "he": "ציצית: הציצי‌ות המזכירות את מצוות ה'"
     },
     "section": "mitzvah-objects",
-    "description": "What are the strings on the corners of a Jewish garment? Understanding the mitzvah of tzitzit and how to wear them daily.",
+    "description": {
+      "en": "What are the strings on the corners of a Jewish garment? Understanding the mitzvah of tzitzit and how to wear them daily.",
+      "zh": "犹太服饰角落上的细绳是什么？了解衣穗的诫命及日常佩戴方式。",
+      "he": "מהם החוטים בפינות הבגד היהודי? הבנת מצוות ציצית וכיצד ללבוש אותן יום-יום."
+    },
     "tags": [
       "Tzitzit",
       "Mitzvah",
@@ -783,7 +795,11 @@
       "he": "הטלית: יותר מסתם כיסוי לתפילה"
     },
     "section": "mitzvah-objects",
-    "description": "History, laws, and customs of the tallit — when to wear it, how to put it on, and the significance of the blue thread.",
+    "description": {
+      "en": "History, laws, and customs of the tallit — when to wear it, how to put it on, and the significance of the blue thread.",
+      "zh": "祈祷披巾的历史、律法和习俗——何时穿戴、如何穿上，以及蓝色线的意义。",
+      "he": "היסטוריה, הלכות ומנהגי הטלית — מתי ללבוש, כיצד לעטוף, ומשמעות החוט הכחול."
+    },
     "tags": [
       "Tallit",
       "Tzitzit",
@@ -814,7 +830,11 @@
       "he": ""
     },
     "section": "mitzvah-objects",
-    "description": "Where to purchase authentic mezuzot, tefillin, tallitot, and other ritual items when you live far from a Jewish community.",
+    "description": {
+      "en": "Where to purchase authentic mezuzot, tefillin, tallitot, and other ritual items when you live far from a Jewish community.",
+      "zh": "当您远离犹太社区时，在哪里购买正宗的门柱圣卷、经匣、祈祷披巾等仪式用品。",
+      "he": "היכן לרכוש מזוזות, תפילין, טליתות וחפצי קדושה אחרים כשגרים רחוק מקהילה יהודית."
+    },
     "tags": [
       "Mitzvah Objects",
       "Mezuzah",
@@ -855,7 +875,11 @@
       "he": "יום כיפור: היום הקדוש ביותר בשנה"
     },
     "section": "holidays",
-    "description": "A complete guide to the Day of Atonement — the five prohibitions, Kol Nidrei, vidui (confession), and the Ne'ilah closing prayer.",
+    "description": {
+      "en": "A complete guide to the Day of Atonement — the five prohibitions, Kol Nidrei, vidui (confession), and the Ne'ilah closing prayer.",
+      "zh": "赎罪日完全指南——五项禁令、Kol Nidrei、认罪祈祷和Ne'ilah闭幕祈祷。",
+      "he": "מדריך מלא ליום כיפור — חמישה עינויים, כל נדרי, וידוי, ותפילת נעילה."
+    },
     "tags": [
       "YomKippur",
       "DayOfAtonement",
@@ -890,7 +914,11 @@
       "he": "פורים: שמחה, צדקה ויד ה' הנסתרת"
     },
     "section": "holidays",
-    "description": "Understanding the four mitzvot of Purim: Megillah reading, mishloach manot, gifts to the poor, and the festive meal.",
+    "description": {
+      "en": "Understanding the four mitzvot of Purim: Megillah reading, mishloach manot, gifts to the poor, and the festive meal.",
+      "zh": "了解普珥节的四项诫命：诵读Megillah、赠送食物礼物、施舍穷人和节日盛宴。",
+      "he": "הבנת ארבע מצוות פורים: מקרא מגילה, משלוח מנות, מתנות לאביונים, וסעודת פורים."
+    },
     "tags": [
       "Purim",
       "Esther",
@@ -927,7 +955,11 @@
       "he": "ספירת העומר: מסע של 49 יום מפסח לשבועות"
     },
     "section": "jewish-calendar",
-    "description": "What is the Omer count, how to do it, and the kabbalistic practice of refining one character trait each week.",
+    "description": {
+      "en": "What is the Omer count, how to do it, and the kabbalistic practice of refining one character trait each week.",
+      "zh": "什么是计数Omer、如何进行，以及每周修炼一种品格特质的卡巴拉传统。",
+      "he": "מהי ספירת העומר, כיצד סופרים, והמנהג הקבלי של תיקון מידה אחת בכל שבוע."
+    },
     "tags": [
       "Omer",
       "CountingTheOmer",
@@ -970,7 +1002,11 @@
       "he": ""
     },
     "section": "jewish-calendar",
-    "description": "The significance of the new moon in Judaism, special prayers, and why Rosh Chodesh is traditionally a women's holiday.",
+    "description": {
+      "en": "The significance of the new moon in Judaism, special prayers, and why Rosh Chodesh is traditionally a women's holiday.",
+      "zh": "新月在犹太教中的意义、特别祈祷，以及为何月朔传统上是女性的节日。",
+      "he": "משמעות החודש החדש ביהדות, תפילות מיוחדות, ומדוע ראש חודש הוא מסורתית חג של נשים."
+    },
     "tags": [
       "RoshChodesh",
       "JewishCalendar",
@@ -1001,7 +1037,11 @@
       "he": ""
     },
     "section": "holidays",
-    "description": "How to conduct a Tu BiShvat Seder with the seven species, four cups of wine, and environmental teachings from Torah.",
+    "description": {
+      "en": "How to conduct a Tu BiShvat Seder with the seven species, four cups of wine, and environmental teachings from Torah.",
+      "zh": "如何用七种果实、四杯葡萄酒和Torah中的环保教义举办树木新年的Seder。",
+      "he": "כיצד לערוך סדר ט\"ו בשבט עם שבעת המינים, ארבע כוסות יין, ולימודי סביבה מהתורה."
+    },
     "tags": [
       "TuBiShvat",
       "NewYearForTrees",
@@ -1043,7 +1083,11 @@
       "he": "הכותל המערבי: למה יהודים מתפללים ליד חומת אבן עתיקה"
     },
     "section": "israel",
-    "description": "The history and significance of the Kotel — the last remnant of the Temple — and the customs of visiting it.",
+    "description": {
+      "en": "The history and significance of the Kotel — the last remnant of the Temple — and the customs of visiting it.",
+      "zh": "西墙——圣殿最后的遗迹——的历史和意义，以及参观习俗。",
+      "he": "ההיסטוריה והמשמעות של הכותל המערבי — שריד בית המקדש — ומנהגי הביקור."
+    },
     "tags": [
       "WesternWall",
       "Kotel",
@@ -1079,7 +1123,11 @@
       "he": ""
     },
     "section": "conversion",
-    "description": "A practical roadmap for your first year of Jewish observance — which holidays you'll encounter, what to learn when, and milestones to celebrate.",
+    "description": {
+      "en": "A practical roadmap for your first year of Jewish observance — which holidays you'll encounter, what to learn when, and milestones to celebrate.",
+      "zh": "犹太守律生活第一年的实用路线图——您将遇到哪些节日、何时学什么，以及值得庆祝的里程碑。",
+      "he": "מפת דרכים מעשית לשנה הראשונה שלכם בשמירת מצוות — אילו חגים תפגשו, מה ללמוד ומתי, ואבני דרך לחגוג."
+    },
     "tags": [
       "Conversion",
       "FirstYear",
