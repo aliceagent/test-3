@@ -9,7 +9,7 @@ type BibEntry = {
   id: number | null;
   title: { en: string; zh: string; he: string };
   section: string;
-  description: string;
+  description: string | { en: string; zh: string; he: string };
   tags: string[];
   sources: string[];
   cultural_parallels: string[];
@@ -20,50 +20,39 @@ type BibEntry = {
 
 const entries = bibliographyIndex as BibEntry[];
 
-// Normalize section slug → display name & href
-const SECTION_MAP: Record<string, { label: string; href: string }> = {
-  shabbat: { label: "Shabbat", href: "/shabbat" },
-  "torah-study": { label: "Torah Study", href: "/torah-study" },
-  "weekly-parsha": { label: "Weekly Parsha", href: "/weekly-parsha" },
-  holidays: { label: "Holidays", href: "/holidays" },
-  "kosher-food": { label: "Kosher Food", href: "/kosher-food" },
-  prayer: { label: "Prayer", href: "/prayer" },
-  conversion: { label: "Conversion", href: "/conversion" },
-  "jewish-history": { label: "Jewish History", href: "/jewish-history" },
-  "jewish-texts": { label: "Classic Texts", href: "/jewish-texts" },
-  blessings: { label: "Blessings", href: "/blessings" },
-  community: { label: "Community", href: "/community" },
-  mentorship: { label: "Mentorship", href: "/mentorship" },
-  mussar: { label: "Mussar", href: "/mussar" },
-  philosophy: { label: "Philosophy", href: "/philosophy" },
-  israel: { label: "Israel", href: "/israel" },
-  "jewish-calendar": { label: "Jewish Calendar", href: "/jewish-calendar" },
-  "life-cycle": { label: "Life Cycle", href: "/life-cycle" },
-  "mitzvah-objects": { label: "Mitzvah Objects", href: "/mitzvah-objects" },
-  mitzvah_objects: { label: "Mitzvah Objects", href: "/mitzvah-objects" },
-  chabad: { label: "Chabad", href: "/chabad" },
-  "ashkenazi-&-sephardi": {
-    label: "Ashkenazi & Sephardi",
-    href: "/ashkenazi-sephardi",
-  },
-  "ashkenazi-sephardi": {
-    label: "Ashkenazi & Sephardi",
-    href: "/ashkenazi-sephardi",
-  },
-  "pirkei-avot": { label: "Pirkei Avot", href: "/pirkei-avot" },
-  "passover-seder": { label: "Passover Seder", href: "/passover-seder" },
-  "jews-in-asia": { label: "Jews in Asia", href: "/jews-in-asia" },
-  "hebrew-learning": { label: "Hebrew Learning", href: "/hebrew-learning" },
+// Map section slugs → nav translation keys and href
+const SECTION_NAV_MAP: Record<string, { navKey: string; href: string }> = {
+  shabbat: { navKey: "shabbat", href: "/shabbat" },
+  "torah-study": { navKey: "torahStudy", href: "/torah-study" },
+  "weekly-parsha": { navKey: "weeklyParsha", href: "/weekly-parsha" },
+  holidays: { navKey: "holidays", href: "/holidays" },
+  "kosher-food": { navKey: "kosherFood", href: "/kosher-food" },
+  prayer: { navKey: "prayer", href: "/prayer" },
+  conversion: { navKey: "conversion", href: "/conversion" },
+  "jewish-history": { navKey: "jewishHistory", href: "/jewish-history" },
+  "jewish-texts": { navKey: "jewishTexts", href: "/jewish-texts" },
+  blessings: { navKey: "blessings", href: "/blessings" },
+  community: { navKey: "community", href: "/community" },
+  mentorship: { navKey: "mentorship", href: "/mentorship" },
+  mussar: { navKey: "mussar", href: "/mussar" },
+  philosophy: { navKey: "philosophy", href: "/philosophy" },
+  israel: { navKey: "israel", href: "/israel" },
+  "jewish-calendar": { navKey: "jewishCalendar", href: "/jewish-calendar" },
+  "life-cycle": { navKey: "lifeCycle", href: "/life-cycle" },
+  "mitzvah-objects": { navKey: "mitzvahObjects", href: "/mitzvah-objects" },
+  mitzvah_objects: { navKey: "mitzvahObjects", href: "/mitzvah-objects" },
+  chabad: { navKey: "chabad", href: "/chabad" },
+  "ashkenazi-&-sephardi": { navKey: "ashkenaziSephardi", href: "/ashkenazi-sephardi" },
+  "ashkenazi-sephardi": { navKey: "ashkenaziSephardi", href: "/ashkenazi-sephardi" },
+  "pirkei-avot": { navKey: "pirkeiAvot", href: "/pirkei-avot" },
+  "passover-seder": { navKey: "passoverSeder", href: "/passover-seder" },
+  "jews-in-asia": { navKey: "jewsInAsia", href: "/jews-in-asia" },
+  "hebrew-learning": { navKey: "hebrewLearning", href: "/hebrew-learning" },
 };
 
-function getSectionInfo(section: string) {
-  return (
-    SECTION_MAP[section] ||
-    SECTION_MAP[section.toLowerCase()] || {
-      label: section || "General",
-      href: `/${section}`,
-    }
-  );
+function getDescriptionText(desc: string | { en: string; zh: string; he: string }): string {
+  if (typeof desc === "string") return desc;
+  return [desc.en, desc.zh, desc.he].filter(Boolean).join(" ");
 }
 
 function entryMatchesQuery(entry: BibEntry, query: string): boolean {
@@ -73,7 +62,7 @@ function entryMatchesQuery(entry: BibEntry, query: string): boolean {
     entry.title.en,
     entry.title.zh,
     entry.title.he,
-    entry.description,
+    getDescriptionText(entry.description),
     entry.section,
     ...entry.tags,
     ...entry.sources,
@@ -87,14 +76,29 @@ function entryMatchesQuery(entry: BibEntry, query: string): boolean {
 
 export default function BibliographyPage() {
   const t = useTranslations("bibliography");
+  const nav = useTranslations("nav");
   const locale = useLocale();
   const [query, setQuery] = useState("");
   const [activeSection, setActiveSection] = useState<string>("all");
 
+  function getSectionInfo(section: string) {
+    const mapped = SECTION_NAV_MAP[section] || SECTION_NAV_MAP[section.toLowerCase()];
+    if (mapped) {
+      return { label: nav(mapped.navKey), href: mapped.href };
+    }
+    return { label: section || "General", href: `/${section}` };
+  }
+
+  function getDescription(desc: string | { en: string; zh: string; he: string }): string {
+    if (typeof desc === "string") return desc;
+    if (locale === "zh" && desc.zh) return desc.zh;
+    if (locale === "he" && desc.he) return desc.he;
+    return desc.en || desc.zh || desc.he || "";
+  }
+
   const allSections = useMemo(() => {
     const seen = new Set<string>();
     entries.forEach((e) => {
-      const s = getSectionInfo(e.section);
       if (e.section) seen.add(e.section);
     });
     return ["all", ...Array.from(seen).sort()];
@@ -241,9 +245,9 @@ export default function BibliographyPage() {
                 </div>
 
                 {/* Description */}
-                {entry.description && (
+                {getDescription(entry.description) && (
                   <p className="text-sm text-[var(--color-text-light)] mb-3">
-                    {entry.description}
+                    {getDescription(entry.description)}
                   </p>
                 )}
 

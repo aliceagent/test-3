@@ -7,7 +7,11 @@
       "he": "איזו ברכה אני אומר? מדריך מהיר לברכות על מאכלים"
     },
     "section": "blessings",
-    "description": "A handy chart showing which blessing to say before and after every type of food and drink.",
+    "description": {
+      "en": "A handy chart showing which blessing to say before and after every type of food and drink.",
+      "zh": "一份实用图表，展示每种食物和饮料前后应说哪种祝福祷告。",
+      "he": "טבלה שימושית המראה איזו ברכה לומר לפני ואחרי כל סוג של אוכל ושתייה."
+    },
     "tags": [
       "Blessings",
       "Bracha",
@@ -56,7 +60,11 @@
       "he": ""
     },
     "section": "blessings",
-    "description": "A guide to the special blessings recited upon experiencing natural wonders, including the rare Shehecheyanu.",
+    "description": {
+      "en": "A guide to the special blessings recited upon experiencing natural wonders, including the rare Shehecheyanu.",
+      "zh": "体验自然奇观时所诵特别祝福的指南，包括罕见的Shehecheyanu祝福。",
+      "he": "מדריך לברכות המיוחדות הנאמרות בעת חוויית פלאי הטבע, כולל ברכת שהחיינו."
+    },
     "tags": [
       "Blessings",
       "Nature",
@@ -111,7 +119,11 @@
       "he": "הקמת קבוצת לימוד יהודית בעירכם"
     },
     "section": "community",
-    "description": "How to organize and run a weekly Torah study group, even when you're not an expert — with discussion guides included.",
+    "description": {
+      "en": "How to organize and run a weekly Torah study group, even when you're not an expert — with discussion guides included.",
+      "zh": "如何组织和主持每周Torah学习小组，即使您不是专家——附带讨论指南。",
+      "he": "כיצד לארגן ולנהל שיעור תורה שבועי, גם כשאינכם מומחים — כולל מדריכי דיון."
+    },
     "tags": [
       "Community",
       "Torah Study",
@@ -144,7 +156,11 @@
       "he": "בתי חב\"ד בסין: המדריך והמפתח המלאים שלך"
     },
     "section": "community",
-    "description": "A comprehensive list of Chabad centers across China (Shanghai, Beijing, Hong Kong, Chengdu, and more) with contacts and services.",
+    "description": {
+      "en": "A comprehensive list of Chabad centers across China (Shanghai, Beijing, Hong Kong, Chengdu, and more) with contacts and services.",
+      "zh": "中国各地哈巴德中心的综合列表（上海、北京、香港、成都等），附联系方式和服务。",
+      "he": "רשימה מקיפה של בתי חב\"ד ברחבי סין (שנגחאי, בייג'ינג, הונג קונג, צ'נגדו ועוד) עם פרטי קשר ושירותים."
+    },
     "tags": [
       "Chabad",
       "ChabadHouse",
@@ -183,7 +199,11 @@
       "he": "אשכנזים וספרדים: הבנת שתי המסורות הגדולות של העם היהודי"
     },
     "section": "ashkenazi-&-sephardi",
-    "description": "A detailed comparison of customs, cuisine, prayer styles, and halachic rulings between Ashkenazi and Sephardi Jews.",
+    "description": {
+      "en": "A detailed comparison of customs, cuisine, prayer styles, and halachic rulings between Ashkenazi and Sephardi Jews.",
+      "zh": "阿什肯纳兹和塞法迪犹太人在习俗、饮食、祈祷风格和律法裁决方面的详细比较。",
+      "he": "השוואה מפורטת של מנהגים, מטבח, סגנונות תפילה ופסיקות הלכתיות בין אשכנזים לספרדים."
+    },
     "tags": [
       "Ashkenazi",
       "Sephardi",
@@ -235,7 +255,11 @@
       "he": ""
     },
     "section": "blessings",
-    "description": "The full text of the Grace After Meals with translation and explanation of each of the four blessings.",
+    "description": {
+      "en": "The full text of the Grace After Meals with translation and explanation of each of the four blessings.",
+      "zh": "饭后感恩祷告全文，附四段祝福的翻译和解释。",
+      "he": "הנוסח המלא של ברכת המזון עם תרגום והסבר לכל אחת מארבע הברכות."
+    },
     "tags": [
       "BirkatHaMazon",
       "GraceAfterMeals",
@@ -364,7 +388,11 @@
       "he": ""
     },
     "section": "conversion",
-    "description": "Sensitive guidance for maintaining loving relationships with non-Jewish family members during and after conversion.",
+    "description": {
+      "en": "Sensitive guidance for maintaining loving relationships with non-Jewish family members during and after conversion.",
+      "zh": "在皈依过程中及之后，如何维护与非犹太家庭成员亲密关系的敏感指导。",
+      "he": "הדרכה רגישה לשמירה על יחסים אוהבים עם בני משפחה שאינם יהודים במהלך ואחרי הגיור."
+    },
     "tags": [
       "#Conversion",
       "#FamilyRelationships",
@@ -404,7 +432,11 @@
       "he": ""
     },
     "section": "prayer",
-    "description": "A word-by-word breakdown of the three paragraphs of Shema, their meaning, and why Jews recite it twice daily.",
+    "description": {
+      "en": "A word-by-word breakdown of the three paragraphs of Shema, their meaning, and why Jews recite it twice daily.",
+      "zh": "Shema三段经文的逐词解析、含义，以及犹太人为何每日诵读两次。",
+      "he": "פירוש מילה במילה של שלושת הפרקים של קריאת שמע, משמעותם, ומדוע יהודים קוראים אותה פעמיים ביום."
+    },
     "tags": [
       "Shema",
       "Prayer",
@@ -457,7 +489,11 @@
       "he": ""
     },
     "section": "kosher-food",
-    "description": "How to make your favorite Chinese dishes kosher — from stir-fry to dumplings — including ingredient substitutions and kitchen setup.",
+    "description": {
+      "en": "How to make your favorite Chinese dishes kosher — from stir-fry to dumplings — including ingredient substitutions and kitchen setup.",
+      "zh": "如何让您喜爱的中餐变得符合洁食标准——从炒菜到饺子——包括食材替代和厨房设置。",
+      "he": "כיצד להכין את המאכלים הסיניים האהובים עליכם בכשרות — מטיגון מהיר ועד כיסוני בצק — כולל תחליפי מרכיבים והכנת המטבח."
+    },
     "tags": [
       "KosherFood",
       "ChineseCuisine",
@@ -497,7 +533,11 @@
       "he": "האם רוטב סויה כשר? מרכיבים אסייתיים נפוצים תחת המיקרוסקופ ההלכתי"
     },
     "section": "kosher-food",
-    "description": "A detailed guide to the kosher status of soy sauce, rice vinegar, miso, tofu, nori, and other Asian staples.",
+    "description": {
+      "en": "A detailed guide to the kosher status of soy sauce, rice vinegar, miso, tofu, nori, and other Asian staples.",
+      "zh": "豆油、米醋、味噌、豆腐、海苔等亚洲常用食材的洁食状态详细指南。",
+      "he": "מדריך מפורט לכשרות של רוטב סויה, חומץ אורז, מיסו, טופו, נורי ומצרכים אסיאתיים אחרים."
+    },
     "tags": [
       "KosherFood",
       "AsianCuisine",
@@ -572,7 +612,11 @@
       "he": ""
     },
     "section": "kosher-food",
-    "description": "A visual guide to the most common hechsher (kosher certification) symbols and what each one means.",
+    "description": {
+      "en": "A visual guide to the most common hechsher (kosher certification) symbols and what each one means.",
+      "zh": "最常见的洁食认证标志及其含义的图解指南。",
+      "he": "מדריך ויזואלי לסימני ההכשר הנפוצים ביותר ומשמעות כל אחד מהם."
+    },
     "tags": [
       "Kosher",
       "KosherCertification",
@@ -604,7 +648,11 @@
       "he": ""
     },
     "section": "kosher-food",
-    "description": "Beyond the rules: why kashrut matters spiritually, what it does for the soul, and how it elevates the act of eating.",
+    "description": {
+      "en": "Beyond the rules: why kashrut matters spiritually, what it does for the soul, and how it elevates the act of eating.",
+      "zh": "超越规则：洁食的精神意义、对灵魂的作用，以及它如何提升饮食行为。",
+      "he": "מעבר לכללים: מדוע הכשרות חשובה מבחינה רוחנית, מה היא עושה לנשמה, וכיצד היא מרוממת את פעולת האכילה."
+    },
     "tags": [
       "#Kosher",
       "#Kashrut",
@@ -650,7 +698,11 @@
       "he": ""
     },
     "section": "mitzvah-objects",
-    "description": "The meaning, laws, and proper placement of the mezuzah — plus what's written on the scroll inside.",
+    "description": {
+      "en": "The meaning, laws, and proper placement of the mezuzah — plus what's written on the scroll inside.",
+      "zh": "门柱圣卷的含义、律法和正确安装方式——以及卷轴上写了什么。",
+      "he": "משמעות, הלכות וקביעה נכונה של המזוזה — ומה כתוב בקלף שבפנים."
+    },
     "tags": [
       "#Mezuzah",
       "#MitzvahObjects",
@@ -686,7 +738,11 @@
       "he": "ציצית: הציצי‌ות המזכירות את מצוות ה'"
     },
     "section": "mitzvah-objects",
-    "description": "What are the strings on the corners of a Jewish garment? Understanding the mitzvah of tzitzit and how to wear them daily.",
+    "description": {
+      "en": "What are the strings on the corners of a Jewish garment? Understanding the mitzvah of tzitzit and how to wear them daily.",
+      "zh": "犹太服饰角落上的细绳是什么？了解衣穗的诫命及日常佩戴方式。",
+      "he": "מהם החוטים בפינות הבגד היהודי? הבנת מצוות ציצית וכיצד ללבוש אותן יום-יום."
+    },
     "tags": [
       "Tzitzit",
       "Mitzvah",
@@ -739,7 +795,11 @@
       "he": "הטלית: יותר מסתם כיסוי לתפילה"
     },
     "section": "mitzvah-objects",
-    "description": "History, laws, and customs of the tallit — when to wear it, how to put it on, and the significance of the blue thread.",
+    "description": {
+      "en": "History, laws, and customs of the tallit — when to wear it, how to put it on, and the significance of the blue thread.",
+      "zh": "祈祷披巾的历史、律法和习俗——何时穿戴、如何穿上，以及蓝色线的意义。",
+      "he": "היסטוריה, הלכות ומנהגי הטלית — מתי ללבוש, כיצד לעטוף, ומשמעות החוט הכחול."
+    },
     "tags": [
       "Tallit",
       "Tzitzit",
@@ -770,7 +830,11 @@
       "he": ""
     },
     "section": "mitzvah-objects",
-    "description": "Where to purchase authentic mezuzot, tefillin, tallitot, and other ritual items when you live far from a Jewish community.",
+    "description": {
+      "en": "Where to purchase authentic mezuzot, tefillin, tallitot, and other ritual items when you live far from a Jewish community.",
+      "zh": "当您远离犹太社区时，在哪里购买正宗的门柱圣卷、经匣、祈祷披巾等仪式用品。",
+      "he": "היכן לרכוש מזוזות, תפילין, טליתות וחפצי קדושה אחרים כשגרים רחוק מקהילה יהודית."
+    },
     "tags": [
       "Mitzvah Objects",
       "Mezuzah",
@@ -811,7 +875,11 @@
       "he": "יום כיפור: היום הקדוש ביותר בשנה"
     },
     "section": "holidays",
-    "description": "A complete guide to the Day of Atonement — the five prohibitions, Kol Nidrei, vidui (confession), and the Ne'ilah closing prayer.",
+    "description": {
+      "en": "A complete guide to the Day of Atonement — the five prohibitions, Kol Nidrei, vidui (confession), and the Ne'ilah closing prayer.",
+      "zh": "赎罪日完全指南——五项禁令、Kol Nidrei、认罪祈祷和Ne'ilah闭幕祈祷。",
+      "he": "מדריך מלא ליום כיפור — חמישה עינויים, כל נדרי, וידוי, ותפילת נעילה."
+    },
     "tags": [
       "YomKippur",
       "DayOfAtonement",
@@ -846,7 +914,11 @@
       "he": "פורים: שמחה, צדקה ויד ה' הנסתרת"
     },
     "section": "holidays",
-    "description": "Understanding the four mitzvot of Purim: Megillah reading, mishloach manot, gifts to the poor, and the festive meal.",
+    "description": {
+      "en": "Understanding the four mitzvot of Purim: Megillah reading, mishloach manot, gifts to the poor, and the festive meal.",
+      "zh": "了解普珥节的四项诫命：诵读Megillah、赠送食物礼物、施舍穷人和节日盛宴。",
+      "he": "הבנת ארבע מצוות פורים: מקרא מגילה, משלוח מנות, מתנות לאביונים, וסעודת פורים."
+    },
     "tags": [
       "Purim",
       "Esther",
@@ -883,7 +955,11 @@
       "he": "ספירת העומר: מסע של 49 יום מפסח לשבועות"
     },
     "section": "jewish-calendar",
-    "description": "What is the Omer count, how to do it, and the kabbalistic practice of refining one character trait each week.",
+    "description": {
+      "en": "What is the Omer count, how to do it, and the kabbalistic practice of refining one character trait each week.",
+      "zh": "什么是计数Omer、如何进行，以及每周修炼一种品格特质的卡巴拉传统。",
+      "he": "מהי ספירת העומר, כיצד סופרים, והמנהג הקבלי של תיקון מידה אחת בכל שבוע."
+    },
     "tags": [
       "Omer",
       "CountingTheOmer",
@@ -926,7 +1002,11 @@
       "he": ""
     },
     "section": "jewish-calendar",
-    "description": "The significance of the new moon in Judaism, special prayers, and why Rosh Chodesh is traditionally a women's holiday.",
+    "description": {
+      "en": "The significance of the new moon in Judaism, special prayers, and why Rosh Chodesh is traditionally a women's holiday.",
+      "zh": "新月在犹太教中的意义、特别祈祷，以及为何月朔传统上是女性的节日。",
+      "he": "משמעות החודש החדש ביהדות, תפילות מיוחדות, ומדוע ראש חודש הוא מסורתית חג של נשים."
+    },
     "tags": [
       "RoshChodesh",
       "JewishCalendar",
@@ -957,7 +1037,11 @@
       "he": ""
     },
     "section": "holidays",
-    "description": "How to conduct a Tu BiShvat Seder with the seven species, four cups of wine, and environmental teachings from Torah.",
+    "description": {
+      "en": "How to conduct a Tu BiShvat Seder with the seven species, four cups of wine, and environmental teachings from Torah.",
+      "zh": "如何用七种果实、四杯葡萄酒和Torah中的环保教义举办树木新年的Seder。",
+      "he": "כיצד לערוך סדר ט\"ו בשבט עם שבעת המינים, ארבע כוסות יין, ולימודי סביבה מהתורה."
+    },
     "tags": [
       "TuBiShvat",
       "NewYearForTrees",
@@ -999,7 +1083,11 @@
       "he": "הכותל המערבי: למה יהודים מתפללים ליד חומת אבן עתיקה"
     },
     "section": "israel",
-    "description": "The history and significance of the Kotel — the last remnant of the Temple — and the customs of visiting it.",
+    "description": {
+      "en": "The history and significance of the Kotel — the last remnant of the Temple — and the customs of visiting it.",
+      "zh": "西墙——圣殿最后的遗迹——的历史和意义，以及参观习俗。",
+      "he": "ההיסטוריה והמשמעות של הכותל המערבי — שריד בית המקדש — ומנהגי הביקור."
+    },
     "tags": [
       "WesternWall",
       "Kotel",
@@ -1035,7 +1123,11 @@
       "he": ""
     },
     "section": "conversion",
-    "description": "A practical roadmap for your first year of Jewish observance — which holidays you'll encounter, what to learn when, and milestones to celebrate.",
+    "description": {
+      "en": "A practical roadmap for your first year of Jewish observance — which holidays you'll encounter, what to learn when, and milestones to celebrate.",
+      "zh": "犹太守律生活第一年的实用路线图——您将遇到哪些节日、何时学什么，以及值得庆祝的里程碑。",
+      "he": "מפת דרכים מעשית לשנה הראשונה שלכם בשמירת מצוות — אילו חגים תפגשו, מה ללמוד ומתי, ואבני דרך לחגוג."
+    },
     "tags": [
       "Conversion",
       "FirstYear",
@@ -1125,7 +1217,11 @@
       "he": "ארבעת המינים: כיצד לבחור ולהשתמש בהם"
     },
     "section": "holidays",
-    "description": "A guide to selecting the lulav, etrog, hadas, and arava — and the waving ritual performed during Sukkot.",
+    "description": {
+      "en": "A guide to selecting the lulav, etrog, hadas, and arava — and the waving ritual performed during Sukkot.",
+      "zh": "如何挑选芦拉枝、香橼、桃金娘和柳枝——以及住棚节期间的挥舞仪式指南。",
+      "he": "מדריך לבחירת לולב, אתרוג, הדס וערבה — וטקס הנענועים בסוכות."
+    },
     "tags": [
       "Sukkot",
       "Four Species",
@@ -1160,7 +1256,11 @@
       "he": ""
     },
     "section": "holidays",
-    "description": "Why Jews study Torah all night on Shavuot, the connection to the Book of Ruth, and the custom of eating dairy foods.",
+    "description": {
+      "en": "Why Jews study Torah all night on Shavuot, the connection to the Book of Ruth, and the custom of eating dairy foods.",
+      "zh": "为什么犹太人在七七节通宵学习Torah、与《路得记》的关联，以及吃奶制品的习俗。",
+      "he": "מדוע יהודים לומדים תורה כל הלילה בשבועות, הקשר למגילת רות, ומנהג אכילת מאכלי חלב."
+    },
     "tags": [
       "Shavuot",
       "TorahStudy",
@@ -1195,7 +1295,11 @@
       "he": "מהי ציונות? נקודת מבט יהודית"
     },
     "section": "",
-    "description": "An exploration of Zionism from a Jewish perspective — its biblical roots, historical development, and theological significance.",
+    "description": {
+      "en": "An exploration of Zionism from a Jewish perspective — its biblical roots, historical development, and theological significance.",
+      "zh": "从犹太视角探索犹太复国主义——其圣经根源、历史发展和神学意义。",
+      "he": "חקירת הציונות מנקודת מבט יהודית — שורשיה המקראיים, התפתחותה ההיסטורית, ומשמעותה התיאולוגית."
+    },
     "tags": [
       "zionism",
       "israel",
@@ -1228,7 +1332,11 @@
       "he": "אברהם: היהודי הראשון ומה שלימד את העולם"
     },
     "section": "",
-    "description": "The story of Abraham, the founding father of the Jewish people, his discovery of monotheism, and the enduring lessons of his life for modern seekers.",
+    "description": {
+      "en": "The story of Abraham, the founding father of the Jewish people, his discovery of monotheism, and the enduring lessons of his life for modern seekers.",
+      "zh": "犹太民族始祖亚伯拉罕的故事、他对一神论的发现，以及他一生对现代求道者的恒久教诲。",
+      "he": "סיפורו של אברהם, אבי האומה היהודית, גילוי האמונה באל אחד, והלקחים הנצחיים מחייו למחפשים בימינו."
+    },
     "tags": [
       "abraham",
       "avraham",
@@ -1261,7 +1369,11 @@
       "he": ""
     },
     "section": "passover-seder",
-    "description": "Everything you need to run or attend your first Seder — from the Seder plate to the Four Questions to finding the afikoman.",
+    "description": {
+      "en": "Everything you need to run or attend your first Seder — from the Seder plate to the Four Questions to finding the afikoman.",
+      "zh": "参加或主持第一次家宴所需的一切——从Seder盘到四个问题再到寻找afikoman。",
+      "he": "כל מה שצריך כדי לנהל או להשתתף בסדר הראשון שלכם — מצלחת הסדר לארבע הקושיות ועד מציאת האפיקומן."
+    },
     "tags": [
       "#Passover",
       "#Seder",
@@ -1312,7 +1424,11 @@
       "he": "ניקיון לפסח: המדריך המלא להסרת חמץ"
     },
     "section": "passover-seder",
-    "description": "Room-by-room guide to searching for and removing chametz before Passover, including bedikat chametz and selling chametz.",
+    "description": {
+      "en": "Room-by-room guide to searching for and removing chametz before Passover, including bedikat chametz and selling chametz.",
+      "zh": "逾越节前逐房搜索和清除酵母的指南，包括搜查酵母和出售酵母的仪式。",
+      "he": "מדריך חדר-אחר-חדר לחיפוש והסרת חמץ לפני פסח, כולל בדיקת חמץ ומכירת חמץ."
+    },
     "tags": [
       "Passover",
       "Pesach",
@@ -1349,7 +1465,11 @@
       "he": "האם אלוהים קיים? הטיעונים הפילוסופיים היהודיים"
     },
     "section": "philosophy",
-    "description": "A survey of classical and modern arguments for God's existence from Rambam, the Kuzari, and contemporary thinkers.",
+    "description": {
+      "en": "A survey of classical and modern arguments for God's existence from Rambam, the Kuzari, and contemporary thinkers.",
+      "zh": "从Rambam、Kuzari和当代思想家的角度，概述关于上帝存在的经典和现代论证。",
+      "he": "סקירת הטיעונים הקלאסיים והמודרניים לקיום האל מהרמב\"ם, הכוזרי והוגים בני זמננו."
+    },
     "tags": [
       "Philosophy",
       "God",
@@ -1428,7 +1548,11 @@
       "he": ""
     },
     "section": "philosophy",
-    "description": "Understanding nefesh, ruach, neshamah, chayah, and yechidah — the five levels of the soul in Jewish mysticism.",
+    "description": {
+      "en": "Understanding nefesh, ruach, neshamah, chayah, and yechidah — the five levels of the soul in Jewish mysticism.",
+      "zh": "理解nefesh、ruach、neshamah、chayah和yechidah——犹太神秘主义中灵魂的五个层次。",
+      "he": "הבנת נפש, רוח, נשמה, חיה ויחידה — חמש דרגות הנשמה בקבלה."
+    },
     "tags": [
       "JewishSoul",
       "Neshamah",
@@ -1475,7 +1599,11 @@
       "he": ""
     },
     "section": "philosophy",
-    "description": "Exploring the seeming paradox of human choice and God's omniscience, as explained by Rambam and Chassidic thought.",
+    "description": {
+      "en": "Exploring the seeming paradox of human choice and God's omniscience, as explained by Rambam and Chassidic thought.",
+      "zh": "探索人类自由选择与上帝全知之间看似矛盾的关系，以Rambam和哈西迪思想的解释。",
+      "he": "חקירת הפרדוקס לכאורה בין בחירה חופשית לידיעת ה', כפי שמוסבר ברמב\"ם ובחסידות."
+    },
     "tags": [
       "FreeWill",
       "DivineProvidence",
@@ -1531,7 +1659,11 @@
       "he": ""
     },
     "section": "jewish-texts",
-    "description": "A chapter-by-chapter overview of Tanya's first section (Likutei Amarim), written for absolute beginners.",
+    "description": {
+      "en": "A chapter-by-chapter overview of Tanya's first section (Likutei Amarim), written for absolute beginners.",
+      "zh": "Tanya第一部分（Likutei Amarim）的逐章概述，专为初学者撰写。",
+      "he": "סקירה פרק-אחר-פרק של החלק הראשון בתניא (ליקוטי אמרים), כתובה למתחילים מוחלטים."
+    },
     "tags": [
       "Tanya",
       "Chabad",
@@ -1565,7 +1697,11 @@
       "he": ""
     },
     "section": "mussar",
-    "description": "A fascinating comparison between Jewish mussar teachings and Confucian self-cultivation, finding common ground between two ancient traditions.",
+    "description": {
+      "en": "A fascinating comparison between Jewish mussar teachings and Confucian self-cultivation, finding common ground between two ancient traditions.",
+      "zh": "犹太穆萨尔（品德修养）教义与儒家修身之道的精彩对比，寻找两大古老传统的共同点。",
+      "he": "השוואה מרתקת בין תורת המוסר היהודית לדרך ההשתלמות הקונפוציאנית, ומציאת מכנה משותף בין שני מסורות עתיקות."
+    },
     "tags": [
       "#Mussar",
       "#Confucianism",
@@ -1602,7 +1738,11 @@
       "he": ""
     },
     "section": "mussar",
-    "description": "A practical guide to the seven foundational character traits in Jewish thought: chesed, gevurah, tiferet, netzach, hod, yesod, malchut.",
+    "description": {
+      "en": "A practical guide to the seven foundational character traits in Jewish thought: chesed, gevurah, tiferet, netzach, hod, yesod, malchut.",
+      "zh": "犹太思想中七种基本品格特质的实用指南：仁慈、刚毅、和谐、持久、谦卑、根基、实现。",
+      "he": "מדריך מעשי לשבע המידות היסודיות במחשבה יהודית: חסד, גבורה, תפארת, נצח, הוד, יסוד, מלכות."
+    },
     "tags": [
       "Middot",
       "SevenMiddot",
@@ -1656,7 +1796,11 @@
       "he": "תורה ומדע: האם הם תואמים?"
     },
     "section": "",
-    "description": "Exploring how Jewish thought reconciles Torah with scientific discovery, from medieval sages to modern thinkers",
+    "description": {
+      "en": "Exploring how Jewish thought reconciles Torah with scientific discovery, from medieval sages to modern thinkers.",
+      "zh": "探索犹太思想如何调和Torah与科学发现——从中世纪圣人到现代思想家。",
+      "he": "כיצד המחשבה היהודית מפשרת בין תורה למדע, מחכמי ימי הביניים ועד הוגים בני זמננו."
+    },
     "tags": [
       "Torah",
       "Science",
@@ -1690,7 +1834,11 @@
       "he": ""
     },
     "section": "pirkei-avot",
-    "description": "A comprehensive exploration of Pirkei Avot Chapter 1, tracing the unbroken chain of Torah transmission from Moses at Sinai through the sages of the Mishnah, with parallels to Chinese philosophical traditions.",
+    "description": {
+      "en": "A comprehensive exploration of Pirkei Avot Chapter 1, tracing the unbroken chain of Torah transmission from Moses at Sinai through the sages of the Mishnah, with parallels to Chinese philosophical traditions.",
+      "zh": "深入探索《父辈的伦理》第一章，追溯从摩西在西奈山到密示拿圣人之间不间断的Torah传承链，并与中国哲学传统进行对比。",
+      "he": "חקירה מקיפה של פרקי אבות פרק א', העוקבת אחר שלשלת מסירת התורה הרציפה ממשה בסיני דרך חכמי המשנה, עם הקבלות למסורות הפילוסופיות הסיניות."
+    },
     "tags": [
       "PirkeiAvot",
       "EthicsOfTheFathers",
@@ -1732,7 +1880,11 @@
       "he": ""
     },
     "section": "jews-in-asia",
-    "description": "The complete history of the Jewish community of Kaifeng from the Song Dynasty to the present-day descendants.",
+    "description": {
+      "en": "The complete history of the Jewish community of Kaifeng from the Song Dynasty to the present-day descendants.",
+      "zh": "开封犹太社区从宋朝到当代后裔的完整历史。",
+      "he": "ההיסטוריה המלאה של הקהילה היהודית בקאיפנג משושלת סונג ועד צאצאי ימינו."
+    },
     "tags": [
       "KaifengJews",
       "ChineseJews",
@@ -1769,7 +1921,11 @@
       "he": ""
     },
     "section": "jewish-history",
-    "description": "An essential overview of the Shoah — how it happened, the six million, resistance, and why we say 'Never Again.'",
+    "description": {
+      "en": "An essential overview of the Shoah — how it happened, the six million, resistance, and why we say 'Never Again.'",
+      "zh": "大屠杀的基本概述——它是如何发生的、六百万遇难者、抵抗运动，以及我们为何说"永不再犯"。",
+      "he": "סקירה חיונית על השואה — כיצד קרתה, ששת המיליונים, ההתנגדות, ולמה אנו אומרים 'לעולם לא עוד'."
+    },
     "tags": [
       "Holocaust",
       "Shoah",
@@ -1840,7 +1996,11 @@
       "he": "שבע מצוות בני נח: קוד המוסר האוניברסלי של היהדות"
     },
     "section": "",
-    "description": "An exploration of the Seven Noahide Laws—Judaism's universal ethical code for all humanity, including comparisons with Chinese philosophy.",
+    "description": {
+      "en": "An exploration of the Seven Noahide Laws—Judaism's universal ethical code for all humanity, including comparisons with Chinese philosophy.",
+      "zh": "探索诺亚七律——犹太教面向全人类的普世伦理准则，并与中国哲学进行比较。",
+      "he": "חקירת שבע מצוות בני נח — הקוד המוסרי האוניברסלי של היהדות לכל האנושות, כולל השוואות לפילוסופיה סינית."
+    },
     "tags": [],
     "sources": [],
     "cultural_parallels": [],
@@ -1856,7 +2016,11 @@
       "he": "האם אלוהים קיים? הטיעונים הפילוסופיים היהודיים"
     },
     "section": "",
-    "description": "Explore the major Jewish philosophical arguments for God's existence, from Maimonides' First Cause to the Kuzari's national revelation, the argument from design, morality, and consciousness.",
+    "description": {
+      "en": "Explore the major Jewish philosophical arguments for God's existence, from Maimonides' First Cause to the Kuzari's national revelation, the argument from design, morality, and consciousness.",
+      "zh": "探索犹太哲学关于上帝存在的主要论证——从Maimonides的第一因到Kuzari的民族启示、设计论证、道德论证和意识论证。",
+      "he": "חקירת הטיעונים הפילוסופיים היהודיים המרכזיים לקיום האל, מהסיבה הראשונה של הרמב\"ם להתגלות הלאומית בכוזרי, טיעון מהעיצוב, המוסר וההכרה."
+    },
     "tags": [
       "philosophy",
       "god",
@@ -1885,7 +2049,11 @@
       "he": ""
     },
     "section": "pirkei-avot",
-    "description": "Exploring the famous teachings about wisdom, strength, honor, and wealth from Pirkei Avot Chapter 4.",
+    "description": {
+      "en": "Exploring the famous teachings about wisdom, strength, honor, and wealth from Pirkei Avot Chapter 4.",
+      "zh": "探索《父辈的伦理》第四章关于智慧、力量、荣誉和财富的著名教导。",
+      "he": "חקירת הלימודים המפורסמים על חוכמה, גבורה, כבוד ועושר מפרקי אבות פרק ד'."
+    },
     "tags": [
       "PirkeiAvot",
       "BenZoma",
@@ -1930,7 +2098,11 @@
       "he": ""
     },
     "section": "prayer",
-    "description": "The meaning and practice of the Modeh Ani prayer, said immediately upon waking — even before getting out of bed.",
+    "description": {
+      "en": "The meaning and practice of the Modeh Ani prayer, said immediately upon waking — even before getting out of bed.",
+      "zh": "Modeh Ani祈祷的含义和实践——醒来后立即诵读，甚至在起床之前。",
+      "he": "משמעות ומנהג תפילת מודה אני, הנאמרת מיד עם ההשכמה — עוד לפני הקימה מהמיטה."
+    },
     "tags": [
       "ModehAni",
       "Prayer",
@@ -1971,7 +2143,11 @@
       "he": "יציאת מצרים: סיפור הגאולה הגדול בהיסטוריה"
     },
     "section": "",
-    "description": "The foundational narrative of the Jewish people — the Exodus from Egypt — exploring its historical context, theological significance, and enduring impact on concepts of freedom and liberation.",
+    "description": {
+      "en": "The foundational narrative of the Jewish people — the Exodus from Egypt — exploring its historical context, theological significance, and enduring impact on concepts of freedom and liberation.",
+      "zh": "犹太民族的奠基叙事——出埃及记——探索其历史背景、神学意义，以及对自由和解放概念的深远影响。",
+      "he": "הנרטיב המכונן של העם היהודי — יציאת מצרים — חקירת ההקשר ההיסטורי, המשמעות התיאולוגית, וההשפעה המתמשכת על מושגי החירות והגאולה."
+    },
     "tags": [
       "exodus",
       "yetziat-mitzrayim",
@@ -2004,7 +2180,11 @@
       "he": ""
     },
     "section": "jewish-texts",
-    "description": "Who was Maimonides, what is the Mishneh Torah, and how to start studying it — even as a beginner.",
+    "description": {
+      "en": "Who was Maimonides, what is the Mishneh Torah, and how to start studying it — even as a beginner.",
+      "zh": "Maimonides是谁、什么是《密西拿律法书》，以及初学者如何开始学习。",
+      "he": "מיהו הרמב\"ם, מהי המשנה תורה, וכיצד להתחיל ללמוד אותה — גם כמתחילים."
+    },
     "tags": [
       "Rambam",
       "Maimonides",
@@ -2042,7 +2222,11 @@
       "he": "טהרת המשפחה: הכוח הנסתר של הנישואין היהודיים"
     },
     "section": "life-cycle",
-    "description": "An introduction to the laws of family purity and how the mikvah cycle strengthens the marital bond",
+    "description": {
+      "en": "An introduction to the laws of family purity and how the mikvah cycle strengthens the marital bond.",
+      "zh": "家庭纯洁律法简介，以及浸礼池循环如何增强婚姻纽带。",
+      "he": "מבוא להלכות טהרת המשפחה וכיצד מחזור המקווה מחזק את הקשר הזוגי."
+    },
     "tags": [],
     "sources": [],
     "cultural_parallels": [
@@ -2064,7 +2248,11 @@
       "he": "שבע המידות: מדריך לפיתוח תכונות האופי"
     },
     "section": "",
-    "description": "A comprehensive guide to the seven foundational character traits in Jewish thought - chesed, gevurah, tiferet, netzach, hod, yesod, and malchut - with practical applications for daily life and spiritual growth.",
+    "description": {
+      "en": "A comprehensive guide to the seven foundational character traits in Jewish thought - chesed, gevurah, tiferet, netzach, hod, yesod, and malchut - with practical applications for daily life and spiritual growth.",
+      "zh": "犹太思想中七种基本品格特质的全面指南——仁慈、刚毅、和谐、持久、谦卑、根基、实现——以及日常生活和灵性成长的实际应用。",
+      "he": "מדריך מקיף לשבע תכונות האופי היסודיות במחשבה היהודית — חסד, גבורה, תפארת, נצח, הוד, יסוד ומלכות — עם יישומים מעשיים לחיי יום-יום וצמיחה רוחנית."
+    },
     "tags": [
       "mussar",
       "character-development",
@@ -2102,7 +2290,11 @@
       "he": "חשבון הנפש: מנהג יהודי של התבוננות יומית"
     },
     "section": "",
-    "description": "An exploration of cheshbon hanefesh, the Jewish practice of daily self-reflection and spiritual accounting, rooted in the Mussar movement and applicable to modern life.",
+    "description": {
+      "en": "An exploration of cheshbon hanefesh, the Jewish practice of daily self-reflection and spiritual accounting, rooted in the Mussar movement and applicable to modern life.",
+      "zh": "探索灵魂核算——犹太教的每日自我反思和灵性盘点实践，源于穆萨尔运动并适用于现代生活。",
+      "he": "חקירת חשבון הנפש, המנהג היהודי של התבוננות יומית וחישוב רוחני, המושרש בתנועת המוסר ורלוונטי לחיים המודרניים."
+    },
     "tags": [
       "cheshbon-hanefesh",
       "mussar",
@@ -2134,7 +2326,11 @@
       "he": "תורה ומדע: האם הם תואמים?"
     },
     "section": "",
-    "description": "An exploration of how Jewish thinkers throughout history have reconciled Torah with scientific knowledge, examining different approaches to apparent conflicts between religion and science.",
+    "description": {
+      "en": "An exploration of how Jewish thinkers throughout history have reconciled Torah with scientific knowledge, examining different approaches to apparent conflicts between religion and science.",
+      "zh": "探索犹太思想家如何在历史中调和Torah与科学知识，审视宗教与科学之间表面冲突的不同方法。",
+      "he": "חקירת הדרכים שבהן הוגים יהודיים לאורך ההיסטוריה פישרו בין תורה למדע, ובחינת גישות שונות לסתירות לכאורה בין דת למדע."
+    },
     "tags": [
       "torah-and-science",
       "faith-and-reason",
@@ -2165,7 +2361,11 @@
       "he": ""
     },
     "section": "blessings",
-    "description": "Full text and explanation of Birchot HaShachar — the 15 morning blessings that thank God for the basics of life.",
+    "description": {
+      "en": "Full text and explanation of Birchot HaShachar — the 15 morning blessings that thank God for the basics of life.",
+      "zh": "晨间祝福的完整经文和解释——感谢上帝赐予生命基本事物的15条晨间祝祷。",
+      "he": "הטקסט המלא וההסבר של ברכות השחר — 15 הברכות שמודות לה' על יסודות החיים."
+    },
     "tags": [],
     "sources": [],
     "cultural_parallels": [
@@ -2186,7 +2386,11 @@
       "he": "אשר יצר: הברכה שמודה לאלוהים על הגוף שלך"
     },
     "section": "blessings",
-    "description": "Why Jews say a blessing after using the bathroom, and what this surprising practice teaches about appreciating health.",
+    "description": {
+      "en": "Why Jews say a blessing after using the bathroom, and what this surprising practice teaches about appreciating health.",
+      "zh": "为什么犹太人在如厕后说祝祷，以及这个令人惊讶的习俗教会我们如何感恩健康。",
+      "he": "מדוע יהודים מברכים אחרי שימוש בשירותים, ומה המנהג המפתיע הזה מלמד על הערכת הבריאות."
+    },
     "tags": [
       "AsherYatzar",
       "Blessings",
@@ -2242,7 +2446,11 @@
       "he": ""
     },
     "section": "torah-study",
-    "description": "Key moments in Moses's leadership journey and what they reveal about humility, delegation, and speaking truth to power.",
+    "description": {
+      "en": "Key moments in Moses's leadership journey and what they reveal about humility, delegation, and speaking truth to power.",
+      "zh": "摩西领导历程中的关键时刻，以及它们揭示的关于谦逊、授权和直言进谏的道理。",
+      "he": "רגעי מפתח במסע המנהיגות של משה ומה הם חושפים על ענווה, האצלת סמכויות ואמירת אמת לשלטון."
+    },
     "tags": [
       "Moses",
       "Moshe",
@@ -2284,7 +2492,11 @@
       "he": "שירת הים: כאשר העם היהודי שר ביחד בפעם הראשונה"
     },
     "section": "weekly-parsha",
-    "description": "Exploring Shirat HaYam (Exodus 15), the spontaneous song after crossing the Red Sea, and what it teaches about gratitude.",
+    "description": {
+      "en": "Exploring Shirat HaYam (Exodus 15), the spontaneous song after crossing the Red Sea, and what it teaches about gratitude.",
+      "zh": "探索红海之歌（出埃及记15章），渡过红海后的即兴颂歌，以及它关于感恩的教导。",
+      "he": "חקירת שירת הים (שמות ט\"ו), השיר הספונטני לאחר קריעת ים סוף, ומה היא מלמדת על הכרת הטוב."
+    },
     "tags": [
       "SongOfTheSea",
       "ShiratHaYam",
@@ -2321,7 +2533,11 @@
       "he": "מהי התורה שבעל פה? הבנת המשנה והתלמוד"
     },
     "section": "torah-study",
-    "description": "How the Oral Torah was transmitted from Sinai through generations, and why it's essential to understanding the Written Torah.",
+    "description": {
+      "en": "How the Oral Torah was transmitted from Sinai through generations, and why it's essential to understanding the Written Torah.",
+      "zh": "口传Torah如何从西奈山代代相传，以及为什么它对理解成文Torah至关重要。",
+      "he": "כיצד התורה שבעל פה הועברה מסיני דרך הדורות, ומדוע היא חיונית להבנת התורה שבכתב."
+    },
     "tags": [
       "Oral Torah",
       "Mishnah",
@@ -2364,7 +2580,11 @@
       "he": ""
     },
     "section": "torah-study",
-    "description": "The unique Jewish tradition of studying with a partner, how to find a chavruta, and tips for productive learning sessions.",
+    "description": {
+      "en": "The unique Jewish tradition of studying with a partner, how to find a chavruta, and tips for productive learning sessions.",
+      "zh": "犹太人独特的结伴学习传统，如何找到学习伙伴，以及高效学习的建议。",
+      "he": "המסורת היהודית הייחודית של לימוד בחברותא, כיצד למצוא חברותא, וטיפים ללמידה פרודוקטיבית."
+    },
     "tags": [
       "Chavruta",
       "Torah Study",
@@ -2401,7 +2621,11 @@
       "he": ""
     },
     "section": "shabbat",
-    "description": "Practical advice for observing Shabbat when you're the only Jewish person in your city, with tips for creating a meaningful experience.",
+    "description": {
+      "en": "Practical advice for observing Shabbat when you're the only Jewish person in your city, with tips for creating a meaningful experience.",
+      "zh": "当您是所在城市唯一的犹太人时守安息日的实用建议，以及创造有意义体验的窍门。",
+      "he": "עצות מעשיות לשמירת שבת כשאתם היהודים היחידים בעיר, עם טיפים ליצירת חוויה משמעותית."
+    },
     "tags": [
       "Shabbat",
       "ShabbatAlone",
@@ -2444,7 +2668,11 @@
       "he": "ל״ט אבות מלאכה - הסבר פשוט"
     },
     "section": "shabbat",
-    "description": "A clear, practical explanation of each of the 39 categories of creative work forbidden on Shabbat, with modern examples.",
+    "description": {
+      "en": "A clear, practical explanation of each of the 39 categories of creative work forbidden on Shabbat, with modern examples.",
+      "zh": "清晰实用地解释安息日禁止的39类创造性劳作，并附现代案例。",
+      "he": "הסבר ברור ומעשי של כל אחת מ-39 אבות המלאכה האסורות בשבת, עם דוגמאות מודרניות."
+    },
     "tags": [
       "#Shabbat",
       "#39Melachot",
@@ -2484,7 +2712,11 @@
       "he": ""
     },
     "section": "shabbat",
-    "description": "Complete guide to the Havdalah ceremony that ends Shabbat, with full Hebrew texts, meanings, and practical instructions for performing this beautiful weekly ritual.",
+    "description": {
+      "en": "Complete guide to the Havdalah ceremony that ends Shabbat, with full Hebrew texts, meanings, and practical instructions for performing this beautiful weekly ritual.",
+      "zh": "Havdalah仪式的完整指南——结束安息日的仪式，包含希伯来文全文、含义和实际操作说明。",
+      "he": "מדריך מלא לטקס ההבדלה המסיים את השבת, עם הטקסטים המלאים בעברית, משמעויותיהם, והוראות מעשיות לקיום הטקס השבועי היפה."
+    },
     "tags": [
       "Havdalah",
       "Shabbat",
@@ -2540,7 +2772,11 @@
       "he": ""
     },
     "section": "shabbat",
-    "description": "Clear, practical answers to the most common Shabbat questions about electricity, cooking, carrying, and more. A comprehensive guide for beginners and those encountering new situations.",
+    "description": {
+      "en": "Clear, practical answers to the most common Shabbat questions about electricity, cooking, carrying, and more. A comprehensive guide for beginners and those encountering new situations.",
+      "zh": "关于安息日最常见问题的清晰实用解答——用电、烹饪、搬运等。适合初学者和遇到新情况的人的全面指南。",
+      "he": "תשובות ברורות ומעשיות לשאלות השבת הנפוצות ביותר על חשמל, בישול, הוצאה ועוד. מדריך מקיף למתחילים ולנתקלים במצבים חדשים."
+    },
     "tags": [
       "Shabbat",
       "安息日",
@@ -2627,7 +2863,11 @@
       "he": "חנוכה: מעבר לסביבון — הסיפור האמיתי והלקחים שלו"
     },
     "section": "holidays",
-    "description": "The historical and spiritual significance of Chanukah, the miracle of the oil, and detailed menorah-lighting instructions.",
+    "description": {
+      "en": "The historical and spiritual significance of Chanukah, the miracle of the oil, and detailed menorah-lighting instructions.",
+      "zh": "光明节的历史和精神意义、油灯的奇迹，以及详细的烛台点燃说明。",
+      "he": "המשמעות ההיסטורית והרוחנית של חנוכה, נס פך השמן, והוראות מפורטות להדלקת המנורה."
+    },
     "tags": [
       "Chanukah",
       "Hanukkah",
@@ -2667,7 +2907,11 @@
       "he": "תשעה באב: הבנת היום העצוב ביותר בהיסטוריה היהודית"
     },
     "section": "holidays",
-    "description": "The destructions of both Temples, the laws of mourning on Tisha B'Av, reading Eicha, and the message of hope within the grief.",
+    "description": {
+      "en": "The destructions of both Temples, the laws of mourning on Tisha B'Av, reading Eicha, and the message of hope within the grief.",
+      "zh": "两座圣殿的毁灭、圣殿被毁日的哀悼律法、诵读《耶利米哀歌》，以及悲痛中的希望信息。",
+      "he": "חורבן שני בתי המקדש, הלכות אבלות בתשעה באב, קריאת איכה, ומסר התקווה שבתוך האבל."
+    },
     "tags": [
       "TishaBAv",
       "NinthOfAv",
@@ -2707,7 +2951,11 @@
       "he": "חולנט ומאכלי שבת נוספים: מתכונים למטבח הסיני"
     },
     "section": "shabbat",
-    "description": "Learn how to make traditional Shabbat foods like cholent, kugel, and gefilte fish in your Chinese kitchen, with adaptations and cultural parallels.",
+    "description": {
+      "en": "Learn how to make traditional Shabbat foods like cholent, kugel, and gefilte fish in your Chinese kitchen, with adaptations and cultural parallels.",
+      "zh": "学习如何在中式厨房制作传统安息日美食如炖肉煲、库格尔和酿鱼，附改良做法和文化对比。",
+      "he": "למדו להכין מאכלי שבת מסורתיים כחולנט, קוגל ודג גפילטע במטבח הסיני שלכם, עם התאמות והקבלות תרבותיות."
+    },
     "tags": [
       "Shabbat",
       "Cholent",
@@ -2780,7 +3028,11 @@
       "he": ""
     },
     "section": "prayer",
-    "description": "A blessing-by-blessing guide to the Shemoneh Esrei, with commentary on what each blessing means.",
+    "description": {
+      "en": "A blessing-by-blessing guide to the Shemoneh Esrei, with commentary on what each blessing means.",
+      "zh": "逐条解读十八祝祷（Shemoneh Esrei），附每条祝福的含义注释。",
+      "he": "מדריך ברכה-אחר-ברכה לשמונה עשרה, עם פירוש למשמעות כל ברכה."
+    },
     "tags": [
       "Amidah",
       "Prayer",
@@ -2874,7 +3126,11 @@
       "he": ""
     },
     "section": "prayer",
-    "description": "If you're new to Jewish prayer, start with Modeh Ani, Shema, and Birkat HaMazon — here's how.",
+    "description": {
+      "en": "If you're new to Jewish prayer, start with Modeh Ani, Shema, and Birkat HaMazon — here's how.",
+      "zh": "如果您刚接触犹太祈祷，从Modeh Ani、Shema和饭后感恩祈祷开始——方法如下。",
+      "he": "אם אתם חדשים בתפילה יהודית, התחילו עם מודה אני, שמע וברכת המזון — הנה איך."
+    },
     "tags": [],
     "sources": [],
     "cultural_parallels": [],
@@ -2890,7 +3146,11 @@
       "he": "השבת הראשונה שלך: מדריך שלב אחר שלב למתחילים מוחלטים"
     },
     "section": "shabbat",
-    "description": "Everything you need to know to observe your first Shabbat, from Friday afternoon preparation to Havdalah Saturday night.",
+    "description": {
+      "en": "Everything you need to know to observe your first Shabbat, from Friday afternoon preparation to Havdalah Saturday night.",
+      "zh": "守第一个安息日所需了解的一切——从周五下午的准备到周六晚上的Havdalah。",
+      "he": "כל מה שצריך לדעת כדי לשמור את השבת הראשונה שלכם, מהכנות יום שישי אחר הצהריים ועד הבדלה במוצאי שבת."
+    },
     "tags": [],
     "sources": [],
     "cultural_parallels": [],
@@ -2906,7 +3166,11 @@
       "he": "קידוש: הטקסט המלא, התרגום והמשמעות"
     },
     "section": "shabbat",
-    "description": "Complete guide to Kiddush for Friday night and Shabbat day, with full Hebrew text, English and Chinese translations, transliteration, and deep meaning behind every word.",
+    "description": {
+      "en": "Complete guide to Kiddush for Friday night and Shabbat day, with full Hebrew text, English and Chinese translations, transliteration, and deep meaning behind every word.",
+      "zh": "周五晚和安息日Kiddush的完整指南，含希伯来文全文、中英文翻译、音译及每个词的深层含义。",
+      "he": "מדריך מלא לקידוש ליל שבת ויום שבת, עם הטקסט המלא בעברית, תרגום לאנגלית וסינית, תעתיק, ומשמעות עמוקה מאחורי כל מילה."
+    },
     "tags": [],
     "sources": [],
     "cultural_parallels": [],
@@ -2922,7 +3186,11 @@
       "he": ""
     },
     "section": "",
-    "description": "A comprehensive guide to the Havdalah ceremony - the beautiful ritual that marks the end of Shabbat. Learn the step-by-step process using wine, spices, and braided candlelight to distinguish between the sacred and mundane.",
+    "description": {
+      "en": "A comprehensive guide to the Havdalah ceremony - the beautiful ritual that marks the end of Shabbat. Learn the step-by-step process using wine, spices, and braided candlelight to distinguish between the sacred and mundane.",
+      "zh": "Havdalah仪式的全面指南——标志安息日结束的美丽仪式。学习用葡萄酒、香料和编织蜡烛区分神圣与世俗的分步过程。",
+      "he": "מדריך מקיף לטקס ההבדלה — הטקס היפה שמסמן את סיום השבת. למדו את התהליך שלב אחר שלב עם יין, בשמים ונר הבדלה להבחין בין קודש לחול."
+    },
     "tags": [],
     "sources": [],
     "cultural_parallels": [],
@@ -2938,7 +3206,11 @@
       "he": ""
     },
     "section": "kosher-food",
-    "description": "Beyond the rules: why kashrut matters spiritually, what it does for the soul, and how it elevates the act of eating.",
+    "description": {
+      "en": "Beyond the rules: why kashrut matters spiritually, what it does for the soul, and how it elevates the act of eating.",
+      "zh": "超越规则：洁食的精神意义、对灵魂的作用，以及它如何提升饮食行为。",
+      "he": "מעבר לכללים: מדוע הכשרות חשובה מבחינה רוחנית, מה היא עושה לנשמה, וכיצד היא מרוממת את פעולת האכילה."
+    },
     "tags": [
       "#Kosher",
       "#Kashrut",
@@ -2984,7 +3256,11 @@
       "he": ""
     },
     "section": "mitzvah_objects",
-    "description": "History, laws, and customs of the tallit — when to wear it, how to put it on, and the significance of the blue thread.",
+    "description": {
+      "en": "History, laws, and customs of the tallit — when to wear it, how to put it on, and the significance of the blue thread.",
+      "zh": "祈祷披巾的历史、律法和习俗——何时穿戴、如何穿上，以及蓝色线的意义。",
+      "he": "היסטוריה, הלכות ומנהגי הטלית — מתי ללבוש, כיצד לעטוף, ומשמעות החוט הכחול."
+    },
     "tags": [
       "Tallit",
       "TzitzitFringes",
@@ -3016,7 +3292,11 @@
       "he": "שבע המידות: מדריך לפיתוח תכונות האופי"
     },
     "section": "",
-    "description": "A comprehensive guide to the seven foundational character traits in Jewish thought - chesed, gevurah, tiferet, netzach, hod, yesod, and malchut - with practical applications for daily life and spiritual growth.",
+    "description": {
+      "en": "A comprehensive guide to the seven foundational character traits in Jewish thought - chesed, gevurah, tiferet, netzach, hod, yesod, and malchut - with practical applications for daily life and spiritual growth.",
+      "zh": "犹太思想中七种基本品格特质的全面指南——仁慈、刚毅、和谐、持久、谦卑、根基、实现——以及日常生活和灵性成长的实际应用。",
+      "he": "מדריך מקיף לשבע תכונות האופי היסודיות במחשבה היהודית — חסד, גבורה, תפארת, נצח, הוד, יסוד ומלכות — עם יישומים מעשיים לחיי יום-יום וצמיחה רוחנית."
+    },
     "tags": [
       "mussar",
       "character-development",
@@ -3121,7 +3401,11 @@
       "he": ""
     },
     "section": "weekly-parsha",
-    "description": "A reusable framework for creating meaningful Shabbat table discussions from any weekly Torah portion.",
+    "description": {
+      "en": "A reusable framework for creating meaningful Shabbat table discussions from any weekly Torah portion.",
+      "zh": "一个可重复使用的框架，用于从每周Torah篇章中创建有意义的安息日餐桌讨论。",
+      "he": "מסגרת לשימוש חוזר ליצירת דיונים משמעותיים בשולחן השבת מכל פרשת שבוע."
+    },
     "tags": [
       "WeeklyParsha",
       "TorahStudy",
@@ -3197,7 +3481,11 @@
       "he": ""
     },
     "section": "jewish-calendar",
-    "description": "How the month before Rosh Hashanah is used for teshuvah (repentance), hearing the shofar daily, and the custom of Selichot.",
+    "description": {
+      "en": "How the month before Rosh Hashanah is used for teshuvah (repentance), hearing the shofar daily, and the custom of Selichot.",
+      "zh": "犹太新年前一个月如何用于忏悔（teshuvah）、每日聆听羊角号，以及Selichot的习俗。",
+      "he": "כיצד החודש שלפני ראש השנה משמש לתשובה, לשמיעת שופר יומית, ולמנהג הסליחות."
+    },
     "tags": [
       "Elul",
       "HighHolidays",
@@ -3330,7 +3618,11 @@
       "he": "חיי שרה: איך לבחור בן/בת זוג - לקחים משליחותו של אליעזר"
     },
     "section": "weekly-parsha",
-    "description": "The servant's journey to find a wife for Isaac and what the Torah teaches about identifying good character in a partner.",
+    "description": {
+      "en": "The servant's journey to find a wife for Isaac and what the Torah teaches about identifying good character in a partner.",
+      "zh": "仆人为以撒寻找妻子的旅程，以及Torah关于如何辨识伴侣良好品格的教导。",
+      "he": "מסעו של העבד למצוא אישה ליצחק ומה התורה מלמדת על זיהוי מידות טובות בבן/בת זוג."
+    },
     "tags": [],
     "sources": [],
     "cultural_parallels": [],
@@ -3383,7 +3675,11 @@
       "he": "מקץ: יוסף פותר את חלומות פרעה — אמונה בזמנים של אי־ודאות"
     },
     "section": "weekly-parsha",
-    "description": "How Joseph's ability to interpret dreams came from God, and what this teaches about trusting divine timing in our own lives.",
+    "description": {
+      "en": "How Joseph's ability to interpret dreams came from God, and what this teaches about trusting divine timing in our own lives.",
+      "zh": "约瑟解梦的能力如何来自上帝，以及这教导我们如何在生活中信靠神圣的时机。",
+      "he": "כיצד יכולתו של יוסף לפתור חלומות באה מאת ה', ומה זה מלמד על ביטחון בתזמון האלוקי בחיינו."
+    },
     "tags": [],
     "sources": [],
     "cultural_parallels": [],
@@ -3399,7 +3695,11 @@
       "he": "יתרו: הרגע שהשפיע על ההיסטוריה — קבלת התורה בהר סיני"
     },
     "section": "weekly-parsha",
-    "description": "A detailed look at the revelation at Mount Sinai, the preparation of the people, and why every Jewish soul was present.",
+    "description": {
+      "en": "A detailed look at the revelation at Mount Sinai, the preparation of the people, and why every Jewish soul was present.",
+      "zh": "详细审视西奈山的启示、民众的准备，以及为什么每个犹太灵魂都在场。",
+      "he": "מבט מפורט על ההתגלות בהר סיני, הכנת העם, ומדוע כל נשמה יהודית הייתה נוכחת."
+    },
     "tags": [],
     "sources": [],
     "cultural_parallels": [],
