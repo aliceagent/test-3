@@ -3738,5 +3738,1109 @@
     "chinese_dynasty_references": [],
     "status": "completed",
     "filePath": "weekly-parsha/110-behar-shmitah-trust/metadata.json"
+  },
+  {
+    "id": 43,
+    "title": {
+      "en": "Building a Sukkah: A Practical Guide",
+      "zh": "建造住棚:实用指南",
+      "he": "בניית סוכה: מדריך מעשי"
+    },
+    "section": "holidays",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Sukkot",
+      "Sukkah",
+      "BuildingSukkah",
+      "JewishHoliday",
+      "FallFestival",
+      "HarvestFestival",
+      "TemporaryDwelling",
+      "JewishLaw",
+      "HolidayObservance",
+      "住棚节",
+      "犹太节日",
+      "ShangDynasty",
+      "商朝"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "holidays/043-building-sukkah/metadata.json"
+  },
+  {
+    "id": 49,
+    "title": {
+      "en": "Shavuot: The Night We Stayed Up to Receive the Torah",
+      "zh": "七七节:我们彻夜学习以接受托拉的那一夜",
+      "he": "שבועות: הלילה שבו נשארנו ערים לקבל את התורה"
+    },
+    "section": "holidays",
+    "description": {
+      "en": "Why Jews study Torah all night on Shavuot, the connection to the Book of Ruth, and the custom of eating dairy foods.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Shavuot",
+      "TorahStudy",
+      "TikkunLeilShavuot",
+      "MountSinai",
+      "TenCommandments",
+      "BookOfRuth",
+      "Conversion",
+      "DairyFoods",
+      "JewishHolidays",
+      "NighttimeLearning",
+      "PhysicalAndSpiritual",
+      "Kabbalah",
+      "CommitmentToTorah",
+      "ChineseDynasties",
+      "商朝",
+      "学习",
+      "修身",
+      "犹太节日"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "draft_complete",
+    "filePath": "holidays/049-shavuot-the-night-we-stayed-up/metadata.json"
+  },
+  {
+    "id": 136,
+    "title": {
+      "en": "The Shofar: How a Ram's Horn Wakes Up Your Soul",
+      "zh": "号角声声：羊角如何唤醒你的灵魂",
+      "he": "השופר: כיצד קרן של איל מעירה את נשמתך"
+    },
+    "section": "holidays",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Holidays",
+      "Spiritual meaning of each shofar sound",
+      "Connection to the Binding of Isaac",
+      "Shofar",
+      "Ram's",
+      "Horn",
+      "Wakes",
+      "Soul"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "holidays/136-shofar-rosh-hashana/metadata.json"
+  },
+  {
+    "id": 137,
+    "title": {
+      "en": "Tashlich: Casting Away Your Sins at the Water",
+      "zh": "塔什利赫：在水边抛弃罪恶",
+      "he": "תשליך: השלכת החטאים אל המים"
+    },
+    "section": "holidays",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Holidays",
+      "Tashlich",
+      "Casting",
+      "Away",
+      "Sins",
+      "Water"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "published",
+    "filePath": "holidays/137-tashlich-casting-sins/metadata.json"
+  },
+  {
+    "id": 138,
+    "title": {
+      "en": "The Five Prohibitions of Yom Kippur and Their Deeper Meaning",
+      "zh": "赎罪日的五项禁令及其深层意义",
+      "he": "חמשת האסורים ביום הכיפורים ומשמעותם העמוקה"
+    },
+    "section": "holidays",
+    "description": {
+      "en": "Exploring the five specific prohibitions of Yom Kippur - no eating, drinking, washing, leather shoes, or marital relations - and their profound spiritual significance for transforming consciousness and understanding the soul.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Holidays",
+      "Five",
+      "Prohibitions",
+      "Yom",
+      "Kippur",
+      "Their",
+      "Deeper",
+      "Meaning"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [
+      {
+        "dynasty": "Tang Dynasty",
+        "chinese": "唐朝",
+        "years": "618-907 CE",
+        "context": "Chinese Buddhist monastics developed detailed renunciation practices during intensive meditation retreats"
+      },
+      {
+        "dynasty": "Song Dynasty",
+        "chinese": "宋朝",
+        "years": "960-1279 CE",
+        "context": "Daoist practitioners engaged in bigu (grain avoidance) to cultivate spiritual energy and achieve transcendence"
+      },
+      {
+        "dynasty": "Ming Dynasty",
+        "chinese": "明朝",
+        "years": "1368-1644 CE",
+        "context": "Scholars wrote extensively about the difference between external cleanliness and internal purity"
+      },
+      {
+        "dynasty": "Yuan Dynasty",
+        "chinese": "元朝",
+        "years": "1271-1368 CE",
+        "context": "Chinese scholars had access to Islamic and Jewish texts through Silk Road trade networks and found parallels to their own spiritual practices"
+      }
+    ],
+    "status": "published",
+    "filePath": "holidays/138-yom-kippur-five-prohibitions/metadata.json"
+  },
+  {
+    "id": 139,
+    "title": {
+      "en": "Kol Nidrei: The Most Famous Prayer That Isn't Actually a Prayer",
+      "zh": "所有誓言(Kol Nidrei)：最著名的「祈祷」其实并非祈祷",
+      "he": "כל נדרי: \"התפילה\" הכי מפורסמת שבעצם לא תפילה"
+    },
+    "section": "holidays",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Holidays",
+      "Kol",
+      "Nidrei",
+      "Most",
+      "Famous",
+      "Prayer",
+      "That",
+      "Isn't",
+      "Actually"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "holidays/139-kol-nidrei-explained/metadata.json"
+  },
+  {
+    "id": 140,
+    "title": {
+      "en": "Living in the Sukkah: A Week of Radical Trust",
+      "zh": "住在棚屋中：彻底信任的一周",
+      "he": "לגור בסוכה: שבוע של אמון מוחלט"
+    },
+    "section": "holidays",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Holidays",
+      "Living",
+      "Sukkah",
+      "Week",
+      "Radical",
+      "Trust"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "holidays/140-living-in-sukkah/metadata.json"
+  },
+  {
+    "id": 141,
+    "title": {
+      "en": "Simchat Torah: Dancing with the Torah — The Most Joyous Day",
+      "zh": "妥拉节：与妥拉共舞——最欢乐的日子",
+      "he": "שמחת תורה: רוקדים עם התורה — היום השמח ביותר"
+    },
+    "section": "holidays",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Holidays",
+      "Simchat",
+      "Torah",
+      "Dancing",
+      "Most",
+      "Joyous",
+      "Day"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "holidays/141-simchat-torah-dancing/metadata.json"
+  },
+  {
+    "id": 142,
+    "title": {
+      "en": "The Chanukah Menorah: Exact Placement, Timing, and Procedure",
+      "zh": "光明节烛台：精确放置、时机和程序",
+      "he": "חנוכיית חנוכה: מיקום מדויק, תזמון ונוהל"
+    },
+    "section": "holidays",
+    "description": {
+      "en": "Detailed halachic guide to menorah lighting — where to place it, when to light, how many candles each night, and the blessings.",
+      "zh": "光明节烛台点燃的详细犹太律法指南——放置位置、点燃时间、每晚蜡烛数量和祝福词。",
+      "he": "מדריך הלכתי מפורט להדלקת חנוכיה — איפה למקם אותה, מתי להדליק, כמה נרות בכל לילה, והברכות."
+    },
+    "tags": [
+      "Holidays",
+      "Chanukah",
+      "Menorah",
+      "Exact",
+      "Placement",
+      "Timing",
+      "Procedure"
+    ],
+    "sources": [
+      "Talmud Bavli, Shabbat 21a-24b",
+      "Shulchan Aruch, Orach Chaim 670-684",
+      "Mishnah Berurah",
+      "Rambam, Hilchot Chanukah",
+      "Aruch HaShulchan, Orach Chaim 670-684"
+    ],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "published",
+    "filePath": "holidays/142-chanukah-menorah-guide/metadata.json"
+  },
+  {
+    "id": 143,
+    "title": {
+      "en": "Mishloach Manot: The Art of Purim Gift Baskets",
+      "zh": "משלוח מנות：普珥节礼品篮的艺术",
+      "he": "משלוח מנות: אמנות סלי המתנות של פורים"
+    },
+    "section": "holidays",
+    "description": {
+      "en": "The mitzvah of sending food gifts on Purim — minimum requirements, creative ideas, and how this builds community bonds.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Holidays",
+      "Mishloach",
+      "Manot",
+      "Art",
+      "Purim",
+      "Gift",
+      "Baskets"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "holidays/143-mishloach-manot-purim/metadata.json"
+  },
+  {
+    "id": 146,
+    "title": {
+      "en": "The Omer Period: Why 33 Days of Semi-Mourning?",
+      "zh": "俄梅珥计数期：为什么是33天的半哀悼期？",
+      "he": "ספירת העומר: מדוע ל\"ג יום של אבלות חלקית?"
+    },
+    "section": "holidays",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Holidays",
+      "Omer",
+      "Period",
+      "Days",
+      "Semi-Mourning"
+    ],
+    "sources": [
+      "Talmud Yevamot 62b",
+      "Shulchan Aruch Orach Chaim 493",
+      "Mishnah Berurah 493",
+      "Sefer HaManhig"
+    ],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "holidays/146-omer-period-mourning/metadata.json"
+  },
+  {
+    "id": 147,
+    "title": {
+      "en": "Shavuot All-Night Learning: Tikkun Leil Shavuot",
+      "zh": "五旬节通宵学习：修复五旬节之夜",
+      "he": "לימוד כל הלילה בשבועות: תיקון ליל שבועות"
+    },
+    "section": "holidays",
+    "description": {
+      "en": "The custom of staying up all night studying Torah on Shavuot, its kabbalistic origins, and suggested learning topics for the night.",
+      "zh": "在五旬节通宵学习妥拉的习俗、其卡巴拉起源以及夜晚推荐的学习主题。",
+      "he": "המנהג של לימוד תורה כל הלילה בשבועות, מקורותיו הקבליים ונושאי לימוד מומלצים לליל."
+    },
+    "tags": [
+      "Holidays",
+      "Shavuot",
+      "All-Night",
+      "Learning",
+      "Tikkun",
+      "Leil"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "holidays/147-shavuot-all-night-learning/metadata.json"
+  },
+  {
+    "id": 148,
+    "title": {
+      "en": "Sukkot's Hidden Holiday: Shemini Atzeret Explained",
+      "zh": "住棚节的隐藏节日：第八日聚会节解释",
+      "he": "החג הנסתר של סוכות: שמיני עצרת מוסבר"
+    },
+    "section": "holidays",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Holidays",
+      "Sukkot's",
+      "Hidden",
+      "Holiday",
+      "Shemini",
+      "Atzeret",
+      "Explained"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "holidays/148-shemini-atzeret-explained/metadata.json"
+  },
+  {
+    "id": 150,
+    "title": {
+      "en": "The Fast of Gedaliah and the Minor Fast Days Explained",
+      "zh": "基大利亚禁食日与四个次要禁食日详解",
+      "he": "צום גדליה וארבעת הצומות הקלים"
+    },
+    "section": "holidays",
+    "description": {
+      "en": "Why we fast on Tzom Gedaliah, 10 Tevet, 17 Tammuz, and Ta'anit Esther — the historical events and laws of each.",
+      "zh": "我们为什么要在基大利亚禁食日、提别月十日、塔木兹月十七日和以斯帖禁食日禁食——每个节日的历史事件和律法。",
+      "he": "למה אנו מתענים בצום גדליה, עשרה בטבת, שבעה עשר בתמוז ותענית אסתר — האירועים ההיסטוריים וההלכות של כל אחד."
+    },
+    "tags": [
+      "Holidays",
+      "Fast",
+      "Gedaliah",
+      "Minor",
+      "Days",
+      "Explained"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "holidays/150-minor-fast-days/metadata.json"
+  },
+  {
+    "id": 321,
+    "title": {
+      "en": "Apple and Honey: The Rosh Hashana Simanim and Their Meanings",
+      "zh": "苹果与蜂蜜：犹太新年的象征食物及其含义",
+      "he": "תפוח ודבש: סימני ראש השנה ומשמעותם"
+    },
+    "section": "holidays",
+    "description": {
+      "en": "The full list of symbolic foods eaten on Rosh Hashana night — pomegranate, dates, leeks, beets, fish head — with the prayers for each.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "RoshHashana",
+      "Simanim",
+      "AppleAndHoney",
+      "JewishHolidays",
+      "SymbolicFoods",
+      "NewYear",
+      "Pomegranate",
+      "Kavanah",
+      "Prayer",
+      "JewishTradition",
+      "ChineseJewishParallels",
+      "FoodCulture",
+      "汉朝",
+      "年糕",
+      "JewishNewYear",
+      "Holidays"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Apple and honey (sweetness) ↔ Rice cakes 年糕 (progress, rising higher)",
+      "Pomegranate (abundance) ↔ Fish 鱼 (surplus, abundance 余)",
+      "Fish head (leadership) ↔ Whole fish (completeness, good beginning & end)",
+      "Dates (end of enemies) ↔ Dumplings 饺子 (wealth, like ancient gold ingots)",
+      "Round challah (continuity of year) ↔ Tangyuan 汤圆 (family reunion, wholeness)"
+    ],
+    "chinese_dynasty_references": [
+      {
+        "dynasty": "Han Dynasty",
+        "chinese": "汉朝",
+        "years": "206 BCE–220 CE",
+        "context": "Period when Talmudic tradition of simanim was established"
+      },
+      {
+        "dynasty": "Song Dynasty",
+        "chinese": "宋朝",
+        "years": "960-1279 CE",
+        "context": "Period of Rabbi Yehuda HaLevi (11th century Spain)"
+      }
+    ],
+    "status": "complete",
+    "filePath": "holidays/321-apple-honey-rosh-hashana-simanim/metadata.json"
+  },
+  {
+    "id": 322,
+    "title": {
+      "en": "How to Blow the Shofar: A Technical Guide",
+      "zh": "如何吹响羊角号(Shofar):技术指南",
+      "he": "כיצד לתקוע בשופר: מדריך טכני"
+    },
+    "section": "holidays",
+    "description": {
+      "en": "Mouth positioning, breathing technique, the exact sounds (tekiah, shevarim, teruah, tekiah gedolah), and how to practice.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Shofar",
+      "RoshHashana",
+      "HighHolidays",
+      "JewishRitualObjects",
+      "Tekiah",
+      "Shevarim",
+      "Teruah",
+      "吹羊角号",
+      "赎罪日",
+      "犹太新年",
+      "BaalTekiah",
+      "MitzvahTechnique",
+      "PracticalHalacha",
+      "JewishPrayer",
+      "BreathControl",
+      "שופר",
+      "ראשהשנה",
+      "ימיםנוראים",
+      "חפצימצווה",
+      "תקיעה",
+      "שברים",
+      "תרועה",
+      "בעלתקיעה",
+      "הלכהמעשית",
+      "תפילהיהודית",
+      "שליטהבנשימה"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Chinese wind instruments (dizi, xiao, suona)",
+      "Dantian breathing from martial arts and qigong",
+      "Chinese opera staccato phrasing",
+      "Daoist concept of returning to the source (返本归真)",
+      "Guqin opening notes"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "completed",
+    "filePath": "holidays/322-how-to-blow-shofar/metadata.json"
+  },
+  {
+    "id": 323,
+    "title": {
+      "en": "Kapparot: The Yom Kippur Eve Atonement Ritual",
+      "zh": "Kapparot(卡帕罗特):赎罪日前夜的赎罪仪式",
+      "he": "כפרות: טקס הכפרה בערב יום כיפור"
+    },
+    "section": "holidays",
+    "description": {
+      "en": "The custom of swinging a chicken or money over one's head before Yom Kippur — its sources, its critics, and the charity alternative.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Kapparot",
+      "YomKippur",
+      "Atonement",
+      "Teshuvah",
+      "Repentance",
+      "JewishCustoms",
+      "Charity",
+      "AnimalWelfare",
+      "JewishEthics",
+      "Holidays",
+      "HighHolidays",
+      "Sacrifice",
+      "Substitution",
+      "赎罪",
+      "赎罪日",
+      "犹太传统",
+      "慈善",
+      "כפרות",
+      "יוםכיפור",
+      "תשובה",
+      "צדקה"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "completed",
+    "filePath": "holidays/323-kapparot-yom-kippur-eve/metadata.json"
+  },
+  {
+    "id": 324,
+    "title": {
+      "en": "Building Your First Sukkah on a Chinese Apartment Balcony",
+      "zh": "在中国公寓阳台上搭建你的第一个住棚",
+      "he": "בניית הסוכה הראשונה שלך במרפסת דירה בסין"
+    },
+    "section": "holidays",
+    "description": {
+      "en": "Practical engineering for small-space sukkah building — materials available in China, minimum halachic dimensions, and creative solutions.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Sukkot",
+      "Sukkah",
+      "Holidays",
+      "PracticalHalacha",
+      "JewsInChina",
+      "UrbanJudaism",
+      "ChineseApartment",
+      "SmallSpaces",
+      "DIY",
+      "住棚节",
+      "犹太节日",
+      "阳台",
+      "临时住所",
+      "信仰实践",
+      "中国生活"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Mid-Autumn Festival decorations (中秋节)",
+      "Daoist concepts of wu wei (無為) and impermanence",
+      "Chinese tea culture integration with Torah study",
+      "Traditional Chinese attitudes toward filial piety and respect"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "holidays/324-sukkah-balcony/metadata.json"
+  },
+  {
+    "id": 325,
+    "title": {
+      "en": "Ushpizin: The Seven Mystical Guests of the Sukkah",
+      "zh": "Ushpizin（乌什匹辛）：住棚节的七位神秘宾客",
+      "he": "אושפיזין: שבעת האורחים המיסטיים של הסוכה"
+    },
+    "section": "holidays",
+    "description": {
+      "en": "Abraham, Isaac, Jacob, Moses, Aaron, Joseph, and David — the kabbalistic tradition of inviting these spiritual guests each night of Sukkot.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Ushpizin",
+      "Sukkot",
+      "Jewish Mysticism",
+      "Kabbalah",
+      "Seven Sefirot",
+      "Abraham",
+      "Isaac",
+      "Jacob",
+      "Moses",
+      "Aaron",
+      "Joseph",
+      "David",
+      "Hospitality",
+      "Ancestor Veneration",
+      "Zohar",
+      "住棚节",
+      "犹太神秘主义",
+      "祖先",
+      "款待",
+      "אושפיזין",
+      "סוכות",
+      "קבלה",
+      "אירוח"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Chinese ancestor veneration (清明节, 中元节)",
+      "Filial piety (孝)",
+      "Boundary between living and dead",
+      "Ritual connections across generations"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "holidays/325-ushpizin-seven-mystical-guests/metadata.json"
+  },
+  {
+    "id": 326,
+    "title": {
+      "en": "Latkes vs. Sufganiyot: The Great Chanukah Food Debate",
+      "zh": "土豆饼与果冻甜甜圈：光明节食物的伟大辩论",
+      "he": "לטקס נגד סופגניות: הוויכוח הגדול על אוכל חנוכה"
+    },
+    "section": "holidays",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Holidays",
+      "Latkes",
+      "Sufganiyot",
+      "Great",
+      "Chanukah",
+      "Food",
+      "Debate"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "holidays/326-latkes-sufganiyot-chanukah-foods/metadata.json"
+  },
+  {
+    "id": 327,
+    "title": {
+      "en": "The Megillah Reading: What to Listen For on Purim",
+      "zh": "普珥节的书卷朗读：聆听要点",
+      "he": "קריאת המגילה: למה להאזין בפורים"
+    },
+    "section": "holidays",
+    "description": {
+      "en": "How to follow along during the Megillah reading, when to make noise at Haman's name, and the four special sections to focus on.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Purim",
+      "Megillah",
+      "EstherScroll",
+      "Holidays",
+      "HiddenMiracles",
+      "DivineSalvation",
+      "Haman",
+      "QueenEsther",
+      "Mordechai",
+      "JewishReading",
+      "春秋时代",
+      "隐藏的神",
+      "普珥节",
+      "以斯帖",
+      "犹太节日",
+      "פורים",
+      "מגילה",
+      "מגילת_אסתר",
+      "חגים",
+      "נסים_נסתרים"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "holidays/327-megillah-reading-purim/metadata.json"
+  },
+  {
+    "id": 328,
+    "title": {
+      "en": "Hamantaschen: The Classic Purim Cookie and Its Symbolism",
+      "zh": "哈曼塔饼:普珥节经典饼干及其象征意义",
+      "he": "המן־טאַשן: עוגיית הפורים הקלאסית וסמליותה"
+    },
+    "section": "holidays",
+    "description": {
+      "en": "Recipes for traditional fillings (poppy seed, prune, chocolate) and creative Asian-inspired flavors (red bean, matcha, black sesame).",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Purim",
+      "Hamantaschen",
+      "Jewish Holidays",
+      "Mishloach Manot",
+      "Book of Esther",
+      "Haman",
+      "Esther",
+      "Mordechai",
+      "Jewish Food",
+      "Baking",
+      "Red Bean",
+      "Matcha",
+      "Black Sesame",
+      "Hidden Miracles",
+      "Jewish Cooking",
+      "Asian-Jewish Fusion"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Reversal of fortune similar to Chinese New Year traditions",
+      "Food as storytelling (like mooncakes and dumplings)",
+      "Community and generosity (similar to hongbao tradition)",
+      "Red bean paste as Asian-inspired filling",
+      "Matcha and black sesame adaptations"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "holidays/328-hamantaschen-purim-cookie/metadata.json"
+  },
+  {
+    "id": 329,
+    "title": {
+      "en": "The Afikoman: Why We Hide Matzah and How to Make It Fun",
+      "zh": "阿菲科门:为什么我们要藏起无酵饼,以及如何让它变得有趣",
+      "he": "האפיקומן: למה אנחנו מחביאים מצה וכיצד להפוך את זה למהנה"
+    },
+    "section": "holidays",
+    "description": {
+      "en": "The origin of hiding the afikoman, creative hiding strategies, negotiation tips for kids, and the halachic requirement to eat it before midnight.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Passover",
+      "Afikoman",
+      "Seder",
+      "Matzah",
+      "Holidays",
+      "Children",
+      "Tradition",
+      "Redemption",
+      "Freedom",
+      "逾越节",
+      "无酵饼",
+      "犹太传统",
+      "PesachSeder",
+      "JewishEducation",
+      "TempleMemory",
+      "פסח",
+      "אפיקומן",
+      "סדר",
+      "מצה",
+      "חגים",
+      "ילדים",
+      "מסורת",
+      "גאולה",
+      "חירות"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Chinese New Year red envelopes (hongbao)",
+      "Confucian concept of qing (reciprocal favor)",
+      "Mid-Autumn Festival treasure hunt traditions",
+      "Chinese riddles (miyu)"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "holidays/329-afikoman-hidden-matzah/metadata.json"
+  },
+  {
+    "id": 330,
+    "title": {
+      "en": "Kitniyot: Why Ashkenazi Jews Don't Eat Rice on Pesach (and Sephardim Do)",
+      "zh": "Kitniyot（基特尼约特）：为什么德系犹太人逾越节不吃米饭（而塞法迪犹太人可以）",
+      "he": "קִטְנִיּוֹת: למה יהודים אשכנזים לא אוכלים אורז בפסח (ויהודים ספרדים כן)"
+    },
+    "section": "holidays",
+    "description": {
+      "en": "The history of the kitniyot prohibition, the 2015 ruling allowing some Ashkenazim to eat kitniyot, and the current state of the debate.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Kitniyot",
+      "Passover",
+      "Pesach",
+      "Ashkenazi",
+      "Sephardi",
+      "Halacha",
+      "JewishLaw",
+      "Minhag",
+      "Holidays",
+      "KosherForPassover",
+      "Rice",
+      "Legumes",
+      "ConservativeJudaism",
+      "Orthodoxy",
+      "JewishCustom",
+      "ChineseCulture",
+      "宋朝",
+      "习俗",
+      "FoodCulture",
+      "JewishUnity"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "holidays/330-kitniyot-ashkenazi-pesach/metadata.json"
+  },
+  {
+    "id": 331,
+    "title": {
+      "en": "Cheesecake and Blintzes: Why We Eat Dairy on Shavuot",
+      "zh": "芝士蛋糕与奶酪薄饼:为何在五旬节吃乳制品",
+      "he": "עוגת גבינה ובלינצ'ס: למה אוכלים חלבי בשבועות"
+    },
+    "section": "holidays",
+    "description": {
+      "en": "Five different explanations for the Shavuot dairy custom, plus recipes for classic cheesecake and cheese blintzes.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Shavuot",
+      "五旬节",
+      "שבועות",
+      "Dairy",
+      "乳制品",
+      "חלבי",
+      "Cheesecake",
+      "Blintzes",
+      "בלינצ'ס",
+      "Torah",
+      "妥拉",
+      "תורה",
+      "Mount Sinai",
+      "西奈山",
+      "הר_סיני",
+      "Jewish Holidays",
+      "犹太节日",
+      "חגים_יהודיים",
+      "Kashrut",
+      "犹太饮食法",
+      "כשרות",
+      "Ten Commandments",
+      "十诫",
+      "עשרת_הדברות",
+      "Gematria",
+      "数字命理",
+      "גימטריה",
+      "Jewish Cooking",
+      "犹太烹饪",
+      "בישול_יהודי",
+      "Symbolism",
+      "象征意义",
+      "סמלים",
+      "Milk",
+      "牛奶",
+      "חלב",
+      "Recipes",
+      "食谱",
+      "מתכונים"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Chinese concept of returning to simplicity (返璞归真)",
+      "40-day postpartum confinement (坐月子) as transformation period",
+      "Yin and Yang (阴阳) as complementary forces",
+      "Chinese tea culture integration with dairy traditions"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "holidays/331-cheesecake-blintzes-dairy-shavuot/metadata.json"
+  },
+  {
+    "id": 332,
+    "title": {
+      "en": "The Book of Ruth on Shavuot: Why This Story on This Holiday?",
+      "zh": "五旬节读《路得记》:为什么在这个节日读这个故事?",
+      "he": "מגילת רות בשבועות: למה קוראים את הסיפור הזה בחג הזה?"
+    },
+    "section": "holidays",
+    "description": {
+      "en": "Five connections between Ruth and Shavuot — conversion, harvest, Torah acceptance, chesed, and the lineage of King David.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Shavuot",
+      "Book of Ruth",
+      "Conversion",
+      "Chesed",
+      "King David",
+      "Messianic Lineage",
+      "Harvest",
+      "Torah Acceptance",
+      "Loving-kindness",
+      "Moabites",
+      "Boaz",
+      "Naomi",
+      "Holidays",
+      "Zhou Dynasty",
+      "Shang Dynasty",
+      "Tikkun",
+      "Ren"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Twenty-Four Filial Exemplars (二十四孝) - Stories teaching ethics",
+      "Ren (仁) - Confucian benevolence similar to chesed",
+      "Tian (天) - Heaven and cosmic harmony in agriculture",
+      "Xiushen (修身) - Self-cultivation through disciplined study"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "holidays/332-book-of-ruth-shavuot/metadata.json"
+  },
+  {
+    "id": 333,
+    "title": {
+      "en": "Lag BaOmer Bonfires: What We're Celebrating and Why",
+      "zh": "拉格·巴欧梅尔篝火：我们在庆祝什么以及为什么",
+      "he": "מדורות ל״ג בעומר: מה אנחנו חוגגים ולמה"
+    },
+    "section": "holidays",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Holidays",
+      "Lag",
+      "BaOmer",
+      "Bonfires",
+      "We're",
+      "Celebrating"
+    ],
+    "sources": [
+      "Talmud Yevamot 62b",
+      "Talmud Shabbat 33b",
+      "Talmud Sanhedrin 86a",
+      "Zohar",
+      "Shulchan Aruch Orach Chaim 493",
+      "Genesis 9:13",
+      "Leviticus 19:23-25"
+    ],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "holidays/333-lag-baomer-bonfires/metadata.json"
+  },
+  {
+    "id": 334,
+    "title": {
+      "en": "Isru Chag: The Day After the Holiday",
+      "zh": "节后日（Isru Chag）：节日之后的那一天",
+      "he": "איסרו חג: היום שאחרי החג"
+    },
+    "section": "holidays",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Holidays",
+      "Isru",
+      "Chag",
+      "Day",
+      "After",
+      "Holiday"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "holidays/334-isru-chag/metadata.json"
+  },
+  {
+    "id": 335,
+    "title": {
+      "en": "Chol HaMoed: The In-Between Days of Sukkot and Pesach",
+      "zh": "节中日:逾越节与住棚节的中间日子",
+      "he": "חול המועד: הימים הביניים של סוכות ופסח"
+    },
+    "section": "holidays",
+    "description": {
+      "en": "What's permitted and what's restricted during the intermediate days, the custom of outings and trips, and the special Torah readings.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "CholHaMoed",
+      "Sukkot",
+      "Pesach",
+      "JewishHolidays",
+      "IntermediateDays",
+      "Holidays",
+      "SacredTime",
+      "JewishLaw",
+      "Halacha",
+      "FestivalCustoms",
+      "TorahReadings",
+      "Hallel",
+      "FamilyTime",
+      "住棚节",
+      "逾越节",
+      "犹太节日",
+      "神圣时间",
+      "过渡",
+      "חולהמועד",
+      "סוכות",
+      "פסח",
+      "חגיםיהודיים"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Chinese philosophy - Daoism's recognition of transitions (dawn/dusk) having special character",
+      "I Ching (易经) - constant change and intermediate states having significance",
+      "Gradual scaling between extremes rather than binary sacred/profane"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "holidays/335-chol-hamoed-intermediate-days/metadata.json"
   }
 ]
