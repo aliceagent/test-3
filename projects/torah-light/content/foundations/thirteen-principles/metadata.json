@@ -1,0 +1,72 @@
+{
+  "id": "thirteen-principles",
+  "title": {
+    "en": "The Thirteen Principles of Faith",
+    "zh": "信仰的十三条原则",
+    "he": "שלושה עשר עיקרי האמונה"
+  },
+  "subtitle": {
+    "en": "Rambam's Foundation of Jewish Belief",
+    "zh": "拉姆班的犹太信仰基础",
+    "he": "יסודות האמונה לפי הרמב\"ם"
+  },
+  "description": {
+    "en": "A comprehensive exploration of Maimonides' Thirteen Principles of Faith (Ani Ma'amin), the foundational beliefs of Judaism covering God's existence, unity, incorporeality, eternity, exclusive worship, prophecy, Torah, divine knowledge, reward and punishment, the Messiah, and resurrection.",
+    "zh": "全面探讨迈蒙尼德的十三条信仰原则（我相信），涵盖上帝的存在、唯一性、非物质性、永恒性、专属崇拜、先知、托拉、神圣知识、奖惩、弥赛亚和复活等犹太教基本信仰。",
+    "he": "סקירה מקיפה של שלושה עשר עיקרי האמונה של הרמב\"ם, יסודות האמונה היהודית הכוללים את מציאות ה', אחדותו, שלילת הגשמיות, קדמותו, עבודתו בלבד, נבואה, תורה מן השמים, השגחה, שכר ועונש, משיח ותחיית המתים."
+  },
+  "section": "foundations",
+  "category": "jewish-belief",
+  "tags": ["rambam", "maimonides", "faith", "belief", "ani-maamin", "yigdal", "theology", "philosophy", "thirteen-principles", "ikkarim"],
+  "keywords": {
+    "en": ["thirteen principles", "Maimonides", "Rambam", "Jewish faith", "Ani Maamin", "Yigdal", "Jewish belief", "theology", "God's existence", "divine unity", "prophecy", "Moses", "Torah", "Messiah", "resurrection", "reward", "punishment"],
+    "zh": ["十三原则", "迈蒙尼德", "拉姆班", "犹太信仰", "我相信", "神学", "上帝存在", "神圣统一", "先知", "摩西", "托拉", "弥赛亚", "复活"],
+    "he": ["שלושה עשר עיקרים", "רמב\"ם", "אני מאמין", "יגדל", "אמונה", "תיאולוגיה", "מציאות ה'", "אחדות", "נבואה", "משה רבינו", "תורה", "משיח", "תחיית המתים"]
+  },
+  "principles": [
+    {"num": 1, "topic": "God's Existence", "he": "מציאות הבורא"},
+    {"num": 2, "topic": "God's Unity", "he": "אחדות הבורא"},
+    {"num": 3, "topic": "God's Incorporeality", "he": "שלילת הגשמיות"},
+    {"num": 4, "topic": "God's Eternity", "he": "קדמות הבורא"},
+    {"num": 5, "topic": "Worship God Alone", "he": "עבודתו בלבד"},
+    {"num": 6, "topic": "Prophecy", "he": "הנבואה"},
+    {"num": 7, "topic": "Moses' Prophecy", "he": "נבואת משה רבינו"},
+    {"num": 8, "topic": "Divine Origin of Torah", "he": "תורה מן השמים"},
+    {"num": 9, "topic": "Torah's Immutability", "he": "נצחיות התורה"},
+    {"num": 10, "topic": "God's Omniscience", "he": "ידיעת ה'"},
+    {"num": 11, "topic": "Reward and Punishment", "he": "שכר ועונש"},
+    {"num": 12, "topic": "The Messiah", "he": "ביאת המשיח"},
+    {"num": 13, "topic": "Resurrection", "he": "תחיית המתים"}
+  ],
+  "learningObjectives": [
+    "Understand who Rambam was and why he formulated the 13 Principles",
+    "Learn each principle with Hebrew text, transliteration, and explanation",
+    "Connect principles to their scriptural sources",
+    "Apply principles to daily Jewish life",
+    "Recite Ani Ma'amin and understand Yigdal prayer"
+  ],
+  "relatedArticles": ["philosophy", "messiah", "torah-study", "jewish-texts"],
+  "difficulty": "intermediate",
+  "readingTime": {
+    "en": 45,
+    "zh": 40,
+    "he": 35
+  },
+  "wordCount": {
+    "en": 9500,
+    "zh": 7800,
+    "he": 1800
+  },
+  "featured": true,
+  "priority": "high",
+  "culturalBridges": {
+    "chinese": "Comparison with Confucian ethical foundations and philosophical inquiry traditions"
+  },
+  "sources": {
+    "primary": ["Mishnah Commentary, Sanhedrin Chapter 10", "Mishneh Torah, Hilchot Teshuvah"],
+    "biblical": ["Deuteronomy 6:4", "Exodus 20:2-3", "Numbers 12:6-8", "Deuteronomy 34:10"]
+  },
+  "lastUpdated": "2026-03-20",
+  "status": "complete",
+  "notes": "Hebrew translation covers principles 1-4 in detail; full translation planned for future update"
+}

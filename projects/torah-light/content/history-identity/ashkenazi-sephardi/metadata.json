@@ -1,0 +1,241 @@
+{
+  "title": {
+    "en": "Ashkenazi and Sephardi Jews: Unity in Diversity",
+    "zh": "阿什肯纳兹犹太人与塞法迪犹太人:多样性中的统一",
+    "he": "יהדות אשכנז וספרד: אחדות בגיוון"
+  },
+  "subtitle": {
+    "en": "Exploring the rich tapestry of Jewish customs and communities across the world",
+    "zh": "探索全球犹太习俗和社区的丰富织锦",
+    "he": "חקר שטיח המנהגים והקהילות היהודיות העשיר ברחבי העולם"
+  },
+  "description": {
+    "en": "A comprehensive guide to understanding the differences and similarities between Ashkenazi, Sephardi, and Mizrachi Jewish communities, their histories, customs, and the unity that binds them together.",
+    "zh": "全面指南,帮助理解阿什肯纳兹、塞法迪和米兹拉希犹太社区之间的异同、历史、习俗,以及将他们团结在一起的纽带。",
+    "he": "מדריך מקיף להבנת ההבדלים והדמיון בין קהילות יהודיות אשכנזיות, ספרדיות ומזרחיות, ההיסטוריה שלהן, המנהגים והאחדות המאגדת אותן."
+  },
+  "category": "history-identity",
+  "subcategory": "jewish-communities",
+  "topics": [
+    "Ashkenazi Jews",
+    "Sephardi Jews",
+    "Mizrachi Jews",
+    "Jewish customs",
+    "Minhag",
+    "Nusach",
+    "Jewish history",
+    "Spanish Inquisition",
+    "Golden Age of Spain",
+    "Yiddish",
+    "Ladino",
+    "Jewish unity",
+    "Jewish diversity"
+  ],
+  "keywords": {
+    "en": [
+      "Ashkenazi",
+      "Sephardi",
+      "Mizrachi",
+      "minhag",
+      "customs",
+      "nusach",
+      "prayer liturgy",
+      "Yiddish",
+      "Ladino",
+      "kitniyot",
+      "Spanish Expulsion 1492",
+      "Jewish communities",
+      "Rashi",
+      "Maimonides",
+      "Vilna Gaon",
+      "Baal Shem Tov",
+      "Hebrew pronunciation",
+      "Jewish food traditions",
+      "converts to Judaism",
+      "baalei teshuvah"
+    ],
+    "zh": [
+      "阿什肯纳兹",
+      "塞法迪",
+      "米兹拉希",
+      "习俗",
+      "仪式",
+      "意第绪语",
+      "拉迪诺语",
+      "豆类禁令",
+      "1492年西班牙驱逐",
+      "犹太社区",
+      "拉什",
+      "迈蒙尼德",
+      "维尔纳·加昂",
+      "巴尔·谢姆·托夫",
+      "希伯来语发音",
+      "犹太饮食传统",
+      "犹太教皈依者",
+      "回归者"
+    ],
+    "he": [
+      "אשכנז",
+      "ספרד",
+      "מזרח",
+      "מנהג",
+      "נוסח",
+      "יידיש",
+      "לדינו",
+      "קטניות",
+      "גירוש ספרד 1492",
+      "קהילות יהודיות",
+      "רש\"י",
+      "רמב\"ם",
+      "הגאון מווילנא",
+      "הבעל שם טוב",
+      "הגיית עברית",
+      "מסורות מזון יהודיות",
+      "גרים",
+      "בעלי תשובה"
+    ]
+  },
+  "targetAudience": [
+    "beginners",
+    "intermediate learners",
+    "converts and potential converts",
+    "Jews reconnecting with heritage",
+    "anyone interested in Jewish diversity",
+    "educators and teachers"
+  ],
+  "readingLevel": "intermediate",
+  "estimatedReadingTime": {
+    "en": "20-25 minutes",
+    "zh": "15-20 分钟",
+    "he": "20-25 דקות"
+  },
+  "wordCount": {
+    "en": 5200,
+    "zh": 4100,
+    "he": 4800
+  },
+  "dateCreated": "2026-03-20",
+  "dateModified": "2026-03-20",
+  "version": "1.0",
+  "author": {
+    "name": "Torah Light Content Team",
+    "role": "Educational Content Writers"
+  },
+  "relatedArticles": [
+    "jewish-history-timeline",
+    "introduction-to-jewish-law",
+    "jewish-holidays-overview",
+    "understanding-kosher-laws",
+    "history-of-the-diaspora"
+  ],
+  "educationalObjectives": [
+    "Understand the geographic and historical origins of Ashkenazi, Sephardi, and Mizrachi communities",
+    "Learn about key differences in customs (minhagim) between communities",
+    "Recognize the unity within Jewish diversity",
+    "Gain knowledge of famous rabbinic figures from each tradition",
+    "Understand guidance for choosing customs as a convert or newcomer",
+    "Appreciate the rich cultural heritage of all Jewish communities"
+  ],
+  "keyTakeaways": {
+    "en": [
+      "Ashkenazi, Sephardi, and Mizrachi refer to geographic origins, not theological differences",
+      "All Jewish communities follow the same Torah and fundamental laws",
+      "Differences in customs (minhagim) developed in areas where Jewish law permits variation",
+      "Major differences include prayer liturgy (nusach), Hebrew pronunciation, and food traditions",
+      "Unity does not require uniformity - diversity enriches the Jewish people",
+      "Converts and newcomers should choose one consistent tradition and consult a rabbi",
+      "Both Ashkenazi and Sephardi traditions are equally valid and precious"
+    ],
+    "zh": [
+      "阿什肯纳兹、塞法迪和米兹拉希指地理起源,而非神学差异",
+      "所有犹太社区都遵循同一部《托拉》和基本律法",
+      "习俗(minhagim)的差异在犹太律法允许变化的领域发展",
+      "主要差异包括祈祷礼仪(仪式)、希伯来语发音和饮食传统",
+      "统一不需要一致性——多样性丰富了犹太民族",
+      "皈依者和新加入者应选择一个一致的传统并咨询拉比",
+      "阿什肯纳兹和塞法迪传统都同样有效和珍贵"
+    ],
+    "he": [
+      "אשכנז, ספרד ומזרח מתייחסים למקור גיאוגרפי, לא להבדלים תיאולוגיים",
+      "כל הקהילות היהודיות עוקבות אחר אותה תורה וחוקים יסודיים",
+      "הבדלים במנהגים התפתחו בתחומים שבהם ההלכה מאפשרת שונות",
+      "הבדלים עיקריים כוללים נוסח תפילה, הגיית עברית ומסורות מזון",
+      "אחדות אינה דורשת אחידות - גיוון מעשיר את העם היהודי",
+      "גרים ומצטרפים חדשים צריכים לבחור מסורת אחת עקבית ולהתייעץ עם רב",
+      "גם מסורת אשכנז וגם ספרד תקפות ויקרות ערך באותה מידה"
+    ]
+  },
+  "resources": {
+    "furtherReading": [
+      "The Kuzari by Rabbi Yehuda Halevi",
+      "Mishneh Torah by Maimonides",
+      "Shulchan Aruch with Rema glosses",
+      "Life is with People: The Culture of the Shtetl by Mark Zborowski",
+      "The Jews of Spain: A History of the Sephardic Experience by Jane S. Gerber"
+    ],
+    "websites": [
+      "sefaria.org - Jewish texts with translations",
+      "jewishvirtuallibrary.org - comprehensive Jewish history resources",
+      "myjewishlearning.com - educational articles on all aspects of Judaism"
+    ],
+    "videos": [
+      "Search YouTube for 'Ashkenazi vs Sephardi customs'",
+      "Documentary: 'The Story of the Jews' by Simon Schama",
+      "Search for traditional Yiddish and Ladino music"
+    ]
+  },
+  "pedagogicalNotes": {
+    "teachingApproach": "This article uses a narrative, accessible approach to explain complex historical and cultural topics. It balances scholarly accuracy with readability for general audiences.",
+    "discussionQuestions": [
+      "What does 'unity in diversity' mean in the context of Jewish communities?",
+      "How did geographic location influence the development of different Jewish customs?",
+      "Why is it important to preserve different minhagim (customs) rather than standardizing all practices?",
+      "What guidance would you give to someone who doesn't know their family's Jewish tradition?",
+      "How can learning about different Jewish communities strengthen our appreciation of Judaism as a whole?"
+    ],
+    "classroomActivities": [
+      "Compare Ashkenazi and Sephardi melodies for the same prayer",
+      "Cook recipes from different Jewish communities",
+      "Create a timeline of major events in Ashkenazi and Sephardi history",
+      "Interview community members from different backgrounds about their customs",
+      "Listen to recordings of different Hebrew pronunciations"
+    ]
+  },
+  "accessibility": {
+    "languages": ["en", "zh", "he"],
+    "formats": ["markdown", "html"],
+    "readabilityScore": {
+      "en": "Grade 10-12 (accessible to educated general readers)",
+      "zh": "中级汉语读者",
+      "he": "רמת קריאה בינונית-גבוהה"
+    }
+  },
+  "license": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0",
+  "citations": {
+    "primarySources": [
+      "Talmud Bavli (Babylonian Talmud)",
+      "Shulchan Aruch (Code of Jewish Law)",
+      "Mishneh Torah (Maimonides)",
+      "Historical records of Spanish Expulsion 1492"
+    ],
+    "scholarlyReferences": [
+      "Jewish communities maintained oral and written traditions across centuries",
+      "Academic research on Yiddish and Ladino languages",
+      "Historical studies of medieval Jewish communities in Europe and the Middle East"
+    ]
+  },
+  "seo": {
+    "metaTitle": {
+      "en": "Ashkenazi vs Sephardi Jews: Understanding Jewish Diversity | Torah Light",
+      "zh": "阿什肯纳兹与塞法迪犹太人:理解犹太多样性 | Torah Light",
+      "he": "יהדות אשכנז וספרד: הבנת הגיוון היהודי | Torah Light"
+    },
+    "metaDescription": {
+      "en": "Learn about Ashkenazi, Sephardi & Mizrachi Jewish communities: their histories, customs, differences in prayer, food & traditions, and the beautiful unity in diversity.",
+      "zh": "了解阿什肯纳兹、塞法迪和米兹拉希犹太社区:历史、习俗、祈祷、饮食和传统的差异,以及多样性中的美丽统一。",
+      "he": "למד על קהילות יהודיות אשכנזיות, ספרדיות ומזרחיות: ההיסטוריה, המנהגים, ההבדלים בתפילה, במזון ובמסורות, והאחדות היפה בגיוון."
+    },
+    "canonicalUrl": "/history-identity/ashkenazi-sephardi",
+    "socialMediaImage": "/images/ashkenazi-sephardi-hero.jpg"
+  }
+}

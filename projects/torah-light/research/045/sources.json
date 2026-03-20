@@ -1,0 +1,56 @@
+{
+  "article_id": 45,
+  "title": "Chanukah: Beyond the Dreidel — The Real Story and Its Lessons",
+  "research_date": "2026-03-17",
+  "sources": [
+    {
+      "url": "https://www.chabad.org/holidays/chanukah/article_cdo/aid/102978/jewish/The-Hanukkah-Story.htm",
+      "title": "The Hanukkah Story",
+      "site": "Chabad.org",
+      "type": "overview",
+      "status": "fetched",
+      "file": "chabad-story.md"
+    },
+    {
+      "url": "https://www.chabad.org/holidays/chanukah/article_cdo/aid/4588772/jewish/Who-Were-the-Maccabees.htm",
+      "title": "Who Were the Maccabees? - 13 Facts About the Hanukkah Heroes",
+      "site": "Chabad.org",
+      "type": "historical",
+      "status": "fetched",
+      "file": "chabad-maccabees.md"
+    },
+    {
+      "url": "https://www.chabad.org/holidays/chanukah/article_cdo/aid/103868/jewish/How-to-Light-the-Menorah.htm",
+      "title": "How to Light the Menorah",
+      "site": "Chabad.org",
+      "type": "practical",
+      "status": "fetched",
+      "file": "chabad-menorah-instructions.md"
+    },
+    {
+      "url": "https://aish.com/what-is-hanukkah/",
+      "title": "What is Hanukkah? Holiday Meaning & Traditions",
+      "site": "Aish.com",
+      "type": "overview",
+      "status": "fetched",
+      "file": "aish-overview.md"
+    },
+    {
+      "url": "https://aish.com/48964981/",
+      "title": "8 Surprising Lessons from the Laws of Chanukah",
+      "site": "Aish.com",
+      "type": "spiritual",
+      "status": "fetched",
+      "file": "aish-8-lessons.md"
+    },
+    {
+      "url": "https://www.sefaria.org/Shabbat.21b",
+      "title": "Shabbat 21b - The Talmudic Account of Chanukah",
+      "site": "Sefaria.org",
+      "type": "primary_source",
+      "status": "fetched",
+      "file": "sefaria-shabbat-21b.md"
+    }
+  ],
+  "notes": "All sources successfully retrieved using Scrapling for Cloudflare-protected sites and Sefaria API for Talmudic texts."
+}

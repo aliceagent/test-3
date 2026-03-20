@@ -1,0 +1,85 @@
+{
+  "article_id": 15,
+  "title": {
+    "en": "Torah Reading in the Synagogue: What's Happening and Why",
+    "zh": "会堂中的托拉诵读：正在发生什么以及为什么",
+    "he": "קריאת התורה בבית הכנסת: מה קורה ולמה"
+  },
+  "section": "Torah Study",
+  "description": {
+    "en": "A guide for newcomers to understand the Torah service — aliyot, blessings, the haftarah, and proper etiquette.",
+    "zh": "帮助新来者理解托拉仪式的指南——阿利亚、祝福、哈夫塔拉和合适的礼仪。",
+    "he": "מדריך לחדשים להבין את תפילת קריאת התורה — עליות, ברכות, הפטרה ונימוסים נאותים."
+  },
+  "target_audience": "Beginners, Synagogue newcomers, Jewish learners",
+  "difficulty_level": "Beginner",
+  "estimated_reading_time": {
+    "en": "25-30 minutes",
+    "zh": "20-25 minutes", 
+    "he": "22-27 minutes"
+  },
+  "word_count": {
+    "en": 6850,
+    "zh": 3200,
+    "he": 5100
+  },
+  "created_date": "2026-03-17",
+  "author": "Torah Light Editorial Team",
+  "chinese_historical_context": {
+    "tang_dynasty": "During the Tang Dynasty period in China (618-907 CE), the Torah reading tradition was already ancient, having been established over a millennium earlier.",
+    "song_dynasty": "By the Song Dynasty (960-1279), when the Kaifeng Jewish community was flourishing, this weekly Torah reading practice connected Chinese Jews to the global Jewish people.",
+    "ming_dynasty": "Throughout the Ming Dynasty (1368-1644), Jewish communities worldwide maintained this unbroken tradition of public Torah reading.",
+    "qing_dynasty": "During the Qing Dynasty (1644-1912), as China encountered more Western influence, the ancient Jewish practice of Torah reading remained constant across cultures."
+  },
+  "dall_e_header_image": {
+    "prompt": "A detailed oil painting of a traditional synagogue Torah reading scene. The Torah scroll is open on the bimah (reading desk) with ornate silver decorations. A man wearing a tallit is chanting from the scroll while another holds a silver yad (Torah pointer). The congregation stands attentively. Warm golden lighting illuminates the scene. Include Hebrew text visible on the scroll and traditional Ashkenazi synagogue architecture with detailed woodwork.",
+    "style": "Classical oil painting with warm golden lighting",
+    "elements": [
+      "Torah scroll open on bimah",
+      "Silver Torah ornaments and yad",
+      "Man in tallit reading",
+      "Attentive congregation",
+      "Hebrew text on scroll",
+      "Traditional synagogue architecture",
+      "Detailed woodwork",
+      "Warm golden lighting"
+    ]
+  },
+  "key_concepts": [
+    "Torah Service Structure",
+    "Seven Aliyot",
+    "Torah Blessings", 
+    "Haftarah Reading",
+    "Synagogue Etiquette",
+    "Jewish Prayer Tradition",
+    "Community Worship",
+    "Hebrew Cantillation",
+    "Torah Scroll Handling",
+    "Annual Reading Cycle"
+  ],
+  "cross_references": [
+    "Article #6: Why We Read the Torah in a One-Year Cycle",
+    "Article #16: Your First Shabbat: A Step-by-Step Guide",
+    "Article #22: What Can and Can't I Do on Shabbat?",
+    "Article #30: Understanding the Amidah",
+    "Article #97: Learning Hebrew as a Mandarin Speaker"
+  ],
+  "practical_applications": [
+    "Understanding Torah service structure",
+    "Participating in aliyot",
+    "Following synagogue etiquette",
+    "Learning Hebrew blessings",
+    "Connecting with Jewish community"
+  ],
+  "cultural_bridges": {
+    "chinese_parallels": [
+      "Respect for ancient texts (Classical Chinese literature)",
+      "Oral tradition transmission (shifu-student relationships)", 
+      "Community ritual participation",
+      "Honor to ancestral lineage",
+      "Collective preservation of tradition"
+    ]
+  },
+  "languages_available": ["en", "zh", "he"],
+  "status": "completed"
+}

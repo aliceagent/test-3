@@ -1,0 +1,243 @@
+{
+  "id": "pirkei-avot",
+  "title": {
+    "en": "Pirkei Avot (Ethics of the Fathers)",
+    "he": "פִּרְקֵי אָבוֹת (מוּסַר הָאֲבוֹת)",
+    "zh": "先贤之章 (祖辈的道德智慧)"
+  },
+  "slug": "pirkei-avot",
+  "category": "texts-philosophy",
+  "subcategory": "mishnah",
+  "type": "tractate",
+  "language": {
+    "original": "Hebrew",
+    "translations": ["English", "Chinese (Simplified)", "Hebrew"]
+  },
+  "description": {
+    "en": "One of the most beloved tractates of the Mishnah, containing ethical teachings and wisdom from Moses to the great rabbis of the Talmudic era. Studied especially between Pesach and Shavuot.",
+    "he": "אחת המסכתות האהובות ביותר במשנה, המכילה הוראות מוסר וחכמה ממשה ועד חכמי המשנה. נלמדת במיוחד בין פסח לשבועות.",
+    "zh": "密西拿中最受喜爱的篇章之一,包含从摩西到塔木德时代伟大拉比的伦理教诲和智慧。特别在逾越节和七七节之间研读。"
+  },
+  "summary": {
+    "en": "Pirkei Avot presents timeless wisdom on character development, learning, community, and righteous living through pithy sayings and profound insights from Jewish sages across generations.",
+    "he": "פרקי אבות מציגה חכמה נצחית על פיתוח אופי, למידה, קהילה וחיים צדיקים דרך אמרות תמציתיות ותובנות עמוקות מחכמי ישראל לדורותיהם.",
+    "zh": "先贤之章通过历代犹太圣贤简洁的格言和深刻的见解,展现关于品格发展、学习、社区和正义生活的永恒智慧。"
+  },
+  "structure": {
+    "chapters": 6,
+    "chapter_details": [
+      {
+        "number": 1,
+        "title": {
+          "en": "Chain of Tradition",
+          "he": "שרשרת המסורת",
+          "zh": "传承链条"
+        },
+        "key_themes": ["Transmission of Torah", "Three Pillars", "Hillel and Shammai"]
+      },
+      {
+        "number": 2,
+        "title": {
+          "en": "Rabban Yochanan ben Zakkai and His Students",
+          "he": "רבן יוחנן בן זכאי ותלמידיו",
+          "zh": "拉班·约哈南·本·扎凯及其学生"
+        },
+        "key_themes": ["Good path vs evil path", "Five students", "Purpose of learning"]
+      },
+      {
+        "number": 3,
+        "title": {
+          "en": "Wisdom of Various Rabbis",
+          "he": "חכמת רבנים שונים",
+          "zh": "各位拉比的智慧"
+        },
+        "key_themes": ["Origins and destiny", "Wisdom and deeds", "Torah and worldly occupation"]
+      },
+      {
+        "number": 4,
+        "title": {
+          "en": "Ben Zoma, Ben Azzai, and the Path to Honor",
+          "he": "בן זומא, בן עזאי ודרך הכבוד",
+          "zh": "本·佐马、本·阿扎伊和荣誉之路"
+        },
+        "key_themes": ["Who is wise/strong/rich/honored", "Humility", "Learning to do"]
+      },
+      {
+        "number": 5,
+        "title": {
+          "en": "Numerical Teachings and Types of People",
+          "he": "הוראות מספריות וסוגי אנשים",
+          "zh": "数字教诲和人的类型"
+        },
+        "key_themes": ["Ten things created at twilight", "Four types of students", "Four temperaments"]
+      },
+      {
+        "number": 6,
+        "title": {
+          "en": "Kinyan Torah (Acquiring Torah)",
+          "he": "קניין תורה",
+          "zh": "获取妥拉"
+        },
+        "key_themes": ["48 ways to acquire Torah", "Three crowns", "Reward of Torah study"]
+      }
+    ]
+  },
+  "famous_teachings": [
+    {
+      "reference": "1:1",
+      "hebrew": "משה קבל תורה מסיני",
+      "transliteration": "Moshe kibel Torah mi-Sinai",
+      "translation_en": "Moses received the Torah from Sinai",
+      "translation_zh": "摩西从西奈接受妥拉"
+    },
+    {
+      "reference": "1:2",
+      "hebrew": "על שלשה דברים העולם עומד",
+      "transliteration": "Al shlosha devarim ha-olam omed",
+      "translation_en": "The world stands on three things",
+      "translation_zh": "世界建立在三件事上"
+    },
+    {
+      "reference": "1:14",
+      "hebrew": "אם אין אני לי מי לי",
+      "transliteration": "Im ein ani li mi li",
+      "translation_en": "If I am not for myself, who will be for me?",
+      "translation_zh": "如果我不为自己,谁为我?"
+    },
+    {
+      "reference": "2:4",
+      "hebrew": "אל תדין את חברך עד שתגיע למקומו",
+      "transliteration": "Al tadin et chavercha ad she-tagia limkomo",
+      "translation_en": "Do not judge your fellow until you reach his place",
+      "translation_zh": "不要评判你的同伴直到你到达他的位置"
+    },
+    {
+      "reference": "4:1",
+      "hebrew": "איזהו חכם? הלומד מכל אדם",
+      "transliteration": "Eizehu chacham? Ha-lomed mi-kol adam",
+      "translation_en": "Who is wise? One who learns from every person",
+      "translation_zh": "谁是智者?向每个人学习的人"
+    },
+    {
+      "reference": "4:1",
+      "hebrew": "איזהו גבור? הכובש את יצרו",
+      "transliteration": "Eizehu gibor? Ha-kovesh et yitzro",
+      "translation_en": "Who is strong? One who conquers their inclination",
+      "translation_zh": "谁是强者?征服自己倾向的人"
+    },
+    {
+      "reference": "4:3",
+      "hebrew": "אין לך אדם שאין לו שעה",
+      "transliteration": "Ein lecha adam she-ein lo sha'ah",
+      "translation_en": "There is no person who does not have their hour",
+      "translation_zh": "没有人没有他的时刻"
+    }
+  ],
+  "study_traditions": {
+    "primary_times": [
+      {
+        "period": "Sefirat HaOmer",
+        "description_en": "Between Pesach and Shavuot (counting the Omer)",
+        "description_he": "בין פסח לשבועות (ספירת העומר)",
+        "description_zh": "逾越节到七七节之间(数算俄梅珥)"
+      },
+      {
+        "period": "Shabbat afternoons",
+        "description_en": "One chapter each Shabbat afternoon in spring and summer",
+        "description_he": "פרק אחד בכל שבת אחר הצהריים באביב ובקיץ",
+        "description_zh": "春夏季节每个安息日下午一章"
+      }
+    ],
+    "frequency": "Year-round study is also common",
+    "custom_cycle": "Six-week cycle, one chapter per Shabbat"
+  },
+  "themes": [
+    "Ethics",
+    "Character development",
+    "Learning and teaching",
+    "Community and relationships",
+    "Humility",
+    "Justice and kindness",
+    "Torah study",
+    "Self-mastery",
+    "Purpose of life"
+  ],
+  "cultural_connections": {
+    "confucian_parallels": {
+      "description_en": "Many teachings in Pirkei Avot parallel themes in Confucius's Analects, including emphasis on learning, self-cultivation, proper speech, friendship, self-mastery, and contentment.",
+      "description_he": "הוראות רבות בפרקי אבות מקבילות לנושאים באנלקטים של קונפוציוס, כולל דגש על למידה, טיפוח עצמי, דיבור נאות, ידידות, שליטה עצמית ושביעות רצון.",
+      "description_zh": "先贤之章中的许多教诲与孔子的《论语》中的主题相似,包括对学习、自我修养、言语得当、友谊、自我控制和满足的强调。",
+      "examples": [
+        "Learning without satiety vs. Learning from every person",
+        "Self-restraint as highest strength",
+        "What you do not wish for yourself, do not impose on others (Golden Rule)",
+        "Contentment as true wealth"
+      ]
+    }
+  },
+  "historical_context": {
+    "period": "Mishnaic era (circa 200 BCE - 200 CE)",
+    "compilation": "Part of the Mishnah, compiled by Rabbi Judah the Prince circa 200 CE",
+    "unique_aspect": "Only tractate of Mishnah devoted entirely to ethics rather than law"
+  },
+  "modern_relevance": {
+    "en": "Addresses timeless questions about balancing personal ambition with service, navigating moral complexity, cultivating wisdom, maintaining humility, and building community while respecting individuality.",
+    "he": "עונה על שאלות נצחיות על איזון בין שאיפה אישית לשירות, ניווט במורכבות מוסרית, טיפוח חכמה, שמירה על ענווה ובניית קהילה תוך כיבוד אינדיבידואליות.",
+    "zh": "解决关于平衡个人抱负与服务、应对道德复杂性、培养智慧、保持谦逊以及在尊重个性的同时建立社区等永恒问题。"
+  },
+  "key_figures": [
+    "Moses",
+    "Hillel",
+    "Shammai",
+    "Rabban Yochanan ben Zakkai",
+    "Rabbi Akiva",
+    "Ben Zoma",
+    "Ben Azzai",
+    "Rabbi Elazar ben Azariah",
+    "Rabbi Chanina ben Dosa",
+    "Shimon the Righteous"
+  ],
+  "word_count": {
+    "en": 6800,
+    "zh": 5200,
+    "he": 5900
+  },
+  "reading_time_minutes": {
+    "en": 25,
+    "zh": 20,
+    "he": 22
+  },
+  "tags": [
+    "Mishnah",
+    "Ethics",
+    "Wisdom Literature",
+    "Character",
+    "Moral Development",
+    "Hillel",
+    "Shammai",
+    "Talmudic Sages",
+    "Jewish Philosophy",
+    "Universal Ethics"
+  ],
+  "related_texts": [
+    "Talmud",
+    "Avot d'Rabbi Natan",
+    "Confucian Analects",
+    "Wisdom Literature",
+    "Derech Eretz Rabbah"
+  ],
+  "author": "Various Tannaitic Sages",
+  "editor": "Compiled in Mishnah by Rabbi Judah the Prince",
+  "date_created": "2026-03-20",
+  "last_updated": "2026-03-20",
+  "content_type": "educational",
+  "audience": ["general", "students", "educators", "seekers"],
+  "difficulty_level": "accessible",
+  "format": "essay",
+  "multimedia": {
+    "has_hebrew": true,
+    "has_transliteration": true,
+    "has_translations": true,
+    "languages": ["en", "he", "zh"]
+  }
+}

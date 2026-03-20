@@ -1,0 +1,274 @@
+{
+  "title": {
+    "en": "The Weekly Parsha: The Heartbeat of Jewish Learning",
+    "zh": "每周妥拉分篇:犹太学习的心跳",
+    "he": "פרשת השבוע: פעימת הלב של הלמידה היהודית"
+  },
+  "description": {
+    "en": "Understanding the weekly Torah portion tradition that unites Jewish communities worldwide—what it is, why it matters, and how to participate even without Hebrew fluency.",
+    "zh": "理解每周妥拉分篇传统,它团结世界各地的犹太社区——它是什么,为什么重要,以及如何参与即使不会希伯来语。",
+    "he": "הבנת מסורת פרשת השבוע המאחדת קהילות יהודיות ברחבי העולם — מה היא, למה היא חשובה, ואיך להשתתף גם ללא שטף בעברית."
+  },
+  "category": "foundations",
+  "subcategory": "weekly-parsha",
+  "tags": [
+    "Torah",
+    "Weekly Parsha",
+    "Parashah",
+    "Torah Reading",
+    "Jewish Learning",
+    "Shabbat",
+    "Family Education",
+    "Torah Study",
+    "Jewish Tradition",
+    "Beginners Guide"
+  ],
+  "targetAudience": [
+    "Families new to Judaism",
+    "Chinese-speaking Jews and converts",
+    "Beginners in Jewish learning",
+    "Parents seeking family education",
+    "Interfaith families",
+    "Jews-by-choice",
+    "Anyone exploring Torah study"
+  ],
+  "readingLevel": "Beginner to Intermediate",
+  "wordCount": {
+    "en": 5000,
+    "zh": 3500,
+    "he": 3800
+  },
+  "readingTime": {
+    "en": "20-25 minutes",
+    "zh": "15-20 minutes",
+    "he": "18-22 minutes"
+  },
+  "languages": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "author": "Torah Light Content Team",
+  "dateCreated": "2026-03-20",
+  "lastUpdated": "2026-03-20",
+  "version": "1.0",
+  "relatedContent": [
+    "/foundations/shabbat",
+    "/foundations/torah-basics",
+    "/foundations/jewish-calendar",
+    "/practice/shabbat-table",
+    "/learning/torah-study-methods"
+  ],
+  "keyTopics": [
+    {
+      "topic": "What is the Weekly Parsha",
+      "description": "Definition and basic concept of the Torah portion system"
+    },
+    {
+      "topic": "Global Unity",
+      "description": "How the same portion connects Jews worldwide every week"
+    },
+    {
+      "topic": "54 Portions",
+      "description": "Structure of Torah divided into weekly readings"
+    },
+    {
+      "topic": "Annual Cycle",
+      "description": "How the reading progresses through the year"
+    },
+    {
+      "topic": "Parsha Structure",
+      "description": "Format and components of each Torah portion"
+    },
+    {
+      "topic": "Shabbat Table Discussion",
+      "description": "Questions and conversation starters for all ages"
+    },
+    {
+      "topic": "Dvar Torah",
+      "description": "Sample teaching with practical application"
+    },
+    {
+      "topic": "For Chinese Families",
+      "description": "Cultural bridges and practical guidance for Chinese-speaking learners"
+    },
+    {
+      "topic": "Without Hebrew Fluency",
+      "description": "How to participate meaningfully using translations and resources"
+    },
+    {
+      "topic": "Weekly Practice",
+      "description": "Step-by-step guide to incorporating parsha study into your routine"
+    }
+  ],
+  "learningObjectives": [
+    "Understand what the weekly parsha is and its significance in Jewish life",
+    "Learn why Jews worldwide study the same Torah portion each week",
+    "Discover how the Torah is divided into 54 portions",
+    "Understand the annual reading cycle and its spiritual rhythm",
+    "Know the structure and components of each parsha",
+    "Learn how to facilitate meaningful Shabbat table discussions for all ages",
+    "Gain practical tools for Torah study without Hebrew fluency",
+    "Understand cultural connections for Chinese-speaking families",
+    "Develop a weekly practice of Torah engagement",
+    "Feel confident joining the global conversation of Jewish learning"
+  ],
+  "practicalApplications": [
+    "Find this week's parsha using online resources",
+    "Read Torah portions in translation",
+    "Facilitate age-appropriate discussions at Shabbat meals",
+    "Develop a personal weekly study rhythm",
+    "Connect with online learning communities",
+    "Use apps and resources for beginners",
+    "Share insights with family and friends",
+    "Gradually build Hebrew vocabulary",
+    "Track personal learning progress through the annual cycle"
+  ],
+  "culturalBridges": {
+    "chinese": {
+      "similarities": [
+        "Respect for ancient texts and classical study",
+        "Generational transmission of wisdom",
+        "Family-centered learning",
+        "Cyclical understanding of time",
+        "Value placed on education"
+      ],
+      "differences": [
+        "Questioning is encouraged, not discouraged",
+        "Multiple valid interpretations accepted",
+        "Personal application emphasized",
+        "Debate and discussion celebrated"
+      ],
+      "resources": [
+        "Chinese Torah translations (simplified and traditional)",
+        "Chinese-language commentaries",
+        "Online communities for Chinese-speaking Jews",
+        "Apps with pinyin for Hebrew pronunciation"
+      ]
+    }
+  },
+  "resources": {
+    "websites": [
+      "Sefaria.org (multilingual Torah with commentaries)",
+      "Chabad.org (weekly parsha summaries and teachings)",
+      "MyJewishLearning.com (beginner-friendly articles)",
+      "ParshaNut podcast series",
+      "TorahAnytime.com (video teachings)"
+    ],
+    "apps": [
+      "Sefaria Mobile App",
+      "Hebcal (Jewish calendar with parsha)",
+      "Torah Study apps with audio",
+      "Hebrew learning apps (Duolingo, HebrewPod101)"
+    ],
+    "books": [
+      "The Torah: A Modern Commentary (various translations)",
+      "Etz Hayim: Torah and Commentary",
+      "Studies in the Weekly Parashah series",
+      "Interlinear Hebrew-English Chumash"
+    ]
+  },
+  "discussionQuestions": {
+    "young-children": [
+      "What was your favorite part of the story?",
+      "If you could ask one character a question, what would it be?",
+      "How would you have felt if you were [character]?",
+      "What do you think happens next?"
+    ],
+    "teens": [
+      "Which character do you relate to most? Why?",
+      "If this story happened today, what would it look like?",
+      "What would you have done differently?",
+      "How does this connect to something happening in the world right now?"
+    ],
+    "adults": [
+      "What new detail did you notice this year that you hadn't seen before?",
+      "How does this portion challenge you?",
+      "What wisdom from this parsha would you want to pass to your children?",
+      "Where do you see yourself in this narrative?"
+    ],
+    "universal": [
+      "What surprised you about this portion?",
+      "What made you uncomfortable, and why?",
+      "What practical lesson can we take into the coming week?",
+      "If this parsha had a soundtrack, what would it be?"
+    ]
+  },
+  "weeklyRoutine": {
+    "sunday-monday": {
+      "task": "Identify this week's parsha",
+      "time": "5 minutes",
+      "action": "Check Jewish websites or synagogue calendar for parsha name and citation"
+    },
+    "midweek": {
+      "task": "Read the full text",
+      "time": "20-30 minutes",
+      "action": "Read in preferred language, jot down one question or insight"
+    },
+    "thursday-friday": {
+      "task": "Engage with commentary",
+      "time": "15-20 minutes",
+      "action": "Read one commentary or listen to a teaching, consider personal application"
+    },
+    "shabbat": {
+      "task": "Participate and discuss",
+      "time": "During services and meals",
+      "action": "Follow along at synagogue, share insights at Shabbat table, invite family discussion"
+    }
+  },
+  "seoKeywords": [
+    "weekly parsha",
+    "Torah portion",
+    "parashah",
+    "Torah reading cycle",
+    "Jewish learning for beginners",
+    "Shabbat Torah study",
+    "how to read Torah",
+    "Torah without Hebrew",
+    "Jewish family education",
+    "Torah for Chinese families",
+    "weekly Torah study guide",
+    "54 Torah portions",
+    "Simchat Torah cycle",
+    "Torah discussion questions",
+    "dvar Torah",
+    "Jewish learning resources"
+  ],
+  "accessibility": {
+    "languageSupport": [
+      "English (primary)",
+      "Simplified Chinese",
+      "Hebrew"
+    ],
+    "hebrewTransliteration": "Included where needed",
+    "pronunciationGuide": "Available for key terms",
+    "visualAids": "Text-based with clear structure and headings",
+    "readingLevel": "Accessible to non-native English speakers"
+  },
+  "updateSchedule": {
+    "frequency": "Annually",
+    "reviewCycle": "Before High Holidays",
+    "contentRefresh": "Add new examples and contemporary connections yearly",
+    "feedbackIncorporation": "Quarterly based on user comments and questions"
+  },
+  "metrics": {
+    "engagementGoals": [
+      "80% of readers complete the full article",
+      "50% share with family or friends",
+      "30% establish a weekly parsha study routine",
+      "25% join an online or in-person learning community"
+    ],
+    "successIndicators": [
+      "Increased confidence in Torah engagement",
+      "Regular participation in Shabbat table discussions",
+      "Growing Hebrew vocabulary over time",
+      "Sense of connection to global Jewish community"
+    ]
+  },
+  "contentPhilosophy": {
+    "approach": "Accessible, practical, and encouraging—meeting learners where they are",
+    "tone": "Warm, inviting, non-judgmental, culturally sensitive",
+    "emphasis": "Building confidence and connection, not perfection or fluency",
+    "inclusivity": "Welcoming to all backgrounds, especially those new to Judaism and non-Hebrew speakers"
+  }
+}

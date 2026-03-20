@@ -1,0 +1,200 @@
+{
+  "title": {
+    "en": "The Tabernacle (Mishkan): God's Dwelling Among His People",
+    "zh": "会幕(Mishkan):上帝居住在祂的子民中间",
+    "he": "המשכן: משכן השכינה בקרב עם ישראל"
+  },
+  "slug": "tabernacle",
+  "category": "history-identity",
+  "subcategory": "sacred-structures",
+  "summary": {
+    "en": "Explore the Mishkan, the portable sanctuary built by the Israelites in the wilderness, where heaven met earth and God's presence dwelled among His people.",
+    "zh": "探索会幕,以色列人在旷野中建造的流动圣所,天地在此相遇,上帝的临在居住在祂的子民中间。",
+    "he": "גלו את המשכן, המקדש הנייד שבנו בני ישראל במדבר, שבו שמיים וארץ נפגשו והשכינה שכנה בקרב עמו."
+  },
+  "keywords": {
+    "en": [
+      "Mishkan",
+      "Tabernacle",
+      "wilderness sanctuary",
+      "Ark of the Covenant",
+      "Holy of Holies",
+      "Kohen Gadol",
+      "Temple",
+      "Exodus",
+      "Terumah",
+      "sacred space",
+      "divine presence",
+      "Shekhinah",
+      "priesthood",
+      "Levites",
+      "Biblical architecture"
+    ],
+    "zh": [
+      "会幕",
+      "Mishkan",
+      "旷野圣所",
+      "约柜",
+      "至圣所",
+      "大祭司",
+      "圣殿",
+      "出埃及记",
+      "Terumah",
+      "神圣空间",
+      "神圣临在",
+      "Shekhinah",
+      "祭司职分",
+      "利未人",
+      "圣经建筑"
+    ],
+    "he": [
+      "משכן",
+      "מקדש במדבר",
+      "ארון הברית",
+      "קודש הקודשים",
+      "כהן גדול",
+      "בית המקדש",
+      "ספר שמות",
+      "פרשת תרומה",
+      "מרחב קדוש",
+      "נוכחות אלוהית",
+      "שכינה",
+      "כהונה",
+      "לווים",
+      "אדריכלות תנכ'ית"
+    ]
+  },
+  "biblical_references": [
+    "Exodus 25-31",
+    "Exodus 35-40",
+    "Leviticus 8-9",
+    "Numbers 1-4",
+    "1 Samuel 1-4",
+    "1 Kings 6-8",
+    "Ezekiel 40-48",
+    "Hebrews 8-9"
+  ],
+  "torah_portions": [
+    "Terumah",
+    "Tetzaveh",
+    "Ki Tisa",
+    "Vayakhel",
+    "Pekudei"
+  ],
+  "themes": [
+    "Divine Presence",
+    "Sacred Architecture",
+    "Priesthood and Service",
+    "Symbolism",
+    "Journey and Transition",
+    "Portable Sanctity",
+    "Covenant",
+    "Atonement",
+    "Messianic Hope"
+  ],
+  "historical_period": {
+    "start": "c. 1313 BCE",
+    "end": "c. 1004 BCE",
+    "era": "Exodus to United Monarchy"
+  },
+  "locations": [
+    "Sinai Wilderness",
+    "Gilgal",
+    "Shiloh",
+    "Nov",
+    "Givon",
+    "Jerusalem"
+  ],
+  "related_topics": [
+    "First Temple",
+    "Second Temple",
+    "Third Temple",
+    "Ark of the Covenant",
+    "Kohen Gadol",
+    "Yom Kippur",
+    "Divine Service",
+    "Jewish Prayer",
+    "Synagogue"
+  ],
+  "educational_level": "intermediate-advanced",
+  "reading_time_minutes": {
+    "en": 25,
+    "zh": 20,
+    "he": 22
+  },
+  "word_count": {
+    "en": 4850,
+    "zh": 4200,
+    "he": 4500
+  },
+  "author": "Torah Light Content Team",
+  "created": "2026-03-20",
+  "last_updated": "2026-03-20",
+  "version": "1.0",
+  "status": "published",
+  "featured": true,
+  "translation_notes": {
+    "zh": "Simplified Chinese translation preserves Hebrew terminology (Mishkan, Kodesh, etc.) with explanations",
+    "he": "Hebrew version uses traditional Jewish terminology and Talmudic references"
+  },
+  "seo": {
+    "meta_description": {
+      "en": "Comprehensive guide to the Mishkan (Tabernacle): its construction, components, symbolic meanings, and lasting significance from wilderness to modern times.",
+      "zh": "会幕(Mishkan)综合指南:其建造、组成、象征意义,以及从旷野到现代的持久重要性。",
+      "he": "מדריך מקיף למשכן: בנייתו, רכיביו, משמעויותיו הסמליות, ומשמעותו המתמשכת מהמדבר לעידן המודרני."
+    },
+    "canonical_url": "/history-identity/tabernacle",
+    "og_image": "/images/tabernacle-overview.jpg"
+  },
+  "accessibility": {
+    "screen_reader_friendly": true,
+    "high_contrast_available": true,
+    "text_to_speech_optimized": true
+  },
+  "interactive_elements": [
+    "3D model link (future)",
+    "Virtual tour (future)",
+    "Component diagram",
+    "Timeline visualization"
+  ],
+  "further_reading": [
+    {
+      "title": "The Temple and Its Services",
+      "author": "Alfred Edersheim",
+      "type": "book"
+    },
+    {
+      "title": "Studies in Shemot (Exodus)",
+      "author": "Nechama Leibowitz",
+      "type": "commentary"
+    },
+    {
+      "title": "The Tabernacle: Its Structure and Utensils",
+      "author": "Moshe Levine",
+      "type": "illustrated_guide"
+    }
+  ],
+  "multimedia": {
+    "images": [
+      "tabernacle-overview",
+      "ark-of-covenant",
+      "menorah-detail",
+      "high-priest-garments",
+      "courtyard-layout"
+    ],
+    "videos": [],
+    "audio": []
+  },
+  "discussion_questions": [
+    "How does the portable nature of the Mishkan reflect the spiritual journey of the Israelites?",
+    "What is the significance of the command 'that I may dwell among them' rather than 'in it'?",
+    "How do the three zones of the Tabernacle (Courtyard, Holy Place, Holy of Holies) relate to spiritual progression?",
+    "In what ways does the Mishkan serve as a model for personal spiritual life today?",
+    "How did the transition from Mishkan to Temple reflect Israel's national development?"
+  ],
+  "study_notes": {
+    "en": "This article provides a comprehensive overview suitable for both beginners and advanced students. Key concepts include the divine blueprint, symbolic architecture, priestly service, and ongoing relevance.",
+    "zh": "本文提供了适合初学者和高级学生的全面概述。关键概念包括神圣蓝图、象征性建筑、祭司服事和持续相关性。",
+    "he": "מאמר זה מספק סקירה מקיפה המתאימה הן למתחילים והן לתלמידים מתקדמים. מושגי מפתח כוללים את התכנית האלוהית, אדריכלות סמלית, עבודת כהונה ורלוונטיות מתמשכת."
+  }
+}

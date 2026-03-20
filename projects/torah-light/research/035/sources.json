@@ -1,0 +1,37 @@
+{
+  "article_id": 35,
+  "title": "Tefillin for Beginners: What They Are and How to Wear Them",
+  "section": "Mitzvah Objects",
+  "sources": [
+    {
+      "url": "https://www.myjewishlearning.com/article/tefillin-phylacteries/",
+      "title": "Tefillin (Phylacteries) - My Jewish Learning",
+      "type": "web",
+      "description": "Comprehensive guide covering basics, construction, and wearing instructions"
+    },
+    {
+      "url": "https://aish.com/48969816/",
+      "title": "Tefillin (Phylacteries) & How to Wear Them - Aish.com",
+      "type": "web", 
+      "description": "Detailed explanation of meaning, contents, and step-by-step wearing instructions"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tefillin",
+      "title": "Tefillin - Wikipedia",
+      "type": "web",
+      "description": "Extensive scholarly article on history, manufacture, laws, and customs"
+    },
+    {
+      "url": "https://www.bbc.co.uk/religion/religions/judaism/customs/tefillin.shtml",
+      "title": "BBC - Religions - Judaism: Tefillin",
+      "type": "web",
+      "description": "Clear, concise introduction for beginners"
+    }
+  ],
+  "biblical_sources": [
+    "Exodus 13:1-10",
+    "Exodus 13:11-16", 
+    "Deuteronomy 6:4-9",
+    "Deuteronomy 11:13-21"
+  ]
+}

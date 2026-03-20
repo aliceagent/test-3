@@ -1,0 +1,79 @@
+{
+  "id": "mitzvah-objects",
+  "title": {
+    "en": "Sacred Objects: Mezuzah, Tefillin & Tzitzit",
+    "zh": "神圣物品：门柱圣卷、经文匣与衣角穗子",
+    "he": "מצוות חפציות: מזוזה, תפילין וציצית"
+  },
+  "subtitle": {
+    "en": "The Physical Symbols of Jewish Faith",
+    "zh": "犹太信仰的物质象征",
+    "he": "סמלי האמונה היהודית המוחשיים"
+  },
+  "description": {
+    "en": "A comprehensive guide to the three primary mitzvah objects in Judaism: mezuzah (doorpost scroll), tefillin (phylacteries), and tzitzit (fringed garments). Learn their biblical sources, how to acquire and use them properly, and their deep spiritual significance.",
+    "zh": "犹太教三大圣物的全面指南：门柱圣卷（mezuzah）、经文匣（tefillin）和衣角穗子（tzitzit）。了解它们的圣经来源、如何正确获取和使用，以及其深刻的精神意义。",
+    "he": "מדריך מקיף לשלוש מצוות החפץ העיקריות ביהדות: מזוזה, תפילין וציצית. לימוד מקורותיהן בתורה, הלכות קנייה ושימוש נכון, ומשמעותן הרוחנית העמוקה."
+  },
+  "section": "daily-living",
+  "category": "ritual-objects",
+  "tags": ["mezuzah", "tefillin", "tzitzit", "tallit", "mitzvot", "ritual-objects", "daily-practice", "beginner-friendly"],
+  "keywords": {
+    "en": ["mezuzah", "tefillin", "phylacteries", "tzitzit", "fringes", "tallit", "prayer shawl", "doorpost", "Shema", "parchment", "sofer", "scribe", "blessing", "Jewish home", "daily mitzvah"],
+    "zh": ["门柱圣卷", "经文匣", "穗子", "祈祷披肩", "羊皮纸", "抄写员", "祝福", "犹太家庭", "每日戒律"],
+    "he": ["מזוזה", "תפילין", "ציצית", "טלית", "קלף", "סופר סת\"ם", "ברכה", "בית יהודי", "מצוות יומיות"]
+  },
+  "topics": [
+    {
+      "name": "Mezuzah",
+      "subtopics": ["Biblical source", "The scroll contents", "Which doors require mezuzah", "How to affix", "Checking periodically"]
+    },
+    {
+      "name": "Tefillin",
+      "subtopics": ["Biblical source", "Shel yad and shel rosh", "When to wear", "How to put on", "Care and maintenance"]
+    },
+    {
+      "name": "Tzitzit",
+      "subtopics": ["Biblical source", "Tallit katan", "Tallit gadol", "Techelet debate", "Tying the knots"]
+    }
+  ],
+  "learningObjectives": [
+    "Understand the biblical commandments for each mitzvah object",
+    "Learn proper procedures for affixing mezuzah",
+    "Know when and how to wear tefillin",
+    "Understand the significance of tzitzit fringes",
+    "Find quality sources for purchasing these items"
+  ],
+  "practicalGuide": {
+    "whereToBy": ["Local Judaica stores", "Chabad centers in Asia", "Online: ajudaica.com, eichlers.com"],
+    "qualityTips": ["Always buy from certified sofer", "Check tefillin every few years", "Mezuzot should be checked twice in 7 years"]
+  },
+  "relatedArticles": ["prayer", "blessings", "shabbat", "conversion"],
+  "difficulty": "beginner",
+  "readingTime": {
+    "en": 35,
+    "zh": 30,
+    "he": 25
+  },
+  "wordCount": {
+    "en": 7500,
+    "zh": 6500,
+    "he": 2200
+  },
+  "featured": true,
+  "priority": "high",
+  "biblicalSources": [
+    {"ref": "Deuteronomy 6:9", "topic": "Mezuzah"},
+    {"ref": "Deuteronomy 6:8", "topic": "Tefillin"},
+    {"ref": "Deuteronomy 11:18", "topic": "Tefillin"},
+    {"ref": "Numbers 15:38-40", "topic": "Tzitzit"}
+  ],
+  "blessings": [
+    {"name": "Mezuzah", "he": "לִקְבֹּעַ מְזוּזָה", "transliteration": "likboa mezuzah"},
+    {"name": "Tefillin Shel Yad", "he": "לְהָנִיחַ תְּפִלִּין", "transliteration": "l'haniach tefillin"},
+    {"name": "Tzitzit", "he": "עַל מִצְוַת צִיצִית", "transliteration": "al mitzvat tzitzit"}
+  ],
+  "lastUpdated": "2026-03-20",
+  "status": "complete",
+  "notes": "Hebrew translation is partial; full translation planned for future update"
+}

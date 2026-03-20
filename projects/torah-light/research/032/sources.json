@@ -1,0 +1,35 @@
+{
+  "article_id": 32,
+  "title": "The Morning Blessings: Starting Your Day with Gratitude",
+  "section": "Blessings",
+  "sources": [
+    {
+      "title": "Birchot HaShachar - Halachipedia",
+      "url": "https://halachipedia.com/index.php?title=Birchot_HaShachar",
+      "type": "halachic_reference",
+      "status": "live",
+      "description": "Comprehensive halachic guide to morning blessings including when to say them, who is obligated, and their spiritual significance"
+    },
+    {
+      "title": "Gemara Brachot 60b",
+      "url": "https://www.sefaria.org/Berakhot.60b",
+      "type": "talmudic_source",
+      "description": "Original Talmudic sources for when to recite each morning blessing"
+    },
+    {
+      "title": "Morning Blessings Topics",
+      "url": "https://www.sefaria.org/topics/birkot-hashachar",
+      "type": "primary_source",
+      "status": "live",
+      "description": "Sefaria compilation of Jewish texts about morning blessings"
+    }
+  ],
+  "chinese_historical_context": {
+    "period": "Morning rituals in Chinese culture - Tang Dynasty onwards",
+    "parallels": [
+      "Daily gratitude practices in Confucian thought",
+      "Morning prayers and meditation in Buddhist tradition",
+      "Daoist morning exercises for spiritual cultivation"
+    ]
+  }
+}

@@ -1,0 +1,422 @@
+{
+  "title_en": "Prayer in Jewish Life",
+  "title_zh": "犹太生活中的祷告",
+  "title_he": "תפילה בחיים היהודיים",
+  "slug": "prayer",
+  "category": "daily-living",
+  "subcategory": "spiritual-practice",
+  "difficulty_level": "beginner-intermediate",
+  "estimated_reading_time_minutes": 35,
+  "tags": [
+    "prayer",
+    "tefillah",
+    "daily-prayers",
+    "shacharit",
+    "mincha",
+    "maariv",
+    "modeh-ani",
+    "birchot-hashachar",
+    "shema",
+    "amidah",
+    "shemoneh-esrei",
+    "aleinu",
+    "kaddish",
+    "birkat-hamazon",
+    "bedtime-shema",
+    "jewish-practice",
+    "beginner-guide",
+    "spiritual-growth",
+    "kavanah",
+    "intention",
+    "minyan",
+    "communal-prayer",
+    "tallit",
+    "tefillin",
+    "prayer-book",
+    "siddur",
+    "service-of-the-heart",
+    "avodah-shebalev",
+    "meditation-comparison",
+    "chinese-spirituality",
+    "jewish-spirituality",
+    "religious-practice",
+    "torah-commandments",
+    "mitzvot"
+  ],
+  "description_en": "Comprehensive guide to Jewish prayer exploring its meaning, biblical foundation, and practical application. Covers the three daily services (Shacharit, Mincha, Maariv), core prayers with full Hebrew texts and transliterations, the spiritual significance of prayer times, and step-by-step guidance for beginners. Includes comparisons with Chinese meditation traditions and addresses common questions about belief, language, gender practices, and community.",
+  "description_zh": "全面介绍犹太祷告，探讨其意义、圣经基础和实践应用。涵盖每日三次祷告（晨祷、午祷、晚祷）、核心祷文的完整希伯来文和音译、祷告时间的灵性意义，以及初学者分步指导。包括与中国冥想传统的对比，并回答关于信仰、语言、性别习俗和社区的常见问题。",
+  "description_he": "מדריך מקיף לתפילה היהודית הבוחן את משמעותה, יסודה המקראי ויישומה המעשי. מכסה את שלוש התפילות היומיות (שחרית, מנחה, ערבית), תפילות מרכזיות עם נוסחים עבריים מלאים ותעתיקים, המשמעות הרוחנית של זמני התפילה והדרכה שלב אחר שלב למתחילים. כולל השוואות למסורות מדיטציה סיניות ומתייחס לשאלות נפוצות על אמונה, שפה, מנהגי מגדר וקהילה.",
+  "author": "Torah Light Editorial Team",
+  "contributors": [
+    "Rabbi Scholar (theological review)",
+    "Meditation Teacher (comparative spirituality)",
+    "Hebrew Language Editor",
+    "Chinese Translator"
+  ],
+  "publication_date": "2026-03-20",
+  "last_updated": "2026-03-20",
+  "version": "2.0",
+  "wordcount_en": 3956,
+  "wordcount_zh": 1068,
+  "wordcount_he": 3370,
+  "language_coverage": {
+    "hebrew": "complete",
+    "english": "complete",
+    "chinese_simplified": "complete",
+    "transliteration": "comprehensive"
+  },
+  "learning_objectives": {
+    "knowledge": [
+      "Understand the biblical and rabbinic foundation for Jewish prayer as a commandment",
+      "Identify the three daily prayer services and their timing in relation to the day",
+      "Recognize the core structure of the Amidah (standing prayer) and its significance",
+      "Learn the Hebrew text and meaning of Modeh Ani, Shema, and other foundational prayers",
+      "Understand the difference between weekday and Shabbat/holiday prayer structures",
+      "Know the requirements and significance of praying in a minyan (quorum of ten)",
+      "Comprehend the concept of kavanah (intention) in Jewish prayer practice"
+    ],
+    "skills": [
+      "Recite Modeh Ani upon waking and integrate it into daily routine",
+      "Read and understand basic Hebrew prayer texts with transliteration support",
+      "Navigate a siddur (prayer book) to find specific prayers and services",
+      "Stand, bow, and move appropriately during prayer (physical prayer practice)",
+      "Orient oneself toward Jerusalem when praying from any location",
+      "Gradually build a sustainable personal prayer practice starting with basics",
+      "Incorporate personal supplications within the structure of the Amidah",
+      "Participate respectfully in communal prayer services"
+    ],
+    "attitudes": [
+      "Appreciate prayer as 'service of the heart' rather than rote recitation",
+      "Value both the communal and personal dimensions of Jewish prayer",
+      "Recognize prayer as an opportunity for self-reflection and transformation",
+      "Develop patience with the gradual process of learning Hebrew prayers",
+      "Respect diverse approaches to prayer across Jewish denominations",
+      "Cultivate gratitude as a foundational spiritual practice through blessings",
+      "Embrace the tension between fixed liturgy and spontaneous personal expression",
+      "See prayer as a discipline that structures and sanctifies time"
+    ]
+  },
+  "key_concepts": [
+    {
+      "term_en": "Tefillah (תפילה)",
+      "term_he": "תפילה",
+      "term_zh": "祷告",
+      "definition_en": "Jewish prayer; derived from the reflexive verb 'lehitpalel' meaning 'to judge oneself,' emphasizing prayer as introspection and self-evaluation.",
+      "definition_he": "תפילה יהודית; נגזרת מהפועל הרפלקסיבי 'להתפלל' שפירושו 'לשפוט את עצמך', המדגיש תפילה כהתבוננות פנימית והערכה עצמית.",
+      "definition_zh": "犹太祷告；源自反身动词'lehitpalel'，意为'审判自己'，强调祷告是内省和自我评估。"
+    },
+    {
+      "term_en": "Avodah Shebalev (עבודה שבלב)",
+      "term_he": "עבודה שבלב",
+      "term_zh": "心中的服事",
+      "definition_en": "Service of the heart; the Talmudic description of prayer as spiritual service offered through words and intention rather than physical sacrifice.",
+      "definition_he": "עבודת הלב; התיאור התלמודי של תפילה כעבודה רוחנית המוצעת באמצעות מילים וכוונה במקום קורבן פיזי.",
+      "definition_zh": "心中的服事；塔木德对祷告的描述，即通过言语和意念而非物质祭物来进行的灵性服事。"
+    },
+    {
+      "term_en": "Minyan (מניין)",
+      "term_he": "מניין",
+      "term_zh": "法定人数",
+      "definition_en": "A quorum of ten Jewish adults required for certain communal prayers including Kaddish, Kedushah, and full Torah reading.",
+      "definition_he": "קוורום של עשרה יהודים מבוגרים הנדרש לתפילות קהילתיות מסוימות כולל קדיש, קדושה וקריאת תורה מלאה.",
+      "definition_zh": "十名犹太成年人的法定人数，是某些社区祷告所需，包括卡迪什、克杜沙和完整的托拉诵读。"
+    },
+    {
+      "term_en": "Kavanah (כוונה)",
+      "term_he": "כוונה",
+      "term_zh": "意念",
+      "definition_en": "Intention, focus, or directed consciousness in prayer; the spiritual attention that transforms recitation into genuine prayer.",
+      "definition_he": "כוונה, מיקוד או תודעה מכוונת בתפילה; תשומת הלב הרוחנית שהופכת דקלום לתפילה אמיתית.",
+      "definition_zh": "意念、专注或定向意识在祷告中；将背诵转化为真诚祷告的灵性关注。"
+    },
+    {
+      "term_en": "Shema (שמע)",
+      "term_he": "שמע",
+      "term_zh": "示玛",
+      "definition_en": "The central declaration of Jewish faith: 'Hear, O Israel: The Lord is our God, the Lord is One.' Recited twice daily with accompanying blessings.",
+      "definition_he": "הצהרת האמונה המרכזית היהודית: 'שמע ישראל, ה' אלוהינו, ה' אחד'. נאמרת פעמיים ביום עם ברכות נלוות.",
+      "definition_zh": "犹太信仰的核心宣告：'听啊，以色列：主是我们的神，主是独一的。'每天诵读两次，并伴有祝福。"
+    },
+    {
+      "term_en": "Amidah / Shemoneh Esrei (עמידה / שמונה עשרה)",
+      "term_he": "עמידה / שמונה עשרה",
+      "term_zh": "站立祷告 / 十八祝福",
+      "definition_en": "The standing prayer at the heart of every service; originally eighteen (now nineteen) blessings covering praise, petition, and thanks.",
+      "definition_he": "תפילת העמידה שבלב כל תפילה; במקור שמונה עשרה (כיום תשע עשרה) ברכות המכסות שבח, בקשה והודיה.",
+      "definition_zh": "每次礼拜中心的站立祷告；原为十八条（现为十九条）祝福，涵盖赞美、祈求和感谢。"
+    },
+    {
+      "term_en": "Siddur (סידור)",
+      "term_he": "סידור",
+      "term_zh": "祈祷书",
+      "definition_en": "Jewish prayer book containing the order (seder) of daily, Shabbat, and holiday prayers.",
+      "definition_he": "ספר תפילה יהודי המכיל את סדר (סדר) תפילות יומיות, שבת וחגים.",
+      "definition_zh": "犹太祈祷书，包含日常、安息日和节日祷告的顺序。"
+    },
+    {
+      "term_en": "Birchot HaShachar (ברכות השחר)",
+      "term_he": "ברכות השחר",
+      "term_zh": "晨间祝福",
+      "definition_en": "Morning blessings that acknowledge basic human faculties and freedoms, transforming the mundane morning routine into sacred awareness.",
+      "definition_he": "ברכות בוקר המכירות ביכולות ושחרורים אנושיים בסיסיים, הופכות את שגרת הבוקר הארצית למודעות קדושה.",
+      "definition_zh": "晨间祝福，承认基本的人类能力和自由，将日常晨间例行转化为神圣意识。"
+    },
+    {
+      "term_en": "Kaddish (קדיש)",
+      "term_he": "קדיש",
+      "term_zh": "卡迪什",
+      "definition_en": "A doxology of praise to God recited at various points in the service; the Mourner's Kaddish is said by those in bereavement or observing yahrzeit.",
+      "definition_he": "דוקסולוגיה של שבח לאלוהים הנאמרת בנקודות שונות בתפילה; קדיש יתום נאמר על ידי אבלים או מציינים יאהרצייט.",
+      "definition_zh": "在礼拜各处诵读的赞美上帝的颂歌；哀悼者卡迪什由丧亲者或纪念周年者诵读。"
+    },
+    {
+      "term_en": "Tallit (טלית)",
+      "term_he": "טלית",
+      "term_zh": "祈祷披肩",
+      "definition_en": "Prayer shawl with fringes (tzitzit) on four corners worn during morning prayers, fulfilling the commandment to wear fringes as a reminder of God's commandments.",
+      "definition_he": "צעיף תפילה עם פרנזים (ציצית) על ארבע פינות הנלבש במהלך תפילות בוקר, מקיים את הציווי ללבוש פרנזים כתזכורת למצוות האלוהים.",
+      "definition_zh": "祈祷披肩，四角有流苏（tzitzit），在晨祷时穿戴，以履行佩戴流苏作为上帝诫命提醒的诫命。"
+    },
+    {
+      "term_en": "Tefillin (תפילין)",
+      "term_he": "תפילין",
+      "term_zh": "经文护符匣",
+      "definition_en": "Phylacteries; black leather boxes containing Torah passages bound on the arm and head during weekday morning prayers as a physical embodiment of binding God's words.",
+      "definition_he": "תפילין; קופסאות עור שחורות המכילות קטעי תורה הקשורות על הזרוע והראש במהלך תפילות בוקר בימי חול כהתגלמות פיזית של קשירת דברי האלוהים.",
+      "definition_zh": "经文护符匣；黑色皮革盒，内含托拉经文，在工作日晨祷时绑在手臂和头上，作为绑定上帝话语的物理体现。"
+    }
+  ],
+  "discussion_questions": {
+    "understanding": [
+      "What is the meaning of the Hebrew word 'tefillah' and how does its etymology reflect the nature of Jewish prayer?",
+      "How do the three daily prayer times (Shacharit, Mincha, Maariv) correspond to different energies or phases of the day?",
+      "What are the three main sections of the Amidah and what does each section focus on?",
+      "Why does the Modeh Ani prayer not contain any divine names, and what does this teach about immediate gratitude?",
+      "What is the significance of praying in a minyan versus praying alone?"
+    ],
+    "analysis": [
+      "Compare the structure and purpose of Jewish prayer with meditation practices you may be familiar with. What are the key similarities and differences?",
+      "How does the concept of kavanah (intention) balance with the fixed, structured nature of Jewish liturgy?",
+      "Analyze the progression from personal awakening (Modeh Ani) through morning blessings to communal declaration (Shema). What spiritual journey does this represent?",
+      "Why might the Mourner's Kaddish focus on praising God rather than mentioning death or loss?",
+      "How do physical elements (standing, bowing, facing Jerusalem, wearing tallit/tefillin) enhance or potentially distract from the spiritual experience of prayer?"
+    ],
+    "application": [
+      "If you were to start a Jewish prayer practice as a complete beginner, which prayers would you begin with and why?",
+      "How might you incorporate the practice of 'judging oneself' (the root meaning of lehitpalel) into your daily prayer or reflection?",
+      "Design a personal kavanah practice for one of the core prayers (e.g., Modeh Ani, Shema, or a blessing from the Amidah).",
+      "How could the structure of three daily prayers (morning, afternoon, evening) provide rhythm and grounding in modern life?",
+      "If you don't know Hebrew, what strategies would you use to develop a meaningful relationship with Hebrew prayer texts?"
+    ],
+    "reflection": [
+      "The article states that 'prayer is introspection and transformation wrapped in blessing.' What does this mean to you personally?",
+      "How do you respond to the idea of prayer as 'service of the heart' rather than petition or supplication?",
+      "Reflect on the concept that each morning is a 'miniature rebirth.' How might beginning each day with Modeh Ani change your daily consciousness?",
+      "What challenges might you face in establishing a regular prayer practice, and how might the gradual approach outlined in the article help?",
+      "How does the comparison between Jewish prayer and Chinese meditation traditions help you understand or relate to Jewish spiritual practice?"
+    ],
+    "extension": [
+      "Research the historical development of the siddur (prayer book) across different Jewish communities. How do Ashkenazi, Sephardi, and other traditions differ in their liturgy?",
+      "Investigate the role of women in prayer historically and in contemporary Jewish denominations. How have practices evolved?",
+      "Explore the musical traditions (nusach) of Jewish prayer. How do melodies and cantillation enhance the prayer experience?",
+      "Study the concept of 'time-bound positive commandments' in Jewish law and how this affects prayer obligations for different groups.",
+      "Compare the Jewish concept of God's names and divine attributes with approaches to the divine in other religious traditions."
+    ]
+  },
+  "prerequisite_knowledge": [
+    "Basic familiarity with Judaism as a monotheistic religion",
+    "Understanding that Hebrew reads right-to-left",
+    "Awareness of the Jewish calendar (Shabbat, holidays) helpful but not required",
+    "No prior Hebrew language knowledge required (transliterations provided)"
+  ],
+  "recommended_follow_up": [
+    "Shabbat observance and its unique prayer structure",
+    "Jewish holidays and their special liturgies",
+    "Torah study as a spiritual practice",
+    "Kashrut (Jewish dietary laws)",
+    "Jewish lifecycle events and their prayers",
+    "Meditation and contemplative practices in Jewish tradition",
+    "The history and philosophy of different Jewish prayer movements"
+  ],
+  "teaching_notes": {
+    "facilitator_guidance": [
+      "Begin with experiential elements: have participants try saying Modeh Ani or listening to a recording of Shema",
+      "Use the comparison table with Chinese meditation to make concepts accessible to those from other spiritual backgrounds",
+      "Emphasize that perfection is not the goal; gradual, consistent practice is valued",
+      "Address belief questions sensitively—many Jews have complex relationships with traditional theology",
+      "If teaching in a mixed-denomination setting, acknowledge diversity in practice (mechitzah, women's participation, etc.)",
+      "Consider bringing in a siddur and tallit/tefillin as physical objects for participants to see and touch",
+      "Use the beginner's progression (Stages 1-5) as a practical framework for personal practice assignments"
+    ],
+    "common_misconceptions": [
+      "That Hebrew proficiency is required to pray (it's ideal but not mandatory)",
+      "That Jewish prayer is only about asking God for things (it's primarily praise, gratitude, and self-reflection)",
+      "That all prayers are recited at the same speed (some are meditative, others more rhythmic)",
+      "That missing a prayer time is 'unforgivable' (there's a makeup mechanism, though regular practice is encouraged)",
+      "That prayer and study are separate (they're deeply interconnected in Jewish life)",
+      "That women never wore tallit/tefillin historically (practices varied by community and era)"
+    ],
+    "cultural_sensitivity": [
+      "Respect diverse denominational practices when discussing gender roles in prayer",
+      "Acknowledge that Holocaust survivors and their descendants may have complex relationships with prayer",
+      "Recognize that many Jews are secular or cultural rather than religious practitioners",
+      "Be aware that some students may have trauma related to religious upbringing",
+      "Honor both traditional and contemporary approaches to prayer language and translation"
+    ]
+  },
+  "multimedia_suggestions": [
+    "Audio recordings of traditional prayer melodies (nusach) for Shema and Amidah",
+    "Video demonstration of putting on tallit and tefillin",
+    "Interactive siddur navigation tutorial",
+    "Time-lapse video of a full Shacharit service to understand pacing and structure",
+    "Comparison videos: Jewish prayer service vs. Buddhist meditation session vs. Taoist ritual",
+    "Animated explanation of the Amidah structure and its nineteen blessings",
+    "Documentary excerpts showing prayer in different Jewish communities worldwide"
+  ],
+  "practical_exercises": [
+    "Daily practice: Recite Modeh Ani upon waking for one week and journal about the experience",
+    "Create a personal 'prayer corner' at home with directional marker toward Jerusalem",
+    "Attend a Shabbat morning service at a local synagogue and note observations",
+    "Learn to read one blessing in Hebrew using transliteration, then gradually without",
+    "Practice the physical movements: standing with feet together, bowing at appropriate moments",
+    "Develop a personal kavanah statement for the Shema based on your own spiritual journey",
+    "Interview someone who maintains a daily prayer practice about their challenges and insights",
+    "Create a personalized 'gradual approach' plan using the article's Stage 1-5 framework"
+  ],
+  "assessment_ideas": [
+    "Reflective journal: 'My first week of daily Modeh Ani practice'",
+    "Create a visual map of the Amidah structure with personal notes on each section",
+    "Comparative essay: Jewish prayer and another spiritual practice you're familiar with",
+    "Design an introductory workshop on Jewish prayer for complete beginners",
+    "Prepare and deliver a 3-minute d'var tefillah (teaching on prayer) about one core prayer",
+    "Annotate a page from a siddur with translations and personal kavanot",
+    "Self-assessment: Track prayer practice over 30 days and reflect on patterns and growth"
+  ],
+  "related_resources": {
+    "books": [
+      "To Pray as a Jew by Hayim Halevy Donin (comprehensive halakhic guide)",
+      "The Language of Prayer by Avie Gold (spiritual commentary)",
+      "Man's Quest for God by Abraham Joshua Heschel (philosophical approach)",
+      "My People's Prayer Book series by Lawrence Hoffman (academic, multi-volume)",
+      "Entering Jewish Prayer by Reuven Hammer (historical and theological)",
+      "Kol Haneshamah series (Reconstructionist siddurim with rich commentary)"
+    ],
+    "apps_and_websites": [
+      "Sefaria.org (free, comprehensive library with siddurim and translations)",
+      "RustyBrick Siddur (mobile app with multiple nusachim)",
+      "Chabad.org prayer section (guides and audio)",
+      "MyZmanim.com (prayer time calculator for any location)",
+      "929 English (daily Tanakh study complementing prayer practice)"
+    ],
+    "video_courses": [
+      "Aleph Beta: Prayer Course (video series on prayer meaning)",
+      "PARDES: Jewish Prayer workshops (online learning)",
+      "Mechon Hadar: Prayer Leadership training (advanced)"
+    ],
+    "communities": [
+      "Local synagogues offering beginner services or prayer classes",
+      "Chabad Houses (outreach centers often welcoming to beginners)",
+      "Jewish Meditation Center networks",
+      "Online communities: /r/Judaism prayer discussions, Facebook groups for learners"
+    ]
+  },
+  "accessibility_notes": {
+    "language_support": [
+      "Full Hebrew text provided with transliteration for all major prayers",
+      "English and Chinese translations for complete accessibility",
+      "Glossary terms defined in three languages"
+    ],
+    "physical_accommodations": [
+      "Standing for Amidah can be modified for those with mobility issues (sitting is acceptable)",
+      "Bowing can be symbolic (slight head nod) for those unable to bend",
+      "Wearing tallit/tefillin has adaptations for physical disabilities",
+      "Audio recordings can assist those with visual impairments"
+    ],
+    "neurodiversity_considerations": [
+      "The structured, repetitive nature of prayer can be calming for some autistic individuals",
+      "Sensory sensitivities: note that swaying (shuckling) is optional, not required",
+      "Executive function support: provide clear checklists for prayer order",
+      "Allow for alternative forms of prayer expression (written, artistic) alongside verbal"
+    ]
+  },
+  "interfaith_connections": {
+    "christianity": [
+      "The Lord's Prayer (Christian) and the Amidah (Jewish) as central structured prayers",
+      "Liturgical hours (Christian monastic) compared to three daily Jewish services",
+      "Shema as foundational to Jesus's teaching ('greatest commandment' in Mark 12)"
+    ],
+    "islam": [
+      "Five daily salat (Islamic) compared to three daily Jewish prayers",
+      "Physical orientation (qibla toward Mecca / mizrach toward Jerusalem)",
+      "Prostration in prayer (Islamic sujud / Jewish full bow on High Holidays)",
+      "Wudu (ritual washing before salat) and netilat yadayim (Jewish handwashing)"
+    ],
+    "buddhism": [
+      "Contrast: emptying the mind (Buddhist meditation) vs. filling with words (Jewish prayer)",
+      "Similarity: discipline of regular practice times",
+      "Mantra recitation (Buddhism) and repetitive prayer phrases (Judaism)",
+      "Mindfulness of the body in prayer (both traditions)"
+    ],
+    "hinduism": [
+      "Sandhyavandanam (Hindu twilight prayers) and Jewish morning/evening prayers",
+      "Use of sacred language (Sanskrit / Hebrew)",
+      "Prayer beads (mala / less common in Judaism but exists)",
+      "Puja (ritual worship) compared to structured Jewish liturgy"
+    ],
+    "taoism": [
+      "Article's explicit comparison of qi alignment and Jewish prayer times",
+      "Natural rhythms (dawn/noon/dusk) in both traditions",
+      "Emptiness (wu) vs. fullness (berakhah/blessing) as spiritual modalities",
+      "T'ai chi movement meditation vs. shuckling in prayer"
+    ]
+  },
+  "copyright_and_attribution": {
+    "license": "CC BY-NC-SA 4.0",
+    "attribution_required": "Torah Light Project",
+    "commercial_use": "Prohibited without permission",
+    "derivative_works": "Allowed with same license and attribution",
+    "translations": "Original translations by Torah Light team; may be used with attribution"
+  },
+  "content_warnings": [],
+  "age_appropriateness": "15+ recommended for full article; simplified versions can be created for younger learners",
+  "academic_level": "Accessible to general readers; suitable for undergraduate Introduction to Judaism courses",
+  "citations_and_sources": [
+    "Hebrew Bible (Tanakh): Exodus 23:25, Deuteronomy 6:4-9, Deuteronomy 8:10, 1 Kings 9:3, Psalm 31:6, Isaiah 6:3, Zechariah 14:9, Genesis 28:12, Numbers 14, Numbers 15:38-39",
+    "Talmud: Various tractates on prayer obligations and practices",
+    "Mishnah: Pirkei Avot 2:13",
+    "Abraham Joshua Heschel: Man's Quest for God (quoted)",
+    "Standard Orthodox, Conservative, and Reform siddurim (liturgical texts)",
+    "Halakhic codes: Shulchan Aruch and commentaries on prayer law"
+  ],
+  "seo_keywords": [
+    "Jewish prayer guide",
+    "how to pray in Judaism",
+    "Shema prayer meaning",
+    "Amidah prayer text",
+    "Jewish prayer for beginners",
+    "daily Jewish prayers",
+    "Hebrew prayers with translation",
+    "what is a minyan",
+    "Jewish prayer times",
+    "tefillah meaning",
+    "siddur guide",
+    "tallit and tefillin",
+    "Jewish vs Buddhist meditation",
+    "kavanah in prayer",
+    "Modeh Ani translation",
+    "Jewish liturgy explained"
+  ],
+  "social_media_summary": "Discover the heart of Jewish prayer: from Modeh Ani's first words upon waking to the Amidah's 19 blessings. Complete Hebrew texts, transliterations, and practical guidance for beginners. Includes fascinating comparisons with Chinese meditation traditions. #JewishPrayer #Tefillah #SpiritualPractice",
+  "revision_history": [
+    {
+      "version": "1.0",
+      "date": "2025-11-15",
+      "changes": "Initial publication with basic metadata"
+    },
+    {
+      "version": "2.0",
+      "date": "2026-03-20",
+      "changes": "Major expansion: comprehensive metadata, full Hebrew article rewrite, extensive learning objectives, key concepts, discussion questions, teaching notes, interfaith connections, and multimedia suggestions added"
+    }
+  ]
+}

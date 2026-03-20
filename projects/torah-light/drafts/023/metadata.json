@@ -1,0 +1,67 @@
+{
+  "id": 23,
+  "title": "Making Kosher Chinese Food: A Complete Guide",
+  "title_zh": "制作符合洁食规定的中餐:完整指南",
+  "title_he": "הכנת אוכל סיני כשר: מדריך מקיף",
+  "section": "Kosher Food",
+  "folder": "kosher-food",
+  "description": "How to make your favorite Chinese dishes kosher — from stir-fry to dumplings — including ingredient substitutions and kitchen setup.",
+  "word_count_en": 4523,
+  "word_count_zh": 4162,
+  "word_count_he": 3876,
+  "languages": ["en", "zh", "he"],
+  "status": "complete",
+  "chinese_dynasty_references": [
+    {
+      "dynasty": "Shang Dynasty (商朝)",
+      "dates": "~1600-1046 BCE",
+      "jewish_context": "Torah given at Mount Sinai (~1300 BCE)"
+    },
+    {
+      "dynasty": "Qing Dynasty (清朝)",
+      "dates": "1644-1912 CE",
+      "jewish_context": "Jewish immigration to America, early 1900s"
+    }
+  ],
+  "cultural_parallels": [
+    "Confucian li (礼) and kosher mindfulness",
+    "Traditional Chinese hot/cold food balance vs. meat/dairy separation",
+    "Silk Road adaptation vs. Jewish diaspora adaptation",
+    "Chinese culinary philosophy of balance and harmony"
+  ],
+  "recipes_included": [
+    "Classic Chicken Stir-Fry with Vegetables",
+    "Kosher Chicken Pot Sticker Dumplings",
+    "Easy Wonton Soup",
+    "Sesame Chicken"
+  ],
+  "key_topics": [
+    "Kosher dietary laws (kashrut)",
+    "Meat and dairy separation",
+    "Chinese-Jewish cultural history",
+    "Ingredient substitutions",
+    "Kitchen setup for kosher cooking",
+    "Recipe adaptations"
+  ],
+  "tags": [
+    "KosherFood",
+    "ChineseCuisine",
+    "KosherKitchen",
+    "Kashrut",
+    "ShabbatMeals",
+    "犹太洁食",
+    "中餐",
+    "文化融合",
+    "饮食法规",
+    "家庭料理",
+    "TorahDietaryLaws",
+    "CulturalBridge",
+    "HomeCooking",
+    "JewishCooking",
+    "AsianFusion"
+  ],
+  "bibliography_sources": 10,
+  "urls_verified": true,
+  "created": "2026-03-17T07:40:00+02:00",
+  "completed": "2026-03-17T07:54:00+02:00"
+}

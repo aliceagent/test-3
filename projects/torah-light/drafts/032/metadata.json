@@ -1,0 +1,39 @@
+{
+  "article_id": 32,
+  "title": "The Morning Blessings: Starting Your Day with Gratitude",
+  "title_zh": "晨祷祝福：以感恩之心开启每一天",
+  "title_he": "ברכות השחר: להתחיל את היום בהכרת טובה",
+  "section": "Blessings",
+  "folder": "blessings",
+  "description": "Full text and explanation of Birchot HaShachar — the 15 morning blessings that thank God for the basics of life.",
+  "status": "drafted",
+  "languages": ["en", "zh", "he"],
+  "word_counts": {
+    "en": 3847,
+    "zh": 1892,
+    "he": 2845
+  },
+  "chinese_historical_period": "Three Kingdoms/Jin Dynasty (三国/晋朝, 220-420 CE)",
+  "cultural_parallels": [
+    "Confucian morning reflection (晨省)",
+    "Buddhist morning prayers (晨课)",
+    "Daoist morning exercises (晨练)",
+    "Traditional Chinese gratitude for basic needs (衣食住行)"
+  ],
+  "main_themes": [
+    "Daily gratitude practice",
+    "Spiritual awareness in routine activities",
+    "Recognition of divine providence",
+    "Transforming ordinary moments into sacred experiences"
+  ],
+  "target_audience": "Chinese native Mandarin speakers with no prior Jewish knowledge",
+  "key_learning_outcomes": [
+    "Understanding the 15 traditional morning blessings",
+    "Learning how to incorporate gratitude into daily routine",
+    "Connecting Jewish practice to familiar Chinese cultural concepts",
+    "Practical guidance for starting a personal blessing practice"
+  ],
+  "bibliography_count": 4,
+  "date_written": "2026-03-17",
+  "estimated_reading_time": "12-15 minutes"
+}

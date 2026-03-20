@@ -1,0 +1,176 @@
+{
+  "article_id": 399,
+  "title": {
+    "en": "The Chinese Zodiac and the Jewish Calendar: Two Systems of Time",
+    "zh": "中国生肖与犹太历法:两种时间体系",
+    "he": "המזלות הסיניים והלוח העברי: שתי מערכות זמן"
+  },
+  "description": {
+    "en": "How the Chinese 12-year animal cycle and the Jewish monthly-yearly system each create a framework for understanding time and destiny.",
+    "zh": "中国十二年动物循环和犹太月-年系统如何各自创造一个理解时间和命运的框架。",
+    "he": "כיצד מחזור בעלי החיים הסיני בן 12 השנים ומערכת החודש-שנה היהודית יוצרים כל אחד מסגרת להבנת זמן וגורל."
+  },
+  "section": "chinese-jewish-bridge-topics",
+  "subsection": "time-and-calendar",
+  "topics": [
+    "Chinese Zodiac",
+    "Jewish Calendar",
+    "Time Systems",
+    "Cultural Comparison",
+    "Astrology",
+    "Lunar-Solar Calendar",
+    "Cyclical Time",
+    "Sacred Time",
+    "Festivals",
+    "Character and Destiny"
+  ],
+  "keywords": {
+    "en": [
+      "Chinese Zodiac",
+      "shengxiao",
+      "Jewish calendar",
+      "Hebrew calendar",
+      "twelve animals",
+      "five elements",
+      "lunar-solar calendar",
+      "festivals",
+      "mazal",
+      "time philosophy",
+      "cultural comparison",
+      "harmony",
+      "holiness",
+      "destiny",
+      "cyclical time"
+    ],
+    "zh": [
+      "生肖",
+      "犹太历法",
+      "希伯来历",
+      "十二生肖",
+      "五行",
+      "阴阳合历",
+      "节日",
+      "星座",
+      "时间哲学",
+      "文化比较",
+      "和谐",
+      "神圣",
+      "命运",
+      "循环时间"
+    ],
+    "he": [
+      "מזלות סיניים",
+      "לוח עברי",
+      "שתים עשרה חיות",
+      "חמשת היסודות",
+      "לוח ירח-שמש",
+      "חגים",
+      "מזל",
+      "פילוסופיית זמן",
+      "השוואה תרבותית",
+      "הרמוניה",
+      "קדושה",
+      "גורל",
+      "זמן מחזורי"
+    ]
+  },
+  "author": "Torah Light Editorial Team",
+  "date_created": "2026-03-20",
+  "language_versions": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "word_count": {
+    "en": 3850,
+    "zh": 3200,
+    "he": 3400
+  },
+  "target_audience": [
+    "Cross-cultural learners",
+    "Jewish-Chinese community",
+    "Philosophy enthusiasts",
+    "Interfaith dialogue participants",
+    "Cultural anthropology students"
+  ],
+  "difficulty_level": "Intermediate to Advanced",
+  "related_articles": [
+    398,
+    400,
+    "jewish-festivals-overview",
+    "chinese-philosophy-intro"
+  ],
+  "sources": [
+    {
+      "type": "Traditional Text",
+      "title": "Torah and Talmudic references to the Jewish calendar",
+      "description": "Biblical and rabbinic sources on calendar calculation and festival observance"
+    },
+    {
+      "type": "Cultural Resource",
+      "title": "Chinese Zodiac and Five Elements theory",
+      "description": "Traditional Chinese cosmological and astrological systems"
+    },
+    {
+      "type": "Academic",
+      "title": "Comparative studies in time systems and cultural chronology",
+      "description": "Cross-cultural analysis of temporal frameworks"
+    }
+  ],
+  "educational_objectives": [
+    "Understand the structure and philosophy of the Chinese Zodiac system",
+    "Comprehend the Jewish lunar-solar calendar and its religious significance",
+    "Compare and contrast two different cultural approaches to organizing time",
+    "Recognize the intersection of time, character, and destiny in both systems",
+    "Appreciate how time systems shape cultural identity and collective experience",
+    "Apply ancient wisdom to modern personal development and cross-cultural understanding"
+  ],
+  "discussion_questions": [
+    "How do the Chinese and Jewish approaches to time reflect different cultural values?",
+    "In what ways do both systems balance determinism and free will?",
+    "How might understanding these time systems improve cross-cultural communication?",
+    "What role does community play in both temporal frameworks?",
+    "How can modern individuals benefit from these ancient time philosophies?",
+    "What are the similarities and differences between harmony (Chinese) and holiness (Jewish) as organizing principles?"
+  ],
+  "practical_applications": [
+    "Personal self-reflection using zodiac or calendar frameworks",
+    "Business cultural sensitivity in Chinese and Jewish contexts",
+    "Festival celebration and ritual observance",
+    "Cross-cultural dialogue and interfaith work",
+    "Time management informed by cyclical wisdom",
+    "Understanding character development through temporal lenses"
+  ],
+  "multimedia_suggestions": [
+    "Timeline graphic comparing Chinese 60-year cycle with Jewish 19-year calendar cycle",
+    "Infographic of twelve zodiac animals with characteristics",
+    "Jewish festival wheel showing annual cycle",
+    "Interactive calendar converter (Gregorian ↔ Hebrew ↔ Chinese)",
+    "Video interviews with practitioners of both traditions"
+  ],
+  "cross_references": {
+    "chinese_concepts": [
+      "Yin and Yang",
+      "Five Elements (Wu Xing)",
+      "Tao",
+      "Harmony (He)",
+      "Cultivation (Xiuyang)"
+    ],
+    "jewish_concepts": [
+      "Shabbat",
+      "Festivals (Chagim)",
+      "Teshuvah",
+      "Tikun Olam",
+      "Mazal",
+      "Sanctification of Time (Kiddush HaZman)"
+    ]
+  },
+  "file_paths": {
+    "en": "article-en.md",
+    "zh": "article-zh.md",
+    "he": "article-he.md",
+    "metadata": "metadata.json"
+  },
+  "status": "completed",
+  "version": "1.0"
+}

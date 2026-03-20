@@ -1,0 +1,104 @@
+{
+  "article_id": 24,
+  "title": "Is Soy Sauce Kosher? Common Asian Ingredients Under the Halachic Microscope",
+  "section": "Kosher Food",
+  "sources": [
+    {
+      "title": "Rice: Nature's Answer To Hashem's Blessings",
+      "author": "Rabbi Tzvi Rosen",
+      "publication": "STAR-K Kosher Certification",
+      "url": "https://www.star-k.org/articles/kashrus-kurrents/10326/rice-natures-answer-to-hashems-blessings-2/",
+      "date": "September 22, 2023",
+      "type": "kashrut_authority",
+      "topics": ["rice", "miso", "rice_vinegar", "sake", "bishul_akum", "parboiling"]
+    },
+    {
+      "title": "Sushi L'Mehadrin",
+      "publication": "STAR-K Kosher Certification",
+      "url": "https://www.star-k.org/articles/kashrus-kurrents/2140/sushi-lmehadrin/",
+      "date": "May 11, 2016",
+      "type": "kashrut_authority",
+      "topics": ["nori", "rice_vinegar", "sushi", "bishul_yisroel"]
+    },
+    {
+      "title": "A Closer Look: Sushi",
+      "publication": "OK Kosher Certification",
+      "url": "https://www.ok.org/consumers/a-closer-look-ingredients/a-closer-look-sushi/",
+      "date": "December 12, 2025",
+      "type": "kashrut_authority",
+      "topics": ["nori", "infestation", "bishul_yisroel", "rice"]
+    },
+    {
+      "title": "Sushi",
+      "publication": "cRc Consumer Kosher",
+      "url": "https://consumer.crckosher.org/publications/sushi/",
+      "type": "kashrut_authority",
+      "topics": ["soy_sauce", "seaweed", "rice_vinegar", "fermentation"]
+    },
+    {
+      "title": "Are Tofu and Other Soy Products Kosher for Passover?",
+      "publication": "Chabad.org",
+      "url": "https://www.chabad.org/holidays/passover/pesach_cdo/aid/4354949/jewish/Are-Tofu-and-Other-Soy-Products-Kosher-for-Passover.htm",
+      "date": "April 11, 2019",
+      "type": "kashrut_authority",
+      "topics": ["tofu", "soy_sauce", "miso", "kitniyot", "passover"]
+    },
+    {
+      "title": "Soy Sauce – Foundational Ingredient in Asian Cooking",
+      "publication": "The Jewish Voice & Opinion",
+      "url": "https://thejewishvoiceandopinion.com/soy-sauce-foundational-ingredient-in-asian-cooking/",
+      "type": "article",
+      "topics": ["soy_sauce", "sempio", "OU_certification", "korean"]
+    },
+    {
+      "title": "San-J Gluten Free Tamari Soy Sauce",
+      "company": "San-J",
+      "url": "https://san-j.com/product/tamari-gluten-free-soy-sauce/",
+      "type": "product",
+      "topics": ["tamari", "gluten_free", "wheat_free", "kosher_certification"]
+    },
+    {
+      "title": "Kikkoman Gluten-Free Tamari Soy Sauce",
+      "company": "Kikkoman",
+      "url": "https://kikkomanusa.com/homecooks/products/gluten-free-tamari-soy-sauce-non-gmo/",
+      "type": "product",
+      "topics": ["tamari", "gluten_free", "certification"]
+    },
+    {
+      "title": "Analects of Confucius Book 10 on ritual behavior: Confucius at home",
+      "author": "Richard Brown",
+      "publication": "Medium",
+      "url": "https://brownbeat.medium.com/analects-of-confucius-book-10-on-ritual-behavior-confucius-at-home-308c880d4eb2",
+      "date": "November 14, 2021",
+      "type": "cultural_parallel",
+      "topics": ["confucius", "dietary_rules", "food_safety", "ritual_purity"]
+    },
+    {
+      "title": "Chinese Food Culture",
+      "publication": "ChinaFetching",
+      "url": "https://www.chinafetching.com/chinese-food-culture",
+      "type": "cultural_background",
+      "topics": ["confucius", "chinese_food_philosophy", "dining_culture"]
+    }
+  ],
+  "primary_ingredients_researched": [
+    "soy_sauce",
+    "tamari",
+    "tofu",
+    "miso",
+    "rice_vinegar",
+    "nori_seaweed",
+    "fish_sauce",
+    "oyster_sauce",
+    "rice_wine_sake"
+  ],
+  "halachic_concepts": [
+    "bishul_akum",
+    "bishul_yisroel",
+    "infestation_concerns",
+    "kitniyot",
+    "fermentation",
+    "stam_yayin",
+    "kosher_certification_requirements"
+  ]
+}

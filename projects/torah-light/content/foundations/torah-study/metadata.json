@@ -1,0 +1,310 @@
+{
+  "title": {
+    "en": "Torah Study: The Foundation of Jewish Learning",
+    "zh": "托拉学习:犹太学问的基石",
+    "he": "לימוד תורה: יסוד הלמידה היהודית"
+  },
+  "category": "foundations",
+  "subcategory": "torah-study",
+  "summary": {
+    "en": "Comprehensive guide to Torah study covering the Five Books of Moses, weekly portions (parshiyot), the 613 commandments, traditional study methods (PaRDeS, chavruta), and daily learning schedules for beginners and advanced students.",
+    "zh": "全面的托拉学习指南,涵盖摩西五经、每周段落(帕拉夏)、613条诫命、传统学习方法(帕德斯、哈夫鲁塔)以及初学者和高级学生的日常学习计划。",
+    "he": "מדריך מקיף ללימוד תורה המכסה את חמשת חומשי תורה, פרשיות שבועיות, תרי\"ג מצוות, שיטות לימוד מסורתיות (פרד\"ס, חברותא) ולוחות זמנים יומיים למתחילים ותלמידים מתקדמים."
+  },
+  "keywords": [
+    "Torah",
+    "Torah Study",
+    "Talmud Torah",
+    "Five Books of Moses",
+    "Chumash",
+    "Parshiyot",
+    "613 Mitzvot",
+    "PaRDeS",
+    "Peshat",
+    "Remez",
+    "Derash",
+    "Sod",
+    "Chavruta",
+    "Written Torah",
+    "Oral Torah",
+    "Mishnah",
+    "Gemara",
+    "Talmud",
+    "Midrash",
+    "Genesis",
+    "Bereishit",
+    "Exodus",
+    "Shemot",
+    "Leviticus",
+    "Vayikra",
+    "Numbers",
+    "Bamidbar",
+    "Deuteronomy",
+    "Devarim",
+    "Daf Yomi",
+    "Jewish Learning",
+    "Hebrew Bible",
+    "Rashi",
+    "Ibn Ezra",
+    "Ramban",
+    "Torah Portion",
+    "Jewish Education"
+  ],
+  "hebrewTerms": [
+    {
+      "term": "Torah",
+      "hebrew": "תּוֹרָה",
+      "transliteration": "Torah",
+      "meaning": "Teaching, instruction, law"
+    },
+    {
+      "term": "Chumash",
+      "hebrew": "חוּמָשׁ",
+      "transliteration": "Chumash",
+      "meaning": "The Five Books (from chamesh - five)"
+    },
+    {
+      "term": "Mitzvot",
+      "hebrew": "מִצְווֹת",
+      "transliteration": "Mitzvot",
+      "meaning": "Commandments (plural of mitzvah)"
+    },
+    {
+      "term": "Sefer Torah",
+      "hebrew": "סֵפֶר תּוֹרָה",
+      "transliteration": "Sefer Torah",
+      "meaning": "Torah scroll"
+    },
+    {
+      "term": "Sofer",
+      "hebrew": "סוֹפֵר",
+      "transliteration": "Sofer",
+      "meaning": "Scribe"
+    },
+    {
+      "term": "Mishnah",
+      "hebrew": "מִשְׁנָה",
+      "transliteration": "Mishnah",
+      "meaning": "First major written collection of Jewish oral traditions"
+    },
+    {
+      "term": "Gemara",
+      "hebrew": "גְּמָרָא",
+      "transliteration": "Gemara",
+      "meaning": "Rabbinic analysis and commentary on the Mishnah"
+    },
+    {
+      "term": "Talmud",
+      "hebrew": "תַּלְמוּד",
+      "transliteration": "Talmud",
+      "meaning": "Study - the Mishnah and Gemara together"
+    },
+    {
+      "term": "Midrash",
+      "hebrew": "מִדְרָשׁ",
+      "transliteration": "Midrash",
+      "meaning": "Interpretive literature on biblical texts"
+    },
+    {
+      "term": "Parashah",
+      "hebrew": "פָּרָשָׁה",
+      "transliteration": "Parashah",
+      "meaning": "Weekly Torah portion"
+    },
+    {
+      "term": "Peshat",
+      "hebrew": "פְּשָׁט",
+      "transliteration": "Peshat",
+      "meaning": "Simple/literal meaning"
+    },
+    {
+      "term": "Remez",
+      "hebrew": "רֶמֶז",
+      "transliteration": "Remez",
+      "meaning": "Hint/allegorical interpretation"
+    },
+    {
+      "term": "Derash",
+      "hebrew": "דְּרַשׁ",
+      "transliteration": "Derash",
+      "meaning": "Interpretive/homiletical meaning"
+    },
+    {
+      "term": "Sod",
+      "hebrew": "סוֹד",
+      "transliteration": "Sod",
+      "meaning": "Secret/mystical meaning"
+    },
+    {
+      "term": "PaRDeS",
+      "hebrew": "פַּרְדֵּס",
+      "transliteration": "PaRDeS",
+      "meaning": "Orchard/paradise - acronym for four levels of interpretation"
+    },
+    {
+      "term": "Chavruta",
+      "hebrew": "חַבְרוּתָא",
+      "transliteration": "Chavruta",
+      "meaning": "Study partnership"
+    },
+    {
+      "term": "Shiur",
+      "hebrew": "שִׁעוּר",
+      "transliteration": "Shiur",
+      "meaning": "Lesson/lecture"
+    },
+    {
+      "term": "Talmud Torah",
+      "hebrew": "תַּלְמוּד תּוֹרָה",
+      "transliteration": "Talmud Torah",
+      "meaning": "Torah study"
+    },
+    {
+      "term": "Daf Yomi",
+      "hebrew": "דַּף יוֹמִי",
+      "transliteration": "Daf Yomi",
+      "meaning": "Daily page (of Talmud)"
+    },
+    {
+      "term": "Talmid Chacham",
+      "hebrew": "תַּלְמִיד חָכָם",
+      "transliteration": "Talmid Chacham",
+      "meaning": "Torah scholar"
+    }
+  ],
+  "chineseCulturalParallels": [
+    {
+      "concept": "Torah as 'The Way'",
+      "parallel": "Dao (道)",
+      "explanation": "Both represent a path of wisdom, ethical living, and cosmic order that cannot be fully captured in words yet guides all of life."
+    },
+    {
+      "concept": "Rectification of Names",
+      "parallel": "Zheng Ming (正名)",
+      "explanation": "Torah's emphasis on precise language and naming power parallels Confucian concept of proper names defining reality."
+    },
+    {
+      "concept": "Fifth Commandment",
+      "parallel": "Filial Piety (孝 / xiao)",
+      "explanation": "Honoring parents resonates deeply with Confucian emphasis on family respect and intergenerational responsibility."
+    },
+    {
+      "concept": "Study as Virtue",
+      "parallel": "Junzi (君子)",
+      "explanation": "Both traditions elevate learning as moral practice - the Confucian gentleman parallels the Torah scholar."
+    },
+    {
+      "concept": "Harmony of Creation",
+      "parallel": "Heaven-Earth-Humanity (天地人)",
+      "explanation": "Torah's concept of humans as partners with God in creation mirrors Chinese emphasis on harmony between Heaven, Earth, and Humanity."
+    },
+    {
+      "concept": "Ritual Precision",
+      "parallel": "Li (禮)",
+      "explanation": "Both traditions emphasize careful ritual observance as essential to maintaining cosmic and social order."
+    },
+    {
+      "concept": "Textual Interpretation Levels",
+      "parallel": "Wen-Yi-Li (文義理)",
+      "explanation": "PaRDeS levels parallel Chinese reading for literal meaning (文), moral lesson (義), and philosophical principle (理)."
+    }
+  ],
+  "structure": {
+    "sections": [
+      "Introduction",
+      "What is the Torah?",
+      "The Five Books: Themes and Key Stories",
+      "The Parshiyot: Weekly Torah Portions",
+      "Major Mitzvot by Book",
+      "How to Study Torah",
+      "Daily Study Schedules",
+      "Recommended Reading Order for Beginners",
+      "Chinese Cultural Parallels in Torah Study",
+      "Conclusion: The Eternal Study"
+    ],
+    "fiveBooks": [
+      "Bereishit (Genesis)",
+      "Shemot (Exodus)",
+      "Vayikra (Leviticus)",
+      "Bamidbar (Numbers)",
+      "Devarim (Deuteronomy)"
+    ],
+    "parshiyotCount": 54,
+    "mitzvotCount": 613
+  },
+  "targetAudience": {
+    "primary": "Chinese-speaking individuals interested in Jewish learning",
+    "secondary": "Beginners to Torah study of any background",
+    "level": "Introductory to intermediate"
+  },
+  "learningOutcomes": [
+    "Understand the distinction between Written and Oral Torah",
+    "Identify the five books and their central themes",
+    "Know the structure and purpose of weekly parshiyot",
+    "Learn the four levels of Torah interpretation (PaRDeS)",
+    "Establish a personal Torah study practice",
+    "Recognize cultural bridges between Jewish and Chinese thought",
+    "Navigate Torah commentaries and resources"
+  ],
+  "resources": {
+    "online": [
+      "Sefaria.org - comprehensive free library of Jewish texts",
+      "MyJewishLearning.com - beginner-friendly articles",
+      "Chabad.org - weekly Torah portions with commentary"
+    ],
+    "translations": [
+      "JPS Tanakh (Jewish Publication Society)",
+      "ArtScroll Stone Edition",
+      "Everett Fox translation"
+    ],
+    "commentaries": [
+      "Rashi (1040-1105)",
+      "Ibn Ezra (1089-1167)",
+      "Ramban/Nachmanides (1194-1270)",
+      "Sforno (1475-1550)"
+    ]
+  },
+  "studyMethods": [
+    {
+      "method": "Chavruta",
+      "description": "Paired study with questioning and debate",
+      "level": "All levels"
+    },
+    {
+      "method": "Shiur",
+      "description": "Teacher-led lecture or class",
+      "level": "All levels"
+    },
+    {
+      "method": "Independent Study",
+      "description": "Reading commentaries and personal reflection",
+      "level": "Intermediate to advanced"
+    },
+    {
+      "method": "Weekly Parashah",
+      "description": "Following the annual Torah reading cycle",
+      "level": "Beginner friendly"
+    },
+    {
+      "method": "Daf Yomi",
+      "description": "Daily page of Talmud study",
+      "level": "Advanced"
+    }
+  ],
+  "wordCount": {
+    "en": 5127,
+    "zh": 7845,
+    "he": 4963
+  },
+  "dateCreated": "2026-03-20",
+  "lastUpdated": "2026-03-20",
+  "author": "Torah Light Content Team",
+  "version": "1.0",
+  "languages": ["en", "zh", "he"],
+  "contentType": "educational-article",
+  "readingTime": {
+    "en": "25-30 minutes",
+    "zh": "30-35 minutes",
+    "he": "25-30 minutes"
+  }
+}

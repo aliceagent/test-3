@@ -1,0 +1,200 @@
+{
+  "title": {
+    "en": "Chabad Chassidus: The Intellectual Path to Divine Connection",
+    "zh": "夏巴德哈西德主义:通向神圣连结的智性之路",
+    "he": "חסידות חב\"ד: הדרך השכלית לקשר האלוקי"
+  },
+  "slug": "chabad-chassidus",
+  "category": "texts-philosophy",
+  "subcategory": "chabad",
+  "tags": [
+    "Chabad",
+    "Lubavitch",
+    "Chassidus",
+    "Tanya",
+    "Alter Rebbe",
+    "The Rebbe",
+    "Shlichus",
+    "Jewish Mysticism",
+    "Chochma Bina Daat",
+    "Chabad Houses",
+    "Jewish Outreach"
+  ],
+  "author": {
+    "name": "Torah Light Content Team",
+    "role": "Educational Content"
+  },
+  "dateCreated": "2026-03-20",
+  "lastUpdated": "2026-03-20",
+  "wordCount": {
+    "en": 5100,
+    "zh": 3800,
+    "he": 4200
+  },
+  "readingTime": {
+    "en": "20-25 minutes",
+    "zh": "15-20 minutes",
+    "he": "18-23 minutes"
+  },
+  "description": {
+    "en": "Comprehensive guide to Chabad-Lubavitch Chassidus: the intellectual approach to Jewish mysticism founded by Rabbi Schneur Zalman of Liadi, exploring the Tanya, the seven Rebbes, Chabad philosophy, global outreach, and Chabad presence in China.",
+    "zh": "夏巴德-卢巴维奇哈西德主义综合指南:由利亚迪的施内尔·扎尔曼拉比创立的犹太神秘主义智性方法,探索《塔尼亚》、七位拉比、夏巴德哲学、全球外展和夏巴德在中国的存在。",
+    "he": "מדריך מקיף לחסידות חב\"ד-ליובאוויטש: הגישה השכלית למיסטיקה היהודית שנוסדה על ידי הרב שניאור זלמן מליאדי, חוקר את התניא, שבעת האדמו\"רים, פילוסופיית חב\"ד, הסברה עולמית ונוכחות חב\"ד בסין."
+  },
+  "keyTopics": [
+    {
+      "topic": "What is Chabad",
+      "description": "The meaning of Chabad (Chochma, Bina, Da'at) and the intellectual approach to Chassidus"
+    },
+    {
+      "topic": "The Alter Rebbe",
+      "description": "Rabbi Schneur Zalman of Liadi, founder of Chabad and author of the Tanya"
+    },
+    {
+      "topic": "The Seven Rebbes",
+      "description": "Biographical overview of seven generations of Chabad leadership"
+    },
+    {
+      "topic": "The Tanya",
+      "description": "Structure, key teachings, and practical applications of the foundational Chabad text"
+    },
+    {
+      "topic": "Chabad Philosophy",
+      "description": "Mind over heart, hitbonenut (contemplation), two souls, divine unity"
+    },
+    {
+      "topic": "Global Outreach",
+      "description": "The Rebbe's vision, Chabad Houses worldwide, mitzvah campaigns, unconditional acceptance"
+    },
+    {
+      "topic": "Chabad in China",
+      "description": "Historical presence and contemporary centers in Beijing, Shanghai, Hong Kong"
+    },
+    {
+      "topic": "Daily Practices",
+      "description": "Chitas, Rambam study, farbrengen, personal refinement"
+    }
+  ],
+  "locations": {
+    "china": {
+      "beijing": {
+        "name": "Chabad of Beijing",
+        "website": "chabadbeijing.com",
+        "services": [
+          "Shabbat meals and services",
+          "Holiday celebrations",
+          "Daily minyan",
+          "Kosher restaurant",
+          "Adult education",
+          "Bar/Bat Mitzvah preparation"
+        ]
+      },
+      "shanghai": {
+        "name": "Chabad of Shanghai / Pudong",
+        "websites": [
+          "shanghaikosher.com",
+          "chabadshanghai.org"
+        ],
+        "services": [
+          "Multiple Shabbat meal locations",
+          "Comprehensive kosher food services",
+          "Community center activities",
+          "Tourist assistance",
+          "Heritage tours"
+        ]
+      },
+      "hongKong": {
+        "name": "Chabad of Hong Kong",
+        "website": "chabadofhongkong.org",
+        "description": "Largest Chabad House in Asia",
+        "services": [
+          "Daily services and classes",
+          "Full kosher restaurant (Levanonah)",
+          "Extensive adult education",
+          "Children's programs and camps",
+          "Community center with library",
+          "Tourist information"
+        ]
+      }
+    }
+  },
+  "resources": {
+    "websites": [
+      {
+        "name": "Chabad.org",
+        "url": "https://www.chabad.org",
+        "description": "World's largest Jewish website with daily Torah study, holiday guides, multimedia library"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "JLI - Jewish Learning Institute",
+        "description": "Chabad's adult education arm offering university-style courses worldwide and online"
+      }
+    ],
+    "books": {
+      "beginner": [
+        "Tanya (with English translation and commentary)",
+        "Toward a Meaningful Life by Simon Jacobson",
+        "Bringing Heaven Down to Earth by Tzvi Freeman"
+      ],
+      "advanced": [
+        "The Rebbe's sichos on weekly Torah portions",
+        "Lessons in Tanya (comprehensive commentary)",
+        "Mystical Concepts in Chassidism by Rabbi J.I. Schochet"
+      ],
+      "historical": [
+        "The Great Maggid by Rabbi J.I. Schochet",
+        "The Tanya of Rabbi Shneur Zalman of Liadi by Rabbi Adin Steinsaltz",
+        "My Story (autobiographical anthology of the Rebbe Rayatz)"
+      ]
+    }
+  },
+  "languages": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "targetAudience": [
+    "Jews exploring their heritage",
+    "Students of Jewish mysticism",
+    "People interested in Chassidus",
+    "Jewish community members in China",
+    "Seekers of spiritual wisdom",
+    "Those interested in Jewish outreach"
+  ],
+  "relatedTopics": [
+    "Kabbalah",
+    "Jewish Mysticism",
+    "Chassidic Philosophy",
+    "Jewish Daily Practice",
+    "Torah Study",
+    "Jewish Communities Worldwide"
+  ],
+  "seo": {
+    "keywords": [
+      "Chabad",
+      "Chassidus",
+      "Tanya",
+      "Rabbi Schneur Zalman",
+      "The Rebbe",
+      "Chabad Houses",
+      "Jewish mysticism",
+      "Lubavitch",
+      "Chabad China",
+      "Jewish outreach",
+      "Chochma Bina Daat",
+      "Hitbonenut",
+      "Two souls"
+    ],
+    "metaDescription": {
+      "en": "Discover Chabad-Lubavitch Chassidus: the intellectual path to Jewish spirituality. Learn about the Tanya, the seven Rebbes, Chabad philosophy, global outreach, and Chabad centers in China.",
+      "zh": "发现夏巴德-卢巴维奇哈西德主义:通往犹太灵性的智性之路。了解《塔尼亚》、七位拉比、夏巴德哲学、全球外展和中国的夏巴德中心。",
+      "he": "גלה את חסידות חב\"ד-ליובאוויטש: הדרך השכלית לרוחניות יהודית. למד על התניא, שבעת האדמו\"רים, פילוסופיית חב\"ד, הסברה עולמית ומרכזי חב\"ד בסין."
+    }
+  },
+  "version": "1.0.0",
+  "license": "CC BY-NC-SA 4.0",
+  "contentType": "educational-article",
+  "publicationStatus": "published"
+}

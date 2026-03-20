@@ -1,0 +1,109 @@
+{
+  "article_id": 59,
+  "title": "Life as a Ger: Stories from Jewish Converts Around the World",
+  "section": "Conversion",
+  "sources": [
+    {
+      "type": "biblical",
+      "title": "Book of Ruth",
+      "reference": "Ruth 1:16-17",
+      "url": "https://www.sefaria.org/Ruth.1.16-17",
+      "relevance": "Ruth's declaration - the foundational conversion story",
+      "quote": "Wherever you go, I will go; wherever you lodge, I will lodge; your people shall be my people, and your God my God."
+    },
+    {
+      "type": "talmudic",
+      "title": "Talmud on Converts",
+      "reference": "Pesachim 87b",
+      "url": "https://www.sefaria.org/Pesachim.87b",
+      "relevance": "God scattered Israel among nations to increase converts",
+      "quote": "The Holy One, Blessed be He, exiled Israel among the nations only so that converts would join them"
+    },
+    {
+      "type": "talmudic",
+      "title": "Love for the Convert",
+      "reference": "Bava Metzia 59b",
+      "url": "https://www.sefaria.org/Bava_Metzia.59b",
+      "relevance": "36 times Torah commands to love the convert",
+      "quote": "The Torah warns against wronging a convert in thirty-six places"
+    },
+    {
+      "type": "halachic",
+      "title": "Rambam on Conversion",
+      "reference": "Mishneh Torah, Laws of Forbidden Intercourse 13:14-17",
+      "url": "https://www.sefaria.org/Mishneh_Torah%2C_Forbidden_Intercourse.13.14",
+      "relevance": "Requirements for conversion and status of ger",
+      "quote": "Once a convert immerses and accepts the mitzvot, they are like a Jew in every respect"
+    },
+    {
+      "type": "educational",
+      "title": "Conversion to Judaism",
+      "source": "Aish.com",
+      "url": "https://aish.com/conversion-in-biblical-times/",
+      "relevance": "Historical context of conversion process",
+      "verified": true
+    },
+    {
+      "type": "chassidic",
+      "title": "The Rebbe on Converts",
+      "source": "Igrot Kodesh (Rebbe's Letters)",
+      "relevance": "Chassidic perspective on gerim",
+      "note": "The Rebbe emphasized that converts bring down lofty souls"
+    },
+    {
+      "type": "contemporary",
+      "title": "Modern Conversion Stories",
+      "note": "Composite stories representing common conversion narratives",
+      "examples": [
+        "Western converts discovering Judaism through study",
+        "Asian converts finding Judaism through Chabad",
+        "Intermarriage partners choosing to join the Jewish people",
+        "Spiritual seekers finding truth in Torah"
+      ]
+    }
+  ],
+  "key_themes": [
+    "Ruth as the archetypal convert",
+    "The special love Torah commands for converts",
+    "Challenges converts face",
+    "Integration into Jewish community",
+    "Asian converts and cultural bridges",
+    "The spiritual journey of conversion",
+    "Life after conversion",
+    "Converts' unique perspective and contributions"
+  ],
+  "chinese_parallels": [
+    {
+      "concept": "Adoption into a family/clan",
+      "parallel": "Chinese tradition of ritual adoption (认亲) mirrors joining the Jewish people",
+      "relevance": "Both involve accepting new identity and obligations"
+    },
+    {
+      "concept": "Teacher-student loyalty",
+      "parallel": "Confucian relationships (师徒关系) similar to rav-student bond in conversion",
+      "relevance": "Deep respect and lifelong connection"
+    },
+    {
+      "concept": "Ritual transformation",
+      "parallel": "Life-marking ceremonies in Chinese culture similar to mikvah immersion",
+      "relevance": "Both mark before/after life transformation"
+    }
+  ],
+  "notable_converts": [
+    {
+      "name": "Ruth the Moabite",
+      "period": "Biblical era (~1100 BCE, Late Shang/Early Zhou Dynasty)",
+      "significance": "Ancestor of King David and the Messiah"
+    },
+    {
+      "name": "Onkelos",
+      "period": "Talmudic era (1st-2nd century CE, Han Dynasty)",
+      "significance": "Created the authoritative Aramaic translation of Torah"
+    },
+    {
+      "name": "Rabbi Ovadia the Convert",
+      "period": "Medieval (12th century CE, Song Dynasty)",
+      "significance": "Corresponded with Rambam about his status as a ger"
+    }
+  ]
+}

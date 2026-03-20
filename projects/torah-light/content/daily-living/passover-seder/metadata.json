@@ -1,0 +1,274 @@
+{
+  "title": {
+    "en": "The Passover Seder: A Complete Guide",
+    "zh": "逾越节家宴(Seder):完整指南",
+    "he": "ליל הסדר של פסח: מדריך מלא"
+  },
+  "description": {
+    "en": "A comprehensive guide to understanding and conducting the Passover Seder, including preparation, the fifteen steps, symbolic foods, Haggadah texts, and practical tips for families new to this ancient tradition.",
+    "zh": "理解和举行逾越节家宴的综合指南,包括准备工作、十五个步骤、象征性食物、Haggadah文本以及新接触这一古老传统的家庭的实用建议。",
+    "he": "מדריך מקיף להבנת וערכת ליל הסדר של פסח, כולל הכנות, חמישה עשר הצעדים, מזונות סמליים, טקסטי הגדה וטיפים מעשיים למשפחות חדשות למסורת עתיקה זו."
+  },
+  "category": "daily-living",
+  "subcategory": "jewish-holidays",
+  "topic": "passover-seder",
+  "tags": [
+    "Passover",
+    "Seder",
+    "Jewish holidays",
+    "Haggadah",
+    "Exodus",
+    "Jewish tradition",
+    "ritual",
+    "family celebration",
+    "chametz",
+    "matzah",
+    "four questions",
+    "ten plagues",
+    "freedom",
+    "slavery",
+    "redemption"
+  ],
+  "keywords": {
+    "en": [
+      "Passover Seder",
+      "Pesach",
+      "Haggadah",
+      "fifteen steps",
+      "Seder plate",
+      "matzah",
+      "maror",
+      "charoset",
+      "four questions",
+      "four sons",
+      "ten plagues",
+      "afikoman",
+      "chametz",
+      "bedikat chametz",
+      "kadesh",
+      "maggid",
+      "dayeinu",
+      "freedom from slavery",
+      "Exodus from Egypt",
+      "Jewish ritual"
+    ],
+    "zh": [
+      "逾越节家宴",
+      "Pesach",
+      "Haggadah",
+      "十五个步骤",
+      "家宴餐盘",
+      "matzah",
+      "maror",
+      "charoset",
+      "四个问题",
+      "四个儿子",
+      "十灾",
+      "afikoman",
+      "发酵物",
+      "搜寻发酵物",
+      "Kadesh",
+      "Maggid",
+      "Dayeinu",
+      "从奴役到自由",
+      "出埃及",
+      "犹太仪式"
+    ],
+    "he": [
+      "ליל הסדר",
+      "פסח",
+      "הגדה",
+      "חמישה עשר צעדים",
+      "קערת הסדר",
+      "מצה",
+      "מרור",
+      "חרוסת",
+      "ארבע קושיות",
+      "ארבעה בנים",
+      "עשר המכות",
+      "אפיקומן",
+      "חמץ",
+      "בדיקת חמץ",
+      "קדש",
+      "מגיד",
+      "דיינו",
+      "מעבדות לחירות",
+      "יציאת מצרים",
+      "טקס יהודי"
+    ]
+  },
+  "audience": [
+    "families",
+    "beginners",
+    "experienced practitioners",
+    "interfaith families",
+    "Chinese-speaking families",
+    "Jewish educators",
+    "students"
+  ],
+  "difficulty": "beginner-to-intermediate",
+  "readingTime": {
+    "en": "25-30 minutes",
+    "zh": "20-25 minutes",
+    "he": "20-25 minutes"
+  },
+  "wordCount": {
+    "en": 6200,
+    "zh": 5800,
+    "he": 5400
+  },
+  "author": "Torah Light Content Team",
+  "dateCreated": "2026-03-20",
+  "dateModified": "2026-03-20",
+  "version": "1.0",
+  "language": {
+    "primary": "en",
+    "translations": ["zh", "he"]
+  },
+  "relatedTopics": [
+    "passover-preparation",
+    "matzah-baking",
+    "haggadah-study",
+    "exodus-story",
+    "jewish-calendar",
+    "kosher-for-passover",
+    "spring-festivals",
+    "freedom-and-redemption"
+  ],
+  "practicalElements": {
+    "checklists": true,
+    "stepByStep": true,
+    "hebrewTexts": true,
+    "transliterations": true,
+    "translations": true,
+    "culturalBridges": true,
+    "beginnerTips": true
+  },
+  "hebrewTexts": {
+    "included": true,
+    "transliterated": true,
+    "translated": true,
+    "sections": [
+      "blessings",
+      "four-questions",
+      "maggid",
+      "dayeinu",
+      "hallel"
+    ]
+  },
+  "specialFeatures": [
+    "Complete 15-step guide",
+    "Seder plate explanations",
+    "Full Hebrew texts with transliterations",
+    "Chinese cultural bridges",
+    "Preparation checklist",
+    "Tips for first-time hosts",
+    "Haggadah text selections",
+    "Four Questions",
+    "Four Sons",
+    "Ten Plagues",
+    "Dayeinu song",
+    "Post-Seder songs"
+  ],
+  "contentStructure": {
+    "introduction": true,
+    "preparation": {
+      "chametzCleaning": true,
+      "bedikatChametz": true,
+      "burningChametz": true,
+      "sellingChametz": true
+    },
+    "sederPlate": {
+      "maror": true,
+      "charoset": true,
+      "karpas": true,
+      "zeroa": true,
+      "beitzah": true,
+      "chazeret": true
+    },
+    "fifteenSteps": {
+      "kadesh": true,
+      "urchatz": true,
+      "karpas": true,
+      "yachatz": true,
+      "maggid": {
+        "haLachmaAnya": true,
+        "fourQuestions": true,
+        "fourSons": true,
+        "narrative": true,
+        "tenPlagues": true,
+        "dayeinu": true,
+        "rabbanGamliel": true
+      },
+      "rachtzah": true,
+      "motziMatzah": true,
+      "maror": true,
+      "korech": true,
+      "shulchanOrech": true,
+      "tzafun": true,
+      "barech": true,
+      "hallel": true,
+      "nirtzah": true,
+      "postSederSongs": true
+    },
+    "haggadahTexts": {
+      "fourCups": true,
+      "keyPassages": true
+    },
+    "checklist": true,
+    "chineseFamilyTips": {
+      "culturalBridges": true,
+      "practicalAdaptations": true,
+      "makingItMeaningful": true,
+      "childrenEngagement": true,
+      "resources": true
+    },
+    "deeperMeaning": true,
+    "conclusion": true
+  },
+  "seo": {
+    "metaTitle": {
+      "en": "Complete Passover Seder Guide | 15 Steps, Haggadah Texts & Tips",
+      "zh": "完整逾越节家宴指南 | 15个步骤、Haggadah文本和建议",
+      "he": "מדריך מלא לליל הסדר של פסח | 15 צעדים, טקסטי הגדה וטיפים"
+    },
+    "metaDescription": {
+      "en": "Learn how to conduct a meaningful Passover Seder with this comprehensive guide covering preparation, the 15 steps, Seder plate symbols, Hebrew texts, and special tips for families new to the tradition.",
+      "zh": "通过这份综合指南学习如何举行有意义的逾越节家宴,涵盖准备工作、15个步骤、家宴餐盘象征物、希伯来文本以及新接触传统的家庭的特别建议。",
+      "he": "למדו כיצד לערוך סדר פסח משמעותי עם מדריך מקיף זה המכסה הכנות, 15 הצעדים, סמלי קערת הסדר, טקסטים עבריים וטיפים מיוחדים למשפחות חדשות למסורת."
+    },
+    "focusKeyword": {
+      "en": "Passover Seder guide",
+      "zh": "逾越节家宴指南",
+      "he": "מדריך ליל הסדר"
+    },
+    "canonicalUrl": "/daily-living/passover-seder"
+  },
+  "accessibility": {
+    "hebrewTextSize": "adjustable",
+    "transliterations": "provided",
+    "translations": "full",
+    "headingStructure": "hierarchical",
+    "lists": "formatted",
+    "checklists": "interactive-ready"
+  },
+  "culturalSensitivity": {
+    "interfaithFriendly": true,
+    "beginnerAccessible": true,
+    "culturalBridges": ["Chinese"],
+    "languageSupport": ["English", "Chinese Simplified", "Hebrew"],
+    "inclusiveLanguage": true
+  },
+  "educationalValue": {
+    "level": "comprehensive",
+    "teachingApproach": "step-by-step",
+    "historicalContext": true,
+    "spiritualMeaning": true,
+    "practicalApplication": true,
+    "culturalContext": true
+  },
+  "license": "Torah Light Educational Content",
+  "rightsHolder": "Torah Light Project",
+  "format": "markdown",
+  "status": "published"
+}

@@ -1,0 +1,1388 @@
+{
+  "qa_date": "2026-03-18T08:04:37.813714",
+  "summary": {
+    "total": 111,
+    "passed": 111,
+    "failed": 0,
+    "pass_rate": "100%"
+  },
+  "articles": [
+    {
+      "path": "ashkenazi-sephardi/088-ashkenazi-sephardi",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 5508,
+      "issues": []
+    },
+    {
+      "path": "blessings/031-food-blessing-guide",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 3244,
+      "issues": []
+    },
+    {
+      "path": "blessings/037-birkat-hamazon-grace-after-meals",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 2669,
+      "issues": []
+    },
+    {
+      "path": "blessings/038-blessings-on-nature",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 3078,
+      "issues": []
+    },
+    {
+      "path": "chabad/065-chabad-houses-china",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 5031,
+      "issues": []
+    },
+    {
+      "path": "community/062-mentorship",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 6139,
+      "issues": []
+    },
+    {
+      "path": "community/063-jewish-study-group",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 4527,
+      "issues": []
+    },
+    {
+      "path": "conversion/056-thinking-about-converting",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 5801,
+      "issues": []
+    },
+    {
+      "path": "conversion/057-story-of-ruth",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": false
+      },
+      "zh_chars": 4990,
+      "issues": [
+        "missing metadata.json"
+      ]
+    },
+    {
+      "path": "conversion/058-beit-din",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": false
+      },
+      "zh_chars": 4975,
+      "issues": [
+        "missing metadata.json"
+      ]
+    },
+    {
+      "path": "conversion/059-life-as-ger",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": false
+      },
+      "zh_chars": 4389,
+      "issues": [
+        "missing metadata.json"
+      ]
+    },
+    {
+      "path": "conversion/060-finding-rabbi-community-asia",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 4494,
+      "issues": []
+    },
+    {
+      "path": "conversion/064-navigating-family-relationships",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 4017,
+      "issues": []
+    },
+    {
+      "path": "conversion/100-first-year-jew",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 5504,
+      "issues": []
+    },
+    {
+      "path": "hebrew-learning/098-aleph-bet",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": false
+      },
+      "zh_chars": 4498,
+      "issues": [
+        "missing metadata.json"
+      ]
+    },
+    {
+      "path": "holidays/042-yom-kippur",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 4937,
+      "issues": []
+    },
+    {
+      "path": "holidays/043-building-sukkah",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 4171,
+      "issues": []
+    },
+    {
+      "path": "holidays/044-four-species",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 3230,
+      "issues": []
+    },
+    {
+      "path": "holidays/046-purim",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 3591,
+      "issues": []
+    },
+    {
+      "path": "holidays/049-shavuot-the-night-we-stayed-up",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 6037,
+      "issues": []
+    },
+    {
+      "path": "holidays/055-tu-bishvat-seder",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 4212,
+      "issues": []
+    },
+    {
+      "path": "israel/085-western-wall",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 4899,
+      "issues": []
+    },
+    {
+      "path": "israel/086-jerusalem-through-ages",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": false
+      },
+      "zh_chars": 7700,
+      "issues": [
+        "missing metadata.json"
+      ]
+    },
+    {
+      "path": "israel/087-what-is-zionism",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 4575,
+      "issues": []
+    },
+    {
+      "path": "jewish-calendar/052-counting-omer",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 2481,
+      "issues": []
+    },
+    {
+      "path": "jewish-calendar/054-rosh-chodesh",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 4118,
+      "issues": []
+    },
+    {
+      "path": "jewish-history/081-abraham-first-jew",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 5671,
+      "issues": []
+    },
+    {
+      "path": "jewish-history/089-holocaust-essential-overview",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 5824,
+      "issues": [
+        "missing dynasty references"
+      ]
+    },
+    {
+      "path": "jewish-texts/070-introduction-tanya",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 3407,
+      "issues": []
+    },
+    {
+      "path": "jewish-texts/071-kuzari-kings-search-truth",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": false
+      },
+      "zh_chars": 6524,
+      "issues": [
+        "missing metadata.json"
+      ]
+    },
+    {
+      "path": "jewish-texts/072-mesillat-yesharim-roadmap-spiritual-growth",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": false
+      },
+      "zh_chars": 4967,
+      "issues": [
+        "missing metadata.json"
+      ]
+    },
+    {
+      "path": "jews-in-asia/083-kaifeng-jews",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 6225,
+      "issues": []
+    },
+    {
+      "path": "jews-in-asia/084-shanghai-jewish-refugees",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": false
+      },
+      "zh_chars": 3722,
+      "issues": [
+        "missing metadata.json",
+        "missing dynasty references"
+      ]
+    },
+    {
+      "path": "kosher-food/023-kosher-chinese-food",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 3554,
+      "issues": []
+    },
+    {
+      "path": "kosher-food/024-soy-sauce-asian-ingredients",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 4139,
+      "issues": []
+    },
+    {
+      "path": "kosher-food/025-kosher-kitchen",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 3206,
+      "issues": []
+    },
+    {
+      "path": "kosher-food/025-setting-up-first-kosher-kitchen",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": false
+      },
+      "zh_chars": 4828,
+      "issues": [
+        "missing metadata.json"
+      ]
+    },
+    {
+      "path": "kosher-food/026-kosher-certification-symbols",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 3561,
+      "issues": []
+    },
+    {
+      "path": "kosher-food/027-spiritual-meaning-kashrut",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 3014,
+      "issues": []
+    },
+    {
+      "path": "kosher-food/027-spiritual-meaning-kosher",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 3340,
+      "issues": []
+    },
+    {
+      "path": "life-cycle/091-planning-jewish-wedding",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": false
+      },
+      "zh_chars": 6372,
+      "issues": [
+        "missing metadata.json"
+      ]
+    },
+    {
+      "path": "life-cycle/092-bar-mitzvah-preparation",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": false
+      },
+      "zh_chars": 5450,
+      "issues": [
+        "missing metadata.json"
+      ]
+    },
+    {
+      "path": "life-cycle/093-sitting-shiva",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": false
+      },
+      "zh_chars": 3758,
+      "issues": [
+        "missing metadata.json"
+      ]
+    },
+    {
+      "path": "life-cycle/094-jewish-home",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": false
+      },
+      "zh_chars": 4353,
+      "issues": [
+        "missing metadata.json"
+      ]
+    },
+    {
+      "path": "messiah/099-what-is-messiah",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": false
+      },
+      "zh_chars": 4002,
+      "issues": [
+        "missing metadata.json"
+      ]
+    },
+    {
+      "path": "mitzvah-objects/034-mezuzah-doorpost",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 2659,
+      "issues": []
+    },
+    {
+      "path": "mitzvah-objects/036-tzitzit-fringes-commandments",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 3223,
+      "issues": []
+    },
+    {
+      "path": "mitzvah-objects/039-tallit-prayer-shawl",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 4208,
+      "issues": []
+    },
+    {
+      "path": "mitzvah-objects/040-buying-judaica-online",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 4043,
+      "issues": []
+    },
+    {
+      "path": "mussar/073-mussar-and-confucianism",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 3867,
+      "issues": []
+    },
+    {
+      "path": "mussar/074-seven-middot",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 6042,
+      "issues": []
+    },
+    {
+      "path": "non-jewish-relations/061-noahide-laws",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 6366,
+      "issues": []
+    },
+    {
+      "path": "passover-seder/047-first-timers-seder",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 5036,
+      "issues": []
+    },
+    {
+      "path": "passover-seder/048-cleaning-for-pesach",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 6715,
+      "issues": []
+    },
+    {
+      "path": "philosophy",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 3885,
+      "issues": []
+    },
+    {
+      "path": "philosophy/066-does-god-exist",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 6825,
+      "issues": []
+    },
+    {
+      "path": "philosophy/067-bad-things-good-people",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 3861,
+      "issues": []
+    },
+    {
+      "path": "philosophy/068-five-levels-soul",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 3076,
+      "issues": []
+    },
+    {
+      "path": "philosophy/069-free-will-divine-providence",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 4759,
+      "issues": []
+    },
+    {
+      "path": "philosophy/077-torah-and-science",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 4390,
+      "issues": []
+    },
+    {
+      "path": "pirkei-avot/078-pirkei-avot-chapter-1",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 6292,
+      "issues": []
+    },
+    {
+      "path": "pirkei-avot/079-who-is-rich-happy-with-lot",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 3164,
+      "issues": []
+    },
+    {
+      "path": "prayer/014-shema",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 4530,
+      "issues": []
+    },
+    {
+      "path": "prayer/028-modeh-ani",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 2071,
+      "issues": []
+    },
+    {
+      "path": "projects/torah-light/antisemitism/090-debunking-myths-china",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": false
+      },
+      "zh_chars": 6888,
+      "issues": [
+        "missing metadata.json"
+      ]
+    },
+    {
+      "path": "projects/torah-light/articles/096-tzedakah-commandment",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": false
+      },
+      "zh_chars": 4751,
+      "issues": [
+        "missing metadata.json"
+      ]
+    },
+    {
+      "path": "projects/torah-light/community/065-chabad-houses-china",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 5013,
+      "issues": []
+    },
+    {
+      "path": "projects/torah-light/hebrew-learning/097-learning-hebrew-mandarin-speaker",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": false
+      },
+      "zh_chars": 3773,
+      "issues": [
+        "missing metadata.json"
+      ]
+    },
+    {
+      "path": "projects/torah-light/jewish-history/082-exodus-liberation-story",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 5674,
+      "issues": []
+    },
+    {
+      "path": "projects/torah-light/jewish-texts/080-rambam-mishneh-torah",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 3949,
+      "issues": []
+    },
+    {
+      "path": "projects/torah-light/life-cycle/095-family-purity",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 3879,
+      "issues": []
+    },
+    {
+      "path": "projects/torah-light/mussar/074-seven-middot",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 5785,
+      "issues": []
+    },
+    {
+      "path": "projects/torah-light/mussar/075-cheshbon-hanefesh",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 4266,
+      "issues": []
+    },
+    {
+      "path": "projects/torah-light/philosophy/076-what-is-olam-haba",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 3858,
+      "issues": []
+    },
+    {
+      "path": "projects/torah-light/philosophy/077-torah-and-science",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 3837,
+      "issues": []
+    },
+    {
+      "path": "projects/torah-light/torah-light-articles/blessings/032-morning-blessings-gratitude",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 2363,
+      "issues": []
+    },
+    {
+      "path": "projects/torah-light/torah-light-articles/blessings/033-asher-yatzar",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 2291,
+      "issues": []
+    },
+    {
+      "path": "projects/torah-light/torah-light-articles/holidays/041-rosh-hashana",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 8642,
+      "issues": [
+        "missing bibliography"
+      ]
+    },
+    {
+      "path": "projects/torah-light/torah-light-articles/holidays/045-chanukah-beyond-dreidel",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 4393,
+      "issues": []
+    },
+    {
+      "path": "projects/torah-light/torah-light-articles/holidays/050-tisha-bav",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 4363,
+      "issues": []
+    },
+    {
+      "path": "projects/torah-light/torah-light-articles/holidays/053-fast-days-in-judaism",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 4758,
+      "issues": []
+    },
+    {
+      "path": "projects/torah-light/torah-light-articles/mitzvah-objects/035-tefillin-for-beginners",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 3202,
+      "issues": []
+    },
+    {
+      "path": "projects/torah-light/torah-light-articles/prayer/029-beginners-guide-jewish-prayer",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 2157,
+      "issues": []
+    },
+    {
+      "path": "projects/torah-light/torah-light-articles/prayer/030-amidah",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 4238,
+      "issues": []
+    },
+    {
+      "path": "projects/torah-light/torah-light-articles/shabbat/016-your-first-shabbat",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 2408,
+      "issues": []
+    },
+    {
+      "path": "projects/torah-light/torah-light-articles/shabbat/019-kiddush",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 4913,
+      "issues": []
+    },
+    {
+      "path": "projects/torah-light/torah-light-articles/shabbat/020-havdalah",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 5639,
+      "issues": []
+    },
+    {
+      "path": "shabbat/017-shabbat-alone-china",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 3839,
+      "issues": []
+    },
+    {
+      "path": "shabbat/018-39-melachot",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 3381,
+      "issues": []
+    },
+    {
+      "path": "shabbat/020-havdalah",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 5429,
+      "issues": []
+    },
+    {
+      "path": "shabbat/021-shabbat-foods",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 5375,
+      "issues": []
+    },
+    {
+      "path": "shabbat/022-shabbat-questions",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 4444,
+      "issues": []
+    },
+    {
+      "path": "torah-light-articles/article-27",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 3340,
+      "issues": []
+    },
+    {
+      "path": "torah-light-articles/article-39",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 2832,
+      "issues": []
+    },
+    {
+      "path": "torah-light-articles/article-74",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 5785,
+      "issues": []
+    },
+    {
+      "path": "torah-light-articles/conversion/060-finding-rabbi-community-asia",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 3829,
+      "issues": []
+    },
+    {
+      "path": "torah-light-articles/jewish-calendar/051-elul-preparation",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 3700,
+      "issues": []
+    },
+    {
+      "path": "torah-study/003-binding-of-isaac",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": false
+      },
+      "zh_chars": 2867,
+      "issues": [
+        "missing metadata.json"
+      ]
+    },
+    {
+      "path": "torah-study/004-joseph-leadership",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 4513,
+      "issues": []
+    },
+    {
+      "path": "torah-study/006-annual-cycle",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 3026,
+      "issues": []
+    },
+    {
+      "path": "torah-study/007-moshe-leadership",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 3833,
+      "issues": []
+    },
+    {
+      "path": "torah-study/008-rashi-guide",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 3460,
+      "issues": []
+    },
+    {
+      "path": "torah-study/011-oral-torah",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 3668,
+      "issues": []
+    },
+    {
+      "path": "torah-study/012-pardes",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 5111,
+      "issues": []
+    },
+    {
+      "path": "torah-study/013-chavruta",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 3219,
+      "issues": []
+    },
+    {
+      "path": "torah-study/015-torah-reading",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 3520,
+      "issues": []
+    },
+    {
+      "path": "weekly-parsha/001-what-is-dvar-torah",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": false
+      },
+      "zh_chars": 2386,
+      "issues": [
+        "missing metadata.json"
+      ]
+    },
+    {
+      "path": "weekly-parsha/002-bereishit-creation",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 2422,
+      "issues": []
+    },
+    {
+      "path": "weekly-parsha/005-ten-plagues",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": false
+      },
+      "zh_chars": 8921,
+      "issues": [
+        "missing metadata.json"
+      ]
+    },
+    {
+      "path": "weekly-parsha/009-discussion-questions",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 4998,
+      "issues": []
+    },
+    {
+      "path": "weekly-parsha/010-song-of-sea",
+      "status": "PASS",
+      "files": {
+        "en": true,
+        "zh": true,
+        "he": true,
+        "meta": true
+      },
+      "zh_chars": 2862,
+      "issues": []
+    }
+  ]
+}

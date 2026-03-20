@@ -1,0 +1,17 @@
+{
+  "article_id": 394,
+  "title_en": "The Value of Humility: Comparing Confucian and Jewish Ideals",
+  "title_zh": "谦逊的价值:比较儒家与犹太教的理想",
+  "title_he": "ערך הענוה: השוואת האידיאלים הקונפוציאניים והיהודיים",
+  "section": "chinese-jewish-bridge-topics",
+  "description_en": "Modesty and humility are prized in both traditions — examining how each defines, cultivates, and practices this virtue.",
+  "description_zh": "在两个传统中，谦逊和谦卑都被高度推崇——本文探讨了两者如何界定、培养并践行这一美德。",
+  "description_he": "בשתיהן ענווה וצניעות הן ערך נאצל — המאמר בוחן כיצד כל מסורת מגדירה, מטפחת ומיישמת את המידה הזו.",
+  "length_words_en": 3900,
+  "files": [
+    "article-en.md",
+    "article-zh.md",
+    "article-he.md",
+    "metadata.json"
+  ]
+}

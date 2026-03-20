@@ -1,0 +1,261 @@
+{
+  "title": {
+    "en": "Learning Hebrew: Your Gateway to Torah, Prayer, and Jewish Connection",
+    "zh": "学习希伯来语:通往托拉、祈祷与犹太联结的门户",
+    "he": "ללמוד עברית: השער לתורה, תפילה וקשר יהודי"
+  },
+  "description": {
+    "en": "A comprehensive guide to learning Hebrew for Chinese speakers, covering the alphabet, prayer Hebrew, Biblical vs. Modern Hebrew, learning resources, and practical steps to get started.",
+    "zh": "为中文使用者提供的希伯来语学习综合指南,涵盖字母表、祈祷希伯来语、圣经希伯来语与现代希伯来语、学习资源以及入门的实用步骤。",
+    "he": "מדריך מקיף ללימוד עברית לדוברי סינית, המכסה את האלפבית, עברית תפילה, עברית מקראית לעומת מודרנית, משאבי לימוד וצעדים מעשיים להתחלה."
+  },
+  "category": "texts-philosophy",
+  "subcategory": "hebrew-learning",
+  "keywords": {
+    "en": [
+      "Hebrew learning",
+      "Hebrew alphabet",
+      "Aleph-Bet",
+      "prayer Hebrew",
+      "Biblical Hebrew",
+      "Modern Hebrew",
+      "Ivrit",
+      "Torah study",
+      "Hebrew for Chinese speakers",
+      "Ulpan",
+      "Hebrew resources",
+      "learning languages",
+      "Jewish education",
+      "siddur",
+      "nikud"
+    ],
+    "zh": [
+      "希伯来语学习",
+      "希伯来字母",
+      "阿莱夫-贝特",
+      "祈祷希伯来语",
+      "圣经希伯来语",
+      "现代希伯来语",
+      "伊夫里特语",
+      "托拉学习",
+      "中文使用者学希伯来语",
+      "Ulpan",
+      "希伯来语资源",
+      "学习语言",
+      "犹太教育",
+      "祈祷书",
+      "尼库德"
+    ],
+    "he": [
+      "לימוד עברית",
+      "אלפבית עברי",
+      "אלף-בית",
+      "עברית תפילה",
+      "עברית מקראית",
+      "עברית מודרנית",
+      "עִברית",
+      "לימוד תורה",
+      "עברית לדוברי סינית",
+      "אולפן",
+      "משאבי עברית",
+      "לימוד שפות",
+      "חינוך יהודי",
+      "סידור",
+      "ניקוד"
+    ]
+  },
+  "targetAudience": {
+    "en": "Chinese speakers interested in learning Hebrew for Torah study, prayer, connection to Israel, or Jewish practice",
+    "zh": "对学习希伯来语以研读托拉、祈祷、连接以色列或犹太实践感兴趣的中文使用者",
+    "he": "דוברי סינית המעוניינים ללמוד עברית ללימוד תורה, תפילה, התחברות לישראל או למנהג יהודי"
+  },
+  "wordCount": {
+    "en": 3850,
+    "zh": 3200,
+    "he": 3400
+  },
+  "difficulty": "beginner-to-intermediate",
+  "estimatedReadingTime": {
+    "en": "18-20 minutes",
+    "zh": "15-18 minutes",
+    "he": "16-18 minutes"
+  },
+  "languages": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "author": "Torah Light Content Team",
+  "dateCreated": "2026-03-20",
+  "lastUpdated": "2026-03-20",
+  "version": "1.0",
+  "sections": [
+    {
+      "title": {
+        "en": "Why Learn Hebrew?",
+        "zh": "为什么要学习希伯来语?",
+        "he": "למה ללמוד עברית?"
+      },
+      "topics": ["Torah connection", "Prayer experience", "Israel connection"]
+    },
+    {
+      "title": {
+        "en": "The Hebrew Alphabet",
+        "zh": "希伯来字母表",
+        "he": "האלף-בית העברי"
+      },
+      "topics": ["22 letters", "Final forms", "Vowels (nikud)", "Tips for Chinese speakers"]
+    },
+    {
+      "title": {
+        "en": "Reading vs. Understanding",
+        "zh": "阅读与理解",
+        "he": "קריאה לעומת הבנה"
+      },
+      "topics": ["Decoding skills", "Comprehension skills", "Different learning goals"]
+    },
+    {
+      "title": {
+        "en": "Prayer Hebrew",
+        "zh": "祈祷希伯来语",
+        "he": "עברית תפילה"
+      },
+      "topics": ["Essential vocabulary", "Common prayer phrases", "Siddur study"]
+    },
+    {
+      "title": {
+        "en": "Biblical Hebrew vs. Modern Hebrew",
+        "zh": "圣经希伯来语与现代希伯来语",
+        "he": "עברית מקראית לעומת עברית מודרנית"
+      },
+      "topics": ["Biblical Hebrew", "Mishnaic Hebrew", "Modern Hebrew (Ivrit)"]
+    },
+    {
+      "title": {
+        "en": "Modern Hebrew (Ivrit)",
+        "zh": "现代希伯来语",
+        "he": "עברית מודרנית"
+      },
+      "topics": ["Grammar features", "Root system", "Common phrases"]
+    },
+    {
+      "title": {
+        "en": "Learning Paths",
+        "zh": "学习路径",
+        "he": "נתיבי לימוד"
+      },
+      "topics": ["Self-study resources", "Online courses", "Ulpan programs", "Tutors"]
+    },
+    {
+      "title": {
+        "en": "Hebrew for Chinese Speakers",
+        "zh": "给中文使用者的希伯来语",
+        "he": "עברית לדוברי סינית"
+      },
+      "topics": ["Unique challenges", "Advantages", "Study tips"]
+    },
+    {
+      "title": {
+        "en": "100 Most Common Words",
+        "zh": "100个最常用单词",
+        "he": "100 המילים הנפוצות ביותר"
+      },
+      "topics": ["Essential vocabulary list", "Learning strategy"]
+    },
+    {
+      "title": {
+        "en": "Getting Started",
+        "zh": "入门",
+        "he": "התחלה"
+      },
+      "topics": ["4-week starter plan", "Week-by-week goals", "Beyond first month"]
+    },
+    {
+      "title": {
+        "en": "Additional Resources",
+        "zh": "其他资源",
+        "he": "משאבים נוספים"
+      },
+      "topics": ["Torah texts", "Modern Hebrew media", "Online communities", "Dictionaries"]
+    }
+  ],
+  "relatedTopics": [
+    "Torah study methods",
+    "Jewish prayer basics",
+    "Israeli culture",
+    "Language learning strategies",
+    "Jewish education for Chinese speakers"
+  ],
+  "resources": {
+    "apps": [
+      "Duolingo Hebrew",
+      "Drops",
+      "Memrise"
+    ],
+    "audioPrograms": [
+      "Pimsleur Hebrew",
+      "HebrewPod101"
+    ],
+    "websites": [
+      "Sefaria.org",
+      "Pealim.com",
+      "Morfix.co.il",
+      "Aleph with Beth",
+      "Hebrew Academy"
+    ],
+    "onlineCourses": [
+      "Rosetta Stone Hebrew",
+      "eTeacher Hebrew",
+      "Rosen School of Hebrew"
+    ],
+    "platforms": [
+      "italki",
+      "Preply",
+      "Verbling"
+    ]
+  },
+  "practicalFeatures": [
+    "Detailed alphabet chart with all 22 letters",
+    "Vowel (nikud) system explanation",
+    "100 most common words vocabulary list",
+    "4-week beginner learning plan",
+    "Tips specific to Chinese speakers",
+    "Comparison of Biblical vs Modern Hebrew",
+    "Prayer Hebrew essential vocabulary",
+    "Comprehensive resource recommendations"
+  ],
+  "learningOutcomes": [
+    "Understand the Hebrew alphabet and writing system",
+    "Distinguish between reading and understanding Hebrew",
+    "Know 100+ most common Hebrew words",
+    "Understand basic prayer vocabulary",
+    "Recognize differences between Biblical and Modern Hebrew",
+    "Have a clear learning path forward",
+    "Understand challenges and advantages for Chinese speakers",
+    "Access to curated learning resources"
+  ],
+  "seo": {
+    "metaTitle": {
+      "en": "Learn Hebrew: Complete Guide for Chinese Speakers | Torah Light",
+      "zh": "学习希伯来语:中文使用者完整指南 | Torah Light",
+      "he": "ללמוד עברית: מדריך מלא לדוברי סינית | Torah Light"
+    },
+    "metaDescription": {
+      "en": "Comprehensive Hebrew learning guide for Chinese speakers. Learn the alphabet, prayer Hebrew, modern conversational Hebrew, and get practical resources to start your journey.",
+      "zh": "为中文使用者提供的希伯来语学习综合指南。学习字母表、祈祷希伯来语、现代会话希伯来语,并获得开始旅程的实用资源。",
+      "he": "מדריך מקיף ללימוד עברית לדוברי סינית. למדו את האלפבית, עברית תפילה, עברית שיחה מודרנית, וקבלו משאבים מעשיים להתחלת המסע."
+    },
+    "canonical": "/texts-philosophy/hebrew-learning",
+    "ogImage": "/images/hebrew-learning-og.jpg"
+  },
+  "accessibility": {
+    "hasTranslations": true,
+    "readabilityLevel": "accessible",
+    "includesPracticalExamples": true,
+    "visualAids": "text-based tables and lists"
+  },
+  "license": "CC BY-NC-SA 4.0",
+  "contentType": "educational-article",
+  "format": "markdown",
+  "status": "published"
+}
