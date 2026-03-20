@@ -1,0 +1,138 @@
+{
+  "article_id": 396,
+  "title": {
+    "en": "Chinese Medicine and Jewish Law: Can You Use Acupuncture on Shabbat?",
+    "zh": "中医与犹太律法:安息日可以针灸吗?",
+    "he": "רפואה סינית והלכה יהודית: האם מותר לעשות דיקור סיני בשבת?"
+  },
+  "description": {
+    "en": "Halachic perspectives on traditional Chinese medicine — acupuncture, herbal medicine, cupping, and when health practices intersect with Jewish law.",
+    "zh": "关于中医的哈拉卡观点——针灸、草药、拔罐,以及健康实践与犹太律法相交时的考量。",
+    "he": "נקודות מבט הלכתיות על רפואה סינית מסורתית - דיקור סיני, רפואת צמחים, כוסות רוח, וכאשר פרקטיקות בריאות מצטלבות עם ההלכה היהודית."
+  },
+  "section": "chinese-jewish-bridge-topics",
+  "topics": [
+    "Shabbat observance",
+    "Traditional Chinese Medicine",
+    "Acupuncture",
+    "Herbal medicine",
+    "Cupping therapy",
+    "Medical ethics",
+    "Halacha",
+    "Health and healing",
+    "Cross-cultural dialogue"
+  ],
+  "keywords": {
+    "en": [
+      "Shabbat",
+      "acupuncture",
+      "Chinese medicine",
+      "halacha",
+      "Jewish law",
+      "herbal remedies",
+      "cupping",
+      "moxibustion",
+      "pikuach nefesh",
+      "choleh",
+      "refuah",
+      "traditional medicine",
+      "integrative medicine"
+    ],
+    "zh": [
+      "安息日",
+      "针灸",
+      "中医",
+      "哈拉卡",
+      "犹太律法",
+      "草药",
+      "拔罐",
+      "艾灸",
+      "拯救生命",
+      "疾病",
+      "医疗",
+      "传统医学",
+      "整合医学"
+    ],
+    "he": [
+      "שבת",
+      "דיקור סיני",
+      "רפואה סינית",
+      "הלכה",
+      "רפואת צמחים",
+      "כוסות רוח",
+      "צריבה",
+      "פיקוח נפש",
+      "חולה",
+      "רפואה",
+      "רפואה מסורתית",
+      "רפואה אינטגרטיבית"
+    ]
+  },
+  "halachic_sources": [
+    "Talmud Bavli, Shabbat 53b",
+    "Shulchan Aruch, Orach Chaim 328-329",
+    "Mishnah Berurah",
+    "Shemirat Shabbat K'Hilchatah",
+    "Rambam (Maimonides)"
+  ],
+  "word_count": {
+    "en": 3847,
+    "zh": 1258,
+    "he": 2891
+  },
+  "languages": ["en", "zh", "he"],
+  "author": "Torah Light Editorial Team",
+  "created_date": "2026-03-20",
+  "difficulty_level": "intermediate-advanced",
+  "reading_time_minutes": {
+    "en": 15,
+    "zh": 8,
+    "he": 12
+  },
+  "target_audience": [
+    "Shabbat-observant Jews interested in TCM",
+    "Chinese speakers learning about Jewish law",
+    "Healthcare practitioners in Jewish communities",
+    "Students of comparative medical ethics",
+    "Rabbis counseling on medical questions"
+  ],
+  "related_articles": [],
+  "practical_applications": [
+    "Guidance for scheduling acupuncture appointments",
+    "Pre-Shabbat preparation of herbal remedies",
+    "Understanding when to consult a rabbi about medical treatments",
+    "Distinguishing between urgent and non-urgent health needs"
+  ],
+  "educational_value": {
+    "halachic_principles": [
+      "Categories of illness (choleh she'ein bo sakana, choleh kol gufo, sakana)",
+      "Gezeirat shvut d'refuah (rabbinic medical decree)",
+      "Pikuach nefesh (life-threatening situations)",
+      "Mitztaer (one in significant pain)",
+      "Kavod habriyot (human dignity)"
+    ],
+    "tcm_modalities_covered": [
+      "Acupuncture",
+      "Chinese herbal medicine",
+      "Cupping (ba guan)",
+      "Moxibustion",
+      "Gua sha",
+      "Qi gong",
+      "Tai chi"
+    ],
+    "cross_cultural_insights": [
+      "Shared values between Jewish and Chinese medical traditions",
+      "Holistic approaches to health in both systems",
+      "Importance of preventive care",
+      "Balance and harmony as healing principles"
+    ]
+  },
+  "disclaimers": [
+    "This article is for educational purposes only",
+    "Not a substitute for personal rabbinical consultation",
+    "Not medical advice - consult healthcare professionals",
+    "Each situation requires individual assessment"
+  ],
+  "status": "completed",
+  "version": "1.0"
+}
