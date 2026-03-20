@@ -5752,5 +5752,881 @@
     "chinese_dynasty_references": [],
     "status": "complete",
     "filePath": "shabbat/310-hosting-non-jewish-friends-shabbat/metadata.json"
+  },
+  {
+    "id": 94,
+    "title": {
+      "en": "The Jewish Home: Creating a Sanctuary for Your Family",
+      "zh": "犹太家庭:为您的家人打造圣所",
+      "he": "הבית היהודי: יצירת מקדש קטן למשפחתך"
+    },
+    "section": "life-cycle",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "LifeCycle",
+      "Jewish",
+      "Home",
+      "Creating",
+      "Sanctuary",
+      "Family"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "life-cycle/094-jewish-home/metadata.json"
+  },
+  {
+    "id": 199,
+    "title": {
+      "en": "Jewish Names and Their Meanings: A Guide for Naming Children",
+      "zh": "犹太人的名字及其含义:为孩子起名指南",
+      "he": "שמות יהודיים ומשמעויותיהם: מדריך לקריאת שם לילדים"
+    },
+    "section": "life-cycle",
+    "description": {
+      "en": "A comprehensive guide to Jewish naming traditions, customs, and meanings for parents choosing names for their children.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "LifeCycle",
+      "Jewish",
+      "Names",
+      "Their",
+      "Meanings",
+      "Guide",
+      "Naming",
+      "Children"
+    ],
+    "sources": [
+      "https://www.chabad.org/library/article_cdo/aid/473466/jewish/Jewish-Names.htm",
+      "https://www.sefaria.org"
+    ],
+    "cultural_parallels": [
+      "Chinese generation names (派行) and Jewish generational naming patterns",
+      "Meaning-based character selection in Chinese names vs. Hebrew name meanings",
+      "Protective naming practices in both cultures",
+      "Respect for elders reflected in naming customs"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "life-cycle/199-jewish-names-meanings/metadata.json"
+  },
+  {
+    "id": 227,
+    "title": {
+      "en": "Brit Milah (Circumcision): The Covenant in the Flesh",
+      "zh": "割礼(Brit Milah):刻在肉身上的盟约",
+      "he": "ברית מילה: הברית בבשר"
+    },
+    "section": "life-cycle",
+    "description": {
+      "en": "A comprehensive guide to brit milah (Jewish circumcision), exploring its biblical origins, spiritual significance, medical aspects, and historical continuity as the physical sign of the eternal covenant between God and the Jewish people.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "LifeCycle",
+      "Brit Milah as eternal covenant",
+      "Significance of eighth day",
+      "Role of mohel and sandek",
+      "Medical and spiritual aspects",
+      "Physical mark of Jewish identity",
+      "Brit",
+      "Milah",
+      "Circumcision",
+      "Covenant",
+      "Flesh"
+    ],
+    "sources": [
+      "https://www.sefaria.org/Genesis.17.10-12"
+    ],
+    "cultural_parallels": [
+      "Mǎnyuè (满月) - Chinese one-month celebration ceremony",
+      "Zhuāzhōu (抓周) - Chinese first birthday ceremony",
+      "Life passage rituals in Chinese tradition"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "life-cycle/227-brit-milah-circumcision/metadata.json"
+  },
+  {
+    "id": 228,
+    "title": {
+      "en": "Pidyon HaBen: Redeeming the Firstborn Son",
+      "zh": "长子赎回礼:赎回头生儿子",
+      "he": "פדיון הבן: פדיית הבכור"
+    },
+    "section": "life-cycle",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "LifeCycle",
+      "Pidyon",
+      "HaBen",
+      "Redeeming",
+      "Firstborn",
+      "Son"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "life-cycle/228-pidyon-haben/metadata.json"
+  },
+  {
+    "id": 229,
+    "title": {
+      "en": "Bar and Bat Mitzvah: Coming of Age in Judaism",
+      "zh": "成人礼:犹太教的成年仪式——Bar和Bat Mitzvah",
+      "he": "בר ובת מצווה: טקס ההבשלה ביהדות"
+    },
+    "section": "life-cycle",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "BarMitzvah",
+      "BatMitzvah",
+      "ComingOfAge",
+      "JewishLifeCycle",
+      "Torah",
+      "Mitzvot",
+      "JewishEducation",
+      "Tradition",
+      "Responsibility",
+      "Community",
+      "Talmud",
+      "Mishnah",
+      "13Years",
+      "AdultResponsibility",
+      "JewishIdentity",
+      "冠礼",
+      "成人礼",
+      "Transition",
+      "CulturalParallels"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "life-cycle/229-bar-bat-mitzvah/metadata.json"
+  },
+  {
+    "id": 230,
+    "title": {
+      "en": "Jewish Wedding Traditions: Under the Chuppah",
+      "zh": "犹太婚礼传统:在婚礼华盖(Chuppah)之下",
+      "he": "מסורות החתונה היהודית: תחת החופה"
+    },
+    "section": "life-cycle",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "LifeCycle",
+      "Jewish",
+      "Wedding",
+      "Traditions",
+      "Under",
+      "Chuppah"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "life-cycle/230-jewish-wedding-chuppah/metadata.json"
+  },
+  {
+    "id": 231,
+    "title": {
+      "en": "Jewish Mourning Customs: From Shiva to Shloshim",
+      "zh": "犹太哀悼习俗:从守丧七日到守丧三十日",
+      "he": "מנהגי אבלות יהודיים: משבעה ועד שלושים"
+    },
+    "section": "life-cycle",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "LifeCycle",
+      "Jewish",
+      "Mourning",
+      "Customs",
+      "From",
+      "Shiva",
+      "Shloshim"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "life-cycle/231-mourning-shiva-shloshim/metadata.json"
+  },
+  {
+    "id": 232,
+    "title": {
+      "en": "Tahara and Jewish Burial: Honoring the Dead",
+      "zh": "塔哈拉与犹太葬礼：敬重逝者",
+      "he": "טהרה וקבורה יהודית: כיבוד המתים"
+    },
+    "section": "life-cycle",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "LifeCycle",
+      "Tahara",
+      "Jewish",
+      "Burial",
+      "Honoring",
+      "Dead"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Confucian values of honoring the body and respecting ancestors",
+      "Chinese funeral washing and dressing customs",
+      "Community mutual aid societies (hui) similar to Chevra Kadisha",
+      "Comparison between natural decomposition vs. preservation practices"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "life-cycle/232-tahara-jewish-burial/metadata.json"
+  },
+  {
+    "id": 233,
+    "title": {
+      "en": "The Yahrzeit: Remembering Loved Ones Each Year",
+      "zh": "亚兹海特：每年纪念逝去的亲人",
+      "he": "יום השנה (יארצייט): זכר לאהובינו שעברו לעולמם"
+    },
+    "section": "life-cycle",
+    "description": {
+      "en": "An educational introduction to the Jewish practice of yahrzeit - the annual commemoration of a loved one's death through candle lighting, Kaddish prayer, Torah study, and charitable giving.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "LifeCycle",
+      "Reciting Mourner's Kaddish prayer",
+      "Visiting the grave",
+      "Elevating the soul through good deeds",
+      "Yahrzeit",
+      "Remembering",
+      "Loved",
+      "Ones",
+      "Each",
+      "Year"
+    ],
+    "sources": [
+      "Babylonian Talmud, Tractate Sanhedrin 104a",
+      "Proverbs 20:27",
+      "Shulchan Aruch, Yoreh De'ah 376",
+      "Zohar I:218b",
+      "Mishnah Peah 1:1",
+      "Goldberg, Chaim Binyamin. Mourning in Halachah. Mesorah Publications, 1991",
+      "Lamm, Maurice. The Jewish Way in Death and Mourning. Jonathan David Publishers, 2000"
+    ],
+    "cultural_parallels": [
+      "Qingming Festival (Chinese)",
+      "Obon (Japanese Buddhist)",
+      "Día de los Muertos (Mexican/Latin American)",
+      "Ancestor veneration traditions"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "completed",
+    "filePath": "life-cycle/233-yahrzeit-anniversary/metadata.json"
+  },
+  {
+    "id": 235,
+    "title": {
+      "en": "The Upsherin: A Boy's First Haircut at Age Three",
+      "zh": "理发礼（Upsherin）：三岁男孩的第一次理发",
+      "he": "האפשערן: התספורת הראשונה של הילד בגיל שלוש"
+    },
+    "section": "life-cycle",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "LifeCycle",
+      "Upsherin",
+      "Boy's",
+      "First",
+      "Haircut",
+      "Age",
+      "Three"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "published",
+    "filePath": "life-cycle/235-upsherin-first-haircut/metadata.json"
+  },
+  {
+    "id": 236,
+    "title": {
+      "en": "Naming Jewish Children: Traditions and Meanings",
+      "zh": "犹太儿童命名：传统与意义",
+      "he": "מתן שמות לילדים יהודיים: מסורות ומשמעויות"
+    },
+    "section": "life-cycle",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "JewishNames",
+      "NamingTraditions",
+      "HebrewNames",
+      "BritMilah",
+      "SimchatBat",
+      "Ashkenazi",
+      "Sephardi",
+      "LifeCycle",
+      "FamilyTraditions",
+      "Conversion",
+      "Spirituality",
+      "Identity",
+      "起名",
+      "命名传统",
+      "犹太传统"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "life-cycle/236-naming-children/metadata.json"
+  },
+  {
+    "id": 269,
+    "title": {
+      "en": "Brit Milah: Everything You Need to Know About Jewish Circumcision",
+      "zh": "割礼（Brit Milah）：关于犹太割礼你需要知道的一切",
+      "he": "ברית מילה: כל מה שצריך לדעת על מילת יהודים"
+    },
+    "section": "life-cycle",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "BritMilah",
+      "Circumcision",
+      "Covenant",
+      "Abraham",
+      "割礼",
+      "盟约",
+      "JewishBaby",
+      "LifeCycle",
+      "EighthDay",
+      "Mohel",
+      "Sandek",
+      "Tradition",
+      "Identity",
+      "商朝",
+      "ShangDynasty",
+      "Continuity",
+      "JewishLaw",
+      "Ritual",
+      "FamilyCelebration",
+      "JewishIdentity",
+      "孝道",
+      "ברית",
+      "אברהם",
+      "מוהל",
+      "זהות_יהודית"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "满月酒 (Full Month Celebration)",
+      "孝道 (Filial Piety)",
+      "制欲 (Regulating Desire)",
+      "礼 (Ritual Propriety)",
+      "商朝 (Shang Dynasty)"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "completed",
+    "filePath": "life-cycle/269-brit-milah-guide/metadata.json"
+  },
+  {
+    "id": 270,
+    "title": {
+      "en": "Pidyon HaBen: Redeeming the Firstborn Son",
+      "zh": "首生子救赎礼：Pidyon HaBen 的深意",
+      "he": "פדיון הבן: פדיית הבכור"
+    },
+    "section": "life-cycle",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "PidyonHaBen",
+      "Firstborn",
+      "Redemption",
+      "LifeCycle",
+      "Kohen",
+      "Exodus",
+      "JewishRituals",
+      "Consecration",
+      "Heritage",
+      "首生子",
+      "救赎仪式",
+      "犹太礼仪",
+      "出埃及记",
+      "长子",
+      "פדיוןהבן",
+      "בכור",
+      "פדיון",
+      "מחזורהחיים",
+      "כהן",
+      "יציאתמצרים"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "completed",
+    "filePath": "life-cycle/270-pidyon-haben/metadata.json"
+  },
+  {
+    "id": 271,
+    "title": {
+      "en": "The Upsherin: A Boy's First Haircut at Age Three",
+      "zh": "男孩三岁首次理发仪式:犹太教的Upsherin传统",
+      "he": "האפשערן: תספורת ראשונה לבן בגיל שלוש"
+    },
+    "section": "life-cycle",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Upsherin",
+      "LifeCycle",
+      "TorahEducation",
+      "Chassidut",
+      "Age3",
+      "FirstHaircut",
+      "Peyot",
+      "AlephBet",
+      "Orlah",
+      "Minhag",
+      "JewishParenting",
+      "ChildhoodMilestones",
+      "Safed",
+      "Kabbalah",
+      "三岁",
+      "割礼",
+      "犹太教育",
+      "成长仪式"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "completed",
+    "filePath": "life-cycle/271-upsherin-first-haircut/metadata.json"
+  },
+  {
+    "id": 272,
+    "title": {
+      "en": "Writing a Bar Mitzvah Speech: A Guide for Boys and Their Fathers",
+      "zh": "撰写成人礼演讲稿:给男孩和父亲的指南",
+      "he": "כתיבת נאום בר מצווה: מדריך לבנים ולאבותיהם"
+    },
+    "section": "life-cycle",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "BarMitzvah",
+      "LifeCycle",
+      "TorahStudy",
+      "Gratitude",
+      "Parenting",
+      "ComingOfAge",
+      "PublicSpeaking",
+      "FatherAndSon",
+      "HonoringParents",
+      "孝",
+      "成人礼",
+      "JewishEducation",
+      "Commitment",
+      "Responsibility",
+      "DvarTorah",
+      "FamilyValues",
+      "Tradition",
+      "JewishIdentity"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "life-cycle/272-bar-mitzvah-speech/metadata.json"
+  },
+  {
+    "id": 273,
+    "title": {
+      "en": "The Aufruf: Celebrating the Groom Before the Wedding",
+      "zh": "奥夫鲁夫（Aufruf）：婚礼前对新郎的庆祝",
+      "he": "אויפרוף: חגיגת החתן לפני החתונה"
+    },
+    "section": "life-cycle",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Aufruf",
+      "Jewish Wedding",
+      "Life Cycle",
+      "Torah",
+      "Aliyah",
+      "Shabbat",
+      "Community",
+      "Marriage",
+      "Blessing",
+      "Tradition",
+      "Ashkenazi",
+      "Sephardic",
+      "婚礼",
+      "犹太传统",
+      "托拉",
+      "安息日",
+      "社区",
+      "祝福",
+      "אויפרוף",
+      "חתונה_יהודית",
+      "מעגל_החיים",
+      "תורה",
+      "עלייה",
+      "שבת",
+      "קהילה"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Traditional Chinese wedding banquets with community participation",
+      "Historical period references to Chinese dynasties (Talmudic period = Northern and Southern Dynasties 南北朝, Medieval period = Song-Ming Dynasties 宋-明朝)"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "completed",
+    "filePath": "life-cycle/273-aufruf-groom/metadata.json"
+  },
+  {
+    "id": 274,
+    "title": {
+      "en": "Sheva Brachot: The Seven Nights of Celebration After a Jewish Wedding",
+      "zh": "七福祝词：犹太婚礼后的七夜庆祝",
+      "he": "שבע ברכות: שבעת לילות החגיגה אחרי חתונה יהודית"
+    },
+    "section": "life-cycle",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "ShevaBrachot",
+      "JewishWedding",
+      "SevenBlessings",
+      "LifeCycle",
+      "Marriage",
+      "Community",
+      "Celebration",
+      "JewishLaw",
+      "Blessings",
+      "Transitions",
+      "ChineseJewishParallels",
+      "WeddingCustoms",
+      "Minyan",
+      "PanimChadashot"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Chinese Huimen (回门) ceremony - returning home three days after wedding",
+      "Chinese wedding banquets (喜宴) as sacred celebration spaces",
+      "Extended family celebration periods in Chinese culture",
+      "Symbolic numbers in both traditions (seven in Judaism, eight/nine in Chinese culture)"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "completed",
+    "filePath": "life-cycle/274-sheva-brachot/metadata.json"
+  },
+  {
+    "id": 275,
+    "title": {
+      "en": "What Happens at a Jewish Funeral? A Complete Guide",
+      "zh": "犹太葬礼完整指南:从逝世到安葬的全过程",
+      "he": "מה קורה בלוויה יהודית? מדריך מלא"
+    },
+    "section": "life-cycle",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Death",
+      "Funeral",
+      "Mourning",
+      "Life Cycle",
+      "Chevra Kadisha",
+      "Taharah",
+      "Kaddish",
+      "Shiva",
+      "Burial",
+      "Jewish Law",
+      "尊重",
+      "孝",
+      "守孝",
+      "生命周期",
+      "מוות",
+      "לוויה",
+      "אבלות",
+      "מעגלהחיים"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Chinese concept of 善终 (shàn zhōng) - a good death",
+      "守孝 (shǒu xiào) - observing mourning period for parents",
+      "孝 (xiào) - filial piety aligns with honoring parents in death",
+      "Ancestral veneration parallels Jewish memory practices"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "life-cycle/275-jewish-funeral-guide/metadata.json"
+  },
+  {
+    "id": 276,
+    "title": {
+      "en": "How to Make a Shiva Call: What to Say and What Not to Say",
+      "zh": "如何进行犹太守丧期探访：该说什么、不该说什么",
+      "he": "איך לבצע ביקור ניחום אבלים: מה לומר ומה לא לומר"
+    },
+    "section": "life-cycle",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "LifeCycle",
+      "Mourning",
+      "Shiva",
+      "NichumAvelim",
+      "Grief",
+      "Comfort",
+      "ChesedActs",
+      "JewishRituals",
+      "DeathAndMourning",
+      "Compassion",
+      "仁",
+      "ConfucianValues",
+      "Consolation",
+      "Community",
+      "BeingPresent"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "life-cycle/276-shiva-call-guide/metadata.json"
+  },
+  {
+    "id": 277,
+    "title": {
+      "en": "Saying Kaddish for a Parent: The 11-Month Commitment",
+      "zh": "为父母念诵卡迪什祷文：11个月的承诺",
+      "he": "אמירת קדיש על הורה: התחייבות של 11 חודשים"
+    },
+    "section": "life-cycle",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Kaddish",
+      "Mourning",
+      "Grief",
+      "Parent-Child",
+      "Filial Piety",
+      "Prayer",
+      "Community",
+      "Minyan",
+      "Life Cycle",
+      "Death",
+      "Memory",
+      "Spiritual Practice",
+      "Jewish Law",
+      "孝",
+      "祈祷",
+      "哀悼",
+      "犹太传统"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Chinese filial piety (孝, xiào)",
+      "Confucian mourning customs",
+      "Ancestor veneration in Chinese culture",
+      "Han Dynasty mourning rituals",
+      "Buddhist and Daoist meditative practice"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "completed",
+    "filePath": "life-cycle/277-kaddish-parent/metadata.json"
+  },
+  {
+    "id": 278,
+    "title": {
+      "en": "Yahrzeit: Honoring the Anniversary of a Loved One's Passing",
+      "zh": "雅赛特(Yahrzeit):纪念逝者周年忌日",
+      "he": "יארצייט: כיבוד יום השנה לפטירת אדם אהוב"
+    },
+    "section": "life-cycle",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "yahrzeit",
+      "memorial",
+      "mourning",
+      "kaddish",
+      "yahrzeit-candle",
+      "torah-study",
+      "tzedakah",
+      "hebrew-calendar",
+      "soul",
+      "afterlife",
+      "filial-piety",
+      "remembrance",
+      "ancestor-veneration",
+      "life-cycle",
+      "jewish-death",
+      "grief"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "life-cycle/278-yahrzeit-anniversary/metadata.json"
+  },
+  {
+    "id": 279,
+    "title": {
+      "en": "Yizkor: The Memorial Prayer Service Four Times a Year",
+      "zh": "Yizkor（伊兹科尔）：一年四次的纪念祷告仪式",
+      "he": "יִזְכּוֹר: תפילת הזיכרון ארבע פעמים בשנה"
+    },
+    "section": "life-cycle",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Yizkor",
+      "Memorial Prayer",
+      "Life Cycle",
+      "Death",
+      "Memory",
+      "Yom Kippur",
+      "Pesach",
+      "Shavuot",
+      "Sukkot",
+      "Charity",
+      "Tzedakah",
+      "Soul",
+      "Kabbalah",
+      "Jewish Mourning",
+      "祭祖",
+      "清明节",
+      "纪念",
+      "灵魂",
+      "孝道"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "life-cycle/279-yizkor-memorial/metadata.json"
+  },
+  {
+    "id": 280,
+    "title": {
+      "en": "Jewish Adoption: Halachic Considerations and the Conversion Process",
+      "zh": "犹太教的收养:哈拉卡考量与皈依过程",
+      "he": "אימוץ יהודי: שיקולים הלכתיים ותהליך גיור"
+    },
+    "section": "life-cycle",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Adoption",
+      "Conversion",
+      "GiyurKatan",
+      "JewishFamily",
+      "LifeCycle",
+      "Halacha",
+      "JewishLaw",
+      "Moses",
+      "Esther",
+      "Mitzvah",
+      "家庭",
+      "收养",
+      "犹太法",
+      "Ruth",
+      "Abraham",
+      "Sarah",
+      "BarMitzvah",
+      "BatMitzvah",
+      "Mikvah",
+      "BritMilah",
+      "SpecialNeeds",
+      "SingleParent",
+      "InternationalAdoption",
+      "JewishIdentity",
+      "Zekhut",
+      "ParentChild"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Confucian emphasis on education and values over biology in defining family",
+      "Chinese filial piety (孝) compared to Jewish parent-child relationship",
+      "Historic Jewish communities in China (Kaifeng, Shanghai, Harbin, Hong Kong)"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "life-cycle/280-jewish-adoption/metadata.json"
   }
 ]
