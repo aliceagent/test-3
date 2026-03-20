@@ -43,7 +43,14 @@
     "pirkeiAvot": "Pirkei Avot",
     "israel": "Israel & Holy Land",
     "mussar": "Mussar",
-    "jewishCalendar": "Jewish Calendar"
+    "jewishCalendar": "Jewish Calendar",
+    "jewishPhilosophyBigQuestions": "Jewish Philosophy",
+    "practicalHalacha": "Practical Halacha",
+    "moneyBusiness": "Money & Business Ethics",
+    "jewishValues": "Jewish Values",
+    "jewishStoriesAndInspiration": "Jewish Stories",
+    "jewsInAsiaExpanded": "Jews in Asia (Expanded)",
+    "jewishHome": "The Jewish Home"
   },
   "navCategories": {
     "foundations": "Foundations",
@@ -55,6 +62,7 @@
   "home": {
     "hero": "Begin Your Journey Into Torah Living",
     "heroSub": "A comprehensive guide for Mandarin speakers exploring Orthodox Judaism",
+    "articlesAvailable": "articles available to explore",
     "startLearning": "Start Learning",
     "joinCommunity": "Join Community",
     "featuredSections": "Featured Sections",
@@ -596,5 +604,65 @@
     "countingOmer": "Counting the Omer",
     "shmitah": "Shmitah - The Sabbatical Year",
     "practicalTools": "Practical Tools & Apps"
+  },
+  "jewishPhilosophyBigQuestions": {
+    "title": "Jewish Philosophy: Big Questions",
+    "subtitle": "Exploring the deepest questions of existence through a Jewish lens",
+    "existence": "Why Did God Create the World?",
+    "theodicy": "The Problem of Evil",
+    "afterlife": "The Jewish Afterlife",
+    "comparativeReligion": "Judaism and Other Religions",
+    "chosenPeople": "The Chosen People",
+    "faithAndReason": "Faith and Reason"
+  },
+  "practicalHalachaForDailyLife": {
+    "title": "Practical Halacha for Daily Life",
+    "subtitle": "Applying Jewish law to everyday situations",
+    "morningRoutine": "The Jewish Morning Routine",
+    "dietaryLaws": "Dietary Laws Beyond Kosher",
+    "businessEthics": "Business and Workplace Ethics",
+    "interpersonal": "Interpersonal Obligations",
+    "animalWelfare": "Animal Welfare in Judaism"
+  },
+  "moneyBusiness": {
+    "title": "Money & Business Ethics in Judaism",
+    "subtitle": "Torah wisdom on earning, giving, and ethical commerce",
+    "charity": "Tzedakah and Charitable Giving",
+    "interest": "Lending and Interest Laws",
+    "honesty": "Honesty in Business",
+    "fairCompetition": "Fair Competition",
+    "workers": "Workers' Rights"
+  },
+  "jewishValues": {
+    "title": "Core Jewish Values",
+    "subtitle": "The ethical principles that guide Jewish life",
+    "tzedakah": "Tzedakah: Righteous Giving",
+    "honorParents": "Honoring Parents",
+    "speech": "The Power of Speech",
+    "hospitality": "Jewish Hospitality",
+    "goodManners": "Derech Eretz: Good Manners"
+  },
+  "jewishStoriesAndInspiration": {
+    "title": "Jewish Stories & Inspiration",
+    "subtitle": "Tales of sages, heroes, and timeless wisdom",
+    "sages": "Stories of the Sages",
+    "chassidic": "Chassidic Tales",
+    "biblical": "Biblical Heroines and Heroes",
+    "mystical": "Mystical Journeys"
+  },
+  "jewsInAsiaExpanded": {
+    "title": "Jews in Asia: Expanded Stories",
+    "subtitle": "Deeper exploration of Jewish communities across Asia",
+    "landmarks": "Jewish Landmarks in Asia",
+    "rescuers": "Righteous Rescuers",
+    "communities": "Communities Across Asia",
+    "perception": "How Asia Perceives Judaism"
+  },
+  "jewishHome": {
+    "title": "The Jewish Home",
+    "subtitle": "Making your house a sanctuary",
+    "mezuzah": "Mezuzah and Sacred Objects",
+    "kitchen": "The Kosher Kitchen",
+    "atmosphere": "Creating a Jewish Atmosphere"
   }
 }

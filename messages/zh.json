@@ -43,7 +43,14 @@
     "pirkeiAvot": "先贤伦理",
     "israel": "以色列与圣地",
     "mussar": "品德修养",
-    "jewishCalendar": "犹太历法"
+    "jewishCalendar": "犹太历法",
+    "jewishPhilosophyBigQuestions": "犹太哲学大问题",
+    "practicalHalacha": "日常实用律法",
+    "moneyBusiness": "金钱与商业伦理",
+    "jewishValues": "犹太价值观",
+    "jewishStoriesAndInspiration": "犹太故事与启发",
+    "jewsInAsiaExpanded": "亚洲犹太人（扩展）",
+    "jewishHome": "犹太家庭"
   },
   "navCategories": {
     "foundations": "基础",
@@ -55,6 +62,7 @@
   "home": {
     "hero": "开始您的Torah生活之旅",
     "heroSub": "为华语人士提供的全面正统犹太教指南",
+    "articlesAvailable": "篇文章可供探索",
     "startLearning": "开始学习",
     "joinCommunity": "加入社区",
     "featuredSections": "推荐板块",
@@ -596,5 +604,65 @@
     "countingOmer": "数算Omer",
     "shmitah": "安息年 (Shmitah)",
     "practicalTools": "实用工具与应用"
+  },
+  "jewishPhilosophyBigQuestions": {
+    "title": "犹太哲学：大问题",
+    "subtitle": "从犹太视角探索最深刻的存在问题",
+    "existence": "上帝为何创造世界？",
+    "theodicy": "邪恶的问题",
+    "afterlife": "犹太来世观",
+    "comparativeReligion": "犹太教与其他宗教",
+    "chosenPeople": "选民",
+    "faithAndReason": "信仰与理性"
+  },
+  "practicalHalachaForDailyLife": {
+    "title": "日常实用律法",
+    "subtitle": "将犹太法律应用于日常生活",
+    "morningRoutine": "犹太晨间仪式",
+    "dietaryLaws": "超越洁食的饮食法则",
+    "businessEthics": "商业与职场伦理",
+    "interpersonal": "人际义务",
+    "animalWelfare": "犹太教中的动物福利"
+  },
+  "moneyBusiness": {
+    "title": "犹太教中的金钱与商业伦理",
+    "subtitle": "托拉关于赚取、给予和道德商业的智慧",
+    "charity": "慈善捐赠",
+    "interest": "借贷与利息法",
+    "honesty": "商业诚信",
+    "fairCompetition": "公平竞争",
+    "workers": "工人权利"
+  },
+  "jewishValues": {
+    "title": "核心犹太价值观",
+    "subtitle": "指导犹太生活的伦理原则",
+    "tzedakah": "正义的给予",
+    "honorParents": "尊敬父母",
+    "speech": "言语的力量",
+    "hospitality": "犹太好客之道",
+    "goodManners": "良好品行"
+  },
+  "jewishStoriesAndInspiration": {
+    "title": "犹太故事与启发",
+    "subtitle": "圣贤、英雄和永恒智慧的故事",
+    "sages": "圣贤的故事",
+    "chassidic": "哈西迪故事",
+    "biblical": "圣经中的英雄",
+    "mystical": "神秘之旅"
+  },
+  "jewsInAsiaExpanded": {
+    "title": "亚洲犹太人：扩展故事",
+    "subtitle": "深入探索亚洲各地的犹太社区",
+    "landmarks": "亚洲犹太地标",
+    "rescuers": "正义的救援者",
+    "communities": "亚洲各地社区",
+    "perception": "亚洲如何看待犹太教"
+  },
+  "jewishHome": {
+    "title": "犹太家庭",
+    "subtitle": "将你的房子变成圣所",
+    "mezuzah": "门柱经文匣和圣物",
+    "kitchen": "洁食厨房",
+    "atmosphere": "营造犹太氛围"
   }
 }

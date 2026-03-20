@@ -1,7 +1,9 @@
 "use client";
 
+import { useEffect, useState } from "react";
 import { useTranslations } from "next-intl";
 import { Link } from "@/i18n/navigation";
+import { supabase } from "@/lib/supabase";
 
 const featuredSections = [
   {
@@ -46,6 +48,16 @@ export default function HomePage() {
   const tHome = useTranslations("home");
   const tCommon = useTranslations("common");
   const tNav = useTranslations("nav");
+  const [articleCount, setArticleCount] = useState<number | null>(null);
+
+  useEffect(() => {
+    supabase
+      .from("articles")
+      .select("*", { count: "exact", head: true })
+      .then(({ count }) => {
+        if (count != null) setArticleCount(count);
+      });
+  }, []);
 
   return (
     <main className="min-h-screen" style={{ backgroundColor: "var(--color-cream)" }}>
@@ -69,6 +81,18 @@ export default function HomePage() {
           >
             {tHome("heroSub")}
           </p>
+          {articleCount != null && (
+            <p
+              className="mb-8 inline-block rounded-full px-5 py-2 text-sm font-medium"
+              style={{
+                backgroundColor: "rgba(255,255,255,0.15)",
+                color: "rgba(255,255,255,0.95)",
+                backdropFilter: "blur(4px)",
+              }}
+            >
+              {articleCount} {tHome("articlesAvailable")}
+            </p>
+          )}
           <div className="flex flex-col items-center gap-4 sm:flex-row sm:justify-center">
             <Link
               href="/torah-study"
