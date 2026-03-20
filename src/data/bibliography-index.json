@@ -10769,5 +10769,812 @@
     "chinese_dynasty_references": [],
     "status": "complete",
     "filePath": "mitzvah-objects/226-shofar-horn/metadata.json"
+  },
+  {
+    "id": 84,
+    "title": {
+      "en": "Shanghai's Jewish Refugees: How China Saved Thousands During the Holocaust",
+      "zh": "上海的犹太难民：中国如何在大屠杀期间拯救数千人",
+      "he": "פליטים יהודים בשנחאי: כיצד סין הצילה אלפים במהלך השואה"
+    },
+    "section": "jews-in-asia",
+    "description": {
+      "en": "The story of 20,000 Jewish refugees who found sanctuary in Shanghai during World War II when the rest of the world closed its doors, and the Chinese-Jewish bonds forged in that time.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "JewsInAsia",
+      "Shanghai",
+      "Holocaust",
+      "Refugees",
+      "HoFengShan",
+      "何鳳山",
+      "Hongkou",
+      "虹口",
+      "ChineseRescue",
+      "上海",
+      "WorldWarII",
+      "Sanctuary",
+      "OhelMoishe",
+      "JewishHistory",
+      "ChineseHistory",
+      "Compassion",
+      "仁",
+      "Exile",
+      "Diaspora",
+      "華僑",
+      "Remembrance",
+      "Kristallnacht",
+      "EvianConference",
+      "RepublicOfChina",
+      "民国时期",
+      "JointDistributionCommittee",
+      "RighteousAmongNations"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [
+      {
+        "dynasty": "Republic of China",
+        "chinese": "民国时期",
+        "years": "1912-1949",
+        "context": "Period when Shanghai served as refuge for Jewish refugees (1938-1945)"
+      }
+    ],
+    "status": "published",
+    "filePath": "jews-in-asia/084-shanghai-jewish-refugees/metadata.json"
+  },
+  {
+    "id": 260,
+    "title": {
+      "en": "The Mir Yeshiva's Miraculous Journey Through Shanghai",
+      "zh": "米尔神学院的上海奇迹之旅",
+      "he": "המסע המופלא של ישיבת מיר דרך שנחאי"
+    },
+    "section": "jews-in-asia",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "MirYeshiva",
+      "Shanghai",
+      "Holocaust",
+      "JewsInAsia",
+      "TorahStudy",
+      "上海",
+      "犹太难民",
+      "二战",
+      "Refugees",
+      "JewishHistory",
+      "ChineseFriendship",
+      "LithuanianJews",
+      "TalmudStudy",
+      "CulturalPreservation",
+      "学习",
+      "传统",
+      "韧性"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Reverence for classical scholarship and learning",
+      "Preservation of ancient texts during times of upheaval",
+      "Scholar as cultural hero in both traditions",
+      "Cultural resilience through education",
+      "Mutual respect between Chinese and Jewish communities in Shanghai"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "jews-in-asia/260-mir-yeshiva-shanghai/metadata.json"
+  },
+  {
+    "id": 264,
+    "title": {
+      "en": "The Jews of India: Three Distinct Communities",
+      "zh": "印度的犹太人:三个独特的社群",
+      "he": "יהודי הודו: שלוש קהילות מובחנות"
+    },
+    "section": "jews-in-asia",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "JewsOfIndia",
+      "CochinJews",
+      "BeneIsrael",
+      "BaghdadiJews",
+      "IndianJewry",
+      "JewishDiaspora",
+      "JewsInAsia",
+      "Kerala",
+      "Mumbai",
+      "SassoonFamily",
+      "JewishHistory",
+      "CulturalSynthesis",
+      "ReligiousTolerance",
+      "Aliyah",
+      "JewishIdentity",
+      "ParadesiSynagogue",
+      "印度犹太人",
+      "科钦犹太人",
+      "本尼以色列",
+      "巴格达犹太人",
+      "יהודיהודו",
+      "יהודיקוצין",
+      "בניישראל",
+      "יהודיבגדאד"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "completed",
+    "filePath": "jews-in-asia/264-jews-of-india/metadata.json"
+  },
+  {
+    "id": 265,
+    "title": {
+      "en": "The Sassoon Family: The Rothschilds of the East",
+      "zh": "沙逊家族:东方的罗斯柴尔德",
+      "he": "משפחת ססון: הרוטשילדים של המזרח"
+    },
+    "section": "jews-in-asia",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Sassoon Family",
+      "Jews in Asia",
+      "Shanghai",
+      "Bombay",
+      "Hong Kong",
+      "Jewish History",
+      "Diaspora Jewry",
+      "Qing Dynasty",
+      "清朝",
+      "Opium Trade",
+      "Philanthropy",
+      "Tzedakah",
+      "Victor Sassoon",
+      "David Sassoon",
+      "Cathay Hotel",
+      "晋商",
+      "商人",
+      "Jewish Merchants"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Shanxi merchants (晋商)",
+      "Confucian concept of benevolent merchant (仁商)",
+      "Multi-generational family businesses",
+      "Emphasis on education and literacy"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "jews-in-asia/265-sassoon-family/metadata.json"
+  },
+  {
+    "id": 266,
+    "title": {
+      "en": "Harbin: The Forgotten Jewish Community of Northern China",
+      "zh": "哈尔滨：中国北方被遗忘的犹太社区",
+      "he": "חרבין: הקהילה היהודית השכוחה בצפון סין"
+    },
+    "section": "jews-in-asia",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Harbin",
+      "JewsInAsia",
+      "ChineseJewishHistory",
+      "JewishDiaspora",
+      "TransSiberianRailway",
+      "ManchurianJews",
+      "RussianJews",
+      "QingDynasty",
+      "LostCommunities",
+      "JewishHeritage",
+      "DiasporaHistory",
+      "JewsInChina",
+      "AsianJewry",
+      "哈尔滨",
+      "清朝"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Qing Dynasty period context",
+      "Chinese-Jewish business relations",
+      "Cultural differences and similarities",
+      "East-West encounters in northern China"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "completed",
+    "filePath": "jews-in-asia/266-harbin-jews/metadata.json"
+  },
+  {
+    "id": 267,
+    "title": {
+      "en": "Hong Kong's Jewish Heritage: From the Kadoorie Family to Today",
+      "zh": "香港犹太传承：从嘉道理家族到今天",
+      "he": "המורשת היהודית של הונג קונג: ממשפחת קדורי ועד היום"
+    },
+    "section": "jews-in-asia",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "JewsInAsia",
+      "HongKong",
+      "KadoorieFamily",
+      "SassoonFamily",
+      "Sephardic",
+      "Holocaust",
+      "Refugees",
+      "Philanthropy",
+      "Tzedakah",
+      "OhelLeah",
+      "PeninsulaHotel",
+      "Chabad",
+      "JewishHistory",
+      "ChineseHistory",
+      "QingDynasty"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Jewish tzedakah and Confucian 仁 (rén, benevolence)",
+      "Shared values of education, family, and community responsibility",
+      "Integration and mutual respect between Jewish and Chinese communities"
+    ],
+    "chinese_dynasty_references": [
+      {
+        "dynasty": "清朝 (Qing Dynasty)",
+        "years": "1644-1912",
+        "context": "British colonization of Hong Kong in 1842"
+      }
+    ],
+    "status": "complete",
+    "filePath": "jews-in-asia/267-hong-kong-jews/metadata.json"
+  },
+  {
+    "id": 268,
+    "title": {
+      "en": "Modern Jewish Communities Across Southeast Asia",
+      "zh": "东南亚的现代犹太社区",
+      "he": "קהילות יהודיות מודרניות ברחבי דרום-מזרח אסיה"
+    },
+    "section": "jews-in-asia",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "JewsInAsia",
+      "SoutheastAsia",
+      "Singapore",
+      "Thailand",
+      "Philippines",
+      "Vietnam",
+      "Indonesia",
+      "JewishDiaspora",
+      "ModernJewishLife",
+      "KosherTravel",
+      "Chabad",
+      "BaghdadiJews",
+      "OverseasCommunities",
+      "华侨",
+      "犹太社区",
+      "东南亚",
+      "新加坡"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Overseas Chinese (华侨) experience",
+      "Maintaining identity abroad",
+      "Network communities across diaspora",
+      "Food as cultural identity",
+      "Balancing integration and preservation"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "jews-in-asia/268-southeast-asia-jews/metadata.json"
+  },
+  {
+    "id": 349,
+    "title": {
+      "en": "The Ohel Rachel Synagogue: Shanghai's Hidden Jewish Landmark",
+      "zh": "拉结会堂：上海隐藏的犹太地标",
+      "he": "בית הכנסת אוהל רחל: ציון יהודי נסתר בשנחאי"
+    },
+    "section": "jews-in-asia-expanded",
+    "description": {
+      "en": "The history of this Sephardi synagogue built in 1920, its survival through the Communist era, and its current status as a protected building.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "JewsinAsia",
+      "Shanghai",
+      "OhelRachel",
+      "SephardiJews",
+      "Sassoon",
+      "JewishHistory",
+      "Synagogue",
+      "Architecture",
+      "China",
+      "JewishRefugees",
+      "Holocaust",
+      "CulturalHeritage",
+      "上海",
+      "犹太人",
+      "沙遜家族",
+      "20thCentury",
+      "CommunityBuilding",
+      "HistoricalMemory",
+      "יהודיםבאסיה",
+      "אוהלרחל",
+      "יהודיםספרדים"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Memorial architecture (Chinese 纪念堂 tradition)",
+      "Filial piety and ancestor honoring",
+      "Islamic architectural influence via Silk Road",
+      "Chinese hospitality toward refugees (待客之道)",
+      "Religious site preservation in modern China"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "completed",
+    "filePath": "jews-in-asia-expanded/349-ohel-rachel-synagogue-shanghai/metadata.json"
+  },
+  {
+    "id": 350,
+    "title": {
+      "en": "Jewish Life in Tokyo: The Community You Didn't Know Existed",
+      "zh": "东京的犹太生活:你不知道的社区",
+      "he": "חיים יהודיים בטוקיו: הקהילה שלא ידעת שקיימת"
+    },
+    "section": "jews-in-asia-expanded",
+    "description": {
+      "en": "The history and current state of the Jewish community in Tokyo — the Chabad house, kosher restaurants, and the community center in Hiroo.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "JewsInAsia",
+      "Tokyo",
+      "JewishCommunity",
+      "Japan",
+      "Diaspora",
+      "KosherFood",
+      "Chabad",
+      "Synagogue",
+      "JewishTravel",
+      "AsianJewry",
+      "広尾",
+      "ユダヤ教",
+      "东京",
+      "ChiuneSugihara",
+      "CulturalSynthesis",
+      "JapaneseJewishRelations",
+      "亚洲犹太人",
+      "犹太社区",
+      "日本",
+      "侨民",
+      "洁食",
+      "哈巴德",
+      "会堂",
+      "犹太旅行",
+      "יהודיםבאסיה",
+      "קהילהיהודית",
+      "יפן",
+      "תפוצות",
+      "אוכלכשר",
+      "ביתכנסת",
+      "מסעותיהודיים"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "jews-in-asia-expanded/350-jewish-life-tokyo/metadata.json"
+  },
+  {
+    "id": 351,
+    "title": {
+      "en": "Chiune Sugihara: The Japanese Diplomat Who Saved 6,000 Jews",
+      "zh": "杉原千畝:拯救6000名犹太人的日本外交官",
+      "he": "צ'יונה סוגיהרה: הדיפלומט היפני שהציל 6,000 יהודים"
+    },
+    "section": "jews-in-asia-expanded",
+    "description": {
+      "en": "The full story of the 'Japanese Schindler' who defied orders to issue transit visas in Lithuania, saving thousands of Jewish lives.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "ChiuneSugihara",
+      "杉原千畝",
+      "RighteousAmongTheNations",
+      "Holocaust",
+      "VisasForLife",
+      "MoralCourage",
+      "JewsInAsia",
+      "Lithuania",
+      "JapaneseHistory",
+      "第二次世界大战",
+      "Bushido",
+      "仁",
+      "PikuachNefesh",
+      "MirYeshiva",
+      "Shanghai",
+      "Refugees",
+      "HumanRights",
+      "WorldWarII",
+      "KiddushHashem",
+      "LifeSaving",
+      "义人",
+      "NeverForget"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "jews-in-asia-expanded/351-chiune-sugihara-japanese-schindler/metadata.json"
+  },
+  {
+    "id": 352,
+    "title": {
+      "en": "Ho Feng-Shan: The Chinese Diplomat Who Issued Visas to Jews",
+      "zh": "何凤山：向犹太人发放签证的中国外交官",
+      "he": "הו פנג-שאן: הדיפלומט הסיני שהנפיק אשרות ליהודים"
+    },
+    "section": "jews-in-asia-expanded",
+    "description": {
+      "en": "The story of China's consul in Vienna who issued thousands of visas to Shanghai, enabling Jews to escape Nazi-occupied Austria.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "HoFengShan",
+      "何凤山",
+      "RighteousAmongNations",
+      "Holocaust",
+      "JewishRefugees",
+      "Shanghai",
+      "Vienna",
+      "Rescue",
+      "DiplomaticCourage",
+      "义",
+      "ChineseJewishRelations",
+      "WorldWarII",
+      "MoralCourage",
+      "YadVashem",
+      "JewsInAsia"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Confucian concept of Yi (义) and Jewish concept of moral obligation",
+      "Chinese and Jewish responses to rescue and gratitude (Hakarat Hatov)",
+      "Shanghai as refuge during shared suffering of both peoples",
+      "Parallel with Japanese diplomat Sugihara Chiune"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "jews-in-asia-expanded/352-ho-feng-shan-chinese-diplomat/metadata.json"
+  },
+  {
+    "id": 353,
+    "title": {
+      "en": "The Baghdadi Jews of Asia: From Iraq to India to Shanghai",
+      "zh": "亚洲的巴格达犹太人:从伊拉克到印度到上海",
+      "he": "יהודי בגדאד באסיה: מעיראק להודו לשנחאי"
+    },
+    "section": "jews-in-asia-expanded",
+    "description": {
+      "en": "Tracing the Sassoon, Kadoorie, and Hardoon families who built synagogues, businesses, and communities across the Asian continent.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "BaghdadiJews",
+      "Sassoon",
+      "Kadoorie",
+      "Hardoon",
+      "Shanghai",
+      "Mumbai",
+      "HongKong",
+      "JewishHistory",
+      "AsianJewry",
+      "SephardiJews",
+      "Diaspora",
+      "JewishBusinessHistory",
+      "Philanthropy",
+      "SynagogueArchitecture",
+      "19thCentury",
+      "20thCentury",
+      "清朝",
+      "商业家族",
+      "犹太社区"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "jews-in-asia-expanded/353-baghdadi-jews-asia/metadata.json"
+  },
+  {
+    "id": 354,
+    "title": {
+      "en": "Korean Interest in Judaism and the Talmud: Separating Fact from Myth",
+      "zh": "韩国对犹太教和塔木德的兴趣：区分事实与神话",
+      "he": "העניין הקוריאני ביהדות ובתלמוד: הפרדת עובדות ממיתוסים"
+    },
+    "section": "jews-in-asia-expanded",
+    "description": {
+      "en": "Examining why Korean families study the Talmud, what they actually read, and the complex relationship between admiration and stereotyping.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "KoreanJewishRelations",
+      "Talmud",
+      "JewishEducation",
+      "CrossCulturalLearning",
+      "Stereotyping",
+      "Philosemitism",
+      "JewsInAsia",
+      "韩国",
+      "塔木德",
+      "犹太教育",
+      "跨文化学习",
+      "亚洲犹太人",
+      "孝",
+      "尊师重道",
+      "格物致知",
+      "天伦之乐",
+      "活到老学到老",
+      "יחסיםקוריאניםיהודיים",
+      "תלמוד",
+      "חינוךיהודי",
+      "למידהחוצתתרבויות",
+      "סטריאוטיפים",
+      "פילוסמיות",
+      "יהודיםבאסיה"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Talmud Torah keneged kulam ↔ 格物致知 (gewu zhizhi)",
+      "Kibud Av Va'em ↔ 孝 (xiao)",
+      "Torah study never stops ↔ 活到老学到老 (huo dao lao xue dao lao)",
+      "Chavruta study and Socratic method ↔ 博学之，审问之，慎思之，明辨之"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "completed",
+    "filePath": "jews-in-asia-expanded/354-korean-talmud-interest/metadata.json"
+  },
+  {
+    "id": 355,
+    "title": {
+      "en": "Jewish Communities in Southeast Asia: Singapore, Bangkok, and Beyond",
+      "zh": "东南亚的犹太社区:新加坡、曼谷及更远的地方",
+      "he": "קהילות יהודיות בדרום מזרח אסיה: סינגפור, בנגקוק ומעבר"
+    },
+    "section": "jews-in-asia-expanded",
+    "description": {
+      "en": "A practical guide to Jewish life in Singapore (Maghain Aboth Synagogue), Bangkok (Beth Elisheva), and other Southeast Asian cities.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "SoutheastAsia",
+      "Singapore",
+      "Bangkok",
+      "MaghainAboth",
+      "BethElisheva",
+      "Chabad",
+      "JewishTravel",
+      "Sephardic",
+      "Diaspora",
+      "JewishCommunity",
+      "AsianJews",
+      "KosherTravel",
+      "犹太社区",
+      "新加坡",
+      "曼谷",
+      "东南亚",
+      "דרוםמזרחאסיה",
+      "סינגפור",
+      "בנגקוק",
+      "מגאיןאבות",
+      "ביתאלישבע",
+      "חבד"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "completed",
+    "filePath": "jews-in-asia-expanded/355-jewish-communities-southeast-asia/metadata.json"
+  },
+  {
+    "id": 356,
+    "title": {
+      "en": "The Bnei Menashe: The Lost Tribe Returning to Israel from India and Myanmar",
+      "zh": "贝内·梅纳什人：从印度和缅甸返回以色列的失落部落",
+      "he": "בני מנשה: השבט האבוד השב לישראל מהודו ומבורמה"
+    },
+    "section": "jews-in-asia-expanded",
+    "description": {
+      "en": "The story of the Bnei Menashe who claim descent from the tribe of Manasseh, their recognition by the Chief Rabbinate, and their aliyah.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "BneiMenashe",
+      "LostTribes",
+      "TribeOfManasseh",
+      "JewsInAsia",
+      "JewsInIndia",
+      "Aliyah",
+      "Conversion",
+      "OralTradition",
+      "DiasporaJews",
+      "ReturnToZion",
+      "ShaveiIsrael",
+      "ManipurJews",
+      "MizoramJews",
+      "AsianJews",
+      "JewishIdentity",
+      "印度犹太人",
+      "失落的支派",
+      "回归以色列",
+      "玛拿西支派",
+      "בני_מנשה",
+      "שבטים_אבודים",
+      "יהודי_הודו",
+      "עלייה"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "completed",
+    "filePath": "jews-in-asia-expanded/356-bnei-menashe-lost-tribe/metadata.json"
+  },
+  {
+    "id": 357,
+    "title": {
+      "en": "How Chinese Culture Perceives Judaism: Admiration, Stereotypes, and Reality",
+      "zh": "中国文化如何看待犹太教:钦佩、刻板印象与真相",
+      "he": "איך התרבות הסינית תופסת את היהדות: הערצה, סטריאוטיפים ומציאות"
+    },
+    "section": "jews-in-asia-expanded",
+    "description": {
+      "en": "An analysis of the 'Jewish genius' book phenomenon in China, the fascination with Jewish success, and how to respond to well-meaning but misguided stereotypes.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "ChineseJewishRelations",
+      "CulturalPerceptions",
+      "Stereotypes",
+      "Education",
+      "JewishWisdom",
+      "Talmud",
+      "CrossCulturalUnderstanding",
+      "Antisemitism",
+      "JewsInChina",
+      "ChineseCulture",
+      "中国文化",
+      "犹太智慧",
+      "跨文化理解",
+      "JewsInAsiaExpanded",
+      "中犹关系",
+      "文化认知",
+      "刻板印象",
+      "在华犹太人",
+      "亚洲犹太人扩展",
+      "יחסיםסיניםיהודיים",
+      "תפיסותתרבותיות",
+      "סטריאוטיפים",
+      "חינוך",
+      "חכמהיהודית",
+      "תלמוד",
+      "הבנהחוצתתרבויות",
+      "אנטישמיות",
+      "יהודיםבסין",
+      "תרבותסינית",
+      "יהודיםבאסיההרחבה"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Reverence for learning in both Jewish and Confucian traditions",
+      "Textual study traditions: Torah commentary vs Confucian classics",
+      "Family cohesion: Shabbat table vs Chinese New Year reunion",
+      "Community responsibility: Kol Yisrael arevim vs Chinese communal ethics",
+      "Practical wisdom literature: Pirkei Avot and Chinese wisdom texts"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "jews-in-asia-expanded/357-chinese-perceptions-judaism/metadata.json"
+  },
+  {
+    "id": 358,
+    "title": {
+      "en": "Starting a Jewish Community from Scratch: Lessons from Asia's Pioneers",
+      "zh": "从零开始建立犹太社区：来自亚洲先驱者的经验",
+      "he": "הקמת קהילה יהודית מאפס: לקחים מחלוצי אסיה"
+    },
+    "section": "jews-in-asia-expanded",
+    "description": {
+      "en": "Practical advice from people who built Jewish communities in cities with no existing infrastructure — minyanim, kosher food sourcing, education.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "JewishCommunity",
+      "AsianJewry",
+      "CommunityBuilding",
+      "Minyan",
+      "Shabbat",
+      "Kashrut",
+      "JewishEducation",
+      "JewsInAsia",
+      "Bangkok",
+      "Manila",
+      "Chengdu",
+      "Pioneers",
+      "SmallCommunities",
+      "Leadership",
+      "TikunOlam",
+      "Chabad",
+      "KosherFood",
+      "VirtualCommunity",
+      "Synagogue",
+      "Torah",
+      "BarMitzvah",
+      "BatMitzvah",
+      "InterfaithDialogue",
+      "CulturalBridge",
+      "犹太社区",
+      "亚洲犹太人",
+      "社区建设",
+      "犹太教育",
+      "清真食品",
+      "领导力",
+      "修复世界",
+      "קהילהיהודית",
+      "יהודיאסיה",
+      "בנייתקהילה",
+      "מניין",
+      "שבת",
+      "כשרות",
+      "חינוךיהודי",
+      "מנהיגות",
+      "תיקוןעולם"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Chinese concept of starting from zero (白手起家, bái shǒu qǐ jiā)",
+      "Confucian emphasis on community and social harmony (和, hé)",
+      "Daoist principle of organic growth from small beginnings",
+      "Chinese proverb: 'A journey of a thousand miles begins with a single step' (千里之行，始于足下)",
+      "Traditional Chinese mutual aid societies (互助会)",
+      "Asian collectivist values and community interdependence",
+      "Buddhist sangha (community) building principles",
+      "Chinese diaspora experience of building communities abroad"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "jews-in-asia-expanded/358-starting-jewish-community-from-scratch/metadata.json"
   }
 ]
