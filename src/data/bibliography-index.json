@@ -12209,5 +12209,851 @@
     "chinese_dynasty_references": [],
     "status": "complete",
     "filePath": "jewish-values/244-derech-eretz/metadata.json"
+  },
+  {
+    "id": 37,
+    "title": {
+      "en": "Birkat HaMazon: The Complete Grace After Meals Explained",
+      "zh": "餐后祈祷文（Birkat HaMazon）：完整的饭后感恩祷文详解",
+      "he": "ברכת המזון: הסבר מפורט על הברכה השלמה אחרי הארוחה"
+    },
+    "section": "blessings",
+    "description": {
+      "en": "The full text of the Grace After Meals with translation and explanation of each of the four blessings.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "BirkatHaMazon",
+      "GraceAfterMeals",
+      "Blessings",
+      "Torah",
+      "Prayer",
+      "Gratitude",
+      "Zimmun",
+      "Judaism101",
+      "JewishPractice",
+      "四个祝福",
+      "感恩",
+      "餐后祈祷",
+      "犹太传统",
+      "ברכתהמזון",
+      "ברכהאחריארוחה",
+      "ברכות",
+      "תורה",
+      "תפילה",
+      "הכרתטוב"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "drafted",
+    "filePath": "blessings/037-birkat-hamazon-grace-after-meals/metadata.json"
+  },
+  {
+    "id": 125,
+    "title": {
+      "en": "Birkat HaGomel: The Blessing After Surviving Danger",
+      "zh": "感恩祝福（Birkat HaGomel）：大难不死后的感谢祷文",
+      "he": "ברכת הגומל: הברכה אחרי שרידות מסכנה"
+    },
+    "section": "blessings",
+    "description": {
+      "en": "When and how to recite the thanksgiving blessing after surviving life-threatening situations including flights, illness, childbirth, or other dangerous circumstances.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Blessings",
+      "Birkat",
+      "HaGomel",
+      "Blessing",
+      "After",
+      "Surviving",
+      "Danger"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "drafted",
+    "filePath": "blessings/125-birkat-hagomel/metadata.json"
+  },
+  {
+    "id": 126,
+    "title": {
+      "en": "The Shehecheyanu: Celebrating Life's Special Moments",
+      "zh": "שהחיינו祈祷：庆祝生命中的特殊时刻",
+      "he": "שֶׁהֶחֱיָנוּ: חגיגת הרגעים המיוחדים בחיים"
+    },
+    "section": "blessings",
+    "description": {
+      "en": "When to say this beloved blessing — new fruits, new clothes, holidays, and milestones — and why gratitude for 'firsts' matters.",
+      "zh": "何时诵读这个珍贵的祈祷文——新水果、新衣服、节日和里程碑——以及为什么对'第一次'的感恩如此重要。",
+      "he": "מתי לומר את הברכה החביבה הזו - פירות חדשים, בגדים חדשים, חגים וציוני דרך - ומדוע הכרת הטוב על 'פעמים ראשונות' חשובה."
+    },
+    "tags": [
+      "Blessings",
+      "Shehecheyanu",
+      "Celebrating",
+      "Life's",
+      "Special",
+      "Moments"
+    ],
+    "sources": [
+      "https://www.sefaria.org/Berakhot.37b",
+      "https://www.sefaria.org/Mishnah_Berakhot.6.1",
+      "https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.225",
+      "https://www.sefaria.org/Rambam,_Mishneh_Torah,_Blessings.12"
+    ],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "blessings/126-shehecheyanu-blessing/metadata.json"
+  },
+  {
+    "id": 127,
+    "title": {
+      "en": "Netilat Yadayim: Why Jews Wash Their Hands in a Specific Way",
+      "zh": "净手礼：犹太人为何以特殊方式洗手",
+      "he": "נטילת ידיים: מדוע יהודים נוטלים ידיהם בצורה מיוחדת"
+    },
+    "section": "blessings",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Blessings",
+      "Netilat",
+      "Yadayim",
+      "Jews",
+      "Wash",
+      "Their",
+      "Hands",
+      "Specific",
+      "Way"
+    ],
+    "sources": [
+      "https://www.sefaria.org/Berakhot",
+      "https://www.sefaria.org/Chullin",
+      "https://www.sefaria.org/Mishneh_Torah%2C_Blessings",
+      "https://www.sefaria.org/Shulchan_Arukh%2C_Orach_Chayim.158",
+      "https://www.sefaria.org/Exodus.30.17-21",
+      "https://www.sefaria.org/Leviticus.15.11"
+    ],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "blessings/127-netilat-yadayim-handwashing/metadata.json"
+  },
+  {
+    "id": 128,
+    "title": {
+      "en": "HaMotzi vs. Mezonot: The Great Bread Blessing Debate",
+      "zh": "哈莫茨与美佐诺特：犹太面包祝福之辩",
+      "he": "המוציא מול מזונות: הוויכוח הגדול על ברכת הלחם"
+    },
+    "section": "blessings",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Blessings",
+      "HaMotzi",
+      "Mezonot",
+      "Great",
+      "Bread",
+      "Blessing",
+      "Debate"
+    ],
+    "sources": [
+      "https://www.sefaria.org/Berakhot.37a",
+      "https://www.sefaria.org/Shulchan_Arukh%2C_Orach_Chayim.168.1",
+      "https://www.sefaria.org/Mishnah_Berurah.168",
+      "https://www.sefaria.org/Ben_Ish_Hai",
+      "https://www.hebrewbooks.org/pdfpager.aspx?req=14160",
+      "https://www.halachayomit.co.il"
+    ],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "published",
+    "filePath": "blessings/128-hamotzi-mezonot-debate/metadata.json"
+  },
+  {
+    "id": 129,
+    "title": {
+      "en": "Traveling Prayers: Tefilat HaDerech and Blessings for Journeys",
+      "zh": "旅行祈祷：路径之祷（Tefilat HaDerech）与旅程祝福",
+      "he": "תפילות נסיעה: תפילת הדרך וברכות למסעות"
+    },
+    "section": "blessings",
+    "description": {
+      "en": "The traveler's prayer, when to say it, and other blessings and customs for safe travel — especially useful for frequent flyers in Asia.",
+      "zh": "旅行者的祈祷，何时诵读，以及其他安全旅行的祝福和习俗——特别适用于亚洲的常旅客。",
+      "he": "תפילת הנוסע, מתי לאמרה, וברכות ומנהגים אחרים לנסיעה בטוחה - שימושי במיוחד לנוסעים תכופים באסיה."
+    },
+    "tags": [
+      "Blessings",
+      "Traveling",
+      "Prayers",
+      "Tefilat",
+      "HaDerech",
+      "Journeys"
+    ],
+    "sources": [
+      "https://www.sefaria.org/Berakhot.29b.15-30a.1",
+      "https://www.sefaria.org/Kitzur_Shulchan_Aruch.68.1",
+      "https://en.wikipedia.org/wiki/Tefilat_HaDerech",
+      "https://outorah.org/p/33617/",
+      "https://www.chabad.org/library/article_cdo/aid/6020010/jewish/What-You-Need-to-Know-About-Plane-Travel.htm"
+    ],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "blessings/129-tefilat-haderech-travel/metadata.json"
+  },
+  {
+    "id": 134,
+    "title": {
+      "en": "Blessings Before and After Torah Study",
+      "zh": "《妥拉祝福词》：神圣学习的祝福",
+      "he": "ברכות התורה: ברכות הלימוד הקדושות"
+    },
+    "section": "blessings",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Blessings",
+      "Birchot HaTorah (ברכות התורה)",
+      "Talmud Torah k'neged kulam",
+      "Three blessings before Torah study",
+      "Torah study as mitzvah",
+      "Sweetness of divine wisdom",
+      "Daily spiritual practice",
+      "Before",
+      "After",
+      "Torah",
+      "Study"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "blessings/134-torah-study-blessings/metadata.json"
+  },
+  {
+    "id": 135,
+    "title": {
+      "en": "Bentching Made Easy: A Beginner's Guide to Grace After Meals",
+      "zh": "餐后祝福简易指南：初学者的饭后感恩",
+      "he": "ברכת המזון בקלות: מדריך למתחילים לברכה אחר הארוחה"
+    },
+    "section": "blessings",
+    "description": {
+      "en": "A comprehensive beginner's guide to Birkat HaMazon (Grace After Meals), breaking down each of the four blessings paragraph by paragraph with meanings, learning tips, and practical advice for incorporating this ancient Jewish practice into daily life.",
+      "zh": "餐后祝福（Birkat HaMazon）的全面初学者指南，逐段分解四个祝福的含义，提供学习技巧和实用建议，帮助将这个古老的犹太实践融入日常生活。包含中国历史朝代参考。",
+      "he": "מדריך מקיף למתחילים לברכת המזון, המפרק כל אחת מארבע הברכות פסקה אחר פסקה עם משמעויות, טיפים ללימוד ועצות מעשיות לשילוב המנהג היהודי העתיק הזה בחיי היומיום."
+    },
+    "tags": [
+      "Blessings",
+      "Bentching",
+      "Made",
+      "Easy",
+      "Beginner's",
+      "Guide",
+      "Grace",
+      "After",
+      "Meals"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "blessings/135-bentching-beginners-guide/metadata.json"
+  },
+  {
+    "id": 98,
+    "title": {
+      "en": "The Aleph-Bet: Learn the Hebrew Alphabet in One Week",
+      "zh": "希伯来字母表：一周内掌握阿列夫-贝特",
+      "he": "האלף-בית: למד את האלפבית העברי בשבוע אחד"
+    },
+    "section": "hebrew-learning",
+    "description": {
+      "en": "A 7-day intensive plan to master the Hebrew alphabet (Aleph-Bet), with mnemonics designed specifically for Mandarin speakers and daily practice routines.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Hebrew",
+      "Alephbet",
+      "字母表",
+      "אלפבית",
+      "LanguageLearning",
+      "HebrewAlphabet",
+      "希伯来语",
+      "עברית",
+      "BeginnerHebrew",
+      "初学者",
+      "7DayChallenge",
+      "一周挑战",
+      "WritingPractice",
+      "书写练习",
+      "Pronunciation",
+      "发音",
+      "TorahStudy",
+      "Study",
+      "CalligraphyAsArt",
+      "书法",
+      "SacredLetters",
+      "神圣文字",
+      "ChineseJews",
+      "中国犹太人",
+      "Flashcards",
+      "Mnemonics",
+      "DailyPractice"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "published",
+    "filePath": "hebrew-learning/098-aleph-bet/metadata.json"
+  },
+  {
+    "id": 198,
+    "title": {
+      "en": "Understanding Gematria: The Numerical Values of Hebrew Letters",
+      "zh": "理解希伯来字母数字体系:Gematria",
+      "he": "הבנת גימטריה: הערכים המספריים של האותיות העבריות"
+    },
+    "section": "hebrew-learning",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "HebrewLearning",
+      "Gematria definition and purpose",
+      "Hebrew letter numerical values (1-400)",
+      "Nachash=Mashiach=358",
+      "Chinese-Jewish numerological parallels",
+      "Limitations and proper use",
+      "Different gematria systems",
+      "Beginner learning guide",
+      "Understanding",
+      "Gematria",
+      "Numerical",
+      "Values",
+      "Hebrew",
+      "Letters"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Chinese numerology and lucky number 8 (发)",
+      "Number 18 symbolism (long-lasting/eternity in Chinese)",
+      "Number 4 avoidance (death association)",
+      "Number 9 as auspicious (久, longevity)"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "hebrew-learning/198-gematria-numerical-values/metadata.json"
+  },
+  {
+    "id": 291,
+    "title": {
+      "en": "Hebrew Vowels (Nikud): The Dots and Dashes Decoded",
+      "zh": "希伯来元音(Nikud):解密点和线",
+      "he": "ניקוד עברי: פענוח הנקודות והקווים"
+    },
+    "section": "hebrew-learning",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "HebrewLearning",
+      "Nikud",
+      "Vowels",
+      "Masoretes",
+      "HebrewLanguage",
+      "JewishEducation",
+      "Torah",
+      "BiblicalHebrew",
+      "LanguagePreservation",
+      "希伯来语学习",
+      "元音系统",
+      "犹太教育"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "hebrew-learning/291-hebrew-vowels-nikud/metadata.json"
+  },
+  {
+    "id": 292,
+    "title": {
+      "en": "50 Essential Hebrew Phrases for the Synagogue",
+      "zh": "犹太教堂必备50个希伯来语短语",
+      "he": "50 ביטויים עבריים חיוניים לבית הכנסת"
+    },
+    "section": "hebrew-learning",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "HebrewLearning",
+      "Synagogue",
+      "Prayer",
+      "Siddur",
+      "ShabbatShalom",
+      "Amen",
+      "Kaddish",
+      "Torah",
+      "Aliyah",
+      "JewishLiteracy",
+      "BeginnerGuide",
+      "HebrewPhrases",
+      "祈祷",
+      "希伯来语",
+      "犹太教堂",
+      "לימוד_עברית",
+      "בית_כנסת",
+      "תפילה"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Classical Chinese vs Hebrew as sacred languages",
+      "Song Dynasty Confucian education parallels",
+      "Apprenticeship learning in traditional education"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "hebrew-learning/292-hebrew-synagogue-phrases/metadata.json"
+  },
+  {
+    "id": 293,
+    "title": {
+      "en": "Hebrew Roots: How Three Letters Unlock Thousands of Words",
+      "zh": "希伯来语词根：三个字母如何解锁数千个单词",
+      "he": "שורשים עבריים: כיצד שלוש אותיות פותחות אלפי מילים"
+    },
+    "section": "hebrew-learning",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "HebrewLearning",
+      "Shoresh",
+      "HebrewRoots",
+      "Binyanim",
+      "三字根",
+      "希伯来语",
+      "语言学习",
+      "词根系统",
+      "TorahStudy",
+      "本",
+      "Linguistics",
+      "LanguageLearning",
+      "JewishEducation",
+      "לימוד_עברית",
+      "שורש",
+      "שורשים_עבריים",
+      "בניינים",
+      "לימוד_שפות",
+      "מערכת_שורשים",
+      "לימוד_תורה",
+      "בלשנות",
+      "חינוך_יהודי"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "hebrew-learning/293-hebrew-roots-shoresh/metadata.json"
+  },
+  {
+    "id": 294,
+    "title": {
+      "en": "Cantillation Marks (Trop): Reading Torah Like a Pro",
+      "zh": "托拉诵读记号(Trop):像专业人士一样诵读托拉",
+      "he": "טעמי המקרא: קריאת תורה כמו מקצוען"
+    },
+    "section": "hebrew-learning",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Trop",
+      "Cantillation",
+      "TorahReading",
+      "HebrewLearning",
+      "Ta'ameiHaMikra",
+      "Masoretes",
+      "JewishMusic",
+      "OralTradition",
+      "BaalKriah",
+      "BarMitzvah",
+      "BatMitzvah",
+      "SacredText",
+      "唐朝",
+      "音乐传统",
+      "托拉",
+      "טעמי_המקרא",
+      "קריאת_תורה",
+      "למידת_עברית",
+      "מוזיקה_יהודית"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "completed",
+    "filePath": "hebrew-learning/294-cantillation-trop/metadata.json"
+  },
+  {
+    "id": 295,
+    "title": {
+      "en": "Common Mistakes Mandarin Speakers Make in Hebrew (and How to Fix Them)",
+      "zh": "中文母语者学习希伯来语的常见错误(及解决方法)",
+      "he": "טעויות נפוצות של דוברי מנדרינית בלימוד עברית (וכיצד לתקן אותן)"
+    },
+    "section": "hebrew-learning",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "HebrewLearning",
+      "MandarinSpeakers",
+      "LanguageAcquisition",
+      "Grammar",
+      "Pronunciation",
+      "VerbConjugation",
+      "Nikud",
+      "中文",
+      "希伯来语",
+      "语言学习",
+      "犹太教育"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Chinese character radicals vs Hebrew roots",
+      "Chinese tones vs Hebrew stress patterns",
+      "Grass script (草书) vs unvocalized Hebrew text",
+      "Chinese measure words vs Hebrew binyanim",
+      "Kaifeng Jews historical reference"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "hebrew-learning/295-hebrew-mandarin-mistakes/metadata.json"
+  },
+  {
+    "id": 296,
+    "title": {
+      "en": "Hebrew Handwriting: Learning Ktav (Cursive Script)",
+      "zh": "希伯来语手写体：学习Ktav（草书）",
+      "he": "כתב יד עברי: לימוד כתב (כתב רהוט)"
+    },
+    "section": "hebrew-learning",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Hebrew",
+      "HebrewLearning",
+      "Ktav",
+      "Cursive",
+      "Handwriting",
+      "HebrewScript",
+      "书法",
+      "草书",
+      "Language",
+      "Literacy",
+      "Israel",
+      "MandarinSpeakers",
+      "中文学习者",
+      "犹太教育",
+      "希伯来语",
+      "עברית",
+      "לימוד_עברית",
+      "כתב",
+      "כתב_רהוט",
+      "כתב_יד"
+    ],
+    "sources": [
+      "https://www.chabad.org/library/article_cdo/aid/4269915/jewish/Hebrew-Handwriting.htm",
+      "https://www.hebrew4christians.com/Grammar/Unit_One/Writing_Cursive/writing_cursive.html",
+      "https://www.jewishvirtuallibrary.org/hebrew-alphabet",
+      "https://www.ulpan.com/hebrew-cursive-writing/",
+      "https://www.sefaria.org/"
+    ],
+    "cultural_parallels": [
+      "Chinese calligraphy (书法, shūfǎ)",
+      "Cursive script styles (草书 cǎoshū, 行书 xíngshū)",
+      "Seal script to clerical script evolution (篆书 to 隶书)",
+      "Song Dynasty (960-1279 CE) for medieval Hebrew development",
+      "Mandarin stroke order awareness"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "completed",
+    "filePath": "hebrew-learning/296-hebrew-cursive-ktav/metadata.json"
+  },
+  {
+    "id": 151,
+    "title": {
+      "en": "The Hebrew Months: A Personality Profile for Each Month",
+      "zh": "",
+      "he": ""
+    },
+    "section": "jewish-calendar",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "JewishCalendar",
+      "Hebrew",
+      "Months",
+      "Personality",
+      "Profile",
+      "Each",
+      "Month"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "jewish-calendar/151-hebrew-months-personality/metadata.json"
+  },
+  {
+    "id": 152,
+    "title": {
+      "en": "Why the Jewish Day Starts at Night",
+      "zh": "",
+      "he": ""
+    },
+    "section": "jewish-calendar",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "JewishCalendar",
+      "Evening before morning",
+      "Light from darkness",
+      "Spiritual transformation",
+      "Sacred time",
+      "Jewish holidays timing",
+      "Sabbath beginning",
+      "Jewish",
+      "Day",
+      "Starts",
+      "Night"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "jewish-calendar/152-jewish-day-starts-night/metadata.json"
+  },
+  {
+    "id": 153,
+    "title": {
+      "en": "Leap Years in the Jewish Calendar: Adding a Whole Month",
+      "zh": "犹太历中的闰年：增加整整一个月",
+      "he": "שנות המעוברות בלוח העברי: הוספת חודש שלם"
+    },
+    "section": "jewish-calendar",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "JewishCalendar",
+      "Leap",
+      "Years",
+      "Jewish",
+      "Calendar",
+      "Adding",
+      "Whole",
+      "Month"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "jewish-calendar/153-jewish-leap-years/metadata.json"
+  },
+  {
+    "id": 154,
+    "title": {
+      "en": "Molad and Kiddush Levanah: Sanctifying the New Moon",
+      "zh": "摩拉德与圣月仪式：新月的神圣化",
+      "he": "מולד וקידוש לבנה: קידוש החדש"
+    },
+    "section": "jewish-calendar",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "JewishCalendar",
+      "Molad",
+      "Kiddush",
+      "Levanah",
+      "Sanctifying",
+      "New",
+      "Moon"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "jewish-calendar/154-kiddush-levanah-moon/metadata.json"
+  },
+  {
+    "id": 155,
+    "title": {
+      "en": "The Three Weeks and Nine Days: From 17 Tammuz to Tisha B'Av",
+      "zh": "",
+      "he": ""
+    },
+    "section": "jewish-calendar",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "JewishCalendar",
+      "Three",
+      "Weeks",
+      "Nine",
+      "Days",
+      "From",
+      "Tammuz",
+      "Tisha",
+      "B'Av"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "jewish-calendar/155-three-weeks-nine-days/metadata.json"
+  },
+  {
+    "id": 156,
+    "title": {
+      "en": "Adar: The Happiest Month in the Jewish Calendar",
+      "zh": "亚达月:犹太历法中最快乐的月份",
+      "he": "אדר: החודש המשמח ביותר בלוח העברי"
+    },
+    "section": "jewish-calendar",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "JewishCalendar",
+      "Adar",
+      "Happiest",
+      "Month",
+      "Jewish",
+      "Calendar"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "jewish-calendar/156-adar-happiest-month/metadata.json"
+  },
+  {
+    "id": 157,
+    "title": {
+      "en": "The Jewish Week: How Shabbat Structures All of Time",
+      "zh": "犹太人的一周:安息日如何构建所有时间",
+      "he": "השבוע היהודי: כיצד השבת מבנה את כל הזמן"
+    },
+    "section": "jewish-calendar",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "JewishCalendar",
+      "Seven-day week",
+      "Hebrew day names",
+      "Shabbat as organizing principle",
+      "Palace in time",
+      "Creation blueprint",
+      "Preparation vs. afterglow",
+      "Sanctifying time",
+      "Jewish",
+      "Week",
+      "Shabbat",
+      "Structures",
+      "All",
+      "Time"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "chinese-cyclical-time",
+      "24-solar-terms",
+      "lunar-new-year-preparation",
+      "festival-anticipation"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "jewish-calendar/157-jewish-week-shabbat/metadata.json"
+  },
+  {
+    "id": 158,
+    "title": {
+      "en": "Converting Dates: How to Find Your Hebrew Birthday",
+      "zh": "",
+      "he": ""
+    },
+    "section": "jewish-calendar",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "JewishCalendar",
+      "Converting",
+      "Dates",
+      "Find",
+      "Hebrew",
+      "Birthday"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "jewish-calendar/158-hebrew-birthday-conversion/metadata.json"
   }
 ]
