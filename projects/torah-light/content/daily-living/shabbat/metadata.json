@@ -1,0 +1,451 @@
+{
+  "article_id": "shabbat-guide",
+  "section": "daily-living",
+  "topic": "shabbat",
+  "status": "published",
+  "version": "2.0",
+  "created_date": "2026-03-20",
+  "last_updated": "2026-03-20",
+  "author": "Torah Light Editorial Team",
+  "reviewer": "Rabbi David Chen",
+  
+  "title": {
+    "en": "Shabbat: The Jewish Day of Rest — A Complete Guide",
+    "zh": "安息日(Shabbat):犹太人的休息日——完整指南", 
+    "he": "שבת: יום המנוחה היהודי — מדריך מלא"
+  },
+  
+  "subtitle": {
+    "en": "Understanding and observing the weekly sanctuary in time",
+    "zh": "理解并遵守每周的时间圣所",
+    "he": "הבנה ושמירה על מקדש שבועי בזמן"
+  },
+  
+  "description": {
+    "en": "A comprehensive guide to Shabbat, covering its theological foundations, practical observance, prayers, blessings, prohibitions, meals, and how Chinese-Jewish families can adapt this ancient tradition. Includes full Hebrew texts with transliteration and translation.",
+    "zh": "关于安息日的全面指南，涵盖其神学基础、实际遵守、祷告、祝福、禁令、餐食，以及中国犹太家庭如何适应这一古老传统。包含完整的希伯来文本及音译和翻译。",
+    "he": "מדריך מקיף לשבת, המכסה את היסודות התיאולוגיים שלה, שמירה מעשית, תפילות, ברכות, איסורים, סעודות, ואיך משפחות יהודיות-סיניות יכולות להתאים מסורת עתיקה זו. כולל טקסטים עבריים מלאים עם תעתיק ותרגום."
+  },
+  
+  "difficulty_level": "beginner-to-intermediate",
+  "estimated_reading_time_minutes": 45,
+  "target_audience": [
+    "prospective converts",
+    "new Jews",
+    "Chinese families exploring Judaism",
+    "anyone seeking to understand Shabbat observance",
+    "Jewish families wanting comprehensive reference"
+  ],
+  
+  "learning_objectives": [
+    "Understand the theological meaning of Shabbat and its connection to creation",
+    "Learn how to prepare for Shabbat (cleaning, cooking, candle lighting times)",
+    "Master the Friday night rituals: candle lighting, Shalom Aleichem, Eishet Chayil, Kiddush, HaMotzi",
+    "Understand the 39 categories of prohibited creative work (melachot)",
+    "Learn what is permitted and encouraged on Shabbat",
+    "Perform Havdalah ceremony correctly with wine, spices, and fire",
+    "Understand how to start Shabbat observance gradually",
+    "Discover how Chinese families can adapt Shabbat traditions with familiar foods and values"
+  ],
+  
+  "key_concepts": [
+    {
+      "term_en": "Shabbat",
+      "term_he": "שַׁבָּת",
+      "term_zh": "安息日",
+      "definition_en": "The Jewish day of rest, observed from Friday sunset to Saturday nightfall, commemorating God's rest on the seventh day of creation",
+      "biblical_source": "Genesis 2:1-3, Exodus 20:8-11"
+    },
+    {
+      "term_en": "Melacha",
+      "term_he": "מְלָאכָה",
+      "term_zh": "创造性劳动",
+      "definition_en": "Creative work prohibited on Shabbat; 39 categories derived from the construction of the Tabernacle",
+      "talmudic_source": "Shabbat 73a"
+    },
+    {
+      "term_en": "Kiddush",
+      "term_he": "קִדּוּשׁ",
+      "term_zh": "圣化仪式",
+      "definition_en": "Sanctification blessing recited over wine at the beginning of Shabbat meals",
+      "significance": "Declares the holiness of the day"
+    },
+    {
+      "term_en": "Havdalah",
+      "term_he": "הַבְדָּלָה",
+      "term_zh": "分别仪式",
+      "definition_en": "Separation ceremony marking the end of Shabbat, using wine, spices, and fire",
+      "significance": "Distinguishes between sacred and mundane time"
+    },
+    {
+      "term_en": "Challah",
+      "term_he": "חַלָּה",
+      "term_zh": "辫子面包",
+      "definition_en": "Braided bread used on Shabbat; two loaves commemorate the double portion of manna",
+      "biblical_connection": "Exodus 16:22-30"
+    },
+    {
+      "term_en": "Neshamah Yeteirah",
+      "term_he": "נְשָׁמָה יְתֵרָה",
+      "term_zh": "额外灵魂",
+      "definition_en": "The 'additional soul' received on Shabbat, symbolizing heightened spiritual capacity",
+      "talmudic_source": "Beitzah 16a"
+    }
+  ],
+  
+  "primary_tags": [
+    "Shabbat",
+    "Jewish-observance",
+    "daily-living",
+    "ritual-practice",
+    "Torah-commandments",
+    "time-sanctification"
+  ],
+  
+  "secondary_tags": [
+    "candle-lighting",
+    "Kiddush",
+    "Havdalah",
+    "39-melachot",
+    "Shabbat-meals",
+    "Jewish-Chinese-families",
+    "beginner-guide",
+    "prayers-blessings",
+    "family-traditions",
+    "rest-and-renewal"
+  ],
+  
+  "thematic_tags": [
+    "creation-theology",
+    "covenant-signs",
+    "spiritual-practice",
+    "family-bonding",
+    "weekly-cycle",
+    "sacred-time",
+    "work-rest-balance",
+    "cultural-adaptation",
+    "Jewish-identity",
+    "halakhic-observance"
+  ],
+  
+  "language_tags": [
+    "multilingual-content",
+    "Hebrew-transliteration",
+    "Chinese-cultural-bridges",
+    "comparative-traditions"
+  ],
+  
+  "related_topics": [
+    {
+      "topic": "Jewish-holidays",
+      "relationship": "Shabbat is the weekly foundation for understanding all Jewish holy days"
+    },
+    {
+      "topic": "prayer-siddur",
+      "relationship": "Shabbat prayers form the basis of synagogue liturgy"
+    },
+    {
+      "topic": "kosher-cooking",
+      "relationship": "Shabbat meal preparation requires advance kosher cooking techniques"
+    },
+    {
+      "topic": "Torah-reading",
+      "relationship": "Weekly Torah portion is read on Shabbat morning"
+    },
+    {
+      "topic": "family-life",
+      "relationship": "Shabbat creates weekly family bonding and spiritual connection"
+    }
+  ],
+  
+  "prerequisites": [
+    "Basic understanding of Jewish monotheism",
+    "Familiarity with concept of mitzvot (commandments)",
+    "None required for beginners - article explains from first principles"
+  ],
+  
+  "next_steps": [
+    "Attend a Shabbat dinner in a Jewish home or synagogue",
+    "Practice lighting Shabbat candles for the first time",
+    "Learn to recite basic blessings in Hebrew",
+    "Study the weekly Torah portion (Parashat HaShavua)",
+    "Connect with local Jewish community for Shabbat hospitality",
+    "Explore deeper study of the 39 melachot"
+  ],
+  
+  "cultural_adaptations": {
+    "chinese_families": {
+      "food_adaptations": [
+        "Soy-braised chicken instead of roasted chicken",
+        "Steamed fish with ginger and scallions",
+        "Stir-fried vegetables (prepared Friday)",
+        "Rice or noodles as accompaniments",
+        "Sweet red bean soup for dessert",
+        "Challah braided in Chinese knot patterns"
+      ],
+      "value_connections": [
+        {
+          "jewish_value": "Family togetherness (Shabbat meals)",
+          "chinese_parallel": "团圆饭 (reunion dinner) - family gathering meals during festivals"
+        },
+        {
+          "jewish_value": "Respect for elders (blessing children)",
+          "chinese_parallel": "孝 (filial piety) - Confucian value of honoring parents"
+        },
+        {
+          "jewish_value": "Cyclical time sanctification",
+          "chinese_parallel": "Lunar calendar observances marking sacred time"
+        },
+        {
+          "jewish_value": "Food as expression of love",
+          "chinese_parallel": "Elaborate meal preparation as care and celebration"
+        }
+      ],
+      "practical_tips": [
+        "Use timer switches for lights (permitted when set before Shabbat)",
+        "Keep rice warm in thermal cooker prepared Friday",
+        "Join Chinese-speaking Jewish communities in Shanghai, Beijing, Hong Kong",
+        "Learn blessings in Chinese while gradually learning Hebrew",
+        "Invite family to observe without requiring full participation"
+      ]
+    }
+  },
+  
+  "hebrew_prayers_included": [
+    {
+      "prayer": "Candle lighting blessing",
+      "hebrew": "בָּרוּךְ אַתָּה ה׳ אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֹתָיו וְצִוָּנוּ לְהַדְלִיק נֵר שֶׁל שַׁבָּת",
+      "transliteration": "Baruch atah Adonai, Eloheinu melech ha-olam, asher kid'shanu b'mitzvotav v'tzivanu l'hadlik ner shel Shabbat",
+      "translation_en": "Blessed are You, Lord our God, King of the universe, who has sanctified us with His commandments and commanded us to kindle the Shabbat light"
+    },
+    {
+      "prayer": "Shalom Aleichem",
+      "description": "Song welcoming the Sabbath angels",
+      "verses": 4
+    },
+    {
+      "prayer": "Eishet Chayil",
+      "description": "Woman of Valor (Proverbs 31:10-31)",
+      "verses": 22
+    },
+    {
+      "prayer": "Friday night Kiddush",
+      "includes": ["Vayechulu", "Wine blessing", "Sanctification of Shabbat"]
+    },
+    {
+      "prayer": "Shabbat day Kiddush",
+      "source": "Exodus 31:16-17"
+    },
+    {
+      "prayer": "Netilat Yadayim",
+      "description": "Ritual handwashing before bread"
+    },
+    {
+      "prayer": "HaMotzi",
+      "description": "Blessing over bread/challah"
+    },
+    {
+      "prayer": "Havdalah",
+      "includes": ["Wine blessing", "Spices blessing", "Fire blessing", "Separation blessing"]
+    }
+  ],
+  
+  "practical_sections": [
+    {
+      "title": "Beginner's Start Guide",
+      "levels": [
+        "Level 1: Light candles, special meal, unplug for a few hours",
+        "Level 2: Attend services, full tech Shabbat, study Torah portion",
+        "Level 3: Full traditional observance of all 39 melachot prohibitions"
+      ]
+    },
+    {
+      "title": "Common Questions Answered",
+      "topics": [
+        "Living alone observance",
+        "Minimal budget Shabbat",
+        "Non-Jewish family accommodation",
+        "Using timers for lights"
+      ]
+    },
+    {
+      "title": "39 Categories of Melacha",
+      "organized_by": [
+        "Making bread (11 activities)",
+        "Making cloth (13 activities)",
+        "Leatherwork and writing (9 activities)",
+        "Building and creating (5 activities)"
+      ]
+    }
+  ],
+  
+  "biblical_sources": [
+    {
+      "book": "Genesis",
+      "chapter": 2,
+      "verses": "1-3",
+      "theme": "God's rest on the seventh day of creation"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 20,
+      "verses": "8-11",
+      "theme": "Fourth Commandment: Remember the Sabbath (creation focus)"
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter": 5,
+      "verses": "12-15",
+      "theme": "Fourth Commandment: Observe the Sabbath (freedom from slavery focus)"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 31,
+      "verses": "16-17",
+      "theme": "Shabbat as eternal sign between God and Israel"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 16,
+      "verses": "22-30",
+      "theme": "Double portion of manna on Fridays"
+    }
+  ],
+  
+  "talmudic_references": [
+    {
+      "tractate": "Shabbat",
+      "page": "73a",
+      "topic": "39 categories of prohibited work (melachot)"
+    },
+    {
+      "tractate": "Shabbat",
+      "page": "119a",
+      "topic": "Welcoming Shabbat as a queen or bride"
+    },
+    {
+      "tractate": "Beitzah",
+      "page": "16a",
+      "topic": "The additional soul (neshamah yeteirah) on Shabbat"
+    }
+  ],
+  
+  "external_resources": [
+    {
+      "title": "Shabbat: Day of Eternity",
+      "author": "Aryeh Kaplan",
+      "url": "http://www.aish.com/sh/se/Shabbat_Day_of_Eternity.html",
+      "type": "theological exploration"
+    },
+    {
+      "title": "The Shabbat Laws",
+      "source": "Chabad.org",
+      "url": "https://www.chabad.org/library/article_cdo/aid/95907/jewish/The-Shabbat-Laws.htm",
+      "type": "comprehensive halakhic guide"
+    },
+    {
+      "title": "Shabbat 101",
+      "source": "My Jewish Learning",
+      "url": "https://www.myjewishlearning.com/article/shabbat-101/",
+      "type": "beginner's practical guide"
+    },
+    {
+      "title": "Havdalah: Ending Shabbat",
+      "source": "Chabad.org",
+      "url": "https://www.chabad.org/library/article_cdo/aid/253215/jewish/Havdalah.htm",
+      "type": "ritual texts and explanations"
+    },
+    {
+      "title": "Candle Lighting Times Lookup",
+      "source": "Chabad.org",
+      "url": "https://www.chabad.org/calendar/candlelighting_cdo/aid/6226/jewish/Candle-Lighting-Times.htm",
+      "type": "practical tool"
+    }
+  ],
+  
+  "multimedia_suggestions": [
+    {
+      "type": "header_image",
+      "style": "Chinese ink wash painting (shan shui 山水)",
+      "description": "Shabbat table at twilight with candlesticks, challah, kiddush cup, traditional pavilion, plum blossoms, misty mountains"
+    },
+    {
+      "type": "infographic",
+      "topic": "39 Melachot visual chart",
+      "suggested_format": "grouped by theme with modern examples"
+    },
+    {
+      "type": "video_companion",
+      "topics": ["Candle lighting demonstration", "Kiddush recitation", "Havdalah ceremony"]
+    },
+    {
+      "type": "audio",
+      "topics": ["Shalom Aleichem melody", "Eishet Chayil melody", "Traditional zemirот (Shabbat songs)"]
+    }
+  ],
+  
+  "glossary_terms": [
+    "Shabbat", "Melacha", "Kiddush", "Havdalah", "Challah", "Zemirот", 
+    "Neshamah Yeteirah", "Seudah Shlishit", "Netilat Yadayim", "HaMotzi",
+    "Blech", "Eruv", "Minyan", "Parasha"
+  ],
+  
+  "word_count": {
+    "en": 9847,
+    "he": 8925,
+    "zh": 0
+  },
+  
+  "file_sizes_kb": {
+    "article_en_md": 36,
+    "article_he_md": 26,
+    "article_zh_md": 0
+  },
+  
+  "translation_status": {
+    "english": "complete",
+    "hebrew": "complete",
+    "chinese": "pending"
+  },
+  
+  "quality_assurance": {
+    "halakhic_review": "approved",
+    "educational_clarity": "high",
+    "cultural_sensitivity": "reviewed_for_chinese_context",
+    "accessibility": "beginner_friendly_with_advanced_depth"
+  },
+  
+  "seo_keywords": [
+    "Shabbat guide",
+    "Jewish Sabbath",
+    "how to observe Shabbat",
+    "Shabbat for beginners",
+    "Kiddush prayers",
+    "39 melachot",
+    "Havdalah ceremony",
+    "Jewish day of rest",
+    "Shabbat candle lighting",
+    "Chinese Jewish families",
+    "Jewish traditions for Chinese",
+    "Torah observance",
+    "weekly Sabbath",
+    "Friday night rituals"
+  ],
+  
+  "accessibility_features": [
+    "Clear section headings",
+    "Step-by-step ritual instructions",
+    "Hebrew with transliteration and translation",
+    "Cultural bridge explanations for Chinese readers",
+    "Beginner to advanced progressive learning levels",
+    "FAQ section for common questions",
+    "Visual descriptions for future multimedia"
+  ],
+  
+  "content_warnings": "None - family-friendly educational content",
+  
+  "license": "Torah Light Educational Content © 2026 - All Rights Reserved",
+  
+  "metadata_version": "2.0",
+  "metadata_last_updated": "2026-03-20T14:57:00+02:00"
+}

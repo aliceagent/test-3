@@ -1,0 +1,134 @@
+{
+  "title": {
+    "en": "Taharat HaMishpacha: The Sacred Beauty of Family Purity",
+    "zh": "家庭纯洁律法(Taharat HaMishpacha):神圣之美",
+    "he": "טהרת המשפחה: היופי הקדוש"
+  },
+  "description": {
+    "en": "A comprehensive, respectful guide to the Jewish laws of family purity—understanding the spiritual beauty, practical framework, and relationship benefits of Taharat HaMishpacha.",
+    "zh": "一本全面、尊重的犹太家庭纯洁律法指南——了解家庭纯洁律法的精神之美、实践框架和关系益处。",
+    "he": "מדריך מקיף ומכבד להלכות טהרת המשפחה היהודיות - הבנת היופי הרוחני, המסגרת המעשית ויתרונות היחסים של טהרת המשפחה."
+  },
+  "category": "daily-living",
+  "subcategory": "family-purity",
+  "tags": {
+    "en": ["family purity", "taharat hamishpacha", "mikvah", "niddah", "Jewish marriage", "intimacy", "halacha", "Torah law", "marital laws", "spiritual renewal"],
+    "zh": ["家庭纯洁", "塔哈拉特·哈米什帕查", "仪式浴池", "尼达", "犹太婚姻", "亲密", "哈拉卡", "妥拉律法", "婚姻律法", "精神更新"],
+    "he": ["טהרת המשפחה", "מקווה", "נידה", "נישואין יהודיים", "אינטימיות", "הלכה", "תורה", "דיני נישואין", "התחדשות רוחנית"]
+  },
+  "keywords": {
+    "en": ["family purity laws", "taharat hamishpacha guide", "mikvah immersion", "niddah period", "Jewish intimacy", "marital purity", "kallah classes", "halacha marriage", "Torah family laws", "mikvah China", "mikvah Asia"],
+    "zh": ["家庭纯洁律法", "塔哈拉特·哈米什帕查指南", "仪式浴池浸洗", "尼达期", "犹太亲密", "婚姻纯洁", "新娘课程", "哈拉卡婚姻", "妥拉家庭律法", "中国仪式浴池", "亚洲仪式浴池"],
+    "he": ["הלכות טהרת המשפחה", "מדריך טהרת המשפחה", "טבילת מקווה", "תקופת נידה", "אינטימיות יהודית", "טהרת נישואין", "שיעורי כלה", "נישואין הלכתיים", "דיני תורה משפחתיים", "מקווה סין", "מקווה אסיה"]
+  },
+  "biblicalSources": [
+    {
+      "reference": "Leviticus 15:19-24",
+      "topic": "Laws of niddah - menstrual separation period"
+    },
+    {
+      "reference": "Leviticus 18:19",
+      "topic": "Prohibition of intimacy during impurity"
+    },
+    {
+      "reference": "Leviticus 20:18",
+      "topic": "Emphasis on the seriousness of these commandments"
+    }
+  ],
+  "relatedTopics": [
+    "jewish-marriage",
+    "mikvah-preparation",
+    "kallah-classes",
+    "shalom-bayit",
+    "kedusha-holiness"
+  ],
+  "practicalResources": {
+    "mikvahLocations": {
+      "china": ["Beijing Chabad House", "Shanghai Jewish Center", "Hong Kong Jewish Community"],
+      "asia": ["Singapore (Maghain Aboth, Chesed-El)", "Bangkok Chabad", "Mumbai", "Tokyo Chabad"]
+    },
+    "learningResources": [
+      "Local Chabad House",
+      "Orthodox synagogue",
+      "Yoatzot.org",
+      "Mikvah.org",
+      "Kallah classes (required before marriage)"
+    ]
+  },
+  "sensitivity": {
+    "contentRating": "Educational - Appropriate for general audiences",
+    "approach": "Respectful, dignified, focusing on spiritual beauty and relationship benefits",
+    "note": "This is a sacred and sensitive topic handled with appropriate modesty and discretion"
+  },
+  "audience": {
+    "primary": ["Engaged couples", "Newly married couples", "Those exploring Jewish observance"],
+    "secondary": ["Jewish educators", "Community leaders", "Those seeking to understand Jewish practice"]
+  },
+  "readingTime": {
+    "en": "25-30 minutes",
+    "zh": "20-25 minutes",
+    "he": "22-27 minutes"
+  },
+  "wordCount": {
+    "en": 3847,
+    "zh": 2156,
+    "he": 2891
+  },
+  "contentStructure": [
+    "Introduction",
+    "What is Taharat HaMishpacha",
+    "Biblical Sources and Foundation",
+    "Understanding the Niddah Period",
+    "The Mikvah: Waters of Spiritual Renewal",
+    "Building a Jewish Marriage",
+    "Practical Overview",
+    "Finding a Mikvah (China & Asia)",
+    "Kallah Classes",
+    "Common Questions",
+    "The Beauty of the System",
+    "Conclusion"
+  ],
+  "learningOutcomes": [
+    "Understand the biblical and spiritual foundation of family purity laws",
+    "Learn the basic framework of the niddah period and counting clean days",
+    "Appreciate the spiritual significance of mikvah immersion",
+    "Recognize how these laws strengthen and renew marriage",
+    "Know where to find mikvahs in China and Asia",
+    "Understand the importance of kallah classes before marriage",
+    "Gain perspective on common questions and concerns"
+  ],
+  "culturalContext": {
+    "global": "Observed by Orthodox Jewish communities worldwide for over 3000 years",
+    "chinaAsia": "Growing Jewish communities in major Asian cities provide mikvah access and support",
+    "note": "Resources available for Jews living in areas with limited Jewish infrastructure"
+  },
+  "disclaimer": "This article provides educational overview only. All couples must receive proper instruction through qualified kallah teachers before marriage and consult rabbinic authorities with specific questions.",
+  "lastUpdated": "2026-03-20",
+  "version": "1.0",
+  "language": {
+    "available": ["en", "zh", "he"],
+    "default": "en"
+  },
+  "accessibility": {
+    "screenReaderFriendly": true,
+    "transliteration": "Hebrew terms transliterated for non-Hebrew readers",
+    "culturalSensitivity": "High - content designed to respect diverse backgrounds while educating about Jewish practice"
+  },
+  "seo": {
+    "metaTitle": {
+      "en": "Taharat HaMishpacha: Complete Guide to Jewish Family Purity Laws",
+      "zh": "家庭纯洁律法:犹太家庭纯洁律法完整指南",
+      "he": "טהרת המשפחה: מדריך מלא להלכות טהרת המשפחה"
+    },
+    "metaDescription": {
+      "en": "Comprehensive guide to Taharat HaMishpacha (Jewish family purity laws). Learn about the niddah period, mikvah immersion, and how these ancient laws strengthen modern marriages. Includes resources for China and Asia.",
+      "zh": "家庭纯洁律法(犹太家庭纯洁律法)综合指南。了解尼达期、仪式浴池浸洗,以及这些古老律法如何加强现代婚姻。包括中国和亚洲资源。",
+      "he": "מדריך מקיף לטהרת המשפחה (הלכות טהרת המשפחה היהודיות). למד על תקופת הנידה, טבילת מקווה, וכיצד הלכות עתיקות אלו מחזקות נישואין מודרניים. כולל משאבים לסין ואסיה."
+    },
+    "focusKeyphrase": {
+      "en": "taharat hamishpacha",
+      "zh": "家庭纯洁律法",
+      "he": "טהרת המשפחה"
+    }
+  }
+}

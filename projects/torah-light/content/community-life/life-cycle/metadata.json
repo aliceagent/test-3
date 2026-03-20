@@ -1,0 +1,101 @@
+{
+  "title": {
+    "en": "The Jewish Life Cycle: From Birth to Eternity",
+    "he": "מעגל החיים היהודי: מלידה ועד נצח",
+    "zh": "犹太生命周期：从出生到永恒"
+  },
+  "description": {
+    "en": "A comprehensive guide to Jewish life cycle ceremonies and traditions, from birth through death, including brit milah, bar/bat mitzvah, weddings, and mourning practices.",
+    "he": "מדריך מקיף לטקסי ומסורות מעגל החיים היהודי, מלידה ועד מוות, כולל ברית מילה, בר/בת מצווה, חתונות ומנהגי אבלות.",
+    "zh": "犹太生命周期仪式和传统的全面指南，从出生到死亡，包括割礼、成人礼、婚礼和哀悼习俗。"
+  },
+  "category": "community-life",
+  "subcategory": "life-cycle",
+  "tags": [
+    "brit-milah",
+    "bar-mitzvah",
+    "bat-mitzvah",
+    "wedding",
+    "chuppah",
+    "mourning",
+    "shiva",
+    "kaddish",
+    "life-cycle",
+    "birth",
+    "death",
+    "ceremonies",
+    "rituals",
+    "traditions",
+    "family",
+    "community"
+  ],
+  "difficulty": "intermediate",
+  "readingTime": {
+    "en": 35,
+    "he": 35,
+    "zh": 35
+  },
+  "author": "Torah Light",
+  "dateCreated": "2026-03-20",
+  "dateModified": "2026-03-20",
+  "version": "1.0",
+  "languages": ["en", "he", "zh"],
+  "keyTopics": [
+    "Birth and Naming Ceremonies",
+    "Brit Milah (Circumcision)",
+    "Early Childhood Milestones",
+    "Bar and Bat Mitzvah",
+    "Jewish Dating and Marriage",
+    "Wedding Ceremony and Customs",
+    "The Jewish Home",
+    "Illness and Healing",
+    "Death and Mourning Practices",
+    "Shiva and Mourning Periods",
+    "Yahrzeit and Memorial Observances"
+  ],
+  "practicalApplications": [
+    "Understanding the meaning behind brit milah and naming ceremonies",
+    "Preparing for bar or bat mitzvah celebrations",
+    "Planning a Jewish wedding with traditional elements",
+    "Creating a Jewish home with mezuzah and kashrut",
+    "Supporting community members who are ill",
+    "Observing proper mourning customs and shiva practices",
+    "Honoring the memory of loved ones through yahrzeit and kaddish"
+  ],
+  "relatedTopics": [
+    "jewish-festivals",
+    "prayer-and-liturgy",
+    "kashrut",
+    "shabbat-observance",
+    "family-purity",
+    "synagogue-life"
+  ],
+  "learningObjectives": [
+    "Understand the spiritual significance of each life cycle milestone",
+    "Learn the customs and rituals associated with Jewish life events",
+    "Appreciate how life cycle ceremonies connect individuals to community",
+    "Recognize the balance between tradition and contemporary practice",
+    "Understand Jewish approaches to joy, celebration, illness, and loss"
+  ],
+  "culturalContext": {
+    "ashkenazi": true,
+    "sephardi": true,
+    "modern": true,
+    "traditional": true,
+    "orthodox": true,
+    "conservative": true,
+    "reform": true
+  },
+  "sources": [
+    "Talmud",
+    "Shulchan Aruch",
+    "Traditional Jewish Customs",
+    "Contemporary Jewish Practice"
+  ],
+  "accessibility": {
+    "audienceLevel": "general",
+    "prerequisiteKnowledge": "basic",
+    "includesHebrew": true,
+    "includesTranslations": true
+  }
+}

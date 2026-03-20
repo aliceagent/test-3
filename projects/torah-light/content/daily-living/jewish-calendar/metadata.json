@@ -1,0 +1,215 @@
+{
+  "title": {
+    "en": "The Jewish Calendar: A Bridge Between Moon and Sun",
+    "zh": "犹太历法:月亮与太阳的桥梁",
+    "he": "הלוח העברי: גשר בין הירח והשמש"
+  },
+  "description": {
+    "en": "Comprehensive guide to the Hebrew calendar system, explaining its lunisolar structure, the 19-year cycle, Hebrew months, leap years, and how to read and use the Jewish calendar in daily life.",
+    "zh": "希伯来历法系统综合指南,解释其阴阳历结构、19年周期、希伯来月份、闰年以及如何在日常生活中阅读和使用犹太历法。",
+    "he": "מדריך מקיף למערכת הלוח העברי, המסביר את המבנה הירחי-שמשי, מחזור 19 השנה, החודשים העבריים, שנים מעוברות וכיצד לקרוא ולהשתמש בלוח היהודי בחיי היומיום."
+  },
+  "keywords": {
+    "en": [
+      "Jewish calendar",
+      "Hebrew calendar",
+      "lunisolar calendar",
+      "Hebrew months",
+      "Rosh Chodesh",
+      "leap year",
+      "19-year cycle",
+      "Jewish holidays",
+      "Shabbat",
+      "Chinese lunar calendar comparison",
+      "Hebcal",
+      "Jewish time",
+      "sunset to sunset",
+      "Hebrew dates"
+    ],
+    "zh": [
+      "犹太历法",
+      "希伯来历法",
+      "阴阳历",
+      "希伯来月份",
+      "新月",
+      "闰年",
+      "19年周期",
+      "犹太节日",
+      "安息日",
+      "中国农历比较",
+      "Hebcal",
+      "犹太时间",
+      "日落到日落",
+      "希伯来日期"
+    ],
+    "he": [
+      "לוח עברי",
+      "לוח יהודי",
+      "לוח ירחי-שמשי",
+      "חודשים עבריים",
+      "ראש חודש",
+      "שנה מעוברת",
+      "מחזור 19 שנה",
+      "חגי ישראל",
+      "שבת",
+      "השוואה ללוח סיני",
+      "Hebcal",
+      "זמן יהודי",
+      "משקיעה לשקיעה",
+      "תאריכים עבריים"
+    ]
+  },
+  "category": "daily-living",
+  "subcategory": "calendar-time",
+  "targetAudience": {
+    "en": "Chinese families exploring Judaism, new converts, anyone learning about Jewish time-keeping",
+    "zh": "探索犹太教的华人家庭、新皈依者、任何学习犹太计时的人",
+    "he": "משפחות סיניות החוקרות יהדות, מתגיירים חדשים, כל מי שלומד על מדידת זמן יהודית"
+  },
+  "difficulty": "beginner-intermediate",
+  "readingTime": {
+    "en": "15-20 minutes",
+    "zh": "15-20分钟",
+    "he": "15-20 דקות"
+  },
+  "culturalBridge": {
+    "primary": "Chinese",
+    "connections": [
+      "Comparison with Chinese lunar calendar",
+      "Similar lunisolar structure",
+      "Shared 19-year cycle concept",
+      "New moon celebrations",
+      "Agricultural seasonal connections"
+    ]
+  },
+  "practicalResources": [
+    {
+      "name": "Hebcal",
+      "url": "https://www.hebcal.com",
+      "type": "website",
+      "description": {
+        "en": "Free comprehensive Jewish calendar with customizable options",
+        "zh": "免费的综合犹太历,提供可定制选项",
+        "he": "לוח יהודי מקיף בחינם עם אפשרויות התאמה אישית"
+      }
+    },
+    {
+      "name": "Chabad.org Calendar",
+      "url": "https://www.chabad.org/calendar",
+      "type": "website",
+      "description": {
+        "en": "Full calendar with holiday guides and customs",
+        "zh": "完整的日历,包含节日指南和习俗",
+        "he": "לוח מלא עם מדריכי חגים ומנהגים"
+      }
+    },
+    {
+      "name": "MyZmanim",
+      "url": "https://www.myzmanim.com",
+      "type": "website",
+      "description": {
+        "en": "Precise halachic times for any location",
+        "zh": "任何地点的精确犹太律法时间",
+        "he": "זמנים הלכתיים מדויקים לכל מיקום"
+      }
+    }
+  ],
+  "relatedTopics": [
+    "shabbat-observance",
+    "jewish-holidays",
+    "rosh-hashanah",
+    "passover",
+    "hanukkah",
+    "jewish-prayer-times",
+    "torah-reading-cycle"
+  ],
+  "keyConcepts": [
+    {
+      "concept": "Lunisolar System",
+      "importance": "foundational",
+      "culturalParallel": "Chinese lunar calendar"
+    },
+    {
+      "concept": "19-Year Cycle",
+      "importance": "high",
+      "culturalParallel": "Chinese leap month system (闰月)"
+    },
+    {
+      "concept": "Rosh Chodesh",
+      "importance": "medium",
+      "culturalParallel": "New moon festivals"
+    },
+    {
+      "concept": "Sunset-to-Sunset Days",
+      "importance": "high",
+      "culturalParallel": "Different from Chinese midnight-based days"
+    },
+    {
+      "concept": "Hebrew Months",
+      "importance": "foundational",
+      "culturalParallel": "12/13 months like Chinese calendar"
+    }
+  ],
+  "practicalApplications": [
+    "Planning Jewish holidays",
+    "Tracking Hebrew birthdays",
+    "Understanding synagogue announcements",
+    "Coordinating with Shabbat times",
+    "Reading Hebrew dates on invitations",
+    "Following the Torah reading cycle",
+    "Observing Rosh Chodesh",
+    "Calculating leap years"
+  ],
+  "tags": [
+    "calendar",
+    "time",
+    "months",
+    "holidays",
+    "shabbat",
+    "rosh-chodesh",
+    "leap-year",
+    "chinese-comparison",
+    "beginner-friendly",
+    "practical-guide",
+    "cultural-bridge"
+  ],
+  "lastUpdated": "2026-03-20",
+  "version": "1.0",
+  "author": "Torah Light Content Team",
+  "contributors": [
+    "Cultural Bridge Initiative"
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "translations": {
+    "available": ["en", "zh", "he"],
+    "primary": "en"
+  },
+  "wordCount": {
+    "en": 5200,
+    "zh": 3100,
+    "he": 3500
+  },
+  "illustrations": {
+    "recommended": [
+      "Hebrew month cycle diagram",
+      "19-year cycle visualization",
+      "Comparison chart: Hebrew vs Chinese calendar",
+      "Hebrew numerals chart",
+      "Monthly zodiac symbols",
+      "Sunset-to-sunset day illustration"
+    ]
+  },
+  "interactiveSuggestions": [
+    "Hebrew date converter tool",
+    "Month name quiz",
+    "Leap year calculator",
+    "Candle lighting time widget",
+    "Hebrew numerals practice"
+  ],
+  "accessibility": {
+    "languageLevel": "intermediate",
+    "culturalSensitivity": "high",
+    "technicalComplexity": "medium",
+    "visualAids": "recommended"
+  }
+}

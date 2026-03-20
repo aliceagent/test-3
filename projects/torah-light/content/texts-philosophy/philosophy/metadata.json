@@ -1,0 +1,567 @@
+{
+  "title": {
+    "en": "Jewish Philosophy: The Eternal Dance Between Faith and Reason",
+    "he": "פילוסופיה יהודית: הריקוד הנצחי בין אמונה ושכל",
+    "zh": "犹太哲学：信仰与理性的永恒之舞"
+  },
+  "subtitle": {
+    "en": "From Medieval Giants to Modern Thinkers",
+    "he": "מענקי ימי הביניים ועד הוגים מודרניים",
+    "zh": "从中世纪巨匠到现代思想家"
+  },
+  "description": {
+    "en": "Explore Jewish philosophical thought from medieval giants like Maimonides and Saadia Gaon to modern thinkers, revealing how Jewish philosophers wrestled with timeless questions about God, free will, ethics, and the meaning of existence while integrating faith and reason.",
+    "he": "חקרו את המחשבה הפילוסופית היהודית מענקי ימי הביניים כמו מיימונידס וסעדיה גאון ועד להוגים מודרניים, המגלה כיצד פילוסופים יהודיים התמודדו עם שאלות נצחיות על אלוהים, רצון חופשי, אתיקה ומשמעות הקיום תוך שילוב אמונה ושכל.",
+    "zh": "探索从中世纪巨匠迈蒙尼德和萨迪亚·高翁到现代思想家的犹太哲学思想，揭示犹太哲学家如何在整合信仰与理性的同时，探讨关于上帝、自由意志、伦理和存在意义的永恒问题。"
+  },
+  "longDescription": {
+    "en": "Jewish philosophy represents one of humanity's most enduring intellectual traditions—a continuous conversation spanning over two millennia about the deepest questions of existence. This comprehensive guide explores the rich landscape of Jewish philosophical thought, from medieval luminaries like Saadia Gaon, Maimonides, Yehuda HaLevi, and Nachmanides to modern thinkers such as Rav Kook, Rabbi Soloveitchik, and the Lubavitcher Rebbe. Discover how Jewish thinkers reconciled divine revelation with human reason, addressed the problem of evil, defended free will, and developed sophisticated theories of prophecy and ethics. The article also explores Chassidic philosophy's emphasis on joy and divine immanence, the Mussar movement's focus on ethical perfection, and surprising parallels between Jewish and Chinese philosophical traditions.",
+    "he": "הפילוסופיה היהודית מייצגת את אחת המסורות האינטלקטואליות המתמשכות ביותר של האנושות - שיחה מתמשכת המשתרעת על פני למעלה מאלפיים שנה על השאלות העמוקות ביותר של הקיום. מדריך מקיף זה חוקר את הנוף העשיר של המחשבה הפילוסופית היהודית, מענקי ימי הביניים כמו סעדיה גאון, מיימונידס, יהודה הלוי ונחמנידס ועד להוגים מודרניים כמו הרב קוק, הרב סולובייצ'יק והרבי מלובביץ'. גלו כיצד הוגים יהודיים איחדו התגלות אלוהית עם שכל אנושי, התמודדו עם בעיית הרוע, הגנו על הרצון החופשי, ופיתחו תיאוריות מתוחכמות של נבואה ואתיקה. המאמר גם בוחן את הדגש של הפילוסופיה החסידית על שמחה ונוכחות אלוהית, את המיקוד של תנועת המוסר בשלמות אתית, ואת הקבלות המפתיעות בין המסורות הפילוסופיות היהודיות והסיניות.",
+    "zh": "犹太哲学代表了人类最持久的智识传统之一——一场跨越两千多年关于存在最深刻问题的持续对话。这本综合指南探索了犹太哲学思想的丰富景观，从中世纪的杰出人物如萨迪亚·高翁、迈蒙尼德、耶胡达·哈莱维和纳赫曼尼德，到现代思想家如拉夫·库克、索洛维契克拉比和卢巴维彻雷贝。了解犹太思想家如何调和神启与人类理性，如何应对邪恶问题，如何捍卫自由意志，以及如何发展复杂的预言和伦理理论。文章还探讨了哈西德哲学对喜悦和神圣内在的强调，穆萨尔运动对伦理完善的关注，以及犹太和中国哲学传统之间令人惊讶的相似之处。"
+  },
+  "category": "philosophy",
+  "subcategories": ["medieval-philosophy", "modern-philosophy", "chassidic-thought", "ethics", "theology"],
+  "tags": [
+    "philosophy",
+    "jewish-thought",
+    "faith-and-reason",
+    "maimonides",
+    "rambam",
+    "saadia-gaon",
+    "judah-halevi",
+    "nachmanides",
+    "ramban",
+    "chassidism",
+    "mussar",
+    "rav-kook",
+    "rabbi-soloveitchik",
+    "lubavitcher-rebbe",
+    "ethics",
+    "free-will",
+    "theodicy",
+    "prophecy",
+    "divine-attributes",
+    "god-existence",
+    "medieval-jewish-philosophy",
+    "modern-jewish-philosophy",
+    "existentialism",
+    "rationalism"
+  ],
+  "keywords": {
+    "en": [
+      "Jewish philosophy",
+      "Maimonides",
+      "Guide for the Perplexed",
+      "Saadia Gaon",
+      "Yehuda HaLevi",
+      "Kuzari",
+      "Nachmanides",
+      "faith and reason",
+      "divine attributes",
+      "negative theology",
+      "free will",
+      "theodicy",
+      "problem of evil",
+      "prophecy",
+      "Chassidism",
+      "Baal Shem Tov",
+      "Mussar movement",
+      "Rav Kook",
+      "Rabbi Soloveitchik",
+      "Lubavitcher Rebbe",
+      "medieval philosophy",
+      "modern Jewish thought",
+      "ethics",
+      "monotheism",
+      "Torah and wisdom"
+    ],
+    "he": [
+      "פילוסופיה יהודית",
+      "רמב״ם",
+      "מורה נבוכים",
+      "סעדיה גאון",
+      "יהודה הלוי",
+      "הכוזרי",
+      "רמב״ן",
+      "אמונה ושכל",
+      "תארי השם",
+      "תיאולוגיה שלילית",
+      "רצון חופשי",
+      "צדיק ורע לו",
+      "בעיית הרוע",
+      "נבואה",
+      "חסידות",
+      "בעל שם טוב",
+      "תנועת המוסר",
+      "הרב קוק",
+      "הרב סולובייצ׳יק",
+      "הרבי מלובביץ׳",
+      "פילוסופיה של ימי הביניים",
+      "מחשבה יהודית מודרנית",
+      "אתיקה",
+      "יחוד השם",
+      "תורה וחכמה"
+    ],
+    "zh": [
+      "犹太哲学",
+      "迈蒙尼德",
+      "迷途指津",
+      "萨迪亚·高翁",
+      "耶胡达·哈莱维",
+      "库扎里",
+      "纳赫曼尼德",
+      "信仰与理性",
+      "神圣属性",
+      "否定神学",
+      "自由意志",
+      "神义论",
+      "恶的问题",
+      "预言",
+      "哈西德主义",
+      "巴尔·谢姆·托夫",
+      "穆萨尔运动",
+      "拉夫·库克",
+      "索洛维契克拉比",
+      "卢巴维彻雷贝",
+      "中世纪哲学",
+      "现代犹太思想",
+      "伦理学",
+      "一神论",
+      "托拉与智慧"
+    ]
+  },
+  "author": "Torah Light",
+  "contributors": [],
+  "dateCreated": "2026-03-20",
+  "dateModified": "2026-03-20",
+  "version": "1.0",
+  "readingTime": {
+    "en": 35,
+    "he": 35,
+    "zh": 35,
+    "minutes": 35
+  },
+  "wordCount": {
+    "en": 8750,
+    "he": 0,
+    "zh": 0
+  },
+  "difficulty": {
+    "level": "intermediate",
+    "description": {
+      "en": "Suitable for readers with basic knowledge of Judaism who want to explore philosophical dimensions. Some familiarity with philosophical concepts helpful but not required.",
+      "he": "מתאים לקוראים עם ידע בסיסי ביהדות המעוניינים לחקור ממדים פילוסופיים. היכרות מסוימת עם מושגים פילוסופיים מועילה אך לא נדרשת.",
+      "zh": "适合具有基本犹太教知识、希望探索哲学层面的读者。对哲学概念有一定了解会有帮助但非必需。"
+    }
+  },
+  "prerequisites": {
+    "en": [
+      "Basic understanding of Judaism and Jewish texts",
+      "Familiarity with general philosophical questions (optional)",
+      "Interest in the relationship between faith and reason"
+    ],
+    "he": [
+      "הבנה בסיסית של היהדות וטקסטים יהודיים",
+      "היכרות עם שאלות פילוסופיות כלליות (אופציונלי)",
+      "עניין במערכת היחסים בין אמונה ושכל"
+    ],
+    "zh": [
+      "对犹太教和犹太文本有基本了解",
+      "熟悉一般哲学问题（可选）",
+      "对信仰与理性关系感兴趣"
+    ]
+  },
+  "learningObjectives": {
+    "en": [
+      "Understand the major periods and figures in Jewish philosophical thought",
+      "Explore how Jewish thinkers integrated faith and reason",
+      "Learn about key philosophical debates: God's existence, free will, theodicy, prophecy",
+      "Discover Maimonides' approach to divine attributes and the Guide for the Perplexed",
+      "Understand Saadia Gaon's pioneering rationalism and classification of commandments",
+      "Explore Yehuda HaLevi's defense of Jewish tradition and historical revelation",
+      "Learn about Chassidic philosophy's emphasis on joy, divine immanence, and spiritual elevation",
+      "Understand the Mussar movement's approach to ethical self-improvement",
+      "Discover modern Jewish philosophical responses to modernity from Rav Kook, Rabbi Soloveitchik, and the Lubavitcher Rebbe",
+      "Explore surprising parallels between Jewish and Chinese philosophical traditions",
+      "Develop appreciation for how Jewish philosophy remains relevant to contemporary questions"
+    ],
+    "he": [
+      "הבנת התקופות והדמויות המרכזיות במחשבה הפילוסופית היהודית",
+      "חקירת האופן שבו הוגים יהודיים שילבו אמונה ושכל",
+      "למידה על דיונים פילוסופיים מרכזיים: קיום אלוהים, רצון חופשי, צדיק ורע לו, נבואה",
+      "גילוי גישתו של הרמב״ם לתארי השם ולמורה נבוכים",
+      "הבנת הרציונליזם החלוצי של סעדיה גאון וסיווג המצוות",
+      "חקירת הגנתו של יהודה הלוי על המסורת היהודית והגילוי ההיסטורי",
+      "למידה על הדגש של הפילוסופיה החסידית על שמחה, נוכחות אלוהית והתעלות רוחנית",
+      "הבנת גישת תנועת המוסר לשיפור עצמי אתי",
+      "גילוי תגובות פילוסופיות יהודיות מודרניות למודרניות מהרב קוק, הרב סולובייצ׳יק והרבי מלובביץ׳",
+      "חקירת הקבלות מפתיעות בין המסורות הפילוסופיות היהודיות והסיניות",
+      "פיתוח הערכה לאופן שבו הפילוסופיה היהודית נשארת רלוונטית לשאלות עכשוויות"
+    ],
+    "zh": [
+      "了解犹太哲学思想的主要时期和人物",
+      "探索犹太思想家如何整合信仰与理性",
+      "学习关键的哲学辩论：上帝的存在、自由意志、神义论、预言",
+      "发现迈蒙尼德对神圣属性和《迷途指津》的方法",
+      "理解萨迪亚·高翁的开创性理性主义和诫命分类",
+      "探索耶胡达·哈莱维对犹太传统和历史启示的辩护",
+      "学习哈西德哲学对喜悦、神圣内在和精神提升的强调",
+      "理解穆萨尔运动的伦理自我完善方法",
+      "发现拉夫·库克、索洛维契克拉比和卢巴维彻雷贝对现代性的现代犹太哲学回应",
+      "探索犹太和中国哲学传统之间令人惊讶的相似之处",
+      "培养对犹太哲学如何与当代问题保持相关性的认识"
+    ]
+  },
+  "keyFigures": {
+    "medieval": [
+      {
+        "name": "Saadia Gaon",
+        "nameHe": "סעדיה גאון",
+        "nameZh": "萨迪亚·高翁",
+        "years": "882-942",
+        "contribution": "Pioneer of Jewish rationalism; wrote first systematic Jewish philosophy",
+        "majorWork": "Emunot v'Deot (Book of Beliefs and Opinions)"
+      },
+      {
+        "name": "Maimonides (Rambam)",
+        "nameHe": "רמב״ם (משה בן מיימון)",
+        "nameZh": "迈蒙尼德",
+        "years": "1138-1204",
+        "contribution": "Greatest synthesizer of Aristotelian philosophy and Torah; developed negative theology",
+        "majorWork": "Moreh Nevuchim (Guide for the Perplexed)"
+      },
+      {
+        "name": "Yehuda HaLevi",
+        "nameHe": "יהודה הלוי",
+        "nameZh": "耶胡达·哈莱维",
+        "years": "c. 1075-1141",
+        "contribution": "Defended Jewish tradition against pure rationalism; emphasized historical revelation",
+        "majorWork": "Sefer HaKuzari (The Book of the Kuzari)"
+      },
+      {
+        "name": "Nachmanides (Ramban)",
+        "nameHe": "רמב״ן (משה בן נחמן)",
+        "nameZh": "纳赫曼尼德",
+        "years": "1194-1270",
+        "contribution": "Integrated mysticism with philosophy; traditionalist response to rationalism",
+        "majorWork": "Commentary on the Torah"
+      }
+    ],
+    "chassidic": [
+      {
+        "name": "Baal Shem Tov",
+        "nameHe": "בעל שם טוב",
+        "nameZh": "巴尔·谢姆·托夫",
+        "years": "c. 1700-1760",
+        "contribution": "Founded Chassidism; emphasized joy, divine immanence, and accessible spirituality",
+        "majorWork": "Oral teachings (recorded by disciples)"
+      }
+    ],
+    "mussar": [
+      {
+        "name": "Rabbi Israel Salanter",
+        "nameHe": "רבי ישראל סלנטר",
+        "nameZh": "伊斯雷尔·萨兰特拉比",
+        "years": "1809-1883",
+        "contribution": "Founded Mussar movement; systematic ethical self-improvement",
+        "majorWork": "Or Yisrael (Light of Israel)"
+      }
+    ],
+    "modern": [
+      {
+        "name": "Rabbi Abraham Isaac Kook",
+        "nameHe": "הרב אברהם יצחק הכהן קוק",
+        "nameZh": "亚伯拉罕·伊萨克·库克拉比",
+        "years": "1865-1935",
+        "contribution": "Mystical universalism; saw secular movements as part of redemptive process",
+        "majorWork": "Orot (Lights)"
+      },
+      {
+        "name": "Rabbi Joseph B. Soloveitchik",
+        "nameHe": "הרב יוסף דוב סולובייצ׳יק",
+        "nameZh": "约瑟夫·B·索洛维契克拉比",
+        "years": "1903-1993",
+        "contribution": "Existential approach to halakha; dialectical understanding of religious personality",
+        "majorWork": "Halakhic Man; The Lonely Man of Faith"
+      },
+      {
+        "name": "The Lubavitcher Rebbe",
+        "nameHe": "הרבי מלובביץ׳",
+        "nameZh": "卢巴维彻雷贝",
+        "years": "1902-1994",
+        "contribution": "Chassidic philosophy for modern age; emphasis on purpose and practical action",
+        "majorWork": "Likkutei Sichos (Collected Talks)"
+      }
+    ]
+  },
+  "keyConcepts": {
+    "en": [
+      "Faith and Reason - The integration of revelation and rational inquiry",
+      "Divine Attributes - How to speak about God's characteristics while preserving unity",
+      "Negative Theology - Describing God by what He is not",
+      "Free Will - Human choice in light of divine omniscience",
+      "Theodicy - The problem of evil and divine justice",
+      "Prophecy - Divine communication with humans",
+      "Creation ex nihilo - Creation from nothing",
+      "Divine Providence - God's involvement in the world",
+      "The Soul and Afterlife - Human immortality and resurrection",
+      "Purpose of Commandments - Rational meanings of mitzvot",
+      "Divine Immanence - God's presence in all creation",
+      "Devekut - Cleaving to God",
+      "Divine Sparks - Holy potential in physical reality",
+      "Tzaddik - Righteous leader as spiritual intermediary",
+      "Mussar - Ethical character development"
+    ],
+    "he": [
+      "אמונה ושכל - שילוב התגלות וחקירה רציונלית",
+      "תארי השם - כיצד לדבר על תכונות ה׳ תוך שמירה על היחוד",
+      "תיאולוגיה שלילית - תיאור ה׳ על ידי מה שהוא אינו",
+      "רצון חופשי - בחירה אנושית לאור הכל-ידיעה האלוהית",
+      "צדיק ורע לו - בעיית הרוע והצדק האלוהי",
+      "נבואה - תקשורת אלוהית עם בני אדם",
+      "בריאה יש מאין - בריאה מאין",
+      "השגחה פרטית - מעורבות ה׳ בעולם",
+      "הנשמה והעולם הבא - אלמוות אנושי ותחיית המתים",
+      "טעמי המצוות - משמעויות רציונליות של מצוות",
+      "שכינה בכל - נוכחות ה׳ בכל הבריאה",
+      "דבקות - התדבקות בה׳",
+      "ניצוצות הקדושה - פוטנציאל קדוש במציאות הפיזית",
+      "צדיק - מנהיג צדיק כמתווך רוחני",
+      "מוסר - פיתוח אופי אתי"
+    ],
+    "zh": [
+      "信仰与理性 - 启示与理性探究的整合",
+      "神圣属性 - 如何在保持统一性的同时谈论上帝的特征",
+      "否定神学 - 通过描述上帝不是什么来描述上帝",
+      "自由意志 - 在神圣全知的背景下的人类选择",
+      "神义论 - 恶的问题和神圣正义",
+      "预言 - 上帝与人类的沟通",
+      "从无创造 - 从无到有的创造",
+      "神圣护佑 - 上帝对世界的参与",
+      "灵魂与来世 - 人类不朽和复活",
+      "诫命的目的 - 诫命的理性意义",
+      "神圣内在 - 上帝在所有创造中的存在",
+      "附着 - 依附于上帝",
+      "神圣火花 - 物质现实中的神圣潜力",
+      "义人 - 作为精神中介的正义领袖",
+      "穆萨尔 - 伦理品格发展"
+    ]
+  },
+  "majorQuestions": {
+    "en": [
+      "Can God's existence be proven through reason?",
+      "How do we reconcile free will with divine omniscience?",
+      "Why do the righteous suffer and the wicked prosper?",
+      "What is the nature of prophecy and revelation?",
+      "How can we speak about an infinite God with finite language?",
+      "What is the relationship between revealed and rational commandments?",
+      "What is the purpose of human existence?",
+      "How do faith and reason complement each other?",
+      "What is the soul and what happens after death?",
+      "How does God relate to the created world?"
+    ],
+    "he": [
+      "האם ניתן להוכיח את קיום ה׳ באמצעות השכל?",
+      "כיצד מאחדים בין רצון חופשי להכל-ידיעה האלוהית?",
+      "מדוע הצדיקים סובלים והרשעים משגשגים?",
+      "מהי טבעה של הנבואה וההתגלות?",
+      "כיצד ניתן לדבר על אלוהים אינסופי בשפה סופית?",
+      "מהי מערכת היחסים בין מצוות מגולות ורציונליות?",
+      "מה מטרת הקיום האנושי?",
+      "כיצד אמונה ושכל משלימים זה את זה?",
+      "מהי הנשמה ומה קורה לאחר המוות?",
+      "כיצד ה׳ מתייחס לעולם הנברא?"
+    ],
+    "zh": [
+      "能否通过理性证明上帝的存在？",
+      "如何调和自由意志与神圣全知？",
+      "为什么义人受苦而恶人繁荣？",
+      "预言和启示的本质是什么？",
+      "如何用有限的语言谈论无限的上帝？",
+      "启示的诫命与理性的诫命之间的关系是什么？",
+      "人类存在的目的是什么？",
+      "信仰和理性如何相互补充？",
+      "灵魂是什么，死后会发生什么？",
+      "上帝如何与被创造的世界相关？"
+    ]
+  },
+  "relatedArticles": [
+    {
+      "id": "torah-study",
+      "title": "Torah Study & Learning",
+      "relevance": "Methods and meaning of Jewish textual study"
+    },
+    {
+      "id": "kabbalah-mysticism",
+      "title": "Kabbalah & Mysticism",
+      "relevance": "The esoteric dimension of Jewish thought"
+    },
+    {
+      "id": "mussar-movement",
+      "title": "Mussar Movement",
+      "relevance": "Ethical self-development in Jewish tradition"
+    },
+    {
+      "id": "jewish-ethics",
+      "title": "Jewish Ethics",
+      "relevance": "Practical moral guidance from Jewish sources"
+    },
+    {
+      "id": "maimonides-thirteen-principles",
+      "title": "Maimonides' Thirteen Principles",
+      "relevance": "Core beliefs of Judaism"
+    },
+    {
+      "id": "free-will-judaism",
+      "title": "Free Will in Judaism",
+      "relevance": "Deep dive into the free will debate"
+    },
+    {
+      "id": "theodicy-jewish-thought",
+      "title": "Theodicy in Jewish Thought",
+      "relevance": "Wrestling with the problem of evil"
+    }
+  ],
+  "culturalConnections": {
+    "chinese": {
+      "parallels": [
+        "Virtue ethics and character development (Confucian ren/yi vs Jewish chesed/tzedek)",
+        "Family-centered ethics (filial piety vs honoring parents)",
+        "Study as transformative practice (Confucian junzi vs Torah scholar)",
+        "Balance and moderation (Middle Way vs golden mean)",
+        "This-worldly ethical focus",
+        "Ineffable ultimate reality (Tao vs divine simplicity)",
+        "Natural wisdom (wu wei vs bittul)"
+      ],
+      "differences": [
+        "Revealed law (halakha) vs natural virtue (li)",
+        "Personal covenantal God vs impersonal Heaven/Tao",
+        "Prophetic tradition vs observational wisdom",
+        "Linear redemptive history vs cyclical natural patterns"
+      ]
+    }
+  },
+  "studyGuide": {
+    "beginners": {
+      "en": "Start with the introduction and the sections on 'What is Jewish Philosophy?' and 'The Medieval Giants.' Focus on understanding the basic tension between faith and reason and getting to know Maimonides and Saadia Gaon.",
+      "he": "התחילו עם המבוא והסעיפים על 'מהי פילוסופיה יהודית?' ו'ענקי ימי הביניים'. התמקדו בהבנת המתח הבסיסי בין אמונה ושכל ובהכרת הרמב״ם וסעדיה גאון.",
+      "zh": "从引言以及"什么是犹太哲学？"和"中世纪巨匠"部分开始。专注于理解信仰与理性之间的基本张力，并了解迈蒙尼德和萨迪亚·高翁。"
+    },
+    "intermediate": {
+      "en": "Read the entire article, paying special attention to the 'Key Philosophical Questions' section. Try to understand the different approaches to free will, theodicy, and prophecy. Compare medieval and modern thinkers.",
+      "he": "קראו את כל המאמר, תוך הקדשת תשומת לב מיוחדת לסעיף 'שאלות פילוסופיות מרכזיות'. נסו להבין את הגישות השונות לרצון חופשי, צדיק ורע לו ונבואה. השוו הוגים מימי הביניים ומודרניים.",
+      "zh": "阅读整篇文章，特别注意"犹太思想中的关键哲学问题"部分。试图理解对自由意志、神义论和预言的不同方法。比较中世纪和现代思想家。"
+    },
+    "advanced": {
+      "en": "Use this article as a foundation to explore primary sources mentioned (Guide for the Perplexed, Kuzari, etc.). Consider the critiques of each position and develop your own synthesis. Explore the Chinese philosophy parallels in depth.",
+      "he": "השתמשו במאמר זה כבסיס לחקירת המקורות הראשוניים המוזכרים (מורה נבוכים, הכוזרי וכו׳). שקלו את הביקורות על כל עמדה ופתחו סינתזה משלכם. חקרו לעומק את הקבלות לפילוסופיה הסינית.",
+      "zh": "使用本文作为探索所提及的主要来源（《迷途指津》、《库扎里》等）的基础。考虑每个立场的批评并发展自己的综合。深入探索与中国哲学的相似之处。"
+    }
+  },
+  "discussionQuestions": {
+    "en": [
+      "Do you think faith and reason can truly be reconciled, or must one ultimately take precedence?",
+      "Which approach do you find more compelling: Maimonides' rationalism or HaLevi's emphasis on tradition and experience?",
+      "How does the Jewish philosophical approach to theodicy (the problem of evil) compare to approaches from other traditions you know?",
+      "What relevance do medieval philosophical debates have for contemporary spiritual seekers?",
+      "How do Chassidic and Mussar movements complement or contrast with classical philosophical approaches?",
+      "What can modern secular philosophy learn from Jewish philosophical tradition?",
+      "Do the parallels between Jewish and Chinese philosophy suggest universal human insights, or are they coincidental?",
+      "How would you personally reconcile free will with divine omniscience?"
+    ],
+    "he": [
+      "האם אתם חושבים שניתן באמת ליישב אמונה ושכל, או שאחד חייב בסופו של דבר לקחת עדיפות?",
+      "איזו גישה נראית לכם משכנעת יותר: הרציונליזם של הרמב״ם או ההדגשה של הלוי על מסורת וחוויה?",
+      "כיצד הגישה הפילוסופית היהודית לצדיק ורע לו (בעיית הרוע) משתווה לגישות ממסורות אחרות שאתם מכירים?",
+      "איזו רלוונטיות יש לדיונים פילוסופיים מימי הביניים למחפשי רוחניות עכשוויים?",
+      "כיצד תנועות החסידות והמוסר משלימות או מנוגדות לגישות פילוסופיות קלאסיות?",
+      "מה הפילוסופיה החילונית המודרנית יכולה ללמוד מהמסורת הפילוסופית היהודית?",
+      "האם הקבלות בין הפילוסופיה היהודית והסינית מצביעות על תובנות אנושיות אוניברסליות, או שהן מקריות?",
+      "כיצד הייתם מיישבים באופן אישי רצון חופשי עם הכל-ידיעה האלוהית?"
+    ],
+    "zh": [
+      "你认为信仰和理性真的能够调和吗，还是其中一个最终必须占据主导地位？",
+      "你觉得哪种方法更有说服力：迈蒙尼德的理性主义还是哈莱维对传统和经验的强调？",
+      "犹太哲学对神义论（恶的问题）的处理方法与你所知的其他传统的方法相比如何？",
+      "中世纪哲学辩论对当代精神追求者有何相关性？",
+      "哈西德和穆萨尔运动如何补充或对比经典哲学方法？",
+      "现代世俗哲学可以从犹太哲学传统中学到什么？",
+      "犹太和中国哲学之间的相似之处是否表明普遍的人类洞察力，还是巧合？",
+      "你个人会如何调和自由意志与神圣全知？"
+    ]
+  },
+  "additionalResources": {
+    "primarySources": [
+      "Maimonides - Guide for the Perplexed",
+      "Saadia Gaon - Book of Beliefs and Opinions",
+      "Yehuda HaLevi - The Kuzari",
+      "Rabbi Soloveitchik - Halakhic Man",
+      "Rabbi Soloveitchik - The Lonely Man of Faith",
+      "Rav Kook - Orot (Lights)"
+    ],
+    "secondarySources": [
+      "Julius Guttmann - Philosophies of Judaism",
+      "Daniel H. Frank & Oliver Leaman - History of Jewish Philosophy",
+      "Menachem Kellner - Maimonides on Judaism and the Jewish People",
+      "Arthur Green - Radical Judaism",
+      "Tamar Ross - Expanding the Palace of Torah"
+    ]
+  },
+  "featured": true,
+  "publicationStatus": "published",
+  "language": {
+    "primary": "en",
+    "available": ["en", "he", "zh"],
+    "translations": {
+      "he": {
+        "status": "pending",
+        "percentage": 0
+      },
+      "zh": {
+        "status": "pending",
+        "percentage": 0
+      }
+    }
+  },
+  "accessibility": {
+    "hasAudioVersion": false,
+    "hasVisualAids": false,
+    "readabilityScore": "intermediate"
+  },
+  "seo": {
+    "metaTitle": {
+      "en": "Jewish Philosophy: Faith and Reason | Torah Light",
+      "he": "פילוסופיה יהודית: אמונה ושכל | אור תורה",
+      "zh": "犹太哲学：信仰与理性 | 托拉之光"
+    },
+    "metaDescription": {
+      "en": "Comprehensive guide to Jewish philosophy from Maimonides to modern thinkers. Explore faith and reason, free will, theodicy, and the wisdom tradition spanning 2000 years.",
+      "he": "מדריך מקיף לפילוסופיה יהודית מהרמב״ם ועד הוגים מודרניים. חקרו אמונה ושכל, רצון חופשי, צדיק ורע לו ומסורת החכמה לאורך 2000 שנה.",
+      "zh": "从迈蒙尼德到现代思想家的犹太哲学综合指南。探索跨越2000年的信仰与理性、自由意志、神义论和智慧传统。"
+    },
+    "canonicalUrl": "/texts-philosophy/philosophy",
+    "socialImage": "/images/philosophy-banner.jpg"
+  },
+  "engagement": {
+    "estimatedCompletionTime": "35-45 minutes",
+    "recommendedFollowUp": [
+      "mussar-movement",
+      "kabbalah-mysticism",
+      "maimonides-thirteen-principles"
+    ],
+    "practicalApplications": [
+      "Reflect on how you personally balance faith and reason in your life",
+      "Try a Mussar practice: choose one character trait to work on for a week",
+      "Study one of Maimonides' Thirteen Principles in depth",
+      "Explore Chassidic teachings on finding joy in spiritual practice",
+      "Compare Jewish philosophical concepts with philosophy from your own background"
+    ]
+  },
+  "contentWarnings": [],
+  "reviews": [],
+  "citations": {
+    "style": "narrative with inline references",
+    "hasBibliography": true,
+    "isPeerReviewed": false
+  }
+}

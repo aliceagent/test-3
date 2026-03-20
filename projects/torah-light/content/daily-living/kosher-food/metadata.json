@@ -1,0 +1,87 @@
+{
+  "title": {
+    "en": "Keeping Kosher: A Complete Guide to Jewish Dietary Laws",
+    "he": "שמירת כשרות: מדריך מקיף לדיני כשרות במזון",
+    "zh": "遵守犹太教饮食法：犹太饮食法完整指南"
+  },
+  "description": {
+    "en": "A comprehensive guide to kashrut (Jewish dietary laws), covering kosher animals, meat and dairy separation, setting up a kosher kitchen, checking for bugs, kosher certification, and maintaining kosher standards in China.",
+    "he": "מדריך מקיף לכשרות (דיני מזון יהודיים), המכסה בעלי חיים כשרים, הפרדת בשר וחלב, הקמת מטבח כשר, בדיקה לחרקים, הכשר כשרות, ושמירת תקני כשרות בסין.",
+    "zh": "关于犹太洁食法规（Kashrut）的综合指南，涵盖洁食动物、肉类和乳制品分离、建立洁食厨房、检查虫子、洁食认证以及在中国保持洁食标准。"
+  },
+  "category": "daily-living",
+  "subcategory": "kosher-food",
+  "tags": ["kashrut", "kosher", "dietary-laws", "meat-dairy-separation", "kosher-kitchen", "shechitah", "kosher-certification", "china", "jewish-practice"],
+  "difficulty": "beginner-to-intermediate",
+  "readingTime": {
+    "en": 45,
+    "he": 45,
+    "zh": 45
+  },
+  "lastUpdated": "2026-03-20",
+  "author": "Torah Light Content Team",
+  "languages": ["en", "he", "zh"],
+  "relatedArticles": [
+    "daily-living/shabbat-observance",
+    "daily-living/prayer-tefilah",
+    "jewish-year/passover-pesach"
+  ],
+  "keyPoints": {
+    "en": [
+      "Kashrut is about holiness, mindfulness, and Jewish identity, not just health",
+      "Kosher land animals must have split hooves and chew their cud",
+      "Kosher fish must have both fins and removable scales",
+      "Meat and dairy must be completely separated in cooking, eating, and utensils",
+      "Setting up a kosher kitchen requires two complete sets of dishes and cookware",
+      "Checking produce for insects is a crucial part of keeping kosher",
+      "Kosher certification ensures products meet Jewish dietary standards",
+      "Living kosher in China is possible with planning, Chabad resources, and community support"
+    ],
+    "he": [
+      "הכשרות עוסקת בקדושה, מודעות וזהות יהודית, לא רק בבריאות",
+      "בעלי חיים יבשתיים כשרים חייבים להיות בעלי פרסות מפולשות ולהעלות גרה",
+      "דגים כשרים חייבים להיות בעלי סנפירים וקשקשים הניתנים להסרה",
+      "בשר וחלב חייבים להיות מופרדים לחלוטין בבישול, אכילה וכלים",
+      "הקמת מטבח כשר דורשת שתי מערכות שלמות של כלים וסירים",
+      "בדיקת תוצרת לחרקים היא חלק מכריע בשמירת כשרות",
+      "הכשר כשרות מבטיח שמוצרים עומדים בתקני מזון יהודיים",
+      "חיים כשרים בסין אפשריים עם תכנון, משאבי חב\"ד, ותמיכת קהילה"
+    ],
+    "zh": [
+      "洁食法关乎圣洁、正念和犹太身份认同，而不仅仅是健康",
+      "洁食的陆地动物必须有分蹄并且反刍",
+      "洁食的鱼类必须同时具有鳍和可移除的鳞片",
+      "肉类和乳制品在烹饪、食用和器具上必须完全分离",
+      "建立洁食厨房需要两套完整的餐具和炊具",
+      "检查农产品中的虫子是遵守洁食法的关键部分",
+      "洁食认证确保产品符合犹太饮食标准",
+      "通过规划、Chabad资源和社区支持，在中国遵守洁食法是可能的"
+    ]
+  },
+  "practicalTakeaways": {
+    "en": [
+      "Start gradually: remove non-kosher items, then add certification, then separate meat and dairy",
+      "Connect with your local Chabad house for kosher food sources and community support",
+      "Learn to read kosher symbols (OU, OK, Star-K, Kof-K) on packaged products",
+      "In China, stock up on certified products when visiting major cities or Hong Kong",
+      "Make simple homemade versions of Chinese staples (dumpling wrappers, noodles) to ensure kashrut",
+      "Join WeChat groups and online communities to share resources with other kosher-keepers in China"
+    ],
+    "he": [
+      "התחל בהדרגה: הסר פריטים לא כשרים, אז הוסף הכשר, אז הפרד בשר וחלב",
+      "התחבר לבית חב\"ד המקומי למקורות מזון כשר ותמיכת קהילה",
+      "למד לקרוא סמלי כשרות (OU, OK, Star-K, Kof-K) על מוצרים ארוזים",
+      "בסין, התמלא במלאי של מוצרים מוכשרים בביקור בערים גדולות או בהונג קונג",
+      "עשה גרסאות ביתיות פשוטות של יסודות סיניים (עטיפות דמפלינג, אטריות) כדי להבטיח כשרות",
+      "הצטרף לקבוצות WeChat וקהילות מקוונות לשיתוף משאבים עם שומרי כשרות אחרים בסין"
+    ],
+    "zh": [
+      "逐步开始：移除非洁食物品，然后添加认证产品，再分离肉类和乳制品",
+      "联系当地的Chabad会所获取洁食来源和社区支持",
+      "学习阅读包装产品上的洁食认证符号（OU、OK、Star-K、Kof-K）",
+      "在中国，访问大城市或香港时储备认证产品",
+      "自制简单版本的中国主食（饺子皮、面条）以确保符合洁食法",
+      "加入微信群和在线社区，与中国其他遵守洁食法的人分享资源"
+    ]
+  }
+}

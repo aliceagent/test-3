@@ -1,0 +1,153 @@
+{
+  "title": {
+    "en": "Jewish Texts: A Comprehensive Guide",
+    "zh": "犹太经典:综合指南",
+    "he": "טקסטים יהודיים: מדריך מקיף"
+  },
+  "description": {
+    "en": "An in-depth exploration of the Jewish textual tradition, from the Written Torah through Talmud, medieval commentaries, legal codes, Kabbalah, and modern responsa literature.",
+    "zh": "深入探索犹太文本传统,从成文妥拉到塔木德、中世纪注释、律法典籍、卡巴拉和现代应答文学。",
+    "he": "חקירה מעמיקה של המסורת הטקסטואלית היהודית, מהתורה שבכתב דרך התלמוד, פירושי ימי הביניים, קודים הלכתיים, קבלה וספרות שו\"ת מודרנית."
+  },
+  "category": "texts-philosophy",
+  "subcategory": "jewish-texts",
+  "tags": [
+    "Torah",
+    "Tanakh",
+    "Talmud",
+    "Mishna",
+    "Gemara",
+    "Midrash",
+    "Rashi",
+    "Ramban",
+    "Commentaries",
+    "Halacha",
+    "Shulchan Aruch",
+    "Kabbalah",
+    "Zohar",
+    "Responsa",
+    "Jewish Learning",
+    "Study Methods"
+  ],
+  "languages": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "wordCount": {
+    "en": 5900,
+    "zh": 4200,
+    "he": 4800
+  },
+  "readingTime": {
+    "en": "25-30 minutes",
+    "zh": "20-25 minutes",
+    "he": "20-25 minutes"
+  },
+  "difficulty": "intermediate",
+  "targetAudience": [
+    "beginners",
+    "intermediate learners",
+    "students",
+    "educators",
+    "those interested in Jewish tradition"
+  ],
+  "resources": [
+    {
+      "name": "Sefaria",
+      "url": "https://www.sefaria.org",
+      "description": {
+        "en": "Free online library of Jewish texts with translations",
+        "zh": "免费在线犹太经典图书馆,附带翻译",
+        "he": "ספרייה מקוונת חינמית של טקסטים יהודיים עם תרגומים"
+      }
+    },
+    {
+      "name": "Chabad.org",
+      "url": "https://www.chabad.org",
+      "description": {
+        "en": "Jewish learning resources, articles, and media",
+        "zh": "犹太学习资源、文章和媒体",
+        "he": "משאבי לימוד יהודיים, מאמרים ומדיה"
+      }
+    },
+    {
+      "name": "ArtScroll",
+      "url": "https://www.artscroll.com",
+      "description": {
+        "en": "Publisher of English translations of Jewish texts",
+        "zh": "犹太经典英文翻译出版商",
+        "he": "מוציא לאור של תרגומים לאנגלית של טקסטים יהודיים"
+      }
+    }
+  ],
+  "keyTopics": [
+    {
+      "topic": "Written Torah",
+      "sections": {
+        "en": ["Torah", "Nevi'im", "Ketuvim"],
+        "zh": ["妥拉", "先知书", "圣录"],
+        "he": ["תורה", "נביאים", "כתובים"]
+      }
+    },
+    {
+      "topic": "Oral Torah",
+      "sections": {
+        "en": ["Mishna", "Gemara", "Talmud"],
+        "zh": ["密西拿", "革马拉", "塔木德"],
+        "he": ["משנה", "גמרא", "תלמוד"]
+      }
+    },
+    {
+      "topic": "Medieval Commentaries",
+      "sections": {
+        "en": ["Rashi", "Tosafot", "Ramban", "Ibn Ezra", "Radak"],
+        "zh": ["拉希", "托萨弗特", "兰班", "伊本·以斯拉", "拉达克"],
+        "he": ["רש\"י", "תוספות", "רמב\"ן", "אבן עזרא", "רד\"ק"]
+      }
+    },
+    {
+      "topic": "Legal Codes",
+      "sections": {
+        "en": ["Mishneh Torah", "Shulchan Aruch", "Mishnah Berurah"],
+        "zh": ["密西拿妥拉", "备好的桌子", "密西拿·贝如拉"],
+        "he": ["משנה תורה", "שולחן ערוך", "משנה ברורה"]
+      }
+    },
+    {
+      "topic": "Mysticism",
+      "sections": {
+        "en": ["Zohar", "Lurianic Kabbalah", "Chassidic Works"],
+        "zh": ["光辉之书", "卢里亚卡巴拉", "哈西德作品"],
+        "he": ["זוהר", "קבלת האר\"י", "ספרות חסידית"]
+      }
+    }
+  ],
+  "studyGuidance": {
+    "en": "This article provides a comprehensive overview suitable for those new to Jewish texts. Begin with the sections on Written Torah and progress through Oral Torah before exploring commentaries and codes. The section on navigating texts offers practical guidance for hands-on study.",
+    "zh": "本文为初学犹太经典者提供了全面的概述。从成文妥拉部分开始,然后学习口传妥拉,再探索注释和法典。关于导航文本的部分提供了实际学习的实用指导。",
+    "he": "מאמר זה מספק סקירה מקיפה המתאימה למי שחדש לטקסטים יהודיים. התחל עם הסעיפים על התורה שבכתב והתקדם דרך התורה שבעל פה לפני חקירת פירושים וקודים. הסעיף על ניווט בטקסטים מציע הדרכה מעשית ללימוד מעשי."
+  },
+  "prerequisites": "None - suitable for beginners",
+  "relatedArticles": [
+    "torah-commentary-methods",
+    "talmud-study-introduction",
+    "kabbalah-overview",
+    "jewish-law-development"
+  ],
+  "author": {
+    "name": "Torah Light Project",
+    "organization": "Torah Light"
+  },
+  "dateCreated": "2026-03-20",
+  "lastUpdated": "2026-03-20",
+  "version": "1.0",
+  "license": "CC BY-NC-SA 4.0",
+  "contentType": "educational-article",
+  "format": "markdown",
+  "accessibility": {
+    "screenReaderFriendly": true,
+    "transliterations": "included where relevant",
+    "hebrewText": "included with translations"
+  }
+}

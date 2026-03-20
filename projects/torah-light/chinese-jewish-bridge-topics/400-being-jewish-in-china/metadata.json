@@ -1,14 +1,22 @@
 {
-  "id": 400,
+  "article": 400,
   "slug": "being-jewish-in-china",
-  "title": "Being Jewish in China: A Practical Survival Guide",
-  "title_zh": "在中国做犹太人:实用生存指南",
-  "title_he": "לחיות כיהודי בסין: מדריך הישרדות מעשי",
-  "section": "chinese-jewish-bridge-topics",
-  "finale": true,
-  "description": "The complete guide to living as an observant Jew in China — Shabbat, kashrut, holidays, finding community, raising children, and navigating cultural differences.",
   "languages": ["en", "zh", "he"],
-  "words_en": 4700,
-  "complete": true,
-  "created": "2026-03-20"
+  "title": {
+    "en": "Being Jewish in China: A Practical Survival Guide",
+    "zh": "在中国做犹太人：实用生存指南",
+    "he": "להיות יהודי בסין: מדריך הישרדות מעשי"
+  },
+  "summary": {
+    "en": "A comprehensive guide for navigating and thriving as an observant Jew living in China, balancing tradition, community, and local realities.",
+    "zh": "一份为在中国生活的犹太人量身打造的实用指南，涵盖传统、社群与在地现实。",
+    "he": "מדריך מקיף לחיים ולשגשוג כיהודי שומר מצוות בסין—שמירה על מסורת, קהילה ומפגש עם המציאות המקומית."
+  },
+  "tags": ["China", "Jewish Life", "Survival Guide", "Diaspora", "Kashrut", "Shabbat", "Community", "Holidays", "Expat", "Cultural Exchange"],
+  "series": "Torah Light Chinese Jewish Bridge Topics",
+  "number": 400,
+  "final_article": true,
+  "author": "Torah Light Editorial Team",
+  "date": "2026-03-20",
+  "special_note": "This is article #400 and completes the Torah Light Chinese Jewish Bridge Topics series!"
 }

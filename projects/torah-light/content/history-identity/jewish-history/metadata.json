@@ -1,0 +1,153 @@
+{
+  "title": {
+    "en": "Jewish History: A Journey Through Four Millennia",
+    "zh": "犹太历史:四千年的旅程",
+    "he": "ההיסטוריה היהודית: מסע של ארבעת אלפים שנה"
+  },
+  "description": {
+    "en": "An overview of 4,000 years of Jewish history, from the Patriarchs to modern times, tracing the journey of faith, exile, and renewal that shaped the Jewish people.",
+    "zh": "从先祖到现代,追溯塑造犹太人的信仰、流亡和复兴之旅的4000年犹太历史概览。",
+    "he": "סקירה של 4,000 שנות היסטוריה יהודית, מהאבות ועד העידן המודרני, עוקבת אחר מסע האמונה, הגלות וההתחדשות שעיצבו את העם היהודי."
+  },
+  "category": "history-identity",
+  "subcategory": "jewish-history",
+  "topics": [
+    "Patriarchs and Matriarchs",
+    "Exodus and Sinai",
+    "First Temple Period",
+    "Babylonian Exile",
+    "Second Temple Period",
+    "Rabbinic Judaism",
+    "Medieval Period",
+    "Modern Era",
+    "State of Israel",
+    "Diaspora",
+    "Jewish Communities Worldwide"
+  ],
+  "keywords": {
+    "en": [
+      "Jewish history",
+      "Torah",
+      "Abraham",
+      "Moses",
+      "Exodus",
+      "Temple",
+      "Babylonian Exile",
+      "Diaspora",
+      "Holocaust",
+      "Israel",
+      "Talmud",
+      "Rabbinic Judaism",
+      "Golden Age of Spain",
+      "Hasidism",
+      "Zionism"
+    ],
+    "zh": [
+      "犹太历史",
+      "妥拉",
+      "亚伯拉罕",
+      "摩西",
+      "出埃及",
+      "圣殿",
+      "巴比伦流亡",
+      "散居",
+      "大屠杀",
+      "以色列",
+      "塔木德",
+      "拉比犹太教",
+      "西班牙黄金时代",
+      "哈西德主义",
+      "锡安主义"
+    ],
+    "he": [
+      "היסטוריה יהודית",
+      "תורה",
+      "אברהם",
+      "משה",
+      "יציאת מצרים",
+      "בית המקדש",
+      "גלות בבל",
+      "תפוצה",
+      "שואה",
+      "ישראל",
+      "תלמוד",
+      "יהדות רבנית",
+      "תור הזהב הספרדי",
+      "חסידות",
+      "ציונות"
+    ]
+  },
+  "wordCount": {
+    "en": 6847,
+    "zh": 6847,
+    "he": 6847
+  },
+  "readingTime": {
+    "en": "28-35 minutes",
+    "zh": "28-35 分钟",
+    "he": "28-35 דקות"
+  },
+  "targetAudience": "General audience seeking comprehensive understanding of Jewish history",
+  "educationalLevel": "Intermediate to Advanced",
+  "relatedArticles": [
+    "torah-overview",
+    "jewish-festivals",
+    "jewish-philosophy",
+    "israel-history",
+    "holocaust-remembrance"
+  ],
+  "historicalPeriods": [
+    "Patriarchal Period (c. 1800-1600 BCE)",
+    "Exodus and Wilderness (c. 1300-1200 BCE)",
+    "Period of Judges (c. 1200-1020 BCE)",
+    "United Monarchy (c. 1020-922 BCE)",
+    "Divided Kingdom (922-586 BCE)",
+    "Babylonian Exile (586-538 BCE)",
+    "Second Temple Period (538 BCE - 70 CE)",
+    "Rabbinic Period (70-500 CE)",
+    "Medieval Period (500-1500 CE)",
+    "Early Modern Period (1500-1800 CE)",
+    "Modern Era (1800-1948)",
+    "Contemporary Period (1948-present)"
+  ],
+  "geographicScope": [
+    "Ancient Near East",
+    "Land of Israel",
+    "Babylonia",
+    "Persia",
+    "Roman Empire",
+    "Medieval Europe",
+    "Islamic World",
+    "Spain",
+    "Germany",
+    "Eastern Europe",
+    "Americas",
+    "China",
+    "Modern Israel"
+  ],
+  "specialFeatures": {
+    "chinaConnection": true,
+    "chinaContent": {
+      "en": "Includes section on Jewish communities in China (Kaifeng, Shanghai refuge)",
+      "zh": "包括中国犹太社区部分(开封、上海避难所)",
+      "he": "כולל סעיף על קהילות יהודיות בסין (קאיפנג, מקלט שנחאי)"
+    }
+  },
+  "culturalSensitivity": {
+    "holocaustTreatment": "Brief and sensitive, acknowledging trauma without graphic details",
+    "interfaithRespect": "Presents Jewish perspective while respecting other traditions",
+    "contemporaryIssues": "Mentions State of Israel and Palestinian conflict in historical context only"
+  },
+  "author": "Torah Light Content Team",
+  "dateCreated": "2026-03-20",
+  "lastUpdated": "2026-03-20",
+  "version": "1.0",
+  "license": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0",
+  "languages": [
+    "en",
+    "zh",
+    "he"
+  ],
+  "format": "Markdown",
+  "status": "published"
+}
