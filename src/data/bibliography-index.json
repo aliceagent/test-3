@@ -9977,5 +9977,797 @@
     "chinese_dynasty_references": [],
     "status": "completed",
     "filePath": "jewish-history/263-ethiopian-jews/metadata.json"
+  },
+  {
+    "id": 169,
+    "title": {
+      "en": "Humility (Anavah): The Trait Moses Was Known For",
+      "zh": "谦逊(Anavah):摩西最突出的品质",
+      "he": "ענוה: המידה שבה התבלט משה רבנו"
+    },
+    "section": "mussar",
+    "description": {
+      "en": "Exploring Moses's defining character trait of humility (anavah), how he demonstrated it throughout his life, and practical steps to cultivate this essential Jewish virtue.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Mussar",
+      "Humility",
+      "Anavah",
+      "Trait",
+      "Moses",
+      "Was",
+      "Known"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "mussar/169-humility-anavah-moses/metadata.json"
+  },
+  {
+    "id": 170,
+    "title": {
+      "en": "Patience (Savlanut): The Jewish Art of Waiting Without Anger",
+      "zh": "耐心(Savlanut):犹太人不带愤怒地等待的艺术",
+      "he": "סַבְלָנוּת: האמנות היהודית של להמתין בלי כעס"
+    },
+    "section": "mussar",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Mussar",
+      "Pirkei Avot 2:5",
+      "Pirkei Avot 4:1",
+      "Tamid 32a",
+      "Shabbat 88b",
+      "Patience",
+      "Savlanut",
+      "Jewish",
+      "Art",
+      "Waiting",
+      "Without",
+      "Anger"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "mussar/170-patience-savlanut/metadata.json"
+  },
+  {
+    "id": 171,
+    "title": {
+      "en": "Gratitude (Hakarat HaTov): Recognizing the Good in Everything",
+      "zh": "感恩(Hakarat HaTov):在一切中认识善",
+      "he": "הכרת הטוב: להכיר את הטוב בכל דבר"
+    },
+    "section": "mussar",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Mussar",
+      "Hakarat HaTov (הכרת הטוב)",
+      "Kefiyat Tovah (כפיות טובה)",
+      "Modeh Ani",
+      "Korban Todah",
+      "Nissim Nistarim (ניסים נסתרים)",
+      "One hundred daily blessings",
+      "Gratitude",
+      "Hakarat",
+      "HaTov",
+      "Recognizing",
+      "Good",
+      "Everything"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "知恩图报 (zhī'ēn túbào) - Recognizing and repaying kindness",
+      "滴水之恩,当涌泉相报 - Drop of water, fountain of gratitude",
+      "孝 (xiào) - Filial piety parallels honoring parents",
+      "Han Xin story - Remembering kindness across years"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "mussar/171-gratitude-hakarat-hatov/metadata.json"
+  },
+  {
+    "id": 172,
+    "title": {
+      "en": "Guarding Your Speech (Shmirat HaLashon): The Laws of Lashon Hara",
+      "zh": "谨守口舌 (Shmirat HaLashon):恶言的律法",
+      "he": "שמירת הלשון: דיני לשון הרע"
+    },
+    "section": "mussar",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Mussar",
+      "Guarding",
+      "Speech",
+      "Shmirat",
+      "HaLashon",
+      "Laws",
+      "Lashon",
+      "Hara"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "completed",
+    "filePath": "mussar/172-shmirat-halashon/metadata.json"
+  },
+  {
+    "id": 173,
+    "title": {
+      "en": "Anger Management the Jewish Way: What the Rambam Taught",
+      "zh": "犹太式愤怒管理:拉姆班教导的智慧",
+      "he": "ניהול כעסים בדרך היהודית: מה לימד הרמב\"ם"
+    },
+    "section": "mussar",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Mussar",
+      "Anger",
+      "Management",
+      "Jewish",
+      "Way",
+      "Rambam",
+      "Taught"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "mussar/173-anger-management-rambam/metadata.json"
+  },
+  {
+    "id": 174,
+    "title": {
+      "en": "Chesed (Loving-Kindness): The Trait That Sustains the World",
+      "zh": "Chesed (חסד) — 仁爱:支撑世界的品德",
+      "he": "חסד: המידה שמקיימת את העולם"
+    },
+    "section": "mussar",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Mussar",
+      "Difference between chesed and tzedakah",
+      "God's attribute of chesed",
+      "Abraham as master of chesed",
+      "Ruth's chesed to Naomi",
+      "Chinese parallels: ren (仁), xiao (孝)",
+      "Imitating God through acts of kindness",
+      "Chesed as pillar of civilization",
+      "Chesed",
+      "Loving-Kindness",
+      "Trait",
+      "That",
+      "Sustains",
+      "World"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "mussar/174-chesed-loving-kindness/metadata.json"
+  },
+  {
+    "id": 175,
+    "title": {
+      "en": "Emunah (Faith) vs. Bitachon (Trust): Understanding the Difference",
+      "zh": "信仰(Emunah)与信靠(Bitachon):理解其中的差别",
+      "he": "אמונה מול בטחון: הבנת ההבדל"
+    },
+    "section": "mussar",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Mussar",
+      "Emunah",
+      "Faith",
+      "Bitachon",
+      "Trust",
+      "Understanding",
+      "Difference"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "mussar/175-emunah-bitachon-difference/metadata.json"
+  },
+  {
+    "id": 176,
+    "title": {
+      "en": "The Mussar Movement: Rabbi Yisrael Salanter's Revolution",
+      "zh": "穆萨尔运动:拉比伊斯雷尔·萨兰特的革命",
+      "he": "תנועת המוסר: המהפכה של רבי ישראל סלנטר"
+    },
+    "section": "mussar",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Mussar",
+      "Movement",
+      "Rabbi",
+      "Yisrael",
+      "Salanter's",
+      "Revolution"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Confucian self-cultivation (修身, xiushen)",
+      "Chinese practice of self-reflection (内省, neixin)",
+      "Comparison between 君子 (junzi) ideal and Jewish ethical development"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "mussar/176-mussar-movement-salanter/metadata.json"
+  },
+  {
+    "id": 177,
+    "title": {
+      "en": "Dan L'Kaf Zechut: Judging Others Favorably",
+      "zh": "有利判断他人:犹太智慧中的「宽以待人」",
+      "he": "דן לכף זכות: לשפוט אחרים לטובה"
+    },
+    "section": "mussar",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Mussar",
+      "Dan l'kaf zechut (judging favorably)",
+      "Benefit of the doubt",
+      "Compassionate interpretation",
+      "Chinese parallel: 给面子 (giving face)",
+      "Chinese parallel: 宽容 (tolerance)",
+      "Trust building",
+      "Self-examination of biases",
+      "Dan",
+      "L'Kaf",
+      "Zechut",
+      "Judging",
+      "Others",
+      "Favorably"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "mussar/177-dan-lkaf-zechut/metadata.json"
+  },
+  {
+    "id": 178,
+    "title": {
+      "en": "Tikkun Olam: Repairing the World — What It Really Means",
+      "zh": "修补世界(Tikkun Olam):这个概念的真正含义",
+      "he": "תיקון עולם: לתקן את העולם — מה זה באמת אומר"
+    },
+    "section": "mussar",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Mussar",
+      "Tikkun",
+      "Olam",
+      "Repairing",
+      "World",
+      "Really",
+      "Means"
+    ],
+    "sources": [
+      "Mishnah Gittin 4:2-9",
+      "Babylonian Talmud, Shabbat 31a",
+      "Rabbi Isaac Luria (Arizal), Etz Chaim",
+      "Rabbi Moshe Chaim Luzzatto, Mesillat Yesharim",
+      "Pirkei Avot (Ethics of the Fathers)"
+    ],
+    "cultural_parallels": [
+      "Confucian concept of 'rectifying names' (正名, zhèng míng)",
+      "Chinese philosophical principle of '修身齐家治国平天下' (self-cultivation leading to world harmony)",
+      "Yijing (Book of Changes) concepts of restoring balance and harmony"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "mussar/178-tikkun-olam-meaning/metadata.json"
+  },
+  {
+    "id": 282,
+    "title": {
+      "en": "Lashon Hara in the Digital Age: Jewish Speech Ethics Online",
+      "zh": "数字时代的恶语:犹太网络言论伦理",
+      "he": "לשון הרע בעידן הדיגיטלי: אתיקת דיבור יהודית ברשת"
+    },
+    "section": "mussar",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "LashonHara",
+      "SpeechEthics",
+      "Mussar",
+      "DigitalAge",
+      "SocialMedia",
+      "JewishLaw",
+      "ChofetzChaim",
+      "ShmirathHaLashon",
+      "恶语",
+      "言论伦理",
+      "社交媒体",
+      "犹太法",
+      "Gossip",
+      "Slander",
+      "OnlineEthics",
+      "Compassion",
+      "Mindfulness",
+      "慈悲",
+      "正语",
+      "儒家",
+      "Teshuvah"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Confucian thought on cautious speech",
+      "Daoist wisdom on silence",
+      "Buddhist Right Speech",
+      "Chinese ethical traditions"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "mussar/282-lashon-hara-digital/metadata.json"
+  },
+  {
+    "id": 196,
+    "title": {
+      "en": "How to Tie Tzitzit: A Step-by-Step Guide with Diagrams",
+      "zh": "如何系绑流苏穗(Tzitzit):详细步骤指南",
+      "he": "איך לקשור ציצית: מדריך שלב אחר שלב עם דיאגרמות"
+    },
+    "section": "mitzvah-objects",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "MitzvahObjects",
+      "Tie",
+      "Tzitzit",
+      "Step-by-Step",
+      "Guide",
+      "Diagrams"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "mitzvah-objects/196-tying-tzitzit-guide/metadata.json"
+  },
+  {
+    "id": 218,
+    "title": {
+      "en": "Tefillin Explained: The Black Boxes That Connect Us to God",
+      "zh": "经文匣深度解析：连接我们与上帝的黑色盒子",
+      "he": "תפילין מוסברות: הקופסאות השחורות שמחברות אותנו לאלוהים"
+    },
+    "section": "mitzvah-objects",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "MitzvahObjects",
+      "tefillin",
+      "phylacteries",
+      "Jewish mysticism",
+      "Kabbalah",
+      "mitzvah objects",
+      "daily prayer",
+      "spiritual transformation",
+      "devekut",
+      "divine light",
+      "shel yad",
+      "shel rosh",
+      "Shaddai",
+      "sefirotic emanations",
+      "Chassidic philosophy",
+      "Berakhot 6a"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "draft_complete",
+    "filePath": "mitzvah-objects/218-tefillin-explained/metadata.json"
+  },
+  {
+    "id": 219,
+    "title": {
+      "en": "Tzitzit: The Fringes That Remind Us of All 613 Commandments",
+      "zh": "祭司带:提醒我们全部613条诫命的流苏",
+      "he": "ציצית: הציציות שמזכירות לנו את כל 613 המצוות"
+    },
+    "section": "mitzvah-objects",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "#Tzitzit",
+      "#ציצית",
+      "#祭司带",
+      "#613Commandments",
+      "#Mitzvah",
+      "#Torah",
+      "#Fringes",
+      "#TallitKatan",
+      "#TallitGadol",
+      "#PrayerShawl",
+      "#Techelet",
+      "#BlueThread",
+      "#VisibleReminder",
+      "#Mindfulness",
+      "#JewishLaw",
+      "#Halacha",
+      "#Numbers",
+      "#Deuteronomy",
+      "#Shema",
+      "#DailyPractice",
+      "#SpiritualTechnology",
+      "#PhysicalMitzvot",
+      "#中国结",
+      "#礼",
+      "#念珠",
+      "#MitzvahObjects",
+      "#RitualGarments",
+      "#JewishDress",
+      "#Gematria",
+      "#MemoryAids",
+      "#ChineseCulture",
+      "#ConfucianValues",
+      "#BuddhistPractice",
+      "#CulturalParallels"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "mitzvah-objects/219-tzitzit-fringes/metadata.json"
+  },
+  {
+    "id": 220,
+    "title": {
+      "en": "Mezuzah Deep Dive: What's Inside the Scroll and Why It Matters",
+      "zh": "门框经文盒深度解析:卷轴里写着什么,为什么重要",
+      "he": "מזוזה - צלילה עמוקה: מה כתוב בתוך המגילה ולמה זה חשוב"
+    },
+    "section": "mitzvah-objects",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "mitzvot",
+      "Jewish home",
+      "ritual objects",
+      "doorpost",
+      "blessing",
+      "Torah scroll",
+      "sofer",
+      "kashrut",
+      "home observance"
+    ],
+    "sources": [
+      "Deuteronomy 6:4-9",
+      "Deuteronomy 11:13-21",
+      "Talmud Menachot 33b",
+      "Shulchan Aruch Yoreh De'ah 285-291",
+      "Chabad.org mezuzah article",
+      "My Jewish Learning mezuzah guide",
+      "Rabbi Aryeh Kaplan - Handbook of Jewish Thought"
+    ],
+    "cultural_parallels": [
+      "Chinese New Year door couplets (春联)",
+      "Chinese calligraphy as sacred art",
+      "Threshold symbolism in both cultures"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "mitzvah-objects/220-mezuzah-deep-dive/metadata.json"
+  },
+  {
+    "id": 221,
+    "title": {
+      "en": "The Kippah (Yarmulke): Why Jewish Men Cover Their Heads",
+      "zh": "基帕(圆顶小帽):犹太男子为何要遮盖头部",
+      "he": "הכיפה (יארמולקא): מדוע גברים יהודים מכסים את ראשם"
+    },
+    "section": "mitzvah-objects",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "mitzvot",
+      "head covering",
+      "kippah",
+      "yarmulke",
+      "Jewish identity",
+      "modesty",
+      "reverence",
+      "Orthodox Judaism",
+      "customs",
+      "humility",
+      "ritual objects",
+      "daily practice",
+      "Jewish visibility"
+    ],
+    "sources": [
+      "Talmud Kiddushin 31a",
+      "Shulchan Aruch, Orach Chayim 2:6",
+      "Chabad.org kippah article",
+      "My Jewish Learning kippah guide",
+      "Jewish Virtual Library head covering",
+      "Rabbi Aryeh Kaplan - The Aryeh Kaplan Reader",
+      "Aish.com kippah historical perspective"
+    ],
+    "cultural_parallels": [
+      "Chinese imperial court hats denoting rank and respect",
+      "Buddhist monks' head practices as humility symbols",
+      "Muslim prayer caps (taqiyah)",
+      "Catholic clergy head coverings",
+      "Concept of 'heaven above' (天) in Chinese philosophy"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "mitzvah-objects/221-kippah-yarmulke/metadata.json"
+  },
+  {
+    "id": 222,
+    "title": {
+      "en": "The Tallit (Prayer Shawl): Wrapping Yourself in God's Commandments",
+      "zh": "塔利特(祈祷披肩):将自己包裹在上帝的诫命中",
+      "he": "הטלית: להתעטף במצוות ה'"
+    },
+    "section": "mitzvah-objects",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "MitzvahObjects",
+      "Tallit gadol vs. tallit katan",
+      "Blue thread (techelet) symbolism",
+      "Portable sanctuary concept",
+      "Wrapping in divine purpose",
+      "Tallit",
+      "Prayer",
+      "Shawl",
+      "Wrapping",
+      "Yourself",
+      "God's",
+      "Commandments"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Chinese ceremonial robes worn by Confucian scholars",
+      "Daoist priestly garments during important rites",
+      "Traditional robes signifying status and role in Chinese culture",
+      "Transition from ordinary to sacred activity in ritual clothing"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "completed",
+    "filePath": "mitzvah-objects/222-tallit-prayer-shawl/metadata.json"
+  },
+  {
+    "id": 223,
+    "title": {
+      "en": "The Siddur (Prayer Book): Your Guide to Daily Jewish Prayer",
+      "zh": "祈祷书(Siddur):犹太人日常祈祷指南",
+      "he": "הסידור: מדריך לתפילה יהודית יומיומית"
+    },
+    "section": "mitzvah-objects",
+    "description": {
+      "en": "A comprehensive guide to the Jewish prayer book (siddur), its history, structure, and practical use. Explores morning, afternoon, and evening prayers, different traditions (Ashkenaz, Sefard, Ari), and how to choose and use a siddur with cultural parallels to Chinese classical texts.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Siddur",
+      "Prayer",
+      "Tefilah",
+      "PrayerBook",
+      "Davening",
+      "Amidah",
+      "Shema",
+      "Shacharit",
+      "Mincha",
+      "Maariv",
+      "JewishLiturgy",
+      "BeginnerJudaism",
+      "Synagogue",
+      "Hebrew",
+      "NusachAshkenaz",
+      "NusachSefard",
+      "ArtScrollSiddur",
+      "Kavanah",
+      "DailyPrayer",
+      "Birchot-HaShachar",
+      "Tachanun",
+      "Aleinu",
+      "Kaddish",
+      "Tang-Dynasty",
+      "Eastern-Han",
+      "Confucianism",
+      "Jewish-Texts",
+      "Orthodox-Judaism",
+      "Chabad",
+      "Spiritual-Practice"
+    ],
+    "sources": [
+      "https://www.sefaria.org/texts/Liturgy",
+      "https://www.chabad.org/library/article_cdo/aid/867674/jewish/The-Siddur.htm",
+      "https://aish.com/how-to-pray/"
+    ],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "mitzvah-objects/223-siddur-prayer-book/metadata.json"
+  },
+  {
+    "id": 224,
+    "title": {
+      "en": "The Chanukiah vs. the Menorah: Understanding the Difference",
+      "zh": "",
+      "he": ""
+    },
+    "section": "mitzvah-objects",
+    "description": {
+      "en": "Clarifying the difference between the seven-branched Temple menorah and the nine-branched Chanukah chanukiah — their origins, meanings, and why the distinction matters.",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "#Chanukiah",
+      "#Menorah",
+      "#Chanukah",
+      "#TempleService",
+      "#JewishHistory",
+      "#MitzvahObjects",
+      "#LightFestival",
+      "#Maccabees",
+      "#TempleMenorah",
+      "#SacredObjects",
+      "#JewishSymbols",
+      "#光明节",
+      "#圣殿",
+      "#烛台",
+      "#犹太象征",
+      "#HolidayTraditions",
+      "#ReligiousSymbolism",
+      "#JewishIdentity",
+      "#MiracleOfTheOil",
+      "#元宵节",
+      "#中华文明",
+      "#חנוכייה",
+      "#מנורה",
+      "#חנוכה"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Chinese Lantern Festival (元宵节) and light celebrations",
+      "Yin and yang (阴阳) complementarity - memory and hope",
+      "Cultural continuity through dynastic changes",
+      "Public light displays and community celebrations"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "draft_complete",
+    "filePath": "mitzvah-objects/224-chanukiah-menorah-difference/metadata.json"
+  },
+  {
+    "id": 225,
+    "title": {
+      "en": "The Lulav and Etrog: Sukkot's Four Species Explained",
+      "zh": "鲁拉夫与埃特罗格：住棚节的四种植物详解",
+      "he": "הלולב והאתרוג: ארבעת המינים של סוכות מוסברים"
+    },
+    "section": "mitzvah-objects",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Sukkot",
+      "Four Species",
+      "lulav",
+      "etrog",
+      "hadass",
+      "aravah",
+      "mitzvah objects",
+      "Jewish holidays",
+      "halacha",
+      "Temple service",
+      "Jewish unity",
+      "symbolism"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Chinese agricultural offerings (peaches, pomegranates)",
+      "Confucian social harmony (和 hé)",
+      "Mid-Autumn Festival harvest celebration",
+      "Historical period mapping (Zhou Dynasty, Han Dynasty)"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "mitzvah-objects/225-lulav-etrog-four-species/metadata.json"
+  },
+  {
+    "id": 226,
+    "title": {
+      "en": "The Shofar: Ancient Horn That Calls the Soul to Wake Up",
+      "zh": "羊角号(Shofar):唤醒灵魂的古老号角",
+      "he": "השופר: קרן עתיקה המעוררת את הנשמה"
+    },
+    "section": "mitzvah-objects",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "shofar",
+      "rosh-hashanah",
+      "mitzvah-objects",
+      "high-holidays",
+      "repentance",
+      "tekiah",
+      "shevarim",
+      "teruah",
+      "spiritual-awakening",
+      "jewish-ritual-objects"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "mitzvah-objects/226-shofar-horn/metadata.json"
   }
 ]
