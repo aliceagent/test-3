@@ -11576,5 +11576,638 @@
     "chinese_dynasty_references": [],
     "status": "complete",
     "filePath": "jews-in-asia-expanded/358-starting-jewish-community-from-scratch/metadata.json"
+  },
+  {
+    "id": 281,
+    "title": {
+      "en": "Rambam's Eight Levels of Tzedakah: Which Level Are You On?",
+      "zh": "拉姆班的八级慈善：你在哪一级?",
+      "he": "שמונה מדרגות הצדקה של הרמב\"ם: באיזו מדרגה אתה נמצא?"
+    },
+    "section": "money-business",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Tzedakah",
+      "Rambam",
+      "Maimonides",
+      "Charity",
+      "Justice",
+      "SocialJustice",
+      "Giving",
+      "Dignity",
+      "SelfSufficiency",
+      "JewishEthics",
+      "JewishLaw",
+      "MoneyAndBusiness",
+      "Poverty",
+      "Kindness",
+      "Compassion",
+      "慈善",
+      "正义",
+      "尊严",
+      "MitzvahObservance",
+      "TikkunOlam"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Confucian Ren (仁) - Humaneness",
+      "Daoist Wu Wei (無為) - Effortless Action",
+      "Buddhist Right Livelihood"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "published",
+    "filePath": "money-business/281-rambam-tzedakah-levels/metadata.json"
+  },
+  {
+    "id": 283,
+    "title": {
+      "en": "Ribbit: Why Jews Cannot Charge Interest to Other Jews",
+      "zh": "利息禁令（Ribbit）：为什么犹太人不能向同胞收取利息",
+      "he": "רִבִּית: מדוע אסור ליהודים לגבות ריבית מיהודים אחרים"
+    },
+    "section": "money-business",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Ribbit",
+      "Interest",
+      "Jewish Law",
+      "Tzedakah",
+      "Gemach",
+      "Business Ethics",
+      "Torah",
+      "Lending",
+      "Community",
+      "Chesed",
+      "Heter Iska",
+      "利息",
+      "慈善",
+      "犹太律法",
+      "商业伦理",
+      "ריבית",
+      "הלכה",
+      "צדקה",
+      "גמ״ח",
+      "אתיקה עסקית"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Confucian emphasis on 仁 (benevolence) in economic relations",
+      "义利之辨 (righteousness vs. profit debate) in Chinese philosophy",
+      "Islamic prohibition of riba",
+      "Gemach system as communal mutual aid"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "completed",
+    "filePath": "money-business/283-ribbit-interest/metadata.json"
+  },
+  {
+    "id": 284,
+    "title": {
+      "en": "Geneivat Da'at: The Prohibition Against Deception",
+      "zh": "欺瞒心灵之罪:犹太法律对欺骗的严格禁止",
+      "he": "גניבת דעת: איסור הרמייה והטעייה"
+    },
+    "section": "money-business",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "GeneivátDaát",
+      "Deception",
+      "BusinessEthics",
+      "JewishLaw",
+      "Honesty",
+      "Integrity",
+      "Theft",
+      "Truth",
+      "Halacha",
+      "MoneyAndBusiness",
+      "Teshuvah",
+      "Repentance",
+      "Confucianism",
+      "诚信",
+      "ChineseParallels",
+      "Maimonides",
+      "Talmud"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "money-business/284-geneivat-daat/metadata.json"
+  },
+  {
+    "id": 285,
+    "title": {
+      "en": "Bal Tashchit: The Torah's Environmental Ethic",
+      "zh": "不可毁坏:《托拉》的环保伦理",
+      "he": "בל תשחית: האתיקה הסביבתית של התורה"
+    },
+    "section": "money-business",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "bal-tashchit",
+      "environment",
+      "stewardship",
+      "conservation",
+      "waste-prevention",
+      "jewish-law",
+      "torah",
+      "sustainability",
+      "resource-management",
+      "gratitude",
+      "money-business",
+      "惜物",
+      "道法自然",
+      "节俭",
+      "environmental-ethics"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Daoist wu-wei (无为)",
+      "Confucian stewardship (儒家管理)",
+      "Chinese frugality (节俭)",
+      "Xi wu - cherishing things (惜物)",
+      "Buddhist ahimsa (non-harm)"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "completed",
+    "filePath": "money-business/285-bal-tashchit/metadata.json"
+  },
+  {
+    "id": 286,
+    "title": {
+      "en": "Paying Workers on Time: A Torah Obligation",
+      "zh": "按时支付工人工资:妥拉的义务",
+      "he": "תשלום פועלים בזמן: חיוב תורה"
+    },
+    "section": "money-business",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "TimelySalary",
+      "WorkersRights",
+      "TorahLaw",
+      "BusinessEthics",
+      "义",
+      "仁",
+      "商朝",
+      "汉朝",
+      "MoneyBusiness",
+      "LaborLaw",
+      "Dignity",
+      "Justice",
+      "Mitzvah",
+      "Halacha",
+      "דיניממונות"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "money-business/286-paying-workers-time/metadata.json"
+  },
+  {
+    "id": 287,
+    "title": {
+      "en": "Hasagat Gvul: Fair Competition in Jewish Business Law",
+      "zh": "哈萨噶特·格武尔:犹太商业法中的公平竞争",
+      "he": "הסגת גבול: תחרות הוגנת בדיני עסקים יהודיים"
+    },
+    "section": "money-business",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "HasagatGvul",
+      "BusinessEthics",
+      "FairCompetition",
+      "JewishLaw",
+      "Torah",
+      "Talmud",
+      "Marketplace",
+      "IntellectualProperty",
+      "商业伦理",
+      "公平竞争",
+      "不义之财",
+      "Halacha",
+      "MoneyBusiness",
+      "Mussar",
+      "Integrity",
+      "הסגתגבול",
+      "אתיקהעסקית",
+      "תחרותהוגנת",
+      "הלכהיהודית",
+      "כסףועסקים",
+      "יושרה"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Confucian business ethics",
+      "Bu Yi Zhi Cai (不义之财) - unjust wealth concept",
+      "Chinese historical dynasties: Shang, Han, Jin, Song, Ming"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "completed",
+    "filePath": "money-business/287-hasagat-gvul/metadata.json"
+  },
+  {
+    "id": 288,
+    "title": {
+      "en": "Returning Lost Objects: The Mitzvah of Hashavat Aveidah",
+      "zh": "归还失物:拾金不昧的诫命 (Hashavat Aveidah)",
+      "he": "החזרת אבידה: מצוות השבת האבידה"
+    },
+    "section": "money-business",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "HashavatAveidah",
+      "LostAndFound",
+      "JewishLaw",
+      "Ethics",
+      "Honesty",
+      "PropertyLaw",
+      "Mitzvot",
+      "TorahEthics",
+      "Halacha",
+      "MoneyBusiness",
+      "Integrity",
+      "Reciprocity",
+      "礼尚往来",
+      "Confucius",
+      "孔子",
+      "GoldenRule",
+      "Talmud",
+      "CommunityCare",
+      "SocialHarmony",
+      "中国文化",
+      "Daoism",
+      "無為"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Confucian reciprocity (礼尚往来)",
+      "Golden Rule from Analects",
+      "Daoist Wu Wei and natural harmony",
+      "Tang Dynasty legal codes on lost property"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "completed",
+    "filePath": "money-business/288-hashavat-aveidah/metadata.json"
+  },
+  {
+    "id": 289,
+    "title": {
+      "en": "Ona'ah: The Prohibition Against Overcharging",
+      "zh": "Ona'ah: 禁止过度定价",
+      "he": "אונאה: האיסור על גזל במסחר"
+    },
+    "section": "money-business",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "Onaah",
+      "Business Ethics",
+      "Fair Pricing",
+      "Honesty",
+      "Commerce",
+      "Market Value",
+      "Bava Metzia",
+      "Torah Economics",
+      "Consumer Protection",
+      "Jewish Law",
+      "诚信",
+      "商业道德",
+      "公平交易",
+      "Money Business"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "money-business/289-onaah-overcharging/metadata.json"
+  },
+  {
+    "id": 290,
+    "title": {
+      "en": "Ma'aser Kesafim: Should You Tithe 10% or 20% of Your Income?",
+      "zh": "金钱什一税（Ma'aser Kesafim）：你应该捐出收入的10%还是20%？",
+      "he": "מעשר כספים: האם להפריש 10% או 20% מההכנסה?"
+    },
+    "section": "money-business",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "MaaserKesafim",
+      "Tzedakah",
+      "CharityLaw",
+      "JewishEthics",
+      "MoneyAndBusiness",
+      "Tithing",
+      "Generosity",
+      "JewishLaw",
+      "SocialJustice",
+      "义",
+      "儒家",
+      "宋朝",
+      "MoneyBusiness"
+    ],
+    "sources": [],
+    "cultural_parallels": [
+      "Confucian concept of yi (義, righteousness) and social responsibility",
+      "Song Dynasty scholar-official obligations to support community welfare",
+      "Buddhist dana (generosity) and dignified giving",
+      "Chinese philosophical concept of de (德, virtue) in prosperity"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "published",
+    "filePath": "money-business/290-maaser-kesafim/metadata.json"
+  },
+  {
+    "id": 238,
+    "title": {
+      "en": "Tzedakah: The Jewish Obligation of Righteous Giving",
+      "zh": "慈善施舍（Tzedakah）：犹太教的正义施予义务",
+      "he": "צדקה: החובה היהודית של נתינה צודקת"
+    },
+    "section": "jewish-values",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "tzedakah",
+      "charity",
+      "justice",
+      "mitzvah",
+      "giving",
+      "money-ethics",
+      "jewish-values",
+      "maimonides",
+      "rambam",
+      "social-justice",
+      "community",
+      "righteousness"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "completed",
+    "filePath": "jewish-values/238-tzedakah-giving/metadata.json"
+  },
+  {
+    "id": 239,
+    "title": {
+      "en": "Kibbud Av Va'Em: Honoring Parents in Jewish Law",
+      "zh": "孝敬父母:犹太律法中的Kibbud Av Va'Em",
+      "he": "כיבוד אב ואם: חובת כיבוד הורים בהלכה היהודית"
+    },
+    "section": "jewish-values",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "KibbudAvVaEm",
+      "HonoringParents",
+      "FifthCommandment",
+      "ParentChildRelationships",
+      "Respect",
+      "Reverence",
+      "Gratitude",
+      "HakaratHaTov",
+      "Xiao",
+      "孝",
+      "FilialPiety",
+      "Family",
+      "JewishValues",
+      "Mitzvot",
+      "TenCommandments",
+      "Talmud",
+      "Halacha",
+      "JewishLaw",
+      "ShulchanAruch",
+      "LifeCycle",
+      "ElderCare",
+      "ConvertLife",
+      "ChineseJews",
+      "Confucianism",
+      "IntergenerationalLove",
+      "JewishEthics",
+      "Mussar"
+    ],
+    "sources": [
+      "Exodus 20:12 - Fifth Commandment",
+      "Leviticus 19:3 - Reverence for parents",
+      "Talmud Kiddushin 30b-32a - Primary discussion",
+      "Shulchan Aruch, Yoreh De'ah 240 - Legal code",
+      "Stories of Dama ben Netina, Rabbi Tarfon",
+      "Maimonides, Mishneh Torah, Laws of Rebels 6:1-13"
+    ],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "jewish-values/239-honoring-parents/metadata.json"
+  },
+  {
+    "id": 240,
+    "title": {
+      "en": "Lashon Hara: The Power and Danger of Speech",
+      "zh": "恶语伤人：言语的力量与危险",
+      "he": "לשון הרע: הכוח והסכנה של דיבור"
+    },
+    "section": "jewish-values",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "LashonHara",
+      "SpeechEthics",
+      "JewishValues",
+      "Mussar",
+      "ChofetzChaim",
+      "ProperSpeech",
+      "Gossip",
+      "言语伦理",
+      "慎言",
+      "EthicalLiving",
+      "DailyJudaism",
+      "TongueGuard",
+      "PositiveSpeech",
+      "Rechilut",
+      "Slander",
+      "JewishLaw",
+      "Halacha",
+      "InterpersonalEthics",
+      "BeinAdamLChavero",
+      "儒家",
+      "ConfucianParallels",
+      "לשוןהרע",
+      "אתיקתדיבור"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "jewish-values/240-lashon-hara-speech/metadata.json"
+  },
+  {
+    "id": 242,
+    "title": {
+      "en": "Bikur Cholim: The Mitzvah of Visiting the Sick",
+      "zh": "探访病人：犹太教的神圣义务（Bikur Cholim）",
+      "he": "ביקור חולים: המצווה של ביקור חולים"
+    },
+    "section": "jewish-values",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "bikur-cholim",
+      "visiting-the-sick",
+      "chesed",
+      "loving-kindness",
+      "mitzvah",
+      "interpersonal-laws",
+      "compassion",
+      "healthcare",
+      "mental-health",
+      "community",
+      "talmud",
+      "jewish-law",
+      "social-justice",
+      "abraham",
+      "rambam",
+      "maimonides",
+      "jewish-values"
+    ],
+    "sources": [
+      "https://www.chabad.org/library/article_cdo/aid/1045969/jewish/Visiting-the-Sick.htm",
+      "https://www.sefaria.org/Genesis.18.1",
+      "https://www.sefaria.org/Nedarim.39b-40a",
+      "https://www.sefaria.org/Mishneh_Torah,_Mourning.14.1",
+      "https://aish.com/the-mitzvah-of-visiting-the-sick/",
+      "https://www.sefaria.org/Shabbat.127a"
+    ],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "completed",
+    "filePath": "jewish-values/242-bikur-cholim/metadata.json"
+  },
+  {
+    "id": 243,
+    "title": {
+      "en": "Hachnasat Orchim: The Art of Jewish Hospitality",
+      "zh": "待客之道：犹太人的款待艺术",
+      "he": "הכנסת אורחים: אמנות האירוח היהודי"
+    },
+    "section": "jewish-values",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "HachnasatOrchim",
+      "Hospitality",
+      "Jewish Values",
+      "Abraham",
+      "Mitzvah",
+      "Shabbat",
+      "Kindness",
+      "Community",
+      "待客",
+      "仁",
+      "ChineseJewishParallels"
+    ],
+    "sources": [],
+    "cultural_parallels": [],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "jewish-values/243-hachnasat-orchim/metadata.json"
+  },
+  {
+    "id": 244,
+    "title": {
+      "en": "Derech Eretz: Good Manners Before Torah",
+      "zh": "德里奇·艾雷茨：礼仪先于律法",
+      "he": "דרך ארץ: דרך ארץ קדמה לתורה"
+    },
+    "section": "jewish-values",
+    "description": {
+      "en": "",
+      "zh": "",
+      "he": ""
+    },
+    "tags": [
+      "DerechEretz",
+      "JewishEthics",
+      "GoodManners",
+      "Torah",
+      "Mussar",
+      "礼",
+      "Confucianism",
+      "EthicsBeforeReligion",
+      "Hillel",
+      "CharacterDevelopment",
+      "JewishValues",
+      "PirkeiAvot",
+      "Respect",
+      "Integrity",
+      "CrossCulturalWisdom"
+    ],
+    "sources": [
+      "Pirkei Avot 3:17",
+      "Talmud Bavli, Berachot 17a",
+      "Vayikra Rabbah 9:3",
+      "Talmud Bavli, Yoma 86a",
+      "Pirkei Avot 2:2",
+      "Mishneh Torah, Laws of Character Traits"
+    ],
+    "cultural_parallels": [
+      "Confucian Li (礼) - ritual propriety and proper conduct",
+      "Chinese filial piety and respect for elders",
+      "Eastern Han Dynasty (东汉, 25-220 CE) - contemporary with Mishnaic period",
+      "Confucius and Spring/Autumn period parallels with First Temple period",
+      "Integration of learning (学) and moral practice (行)"
+    ],
+    "chinese_dynasty_references": [],
+    "status": "complete",
+    "filePath": "jewish-values/244-derech-eretz/metadata.json"
   }
 ]
