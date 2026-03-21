@@ -1,9 +1,8 @@
 "use client";
 
-import { useEffect, useState } from "react";
 import { useTranslations } from "next-intl";
 import { Link } from "@/i18n/navigation";
-import { supabase } from "@/lib/supabase";
+import { getAllArticles } from "@/lib/articles";
 
 const featuredSections = [
   {
@@ -48,16 +47,7 @@ export default function HomePage() {
   const tHome = useTranslations("home");
   const tCommon = useTranslations("common");
   const tNav = useTranslations("nav");
-  const [articleCount, setArticleCount] = useState<number | null>(null);
-
-  useEffect(() => {
-    supabase
-      .from("articles")
-      .select("*", { count: "exact", head: true })
-      .then(({ count }) => {
-        if (count != null) setArticleCount(count);
-      });
-  }, []);
+  const articleCount = getAllArticles().length;
 
   return (
     <main className="min-h-screen" style={{ backgroundColor: "var(--color-cream)" }}>
@@ -81,7 +71,7 @@ export default function HomePage() {
           >
             {tHome("heroSub")}
           </p>
-          {articleCount != null && (
+          {articleCount > 0 && (
             <p
               className="mb-8 inline-block rounded-full px-5 py-2 text-sm font-medium"
               style={{
