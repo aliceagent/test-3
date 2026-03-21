@@ -99,6 +99,7 @@ export default function AdminPage() {
   const [reviewingEdit, setReviewingEdit] = useState<ArticleEdit | null>(null);
   const [reviewDiffLang, setReviewDiffLang] = useState<"en" | "zh" | "he">("en");
   const [processingEdit, setProcessingEdit] = useState(false);
+  const [seeding, setSeeding] = useState(false);
 
   // Fetch articles
   useEffect(() => {
@@ -237,6 +238,30 @@ export default function AdminPage() {
       }
     };
     reader.readAsText(file);
+  }
+
+  async function seedDatabase() {
+    if (seeding) return;
+    if (!confirm("This will import all articles from the local JSON into Supabase. Duplicates will be skipped. Continue?")) return;
+    setSeeding(true);
+    try {
+      const res = await fetch("/api/seed", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ password: ADMIN_PASSWORD }),
+      });
+      const data = await res.json();
+      if (res.ok) {
+        alert(`Seeded ${data.inserted} articles (${data.skipped} already existed)`);
+        setRefreshKey((k) => k + 1);
+      } else {
+        alert(`Error: ${data.error}`);
+      }
+    } catch (err) {
+      alert(`Seed failed: ${err}`);
+    } finally {
+      setSeeding(false);
+    }
   }
 
   async function acceptEdit(edit: ArticleEdit) {
@@ -648,6 +673,13 @@ export default function AdminPage() {
               className="hidden"
             />
           </label>
+          <button
+            onClick={seedDatabase}
+            disabled={seeding}
+            className="px-4 py-2 bg-green-600 text-white rounded-lg text-sm font-medium hover:bg-green-700 transition-colors disabled:opacity-50"
+          >
+            {seeding ? "Seeding..." : "Seed Database"}
+          </button>
         </div>
       </div>
 
