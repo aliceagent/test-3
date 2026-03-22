@@ -1,0 +1,82 @@
+{
+  "id": 503,
+  "title": "How Many Dates Before a Decision? Pacing in Shidduch Dating",
+  "title_zh": "决定前需要几次约会？配婚约会的节奏",
+  "title_he": "כמה פגישות לפני החלטה? קצב הדייטים בשידוכים",
+  "section": "matchmaking",
+  "slug": "how-many-dates",
+  "author": "Torah Light Project",
+  "date_created": "2026-03-22",
+  "languages": ["en", "zh", "he"],
+  "word_count": {
+    "en": 1680,
+    "zh": 980,
+    "he": 1620
+  },
+  "tags": [
+    "Dating",
+    "Decision",
+    "Timing",
+    "Relationship",
+    "Guidance",
+    "Patience",
+    "Commitment",
+    "Marriage",
+    "Process",
+    "约会",
+    "决定",
+    "JewishWisdom",
+    "Balance",
+    "Discernment",
+    "Trust",
+    "Growth",
+    "Understanding"
+  ],
+  "chinese_parallels": [
+    {
+      "concept": "Three visits before proposal (三顾茅庐, sān gù máo lú)",
+      "connection": "Chinese tradition of patience and persistence in important relationships parallels measured approach in shidduchim"
+    },
+    {
+      "concept": "Seasons of relationship (春夏秋冬, chūn xià qiū dōng)",
+      "connection": "Chinese understanding of natural timing and seasons applies to relationship development"
+    }
+  ],
+  "torah_sources": [
+    {
+      "text": "Ecclesiastes 3:1-8",
+      "topic": "A time for everything under the heavens",
+      "url": "https://www.sefaria.org/Ecclesiastes.3.1-8"
+    },
+    {
+      "text": "Proverbs 27:14",
+      "topic": "The importance of timing in relationships",
+      "url": "https://www.sefaria.org/Proverbs.27.14"
+    }
+  ],
+  "key_concepts": [
+    "Purposeful dating with marriage in mind",
+    "Balancing efficiency with proper evaluation",
+    "Individual vs. community timeline expectations",
+    "Quality over quantity in dating experiences",
+    "Recognizing readiness for commitment",
+    "Understanding different decision-making styles"
+  ],
+  "target_audience": "Young adults dating for marriage; families supporting children in shidduchim",
+  "difficulty_level": "Beginner to Intermediate",
+  "estimated_reading_time": {
+    "en": "13-16 minutes",
+    "zh": "9-12 minutes",
+    "he": "12-15 minutes"
+  },
+  "practical_applications": [
+    "Setting realistic timeline expectations",
+    "Recognizing signs of compatibility or incompatibility",
+    "Balancing family input with personal decision-making",
+    "Understanding different cultural approaches to courtship timing",
+    "Making confident decisions about relationship progression"
+  ],
+  "status": "complete",
+  "batch": "500",
+  "notes": "Practical guidance on timing decisions in shidduch dating, balancing efficiency with proper evaluation while respecting individual and cultural differences in decision-making pace."
+}

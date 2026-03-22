@@ -1,0 +1,99 @@
+{
+  "id": 502,
+  "title": "The Role of a Shadchan: Understanding Jewish Matchmakers",
+  "title_zh": "媒人的角色：理解犹太媒人",
+  "title_he": "תפקיד השדכן: הבנת השדכנים היהודיים",
+  "section": "matchmaking",
+  "slug": "role-shadchan",
+  "author": "Torah Light Project",
+  "date_created": "2026-03-22",
+  "languages": ["en", "zh", "he"],
+  "word_count": {
+    "en": 1720,
+    "zh": 1020,
+    "he": 1650
+  },
+  "tags": [
+    "Shadchan",
+    "Matchmaker",
+    "Community",
+    "Service",
+    "Wisdom",
+    "Guidance",
+    "Relationship",
+    "Marriage",
+    "Mediation",
+    "媒人",
+    "指导",
+    "JewishCommunity",
+    "Facilitation",
+    "Trust",
+    "Discretion",
+    "Networking",
+    "Counseling",
+    "Support"
+  ],
+  "chinese_parallels": [
+    {
+      "concept": "Matchmaker (媒人, méi rén)",
+      "connection": "Traditional Chinese matchmakers served similar community roles in facilitating marriages"
+    },
+    {
+      "concept": "Go-Between (中间人, zhōngjiān rén)",
+      "connection": "Chinese cultural role of intermediaries in delicate negotiations parallels shadchan function"
+    },
+    {
+      "concept": "Elder Wisdom (长者智慧, zhǎng zhě zhì huì)",
+      "connection": "Both cultures value experienced community members guiding younger generations in life choices"
+    }
+  ],
+  "torah_sources": [
+    {
+      "text": "Genesis 24:1-67",
+      "topic": "Abraham's servant as the first shadchan finding Rebecca for Isaac",
+      "url": "https://www.sefaria.org/Genesis.24.1-67"
+    },
+    {
+      "text": "Sanhedrin 76a",
+      "topic": "Making matches is as difficult as splitting the Red Sea",
+      "url": "https://www.sefaria.org/Sanhedrin.76a"
+    },
+    {
+      "text": "Kiddushin 49a",
+      "topic": "The importance of proper investigation before making matches",
+      "url": "https://www.sefaria.org/Kiddushin.49a"
+    },
+    {
+      "text": "Leviticus 19:16",
+      "topic": "Not engaging in gossip - the ethical responsibilities of shadchanim",
+      "url": "https://www.sefaria.org/Leviticus.19.16"
+    }
+  ],
+  "key_concepts": [
+    "Shadchan (שדכן) - professional or volunteer matchmaker in Jewish communities",
+    "Community networking and knowledge of families across different areas",
+    "Discrete investigation and reference checking before suggesting matches",
+    "Emotional support and guidance throughout the dating process",
+    "Mediation skills for resolving conflicts or misunderstandings",
+    "Maintaining confidentiality and ethical standards",
+    "Balancing honesty with sensitivity in providing feedback"
+  ],
+  "target_audience": "Those considering working with a shadchan; aspiring shadchanim; families new to the shidduch system",
+  "difficulty_level": "Beginner to Intermediate",
+  "estimated_reading_time": {
+    "en": "14-17 minutes",
+    "zh": "10-13 minutes",
+    "he": "13-16 minutes"
+  },
+  "practical_applications": [
+    "Understanding what to expect from a shadchan relationship",
+    "Learning how to communicate effectively with matchmakers",
+    "Appreciating the skills and challenges involved in matchmaking",
+    "Setting realistic expectations for the matchmaking process",
+    "Understanding the ethical obligations of shadchanim",
+    "Recognizing good vs. problematic matchmaking practices"
+  ],
+  "status": "complete",
+  "batch": "500",
+  "notes": "Comprehensive guide to the role and responsibilities of Jewish matchmakers, emphasizing community service, ethical standards, and professional skills required for successful matchmaking."
+}

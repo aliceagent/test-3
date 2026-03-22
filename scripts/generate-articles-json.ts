@@ -72,9 +72,9 @@ for (const section of sections) {
     try {
       const meta = JSON.parse(fs.readFileSync(metaPath, "utf-8"));
       const sectionSlug = toSlug(meta.section || section);
-      const titleEn = meta.title?.en || "";
-      const titleZh = meta.title?.zh || "";
-      const titleHe = meta.title?.he || "";
+      const titleEn = meta.title || "";
+      const titleZh = meta.title_zh || "";
+      const titleHe = meta.title_he || "";
       const bodyEn = readFileOrEmpty(path.join(dir, "article-en.md"));
       const bodyZh = readFileOrEmpty(path.join(dir, "article-zh.md"));
       const bodyHe = readFileOrEmpty(path.join(dir, "article-he.md"));

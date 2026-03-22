@@ -1,0 +1,36 @@
+{
+  "id": 505,
+  "title": "Long-Distance Shidduchim for Jews in Asia: Bridging Continents",
+  "title_zh": "亚洲犹太人的远距离配婚：连接大陆",
+  "title_he": "שידוכים למרחקים ארוכים ליהודים באסיה: גישור יבשות",
+  "section": "matchmaking",
+  "slug": "long-distance-asia",
+  "author": "Torah Light Project",
+  "date_created": "2026-03-22",
+  "languages": ["en", "zh", "he"],
+  "word_count": {
+    "en": 1820,
+    "zh": 1080,
+    "he": 1750
+  },
+  "tags": [
+    "LongDistance",
+    "Asia",
+    "Geography",
+    "Technology",
+    "Community",
+    "Global",
+    "Connection",
+    "Modern",
+    "Challenges",
+    "远距离",
+    "亚洲",
+    "JewishAsia",
+    "Innovation",
+    "Communication",
+    "Patience",
+    "Trust"
+  ],
+  "status": "complete",
+  "batch": "500"
+}

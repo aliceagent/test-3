@@ -1,0 +1,99 @@
+{
+  "id": 501,
+  "title": "What Is a Shidduch? Understanding Jewish Matchmaking",
+  "title_zh": "什么是配婚？理解犹太人的婚姻介绍",
+  "title_he": "מהו שידוך? הבנת השידוכים היהודיים",
+  "section": "matchmaking",
+  "slug": "what-is-shidduch",
+  "author": "Torah Light Project",
+  "date_created": "2026-03-22",
+  "languages": ["en", "zh", "he"],
+  "word_count": {
+    "en": 1650,
+    "zh": 980,
+    "he": 1580
+  },
+  "tags": [
+    "Shidduch",
+    "Matchmaking",
+    "Marriage",
+    "JewishTradition",
+    "Dating",
+    "Community",
+    "Family",
+    "Partnership",
+    "HolyRelationship",
+    "婚姻",
+    "媒人",
+    "JewishValues",
+    "Tradition",
+    "Blessing",
+    "Bashert",
+    "SoulMate",
+    "Sacred",
+    "Commitment"
+  ],
+  "chinese_parallels": [
+    {
+      "concept": "Matchmaker (媒人, méi rén)",
+      "connection": "Traditional Chinese marriage arrangements through intermediaries parallel the shadchan system"
+    },
+    {
+      "concept": "Family Harmony (家和, jiā hé)",
+      "connection": "Chinese emphasis on family compatibility mirrors Jewish focus on shared values in shidduchim"
+    },
+    {
+      "concept": "Destined Marriage (姻缘, yīn yuán)",
+      "connection": "Chinese concept of predestined matrimonial fate parallels Jewish belief in bashert"
+    }
+  ],
+  "torah_sources": [
+    {
+      "text": "Genesis 24:1-67",
+      "topic": "Abraham's servant finding Rebecca for Isaac - the first shidduch",
+      "url": "https://www.sefaria.org/Genesis.24.1-67"
+    },
+    {
+      "text": "Kiddushin 2a",
+      "topic": "How marriage is acquired in Jewish law",
+      "url": "https://www.sefaria.org/Kiddushin.2a"
+    },
+    {
+      "text": "Sotah 2a",
+      "topic": "Forty days before formation, a voice declares whose daughter this one will marry",
+      "url": "https://www.sefaria.org/Sotah.2a"
+    },
+    {
+      "text": "Sanhedrin 76a",
+      "topic": "Making matches is as difficult as splitting the Red Sea",
+      "url": "https://www.sefaria.org/Sanhedrin.76a"
+    }
+  ],
+  "key_concepts": [
+    "Shidduch - Jewish approach to finding a marriage partner through community involvement",
+    "Bashert (בשרת) - divinely intended soulmate or life partner",
+    "Shadchan (שדכן) - matchmaker who facilitates introductions",
+    "Dating for the purpose of marriage, not casual relationship",
+    "Community and family involvement in the process",
+    "Balancing practical considerations with spiritual connection",
+    "Prayer and divine guidance in finding one's match"
+  ],
+  "target_audience": "Young Jewish adults beginning to think about marriage; families supporting children in shidduchim; Jewish communities in Chinese-speaking regions",
+  "difficulty_level": "Beginner",
+  "estimated_reading_time": {
+    "en": "13-16 minutes",
+    "zh": "9-12 minutes",
+    "he": "12-15 minutes"
+  },
+  "practical_applications": [
+    "Understanding the purpose and process of Jewish matchmaking",
+    "Preparing mentally and spiritually for shidduch dating",
+    "Setting appropriate expectations for the process",
+    "Appreciating community involvement in finding a life partner",
+    "Balancing personal preferences with family input",
+    "Developing patience and trust in divine timing"
+  ],
+  "status": "complete",
+  "batch": "500",
+  "notes": "Foundational article explaining the Jewish approach to marriage introduction, emphasizing community involvement, spiritual dimension, and purposeful dating. Includes Chinese cultural parallels on matchmaking and family harmony."
+}
