@@ -10,6 +10,8 @@ import { supabase } from "@/lib/supabase";
 import { getArticleById, getArticlesBySection } from "@/lib/articles";
 import type { Article } from "@/lib/articles";
 import ArticleFeedback from "@/components/ArticleFeedback";
+import ArticleHeroImage from "@/components/ArticleHeroImage";
+import { articleImageMap } from "@/data/image-map";
 
 export default function ArticlePage() {
   const params = useParams();
@@ -52,9 +54,31 @@ export default function ArticlePage() {
   }
 
   function getBody(a: Article): string {
-    if (locale === "zh") return a.body_zh || a.body_en;
-    if (locale === "he") return a.body_he || a.body_en;
-    return a.body_en;
+    if (locale === "zh") return stripImageDescription(a.body_zh || a.body_en);
+    if (locale === "he") return stripImageDescription(a.body_he || a.body_en);
+    return stripImageDescription(a.body_en);
+  }
+
+  function stripImageDescription(body: string): string {
+    const patterns = [
+      /^>\s*\*\*Header Image Description \(DALL-E prompt\):\*\*[\s\S]*?(?=\n\n|\n(?!(?:>\s*)?$)|$)/gm,
+      /^>\s*\*\*题图描述（DALL-E提示）：\*\*[\s\S]*?(?=\n\n|\n(?!(?:>\s*)?$)|$)/gm,
+      /^>\s*\*\*תיאור תמונת כותרת \(DALL-E prompt\):\*\*[\s\S]*?(?=\n\n|\n(?!(?:>\s*)?$)|$)/gm,
+      /^\*Header Image Description:[\s\S]*?\*(?=\n\n|$)/gm,
+      /^\*标题图片描述：[\s\S]*?\*(?=\n\n|$)/gm,
+      /^\*标题图像描述：[\s\S]*?\*(?=\n\n|$)/gm,
+      /^\*头图描述：[\s\S]*?\*(?=\n\n|$)/gm,
+      /^\*תיאור תמונת הכותרת:[\s\S]*?\*(?=\n\n|$)/gm,
+      /^\*תיאור תמונה לכותרת:[\s\S]*?\*(?=\n\n|$)/gm,
+      /^\*תיאור תמונת כותרת:[\s\S]*?\*(?=\n\n|$)/gm,
+    ];
+
+    let stripped = body;
+    for (const pattern of patterns) {
+      stripped = stripped.replace(pattern, "");
+    }
+
+    return stripped.replace(/\n{3,}/g, "\n\n").trim();
   }
 
   function startEditing() {
@@ -180,6 +204,13 @@ export default function ArticlePage() {
         </h1>
         <div className="h-1 w-20 bg-[var(--color-gold)] rounded" />
       </header>
+
+      {articleImageMap[article.id] && (
+        <ArticleHeroImage
+          filename={articleImageMap[article.id]!.filename}
+          alt={title}
+        />
+      )}
 
       {/* Submitted confirmation */}
       {submitted && (
