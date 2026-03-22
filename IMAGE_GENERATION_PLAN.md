@@ -3,12 +3,11 @@
 ## Current State
 
 - **363 articles** across 35 sections
-- **274 articles** have DALL-E prompt descriptions embedded in the English body text as markdown blockquotes:
+- **All 363 articles** have DALL-E prompt descriptions embedded in the English body text as markdown blockquotes:
   ```
   > **Header Image Description (DALL-E prompt):** A majestic Chinese brushstroke landscape...
   ```
 - **14 articles** also have descriptions in Chinese/Hebrew bodies
-- **89 articles** have NO image description — these will need descriptions written or images skipped
 - Images are **not rendered** — the description text is displayed as a styled blockquote to the reader
 - The article page already has a custom `<img>` component in `react-markdown` that applies `rounded-xl shadow-md max-w-full h-auto my-6`
 
@@ -99,7 +98,7 @@ Examples:
 The mapping between article IDs and filenames lives in `scripts/image-manifest.json`.
 
 ### Git LFS (Recommended)
-Since there will be ~274 × 3 = **822 image files**, configure Git LFS:
+Since there will be ~363 × 3 = **1,089 image files**, configure Git LFS:
 ```bash
 git lfs install
 git lfs track "public/images/articles/**/*.webp"
@@ -210,7 +209,7 @@ import ArticleHeroImage from "@/components/ArticleHeroImage";
 ```
 
 ### 5c. Fallback for articles without images
-For the 89 articles without image descriptions, render nothing (no broken image). The article displays as it does today.
+All 363 articles now have DALL-E prompts. If any future articles are added without prompts, render nothing (no broken image) — the article displays as it does today.
 
 ---
 
@@ -235,7 +234,7 @@ For article listing pages (`ContentPage.tsx`), optionally add small thumbnail im
 
 ## Execution Checklist
 
-1. [ ] Run extraction script → `scripts/image-manifest.json` (274 entries)
+1. [ ] Run extraction script → `scripts/image-manifest.json` (363 entries)
 2. [ ] Generate images via DALL-E 3 API using each prompt (batch process)
 3. [ ] Convert PNGs to WebP and resize to 3 variants using `sharp`
 4. [ ] Generate blur placeholders
@@ -252,6 +251,6 @@ For article listing pages (`ContentPage.tsx`), optionally add small thumbnail im
 
 ## Cost & Size Estimates
 
-- **DALL-E 3 cost**: ~274 images × $0.08/image (1792×1024) = **~$22**
-- **Storage**: 274 × 3 variants × ~100 KB avg = **~80 MB total**
+- **DALL-E 3 cost**: ~363 images × $0.08/image (1792×1024) = **~$29**
+- **Storage**: 363 × 3 variants × ~100 KB avg = **~106 MB total**
 - **Build impact**: Images in `public/` are served statically, no build-time processing needed
