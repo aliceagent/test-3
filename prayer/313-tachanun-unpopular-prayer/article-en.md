@@ -1,5 +1,7 @@
 # Tachanun: The Most Unpopular Prayer and Why We Need It
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese ink wash landscape showing a solitary figure bowing deeply beside a weathered rock at the edge of a misty river, surrounded by weeping willow trees. The composition uses muted grays and soft blues with touches of sepia, creating a contemplative and humble atmosphere. Morning mist rises from the water, partially obscuring distant mountains. The figure's posture conveys vulnerability and earnest supplication. Traditional shan shui style with delicate brushwork emphasizing the theme of human smallness before the vastness of the divine.
 
 ---
@@ -256,5 +258,3 @@ That's why we need Tachanun. That's why it's still here. And that's why, tomorro
 ## Tags
 
 #Prayer #Tachanun #Confession #Vulnerability #Humility #DivineAttributes #ThirteenAttributes #Teshuvah #Repentance #Supplication #Mussar #SelfExamination #KavanahinPrayer #Anavah #Nefilatapayim #祈祷 #认罪 #谦卑 #悔改 #自省
-
----

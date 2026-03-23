@@ -1,5 +1,7 @@
 # Thinking About Converting? What You Need to Know First
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese brushstroke (水墨) landscape showing a winding path leading up a misty mountain. At the base of the mountain, a small figure stands at the beginning of the path, looking upward. The path winds through clouds and pine trees, ascending to a distant peak where golden light breaks through. Style: traditional shan shui painting with muted grays, blues, and touches of gold. Mood: contemplative, representing the journey of commitment and transformation. The mountain symbolizes the spiritual ascent of conversion.
 
 ---

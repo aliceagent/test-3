@@ -1,5 +1,7 @@
 # Devarim: Moses's Farewell — How to Say Goodbye with Purpose
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese ink wash landscape in traditional shan shui style showing an elderly sage figure (Moses) standing on a mountain peak overlooking a vast valley. Below, thousands of small figures (the Israelites) gather in camps. The scene uses muted earth tones — deep charcoal grays, soft browns, and subtle touches of blue in distant mountains. Wispy clouds drift around the peaks. The composition conveys both majesty and melancholy, capturing the weight of farewell and transition. Style: Traditional Chinese brushstroke technique with flowing, confident lines and atmospheric perspective.
 
 ---
@@ -96,5 +98,3 @@ When it's your time to say goodbye — whether to a job, a community, or a relat
 ## Tags
 
 #Moses #Devarim #Leadership #Farewell #Transition #Deuteronomy #WeeklyParsha #Succession #LegacyBuilding #EndingsAsBeginnings #商朝 #反思
-
----

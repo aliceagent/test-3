@@ -1,5 +1,7 @@
 # Tikkun Olam: The Original Meaning vs. the Modern Usage
 
+---
+
 > **Header Image Description (DALL-E prompt):** A Chinese shan shui landscape showing a vast cosmic scene divided into two halves — on the left, a misty mountain landscape with broken pottery shards at its base being carefully reassembled by invisible hands (suggesting divine repair), and on the right, human figures working together to build a bridge across a valley, planting trees, and helping each other climb. The style should be traditional water-ink painting with subtle gold accents representing divine light filtering through clouds. The mood is both mystical and practical, ancient yet timeless, conveying both cosmic restoration and earthly action.
 
 ---
@@ -275,5 +277,3 @@ As the Talmud teaches (Pirkei Avot 2:16): **"It is not your duty to finish the w
 ## Tags
 
 #TikkunOlam #SocialJustice #Kabbalah #Tzedakah #JewishEthics #LurianicKabbalah #Mishnah #Talmud #JewishPhilosophy #PropheticJustice #GemilutChasadim #TorahAndEthics #CosmicRepair #JewishLaw #ModernJudaism #ProgressiveJudaism #OrthodoxJudaism #Arizal #明朝 #汉朝 #礼 #道 #天
-
----

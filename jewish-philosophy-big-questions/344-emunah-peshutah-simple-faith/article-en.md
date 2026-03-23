@@ -1,5 +1,7 @@
 # Emunah Peshutah: The Power of Simple Faith
 
+---
+
 > **Header Image Description (DALL-E prompt):** Traditional Chinese ink wash (水墨) landscape showing a solitary figure standing on a mountain peak gazing at the infinite sky, mists swirling around distant peaks, a single bird flying overhead. The composition emphasizes vast emptiness and trust — rendered in soft grays and blues with minimal detail, evoking the simplicity and wholehearted surrender of simple faith. Serene and contemplative mood, in the style of Song Dynasty shan shui painting.
 
 ---

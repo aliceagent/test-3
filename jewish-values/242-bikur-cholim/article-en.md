@@ -1,5 +1,7 @@
 # Bikur Cholim: The Mitzvah of Visiting the Sick
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese brushstroke landscape in traditional shan shui (山水) style, depicting a winding stone path through misty mountains leading to a humble dwelling where two figures sit together in conversation. One figure appears weary, the other offering comfort. Soft earth tones of grey, beige, and gentle green with touches of warm amber light streaming through bamboo. The composition emphasizes connection and compassion, with the path symbolizing the journey we make to reach those in need. Mood: contemplative, warm, and deeply humanistic.
 
 ---
@@ -149,5 +151,3 @@ The mitzvah of visiting the sick is ultimately about recognizing a simple truth:
 ## Tags
 
 #BikurCholim #VisitingTheSick #Chesed #LovingKindness #Mitzvah #InterpersonalLaws #Compassion #Healthcare #MentalHealth #Community #仁 #探病 #Talmud #JewishLaw #SocialJustice #Abraham #Rambam #Maimonides #JewishValues #chesed
-
----

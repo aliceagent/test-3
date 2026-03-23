@@ -1,5 +1,7 @@
 # Starting a Jewish Community from Scratch: Lessons from Asia's Pioneers
 
+---
+
 > **Header Image Description (DALL-E prompt):** A Chinese brushstroke landscape showing a small wooden pavilion on a hilltop overlooking a vast valley, with a narrow winding path leading up to it from the distant plains below. In the foreground, several figures in traditional robes stand at the base of the path, looking upward. The scene is rendered in traditional shan shui (山水) style with muted earth tones — sepia ink, soft grays, and touches of pale blue — conveying both the challenge of the journey ahead and the quiet determination of those beginning it. The mood is contemplative yet hopeful, capturing the essence of pioneers starting something meaningful from nothing.
 
 ---
@@ -347,5 +349,3 @@ That's not just community building. It's a form of tikkunolam — repairing and 
 ## Tags
 
 #JewishCommunity #AsianJewry #CommunityBuilding #Minyan #Shabbat #Kashrut #JewishEducation #JewsInAsia #Bangkok #Manila #Chengdu #Pioneers #SmallCommunities #Leadership #TikunOlam #犹太社区 #亚洲犹太人
-
----

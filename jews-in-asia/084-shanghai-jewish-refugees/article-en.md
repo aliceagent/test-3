@@ -1,5 +1,7 @@
 # Shanghai's Jewish Refugees: How China Saved Thousands During the Holocaust
 
+---
+
 > **Header Image Description (DALL-E prompt):** A Chinese brushstroke landscape (shan shui style) depicting 1940s Shanghai waterfront at dusk. In the foreground, the silhouettes of Jewish refugee families with suitcases walk along the Bund, their forms rendered in gentle ink wash. Behind them, the distinctive Art Deco skyline of pre-war Shanghai rises in layered ink gradations. In the harbor, a passenger ship approaches the dock. Traditional Chinese architectural elements (curved rooftops of Hongkou district) blend with Western colonial buildings. Color palette: sepia and warm grays with subtle touches of amber lamplight reflecting on water. Mood: hopeful yet poignant, conveying sanctuary and exile simultaneously.
 
 ---

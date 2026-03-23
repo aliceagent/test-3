@@ -2,6 +2,8 @@
 
 ## Introduction: When Geography Becomes Destiny
 
+---
+
 If you open a map of Israel, you'll notice something striking: despite being a small country (roughly the size of New Jersey or Beijing municipality), the Land of Israel contains an extraordinary diversity of landscapes. From the arid deserts of the south to the lush hills of the north, from mountain peaks to the lowest point on Earth, this tiny sliver of land between the Mediterranean and the Jordan River has shaped—and been shaped by—the Jewish people for millennia.
 
 Three regions stand out both in biblical narrative and in modern Israeli consciousness: the **Negev** (הַנֶּגֶב), the **Galilee** (הַגָּלִיל), and the **Jordan Valley** (עֵמֶק הַיַּרְדֵּן). These aren't just physical spaces—they're stages where biblical drama unfolded, where prophets wandered, where battles were fought, and where the Jewish people forged their identity.

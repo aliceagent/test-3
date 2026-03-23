@@ -1,5 +1,7 @@
 # Torah Reading in the Synagogue: What's Happening and Why
 
+---
+
 > **Header Image Description (DALL-E prompt):** A Chinese brushstroke (水墨) landscape showing a traditional synagogue interior rendered in shan shui (山水) style. In the foreground, figures in traditional Jewish prayer shawls gather around an elevated platform (bimah) where a Torah scroll is being read. The scroll unfurls like a flowing river, its Hebrew letters transforming into misty clouds that rise toward ornate ark doors on the far wall. Soft earth tones of sepia, gold, and deep blue dominate. Shafts of light filter through high windows, creating a serene, contemplative atmosphere. Style: traditional Chinese ink wash painting meets Jewish sacred space, emphasizing the reverence and communal nature of Torah study.
 
 ---
@@ -227,5 +229,3 @@ Torah is called a "tree of life" because it is meant to be living, active, and l
 ## Tags
 
 #TorahStudy #TorahReading #Aliyah #Synagogue #Shabbat #Haftarah #BiblicalLaw #JewishPrayer #JewishRitual #MountSinai #Temple #犹太教 #律法 #安息日 #会堂 #西周 #东汉
-
----

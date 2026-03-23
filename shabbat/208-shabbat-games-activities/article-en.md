@@ -1,5 +1,7 @@
 # Shabbat Games and Activities: Fun Without Screens
 
+---
+
 When Shabbat arrives each Friday evening, Orthodox Jews unplug from technology for 25 hours. No phones, no computers, no television, no video games. For families accustomed to digital entertainment, this can seem daunting. But Shabbat without screens isn't about deprivation—it's about rediscovering a different kind of fun, the kind that brings families together through laughter, conversation, and creativity.
 
 The prohibition against using electricity on Shabbat has roots in the Torah's command to rest and refrain from creative work (*melachah*). While our ancestors didn't have screens to worry about, the principle remains: Shabbat is about human connection, not digital stimulation. In a world where children grow up with tablets and parents check phones compulsively, Shabbat offers a weekly reset—a chance to remember what play looked like before pixels.

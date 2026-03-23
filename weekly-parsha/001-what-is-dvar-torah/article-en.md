@@ -1,5 +1,7 @@
 # What is a Dvar Torah and How to Prepare One
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese brushstroke style landscape painting depicting a traditional family gathered around a table in a peaceful mountain setting. Soft ink wash technique with muted earth tones. A warm glow emanates from candles on the table. An open scroll or book lies before them. Misty mountains in the background, bamboo and pine trees frame the scene. Style: traditional Chinese shan shui (山水) landscape painting with subtle gold accents suggesting sacred wisdom being shared. Peaceful, contemplative mood.
 
 ---

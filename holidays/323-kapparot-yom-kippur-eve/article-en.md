@@ -1,5 +1,7 @@
 # Kapparot: The Yom Kippur Eve Atonement Ritual
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese ink wash painting depicting dawn on Yom Kippur eve. In traditional shan shui style, show a solitary figure standing on a hillside holding a white bird, with mist-shrouded mountains in the background. The composition uses soft gradients from deep indigo to pale gray, with delicate brushstrokes suggesting movement and spiritual transformation. The mood is contemplative and hopeful, evoking themes of purification and new beginnings.
 
 ---

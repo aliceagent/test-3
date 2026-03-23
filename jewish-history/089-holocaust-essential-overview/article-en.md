@@ -1,5 +1,7 @@
 # The Holocaust: What Every Jewish Learner Should Know
 
+---
+
 > **Header Image Description (DALL-E prompt):** A somber Chinese ink wash (水墨) landscape in muted grays and blacks, depicting a vast, desolate field under an overcast sky. In the foreground, six memorial stones or cairns stand in a row, each weathered and slightly different in height, symbolizing the six million. Behind them, a single stark birch tree with white bark stands leafless against the gray sky. In the far distance, barely visible through mist, the silhouette of barbed wire fencing. The composition is minimal, with vast empty space dominating the image. Colors: charcoal blacks, ash grays, cold whites, with no warmth. Style: traditional Chinese landscape but stripped of its usual serenity—instead conveying absence, loss, and solemn remembrance. Mood: grief, memorial, the weight of history, "never forget."
 
 ---

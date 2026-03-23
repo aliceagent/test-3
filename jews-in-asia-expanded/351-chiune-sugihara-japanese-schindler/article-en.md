@@ -1,5 +1,7 @@
 # Chiune Sugihara: The Japanese Diplomat Who Saved 6,000 Jews
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese brushstroke landscape depicting a lone figure standing at an open window in traditional Japanese architectural style, overlooking a distant path where countless small silhouettes walk toward a horizon of hope. The scene combines shan shui mountain elements in the background with a warm dawn light breaking through mist. Muted earth tones with subtle golden accents. The mood is contemplative yet determined, capturing the quiet heroism of one person changing the fate of thousands. Ink wash style with delicate line work.
 
 ---

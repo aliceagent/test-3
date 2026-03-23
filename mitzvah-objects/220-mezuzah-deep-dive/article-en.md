@@ -1,5 +1,7 @@
 # Mezuzah Deep Dive: What's Inside the Scroll and Why It Matters
 
+---
+
 You've probably seen them on doorposts in Jewish homes — small decorative cases affixed at an angle. But what's actually inside a mezuzah? Why does it matter so much? And what makes a kosher mezuzah different from a decorative one?
 
 Let's open the case and explore one of Judaism's most visible mitzvot.

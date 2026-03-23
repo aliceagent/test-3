@@ -1,5 +1,7 @@
 # The Birth of the State of Israel in 1948
 
+---
+
 > **Header Image Description (DALL-E prompt):** A Chinese brushstroke landscape depicting the Tel Aviv coastline at dawn on May 14, 1948. In the foreground, a small group of figures in 1940s attire stand on a sandy shore, looking toward a rising sun over the Mediterranean Sea. The sky transitions from deep indigo to warm gold, symbolizing the dawn of a new nation. In the middle ground, the city's modest buildings are rendered in soft ink washes, with subtle blue and white flags emerging. The composition follows traditional shan shui principles with foreground detail, atmospheric middle ground, and luminous background. Muted earth tones with accents of blue and white. Mood: hopeful, historic, contemplative.
 
 ---

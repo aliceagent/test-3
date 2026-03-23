@@ -1,5 +1,7 @@
 # Does God Exist? The Jewish Philosophical Arguments
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese shan shui (山水) landscape in traditional ink wash style, featuring a solitary figure standing on a misty mountain peak gazing upward at the vast starry night sky. The composition shows layers of mountains fading into the distance, with pine trees clinging to rocky cliffs. In the heavens above, subtle swirls suggest cosmic order and divine presence. The color palette uses deep indigo blues transitioning to warm earth tones, with touches of gold in the stars. The mood is contemplative and awe-inspiring, evoking both the smallness of humanity and the grandeur of creation. Style: traditional Chinese brushwork with Song Dynasty aesthetic, emphasizing negative space and the interplay between emptiness and presence.
 
 ---

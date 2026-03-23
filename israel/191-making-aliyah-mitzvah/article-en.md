@@ -1,5 +1,7 @@
 # Making Aliyah: The Mitzvah of Living in Israel
 
+---
+
 The word *aliyah* (עלייה) literally means "going up" or "ascending." In Jewish life, it has several meanings: being called up to the Torah in synagogue, immigrating to Israel, or even spiritual elevation. But when Jews speak about "making aliyah," they're referring to something profound: returning home to the Land of Israel.
 
 For thousands of years, Jews in exile have prayed three times daily facing Jerusalem, concluded their Passover Seders with the words "Next year in Jerusalem," and broken a glass at weddings to remember the destruction of the Temple. This deep connection to the Land of Israel isn't merely sentimental—it's rooted in Torah law, Jewish history, and the very identity of the Jewish people.

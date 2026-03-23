@@ -1,4 +1,6 @@
 # Ribbit: Why Jews Cannot Charge Interest to Other Jews
+---
+
 # 利息禁令：为什么犹太人不能向同胞收取利息
 
 > **Header Image Description (DALL-E prompt):** A Chinese brushstroke (水墨) landscape depicting two merchants in traditional robes meeting at a crossroads in a mountainous valley. One extends a scroll (contract) while the other holds a bag of coins, but both stand on equal ground beside a flowing stream that represents fairness and mutual support. The scene is rendered in muted earth tones—soft grays, browns, and touches of indigo—with misty mountains in the background symbolizing ancient wisdom. The composition conveys trust, community, and ethical exchange. Mood: contemplative and harmonious, emphasizing brotherhood over profit.
@@ -159,5 +161,3 @@ Even if you're not Orthodox, the principle behind *ribbit* offers wisdom:
 ## Tags
 
 #Ribbit #Interest #JewishLaw #Tzedakah #Gemach #BusinessEthics #Torah #Lending #Community #Chesed #HeterIska #利息 #慈善 #犹太律法 #商业伦理
-
----

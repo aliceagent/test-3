@@ -1,5 +1,7 @@
 # Starting a Jewish Study Group in Your City
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese brushstroke landscape showing a small pavilion on a hillside where several figures gather around a table with scrolls and books. Misty mountains in the background, a winding path leading to the pavilion, traditional ink wash technique in shades of grey, indigo, and warm ochre. Pine trees frame the scene. The mood is contemplative and scholarly, evoking both Chinese literati gatherings and Jewish study traditions. Soft morning light filters through clouds.
 
 ---
@@ -362,5 +364,3 @@ And start.
 ## Tags
 
 #Community #TorahStudy #StudyGroup #Chavruta #PirkeiAvot #ChineseCulture #儒家 #学习小组 #ConversionJourney #JewishLearning #BeginnerFriendly #Sefaria #Chabad #RemoteCommunity #Asia #犹太教学习
-
----

@@ -1,5 +1,7 @@
 # Hachnasat Orchim: The Art of Jewish Hospitality
 
+---
+
 > **Header Image Description (DALL-E prompt):** A Chinese brushstroke (shan shui) style landscape showing a warm, welcoming home with an open door and light streaming out into the evening. In the foreground, travelers approach on a winding path through gentle mountains. The scene combines traditional Chinese ink wash techniques with subtle warm golden tones from the doorway, creating a mood of invitation and warmth. Delicate trees frame the composition, and small details like a lamp in the window suggest readiness to receive guests. The overall atmosphere is serene yet inviting, capturing the essence of hospitality across cultures.
 
 ---

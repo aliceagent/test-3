@@ -1,4 +1,6 @@
 # Chol HaMoed: The In-Between Days of Sukkot and Pesach
+---
+
 # 节中日:逾越节与住棚节的中间日子
 
 > **Header Image Description (DALL-E prompt):** A serene Chinese shan shui (山水) landscape in traditional ink wash style depicting a journey through intermediate terrain — travelers crossing a gentle bridge over a stream between spring blossoms (representing Pesach) and autumn harvest fields (representing Sukkot). The composition shows the middle portion of a longer path, with mist softening distant mountains, suggesting transition and journey. Muted earth tones with subtle touches of green and gold. Mood: contemplative, balanced between work and rest, suggesting the sacred within the ordinary.

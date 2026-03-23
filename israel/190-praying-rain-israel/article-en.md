@@ -1,5 +1,7 @@
 # Praying for Rain in Israel: How Weather Connects Jews Worldwide
 
+---
+
 When you live far from Israel, it's easy to think of the land as something abstract—a place you read about in prayers, a destination for future travel, perhaps. But Judaism has a beautiful way of making sure you never forget: every day, twice a day, Jews around the world pray for rain to fall in Israel.
 
 Even if you live in Shanghai, New York, or Buenos Aires. Even if your own city is experiencing drought or flood. You pray for rain in the Land of Israel.

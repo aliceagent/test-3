@@ -1,5 +1,7 @@
 # Latkes vs. Sufganiyot: The Great Chanukah Food Debate
 
+---
+
 > **Header Image Description (DALL-E prompt):** A traditional Chinese ink wash (水墨) landscape featuring a moonlit winter scene. In the foreground, two stone cooking vessels sit on either side of a winding path through a snow-dusted garden, one releasing steam shaped like a menorah. Pine trees frame the composition with subtle golden light filtering through their branches. Style: shan shui (山水) with muted grays, blues, and soft golden accents. Mood: warm, celebratory, bridging Eastern and Western culinary traditions.
 
 ---
@@ -292,5 +294,3 @@ So this Chanukah, gather your family around the kitchen. Heat up the oil. Fry so
 ## Tags
 
 #Chanukah #Latkes #Sufganiyot #FriedFoods #OilMiracle #Maccabees #JewishFood #ChineseJewishCuisine #ScallionPancakes #葱油饼 #ChanukkahRecipes #Holidays #光明节 #PirsumeiNisa #AsianJews
-
----

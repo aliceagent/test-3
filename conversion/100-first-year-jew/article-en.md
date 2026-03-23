@@ -1,5 +1,7 @@
 # Your First Year as a Jew: A Month-by-Month Guide
 
+---
+
 > **Header Image Description (DALL-E prompt):** A Chinese shan shui (山水) landscape painting showing a winding path through rolling hills, representing a year-long journey. The path spirals gently upward through four distinct seasonal sections — spring blossoms (pink and white plum), summer greenery (lush bamboo), autumn foliage (red maple leaves), and winter snow (white peaks). Along the path are 12 small stone markers representing each month, with gentle mist rising between the hills. A lone traveler with a walking staff moves upward along the path. The style is traditional ink wash with delicate brushwork, subtle earth tones (browns, greens, soft reds), and a contemplative, peaceful mood suggesting steady spiritual growth and cyclical renewal.
 
 ---
@@ -310,5 +312,3 @@ Welcome home.
 ## Tags
 
 #Conversion #FirstYear #JewishCalendar #Holidays #RoshHashana #YomKippur #Sukkot #Chanukah #Purim #Pesach #Passover #Shavuot #TishaBAv #Elul #Teshuvah #Shabbat #DailyPractice #Torah #BeginnerGuide #MonthByMonth #JewishLife #转换 #犹太新年 #逾越节 #住棚节 #光明节 #普珥节 #圣殿被毁日
-
----

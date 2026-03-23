@@ -2,6 +2,8 @@
 
 ## Introduction
 
+---
+
 The moment arrives on a Saturday morning in a synagogue. A thirteen-year-old boy stands before the Torah scroll, his voice trembling slightly as he chants ancient Hebrew words his ancestors have recited for millennia. His family watches with pride and perhaps a few tears. This is his Bar Mitzvah — the day he becomes, in Jewish law, an adult responsible for his own actions and choices.
 
 For many outside the Jewish community, Bar and Bat Mitzvah celebrations might seem like elaborate birthday parties. But beneath the festivities lies a profound transition that has shaped Jewish identity for centuries. This coming-of-age milestone represents one of Judaism's most significant moments: the point when a child assumes full religious responsibility and becomes counted as an adult member of the community.

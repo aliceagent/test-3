@@ -1,5 +1,7 @@
 # Mesillat Yesharim: A Roadmap for Spiritual Growth
 
+---
+
 > **Header Image Description (DALL-E prompt):** A traditional Chinese shan shui (山水) landscape painting in ink wash style, depicting a winding mountain path ascending through mist-shrouded peaks. Along the path are ten ascending platforms or terraces, each marked by a small stone lantern, representing stages of spiritual ascent. The composition moves from dark valleys at the bottom to luminous peaks above, with a solitary figure in traditional robes climbing the path. Style: contemplative, serene atmosphere with dramatic vertical composition; muted blacks, grays, and subtle golds; emphasis on the journey upward through layers of cloud and stone.
 
 ---

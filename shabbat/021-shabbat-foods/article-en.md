@@ -1,4 +1,6 @@
 # Cholent and Other Shabbat Foods: Recipes for the Chinese Kitchen
+---
+
 # 炖肉煲与安息日美食：中式厨房的犹太食谱
 
 > **Header Image Description (DALL-E prompt):** A Chinese ink wash (水墨) landscape painting in shan shui (山水) style depicting a warm, glowing kitchen scene with traditional earthenware pots simmering over gentle coals. In the background, misty mountains suggest the passage of time from Friday evening to Saturday afternoon. The foreground shows ornate ceramic bowls containing rich stews, braided bread (challah), and layered pastries, rendered in muted earth tones—ochre, warm browns, soft blacks—with accents of golden firelight. The composition evokes both Jewish Shabbat hospitality and Chinese slow-cooking traditions. The mood is serene, contemplative, and inviting, with steam rising gently from the pots like morning mist over a river.
@@ -386,5 +388,3 @@ Because ultimately, Shabbat food isn't just about satisfying hunger—it's about
 ## Tags
 
 #Shabbat #Cholent #ShabbatFood #KosherCooking #Kugel #GefiltefFish #Kubaneh #Jachnun #39Melachot #ChineseCuisine #煲汤 #炖菜 #团圆饭 #ShabbatRecipes #JewishCooking #HalachicCooking #SlowCooking #ShabbatPreparation #JewishTradition #ChineseJewishFusion
-
----

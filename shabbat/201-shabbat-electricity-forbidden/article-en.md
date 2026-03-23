@@ -1,5 +1,7 @@
 # Shabbat Electricity: What's Really Forbidden and Why
 
+---
+
 When people first learn about Orthodox Jewish life, few things puzzle them more than the electricity restriction on Shabbat. No lights? No phones? No refrigerator? Actually, it's not quite that simple — and understanding *why* creates a fascinating window into how ancient wisdom applies to modern technology.
 
 ## The Real Question: What is Melacha?

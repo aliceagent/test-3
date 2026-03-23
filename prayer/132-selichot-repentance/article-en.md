@@ -1,5 +1,7 @@
 # Selichot: The Prayers of Repentance Before the High Holidays
 
+---
+
 In the pre-dawn darkness, voices gather in hushed sanctuaries around the world. The haunting melodies of Selichot pierce the silence—prayers of repentance that prepare Jewish hearts for the awe-inspiring days ahead. These liturgical poems, some dating back over a thousand years, serve as spiritual preparation for Rosh Hashanah and Yom Kippur, awakening the soul to the sacred work of teshuvah (repentance).
 
 ## The Dawn of Spiritual Awakening

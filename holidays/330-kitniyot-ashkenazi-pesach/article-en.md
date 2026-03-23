@@ -1,5 +1,7 @@
 # Kitniyot: Why Ashkenazi Jews Don't Eat Rice on Pesach (and Sephardim Do)
 
+---
+
 > **Header Image Description (DALL-E prompt):** A Chinese ink wash painting depicting two tables side by side in traditional shan shui style. The left table displays bowls of rice, lentils, and beans with subtle Eastern aesthetics. The right table shows matzah and traditional Passover foods. Between them, a delicate bamboo screen creates gentle separation while maintaining visual harmony. The color palette is muted earth tones with warm browns and soft grays, conveying both respect and contemplation. The mood is peaceful and reflective, suggesting unity within diversity. Soft misty mountains fade in the background, symbolizing ancient traditions meeting across cultures.
 
 ---
@@ -406,5 +408,3 @@ Whether you choose to eat rice on Passover or not, understanding why some Jews d
 ## Tags
 
 #Kitniyot #Passover #Pesach #Ashkenazi #Sephardi #Halacha #JewishLaw #Minhag #Holidays #KosherForPassover #Rice #Legumes #ConservativeJudaism #Orthodoxy #JewishCustom #ChineseCulture #宋朝 #习俗 #FoodCulture #JewishUnity
-
----

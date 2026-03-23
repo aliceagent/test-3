@@ -1,5 +1,7 @@
 # Ten Teachings from Pirkei Avot That Will Change Your Daily Life
 
+---
+
 Pirkei Avot, often translated as "Ethics of the Fathers," is a unique tractate in the Mishnah entirely devoted to ethical teachings and life wisdom. Unlike other parts of the Talmud that focus on legal minutiae, Pirkei Avot reads like a collection of profound life advice passed down from generation to generation of Jewish sages.
 
 These teachings, compiled around 200 CE but containing wisdom stretching back centuries earlier, remain remarkably relevant to modern life. Whether you're navigating workplace relationships, managing your time, or seeking personal growth, the insights of Pirkei Avot offer timeless guidance.

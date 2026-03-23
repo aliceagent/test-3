@@ -1,5 +1,7 @@
 # Chabad Houses in China: Your Complete Directory and Guide
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese ink wash (水墨) landscape showing a traditional Chinese cityscape with modern skyscrapers in the background, connected by a gentle flowing river. In the foreground, warm candlelight glows from windows of buildings adorned with both Chinese architectural elements and subtle Jewish symbols (mezuzahs, a menorah silhouette). The scene bridges ancient and modern, East and West, rendered in traditional shan shui style with muted grays, soft blues, and warm amber accents from the candles. Mood: welcoming, harmonious, a meeting of two ancient cultures.
 
 ---

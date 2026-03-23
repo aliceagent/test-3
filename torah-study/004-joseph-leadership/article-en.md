@@ -1,5 +1,7 @@
 # The Story of Joseph: Leadership, Forgiveness, and Family
 
+---
+
 > **Header Image Description (DALL-E prompt):** A Chinese shan shui (山水) ink wash landscape depicting a lone figure in traditional robes standing on a cliff overlooking a vast river valley. In the distance, pyramidal mountains rise through mist, suggesting both Chinese peaks and Egyptian grandeur. The figure faces away from the viewer, hands clasped behind his back in contemplation. Seven stalks of grain grow from the rocky cliff edge, bending in the wind. The composition uses traditional Chinese brushwork with flowing water, minimal color (blacks, grays, subtle gold accents), and captures a mood of quiet dignity, resilience, and destiny. Style: Song Dynasty landscape painting merged with subtle Egyptian architectural elements in the distant mountains.
 
 ---

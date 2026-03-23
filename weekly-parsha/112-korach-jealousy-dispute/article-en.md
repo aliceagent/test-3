@@ -1,5 +1,7 @@
 # Korach: The Dangers of Jealousy and Dispute
 
+---
+
 > **Header Image Description (DALL-E prompt):** A traditional Chinese ink wash (水墨) landscape featuring a deep mountain chasm with misty peaks. The earth appears to be opening in a dramatic fissure, while cherry blossom trees bend away from the disturbance. In the foreground, wisps of incense smoke rise toward storm clouds, representing prayers ascending amid conflict. The style is reminiscent of Song Dynasty paintings with muted earth tones of brown, gray, and subtle touches of red, conveying both the solemnity of the moment and the eternal beauty of learning from our mistakes.
 
 ---
@@ -117,5 +119,3 @@ Korach sought power and was destroyed. Moses, who welcomed sharing influence wit
 ## Tags
 
 #Korach #Jealousy #Machlokes #MachloketLShemShamayim #Leadership #Moses #Rebellion #Argument #Constructive #Destructive #Jealousy #Torah #WeeklyParsha #商朝 #ShangDynasty #阴阳 #YinYang #Harmony #Debate #Community #Authority #嫉妒 #争论
-
----

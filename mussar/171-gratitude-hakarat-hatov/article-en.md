@@ -2,6 +2,8 @@
 
 ## Introduction
 
+---
+
 The Hebrew phrase *hakarat hatov* (הכרת הטוב) literally translates as "recognizing the good." While English uses the word "gratitude" to describe the feeling of thankfulness, the Hebrew expression reveals something deeper: gratitude isn't merely an emotion we feel—it's an active practice of *recognizing* and *acknowledging* the goodness that surrounds us. In Jewish thought, gratitude forms one of the fundamental character traits (middot) that shape how we interact with God, other people, and the world itself.
 
 Judaism teaches that an ungrateful person cannot have a relationship with God. Why? Because gratitude is the foundation upon which all spiritual growth rests. The very first word that a Jew says each morning—*Modeh* (I am grateful)—sets the tone for the entire day. Before our feet touch the ground, before we've accomplished anything or even opened our eyes fully, we acknowledge: "I am grateful before You, living and eternal King, for You have mercifully restored my soul within me; Your faithfulness is great."

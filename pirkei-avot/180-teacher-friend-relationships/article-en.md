@@ -2,6 +2,8 @@
 
 ## Introduction
 
+---
+
 In Pirkei Avot (Ethics of the Fathers) 1:6, Rabbi Yehoshua ben Perachya teaches: "Make for yourself a teacher, acquire for yourself a friend, and judge every person favorably." This seemingly simple instruction contains profound wisdom about how we grow as human beings and how we navigate the journey of learning Torah and living a meaningful Jewish life.
 
 The teaching appears in the opening chapter of Pirkei Avot, a tractate of the Mishnah devoted entirely to ethical wisdom and character development. Unlike other parts of the Talmud that deal with ritual law or legal disputes, Pirkei Avot focuses on how we should conduct ourselves, how we should think, and how we should relate to others. This particular teaching addresses a fundamental truth: we cannot grow alone.

@@ -1,5 +1,7 @@
 # What to Learn Before Your Beit Din: A Study Checklist
 
+---
+
 The journey toward conversion reaches a critical milestone when you appear before a beit din—a rabbinical court of three learned judges who will evaluate your readiness to join the Jewish people. This moment can feel overwhelming, especially for those who began their journey with no prior Jewish knowledge. What should you know? How much detail is enough? What if you forget something important?
 
 This comprehensive checklist will help you prepare systematically for your beit din appearance, covering the essential knowledge areas while recognizing that every beit din has slightly different expectations. Think of this not as cramming for an exam, but as ensuring you have the foundational knowledge to live a meaningful Jewish life.

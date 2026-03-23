@@ -1,5 +1,7 @@
 # Ona'ah: The Prohibition Against Overcharging
 
+---
+
 > **Header Image Description (DALL-E prompt):** A traditional Chinese brushstroke (水墨) landscape showing a serene marketplace in a valley at dawn, with merchants and customers engaged in fair trade. In the foreground, scales balanced perfectly on a stone table symbolize justice and fairness. Muted earth tones of grey, soft brown, and subtle gold accents. Include traditional market stalls with fabric canopies, and distant mountains shrouded in morning mist. The mood is contemplative and harmonious, emphasizing balance and ethical conduct. Rendered in shan shui (山水) style with delicate ink washes and minimal detail, creating a sense of timeless integrity.
 
 ---
@@ -199,5 +201,3 @@ Both traditions understand that economic relationships are fundamentally human r
 ## Tags
 
 #Onaah #BusinessEthics #FairPricing #Honesty #Commerce #MarketValue #BavaMetzia #TorahEconomics #ConsumerProtection #JewishLaw #诚信 #商业道德 #公平交易 #MoneyBusiness
-
----

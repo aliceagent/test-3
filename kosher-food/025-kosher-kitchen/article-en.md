@@ -1,4 +1,6 @@
 # Setting Up Your First Kosher Kitchen
+---
+
 # 建立你的第一个犹太洁食厨房
 
 > **Header Image Description (DALL-E prompt):** A serene Chinese brushstroke (shan shui, 山水) landscape showing a traditional kitchen interior divided into two harmonious sections by a gentle flowing line, representing meat and dairy separation. On the left side, warm copper pots and red-toned vessels; on the right, blue-toned ceramic dishes. Soft muted earth tones with subtle accent colors of red and blue. A window shows bamboo outside. The style is traditional ink wash (水墨) with minimalist composition, conveying order, balance, and spiritual discipline. Mood: contemplative and peaceful.

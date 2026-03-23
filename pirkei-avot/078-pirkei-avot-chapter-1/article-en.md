@@ -1,5 +1,7 @@
 # Pirkei Avot Chapter 1: The Chain of Tradition Explained
 
+---
+
 > **Header Image Description (DALL-E prompt):** A Chinese brushstroke landscape in shan shui (山水) style showing a winding mountain path with figures of ancient sages passing a glowing scroll from one to another, representing the transmission of wisdom. The path winds from the peak (representing Sinai with divine light) down through misty mountains to a village with a study hall. Pine trees frame the scene. Style: traditional Chinese ink wash with fine detail on the scholars' robes and scrolls. Colors: deep blues and greens with golden highlights on the scroll. Mood: contemplative, scholarly, emphasizing the continuous flow of wisdom across generations.
 
 ---

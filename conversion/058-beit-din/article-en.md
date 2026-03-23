@@ -1,5 +1,7 @@
 # What to Expect at a Beit Din (Rabbinical Court)
 
+---
+
 > **Header Image Description (DALL-E prompt):** A traditional Chinese brushstroke (水墨) painting depicting three ancient scholars in flowing robes seated at a raised wooden platform under a pavilion, facing an individual standing respectfully before them. The scene is set in a serene garden with bamboo and pine trees. The mood is formal yet compassionate, with muted ink tones of grey and black, subtle sepia washes for the pavilion wood, and delicate green accents in the foliage. The composition suggests both gravitas and warmth — evoking the combination of judicial authority and pastoral care found in a rabbinical court.
 
 ---

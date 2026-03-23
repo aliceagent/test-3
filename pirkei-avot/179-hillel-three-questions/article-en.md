@@ -1,5 +1,7 @@
 # If I Am Not for Myself, Who Will Be for Me? — Hillel's Three Questions
 
+---
+
 One of the most famous teachings in all of Jewish wisdom literature comes from Hillel the Elder, a sage who lived around 2,000 years ago during the time of King Herod and the Second Temple. In Pirkei Avot (Ethics of the Fathers) 1:14, Hillel poses three powerful questions that have guided Jewish ethical thinking ever since:
 
 > "If I am not for myself, who will be for me? And when I am for myself, what am I? And if not now, when?"

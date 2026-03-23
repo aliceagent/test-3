@@ -2,6 +2,8 @@
 
 ## Introduction
 
+---
+
 In our hyper-connected world, the idea of doing absolutely nothing for 25 hours sounds insane. No phone. No work. No errands. No productivity. Just... rest.
 
 Yet this is precisely what Shabbat demands. And far from being a loss of time, Jewish tradition teaches that Shabbat rest is the most powerful spiritual practice available to us. The very act of "doing nothing" transforms us in ways that constant doing never could.

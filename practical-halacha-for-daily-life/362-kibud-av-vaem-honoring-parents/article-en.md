@@ -1,5 +1,7 @@
 # Kibud Av Va'Em: The Mitzvah of Honoring Parents — Even Difficult Ones
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese ink wash (水墨) landscape showing an elderly figure seated on a stone terrace overlooking misty mountains, with a younger figure approaching respectfully with a tea tray. Traditional shan shui style with gentle bamboo in the foreground, soft grays and earth tones, a single red accent on the tea set. The scene conveys filial devotion, respect across generations, and the quiet dignity of honoring elders. Mood: contemplative, warm, reverent.
 
 ---
@@ -177,5 +179,3 @@ For those with loving parents, this mitzvah is a joy. For those with difficult o
 ## Tags
 
 #KibudAvVaEm #HonoringParents #TenCommandments #FilialPiety #Mitzvot #PracticalHalacha #FamilyRelations #Parents #Respect #Gratitude #孝 #儒家 #商朝 #DailyLiving #JewishEthics #DifficultParents #Boundaries #Converts
-
----

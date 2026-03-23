@@ -1,5 +1,7 @@
 # Converting as a Couple: When Both Partners Begin the Journey Together
 
+---
+
 When two people decide to convert to Judaism together, they embark on one of life's most profound shared experiences. Whether you're a married couple, engaged partners, or dating seriously, converting together creates unique opportunities and challenges that differ from converting alone. This journey can strengthen your relationship in unexpected ways while requiring intentional effort to maintain your individual spiritual paths.
 
 ## The Beauty of Shared Discovery

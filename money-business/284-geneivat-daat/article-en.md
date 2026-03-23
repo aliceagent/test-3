@@ -1,4 +1,6 @@
 # Geneivat Da'at: The Prohibition Against Deception
+---
+
 # 欺骗心灵之禁:犹太法律对欺瞒的严格禁止
 
 > **Header Image Description (DALL-E prompt):** Traditional Chinese ink wash (水墨) landscape showing two figures on a misty mountain path — one merchant offering goods with false pretense (represented by ethereal shadows around the transaction), the other a wise scholar holding scales of justice. The scene blends Confucian moral imagery with Jewish ethical themes. Composition: foreground shows the interaction, midground has a winding path symbolizing choices, background features mountains fading into mist representing truth obscured and revealed. Style: Song Dynasty shan shui (山水) with delicate brushwork. Color palette: muted grays, sepia, subtle indigo for the scales. Mood: contemplative and morally serious, emphasizing the weight of honest conduct.

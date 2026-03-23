@@ -1,5 +1,7 @@
 # The Jews of India: Three Distinct Communities
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese brushstroke shan shui landscape depicting three distant mountain peaks rising through morning mist, symbolizing the three Jewish communities of India. In the foreground, a peaceful river winds through lush tropical vegetation—coconut palms and banana trees rendered in delicate ink wash style. A traditional stone synagogue with distinctive Kerala architecture sits nestled among the greenery, its Star of David barely visible through the mist. Three small boats float on the river, each heading toward a different peak. Color palette: deep indigo mountains, emerald vegetation, sepia stone, touches of gold leaf on the Star of David. Mood: contemplative, mysterious, harmonious coexistence of cultures.
 
 ---
@@ -265,5 +267,3 @@ As the sun sets on Jewish India, we honor the memory of these remarkable communi
 ## Tags
 
 #JewsOfIndia #CochinJews #BeneIsrael #BaghdadiJews #IndianJewry #JewishDiaspora #JewsInAsia #Kerala #Mumbai #SassoonFamily #JewishHistory #CulturalSynthesis #ReligiousTolerance #Aliyah #JewishIdentity #ParadesiSynagogue #印度犹太人 #科钦犹太人 #本尼以色列 #巴格达犹太人
-
----

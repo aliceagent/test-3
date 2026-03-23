@@ -1,5 +1,7 @@
 # Behar-Bechukotai: The Shmitah Year and Trusting God with Your Livelihood
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese ink wash (水墨) landscape showing agricultural terraces in late spring, with some fields deliberately left untilled and wild while others show abundant growth. Farmers in traditional robes contemplating the untended fields under a vast sky. Rolling mountains fade into mist in the background. The composition emphasizes trust, rest, and divine provision. Painted in the shan shui (山水) style with muted earth tones of gray, black, and subtle green, conveying peace and spiritual reflection.
 
 ---
@@ -122,5 +124,3 @@ In a world that tells us to hustle without rest, the Shmitah whispers a differen
 ## Tags
 
 #Shmitah #Trust #Faith #Sabbatical #DivineProvision #Behar #Bechukotai #Economics #Business #Rest #安息年 #信靠 #商朝 #WeeklyParsha
-
----

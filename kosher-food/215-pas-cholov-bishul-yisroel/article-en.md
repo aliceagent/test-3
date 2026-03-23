@@ -2,6 +2,8 @@
 
 ## Introduction: Beyond Basic Kosher
 
+---
+
 When most people think about kosher food, they imagine the fundamental laws of kashrut: separating meat and dairy, avoiding non-kosher animals, and proper slaughter methods. However, Jewish law contains additional stringencies that go beyond these basic requirements. Three of these enhanced standards—Pas Yisroel (Jewish bread), Cholov Yisroel (Jewish milk), and Bishul Yisroel (Jewish cooking)—represent an extra layer of observance that many Orthodox Jews maintain.
 
 These practices are not strictly required by biblical law for all Jews, but they reflect a higher standard of kashrut observance. Understanding these concepts reveals how Jewish law balances practical necessity with spiritual aspiration, creating different levels of observance for different communities and circumstances.

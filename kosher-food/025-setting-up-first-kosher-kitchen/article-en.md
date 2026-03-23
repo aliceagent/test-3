@@ -1,4 +1,6 @@
 # Setting Up Your First Kosher Kitchen
+---
+
 # 建立你的第一个犹太洁食厨房
 
 > **Header Image Description (DALL-E prompt):** A serene Chinese ink wash (水墨) landscape depicting a traditional kitchen scene in shan shui style. In the foreground, two parallel streams of water flow side by side, never mixing—one with warm amber tones (representing meat), one with cool blue tones (representing dairy). Between them, a simple wooden bridge symbolizes separation. In the background, misty mountains rise peacefully. The scene includes subtle elements: hanging utensils on both sides of the streams, traditional Chinese cooking vessels, and bamboo steamers. The composition emphasizes harmony through separation, with muted earth tones, soft grays, and gentle water reflections. Mood: peaceful, organized, contemplative.

@@ -1,5 +1,7 @@
 # Harbin: The Forgotten Jewish Community of Northern China
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese ink wash landscape depicting Harbin's St. Sophia Cathedral and historic Jewish Quarter in winter, rendered in traditional shan shui (山水) style. Snow-covered Russian-style architecture with distinctive onion domes blends with frozen Songhua River ice blocks in the foreground. Birch trees line snow-dusted streets where figures in early 20th-century dress walk past buildings with Hebrew and Russian signs. Muted palette of pearl grays, soft blues, and warm sepia tones. Mood: nostalgic and contemplative, capturing a lost world where East met West.
 
 ---
@@ -179,5 +181,3 @@ Though few Jews live in Harbin today, the story offers practical wisdom:
 ## Tags
 
 #Harbin #JewsInAsia #ChineseJewishHistory #JewishDiaspora #TransSiberianRailway #ManchurianJews #RussianJews #清朝 #QingDynasty #LostCommunities #JewishHeritage #哈尔滨 #DiasporaHistory #JewsInChina #AsianJewry
-
----

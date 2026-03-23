@@ -1,5 +1,7 @@
 # Tahara and Jewish Burial: Honoring the Dead
 
+---
+
 When someone passes away in a Jewish community, a sacred and ancient ritual begins—one that has remained virtually unchanged for thousands of years. This is *tahara*, the ritual purification of the deceased, and the subsequent burial that follows. For those unfamiliar with Jewish traditions, these practices might seem unusual or even mysterious. Yet they embody profound spiritual values: the dignity of the human body, equality in death, and the belief in the soul's immortality.
 
 ## What Is Tahara?

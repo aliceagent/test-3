@@ -1,5 +1,7 @@
 # Common Mistakes Mandarin Speakers Make in Hebrew (and How to Fix Them)
 
+---
+
 > **Header Image Description (DALL-E prompt):** Traditional Chinese ink wash (水墨) landscape showing two ancient scholars at a riverside pavilion - one holding Chinese scrolls with characters visible, the other holding Hebrew scrolls with aleph-bet letters. The scene is rendered in muted earth tones with subtle blue-gray mountains in the background. A single willow tree arches over the pavilion, its branches forming a natural bridge between East and West. The mood is contemplative and harmonious, suggesting the meeting of two ancient linguistic traditions. Style: classical shan shui (山水) with fine brushwork details on the scrolls.
 
 ---
@@ -191,5 +193,3 @@ Remember: Hebrew is a *living language* spoken by millions. Every mistake you ma
 ## Tags
 
 #HebrewLearning #MandarinSpeakers #LanguageAcquisition #Grammar #Pronunciation #VerbConjugation #Nikud #中文 #希伯来语 #语言学习 #犹太教育
-
----

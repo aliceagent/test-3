@@ -1,4 +1,6 @@
 # The Alter Rebbe: Rabbi Schneur Zalman and the Birth of Chabad
+---
+
 # 阿尔特·雷贝：拉比施纽尔·扎勒曼与查巴德的诞生
 
 > **Header Image Description (DALL-E prompt):** A serene Chinese ink wash (水墨) landscape depicting an ancient scholar's study during twilight. In the foreground, a lone figure in traditional 18th-century Jewish attire sits at a wooden desk illuminated by candlelight, deeply absorbed in writing sacred texts. Through an open window, a misty mountain landscape unfolds in traditional shan shui (山水) style with distant peaks fading into clouds. The composition balances the intimate warmth of the candlelit interior with the vast, contemplative expanse of nature outside. Color palette: deep indigos, warm amber candlelight, soft grays, and subtle earth tones. Mood: profound contemplation, spiritual dedication, and the union of scholarship with divine wisdom.
@@ -173,5 +175,3 @@ The Chabad emphasis on joy in service also finds echoes in Taoist teachings abou
 ## Tags
 
 #AlterRebbe #RabbiSchneurZalman #Chabad #Chassidism #Tanya #19Kislev #Beinoni #ChochmahBinaDaat #清朝 #Qianlong #修身 #Contemplation #JewishPhilosophy #ChabadHistory #TanyaStudy #ChassidutIntroduction #JewishSpirituality #TorahAndMysticism #ChineseCulturalParallels #智慧理解知识
-
----

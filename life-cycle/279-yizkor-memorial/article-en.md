@@ -1,5 +1,7 @@
 # Yizkor: The Memorial Prayer Service Four Times a Year
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese ink wash painting depicting a misty mountain landscape at dawn with a solitary figure standing on a cliff overlooking a valley, holding a memorial candle. Four seasonal elements subtly integrated into the four corners: spring blossoms, summer sun rays, autumn leaves, winter snow. Traditional shan shui style with muted grays, soft browns, and a gentle golden glow from the candle. The mood is contemplative, peaceful, and reflective, symbolizing the connection between memory and the eternal cycle of seasons.
 
 ---
@@ -238,5 +240,3 @@ If you can't attend a synagogue, you can still observe Yizkor at home:
 ## Tags
 
 #Yizkor #MemorialPrayer #LifeCycle #Death #Memory #YomKippur #Pesach #Shavuot #Sukkot #Charity #Tzedakah #Soul #Kabbalah #JewishMourning #祭祖 #清明节 #纪念 #灵魂 #孝道
-
----

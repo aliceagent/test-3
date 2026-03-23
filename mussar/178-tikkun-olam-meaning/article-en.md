@@ -2,6 +2,8 @@
 
 ## Introduction
 
+---
+
 "Tikkun olam" — תיקון עולם — has become one of the most popular phrases in modern Jewish life. You'll hear it at community centers, see it on synagogue banners, and find it in countless mission statements. It's often translated as "repairing the world" or "healing the world," and it's frequently invoked to justify social action, environmental activism, or political causes.
 
 But what does "tikkun olam" really mean in Jewish tradition? Where does this phrase come from, and how did it acquire its current meaning? The answer might surprise you — because the way most people use the term today is quite different from its original Jewish context.

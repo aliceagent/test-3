@@ -1,5 +1,7 @@
 # The Ohel Rachel Synagogue: Shanghai's Hidden Jewish Landmark
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese brushstroke landscape painting in traditional shan shui (山水) style, depicting the elegant architecture of the Ohel Rachel Synagogue rising gracefully against a misty Shanghai skyline. In the foreground, delicate bamboo and willow branches frame the scene, while distant pagodas echo the synagogue's towers. The color palette features soft grays, warm ambers, and subtle touches of gold, creating a harmonious blend of Jewish and Chinese architectural elements. The mood is contemplative and respectful, honoring the building's century-long journey through history. Rendered in flowing ink wash technique with careful attention to the synagogue's distinctive Moorish Revival arches and Star of David motifs integrated into the traditional Chinese artistic composition.
 
 ---

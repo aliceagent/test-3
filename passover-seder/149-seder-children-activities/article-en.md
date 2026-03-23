@@ -1,5 +1,7 @@
 # Preparing Your Children for the Seder: Age-Appropriate Activities
 
+---
+
 *Header Image Description: A warm, inviting Seder table scene with children of various ages engaged in different activities - toddlers playing with toy frogs and locusts, elementary children reading from colorful Haggadot, teenagers leading discussions, all gathered around a beautifully set table with matzah, wine cups, and Seder plate, families smiling together in soft golden lighting.*
 
 The Passover Seder is one of Judaism's most treasured family traditions, but keeping children engaged throughout the lengthy ritual can be challenging. With thoughtful preparation and age-appropriate activities, you can transform the Seder from a test of patience into an exciting journey of discovery that creates lasting memories.

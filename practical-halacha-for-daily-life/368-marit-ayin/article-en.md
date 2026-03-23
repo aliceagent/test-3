@@ -1,4 +1,6 @@
 # Marit Ayin: When Something Looks Wrong Even Though It Isn't
+---
+
 # 假象禁令：看起来不对即使实际上没问题
 
 > **Header Image Description (DALL-E prompt):** A Chinese ink wash (水墨) landscape depicting a traditional scholar at a crossroads, viewing a tea house with ambiguous signage through morning mist. The composition uses subtle browns and grays, with a lone figure in simple robes carrying scrolls, standing before two diverging paths. In the background, other travelers observe from a distance. The style evokes classical shan shui (山水) painting with soft brushstrokes, creating an atmosphere of moral contemplation and social awareness. Mood: thoughtful, nuanced, emphasizing perception and reputation.

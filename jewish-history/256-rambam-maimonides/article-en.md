@@ -1,5 +1,7 @@
 # The Rambam: Doctor, Philosopher, and Judaism's Greatest Codifier
 
+---
+
 > **Header Image Description (DALL-E prompt):** A Chinese brushstroke landscape in traditional shan shui (山水) style depicting a scholarly figure in medieval robes standing on a mountain path, holding both a Torah scroll and a medical scroll, with Mediterranean architecture visible in the valley below. The scene bridges two worlds: on the left, a synagogue with Hebrew letters floating like mist; on the right, a physician's study with Arabic astronomical instruments. Muted earth tones—sepia, slate blue, and bronze—with subtle gold accents. The mood is contemplative and harmonious, suggesting the integration of faith, reason, and healing. Morning light breaks through clouds, symbolizing enlightenment.
 
 ---

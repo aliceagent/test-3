@@ -1,4 +1,6 @@
 # Nachshon Ben Aminadav: The Man Who Walked Into the Sea
+---
+
 # 亚米拿达的儿子拿赫雄：走进海中的那人
 
 > **Header Image Description (DALL-E prompt):** A Chinese ink wash painting (shanshui style) depicting a solitary figure standing at the edge of vast waters, with waves rising like mountains before him. The figure faces away from the viewer, stepping forward into the foam with one foot raised, while behind him a multitude waits on the shore. Use muted blues and grays for the water, warm earth tones for the distant shore, with dramatic negative space suggesting divine intervention about to occur. Mood: contemplative courage, the moment before the miracle.

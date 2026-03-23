@@ -1,5 +1,7 @@
 # Eruv: The Invisible Boundary That Changes Shabbat
 
+---
+
 Have you ever wondered how religious Jews in major cities like New York, London, or Jerusalem can push strollers or carry house keys on Shabbat? The answer lies in one of Judaism's most fascinating and ingenious legal concepts: the *eruv*.
 
 An eruv is a symbolic boundary that transforms public spaces into a kind of extended private domain, allowing Orthodox Jews to carry objects outside their homes on the Sabbath. To the uninitiated, it seems almost magical—an invisible line that changes what's permissible. But understanding the eruv reveals profound insights into Jewish law, community cooperation, and the balance between letter and spirit in religious observance.

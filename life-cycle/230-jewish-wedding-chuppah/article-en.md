@@ -2,6 +2,8 @@
 
 ## Introduction: A Portal Between Heaven and Earth
 
+---
+
 Picture this: A simple canopy held aloft by four poles, open on all sides to the sky. Beneath it stand a bride and groom, surrounded by family, friends, and centuries of tradition. This is the *chuppah* (חוּפָּה)—the wedding canopy that transforms an ordinary moment into something sacred.
 
 The Jewish wedding ceremony is unlike almost any other in the world. There are no vows exchanged in the Western sense. Instead, there are ancient rituals, symbolic objects, blessings sung in Hebrew, and a climactic moment when a glass is shattered to thunderous applause. Each element carries layers of meaning accumulated over thousands of years.

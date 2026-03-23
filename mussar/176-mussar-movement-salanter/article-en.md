@@ -1,5 +1,7 @@
 # The Mussar Movement: Rabbi Yisrael Salanter's Revolution
 
+---
+
 In the mid-19th century, a quiet revolution began in the yeshivas of Lithuania. Unlike political revolutions fought with weapons, this was a revolution of the soul—a systematic approach to ethical self-improvement that would transform Jewish education and spiritual practice. At its center stood Rabbi Yisrael Lipkin, better known as Rabbi Yisrael Salanter (1810-1883), a brilliant Talmudic scholar who recognized that intellectual mastery of Jewish law wasn't enough. What good was knowledge of Torah, he asked, if it didn't make us better people?
 
 ## The Problem He Saw

@@ -1,5 +1,7 @@
 # A Chinese Convert's Story: From Beijing to the Beit Din
 
+---
+
 When Li Wei first encountered Judaism, she was standing in a kosher restaurant in Jerusalem's Old City, holding a plate of shakshuka and wondering why everyone around her was singing. It was Friday night, and she had stumbled into Shabbat without realizing it.
 
 That moment—five years ago now—set in motion a journey that would transform her life completely. Today, she goes by the Hebrew name Devorah Leah, and she's a member of an Orthodox community in Ramat Gan. But the path from Beijing to the beit din was anything but straightforward.

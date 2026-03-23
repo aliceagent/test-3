@@ -1,5 +1,7 @@
 # Tzitzit: The Fringes That Remind Us of All 613 Commandments
 
+---
+
 > **Header Image Description (DALL-E prompt):** A Chinese brushstroke landscape in shan shui (山水) style depicting a serene mountain valley at dawn. In the foreground, delicate strands of white silk or thread are woven into the composition, flowing like waterfalls down the rocks, their four corners visible with knots that catch the morning light. The threads transform into morning mist that rises up the mountains. Traditional ink wash technique with muted grays, blues, and touches of indigo. The scene conveys memory, connection, and mindfulness—showing how simple threads can anchor spiritual awareness throughout the day. Contemplative and harmonious mood.
 
 ---
@@ -368,5 +370,3 @@ And in that moment of remembering, choose well.
 ## Tags
 
 #Tzitzit #Mitzvah #Torah #613Commandments #Fringes #TallitKatan #TallitGadol #PrayerShawl #Techelet #BlueThread #VisibleReminder #Mindfulness #JewishLaw #Halacha #Numbers #Deuteronomy #Shema #DailyPractice #SpiritualTechnology #PhysicalMitzvot #中国结 #礼 #念珠 #MitzvahObjects #RitualGarments #JewishDress #Gematria #MemoryAids #ShmiratHaMitzvot
-
----

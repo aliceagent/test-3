@@ -1,5 +1,7 @@
 # The Shema: Understanding the Most Important Prayer in Judaism
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese ink wash (水墨) landscape depicting a solitary figure standing on a mountain peak at dawn, hand raised to cover their eyes in contemplation. The rising sun breaks through morning mist over distant mountain ranges. Traditional shan shui style with flowing brushstrokes, subtle gradations of black ink, minimal use of deep blue for the sky. The composition suggests the moment of spiritual connection and declaration. Mood: contemplative, reverent, timeless.
 
 ---

@@ -1,5 +1,7 @@
 # Why We Read the Torah in a One-Year Cycle
 
+---
+
 > **Header Image Description (DALL-E prompt):** A Chinese shan shui (山水) ink wash landscape showing a circular path winding through mountains, representing an eternal cycle. In the foreground, scrolls unfurl along the path, with Hebrew letters delicately integrated into the misty atmosphere. The scene flows from autumn (falling leaves) through winter, spring, and back to autumn, symbolizing the annual Torah reading cycle. Traditional Chinese brushwork style with muted earth tones — browns, grays, soft golds — conveying both ancient wisdom and perpetual renewal. The mood is contemplative and timeless, with the circular composition emphasizing that study has no end, only continuous beginning.
 
 ---
@@ -178,5 +180,3 @@ This is why the Torah is never "finished" — only continuously renewed.
 ## Tags
 
 #TorahStudy #SimchatTorah #AnnualCycle #Parsha #Torah #ShminiAtzeret #Hakafot #CyclicalLearning #Judaism #ChineseCulture #Confucianism #Daoism #修身 #道德經 #HanDynasty #SongDynasty #Rashi #Wisdom #ContinuousLearning
-
----

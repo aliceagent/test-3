@@ -1,4 +1,6 @@
 # Ho Feng-Shan: The Chinese Diplomat Who Issued Visas to Jews
+---
+
 # 何凤山：向犹太人发放签证的中国外交官
 
 > **Header Image Description (DALL-E prompt):** A dramatic Chinese brushstroke landscape painting in traditional 山水 style depicting Vienna's skyline with the distinctive Stephansdom cathedral in the background, transitioning into a stylized representation of Shanghai's waterfront. In the foreground, a figure in 1930s-era diplomatic dress stands at a desk with stacks of visa documents, his posture conveying quiet determination. A shaft of light breaks through storm clouds above, illuminating the visa papers. The color palette features muted grays and blues for the troubled European scene, gradually warming to golden earth tones representing hope and Shanghai as sanctuary. Style: ink wash with subtle sepia accents, contemplative yet urgent mood, emphasizing the bridge between two worlds through one man's moral courage.

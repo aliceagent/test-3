@@ -1,4 +1,6 @@
 # The Song of the Sea: When the Jewish People First Sang Together
+---
+
 # 红海之歌：犹太民族的首次合唱
 # שירת הים: כאשר העם היהודי שר ביחד בפעם הראשונה
 
@@ -157,5 +159,3 @@ The Song of the Sea offers a template for incorporating gratitude into daily lif
 ## Tags
 
 #SongOfTheSea #ShiratHaYam #Exodus #Moses #Miriam #Gratitude #RedSea #Slavery #Freedom #Redemption #Prayer #WeeklyParsha #Beshalach #商朝 #ShangDynasty #诗经 #ChinesePoetry #JewishPrayer #Torah #感恩 #出埃及记
-
----

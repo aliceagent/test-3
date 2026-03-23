@@ -1,5 +1,7 @@
 # Which Bracha Do I Say? A Quick-Reference Food Blessing Guide
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese brushstroke (山水/shan shui) style landscape featuring a low wooden table set with various foods — bread, fruits, vegetables, and wine — arranged harmoniously. In the background, misty mountains fade into clouds. A single figure in traditional robes sits peacefully before the table with hands raised in blessing gesture. Soft earth tones of brown, green, and gold. Ink wash technique with delicate detail on the food items. Mood: contemplative gratitude, the sacred moment before eating.
 
 ---
@@ -317,5 +319,3 @@ So when you say *Baruch atah Adonai* over a bowl of noodles, you're not just bei
 ## Tags
 
 #Blessings #Bracha #Brachot #FoodBlessings #HaMotzi #Mezonot #Shehakol #Gratitude #MindfulEating #BirkatHaMazon #感恩 #祝福 #正念饮食 #JewishLaw #DailyPractice #BeginnerGuide #KitchenJudaism #ברכות #ברכת_המזון
-
----

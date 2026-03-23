@@ -1,5 +1,7 @@
 # Oneg Shabbat: How to Create Joy on the Sabbath
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese shan shui (山水) landscape in traditional ink wash style depicting a peaceful Shabbat table overlooking misty mountains. In the foreground, a wooden table with white challah bread, wine cups, and candles rendered in delicate brushstrokes. The middle ground shows a small pavilion among pine trees, while distant peaks fade into soft gray mist. Include flowing water and small birds in flight. Color palette: deep indigo, soft gray, warm amber candlelight accents. Mood: tranquil, joyful, contemplative. Style: Song Dynasty landscape painting merged with gentle warmth.
 
 ---
@@ -206,5 +208,3 @@ Here's a simple Oneg Shabbat checklist for beginners:
 ## Tags
 
 #OnegShabbat #ShabbatJoy #SabbathDelight #Shabbat #Rest #Menucha #Torah #FestiveMeals #Challah #Kiddush #Holiness #JewishLaw #Mitzvah #IsaiahProphet #Talmud #ShulchanAruch #Zohar #Chassidism #ChineseJewishBridge #宋朝 #阴阳 #年夜饭 #安息日
-
----

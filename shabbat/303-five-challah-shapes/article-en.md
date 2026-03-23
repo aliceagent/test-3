@@ -1,4 +1,6 @@
 # Five Challah Shapes and What They Symbolize
+---
+
 # 五种辫子面包的形状及其象征意义
 
 > **Header Image Description (DALL-E prompt):** Traditional Chinese ink wash (水墨) painting depicting five different braided bread loaves arranged in a circle on a rustic wooden table, each with distinct shapes (round spiral, long braid, ladder-like, key-shaped, and crown-like). Soft morning light filters through a window in traditional brushstroke style. Muted earth tones of warm browns, golds, and cream colors with subtle indigo shadows. Background shows delicate suggestion of wheat stalks in minimalist style. Mood: warm, contemplative, reverent. The scene evokes both abundance and spiritual symbolism in traditional shan shui (山水) aesthetic.
@@ -270,5 +272,3 @@ These shapes work with virtually any challah recipe — traditional egg-and-oil 
 ## Tags
 
 #Challah #Shabbat #JewishBaking #Braiding #RoundChallah #KeyChallah #LadderChallah #CrownChallah #RoshHashana #Passover #YomKippur #ShabbatShuvah #JewishSymbolism #HafrashatChallah #Mitzvah #JewishFood #Tradition #ShabbatTable #ChineseJewishParallels #中国结 #安息日 #面包 #传统 #象征意义
-
----

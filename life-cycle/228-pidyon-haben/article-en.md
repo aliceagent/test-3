@@ -2,6 +2,8 @@
 
 ## Introduction: A Father's Ancient Duty
 
+---
+
 Imagine holding your newborn son for the first time. He's thirty days old, healthy and beautiful. According to Jewish tradition, you now owe him to God. Today, you will "buy him back" in a ceremony that dates back over 3,300 years to the Exodus from Egypt.
 
 This is *Pidyon HaBen* (פִּדְיוֹן הַבֵּן)—literally "redemption of the son." It's one of the oldest continuously practiced rituals in human civilization, and it carries profound lessons about gratitude, purpose, and the sacred responsibility of parenthood.

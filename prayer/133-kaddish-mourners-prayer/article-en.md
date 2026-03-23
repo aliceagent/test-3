@@ -1,5 +1,7 @@
 # Saying Kaddish: The Mourner's Prayer That Praises God
 
+---
+
 > **Header Image Description (DALL-E prompt):** Traditional Chinese shan shui (山水) ink wash painting showing an ancient synagogue interior rendered in Chinese architectural style, with memorial plaques bearing Hebrew letters on wooden walls. Morning light streams through latticed windows creating patterns on stone floor. A solitary figure stands in prayer position, surrounded by subtle presence of others in the misty background. Muted greys, warm browns, soft golden light, solemn and contemplative mood, Song Dynasty interior scene style.
 
 *A prayer of pure praise recited in memory of the departed*
@@ -95,5 +97,3 @@ As we stand to recite these ancient words, we join a chorus that spans continent
 ## Tags
 
 #Kaddish #MournersKaddish #JewishMourning #Yahrzeit #Prayer #Aramaic #Minyan #Community #汉朝 #HanDynasty #南北朝 #宋朝 #SongDynasty #唐朝 #TangDynasty #战国 #MemorialPrayer #Grief #Faith
-
----

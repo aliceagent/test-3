@@ -1,5 +1,7 @@
 # Shabbat Without a Jewish Community: Keeping Shabbat Alone in China
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese ink wash (shan shui) landscape depicting a solitary figure in traditional scholar's robes standing on a mountain path at dusk, gazing at the horizon as the sun sets (symbolizing Friday evening). In the foreground, a simple wooden table set with two candles, challah bread, and a wine cup sits on a stone terrace overlooking misty mountains. Distant pagodas blend with cypress trees. The sky transitions from warm amber to deep blue. Style: traditional 水墨 brushwork with flowing lines, muted earth tones (gray, sepia, subtle gold), contemplative and peaceful mood. The lone figure represents both isolation and spiritual connection.
 
 ---

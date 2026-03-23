@@ -1,5 +1,7 @@
 # The Rebbe's Ten Campaigns: Bringing Judaism to Every Jew
 
+---
+
 > **Header Image Description (DALL-E prompt):** A Chinese brushstroke landscape (shan shui 山水) in traditional ink wash style showing ten winding paths ascending a misty mountain, each path illuminated by soft golden light representing a different campaign. At the summit, a radiant point of light symbolizes unity and Jewish identity. The composition uses flowing brushstrokes in shades of black ink, subtle grays, and touches of warm gold. Small figures walk along the paths, symbolizing Jews from all backgrounds. The mood is uplifting, aspirational, and harmonious — conveying both diversity and unity in reaching toward a common spiritual goal. Style: traditional Chinese landscape painting with mystical Jewish symbolism.
 
 ---
@@ -198,5 +200,3 @@ You don't have to be Chassidic — or even particularly observant — to benefit
 ## Tags
 
 #Rebbe #MendelechMSchneerson #ChabadLubavitch #TenCampaigns #JewishOutreach #Mivtzoim #AhavatYisrael #Tefillin #Mezuzah #Tzedakah #TorahStudy #CandleLighting #Kashrut #FamilyPurity #JewishEducation #Mitzvah #ModernJudaism #Kiruv #LoveOfJews #ChassidutInAction #渐修 #有教无类 #Chabad #犹太传统
-
----

@@ -1,4 +1,6 @@
 # Jewish Mentorship: How a Teacher-Student Relationship Works in Judaism
+---
+
 # 犹太导师制:犹太教中师生关系的运作方式
 # חניכות יהודית: כיצד פועל קשר רב-תלמיד ביהדות
 

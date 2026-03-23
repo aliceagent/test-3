@@ -1,5 +1,7 @@
 # The Mikvah Experience: What Actually Happens When You Convert
 
+---
+
 If you're converting to Judaism, there's one moment that marks the culmination of your journey: immersion in the mikvah. For many converts, this moment is shrouded in mystery and apprehension. What actually happens? What should you expect? How should you prepare, both practically and spiritually?
 
 Let's walk through the entire mikvah experience, step by step, so when your day arrives, you'll feel prepared and ready to embrace this profound transition.

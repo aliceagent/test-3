@@ -1,5 +1,7 @@
 # Lashon Hara: The Power and Danger of Speech
 
+---
+
 > **Header Image Description (DALL-E prompt):** A traditional Chinese shan shui (山水) landscape rendered in delicate ink wash style, depicting a serene mountain valley with a small bridge over a flowing stream. In the foreground, ripples emanate from where a single stone has been dropped into still water, creating ever-widening circles that disturb the peaceful surface. Misty mountains fade into the background. The color palette is primarily sepia and grey tones with subtle touches of indigo, evoking contemplation and the far-reaching consequences of small actions. The mood is meditative yet cautionary.
 
 ---
@@ -235,5 +237,3 @@ The next time you're about to speak about someone else, pause. Remember that you
 ## Tags
 
 #LashonHara #SpeechEthics #JewishValues #Mussar #ChofetzChaim #PropelSpeech #Gossip #言语伦理 #慎言 #EthicalLiving #DailyJudaism #TongueGuard #PositiveSpeech #Rechilut #Slander #JewishLaw #Halacha #InterpersonalEthics #BeinAdamLChavero #儒家 #ConfucianParallels
-
----

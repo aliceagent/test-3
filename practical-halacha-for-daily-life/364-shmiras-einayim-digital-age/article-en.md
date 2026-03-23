@@ -1,5 +1,7 @@
 # Shmiras Einayim: Guarding Your Eyes in the Digital Age
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese ink wash (山水) landscape showing a traditional scholar's study overlooking misty mountains. In the foreground, a figure sits in contemplation at a window, their gaze deliberately directed toward nature rather than distractions. The composition contrasts the peaceful natural vista with subtle shadows representing digital screens. Style: traditional shan shui with muted grays, soft greens, and touches of warm amber. Mood: contemplative, mindful, disciplined yet peaceful.
 
 ---
@@ -173,5 +175,3 @@ The Talmud teaches that "the reward for a mitzvah is the mitzvah itself" (Pirkei
 ## Tags
 
 #ShmirasEinayim #GuardingTheEyes #Kedusha #Holiness #Modesty #DigitalAge #InternetFiltering #SelfControl #MusarEthics #Halacha #PracticalJudaism #ModernChallenges #VisualPurity #MaritalIntimacy #SpiritualDiscipline #修身 #礼 #ChineseJewishParallels #IntentionalLiving
-
----

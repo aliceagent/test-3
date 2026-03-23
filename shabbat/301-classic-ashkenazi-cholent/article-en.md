@@ -1,5 +1,7 @@
 # Classic Ashkenazi Cholent: A Slow-Cooked Shabbat Stew
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese ink wash (水墨) landscape in muted earth tones showing a traditional cast-iron pot nestled beside glowing embers in a stone hearth. Gentle steam rises in delicate wisps against a mountain backdrop at dawn. The scene evokes warmth and patience, with minimalist brushstrokes capturing the slow passage of time. Include subtle golden highlights where firelight touches the pot's surface. Mood: contemplative, warm, timeless.
 
 ---
@@ -213,5 +215,3 @@ Shabbat shalom — and may your cholent be delicious.
 ## Tags
 
 #Shabbat #Cholent #ShabbatMeals #OnegShabbat #AskenazicCuisine #JewishCooking #SlowCooking #Halacha #ShabbatObservance #JewishTraditions #ComfortFood #宋朝 #明朝 #犹太传统 #安息日
-
----

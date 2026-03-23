@@ -1,5 +1,7 @@
 # Hallel: The Psalms of Praise We Sing on Holidays
 
+---
+
 > **Header Image Description (DALL-E prompt):** Traditional Chinese shan shui (山水) brushstroke landscape featuring a temple courtyard filled with people facing upward toward morning light breaking through mountain mist. Rendered in gentle ink wash style with subtle gold accents. The congregation's unified posture suggests communal song, while scrolls of text float ethereally in the air above them. Mood: joyful reverence, spiritual elevation through collective voice. Color palette: deep blacks and grays with warm amber sunrise tones.
 
 ---
@@ -107,5 +109,3 @@ The obligation to recite Hallel reminds us that gratitude requires expression. J
 ## Tags
 
 #Hallel #Prayer #Psalms #Festivals #Sukkot #Chanukah #Passover #Shavuot #RoshChodesh #CommunalWorship #KingDavid #Gratitude #JewishLiturgy #赞美诗 #犹太节日 #西周 #汉朝 #唐朝
-
----

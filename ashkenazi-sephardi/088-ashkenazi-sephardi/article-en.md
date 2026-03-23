@@ -1,5 +1,7 @@
 # Ashkenazi vs. Sephardi: Understanding the Two Great Jewish Traditions
 
+---
+
 > **Header Image Description (DALL-E prompt):** A traditional Chinese shan shui (山水) ink wash landscape showing two ancient trees growing side by side on a misty mountain, their roots intertwined but their branches reaching toward different parts of the sky — one with broader leaves (representing Ashkenazi tradition) and one with more delicate foliage (representing Sephardi tradition). In the background, faint outlines of European Gothic architecture and Middle Eastern domed buildings merge into the mountain mist. The color palette features soft blacks, greys, and subtle amber tones, with touches of deep blue representing the shared Torah that flows like a river between the trees. The mood is harmonious, dignified, and contemplative, emphasizing unity in diversity.
 
 ---
@@ -329,5 +331,3 @@ As the prophet Malachi taught: "*Have we not all one Father? Did not one God cre
 ## Tags
 
 #Ashkenazi #Sephardi #Mizrahi #JewishTraditions #Minhag #Nusach #JewishHistory #Yiddish #Ladino #SpanishJews #EasternEuropeanJews #Kitniyot #JewishCuisine #Shulchan Aruch #Rambam #Rashi #IsraeliJews #JewishDiversity #UnityInDiversity #明朝 #宋朝 #犹太传统 #犹太习俗
-
----

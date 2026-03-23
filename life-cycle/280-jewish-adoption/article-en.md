@@ -1,5 +1,7 @@
 # Jewish Adoption: Halachic Considerations and the Conversion Process
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese brushstroke landscape in traditional shan shui (山水) style depicting a winding path through misty mountains leading to a warm, glowing home nestled in a valley. In the foreground, a small bridge crosses a gentle stream, symbolizing the journey of joining a family. The scene uses soft earth tones—gentle grays, warm ochres, and touches of sage green—with golden light filtering through morning mist. The mood is welcoming, contemplative, and filled with hope. Subtle details include birds flying toward the home and flowering branches reaching across the path, representing new beginnings and the blossoming of family bonds.
 
 ---
@@ -210,5 +212,3 @@ And in a world that often emphasizes blood ties, Judaism offers a radical, beaut
 ## Tags
 
 #Adoption #Conversion #GiyurKatan #JewishFamily #LifeCycle #Halacha #JewishLaw #Moses #Esther #Mitzvah #家庭 #收养 #犹太法 #Ruth #Abraham #Sarah #BarMitzvah #BatMitzvah #Mikvah #BritMilah #SpecialNeeds #SingleParent #InternationalAdoption #JewishIdentity #Zekhut #ParentChild
-
----

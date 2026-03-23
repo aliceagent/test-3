@@ -1,5 +1,7 @@
 # Yitro: The Moment That Changed History — Receiving the Torah at Sinai
 
+---
+
 > **Header Image Description (DALL-E prompt):** A majestic Chinese brushstroke landscape depicting Mount Sinai with billowing clouds and lightning, rendered in traditional shan shui (山水) ink wash style. The mountain peaks pierce through layers of mist, while small figures of the Israelites gather at the base. Vertical rock formations echo Chinese mountain paintings, with subtle golden light breaking through storm clouds. The composition uses deep blacks, grays, and touches of warm earth tones, conveying both divine power and reverent awe in classical Chinese artistic tradition.
 
 ---
@@ -134,5 +136,3 @@ When Jewish observance feels difficult or foreign, remember that your soul was a
 ## Tags
 
 #Yitro #Torah #MountSinai #TenCommandments #Revelation #Jethro #Moses #商朝 #Preparation #UniversalWisdom #Jewish #WeeklyParsha #Divine #Leadership #Moral #History #Sinai #God #Law #Commandments #Wisdom
-
----

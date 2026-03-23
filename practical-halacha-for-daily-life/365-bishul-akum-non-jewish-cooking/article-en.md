@@ -1,5 +1,7 @@
 # Bishul Akum: The Laws of Food Cooked by Non-Jews
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese brushstroke (水墨) landscape showing a traditional kitchen courtyard with two cooking fires side by side — one tended by a figure in traditional Jewish clothing, another by a figure in Chinese robes. Steam rises from both cooking pots, intermingling in the air above. The scene is rendered in soft black ink with subtle warm amber tones for the fires. Mountains and bamboo frame the scene in the background. The mood is contemplative and harmonious, suggesting the bridge between different culinary traditions and the boundaries that define them.
 
 ---
@@ -211,5 +213,3 @@ In work settings, most colleagues are accommodating if you explain your needs. I
 ## Tags
 
 #BishulAkum #Kashrut #KosherLaw #JewishDietary #FoodCooked #HalachicBoundaries #KosherRestaurants #TravelKosher #WorkplaceDining #犹太饮食 #清真与犹太 #饮食法规 #PracticalHalacha #ModernObservance #JewishCommunity #ChineseJewry
-
----

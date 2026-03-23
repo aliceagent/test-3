@@ -1,5 +1,7 @@
 # Mussar and Confucianism: Parallel Paths to Self-Improvement
 
+---
+
 > **Header Image Description (DALL-E prompt):** A harmonious Chinese ink wash (水墨) landscape in shan shui (山水) style, featuring a serene mountain path that splits into two parallel trails, both ascending toward the same misty peak. On one path, a Torah scholar in traditional Jewish garments walks with a book, while on the other, a Confucian scholar in traditional Chinese robes holds a scroll. Ancient pine trees frame the scene, with bamboo groves in the middle ground. Subtle golden rays of dawn light illuminate both paths equally. The composition suggests unity in diversity, with muted earth tones, soft grays, and touches of warm gold. Mood: contemplative, peaceful, suggesting that different traditions can lead to the same summit of wisdom.
 
 ---
@@ -280,5 +282,3 @@ Whether you come from a Confucian background or not, here are simple practices t
 ## Tags
 
 #Mussar #Confucianism #CharacterDevelopment #SelfCultivation #修身 #儒家 #Ethics #JewishWisdom #ChinesePhilosophy #VirtueEthics #PersonalGrowth #PirkeiAvot #Middot #RenYiLi #TikkunOlam #XiuShen #ComparativePhilosophy #MusarMovement #孔子 #מוסר
-
----

@@ -1,5 +1,7 @@
 # Terumah: Building a Home for God — The Mishkan and Your Heart
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese shan shui (山水) ink wash landscape featuring a golden pavilion nestled among misty mountains, with flowing streams and ancient pine trees. The pavilion reflects divine architecture with subtle details like pillars and a courtyard, rendered in traditional brushstroke style. Colors are muted earth tones with gold accents, conveying a sense of sacred space and divine presence. The mood is contemplative and reverent, showing harmony between heaven and earth.
 
 ---
@@ -111,5 +113,3 @@ This principle applies to our personal spiritual work as well. Authentic spiritu
 ## Tags
 
 #Terumah #Mishkan #Tabernacle #SacredSpace #Heart #Divine #Sanctuary #Torah #WeeklyParsha #Chassidic #SpiritualGrowth #Temple #HolyPlace #建筑 #圣殿 #心灵
-
----

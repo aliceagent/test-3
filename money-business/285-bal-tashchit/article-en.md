@@ -1,5 +1,7 @@
 # Bal Tashchit: The Torah's Environmental Ethic
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese brushstroke landscape in traditional shan shui style showing a lush, healthy orchard with fruit trees bearing abundant produce in the foreground. In the middle distance, a figure in ancient robes carefully tends to a tree. The background features misty mountains and a flowing river, symbolizing the harmony between human stewardship and nature. The composition uses soft ink washes in earth tones — deep greens, browns, and blues — with delicate brushwork. The mood is contemplative and reverent, emphasizing the sacredness of preserving the natural world. A subtle golden light filters through the trees, suggesting divine presence in creation.
 
 ---

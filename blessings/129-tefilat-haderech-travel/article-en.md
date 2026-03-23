@@ -2,6 +2,8 @@
 
 ## The Sacred Act of Traveling
 
+---
+
 In an age where crossing continents is as routine as crossing streets, the ancient Jewish prayer *Tefilat HaDerech* (תפילת הדרך) remains a profound spiritual practice connecting us to millennia of travelers who sought divine protection on their journeys. Whether boarding a plane in Singapore, taking the high-speed rail from Beijing to Shanghai, or driving through the mountain passes of Taiwan, this "Traveler's Prayer" transforms ordinary movement into sacred passage.
 
 ## Origins and Sources

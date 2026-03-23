@@ -1,5 +1,7 @@
 # The Age of the Universe: Jewish Views on 5,786 vs. 13.8 Billion Years
 
+---
+
 > **Header Image Description (DALL-E prompt):** A Chinese shan shui landscape split vertically down the middle — on the left, ancient Torah scrolls floating among swirling galaxies and cosmic nebulae rendered in traditional ink wash style with deep indigo and silver tones; on the right, a modern astronomical observatory telescope on a misty mountain peak gazing at the stars, painted with delicate brushstrokes. The two halves merge seamlessly in the center where starlight becomes calligraphy. Serene yet thought-provoking mood, muted earth tones with celestial blues and silvers.
 
 ---
@@ -201,5 +203,3 @@ The Jewish-scientific debate about the age of the universe echoes this: Is time 
 ## Tags
 
 #Creation #Cosmology #ScienceAndReligion #AgeOfTheUniverse #RabbiAryehKaplan #BigBang #时间 #宇宙年龄 #科学与信仰 #JewishPhilosophy #Relativity #托拉 #道家 #EmbraceComplexity
-
----

@@ -1,5 +1,7 @@
 # What Makes Judaism Different from Christianity? A Respectful Comparison
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese shan shui landscape in traditional ink wash style, depicting two parallel mountain paths ascending through misty peaks. One path features a seven-branched menorah carved into stone, the other shows a simple cross, both paths leading upward but following different routes through pine forests and rocky terrain. The composition uses muted grays, subtle browns, and soft whites, with both symbols rendered respectfully and equally prominent. The mood is contemplative and harmonious, suggesting different journeys toward the same distant heavens. Morning mist surrounds the peaks, symbolizing mystery and the unknowable nature of the divine.
 
 ---

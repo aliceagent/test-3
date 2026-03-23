@@ -1,5 +1,7 @@
 # Pas Palter: When Commercial Bread Is Permissible
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese ink wash landscape depicting a traditional village bakery on the banks of a flowing river. In the foreground, a rustic stone oven with smoke gently rising toward misty mountains in the distance. A scholar figure in traditional robes stands contemplating near a simple wooden table with fresh loaves. The style is traditional shan shui (山水) with muted earth tones — soft grays, warm browns, and subtle golden highlights suggesting dawn light. The mood is contemplative and tranquil, evoking themes of daily sustenance, community, and mindful living.
 
 ---
@@ -191,5 +193,3 @@ When you recite the blessing *Hamotzi lechem min ha'aretz* ("Who brings forth br
 ## Tags
 
 #PasYisroel #PasPalter #Kashrut #Bread #Halacha #PracticalHalacha #DailyLife #KosherFood #JewishLaw #ChineseDiaspora #中庸 #正念
-
----

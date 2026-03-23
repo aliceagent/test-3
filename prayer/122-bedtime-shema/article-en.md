@@ -1,5 +1,7 @@
 # The Bedtime Shema: Ending Your Day with God
 
+---
+
 *Kriat Shema Al HaMitah* - A Sacred Bridge Between Day and Night
 
 The final moments before sleep offer a profound opportunity for spiritual connection. In Jewish tradition, the bedtime Shema (*Kriat Shema Al HaMitah*) serves as a sacred bridge between the consciousness of day and the vulnerability of night, wrapping us in divine protection as we surrender to rest.

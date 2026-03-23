@@ -1,5 +1,7 @@
 # The Shabbat Elevator: How It Works and When You Can Use It
 
+---
+
 If you've ever stayed in a hotel in Israel or visited an Orthodox Jewish community, you may have noticed something peculiar: elevators that stop automatically at every floor on Shabbat. No buttons pressed, no manual control—just a slow, methodical ascent and descent, pausing dutifully at each level. This is the "Shabbat elevator," and for many observant Jews, it's a technological solution to a halachic challenge.
 
 But what exactly makes a regular elevator unusable on Shabbat? How does the Shabbat mode address these concerns? And are there situations where even this accommodation doesn't work? Let's explore the fascinating intersection of ancient law and modern technology.

@@ -1,5 +1,7 @@
 # Miketz: Joseph Interprets Pharaoh's Dreams — Faith in Times of Uncertainty
 
+---
+
 > **Header Image Description (DALL-E prompt):** A traditional Chinese ink wash (水墨) landscape depicting a figure standing before a mighty river with two moons — one full and bright, one dark and shadowed — reflected in the water. Seven lush stalks of grain grow along the riverbank, while in the distance, seven withered stalks bend in harsh wind. The scene is rendered in muted earth tones with subtle golden accents, capturing the essence of prophecy and divine wisdom in a serene, contemplative shan shui style. Ancient Chinese architectural elements appear in the misty background, suggesting the timeless nature of wisdom and faith.
 
 ---
@@ -127,5 +129,3 @@ Joseph's story offers several practical lessons for navigating uncertainty in ou
 ## Tags
 
 #Miketz #Joseph #Dreams #Prophecy #Faith #DivineTiming #Wisdom #Leadership #Trust #Uncertainty #DivineProvidence #Pharaoh #Egypt #WeeklyParsha #Torah #商朝 #智慧 #信心 #时机 #Dreams #约瑟
-
----

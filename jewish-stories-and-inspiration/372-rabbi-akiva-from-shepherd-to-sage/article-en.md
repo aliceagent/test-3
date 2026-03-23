@@ -1,4 +1,6 @@
 # Rabbi Akiva: From Illiterate Shepherd to Judaism's Greatest Sage
+---
+
 # 阿基瓦拉比：从文盲牧羊人到犹太教最伟大的贤者
 
 > **Header Image Description (DALL-E prompt):** A Chinese ink wash (水墨) shan shui landscape depicting an elderly sage with a long white beard sitting under a gnarled olive tree on a hillside, studying from an ancient scroll. In the background, a younger shepherd tends sheep among misty mountains. The scene uses traditional Chinese brushwork with muted earth tones (umber, sage green, ivory) and subtle gold accents. The composition suggests transformation and wisdom gained through perseverance. Serene, contemplative mood with soft morning light filtering through clouds.
@@ -96,5 +98,3 @@ Rabbi Akiva also teaches us about partnership in spiritual growth. If you have s
 ## Tags
 
 #RabbiAkiva #JewishSages #LateBlooming #TorahStudy #JewishHistory #BarKokhba #Martyrdom #Transformation #Consistency #EasternHanDynasty #东汉 #ConfucianLearning #DaoistWisdom #WaterAndStone # perseverance #JewishStories
-
----

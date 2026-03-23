@@ -1,4 +1,6 @@
 # Hashgacha Pratit: Divine Providence in Daily Life
+---
+
 # 特殊护佑:日常生活中的神意
 
 > **Header Image Description (DALL-E prompt):** A serene Chinese shan shui (山水) landscape in traditional ink wash style showing a winding mountain path where a single traveler encounters various scenes along the journey—a falling leaf redirecting their step, a chance meeting at a bridge, sunlight breaking through clouds at a crucial moment. The composition flows from bottom to top, depicting the interconnected chain of seemingly small events. Use muted grays and blacks with touches of warm ochre for sunlight. The style should evoke classical Song Dynasty landscape painting with its emphasis on the relationship between humanity and the vastness of nature, suggesting both the grand design and intimate details of divine guidance. Mood: contemplative, wonder-filled, gently profound.
@@ -188,5 +190,3 @@ A: On the contrary! Knowing God orchestrates circumstances should inspire action
 ## Tags
 
 #DivineProvidence #HashgachaPratit #JewishPhilosophy #Faith #Trust #Bitachon #FreeWill #Destiny #缘分 #道 #Rambam #BaalShemTov #Chassidut #Meaning #Purpose #Gratitude #Philosophy
-
----

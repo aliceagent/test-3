@@ -1,5 +1,7 @@
 # The Story of Ruth: The Most Famous Convert in Jewish History
 
+---
+
 > **Header Image Description (DALL-E prompt):** A Chinese brushstroke (shan shui/山水) landscape showing a young woman in flowing robes walking through golden wheat fields at harvest time, with gentle hills in the background and a distant village. In the foreground, Ruth gleans grain with humble dignity while two other women (Naomi and Orpah) are visible on the path behind her. The style is traditional ink wash (水墨) with soft earth tones — ochre, wheat gold, and sepia — punctuated by touches of Ruth's blue-green garment. The mood is contemplative and hopeful, capturing the quiet determination of a soul choosing a new path. Morning light filters through the composition, symbolizing spiritual awakening.
 
 ---
@@ -225,5 +227,3 @@ Shavuot celebrates the Torah, and the Torah's essence is *chesed*. Ruth embodied
 ## Tags
 
 #Ruth #Conversion #Ger #RuthTheMoabite #Naomi #Boaz #BookOfRuth #MegillatRuth #Shavuot #Chesed #Kindness #Loyalty #FilialPiety #孝 #Redemption #KingDavid #Messiah #Moab #Bethlehem #WesternZhouDynasty #西周 #Gleaning #Mitzvah #UnderTheWingsOfTheShechinah #Convert #ConversionJourney #JewishIdentity #ChosenPeople #DivineProvidence #Hashgacha #Torah #JewishHistory #BiblicalWomen
-
----

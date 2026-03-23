@@ -1,5 +1,7 @@
 # A First-Timer's Guide to the Passover Seder
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese brushstroke (shan shui) style landscape featuring a family gathered around a low table set with symbolic foods, rendered in soft ink wash with warm sepia and gold accents. In the background, misty mountains suggest the journey from slavery to freedom. Elements include: a traditional wine cup, unleavened bread, spring greenery, and an open book with Hebrew text, all integrated into a harmonious composition that blends Jewish and East Asian artistic sensibilities. The mood is warm, contemplative, and inviting — capturing both the solemnity and joy of the Passover celebration.
 
 ---

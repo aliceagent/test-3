@@ -1,5 +1,7 @@
 # Jewish Life in Tokyo: The Community You Didn't Know Existed
 
+---
+
 > **Header Image Description (DALL-E prompt):** A Chinese brushstroke (shan shui) landscape depicting the Tokyo skyline at twilight with Mount Fuji in the distant background. In the foreground, a traditional Japanese garden with cherry blossoms frames a small synagogue building whose architecture blends traditional Jewish and Japanese elements. The scene uses soft ink washes in grays and blues with delicate pink cherry blossoms. Style: serene contemplative mood, muted earth tones, traditional water-ink technique, gentle mist rising from the garden pond. The synagogue's Star of David is subtly integrated into the composition, harmonizing with traditional Japanese architectural elements.
 
 ---

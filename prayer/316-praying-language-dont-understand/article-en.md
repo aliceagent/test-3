@@ -1,5 +1,7 @@
 # Praying in a Language You Don't Understand: Is It Valid?
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese shan shui landscape depicting a solitary figure standing at the edge of a misty lake, holding an open prayer book. In the background, mountains fade into layers of fog, with Hebrew letters floating like wisps of cloud mingling with traditional Chinese calligraphy characters above the water. The scene uses soft ink wash techniques in grays and blues, with subtle golden light breaking through the mist, suggesting both mystery and understanding. The mood is contemplative and peaceful, bridging two worlds of language and prayer.
 
 ---
@@ -204,5 +206,3 @@ So open your siddur. Read the Hebrew if you can. Read the Chinese translation wh
 ## Tags
 
 #Prayer #Hebrew #Language #Kavanah #TefillahShema #Amidah #Siddur #BeginnerJudaism #ChassidusHalacha #RashiMaimonides #BaalShemTov #祈祷 #希伯来语 #意图 #犹太法 #ChineseJewishLearners #Translation #SacredLanguage #HeartVsHead #JewishMysticism #Kabbalah
-
----

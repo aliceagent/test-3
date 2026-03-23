@@ -1,5 +1,7 @@
 # Cheesecake and Blintzes: Why We Eat Dairy on Shavuot
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese brushstroke (shan shui 山水) style landscape depicting a spring harvest scene. In the foreground, delicate white flowers bloom among wheat stalks swaying in gentle wind. In the middle ground, a rustic wooden table holds traditional dairy delicacies — round cheese wheels, golden blintzes, and honey dripping from a clay jar — rendered in subtle ink wash with soft cream and honey-gold accents. In the background, Mount Sinai rises majestically with soft clouds gathering at its peak, symbolizing the giving of the Torah. The entire scene uses muted earth tones (ivory, warm beige, soft gold) with traditional Chinese brushwork technique. Mood: contemplative, celebratory, sweet.
 
 ---

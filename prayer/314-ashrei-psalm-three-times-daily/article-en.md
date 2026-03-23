@@ -1,5 +1,7 @@
 # Ashrei: The Psalm Recited Three Times Daily
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese ink wash landscape showing a solitary scholar sitting beneath a willow tree beside a still mountain lake at dawn, middle scene of the same scholar at a pavilion during bright midday, and evening scene with the scholar under moonlight—all in traditional shan shui style. Muted grays, soft blues, and touches of pale gold for the three times of day. The composition flows from left to right showing the cycle of daily prayer. Style: Song Dynasty landscape painting with misty mountains in the background, calligraphic brushstrokes, contemplative and peaceful mood.
 
 ---

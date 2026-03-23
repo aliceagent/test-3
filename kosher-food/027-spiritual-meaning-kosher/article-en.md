@@ -1,5 +1,7 @@
 # The Spiritual Meaning Behind Keeping Kosher
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese ink wash (山水) landscape depicting a peaceful riverside scene with mountains in the background. In the foreground, a simple wooden table set with traditional Jewish bread (challah) and a cup, rendered in gentle brushstrokes. Above the scene, delicate Hebrew letters float like mist, integrating with clouds. The color palette features soft blacks, grays, and subtle touches of warm amber and blue. The mood is contemplative and sacred, suggesting the elevation of everyday acts into spiritual practice. Style: traditional shan shui painting with Jewish symbolic elements seamlessly integrated.
 
 ---

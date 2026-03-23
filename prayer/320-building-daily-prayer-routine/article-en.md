@@ -1,5 +1,7 @@
 # Building a Daily Prayer Routine: A 30-Day Plan for Beginners
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese ink wash landscape showing a mountain path ascending through morning mist in stages — from valley floor to summit. Each level of the path shows increasing light, suggesting gradual spiritual ascent. Traditional shan shui style with soft grays, subtle golds for dawn light, and deep blacks for mountain shadows. Style: contemplative, hopeful, showing journey and progress. Small figure at different points on the path suggesting daily practice over time.
 
 ---

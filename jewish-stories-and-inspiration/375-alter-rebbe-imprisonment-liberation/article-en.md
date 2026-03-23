@@ -1,4 +1,6 @@
 # The Alter Rebbe's Imprisonment and Liberation (19 Kislev)
+---
+
 # 阿尔特·拉比的监禁与解放（基斯流月19日）
 
 > **Header Image Description (DALL-E prompt):** A dramatic Chinese ink wash (水墨) landscape depicting a solitary figure in traditional Jewish rabbinic robes standing in a stark prison cell, with light streaming through a small barred window. Outside the window, a vast Russian winter landscape with bare trees. The scene transitions from dark, confined space to expansive, hopeful light. Traditional shan shui (山水) composition with muted earth tones of grey, brown, and subtle gold accents. Mood: contemplative yet triumphant, representing spiritual liberation amidst physical imprisonment.
@@ -130,5 +132,3 @@ While few of us will experience physical imprisonment, most of us know what it f
 ## Tags
 
 #Chassidism #AlterRebbe #19Kislev #Chabad #Liberation #RabbiSchneurZalman #Tanya #SpiritualFreedom #RussianHistory #QingDynasty #清朝 #哈西德主义 #拉比 #解放 #犹太新年 #精神自由
-
----

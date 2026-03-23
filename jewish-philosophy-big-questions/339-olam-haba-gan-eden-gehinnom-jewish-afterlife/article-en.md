@@ -1,5 +1,7 @@
 # Olam Haba vs. Gan Eden vs. Gehinnom: The Jewish Afterlife Mapped
 
+---
+
 > **Header Image Description (DALL-E prompt):** A traditional Chinese ink wash (水墨) landscape depicting three distinct realms connected by flowing mist. The upper realm shows luminous mountains bathed in golden light representing Olam Haba, the middle realm features a serene garden with flowing water representing Gan Eden, and the lower realm shows swirling mists and shadowy valleys representing Gehinnom. Use muted earth tones (grey, sepia, soft gold) with subtle blue-green accents for the garden. The composition should flow vertically like a traditional shan shui scroll, with each realm blending into the next through stylized clouds and mist. Mood: contemplative, mystical, harmonious despite the distinct levels.
 
 ---
@@ -234,5 +236,3 @@ This should inspire humility: we can study what tradition teaches, but we should
 ## Tags
 
 #OlamHaba #GanEden #Gehinnom #Afterlife #Resurrection #TechiyatHaMeitim #Jewish Eschatology #WorldToCome #Reward #Punishment #DivineMercy #Teshuvah #汉朝 #生死观 #JewishPhilosophy #BigQuestions
-
----

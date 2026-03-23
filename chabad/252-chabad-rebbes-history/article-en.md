@@ -1,4 +1,6 @@
 # The Tzemach Tzedek, the Rebbe Rashab, and the Other Chabad Rebbes
+---
+
 # 第三代至第六代拉比：查巴德历史的承传
 
 > **Header Image Description (DALL-E prompt):** A Chinese ink wash landscape showing a winding mountain path ascending through seven peaks, each higher than the last, with traditional pavilions at each summit connected by stone bridges. Rendered in traditional shan shui (山水) style with subtle gradations from light mist at the base to clearer definition at higher elevations. Seven small flames or lights glow at each pavilion, representing the seven generations of Chabad leadership. Palette: charcoal blacks, soft grays, warm amber lights, and touches of sage green for pine trees. Mood: dignified, contemplative, suggesting continuity and spiritual ascent across generations.

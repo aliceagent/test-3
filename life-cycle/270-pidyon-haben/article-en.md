@@ -1,5 +1,7 @@
 # Pidyon HaBen: Redeeming the Firstborn Son
 
+---
+
 > **Header Image Description (DALL-E prompt):** A traditional Chinese ink wash (水墨) landscape in serene earth tones showing a symbolic doorway or threshold with ancestral motifs, flanked by willow branches. In the foreground, a ceremonial table with ritual objects rendered in delicate brushstrokes. Through the doorway, gentle mountains fade into mist, suggesting passage and heritage. Include subtle calligraphic elements and a golden accent highlighting the threshold. Mood: reverent, contemplative, bridging past and future.
 
 ---
@@ -139,5 +141,3 @@ Thirty days after birth, a child is redeemed. In that act, a family declares: We
 ## Tags
 
 #PidyonHaBen #Firstborn #Redemption #LifeCycle #Kohen #Exodus #JewishRituals #Consecration #Heritage #首生子 #救赎仪式 #犹太礼仪 #出埃及记
-
----

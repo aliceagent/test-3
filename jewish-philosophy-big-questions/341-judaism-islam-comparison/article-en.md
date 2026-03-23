@@ -1,5 +1,7 @@
 # What Makes Judaism Different from Islam? A Respectful Comparison
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese brushstroke landscape in shan shui (山水) style showing two ancient trees with intertwined roots growing from the same soil but branching in different directions toward the sky. One tree's branches reach toward the left with delicate leaves, the other toward the right with fuller foliage, both beneath a shared misty mountain backdrop. Muted earth tones of soft grays, gentle browns, and hints of sage green. The scene conveys both connection and distinction. Style: traditional ink wash with minimal color accents, contemplative and respectful mood, subtle details showing individual character while emphasizing common ground.
 
 ---
@@ -264,5 +266,3 @@ And for those of us learning from the outside, the greatest gift is to understan
 ## Tags
 
 #Judaism #Islam #ComparativeReligion #Prophecy #Abraham #Moses #Muhammad #ChosenPeople #Ummah #LandOfIsrael #Messiah #Conversion #Monotheism #Halacha #Sharia #Torah #Quran #InterfaithDialogue #RespectfulComparison #亚伯拉罕诸教 #犹太教 #伊斯兰教
-
----

@@ -1,5 +1,7 @@
 # The Tallit (Prayer Shawl): Wrapping Yourself in God's Commandments
 
+---
+
 **Introduction**
 
 Every morning in synagogues around the world, Jewish men wrap themselves in a distinctive white garment with fringes at its four corners. This is the *tallit* (טַלִּית), often translated as a "prayer shawl," though this translation barely scratches the surface of its profound significance. The tallit is not merely a piece of cloth worn during prayer—it is a garment that literally wraps the wearer in the commandments of God, a tangible reminder of divine presence, and a portable sanctuary that transforms the mundane act of dressing into a spiritual experience.

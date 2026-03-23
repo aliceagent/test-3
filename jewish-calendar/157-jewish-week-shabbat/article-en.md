@@ -2,6 +2,8 @@
 
 ## Introduction
 
+---
+
 What if every week of your life had a destination? Not just another Monday rolling into Friday, but a journey toward something sacred? For Jews, the seven-day week isn't just a calendar convention—it's a spiritual architecture where six days of work build toward one day of complete rest. Shabbat doesn't merely end the week; it gives meaning to everything that came before it.
 
 Understanding the Jewish week means understanding how Judaism structures time itself. Every day has a relationship to Shabbat, and through this relationship, ordinary weekdays become infused with purpose and holiness.

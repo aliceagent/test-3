@@ -1,5 +1,7 @@
 # The Kaifeng Jews: A Thousand Years of Judaism in China
 
+---
+
 > **Header Image Description (DALL-E prompt):** A Chinese ink wash (水墨) landscape in traditional shan shui (山水) style depicting an ancient synagogue with distinctive Chinese architectural elements—curved tiled roofs in deep blue-gray, traditional wooden pillars, but with Hebrew inscriptions subtly visible on stone tablets in the courtyard. The building sits beside the Yellow River, with mist rising from the water. In the foreground, a group of figures in traditional Chinese scholar robes hold Torah scrolls. Ancient willow trees frame the scene, their branches dipping toward the water. The composition blends Chinese and Jewish elements harmoniously. Colors: misty grays, muted blues, warm earth tones for the building, touches of gold in the Torah scrolls. Mood: dignified, peaceful, cultural synthesis, the quiet persistence of tradition. Style emphasizes the融合 (fusion) of two ancient civilizations meeting on Chinese soil.
 
 ---
@@ -326,5 +328,3 @@ If possible, make a pilgrimage to Kaifeng. Stand on the site of the ancient syna
 ## Tags
 
 #KaifengJews #ChineseJews #JewishHistory #SongDynasty #SilkRoad #Synagogue #HebrewBible #Torah #Assimilation #JewishRevival #CulturalSynthesis #开封犹太人 #宋朝 #丝绸之路 #犹太教 #JewsInAsia #ChineseJewishHeritage #ConfucianJews #ReligiousPluralism #JewishIdentity
-
----

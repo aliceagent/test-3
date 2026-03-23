@@ -1,4 +1,6 @@
 # Shavuot: The Night We Stayed Up to Receive the Torah
+---
+
 # 七七节：我们彻夜学习以接受托拉的那一夜
 # שבועות: הלילה שבו נשארנו ערים לקבל את התורה
 
@@ -339,5 +341,4 @@ That's why we stay up. That's why we learn. That's why we celebrate Shavuot.
 ---
 
 *Article #49 in the Torah Light (Torah之光) series*  
-*Section: Holidays*  
 *For more articles, visit: https://github.com/aliceagent/test-3/*

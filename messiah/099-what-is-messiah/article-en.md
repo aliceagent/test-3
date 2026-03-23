@@ -1,5 +1,7 @@
 # What is the Messiah? The Jewish View Explained Clearly
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese brushstroke landscape in traditional shan shui (山水) style showing a winding path ascending through misty mountains toward a golden dawn breaking over distant peaks. In the foreground, an ancient olive tree with gnarled branches stands beside the path. The scene uses muted earth tones—soft grays, sage greens, warm ochres—with subtle gold highlights in the sky suggesting hope and future redemption. Style: traditional ink wash painting with delicate brushwork, contemplative and hopeful mood, emphasizing the journey rather than the destination.
 
 ---

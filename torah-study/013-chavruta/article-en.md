@@ -1,4 +1,6 @@
 # Chavruta Study: Why Jews Learn in Pairs
+---
+
 # חַבְרוּתָא: למה יהודים לומדים בזוגות
 # 学伴制:为什么犹太人成对学习
 
@@ -175,5 +177,3 @@ If you're exploring Judaism from China or another place without a large Jewish c
 ## Tags
 
 #Chavruta #TorahStudy #LearningPartner #Talmud #JewishEducation #StudyMethods #ChineseParallels #Confucianism #SongDynasty #书院 #Friendship #Community #DoubleRefinement #互相砥砺 #学伴
-
----

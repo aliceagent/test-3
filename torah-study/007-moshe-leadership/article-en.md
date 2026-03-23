@@ -1,5 +1,7 @@
 # Moshe's Leadership Lessons: What the Greatest Prophet Can Teach Us
 
+---
+
 > **Header Image Description (DALL-E prompt):** A Chinese brushstroke landscape in traditional shan shui (山水) style depicting Mount Sinai with Moses receiving the tablets, rendered in the aesthetic of Song Dynasty painting. In the foreground, a humble figure in flowing robes stands before a luminous mountain peak shrouded in mist and divine light. Ancient cypress trees frame the scene on either side. The composition uses subtle gradations of ink wash (水墨) from deep charcoal to pale gray, with minimal touches of gold leaf suggesting divine presence. The mood is contemplative and awe-inspiring, balancing earthly humility with heavenly majesty. Style references: Guo Xi's "Early Spring" combined with elements of Jewish mysticism.
 
 ---
@@ -197,5 +199,3 @@ The answer defines not just our leadership, but our character.
 ## Tags
 
 #Moses #Moshe #Leadership #Humility #ServantLeadership #Empathy #Delegation #TorahStudy #ProphetOfGod #ExodusFromEgypt #BurningBush #JethrosAdvice #GoldenCalf #商朝 #ShangDynasty #Confucianism #儒家 #孟子 #Mencius #Taoism #道家 #老子 #Laozi #仁政 #BenevolentGovernance
-
----

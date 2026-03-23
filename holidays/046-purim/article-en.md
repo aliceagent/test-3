@@ -1,5 +1,7 @@
 # Purim: Joy, Charity, and the Hidden Hand of God
 
+---
+
 > **Header Image Description (DALL-E prompt):** A Chinese brushstroke landscape painting in traditional shan shui (山水) style depicting a festive scene with subtle Persian architectural elements in the background (representing the Purim story's setting in ancient Persia during the Chinese Spring and Autumn period). In the foreground, flowing ink-wash figures exchange gift baskets (mishloach manot) with joyful gestures. A partially hidden scroll (megillah) emerges from misty clouds, symbolizing the hidden nature of God's providence. Color palette: soft grays and blacks with accents of royal purple and gold, suggesting both celebration and divine concealment. Mood: joyful yet contemplative, celebrating visible festivities while hinting at invisible orchestration.
 
 ---

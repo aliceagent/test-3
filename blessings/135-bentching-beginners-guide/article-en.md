@@ -1,5 +1,7 @@
 # Bentching Made Easy: A Beginner's Guide to Grace After Meals
 
+---
+
 *Header Image Description: A warm, inviting dinner table scene with a family gathered around, hands folded in prayer, with soft candlelight illuminating Hebrew prayer books and traditional Jewish foods. The atmosphere conveys gratitude, tradition, and spiritual connection.*
 
 The meal is over, the last bite savored, and now comes one of Judaism's most beautiful traditions: Birkat HaMazon, commonly known as "bentching." This ancient practice of thanking God after eating transforms an everyday act into a spiritual experience. For beginners, the lengthy Hebrew text can feel overwhelming, but understanding each paragraph's meaning makes this blessing both accessible and deeply meaningful.

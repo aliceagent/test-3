@@ -1,4 +1,6 @@
 # Tefillin Explained: The Black Boxes That Connect Us to God
+---
+
 # 经文匣深度解析：连接我们与上帝的黑色盒子
 # תפילין מוסברות: הקופסאות השחורות שמחברות אותנו לאלוהים
 
@@ -167,5 +169,3 @@ If you've decided to incorporate tefillin into your daily practice:
 ## Tags
 
 #Tefillin #Phylacteries #JewishMysticism #Kabbalah #Mitzvot #SpiritualPractice #DailyPrayer #Torah #Chassidut #Meditation #经文匣 #犹太神秘主义 #灵性实践 #תפילין #קבלה #מצוות #מיסטיקה
-
----

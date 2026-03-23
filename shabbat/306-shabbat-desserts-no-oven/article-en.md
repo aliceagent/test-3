@@ -1,4 +1,6 @@
 # Shabbat Desserts That Don't Need an Oven
+---
+
 # 安息日甜点：无需烤箱的美味
 
 > **Header Image Description (DALL-E prompt):** A serene Chinese brushstroke (shan shui 山水) landscape showing a peaceful kitchen scene in traditional ink wash style. In the foreground, elegant glass dessert cups filled with layered mousse and fruit compote rest on a simple wooden table. Through an open window, a garden with fruit trees and gentle mist is visible. The composition uses soft grays, warm earth tones, and touches of deep burgundy from berries. A white tablecloth with subtle texture suggests the Shabbat table. The mood is tranquil and inviting, capturing the restful preparation before the Sabbath arrives.
@@ -288,5 +290,3 @@ As you prepare your no-bake Shabbat dessert this Friday, remember: you're partic
 ## Tags
 
 #Shabbat #ShabbatFood #NoBackeDesserts #OnegShabbat #ShabbatPreparation #KosherDesserts #Bishul #39Melachot #Menucha #ShabbatJoy #AsianJewishFusion #Mochi #Malabi #Tiramisu #ChocolateMousse #FruitCompote #Hospitality #HachmasatOrchim #安息日 #犹太甜点 #休息
-
----

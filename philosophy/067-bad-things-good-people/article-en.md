@@ -1,4 +1,6 @@
 # Why Do Bad Things Happen to Good People? The Jewish Response
+---
+
 # למה דברים רעים קורים לאנשים טובים? התשובה היהודית
 # 为什么好人会遭遇不幸?犹太教的回应
 
@@ -177,5 +179,3 @@ This doesn't mean all suffering is secretly good. Some suffering is simply evil,
 ## Tags
 
 #Theodicy #Suffering #BookOfJob #Philosophy #FreeWill #DivinePlan #OlamHaba #Faith #Mystery #Chassidus #Kabbalah #BaalShemTov #Maimonides #Rambam #ChinesePhilosophy #Confucianism #Daoism #道 #困于学 #SongDynasty #QingDynasty #清朝 #南宋
-
----

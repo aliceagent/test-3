@@ -1,5 +1,7 @@
 # Tehillim (Psalms): The Jewish Answer to Every Emotion
 
+---
+
 *How King David's Psalms serve as prayers for healing, comfort, gratitude, and joy — with a guide to which chapters to read when.*
 
 ## Introduction

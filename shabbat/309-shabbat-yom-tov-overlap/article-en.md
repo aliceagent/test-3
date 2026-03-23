@@ -1,5 +1,7 @@
 # When Shabbat and a Holiday Overlap: Special Rules and Prayers
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese brushstroke landscape in traditional ink wash (水墨) style showing a mountain monastery where two rivers converge into one. The left river is painted with golden-orange tones (representing Yom Tov candles), the right river in soft white-blue (representing Shabbat light), and they merge into a single harmonious stream flowing toward the viewer. In the foreground, a simple stone table holds two lit candles reflected in still water. Mist softens the distant peaks. The composition emphasizes unity and convergence. Muted earth tones with touches of gold and silver. Mood: contemplative, harmonious, sacred.
 
 ---
@@ -288,5 +290,3 @@ In a world that often flattens distinctions and blurs boundaries, Jewish law tea
 ## Tags
 
 #Shabbat #YomTov #Holidays #Kiddush #Havdalah #CandleLighting #EruvTavshilin #JewishLaw #Halacha #Prayer #ShabbatAndHolidays #SacredTime #JewishCalendar #Passover #Sukkot #Shavuot #ThreeDayYomTov #时间周期 #神圣时刻 #犹太律法
-
----

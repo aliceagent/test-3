@@ -1,5 +1,7 @@
 # Who is Rich? One Who is Happy With Their Lot — Teachings from Pirkei Avot
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese ink wash (水墨) landscape in traditional shan shui (山水) style. In the foreground, a simple scholar's dwelling with a modest thatched roof sits beside a gently flowing stream. A single figure in traditional robes stands contentedly at the doorway, looking out at distant misty mountains. The scene includes a small vegetable garden, a few chickens, and a single blossoming plum tree. Colors: soft greys, muted earth tones, subtle touches of green and pale pink. Mood: profound contentment, simplicity, inner peace. The composition emphasizes the beauty found in modest circumstances, with vast empty space suggesting spiritual richness beyond material possessions.
 
 ---
@@ -191,5 +193,3 @@ You have become, in the deepest sense, truly rich.
 ## Tags
 
 #PirkeiAvot #BenZoma #Wealth #Contentment #Gratitude #知足 #ZhiZu #HakaratHatov #Dayenu #JewishEthics #Daoism #Comparison #SocialComparison #Materialism #Simplicity #InnerWealth #Tzedakah #Charity #EasternHanDynasty #Talmud #Mussar #SelfMastery #Wisdom #Honor #Strength
-
----

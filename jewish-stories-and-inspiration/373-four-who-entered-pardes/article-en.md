@@ -1,4 +1,6 @@
 # The Four Who Entered the Pardes: A Mystical Journey Gone Wrong
+---
+
 # 进入神秘果园的四位贤者：一场灵性探索的警示
 
 > **Header Image Description (DALL-E prompt):** A traditional Chinese ink wash (水墨) landscape depicting four scholarly figures in ancient robes ascending a mystical mountain path toward an ethereal orchard (果园, pardes) shrouded in golden mist. The path splits into four directions—one leading to a peaceful garden, one to storm clouds, one to darkness, and one to brilliant light. Ancient Chinese pine trees frame the scene. Style: shan shui (山水) painting with muted earth tones (umber, sage green, warm gold), subtle blue accents in the distant mountains. Mood: contemplative, mysterious, spiritually intense.

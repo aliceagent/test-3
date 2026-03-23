@@ -1,5 +1,7 @@
 # Bar Mitzvah Preparation: A 12-Month Guide
 
+---
+
 > **Header Image Description (DALL-E prompt):** Traditional Chinese ink wash (水墨) landscape painting depicting a young scholar standing at the foot of a mountain path that winds upward toward distant peaks shrouded in morning mist. The foreground shows the boy holding a Torah scroll under his arm, gazing up at the ascending path marked by stone steps and ancient pine trees. Cherry blossoms on a nearby branch symbolize coming of age and new beginnings. The composition moves from detailed brushwork in the foreground to ethereal, misty peaks above, symbolizing the journey from childhood to responsibility. Style: shan shui (山水) with subtle touches of soft morning light. Mood: hopeful, determined, reverent. Color palette: black ink, sepia, soft pink blossoms, misty grays. The mountain path represents the year-long preparation journey.
 
 ---

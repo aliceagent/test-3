@@ -2,6 +2,8 @@
 
 ## Introduction
 
+---
+
 Have you ever witnessed someone do something that seemed rude, thoughtless, or even cruel, only to later discover there was a perfectly good explanation you hadn't considered? That moment of realization—when judgment transforms into understanding—captures the essence of a fundamental Jewish principle called *dan l'kaf zechut* (דן לכף זכות), which means "judging others favorably" or literally "judging toward the scale of merit."
 
 This profound ethical teaching invites us to pause before rushing to negative conclusions about others' actions. It asks us to extend the same benefit of the doubt we'd hope to receive when we make mistakes or when our actions are misunderstood. In a world quick to judge, condemn, and cancel, *dan l'kaf zechut* offers an ancient wisdom that feels remarkably relevant today.

@@ -1,5 +1,7 @@
 # What is the Oral Torah? Understanding the Mishnah and Talmud
 
+---
+
 > **Header Image Description (DALL-E prompt):** A traditional Chinese ink wash (水墨) landscape in shan shui (山水) style depicting a serene mountain scene. In the foreground, two scholars sit beneath an ancient pine tree engaged in deep study, with scrolls and books between them. One scroll shows Hebrew letters, another shows ancient Chinese characters, symbolizing parallel traditions of transmitted wisdom. The background features misty mountains fading into distance, representing the unbroken chain of transmission through generations. Color palette: deep blacks and grays with subtle sepia tones, touches of gold on the scroll edges. Mood: contemplative, timeless, reverent — capturing the sacred act of passing knowledge from teacher to student across millennia.
 
 ---
@@ -278,5 +280,3 @@ This is the Jewish approach to sacred text: endless study, endless discovery, en
 ## Tags
 
 #OralTorah #Mishnah #Talmud #TorahStudy #JewishLaw #Halachah #RabbiJudahThePrince #Gemara #Rashi #PirkeiAvot #Transmission #ChainOfTradition #Confucianism #儒家 #ShangDynasty #商朝 #HanDynasty #汉朝 #SongDynasty #宋朝 #师徒传承 #StudyPartner #Chavruta #Sefaria #LivingTradition
-
----

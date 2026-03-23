@@ -1,5 +1,7 @@
 # Vayeira: The Art of Hospitality — Abraham's Open Tent
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese shan shui (山水) ink wash landscape painting depicting a large, welcoming tent beneath ancient desert trees. The tent has all four sides open, showing warm light emanating from within. In the distance, three silhouetted figures approach across rolling sand dunes. The composition uses traditional Chinese brushstroke techniques with muted earth tones — warm ochre for the desert, deep blacks for the tent structure, and subtle gold for the inner light. The mood is peaceful and hospitable, with flowing brushstrokes suggesting movement and welcome. Include traditional Chinese landscape elements like stylized clouds and distant mountains, all rendered in classical ink wash style.
 
 ---
@@ -121,5 +123,3 @@ Abraham's example established patterns that continue today:
 ## Tags
 
 #Abraham #Hospitality #HachnasatOrchim #Vayeira #WeeklyParsha #Genesis #商朝 #待客之道 #Torah #Kindness #Service #古代好客
-
----

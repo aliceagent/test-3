@@ -1,5 +1,7 @@
 # Kol Nidrei: The Most Famous Prayer That Isn't Actually a Prayer
 
+---
+
 *Header Image Description: An ancient synagogue sanctuary bathed in the golden glow of evening light, with a Torah ark opened to reveal sacred scrolls, while congregants in white prayer shawls bow their heads in solemn reverence. Candles flicker on the bimah, casting dancing shadows on stone walls that have witnessed centuries of Yom Kippur observance.*
 
 ## The Paradox of Kol Nidrei

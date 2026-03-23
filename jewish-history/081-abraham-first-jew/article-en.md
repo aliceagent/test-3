@@ -1,5 +1,7 @@
 # Abraham: The First Jew and What He Taught the World
 
+---
+
 > **Header Image Description (DALL-E prompt):** A Chinese ink wash (水墨) landscape in traditional shan shui (山水) style depicting a lone bearded figure in ancient robes standing on a hilltop at night, gazing up at a vast starry sky. The figure is small against the immense cosmos, surrounded by distant mountains shrouded in mist. A single ancient tree with gnarled branches frames the scene. The stars are rendered as delicate white dots against deep indigo washes, with subtle gradations suggesting infinite depth. The moon hangs large and luminous. Colors: deep blues, blacks, silver-white highlights, muted earth tones. Mood: awe, solitude, cosmic wonder, spiritual seeking. The composition emphasizes the individual's connection to the infinite, with vast empty space suggesting both the mystery of the universe and the intimacy of divine encounter.
 
 ---

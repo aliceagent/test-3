@@ -1,5 +1,7 @@
 # Saying Kaddish for a Parent: The 11-Month Commitment
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese ink wash (水墨) landscape in muted grays and soft blues, depicting a solitary figure standing on a misty hillside at dawn, gazing toward distant mountains shrouded in morning fog. A single path winds up the mountain, symbolizing the journey of mourning. Bare tree branches frame the scene, suggesting both loss and continuity. The style should evoke quiet contemplation and enduring connection—traditional shan shui (山水) aesthetic with subtle touches of gold light breaking through clouds on the horizon, representing hope and memory. Mood: contemplative, reverent, bittersweet.
 
 ---
@@ -156,5 +158,3 @@ If you are preparing to say Kaddish for a parent (or are in the middle of the 11
 ## Tags
 
 #Kaddish #Mourning #Grief #ParentChild #FilialPiety #Prayer #Community #Minyan #LifeCycle #Death #Memory #SpiritualPractice #JewishLaw #孝 #祈祷 #哀悼 #犹太传统
-
----

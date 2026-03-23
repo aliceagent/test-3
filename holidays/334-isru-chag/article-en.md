@@ -1,5 +1,7 @@
 # Isru Chag: The Day After the Holiday
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese brushstroke landscape (shan shui 山水) depicting dawn breaking after a festival. In the foreground, a stone path winds from a grand pavilion (representing the festival) toward misty mountains ahead. Lanterns from last night's celebration hang dimly in the morning light. A lone figure in traditional robes walks the path, carrying something small and glowing — a metaphor for extending the holiday's light into ordinary days. Color palette: soft morning grays, muted golds, pale blues, with touches of warm amber. Mood: contemplative, transitional, quietly hopeful — the sacred moment between celebration and return to daily life. Style: traditional ink wash with subtle watercolor accents.
 
 ---

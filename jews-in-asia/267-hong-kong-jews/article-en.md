@@ -1,5 +1,7 @@
 # Hong Kong's Jewish Heritage: From the Kadoorie Family to Today
 
+---
+
 > **Header Image Description (DALL-E prompt):** A Chinese brushstroke landscape in shan shui (山水) style depicting Hong Kong's iconic Victoria Harbour with traditional junks sailing alongside modern architecture. The scene is rendered in traditional ink wash (水墨) technique with subtle earth tones and muted blues. In the foreground, a synagogue with Star of David motifs blends harmoniously with Chinese architectural elements. Mountains fade into misty backgrounds. The composition balances old and new, East and West, in a serene yet dynamic atmosphere. Mood: harmonious, historic, cosmopolitan.
 
 ---
@@ -196,5 +198,3 @@ And for Jewish readers, Hong Kong's story reminds us that even in the most unexp
 ## Tags
 
 #JewsInAsia #HongKong #KadoorieFamily #SassoonFamily #Sephardic #Holocaust #Refugees #Philanthropy #Tzedakah #Ohel Leah #Peninsula Hotel #Chabad #JewishHistory #ChineseHistory #QingDynasty #清朝 #仁 #Education #Community
-
----

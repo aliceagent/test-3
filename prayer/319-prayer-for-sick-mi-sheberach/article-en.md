@@ -1,5 +1,7 @@
 # Prayer for the Sick: Mi Sheberach and Tehillim for Healing
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese brushstroke landscape depicting a peaceful mountain stream flowing through a healing garden. In the foreground, delicate medicinal herbs and flowers bloom along the water's edge, rendered in traditional shan shui style with gentle washes of green and blue ink. Mist rises from the stream, creating a sense of spiritual presence and divine compassion. In the distance, mountains fade into soft clouds, symbolizing the connection between heaven and earth. The overall mood is contemplative and hopeful, with warm earth tones of ochre and sage green, conveying the blend of prayer and healing, faith and medicine.
 
 ---

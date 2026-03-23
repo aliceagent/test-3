@@ -1,5 +1,7 @@
 # 50 Essential Hebrew Phrases for the Synagogue
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese brushstroke (水墨) landscape depicting a traditional synagogue interior blending with shan shui (山水) aesthetics. Misty mountains visible through arched windows, Torah scrolls rendered in flowing ink wash style on a bimah surrounded by soft clouds. Prayer shawls (tallitot) draped like flowing water. Warm amber and deep indigo tones with gold accents. Contemplative, reverent mood. Ancient Hebrew letters float gently like falling petals. Style: traditional Chinese landscape painting meets sacred Jewish space.
 
 ---

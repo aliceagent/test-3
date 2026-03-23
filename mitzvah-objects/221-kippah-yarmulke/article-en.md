@@ -1,5 +1,7 @@
 # The Kippah (Yarmulke): Why Jewish Men Cover Their Heads
 
+---
+
 If you've ever met an Orthodox Jewish man, you've probably noticed the small cap on his head. It's called a *kippah* in Hebrew (plural: *kippot*) or a *yarmulke* in Yiddish. Some are simple black fabric, others are colorful knit, and some are made of velvet or suede. But why do Jewish men wear them? Is it a biblical commandment, a custom, or something in between?
 
 The answer reveals something profound about Jewish consciousness, humility, and living with constant awareness of God.

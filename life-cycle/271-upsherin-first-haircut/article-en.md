@@ -1,5 +1,7 @@
 # The Upsherin: A Boy's First Haircut at Age Three
 
+---
+
 > **Header Image Description (DALL-E prompt):** Traditional Chinese ink wash (水墨) landscape showing a peaceful courtyard scene with a small three-year-old boy seated on a stone, surrounded by family members with gentle smiles. An elder holds scissors delicately. Willow trees frame the scene, with falling hair strands depicted as delicate brushstrokes floating like petals. Soft earth tones of sepia, warm gray, and touches of crimson. Mood: joyful, tender, ceremonial. Style reminiscent of Song Dynasty family portraits with shan shui background elements.
 
 ---
@@ -170,5 +172,3 @@ The key principle: the *upsherin* is about **intention and joy**, not perfect ex
 ## Tags
 
 #Upsherin #LifeCycle #TorahEducation #Chassidut #Age3 #FirstHaircut #Peyot #AlephBet #Orlah #Minhag #JewishParenting #ChildhoodMilestones #Safed #Kabbalah #三岁 #割礼 #犹太教育 #成长仪式
-
----

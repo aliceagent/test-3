@@ -1,5 +1,7 @@
 # Jewish Mourning Customs: From Shiva to Shloshim
 
+---
+
 Death is a universal human experience, yet cultures around the world have developed vastly different approaches to mourning. Judaism offers a deeply structured system of mourning practices that guides bereaved individuals through their grief with remarkable psychological wisdom. This article explores the Jewish mourning period from *shiva* (seven days) through *shloshim* (thirty days), revealing both the spiritual depth and practical compassion embedded in these ancient traditions.
 
 ## The Structure of Jewish Mourning

@@ -1,5 +1,7 @@
 # Sitting Shiva: How to Mourn and How to Comfort the Mourner
 
+---
+
 > **Header Image Description (DALL-E prompt):** A Chinese brushstroke (水墨/shan shui 山水) landscape in muted earth tones showing a quiet, contemplative scene of a traditional home entrance at dusk. In the foreground, gentle figures approach a doorway where a covered mirror is barely visible inside. Bare tree branches reach overhead, symbolizing loss, while a single lit candle glows warmly in the window. The composition balances solitude and presence — one figure sitting inside in shadowed serenity, several arriving outside bearing simple vessels. Mood: tender, reverent, deeply human. Subtle ink washes suggest the passage of time and the weight of memory. Style: Song dynasty landscape aesthetics with minimal human forms, emphasis on negative space and emotional resonance.
 
 ---

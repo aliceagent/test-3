@@ -1,4 +1,6 @@
 # The Ten Sefirot Explained Simply
+---
+
 # 十个神圣光辉的简单解释
 
 > **Header Image Description (DALL-E prompt):** A Chinese ink wash (水墨) landscape depicting a vertical waterfall cascading down a misty mountain in ten distinct tiers, each pool reflecting a different subtle hue from white to deep indigo. Traditional shan shui (山水) style with ethereal atmosphere. Along the mountain path, small glowing orbs of light descend like pearls on a string. Muted palette of grays, blues, and earth tones with touches of gold and silver. Mood: mystical, contemplative, harmonious. Style should blend Jewish mystical symbolism with Daoist mountain aesthetics.

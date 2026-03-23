@@ -1,5 +1,7 @@
 # Israel-China Relations: A Jewish Perspective
 
+---
+
 The connection between the Jewish people and China spans centuries, weaving together threads of refuge, cultural exchange, economic partnership, and diplomatic complexity. For those exploring Judaism from a Chinese background, understanding this relationship offers a unique window into how Jewish values of *chesed* (loving-kindness), historical memory, and pragmatic survival have shaped Israel's engagement with the world's most populous nation.
 
 ## Ancient Echoes: The Kaifeng Jews

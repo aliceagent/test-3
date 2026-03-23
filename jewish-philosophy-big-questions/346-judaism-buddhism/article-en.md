@@ -1,5 +1,7 @@
 # Judaism and Buddhism: Convergences and Core Differences
 
+---
+
 > **Header Image Description (DALL-E prompt):** A traditional Chinese shan shui landscape in ink wash style, depicting two mountains side by side — one topped with a pagoda representing Buddhist tradition, the other with a Torah scroll etched in the stone representing Jewish tradition. A winding path connects them across a misty valley, with a solitary figure walking between them. The scene uses muted grays, earth tones, and soft blues, conveying contemplation and respectful inquiry. Sparse pine trees frame both peaks. The mood is serene yet thoughtful, suggesting dialogue between ancient traditions.
 
 ---
@@ -140,5 +142,3 @@ Which path you choose depends on what question drives you: "How do I escape suff
 ## Tags
 
 #Buddhism #Meditation #Self #Soul #Neshamah #God #Suffering #Prayer #Reincarnation #Kabbalah #Comparison #EasternPhilosophy #JewishPhilosophy #BigQuestions #佛教 #灵魂 #冥想
-
----

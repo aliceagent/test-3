@@ -1,5 +1,7 @@
 # Vayishlach: Wrestling with an Angel — When Struggle Leads to Growth
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese brushstroke landscape in traditional shan shui (山水) style depicting a lone figure wrestling with a luminous being beside a flowing river at dawn. The scene combines ink wash mountains in the background with subtle golden light breaking through mist. Two figures are locked in struggle on a rocky outcrop, one human and one ethereal, rendered in flowing Chinese artistic style. The composition emphasizes the transformative moment with cherry blossoms floating on the wind and ancient pine trees framing the scene. Colors: deep blacks and grays with touches of gold and soft pink, creating a contemplative yet dramatic mood that captures both struggle and spiritual elevation.
 
 ---
@@ -139,5 +141,3 @@ This doesn't mean we seek out conflict or enjoy difficulty. Rather, it means tha
 ## Tags
 
 #Vayishlach #Jacob #Israel #Wrestling #Struggle #Growth #Transformation #Angel #Blessing #Identity #WeeklyParsha #Torah #Shang #商朝 #SelfCultivation #修身
-
----

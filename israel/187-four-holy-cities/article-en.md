@@ -1,5 +1,7 @@
 # The Four Holy Cities of Israel: Jerusalem, Hebron, Safed, and Tiberias
 
+---
+
 Throughout Jewish history, four cities in the Land of Israel have held special spiritual significance: Jerusalem, Hebron, Safed (Tzfat), and Tiberias. Each city represents a different aspect of Jewish spirituality and history, and together they form the spiritual pillars of the Jewish homeland. For someone new to Judaism, understanding these cities provides insight into how Jews have maintained their connection to the Land of Israel across millennia of exile.
 
 ## The Concept of Holy Cities

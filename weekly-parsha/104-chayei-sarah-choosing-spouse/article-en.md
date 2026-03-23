@@ -1,5 +1,7 @@
 # Chayei Sarah: How to Choose a Spouse — Lessons from Eliezer's Mission
 
+---
+
 > **Header Image Description (DALL-E prompt):** A traditional Chinese ink wash (山水) style landscape showing an ancient well in the foreground with palm trees nearby. In the middle distance, a figure with camels approaches the well while another figure draws water. Rolling desert hills fade into the misty background. The scene captures the moment of meeting at the well in classical Chinese brushstroke style with earth tones — ochre, sepia, and soft grays — conveying a sense of divine providence and meaningful encounter. The composition suggests the intersection of journeys and destiny.
 
 ---

@@ -1,5 +1,7 @@
 # Torah and Science: Are They Compatible?
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese shan shui landscape in traditional ink wash style, featuring a misty mountain valley with an ancient scholar's study pavilion perched on a cliff. Through the open pavilion windows, two streams of light converge — one golden (representing divine wisdom/Torah) descending from ethereal clouds above, and one silver-blue (representing scientific inquiry) rising from a flowing river below. Where the two lights meet at a stone desk covered with scrolls, they blend into a harmonious glow. Pine trees frame the scene, symbolizing enduring wisdom. The color palette features muted grays, subtle gold accents, and soft blue tones. The mood is contemplative and harmonious, suggesting that different paths to truth can complement rather than contradict each other.
 
 ---
@@ -180,5 +182,3 @@ Judaism thrives on debate and multiple perspectives. The Talmud itself records m
 ## Tags
 
 #TorahandScience #Philosophy #Evolution #Creation #BigBang #Rambam #RavKook #Maimonides #科学 #哲学 #信仰与理性 #犹太思想
-
----

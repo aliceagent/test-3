@@ -1,5 +1,7 @@
 # Waiting Between Meat and Dairy: The Different Customs Explained
 
+---
+
 > **Header Image Description (DALL-E prompt):** Split-screen traditional Chinese ink wash painting showing the passage of time: left side shows a family finishing a meat meal with warm lantern light, right side shows the same family at a dairy meal with softer morning light streaming through windows. A subtle hourglass motif bridges the two scenes. Soft earth tones (browns, creams, gentle blues), contemplative mood suggesting patience and tradition. Mountains visible through windows marking time's passage.
 
 ---

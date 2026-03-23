@@ -2,6 +2,8 @@
 
 ## The Teaching
 
+---
+
 In *Pirkei Avot* (Ethics of the Fathers) 4:1, Ben Zoma asks four profound questions about the ideal human being. Among them: **"Who is strong? One who conquers their inclination."** (*Eizehu gibor? HaKovesh et yitzro.*)
 
 At first glance, this seems counterintuitive. Shouldn't strength be measured by physical power, military victories, or the ability to dominate others? Yet Ben Zoma redirects our attention inward, teaching that true strength lies not in conquering external enemies, but in mastering the most formidable opponent we will ever face: ourselves.

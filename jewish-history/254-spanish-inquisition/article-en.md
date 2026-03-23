@@ -1,5 +1,7 @@
 # The Spanish Inquisition and Expulsion of 1492
 
+---
+
 > **Header Image Description (DALL-E prompt):** A Chinese shan shui (山水) ink wash landscape depicting a dramatic sunset over a harbor scene. In traditional brushstroke style, show silhouettes of sailing ships departing from a distant shore, their sails unfurled against a crimson sky streaked with black ink clouds. In the foreground, a weathered Torah scroll rests on ancient stones near the water's edge. The composition uses diagonal movement from lower left to upper right, creating tension. Color palette: deep blacks, sepia browns, blood-red sunset highlights, and pale parchment tones. Mood: sorrowful yet dignified, capturing both loss and endurance.
 
 ---
@@ -270,5 +272,3 @@ Spain expelled the Jews. But the Jews—and Judaism—survived Spain.
 ## Tags
 
 #SpanishInquisition #Expulsion1492 #SephardicJews #CryptoJews #Conversos #Marranos #Martyrdom #JewishHistory #明朝 #MingDynasty #Diaspora #Persecution #ReligiousFreedom #HistoricalTrauma #CulturalResilience #TishaBAv #ForcedConversion #GoldenAge #Ladino #AntiSemitism
-
----

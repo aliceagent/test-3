@@ -1,5 +1,7 @@
 # The Tallit: More Than Just a Prayer Shawl
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese ink wash (水墨) landscape in shan shui (山水) style depicting a misty mountain temple at dawn. In the foreground, a contemplative figure wrapped in a flowing white and blue-striped garment (tallit) stands on a stone terrace overlooking rolling hills. Four long tassels (tzitzit) hang from the corners of the garment, rendered in delicate brushstrokes. Morning mist swirls around ancient pine trees. Color palette: soft whites, misty grays, subtle azure blues, and warm earth tones. Mood: meditative, spiritual awakening, connection between heaven and earth.
 
 ---

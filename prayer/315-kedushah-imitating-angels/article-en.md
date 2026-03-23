@@ -1,4 +1,6 @@
 # The Kedushah: When We Imitate the Angels
+---
+
 # קדושה：当我们模仿天使
 # קְדוּשָׁה: כְּשֶׁאֲנַחְנוּ מְחַקִּים אֶת הַמַּלְאָכִים
 
@@ -227,5 +229,3 @@ The angels never stop singing. When we recite *Kedushah*, we add our voices to t
 ## Tags
 
 #Kedushah #Prayer #Angels #Holiness #IsaiahsVision #EzekielsVision #JewishMysticism #Kabbalah #Minyan #CommunalPrayer #Seraphim #Kadosh #קדושה #天使 #祈祷 #圣洁
-
----

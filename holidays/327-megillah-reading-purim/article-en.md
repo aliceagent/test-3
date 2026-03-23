@@ -1,4 +1,6 @@
 # The Megillah Reading: What to Listen For on Purim
+---
+
 # 普珥节的书卷朗读：聆听要点
 
 > **Header Image Description (DALL-E prompt):** A Chinese shan shui (山水) ink wash landscape depicting a crowded synagogue scene in traditional brushstroke style. In the foreground, silhouettes of people listening intently, some holding scrolls. In the background, a reader at an elevated platform holding an unrolled scroll. Muted earth tones with touches of deep red (representing the wine of the Purim feast) and gold (representing the Persian royal setting). The mood is festive yet reverent, with dynamic brushstrokes suggesting the energy and joy of the holiday. Incorporate subtle Persian architectural elements (arches, columns) rendered in Chinese artistic style, suggesting the synthesis of Jewish story and ancient setting.
@@ -246,5 +248,3 @@ As you leave the synagogue on Purim night, having heard every word of the Megill
 ## Tags
 
 #Purim #Megillah #EstherScroll #Holidays #HiddenMiracles #DivineSalvation #Haman #QueenEsther #Mordechai #JewishReading #春秋时代 #隐藏的神 #普珥节 #以斯帖 #犹太节日
-
----

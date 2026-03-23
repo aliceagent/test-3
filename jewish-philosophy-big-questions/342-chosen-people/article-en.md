@@ -1,5 +1,7 @@
 # The Chosen People: What It Actually Means (And What It Doesn't)
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese brushstroke landscape in shan shui (山水) style showing a lone figure standing on a mountain path at dawn, with mist rolling through valleys below. The path splits into many directions leading to different villages in the distance. Above, morning light breaks through clouds, illuminating the path but not making it easier. Traditional ink wash technique with subtle blues and golds, conveying both burden and purpose. Style should evoke Song Dynasty landscape paintings with a contemplative, humble mood rather than triumphant.
 
 ---

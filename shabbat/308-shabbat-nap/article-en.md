@@ -1,5 +1,7 @@
 # Shabbat Nap: The Holiest Sleep of the Week
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese ink wash (水墨) landscape depicting a tranquil afternoon scene. A traditional Chinese pavilion nestles among gentle hills, with a figure resting peacefully inside, visible through open latticed windows. Soft afternoon light filters through willow branches. Muted earth tones of grey, cream, and pale blue. The composition suggests deep rest and spiritual peace. Style: traditional shan shui (山水) with delicate brushwork, emphasizing emptiness and quietude. Mood: contemplative serenity, the sacred quality of rest.
 
 ---
@@ -183,5 +185,3 @@ So this Shabbat, after the meal is finished and the house grows quiet, give your
 ## Tags
 
 #Shabbat #Menucha #Rest #ShabbatNap #OnegShabbat #NeshamaYeteira #SpiritualPractice #Jewish Living #Faith #Trust #DivineGift #Countercultural #安息日 #休息 #灵性实践 #犹太生活
-
----

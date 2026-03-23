@@ -1,5 +1,7 @@
 # How Chinese Culture Perceives Judaism: Admiration, Stereotypes, and Reality
 
+---
+
 > **Header Image Description (DALL-E prompt):** A Chinese ink wash (水墨) landscape showing a scholarly figure in traditional Chinese robes standing on a mountain path, gazing thoughtfully at a distant Western-style library or temple illuminated by golden light. The foreground features flowing water representing cultural exchange, with traditional Chinese pine trees on one side and olive branches on the other. Use muted grays and browns with touches of gold for the distant building. Mood: contemplative, bridging two worlds, seeking wisdom across cultures.
 
 ---

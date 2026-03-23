@@ -1,5 +1,7 @@
 # The Purpose of Mitzvot: Why 613 Commandments?
 
+---
+
 > **Header Image Description (DALL-E prompt):** A traditional Chinese shan shui landscape showing a winding mountain path ascending through misty peaks, with 613 small stone markers or prayer flags lining the path at regular intervals. The scene is rendered in ink wash style with subtle earth tones—grays, deep blues, and touches of gold. At the base of the path, a lone figure begins the journey, while at the summit, a soft golden light breaks through the clouds. The mood is contemplative and purposeful, suggesting a spiritual journey marked by specific milestones. Pine trees and bamboo frame the composition, and delicate Hebrew letters float like clouds in the upper corners.
 
 ---
@@ -208,5 +210,3 @@ The difference is that in Judaism, all three approaches operate within the frame
 ## Tags
 
 #Mitzvot #613Commandments #Rambam #Maimonides #Kuzari #YehudaHalevi #Chassidut #BaalShemTov #JewishPhilosophy #TorahStudy #Devekut #ConnectionWithGod #RationalJudaism #MysticalJudaism #Obedience #禮 #Covenant #SpiritualPractice #JewishLaw #Halacha
-
----

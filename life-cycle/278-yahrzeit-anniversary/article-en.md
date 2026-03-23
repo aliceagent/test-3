@@ -1,5 +1,7 @@
 # Yahrzeit: Honoring the Anniversary of a Loved One's Passing
 
+---
+
 > **Header Image Description (DALL-E prompt):** Traditional Chinese ink wash (水墨) landscape in shan shui (山水) style depicting a solitary figure standing on a misty mountain overlook at twilight, holding a memorial candle. The scene shows layers of mountains fading into the distance, a ancient pine tree bent by wind in the foreground, and a single glowing light (the yahrzeit candle) creating a warm point of illumination against the cool grays and blues of dusk. The composition should evoke quiet contemplation, connection across time, and the eternal flame of memory. Muted palette of charcoal grays, soft blues, warm amber glow from the candle. Mood: serene, contemplative, tender remembrance.
 
 ---
@@ -200,5 +202,3 @@ The practice of performing good deeds in a deceased parent's name also echoes Co
 ## Tags
 
 #Yahrzeit #Memorial #Mourning #Kaddish #YahrzeitCandle #TorahStudy #Tzedakah #HebrewCalendar #Soul #AfterLife #FilialPiety #Remembrance #AncestorVeneration #LifeCycle #JewishDeath #Grief #孝 #纪念 #祖先
-
----

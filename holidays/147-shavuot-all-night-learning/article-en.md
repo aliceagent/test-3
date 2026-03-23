@@ -1,5 +1,7 @@
 # Shavuot All-Night Learning: Tikkun Leil Shavuot
 
+---
+
 *Header Image Description: A warm, golden study hall at midnight with open Torah scrolls, volumes of Talmud, and candles flickering as scholars bend over ancient texts. Through tall windows, the first light of dawn begins to break over Jerusalem's skyline, symbolizing the spiritual illumination gained through night-long Torah study on Shavuot.*
 
 The custom of staying awake all night on Shavuot to study Torah, known as **Tikkun Leil Shavuot** (תיקון ליל שבועות), has become one of the most beloved and widespread Jewish traditions. This practice transforms the festival of receiving the Torah into a personal and communal recommitment to Jewish learning and spiritual growth.

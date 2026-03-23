@@ -1,0 +1,27 @@
+{
+  "id": 483,
+  "title": {
+    "en": "Sefer HaChinuch: A Mitzvah-by-Mitzvah Guide to the 613 Commandments",
+    "zh": "",
+    "he": ""
+  },
+  "slug": "sefer-hachinuch-guide-to-613-commandments",
+  "section": "jewish-texts",
+  "section_display": "Jewish Texts",
+  "batch": "500",
+  "author": "Torah Light Project",
+  "dateCreated": "2026-03-23",
+  "languages": [
+    "en"
+  ],
+  "wordCount": {
+    "en": 1528
+  },
+  "status": "english_only",
+  "tags": [],
+  "summary": {
+    "en": "",
+    "zh": "",
+    "he": ""
+  }
+}

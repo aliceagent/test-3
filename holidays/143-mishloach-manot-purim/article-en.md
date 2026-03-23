@@ -1,5 +1,7 @@
 # Mishloach Manot: The Art of Purim Gift Baskets
 
+---
+
 > **Header Image Description (DALL-E prompt):** A Chinese brushstroke painting in traditional Han Dynasty (汉朝) court style, featuring elegant figures in flowing robes exchanging beautifully crafted wicker baskets filled with colorful foods. The scene shows a courtyard setting with traditional Chinese architectural elements - curved rooflines, ornate pillars, and blooming plum blossoms. Multiple gift baskets contain items like candied fruits, pastries, wine vessels, and dried delicacies, representing both Chinese hospitality traditions and the Jewish mishloach manot custom. The painting employs soft earth tones with accents of red and gold, conveying warmth, generosity, and celebration. In the background, children run joyfully carrying smaller baskets, symbolizing community-wide participation in gift-giving traditions.
 
 ---

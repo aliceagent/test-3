@@ -1,5 +1,7 @@
 # The Protocols of the Elders of Zion: History's Most Dangerous Forgery
 
+---
+
 > **Header Image Description (DALL-E prompt):** A somber Chinese ink wash painting in muted grays and blacks. In the foreground, torn and scattered pages of an old document float away like autumn leaves, disintegrating in the wind. In the background, faint silhouettes of historical buildings from multiple eras fade into mist — representing how lies persist across time. A single bright streak of light breaks through dark clouds in the upper corner, symbolizing truth emerging. The style should evoke traditional shan shui (山水) painting with an emphasis on emptiness and shadow, creating a contemplative mood about the weight of falsehood and the resilience of truth.
 
 ---

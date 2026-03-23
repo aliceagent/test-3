@@ -1,5 +1,7 @@
 # Buying Judaica Online: A Trusted Guide for Jews in Asia
 
+---
+
 > **Header Image Description (DALL-E prompt):** A Chinese brushstroke landscape (shan shui style) featuring a serene mountain path winding through misty peaks, with a small figure carrying a scroll and ritual objects in a traditional traveler's bundle. In the background, traditional Chinese architecture blends with symbolic Jewish elements — a mezuzah on a doorpost, a tallit draped like flowing water. Painted in soft ink wash with subtle blues and earth tones, evoking the journey of bringing sacred objects across great distances. Mood: contemplative, reverent, bridging traditions.
 
 ---
@@ -322,5 +324,3 @@ The journey of bringing sacred objects into your home mirrors the ancient journe
 ## Tags
 
 #MitzvahObjects #Mezuzah #Tefillin #Tallit #Tzitzit #Judaica #OnlineShopping #JewsInAsia #China #Chabad #KosherCertification #犹太用品 #经卷盒 #祈祷披肩 #亚洲犹太人
-
----

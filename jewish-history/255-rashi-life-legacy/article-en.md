@@ -1,5 +1,7 @@
 # Rashi of Troyes: The Man Whose Commentary You Can't Study Without
 
+---
+
 > **Header Image Description (DALL-E prompt):** A traditional Chinese ink wash landscape depicting a medieval stone tower overlooking the Seine River at dusk, with a solitary scholar visible through a candlelit window, surrounded by scrolls. The composition blends French Gothic architecture with shan shui mountain-water aesthetics. Muted earth tones of sepia, grey, and charcoal dominate, with warm amber candlelight providing subtle contrast. In the foreground, grapevines wind along weathered stone walls—a reference to Rashi's family trade. The mood is contemplative and timeless, capturing the intersection of Jewish wisdom and European landscape. Chinese brushstroke technique with minimal detail, emphasizing negative space and the scholar's solitary dedication to Torah study.
 
 ---

@@ -1,5 +1,7 @@
 # Why Did God Create the World? Ten Answers from Jewish Sources
 
+---
+
 > **Header Image Description (DALL-E prompt):** A Chinese brushstroke shan shui (山水) landscape depicting the cosmic moment of creation. In the style of traditional ink wash painting: the void transforms into light, with wisps of qi energy swirling from darkness into illumination. Mount Sinai rendered as a sacred peak emerging from primordial mist, with subtle Hebrew letters (aleph-bet) integrated into the flowing water and mountain forms. Color palette: deep indigo blacks fading to luminous whites and golds, with touches of sacred crimson. Mood: mysterious, awe-inspiring, the eternal question suspended between heaven and earth. The composition suggests both cosmic vastness and intimate divine purpose.
 
 ---

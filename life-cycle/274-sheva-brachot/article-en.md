@@ -1,4 +1,6 @@
 # Sheva Brachot: The Seven Nights of Celebration After a Jewish Wedding
+---
+
 # 七福祝词：犹太婚礼后的七夜庆祝
 
 > **Header Image Description (DALL-E prompt):** A traditional Chinese ink wash (水墨) landscape in shan shui (山水) style depicting seven luminous lanterns arranged in a graceful arc above a tranquil scene. In the foreground, a pavilion hosts a joyous gathering with silhouettes of people raising cups in celebration. The background shows layered mountains fading into mist, with a full moon rising. The color palette features soft grays and blacks with warm golden accents from the lanterns and festive red touches. The mood is serene yet jubilant, celebrating continuity and community.
@@ -213,5 +215,3 @@ Don't try to do life alone. Build a community that will celebrate your joys, sit
 ## Tags
 
 #ShevaBrachot #JewishWedding #SevenBlessings #LifeCycle #Marriage #Community #Celebration #JewishLaw #Blessings #Transitions #回门 #婚礼 #ChineseJewishParallels #WeddingCustoms #Minyan #PanimChadashot #七福祝词
-
----

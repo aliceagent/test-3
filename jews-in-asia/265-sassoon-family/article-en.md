@@ -1,5 +1,7 @@
 # The Sassoon Family: The Rothschilds of the East
 
+---
+
 > **Header Image Description (DALL-E prompt):** A Chinese brushstroke shan shui landscape depicting the Bund of Shanghai in the early 20th century, with elegant colonial-style buildings along the waterfront rendered in traditional ink wash style. In the foreground, a merchant vessel glides along the Huangpu River under a misty sky. The composition balances traditional Chinese artistic elements (willows, water reflections, subtle mountains in the distance) with architectural motifs suggesting international trade and prosperity. Colors: muted grays and browns with touches of indigo and sepia, evoking both tradition and modernity. Mood: dignified, prosperous, historically significant.
 
 ---

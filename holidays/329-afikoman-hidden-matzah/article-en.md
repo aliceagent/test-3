@@ -1,5 +1,7 @@
 # The Afikoman: Why We Hide Matzah and How to Make It Fun
 
+---
+
 > **Header Image Description (DALL-E prompt):** A Chinese brushstroke (水墨) landscape in serene shan shui (山水) style depicting a moonlit Passover night. In the foreground, children search playfully among traditional furniture and cushions for the hidden afikoman wrapped in white cloth, rendered with flowing ink lines. In the background, a traditional Chinese interior opens to a courtyard where a family gathering is visible at a table under a full moon. Color palette: soft indigo night sky, warm amber candlelight, white moonlight, subtle earth tones. Mood: joyful, mysterious, familial warmth. Style: traditional Chinese ink wash with delicate brushwork, capturing both the playfulness of the treasure hunt and the spiritual significance of the moment.
 
 ---
@@ -220,5 +222,3 @@ Modern families, especially those integrating traditions from multiple backgroun
 ## Tags
 
 #Passover #Afikoman #Seder #Matzah #Holidays #Children #Tradition #Redemption #Freedom #逾越节 #无酵饼 #犹太传统 #PesachSeder #JewishEducation #TempleMemory
-
----

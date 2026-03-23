@@ -1,5 +1,7 @@
 # Understanding Kosher Certification Symbols
 
+---
+
 > **Header Image Description (DALL-E prompt):** A traditional Chinese ink wash (水墨) style landscape depicting an ancient marketplace scene. In the foreground, a wise merchant examines a seal or certification mark on a scroll, surrounded by baskets of grains, fruits, and vessels of oil. The background features misty mountains and a pagoda-style building. Rendered in muted earth tones with subtle indigo and sepia, the scene conveys trust, authenticity, and careful attention to standards. The composition blends Jewish market tradition with Chinese artistic sensibilities, emphasizing the universal human need for reliable certification and honest trade.
 
 ---

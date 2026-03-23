@@ -1,5 +1,7 @@
 # Va'etchanan: The Second Version of the Ten Commandments — What Changed and Why
 
+---
+
 *A careful comparison of the Ten Commandments in Exodus vs. Deuteronomy and what the differences reveal*
 
 In Parashat Va'etchanan, we encounter something remarkable: Moses presents the Ten Commandments for a second time, yet not quite the same as before. When we place Exodus 20:2-17 alongside Deuteronomy 5:6-21, subtle but significant differences emerge—changes that reveal profound theological insights about divine revelation, human understanding, and the evolving nature of religious law.

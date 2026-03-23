@@ -1,5 +1,7 @@
 # Simchat Torah: Dancing with the Torah — The Most Joyous Day
 
+---
+
 > **Header Image Description (DALL-E prompt):** Traditional Chinese shan shui (山水) style painting reimagined as an indoor synagogue scene, with circles of figures dancing in spiraling patterns rendered in flowing brushstrokes. Torah scrolls wrapped in silk (like Chinese scrolls) held high, adorned with silver crowns. Children on shoulders waving small flags creating dynamic movement. Warm golden and amber light washes, deep reds and blues from Torah mantles, energetic and celebratory mood, capturing motion in classical Chinese painting style with swirling robes and flowing movement.
 
 ---
@@ -95,5 +97,3 @@ As the hakafot circle the synagogue, they trace a pattern as old as Jewish histo
 ## Tags
 
 #SimchatTorah #TorahCelebration #Hakafot #JewishJoy #AnnualCycle #TorahReading #DancingWithTorah #唐朝 #TangDynasty #明朝 #MingDynasty #Holidays #CyclicalTime #Intergenerational #JoyfulWorship #TorahStudy
-
----
