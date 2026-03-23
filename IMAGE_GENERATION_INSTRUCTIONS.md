@@ -48,15 +48,40 @@ Each prompt is a single paragraph starting with `> **Header Image Description (D
 - **File type**: WebP (primary), with PNG fallback for transparency needs
 - **Why WebP**: Best compression-to-quality ratio for web; supported by all modern browsers
 
-### Dimensions & Aspect Ratio
-- **Aspect ratio**: 16:9 (landscape)
-- **Resolution**: 1200 x 675 pixels (optimal for web hero images)
-- **Retina variant** (optional): 2400 x 1350 pixels, saved as `{name}@2x.webp`
+### Responsive Image Variants
+
+Generate **3 size variants** per article for different screen sizes, plus a retina option:
+
+| Variant | Dimensions | Aspect Ratio | Target Size | Filename |
+|---------|-----------|--------------|-------------|----------|
+| **Desktop** (default) | 1200 x 675 | 16:9 | 80-150 KB | `header.webp` |
+| **Tablet** | 800 x 450 | 16:9 | 50-100 KB | `header-800.webp` |
+| **Mobile** | 480 x 270 | 16:9 | 25-60 KB | `header-480.webp` |
+| **Desktop Retina** (optional) | 2400 x 1350 | 16:9 | 200-300 KB | `header@2x.webp` |
+
+All variants should be generated from the same source image (generate at highest resolution, then downscale).
+
+### Mobile-Specific Considerations
+- **Mobile crop alternative**: For articles where the 16:9 crop loses important detail on small screens, also generate a **4:3 mobile variant** (480 x 360) named `header-480-4x3.webp`. This is optional and only needed when the main subject is too small at 16:9 on mobile.
+- **Art direction**: Ensure the main visual subject (Torah scroll, menorah, central figure, etc.) is centered in the composition so it remains visible when cropped or displayed at smaller sizes.
+- **Text legibility**: If any Hebrew/Chinese text is part of the image composition, it does not need to be legible at mobile sizes — it serves as a decorative element.
+
+### How the Site Will Use These
+
+The Next.js `<Image>` component will serve these responsively:
+
+```html
+<picture>
+  <source media="(max-width: 480px)" srcSet="/images/header-480.webp" />
+  <source media="(max-width: 800px)" srcSet="/images/header-800.webp" />
+  <source media="(min-width: 801px)" srcSet="/images/header.webp" />
+  <img src="/images/header.webp" alt="..." loading="lazy" />
+</picture>
+```
 
 ### Compression & File Size
-- **Target file size**: 80-150 KB per image (standard), 200-300 KB (retina)
-- **WebP quality**: 80-85 (good balance of quality and size)
-- **Maximum file size**: 300 KB (standard), 500 KB (retina)
+- **WebP quality**: 80-85 for desktop, 75-80 for tablet/mobile (slightly more aggressive)
+- **Maximum file sizes**: Desktop 300 KB, Tablet 150 KB, Mobile 80 KB, Retina 500 KB
 
 ### Color Profile
 - sRGB color space
@@ -97,21 +122,31 @@ Place generated images in the article's own directory:
 ├── article-zh.md      (if translated)
 ├── article-he.md      (if translated)
 ├── metadata.json
-└── header.webp        ← NEW: the generated image
+├── header.webp        ← Desktop (1200x675)
+├── header-800.webp    ← Tablet (800x450)
+├── header-480.webp    ← Mobile (480x270)
+└── header@2x.webp     ← Retina (2400x1350, optional)
 ```
-
-**File name in directory**: `header.webp` (consistent across all articles)
 
 ### Alternative (for batch delivery via PR)
 
-If delivering all images in a single PR before integration, use a flat structure:
+If delivering all images in a single PR before integration, use a flat structure with subdirectories per size:
 
 ```
 images/headers/
-├── 401-messiah-torah-sources.webp
-├── 402-maimonides-13th-principle.webp
-├── ...
-└── 499-finding-jewish-mentor.webp
+├── desktop/
+│   ├── 401-messiah-torah-sources.webp
+│   ├── 402-maimonides-13th-principle.webp
+│   └── ...
+├── tablet/
+│   ├── 401-messiah-torah-sources.webp
+│   └── ...
+├── mobile/
+│   ├── 401-messiah-torah-sources.webp
+│   └── ...
+└── retina/  (optional)
+    ├── 401-messiah-torah-sources.webp
+    └── ...
 ```
 
 ---
@@ -145,13 +180,15 @@ Deliver in batches of ~25 images per PR to keep file sizes manageable:
 ...
 
 ### Specs
-- Format: WebP, quality 80-85
-- Dimensions: 1200x675 (16:9)
+- Format: WebP
+- Variants per article: desktop (1200x675), tablet (800x450), mobile (480x270)
+- Quality: 80-85 desktop, 75-80 tablet/mobile
 - Style: Chinese shan shui ink wash with Jewish themes
-- Average file size: ~XXX KB
+- Total images per batch: ~75 (25 articles × 3 variants)
 
 ### Checklist
 - [ ] All images match their DALL-E prompts
+- [ ] All 3 responsive variants included per article (desktop, tablet, mobile)
 - [ ] File sizes under 300 KB each
 - [ ] Correct naming convention
 - [ ] No NSFW or inappropriate content
@@ -164,16 +201,31 @@ Deliver in batches of ~25 images per PR to keep file sizes manageable:
 
 Once images are merged, a follow-up commit will:
 
-1. **Move images** from `images/headers/` into each article's directory as `header.webp`
-2. **Update `metadata.json`** to add the image reference:
+1. **Move images** from `images/headers/{desktop,tablet,mobile}/` into each article's directory:
+   - `header.webp` (desktop)
+   - `header-800.webp` (tablet)
+   - `header-480.webp` (mobile)
+2. **Update `metadata.json`** to add the image references:
    ```json
    {
-     "headerImage": "header.webp",
+     "headerImage": {
+       "desktop": "header.webp",
+       "tablet": "header-800.webp",
+       "mobile": "header-480.webp"
+     },
      "headerImageAlt": "Article title - shan shui style illustration"
    }
    ```
-3. **Update article display components** to render the header image above the article body
-4. **Optimize for production** via Next.js `<Image>` component with lazy loading
+3. **Update article display components** to render responsive header images using `<picture>`:
+   ```tsx
+   <picture>
+     <source media="(max-width: 480px)" srcSet={images.mobile} type="image/webp" />
+     <source media="(max-width: 800px)" srcSet={images.tablet} type="image/webp" />
+     <source media="(min-width: 801px)" srcSet={images.desktop} type="image/webp" />
+     <Image src={images.desktop} alt={alt} width={1200} height={675} loading="lazy" />
+   </picture>
+   ```
+4. **Optimize for production** via Next.js `<Image>` component with lazy loading and priority hints for above-the-fold articles
 
 ---
 
