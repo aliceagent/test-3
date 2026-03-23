@@ -1,5 +1,7 @@
 # Tzedakah: The Jewish Obligation of Righteous Giving
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese brushstroke (山水) landscape depicting a stone bridge over a flowing stream in traditional ink wash style. On one side of the bridge, a figure in simple robes extends a hand offering grain or coins to another figure crossing from the opposite direction. Mountains rise gently in the misty background. The scene is rendered in subtle grays and blacks with touches of warm earth tones, conveying dignity, interconnection, and the flow of compassion between people. The composition emphasizes balance and mutual support, with the bridge as a visual metaphor for tzedakah connecting giver and receiver. Mood: contemplative, compassionate, dignified.
 
 ---
@@ -239,5 +241,3 @@ Tzedakah transforms society from a collection of individuals into a true communi
 ## Tags
 
 #Tzedakah #Charity #Justice #Mitzvah #Giving #MoneyEthics #JewishValues #Maimonides #Rambam #SocialJustice #Community #Righteousness #צדקה #仁 #Benevolence #Confucianism #ChineseCulture
-
----

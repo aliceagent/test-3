@@ -1,5 +1,7 @@
 # The Siddur (Prayer Book): Your Guide to Daily Jewish Prayer
 
+---
+
 **Article ID**: 223  
 **Section**: Mitzvah Objects  
 **Target Audience**: Mandarin-speaking beginners with no prior Jewish knowledge  

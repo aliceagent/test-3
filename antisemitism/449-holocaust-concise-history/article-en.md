@@ -1,6 +1,7 @@
 # The Holocaust: A Concise History for Chinese Readers
 
-*Section: Antisemitism*
+
+---
 
 Between 1933 and 1945, Nazi Germany and its collaborators systematically murdered six million Jews—two-thirds of Europe's Jewish population. This genocide, known as the Holocaust (or in Hebrew, the *Shoah*, meaning "catastrophe"), represents one of the darkest chapters in human history.
 

@@ -1,5 +1,7 @@
 # Tashlich: Casting Away Your Sins at the Water
 
+---
+
 > **Header Image Description (DALL-E prompt):** Traditional Chinese shan shui (山水) ink landscape depicting a peaceful riverside scene where silhouetted figures stand at the water's edge among willow trees. Gentle ripples spread across the water's surface as autumn leaves drift downstream. Rendered in classic water-ink wash technique with deep blacks, soft grays, and touches of warm amber for sunset light. Distant mountains fade into mist. Mood: contemplative serenity, spiritual release, natural flow. The composition emphasizes the eternal movement of water as a metaphor for renewal.
 
 ---
@@ -108,5 +110,3 @@ As we watch the water flow away from the shore, we internalize a profound truth:
 ## Tags
 
 #Tashlich #RoshHashana #YomKippur #HighHolyDays #Repentance #Teshuvah #ProphetMicah #JewishCustoms #WaterSymbolism #Renewal #Forgiveness #春秋时代 #明朝 #道家 #老子 #环保意识
-
----

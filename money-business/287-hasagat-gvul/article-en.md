@@ -1,5 +1,7 @@
 # Hasagat Gvul: Fair Competition in Jewish Business Law
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese shan shui landscape in traditional ink wash style showing two merchant boats peacefully sharing a wide river, each with their own designated area. In the foreground, a wooden pier with two market stalls side by side, one selling silk and one selling spices, both merchants smiling and gesturing respectfully to each other. Distant mountains fade into misty background. Muted earth tones with subtle blues and greens. Style: traditional 水墨 brushwork, contemplative and harmonious mood, emphasizing balance and mutual respect.
 
 ---
@@ -186,5 +188,3 @@ When you compete fairly, innovate honestly, and treat competitors with dignity, 
 ## Tags
 
 #HasagatGvul #BusinessEthics #FairCompetition #JewishLaw #Torah #Talmud #Marketplace #IntellectualProperty #商业伦理 #公平竞争 #不义之财 #Halacha #MoneyBusiness #Mussar #Integrity
-
----

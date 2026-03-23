@@ -1,5 +1,7 @@
 # Jewish Pride: Building a Strong Identity in a Hostile World
 
+---
+
 > **Header Image Description (DALL-E prompt):** A Chinese ink wash (水墨) landscape showing a solitary ancient tree standing strong on a rocky cliff overlooking a misty valley, its deep roots visible gripping the stone, branches reaching skyward despite wind-bent form. Traditional shan shui (山水) style with muted earth tones—charcoal blacks, soft grays, warm ochres. Small prayer-like brushstrokes suggest leaves that persist through seasons. In the distant background, barely visible through mist, the silhouette of a walled city on a hill. Mood: resilient, contemplative, enduring. The tree symbolizes Jewish identity—rooted, weathered by history, yet unbroken.
 
 ---
@@ -213,5 +215,3 @@ Be proud. Learn deeply. Live visibly. Connect meaningfully. And pass it on.
 ## Tags
 
 #JewishPride #Identity #Antisemitism #Resilience #Heritage #Community #Purpose #TikkunOlam #KiddushHashem #JewishEducation #Israel #Assimilation #文化自信 #传承 #犹太认同 #自豪感
-
----

@@ -1,5 +1,7 @@
 # Judaism and Islam: Shared Roots and Important Differences
 
+---
+
 When Muslims and Jews meet today, they often discover surprising connections. Both communities pray facing a specific direction, avoid pork, circumcise their sons, and follow detailed dietary laws. These aren't coincidences—they reflect a shared heritage that stretches back thousands of years.
 
 ## The Common Foundation

@@ -2,6 +2,8 @@
 
 ## The Mysterious Wine Law
 
+---
+
 Imagine walking into a supermarket and seeing two bottles of wine with identical ingredients: grapes, water, sulfites. Both have kosher certification symbols. Yet one costs $15 and the other costs $45. What's the difference?
 
 The answer lies in one of Judaism's most unique laws: **stam yeinam** (סתם יינם), the prohibition against wine that has been handled by non-Jews. This law doesn't just make wine more expensive — it reveals something profound about the role of wine in Jewish spiritual life and history.

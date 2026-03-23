@@ -1,5 +1,7 @@
 # Noach: What the Flood Teaches About Second Chances
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese ink wash painting showing a massive ancient ark floating peacefully on endless flood waters during a gentle rain. In the foreground, a delicate rainbow emerges through misty clouds, painted in subtle watercolor washes over traditional black ink. The composition features towering mountains in the background rendered in classic shan shui style with varying ink gradations. A pair of doves with olive branches fly gracefully in the middle distance. The mood is contemplative and hopeful, with muted earth tones of gray, brown, and subtle blue-green, accented by the soft rainbow colors. The style should evoke traditional Chinese landscape painting while incorporating this pivotal biblical scene.
 
 ---
@@ -126,5 +128,3 @@ This universal dimension makes Noach's story particularly relevant for those com
 ## Tags
 
 #Noach #SecondChances #Rainbow #Covenant #Flood #重新开始 #希望 #商朝 #WeeklyParsha #Genesis #Righteousness #Renewal #UniversalLaws #NoachideLaws #彩虹 #仁者
-
----

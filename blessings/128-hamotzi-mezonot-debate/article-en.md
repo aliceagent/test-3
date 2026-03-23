@@ -1,5 +1,7 @@
 # HaMotzi vs. Mezonot: The Great Bread Blessing Debate
 
+---
+
 > **Header Image Description (DALL-E prompt):** Traditional Chinese shan shui (山水) ink landscape featuring two scholars in traditional robes seated on opposite sides of a low table in a mountain pavilion, examining scrolls and various breads and grains arranged before them. Rendered in classic water-ink technique with deep blacks, soft grays, and warm amber tones. Through the pavilion's open sides, misty mountains recede into the distance. The composition emphasizes dialogue and contemplation, with wheat stalks and grain sacks visible in the foreground. Mood: scholarly debate, thoughtful examination, the beauty of complex questions. Both scholarly rigor and everyday life meeting in sacred conversation.
 
 ---

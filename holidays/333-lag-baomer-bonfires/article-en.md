@@ -1,5 +1,7 @@
 # Lag BaOmer Bonfires: What We're Celebrating and Why
 
+---
+
 > **Header Image Description (DALL-E prompt):** Traditional Chinese shan shui (山水) ink landscape depicting a misty mountain at twilight with multiple bonfires burning on terraced hillsides. Small groups of figures gather around each flame, rendered in minimalist brushstrokes. The fires create warm golden-orange points of light against deep indigo and gray mountains. Smoke rises in graceful curves, merging with evening mist. The composition emphasizes vertical ascent from earth to sky, with the largest bonfire at the summit blazing brightest. Style: classic water-ink technique with touches of warm amber and gold for flames. Mood: celebratory, mystical, communal joy emerging from darkness.
 
 ---

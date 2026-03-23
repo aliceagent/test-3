@@ -1,4 +1,6 @@
 # Rabbi Yochanan Ben Zakkai: The Man Who Saved Judaism After the Temple
+---
+
 # 拉比约哈南·本·扎卡伊：拯救圣殿之后犹太教的人
 
 > **Header Image Description (DALL-E prompt):** A dramatic Chinese ink wash painting (shan shui style) depicting an ancient scholar being carried in a coffin through smoke-filled ruins, with Roman soldiers in the background. The scene shows Jerusalem's burning walls in muted grays and blacks, while a small olive tree sapling grows in the foreground symbolizing hope. The scholar's hand emerges from the coffin holding a Torah scroll. Muted earth tones with accents of burnt orange and gold. Mood: somber yet hopeful, depicting transition from destruction to renewal.

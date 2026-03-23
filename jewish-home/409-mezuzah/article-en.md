@@ -1,6 +1,7 @@
 # Mezuzah: The Doorpost That Defines a Jewish Home
 
-**Section: Jewish Home**
+
+---
 
 Walk into any traditional Jewish home and you'll notice something on the doorframe: a small case, slightly tilted, about a hand's width from the top of the doorpost. This is a mezuzah (מְזוּזָה, plural: mezuzot), and its presence transforms an ordinary dwelling into a Jewish home. But what makes this small object so significant? What's inside it, why is it there, and what does it mean?
 

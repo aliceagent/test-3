@@ -1,5 +1,7 @@
 # Building a Minyan: How Ten Jews Change Everything
 
+---
+
 In Jewish tradition, there's something almost magical about the number ten. When ten Jewish adults gather, something shifts. Prayers that were recited individually suddenly become communal. Words that were private become public. A group of individuals transforms into a community—a minyan.
 
 For Jews living in small communities, especially in places like China where finding even ten Jews can be challenging, understanding the minyan's importance and how to maintain one becomes crucial.

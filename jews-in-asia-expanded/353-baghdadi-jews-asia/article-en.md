@@ -1,5 +1,7 @@
 # The Baghdadi Jews of Asia: From Iraq to India to Shanghai
 
+---
+
 > **Header Image Description (DALL-E prompt):** A Chinese ink wash (水墨) landscape depicting a serene coastal trading port in early 20th century Asia. In the foreground, traditional Chinese junks and Western merchant ships anchor in calm waters. The middle ground shows elegant colonial architecture blending Chinese and Western styles, with ornate synagogues featuring Star of David motifs rendered in Chinese artistic style. In the background, misty mountains fade into the horizon. The scene includes small figures of merchants and families in both traditional Jewish and Chinese dress conducting business along the waterfront. Color palette: muted grays and blues with subtle gold and crimson accents on the building details. Mood: cosmopolitan, prosperous, nostalgic—capturing the spirit of Baghdadi Jewish merchant families who bridged East and West.
 
 ---

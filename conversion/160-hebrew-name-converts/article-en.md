@@ -1,5 +1,7 @@
 # Choosing a Hebrew Name: A Guide for Converts
 
+---
+
 One of the most meaningful moments in the conversion process is selecting your Hebrew name — the name that will define your Jewish identity, be called at your wedding, used when you're called to the Torah, and remembered after 120 years. This isn't just picking a name you like; it's choosing an identity that connects you to thousands of years of Jewish history and to the eternal soul of the Jewish people.
 
 ## Why Converts Receive a New Name

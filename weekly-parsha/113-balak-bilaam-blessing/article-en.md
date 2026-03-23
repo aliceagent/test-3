@@ -1,5 +1,7 @@
 # Balak: When Your Enemy Blesses You — The Story of Bilaam
 
+---
+
 > **Header Image Description (DALL-E prompt):** A traditional Chinese shan shui (山水) ink wash landscape featuring a high mountain plateau overlooking vast desert plains. In the foreground, a lone figure (representing Bilaam) stands atop the mountain with arms raised, while below in the distance, a vast encampment of tents extends across the valley (representing the Israelite camp). Golden morning light filters through misty clouds, creating a mystical atmosphere. The scene is rendered in traditional water-ink style with subtle earth tones of brown, ochre, and gray, accented with touches of gold. The mood is contemplative and awe-inspiring, suggesting divine intervention and the power of prophetic vision.
 
 ---
@@ -92,5 +94,3 @@ In our contemporary world, we often encounter situations where people wish us ha
 ## Tags
 
 #Balak #Bilaam #Prophecy #MahTovu #WeeklyParsha #DivineProvidence #Blessing #商朝 #ShangDynasty #古代中国 #PropheticVision #JewishCommunity #SpiritualWarfare #GodsProtection
-
----

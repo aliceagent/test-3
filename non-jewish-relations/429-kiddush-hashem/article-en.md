@@ -1,5 +1,7 @@
 # Kiddush Hashem: Sanctifying God's Name Through Ethical Behavior
 
+---
+
 In the crowded streets of 1930s Shanghai, a Chinese merchant discovered he had accidentally been overpaid by a Jewish refugee businessman. The merchant expected the Jew to quietly pocket the error. Instead, the refugee immediately returned the extra money, saying, "My religion teaches honesty above profit." The Chinese merchant, impressed, later told others: "The Jews must worship a great God, if He inspires such integrity in His followers."
 
 This is "kiddush Hashem" — sanctification of God's Name. It's the principle that Jews, through their ethical behavior, can inspire respect for God and Judaism in the eyes of the world. Conversely, unethical behavior creates "chillul Hashem" — desecration of God's Name — making God and Judaism look bad.

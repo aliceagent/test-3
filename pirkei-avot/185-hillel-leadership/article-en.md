@@ -2,6 +2,8 @@
 
 ## The Teaching
 
+---
+
 *"Bemakom she'ein anashim, hishtadel lihyot ish."*  
 "In a place where there are no leaders, strive to be a leader."  
 — Hillel, Pirkei Avot 2:5

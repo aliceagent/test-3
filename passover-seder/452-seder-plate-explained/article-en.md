@@ -1,6 +1,7 @@
 # The Seder Plate Explained: Every Item and Its Meaning
 
-**Section: Passover Seder**
+
+---
 
 The Seder plate (*ke'arah* in Hebrew) sits at the center of the Passover table like a symbolic map of Jewish history. This special plate holds six items, each representing a different aspect of the Exodus story and carrying layers of meaning developed over thousands of years. For Chinese readers encountering the Seder for the first time, understanding these symbols opens a window into how Judaism uses physical objects to teach, remember, and transmit values across generations.
 

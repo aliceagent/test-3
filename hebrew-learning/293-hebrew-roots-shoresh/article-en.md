@@ -1,4 +1,6 @@
 # Hebrew Roots: How Three Letters Unlock Thousands of Words
+---
+
 # 希伯来语词根：三个字母如何解锁数千个单词
 
 > **Header Image Description (DALL-E prompt):** A traditional Chinese ink wash (水墨) landscape in shan shui (山水) style. In the foreground, three elegant Hebrew letters float like calligraphic brushstrokes above a winding river that flows through a misty valley. Ancient scrolls unfold along the riverbanks, each revealing different Hebrew words branching from the same root letters like tributaries. In the background, mountains fade into layers of mist, symbolizing depth of meaning. The scene is rendered in subtle blacks, grays, and sepia tones with touches of gold highlighting the root letters. Mood: contemplative, revealing hidden patterns, intellectual discovery.
@@ -317,5 +319,3 @@ Start with the 15 roots in this article. Learn their patterns. Notice them in pr
 ## Tags
 
 #HebrewLearning #Shoresh #HebrewRoots #Binyanim #三字根 #希伯来语 #语言学习 #词根系统 #TorahStudy #本 #Linguistics #LanguageLearning #JewishEducation
-
----

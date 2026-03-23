@@ -1,5 +1,7 @@
 # The Kaifeng Jews: A Thousand Years of Jewish Life in China
 
+---
+
 In the heart of China's Henan Province lies Kaifeng, an ancient city that was once the glorious capital of the Northern Song Dynasty. Among its historical treasures is a remarkable story largely unknown to the outside world: for over a thousand years, a Jewish community lived, thrived, and maintained their traditions in this Chinese city—a community that built magnificent synagogues, studied Torah in Chinese, and created a unique synthesis of Jewish and Chinese culture.
 
 The story of Kaifeng's Jews is a tale of survival, adaptation, assimilation, and in recent decades, rediscovery and revival. It raises profound questions about Jewish identity, cultural integration, and what it means to preserve tradition across vast distances and centuries of isolation.
@@ -146,7 +148,3 @@ For Jews worldwide, Kaifeng represents both tragedy and hope—tragedy in the lo
 The Jews of Kaifeng built synagogues whose stones have crumbled, read Torah scrolls now scattered in museums, and preserved traditions that nearly disappeared. Yet their story continues. In Kaifeng today, young people study Hebrew, celebrate Shabbat, and reconnect with an identity their ancestors maintained for a thousand years and their recent forebears nearly forgot.
 
 This is not just history—it's an ongoing story of identity, memory, and the human capacity to reclaim lost heritage. The Kaifeng Jews remind us that the Jewish story is global, that cultural adaptation need not mean assimilation, and that even after centuries of silence, voices from the past can speak again.
-
----
-
-*Section: Jews in Asia*

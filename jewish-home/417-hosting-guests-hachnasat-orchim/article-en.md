@@ -1,5 +1,7 @@
 # Hosting Guests (Hachnasat Orchim): The Art of Jewish Hospitality
 
+---
+
 The Talmud (Shabbat 127a) teaches: "Welcoming guests is greater than receiving the Divine Presence." This extraordinary statement is based on Abraham's behavior in Genesis 18. Abraham was sitting at the entrance to his tent—just three days after his circumcision at age 99, in intense heat—when he saw three travelers. The text says, "And God appeared to him... and he lifted his eyes and saw, and behold, three men..." Abraham literally interrupted a divine visitation to run and welcome strangers, prepare a feast, and ensure their comfort.
 
 From this, the Sages derive: hospitality to human beings takes precedence even over communing with God. This mitzvah, *hachnasat orchim* (הכנסת אורחים—bringing in guests), is one of the foundations of Jewish home life.

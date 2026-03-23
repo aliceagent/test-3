@@ -1,5 +1,7 @@
 # Brit Milah: Everything You Need to Know About Jewish Circumcision
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene traditional Chinese shan shui (山水) ink wash landscape at dawn, with soft morning mist rolling over gentle hills. In the foreground, a symbolic ancient covenant stone tablet rests among delicate plum blossoms. The composition balances calm mountains in the background with a winding path leading toward a distant traditional pavilion, suggesting journey and tradition. Muted earth tones of grey, cream, and pale gold with subtle touches of pink from blossoms. Mood: contemplative, reverent, timeless.
 
 ---
@@ -212,5 +214,3 @@ In the words of the blessing recited at every brit milah: "Just as he has entere
 ## Tags
 
 #BritMilah #Circumcision #Covenant #Abraham #割礼 #盟约 #JewishBaby #LifeCycle #EighthDay #Mohel #Sandek #Tradition #Identity #商朝 #ShangDynasty #Continuity #JewishLaw #Ritual #FamilyCelebration #JewishIdentity
-
----

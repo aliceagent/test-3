@@ -1,6 +1,7 @@
 # The Four Questions (Ma Nishtana): Text, Translation, and Deeper Meaning
 
-**Section: Passover Seder**
+
+---
 
 The Four Questions — *Ma Nishtana* in Hebrew — form one of the most recognized moments of the Passover Seder. Traditionally asked by the youngest person capable of reading them, these questions launch the telling of the Exodus story. But they are far more than a script for children; they embody a revolutionary educational philosophy that has sustained Jewish learning for millennia.
 

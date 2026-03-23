@@ -1,5 +1,7 @@
 # The Haggadah's Four Sons: Which One Are You?
 
+---
+
 *Header image description: A classical Chinese-style illustration showing four young scholars around a traditional study table, each representing different learning approaches - one engaged and questioning, one turning away dismissively, one listening simply, and one sitting silently. The scene is set against the backdrop of a traditional Chinese courtyard with lanterns, symbolizing the Four Sons across cultures and dynasties.*
 
 ## Introduction

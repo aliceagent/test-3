@@ -1,5 +1,7 @@
 # Guide for the Perplexed: Maimonides' Philosophical Masterwork
 
+---
+
 In the 12th century, a crisis shook the Jewish intellectual world. Educated Jews studying Greek philosophy—especially Aristotle—found themselves torn between two seemingly incompatible truths: the teachings of Torah and the conclusions of reason. Scripture speaks of God's "hand," "face," and "anger," describing Him in human terms. It tells of creation from nothing, miracles, and prophecy. But philosophy teaches that God is utterly transcendent, without body or emotion; that the universe may be eternal; that natural law is unchanging.
 
 Could both be true? Or must one choose between faith and reason, Torah and philosophy?
@@ -166,7 +168,3 @@ His intellectual courage—engaging philosophy honestly rather than dismissing i
 The *Guide* doesn't resolve all tensions. Some questions remain unanswered, some interpretations feel forced, some conclusions controversial. But Maimonides never promised easy answers—only the commitment to seek truth wherever it leads, confident that ultimately, the God of revelation and the God of reason are one.
 
 For perplexed seekers in any generation—those caught between worlds, torn between tradition and modernity, faith and doubt—Maimonides offers not simple solutions but a model of intellectual integrity, profound learning, and the conviction that the life of the mind is itself a form of worship.
-
----
-
-*Section: Jewish Texts*

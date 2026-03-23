@@ -1,5 +1,7 @@
 # Your First High Holidays as a Jew: What to Expect
 
+---
+
 *A guide for new Jews navigating Rosh Hashanah and Yom Kippur for the first time*
 
 ---

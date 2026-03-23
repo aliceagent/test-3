@@ -1,5 +1,7 @@
 # Kavanah: The Art of Praying with Intention
 
+---
+
 > **Header Image Description (DALL-E prompt):** A traditional Chinese ink wash landscape in shan shui style showing a solitary figure standing on a misty mountain peak at dawn, hands raised in prayer toward the heavens. The composition features flowing mountain ranges fading into layers of mist, a few sparse pine trees bending in the wind, and soft rays of morning light breaking through clouds. Use muted earth tones—grays, soft browns, and subtle gold accents—to create a contemplative, serene mood. The figure should be small yet dignified, representing the human connection to something greater. Style: traditional brush strokes with varying ink density, ethereal atmosphere, quiet reverence.
 
 ---

@@ -1,5 +1,7 @@
 # The Seven Noahide Laws: God's Universal Moral Code
 
+---
+
 While the Torah contains 613 commandments binding on Jews, Jewish tradition teaches that God gave a smaller, universal code to all humanity: the Seven Noahide Laws. These laws, according to the Talmud, were commanded to Noah and his descendants after the Flood — meaning they apply to every human being, regardless of religion or ethnicity.
 
 For Chinese readers familiar with universal moral principles in Confucian philosophy (like the Five Constant Virtues: benevolence, righteousness, propriety, wisdom, and fidelity) or Daoist natural law, the Noahide Laws offer a Jewish parallel: a moral foundation meant for all people, establishing basic ethical standards for a just society.

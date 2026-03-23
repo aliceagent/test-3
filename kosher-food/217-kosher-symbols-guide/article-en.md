@@ -1,5 +1,7 @@
 # Reading Kosher Symbols: OU, OK, Star-K and What They Mean
 
+---
+
 When you walk into a supermarket and start checking food packages for kosher certification, you'll encounter a bewildering array of symbols: OU, OK, Star-K, Kof-K, and many others. These small marks on packaging represent entire systems of supervision, rabbinic authority, and Jewish law. For someone new to keeping kosher, these symbols can seem like a secret code. This guide will help you understand what they mean and how to read them.
 
 ## What Is a Hechsher?

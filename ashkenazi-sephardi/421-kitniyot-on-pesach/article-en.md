@@ -1,5 +1,7 @@
 # Kitniyot on Pesach: Why Ashkenazim and Sephardim Eat Differently
 
+---
+
 One of the most visible differences between Ashkenazi and Sephardi Jewish practice appears on the Passover dinner table. While both communities meticulously avoid chametz (leavened bread products made from wheat, barley, rye, oats, or spelt), Ashkenazi Jews add another layer of restriction: kitniyot — rice, beans, corn, lentils, peas, and similar legumes and grains.
 
 For Chinese readers familiar with rice as a dietary staple, the idea that some Jews avoid rice during Passover while others eat it freely might seem puzzling. This divergence offers a fascinating window into how Jewish law develops through custom, and how different communities can maintain distinct practices while remaining part of the same tradition.

@@ -1,5 +1,7 @@
 # Chinuch: Raising Children with Torah Values
 
+---
+
 The Hebrew word *chinuch* (חינוך) means education, but it encompasses far more than academics. It refers to the entire process of raising children—shaping their character, transmitting values, teaching them to navigate the world as moral beings, and connecting them to the chain of Jewish tradition stretching back thousands of years.
 
 In Jewish thought, parents are not merely caretakers but sculptors. The raw material—the child's soul—comes from God, pure and full of potential. The parents' sacred task is to help that soul fulfill its unique purpose in the world.

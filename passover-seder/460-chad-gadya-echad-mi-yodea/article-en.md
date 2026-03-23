@@ -1,6 +1,7 @@
 # Chad Gadya and Echad Mi Yodea: The Seder Songs Decoded
 
-**Section: Passover Seder**
+
+---
 
 As the Passover Seder draws to a close, bellies full and cups nearly empty, the gathering often breaks into song. Two songs in particular close many Seders: *Echad Mi Yodea* ("Who Knows One?") and *Chad Gadya* ("One Little Goat"). To the uninitiated, these songs seem simple, even childish — counting songs and a cumulative nursery rhyme. But beneath their playful melodies and repetitive structures lie layers of meaning: Jewish theology, historical allegory, mystical symbolism, and existential questions about justice, power, and divine providence. For Chinese readers encountering these songs, they offer windows into how Judaism embeds profound teachings in accessible, memorable forms.
 

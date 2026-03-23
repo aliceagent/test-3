@@ -1,5 +1,7 @@
 # The Jewish Bookshelf: 20 Books Every New Jew Should Own
 
+---
+
 When you enter a traditional Jewish home, you'll notice something remarkable: bookshelves filled with Jewish texts. Not decorative volumes gathering dust, but well-worn books with cracked spines and dog-eared pages—evidence of constant study. In Judaism, books aren't mere objects; they're teachers, companions, and gateways to an ancient conversation spanning millennia.
 
 But where do you start? Walking into a Jewish bookstore can feel overwhelming. The shelves stretch endlessly with volumes in Hebrew, English, and multiple languages. Some books are ancient wisdom repackaged, others are contemporary guides. Which ones should form the foundation of your personal library?

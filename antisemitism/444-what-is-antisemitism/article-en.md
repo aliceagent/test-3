@@ -1,6 +1,7 @@
 # What Is Antisemitism? A Clear Definition and Historical Overview
 
-*Section: Antisemitism*
+
+---
 
 Antisemitism is hatred of Jews as Jews. This simple definition conceals extraordinary complexity, because antisemitism has shape-shifted across centuries and civilizations, adapting to different cultures and ideologies while maintaining a consistent core: the idea that Jews are fundamentally different, dangerous, and deserving of hostility.
 

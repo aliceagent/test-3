@@ -1,6 +1,7 @@
 # The Synagogue: More Than a Place of Prayer
 
-**Section: Community**
+
+---
 
 When most people think of a synagogue, they imagine a place where Jews gather to pray. While this is certainly true, it tells only part of the story. The synagogue — called *shul* in Yiddish, *beit knesset* (בית כנסת) in Hebrew, or *kehilla* when referring to the community itself — has always served three distinct and equally important functions in Jewish life.
 

@@ -1,5 +1,7 @@
 # What Can and Can't I Do on Shabbat? Common Questions Answered
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese brushstroke landscape in traditional shan shui (山水) style showing a peaceful home nestled in mountains at twilight. Warm golden candlelight glows from windows against deepening blue mountains and sky. A winding path leads to the home, symbolizing the journey of Shabbat preparation. Muted earth tones (grays, blues, warm golds), with subtle mist around mountain peaks. Mood: tranquil, restful, sacred pause. Style: traditional Chinese ink wash with delicate brushwork and negative space emphasizing stillness.
 
 ---
@@ -418,5 +420,3 @@ The questions you asked in this article will soon become muscle memory. And then
 ## Tags
 
 #Shabbat #安息日 #ShabbatLaws #Melachot #Electricity #Cooking #Muktzeh #Eruv #ShabbatQuestions #PikuachNefesh #Orthodox #Halacha #ZhouDynasty #周朝 #禮 #WuWei #無為 #PracticalJudaism #ShabbatObservance #RestAndHoliness
-
----

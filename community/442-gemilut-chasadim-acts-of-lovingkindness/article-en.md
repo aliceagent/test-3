@@ -1,6 +1,7 @@
 # Gemilut Chasadim: Acts of Lovingkindness That Build Community
 
-*Section: Community*
+
+---
 
 In many cultures, helping others is considered praiseworthy but optional—a nice thing to do when you have extra time or resources. Judaism takes a radically different approach. Acts of lovingkindness, known in Hebrew as *gemilut chasadim* (גמילות חסדים), are not optional extras but fundamental obligations that sit at the very heart of what it means to live a Jewish life.
 

@@ -1,5 +1,7 @@
 # The Shabbat Table: Creating a Weekly Family Sanctuary
 
+---
+
 Every Friday evening, as the sun sets, millions of Jewish families around the world gather around a table transformed into something sacred. The Shabbat table is not merely where we eat—it becomes a sanctuary, a place where heaven and earth meet, where the week's stress dissolves, and where families reconnect with each other and with God.
 
 ## Setting the Stage

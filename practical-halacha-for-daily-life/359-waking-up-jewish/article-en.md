@@ -1,5 +1,7 @@
 # Waking Up Jewish: The First 10 Minutes of a Jewish Morning
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese shan shui (山水) landscape in soft morning light. Dawn breaks over misty mountains with a small traditional dwelling nestled in the valley. A figure stands at the entrance, hands raised in prayer position. Gentle rays of sunlight pierce through morning mist, creating an atmosphere of quiet awakening and spiritual preparation. Rendered in traditional ink wash style with subtle golden highlights representing the divine presence at daybreak. Mood: peaceful, contemplative, spiritually awakening.
 
 ---
@@ -221,5 +223,3 @@ The Jewish morning routine isn't meant to be a burden. It's meant to be a gift �
 ## Tags
 
 #ModehAni #NegelVasser #AsherYatzar #Tzitzit #MorningBlessings #BirchotHaShachar #DailyHalacha #JewishMorningRoutine #PracticalJudaism #Gratitude #SpiritualAwakening #MitzvahObjects #RitualHandwashing #早晨祈祷 #犹太传统 #感恩 #礼仪
-
----

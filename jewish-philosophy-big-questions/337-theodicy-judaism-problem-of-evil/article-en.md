@@ -1,4 +1,6 @@
 # Theodicy: How Judaism Confronts the Problem of Evil
+---
+
 # 神义论：犹太教如何应对邪恶问题
 
 > **Header Image Description (DALL-E prompt):** A Chinese ink wash (水墨) landscape depicting a lone figure standing at the edge of a misty mountain precipice, gazing into swirling storm clouds that part to reveal a sliver of golden light. In the foreground, gnarled pine trees bend in the wind but remain rooted. The composition balances darkness (deep charcoal storm) with hope (golden horizon), rendered in traditional shan shui style with muted grays, blacks, and warm amber accents. Mood: contemplative, searching, resilient.
@@ -202,5 +204,3 @@ The shared wisdom: We may not control the universe, but we are not powerless. Ou
 ## Tags
 
 #Theodicy #ProblemOfEvil #JewishPhilosophy #Faith #Suffering #FreeWill #DivineJustice #Talmud #Maimonides #Holocaust #BookOfJob #Chassidism #神义论 #邪恶问题 #信仰 #苦难 #自由意志
-
----

@@ -1,6 +1,7 @@
 # 100 Essential Hebrew Words Every Jewish Learner Should Know
 
-**Section: Hebrew Learning**
+
+---
 
 Learning a language can feel overwhelming—thousands of words, endless grammar rules. But here's the secret: a small core vocabulary gives you enormous comprehension. In Hebrew, roughly 100 essential words unlock most Jewish prayers, blessings, and Torah study basics.
 

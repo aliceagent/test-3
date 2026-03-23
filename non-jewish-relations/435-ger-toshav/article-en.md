@@ -1,5 +1,7 @@
 # Ger Toshav: The Concept of the Righteous Non-Jew Living Among Israel
 
+---
+
 Judaism developed a unique category for righteous non-Jews who choose to live ethically according to universal moral laws without converting to Judaism. This concept—ger toshav (literally "resident stranger")—creates a formal place within the Jewish framework for non-Jews who wish to live in alignment with Jewish values while maintaining their own identity. For non-Jewish people in China or elsewhere exploring Judaism without necessarily seeking conversion, understanding ger toshav offers a legitimate path of connection.
 
 ## The Biblical Foundation

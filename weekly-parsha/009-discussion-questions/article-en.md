@@ -1,5 +1,7 @@
 # Five Discussion Questions for Every Parsha (A Family Template)
 
+---
+
 > **Header Image Description (DALL-E prompt):** A traditional Chinese brushstroke style landscape painting depicting a circular family gathering around a low table with an open scroll, set in a serene bamboo garden courtyard. Soft ink wash technique with muted earth tones of sage green, warm sepia, and subtle gold accents. Five distinct figures of varying ages — elderly grandparent, parents, and children — lean in attentively. Misty mountains visible through an open pavilion, suggesting both intimate family space and connection to eternal wisdom. Delicate bamboo stalks frame the scene. Style: traditional shan shui (山水) painting with Confucian family harmony meets sacred text study. Mood: contemplative, warm, multi-generational wisdom-sharing.
 
 ---
@@ -310,5 +312,3 @@ Welcome to the table. The Torah is waiting.
 ## Tags
 
 #WeeklyParsha #TorahStudy #ShabbatTable #FamilyLearning #JewishEducation #DvarTorah #Questions #ChineseJewishParallels #Confucianism #修身 #家教 #Discussion #BeginnerFriendly #Chavruta #ParshaQuestions #TorahDiscussion #FiveQuestions #ShabbatConversation #JewishFamily #RamBam #Rashi #宋朝 #SongDynasty #明朝 #MingDynasty #Learning #家庭教育
-
----

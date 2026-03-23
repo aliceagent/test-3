@@ -1,6 +1,7 @@
 # Dayenu: Gratitude as a Jewish Practice
 
-**Section: Passover Seder**
+
+---
 
 "Dayenu" (דַּיֵּנוּ) — "It would have been enough for us" — is one of the most beloved songs of the Passover Seder. Its catchy melody and repetitive structure make it a favorite, especially for children. But beneath the joyful singing lies a profound meditation on gratitude, divine grace, and the Jewish art of appreciating incremental blessings. For Chinese readers encountering this song, Dayenu offers insights into how Judaism cultivates contentment without complacency.
 

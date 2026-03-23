@@ -1,5 +1,7 @@
 # Mizrachi Jews: The Forgotten Third Stream
 
+---
+
 When people speak of Jewish diversity, they often mention Ashkenazi and Sephardi traditions. But this binary oversimplifies Jewish history. There exists a third major stream, often overlooked: Mizrachi Jews — the ancient communities of the Middle East and Central Asia who never left the region where Judaism was born.
 
 The term "Mizrachi" comes from the Hebrew word "mizrach" (מִזְרָח), meaning "east." These are Jews from Iraq, Iran, Kurdistan, Yemen, Afghanistan, Uzbekistan, Georgia, and other regions east of the Land of Israel. Their traditions are distinct from both Ashkenazi (European) and Sephardi (Spanish) practice, preserving customs that, in some cases, date back to the Babylonian Talmud itself.

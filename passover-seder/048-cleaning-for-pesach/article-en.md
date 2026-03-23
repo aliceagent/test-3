@@ -1,4 +1,6 @@
 # Cleaning for Pesach: The Complete Chametz Removal Guide
+---
+
 # 逾越节清洁：彻底清除酵母指南
 
 > **Header Image Description (DALL-E prompt):** A serene Chinese brushstroke landscape (shan shui style) depicting a traditional Jewish home during spring cleaning preparation. In the foreground, a family works together cleaning their home - a mother sweeping with a traditional broom, children carrying baskets, father organizing shelves. Through an open window, early spring blossoms (plum or cherry) are visible against misty mountains in the background. The scene uses muted earth tones (soft browns, grays, warm yellows) with touches of spring green. The composition balances busy domestic activity in the foreground with peaceful nature in the background, symbolizing both the physical and spiritual preparation. Painted in traditional Chinese ink wash style with delicate brushwork, evoking both industriousness and tranquility. The mood is warm, purposeful, and hopeful - spring renewal meets sacred preparation.
@@ -632,5 +634,3 @@ May your Pesach cleaning be smooth, your search successful, and your Passover ce
 ## Tags
 
 #Passover #Pesach #Chametz #Cleaning #BedikatChametz #JewishHolidays #SpringCleaning #扫尘 #逾越节 #酵母 #BiurChametz #MechiratChametz #Torah #Halachah #JewishLaw #Mitzvah #Humility #SpiritualPreparation #ChineseNewYear #春节 #清洁 #PassoverSeder #Seder #犹太节日
-
----

@@ -2,6 +2,8 @@
 
 ## Introduction: When Sacred Time Meets Saving Lives
 
+---
+
 Imagine you're a nurse in the emergency room when Shabbat begins. A patient arrives in critical condition. The monitors beep urgently. Your training tells you what to do, but you wonder: how does Jewish law navigate this moment?
 
 The question of Shabbat observance for medical professionals and night-shift workers reveals one of Judaism's most profound principles: **pikuach nefesh** — the preservation of human life supersedes almost all other commandments, including Shabbat restrictions. Yet this doesn't mean "anything goes." Jewish law provides a nuanced framework that honors both the sanctity of Shabbat and the sanctity of human life.

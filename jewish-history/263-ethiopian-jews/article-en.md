@@ -1,5 +1,7 @@
 # Ethiopian Jews: The Beta Israel and Operation Solomon
 
+---
+
 > **Header Image Description (DALL-E prompt):** A Chinese ink wash landscape depicting Ethiopian highlands meeting Jerusalem's ancient walls. The scene shows a journey path winding from misty African mountains (rendered in deep indigo and sepia tones) toward golden stone buildings on the horizon. Silhouettes of people carrying ancient scrolls walk the path, bridging two distant lands. Style: traditional shan shui with elements of both African and Middle Eastern architecture. Mood: epic, hopeful, triumphant. Color palette: earth tones, ochre, burnt sienna, with touches of gold and sky blue.
 
 ---
@@ -259,5 +261,3 @@ The image of 747s filled with Ethiopian Jews ascending from Addis Ababa to Jerus
 ## Tags
 
 #EthiopianJews #BetaIsrael #OperationSolomon #OperationMoses #JewishHistory #Aliyah #Israel #Exodus #Redemption #JewishDiversity #寻根 #犹太历史 #以色列
-
----

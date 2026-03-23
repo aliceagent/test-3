@@ -1,5 +1,7 @@
 # How to Make a Shiva Call: What to Say and What Not to Say
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese brushstroke (水墨) landscape in muted earth tones featuring a stone pathway winding through misty mountains toward a simple pavilion with warm candlelight visible through paper windows. In the foreground, two figures in traditional robes walk quietly side by side. The composition emphasizes silence and companionship—bare branches, gentle fog, and soft shadows suggest contemplative presence without words. Style: traditional shan shui (山水) with minimal detail, emphasizing negative space and the power of quiet solidarity. Mood: peaceful, reverent, compassionate.
 
 ---

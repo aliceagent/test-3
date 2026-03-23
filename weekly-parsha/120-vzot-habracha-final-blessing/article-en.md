@@ -1,5 +1,7 @@
 # V'Zot HaBracha: The Last Parsha — Moses Blesses the Tribes
 
+---
+
 > **Header Image Description (DALL-E prompt):** A traditional Chinese shan shui (山水) style landscape depicting the climactic moment of Moses's final blessing. In the foreground, an ancient patriarch with flowing robes stands on Mount Nebo, his arms raised in blessing over a vast landscape below. Twelve distinct groups of people are arranged across rolling hills and valleys in the middle ground, each representing a different tribe with subtle symbolic elements (lions for Judah, ships for Zebulun, olive branches for Asher). In the distant background, majestic mountains fade into misty clouds, suggesting the eternal nature of the blessings. The composition uses soft ink washes in earth tones (grey, sepia, gold) with touches of deep blue for the sky, creating a sense of solemnity, completion, and divine presence. Ancient Chinese calligraphy-style clouds drift between the elements, emphasizing the sacred nature of final words and eternal legacy.
 
 ---

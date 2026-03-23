@@ -1,5 +1,7 @@
 # The Bnei Menashe: The Lost Tribe Returning to Israel from India and Myanmar
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese shan shui (山水) landscape in traditional ink wash style depicting a journey homeward. In the foreground, a winding mountain path leads upward through misty peaks toward a distant temple on a hilltop bathed in golden light. Small figures in traditional robes walk the path, carrying bundles, their faces turned toward the light. The scene includes bamboo groves on the left, a flowing stream crossing the path, and distant mountains fading into soft gray mist. Color palette: deep blacks and grays for the mountains, warm amber and gold highlights for the temple light, touches of green for vegetation. Mood: hopeful, contemplative, spiritual journey, return to origins.
 
 ---
@@ -275,5 +277,3 @@ The journey of the Bnei Menashe also reminds us that "home" is not always a plac
 ## Tags
 
 #BneiMenashe #LostTribes #TribeOfManasseh #JewsInAsia #JewsInIndia #Aliyah #Conversion #OralTradition #DiasporaJews #ReturnToZion #ShaveiIsrael #ManipurJews #MizoramJews #AsianJews #JewishIdentity #印度犹太人 #失落的支派 #回归以色列 #JewsInAsiaExpanded #玛拿西支派
-
----

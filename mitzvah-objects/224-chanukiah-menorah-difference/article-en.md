@@ -1,5 +1,7 @@
 # The Chanukiah vs. the Menorah: Understanding the Difference
 
+---
+
 > **Header Image Description (DALL-E prompt):** A contemplative Chinese ink wash painting depicting two sacred Jewish candelabras side by side in a traditional study. On the left, the seven-branched Temple menorah in ancient bronze with an aged patina, rendered in flowing brushstrokes suggesting antiquity and holiness. On the right, a nine-branched Chanukah menorah (chanukiah) glowing with warm candlelight in soft golds and amber. Between them rests an open scroll with Hebrew letters that flow like Chinese calligraphy. The scene blends Jewish ritual objects with Chinese artistic sensibility - misty mountains visible through a window, a flowering plum branch, earth tones of black ink, sepia, and touches of deep crimson. The composition suggests the dialogue between ancient Temple worship and ongoing celebration, rendered in meditative shan shui style.
 
 ---
@@ -199,5 +201,3 @@ The contrast highlights how Judaism evolved from centralized, priest-led Temple 
 ## Tags
 
 #Chanukiah #Menorah #Chanukah #TempleService #JewishHistory #MitzvahObjects #LightFestival #Maccabees #TempleMenorah #SacredObjects #JewishSymbols #光明节 #圣殿 #烛台 #犹太象征 #HolidayTraditions #ReligiousSymbolism #JewishIdentity #MiracleOfTheOil
-
----

@@ -1,6 +1,7 @@
 # False Messiahs in Jewish History: Lessons from Shabbetai Zevi and Others
 
-**Section: Messiah**
+
+---
 
 Throughout Jewish history, numerous individuals have claimed—or been proclaimed—as the Messiah. Most caused disappointment; some caused disaster. Understanding these false messianic movements teaches us not only about Jewish history but about human nature, the power of hope, and the criteria for authentic redemption.
 

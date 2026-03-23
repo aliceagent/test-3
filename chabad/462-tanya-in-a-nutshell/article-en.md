@@ -2,6 +2,8 @@
 
 ## A Beginner-Friendly Guide to the Masterwork of Chabad Thought
 
+---
+
 Imagine opening a book and discovering a complete map of your inner world—your struggles, your potential, your purpose, and your connection to the infinite. This is the Tanya, the foundational text of Chabad philosophy, written over 200 years ago yet startlingly relevant to modern psychological and spiritual questions. For Chinese readers encountering this text, you might find surprising parallels to concepts in Confucianism, Buddhism, and Daoism, yet with distinctly Jewish perspectives.
 
 The full title is *Likkutei Amarim* (Collected Sayings), but it's universally known as Tanya from its opening word. Written by Rabbi Schneur Zalman of Liadi (1745-1812), the founder of Chabad Chassidism, it was first published anonymously in 1796. Today, it's studied daily by tens of thousands worldwide and has been translated into dozens of languages, including Chinese.

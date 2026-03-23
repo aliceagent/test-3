@@ -1,5 +1,7 @@
 # Pikuach Nefesh: When Saving a Life Overrides Everything
 
+---
+
 > **Header Image Description (DALL-E prompt):** A traditional Chinese ink wash (水墨) landscape depicting a serene mountain path shrouded in mist, with a lone traveler helping another who has stumbled. The composition uses flowing brushstrokes in muted grays and soft earth tones, with a subtle warm accent of amber light breaking through clouds above. The scene conveys compassion and urgency balanced with tranquility, reflecting the tension between strict observance and the supreme value of human life. Style: shan shui (山水) with emphasis on human connection within nature's vastness.
 
 ---
@@ -235,5 +237,3 @@ Life is sacred. Life comes first. Everything else flows from that truth.
 ## Tags
 
 #PikuachNefesh #SavingLife #Shabbat #EmergencyHalacha #MedicalEthics #JewishLaw #ShulchanAruch #Talmud #YomKippur #MentalHealth #PublicHealth #LifeCycle #Halacha #JewishValues #HumanLife #生命至上 #犹太法 #安息日 #JewishTexts
-
----

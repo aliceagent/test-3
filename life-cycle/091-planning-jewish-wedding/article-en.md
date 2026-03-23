@@ -1,5 +1,7 @@
 # Planning a Jewish Wedding: From the Proposal to Sheva Brachot
 
+---
+
 > **Header Image Description (DALL-E prompt):** A traditional Chinese brushstroke (水墨/shan shui) landscape depicting a serene garden courtyard at golden hour. In the foreground, a simple chuppah (wedding canopy) with four wooden poles stands beneath a willow tree, draped with flowing white and blue silk that catches the warm light. Cherry blossoms float in the air. Two figures in traditional garments stand beneath the canopy, surrounded by a small circle of guests. In the background, misty mountains fade into the distance, symbolizing the journey ahead. The scene is rendered in soft earth tones—warm golds, gentle grays, deep blues—with delicate brushwork suggesting both celebration and sacred commitment. The mood is contemplative, joyful, and timeless.
 
 ---

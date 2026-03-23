@@ -1,5 +1,7 @@
 # The Sassoon Family: Jewish Moguls Who Built Shanghai
 
+---
+
 Walk through Shanghai today and you'll see gleaming skyscrapers, luxury hotels, and a skyline that rivals New York or Hong Kong. But look closer at the historic Bund—the famous waterfront boulevard—and you'll notice elegant colonial-era buildings bearing names like "Sassoon House" and "Cathay Hotel." These architectural treasures tell the story of a remarkable Jewish family whose vision and enterprise helped transform Shanghai from a modest port into one of Asia's greatest commercial centers.
 
 The Sassoons—sometimes called the "Rothschilds of the East"—built a business empire spanning from Baghdad to Bombay to Shanghai, becoming one of the most influential Jewish families in Asian history. Their story is one of exile and opportunity, East-West cultural synthesis, and the complex legacy of colonialism and trade.
@@ -158,7 +160,3 @@ For Jews worldwide, the Sassoons demonstrate Judaism's global reach and Jews' ca
 The name "Sassoon" still echoes in Shanghai's streets, in Bombay's synagogues, and in the memories of those who knew old Shanghai. It's a name connecting Baghdad to Bombay to Shanghai, Torah study to opium trading to Art Deco architecture—a quintessentially Jewish story of diaspora, adaptation, success, loss, and enduring legacy.
 
 The moguls who built Shanghai left more than buildings—they left questions about wealth and responsibility, integration and identity, tradition and modernity that resonate far beyond one family's extraordinary journey.
-
----
-
-*Section: Jews in Asia*

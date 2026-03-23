@@ -1,5 +1,7 @@
 # Ashkenazi vs. Sephardi: Understanding the Two Great Traditions
 
+---
+
 Judaism is one religion with one Torah, given to one people at one mountain. Yet walk into two different synagogues—one Ashkenazi, one Sephardi—and you might think you're witnessing two different faiths. The melodies are different, the pronunciation of Hebrew is different, some prayers are in different orders, holiday customs vary, and even the food served afterward is entirely distinct.
 
 How did one people develop two such distinct traditions? The answer lies in geography, history, and the interplay between unchanging Torah law and the diverse cultures where Jews lived for two millennia.

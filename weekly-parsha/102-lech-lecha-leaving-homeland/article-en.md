@@ -1,5 +1,7 @@
 # Lech Lecha: Leaving Everything Behind to Follow God
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese shan shui (山水) landscape painting depicting a lone traveler with a walking staff journeying across a vast mountain valley. Traditional ink wash technique with muted earth tones of sage green, warm beige, and soft gray. In the foreground, an elderly bearded figure (Abraham) in flowing robes stands at the edge of a cliff overlooking an endless vista of rolling hills and distant peaks. A small caravan of camels and tents is visible in the valley below. The sky shows subtle touches of golden light breaking through misty clouds, symbolizing divine guidance. The composition evokes themes of trust, journey, and spiritual calling. Style: classical Chinese brushstroke painting reminiscent of Song Dynasty landscape masters.
 
 ---
@@ -181,5 +183,3 @@ Many Chinese immigrants maintained their cultural values while embracing new pos
 ## Tags
 
 #Abraham #LechLeca #Faith #Trust #SpiritualJourney #Genesis #WeeklyParsha #商朝 #信仰 #旅程 #TorahStudy #离开舒适区 #精神成长
-
----

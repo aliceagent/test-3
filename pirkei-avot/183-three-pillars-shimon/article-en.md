@@ -2,6 +2,8 @@
 
 ## Introduction: A Three-Thousand-Year Blueprint
 
+---
+
 Imagine being asked to reduce the entire purpose of civilization into one sentence. What would you say?
 
 Nearly 2,300 years ago, a sage named Shimon HaTzaddik (Shimon the Righteous) did exactly that. In just eleven Hebrew words, he captured what sustains the world:

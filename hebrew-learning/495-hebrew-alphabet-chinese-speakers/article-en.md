@@ -1,6 +1,7 @@
 # The Hebrew Alphabet for Chinese Speakers: A Systematic Approach
 
-**Section: Hebrew Learning**
+
+---
 
 Learning the Hebrew alphabet (Alef-Bet) is the essential first step in accessing Jewish texts, prayers, and Hebrew language. For Mandarin speakers, this can feel daunting—a completely new script with unfamiliar sounds and reading direction. But Chinese learners have unique advantages: experience mastering complex writing systems, comfort with memorization, and appreciation for the connection between writing and meaning.
 

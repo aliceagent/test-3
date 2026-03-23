@@ -1,5 +1,7 @@
 # What is Zionism? A Jewish Perspective
 
+---
+
 > **Header Image Description (DALL-E prompt):** Traditional Chinese ink wash (水墨) landscape painting depicting a lone figure standing on a mountain path, gazing toward distant mountains that symbolize Jerusalem. The foreground shows intricate pine branches (representing endurance and longevity), while the distant peaks are bathed in golden light breaking through clouds. The composition moves from dark, misty lower slopes to luminous heights, symbolizing the journey of return and hope. Style: shan shui (山水) with subtle touches of warm amber in the distant light. Mood: contemplative, hopeful, yearning. The figure wears simple robes suggesting a scholar or pilgrim, carrying a scroll. Muted earth tones (black ink, sepia, subtle gold) with delicate brushwork.
 
 ---
@@ -236,5 +238,3 @@ If you want to connect with the Zionist spirit:
 ## Tags
 
 #Zionism #Israel #Jerusalem #EaretzYisrael #Aliyah #TheodorHerzl #RabbiKook #ReligiousZionism #LandOfIsrael #JewishSovereignty #Return #Redemption #ModernJewishHistory #TorahAndLand #以色列 #锡安主义 #耶路撒冷 #犹太复国主义
-
----

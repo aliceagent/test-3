@@ -1,5 +1,7 @@
 # Patience (Savlanut): The Jewish Art of Waiting Without Anger
 
+---
+
 **Article #170 | Mussar Series**
 
 The modern world teaches us to demand instant results. Food delivery in thirty minutes. Instant messaging. Next-day shipping. We've become accustomed to immediate gratification in nearly every aspect of life. Yet Jewish tradition offers a radically different approach: the cultivation of *savlanut* (סַבְלָנוּת), the art of patience.

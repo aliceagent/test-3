@@ -2,6 +2,8 @@
 
 ## Introduction
 
+---
+
 Walk into any Orthodox Jewish home on Friday night, and you'll likely hear something magical: families gathered around the Shabbat table singing together. These aren't modern pop songs or religious hymns from a prayer book—they're *zemiros* (זְמִירוֹת), traditional songs that have been sung at Shabbat meals for centuries.
 
 Zemiros transform the Shabbat table into a spiritual celebration. They elevate the meal beyond physical nourishment into an experience of joy, connection, and holiness. Each song carries layers of meaning—praising God, celebrating Shabbat's sanctity, and expressing the Jewish people's deep longing for spiritual elevation.

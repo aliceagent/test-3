@@ -1,5 +1,7 @@
 # Kosher Fish Guide: Which Fish Are Kosher and How to Verify
 
+---
+
 **Understanding the simple rules that determine which fish are permissible to eat**
 
 Walking through a fish market can be overwhelming when you're trying to keep kosher. Rows of glistening fish, some whole, some filleted, some you recognize and many you don't. Which ones can you eat? The Torah provides clear signs, but applying them in practice requires knowledge. This comprehensive guide will teach you everything you need to know about kosher fish.

@@ -1,5 +1,7 @@
 # How Jews Should Treat Non-Jews: Halachic and Ethical Guidelines
 
+---
+
 One of the most important questions in any religious tradition is: how should believers treat those outside their faith? In an age of globalization and multiculturalism, understanding how Judaism views relations with non-Jews is crucial for both Jews and those seeking to understand Jewish ethics.
 
 Jewish law (halacha) and ethical teachings address this question extensively. The Torah, Talmud, and centuries of rabbinical writings establish clear guidelines: Jews must treat non-Jews with respect, fairness, honesty, and compassion. While historical contexts complicated these ideals, the core principle remains: every human being is created in God's image (tzelem Elokim) and deserves dignity.

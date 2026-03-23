@@ -1,5 +1,7 @@
 # Jewish Community Organizations: From Federation to Chabad to JCC
 
+---
+
 For someone new to Judaism, especially in a place without established Jewish infrastructure like many cities in China, the landscape of Jewish organizations can seem bewildering. Federation? Chabad? JCC? Hillel? What do these organizations do, and how can they help you connect to Jewish life?
 
 Understanding the major Jewish organizations—their purposes, philosophies, and services—helps you navigate Jewish communal life and find the resources you need, wherever you are.

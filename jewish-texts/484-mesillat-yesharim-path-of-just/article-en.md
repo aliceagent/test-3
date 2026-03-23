@@ -1,5 +1,7 @@
 # Mesillat Yesharim: The Path of the Just — A Roadmap for Self-Improvement
 
+---
+
 How do you become a better person? It's one of humanity's oldest questions, relevant across cultures and centuries. Jewish tradition offers many answers, but few as clear, systematic, and practical as Rabbi Moshe Chaim Luzzatto's *Mesillat Yesharim* (The Path of the Just).
 
 Written in 1740, this ethical masterpiece presents a step-by-step ladder of spiritual growth, from basic watchfulness in daily life to the ultimate heights of holiness. For nearly three centuries, Jews seeking self-improvement have turned to this book as their roadmap, and its wisdom continues to inspire readers today—Jewish and non-Jewish alike.
@@ -147,7 +149,3 @@ The book has been translated into many languages and studied across the Jewish s
 In Ramchal's vision, self-improvement isn't about perfection but direction. Even if you never reach holiness, the journey itself transforms you. Each rung of the ladder brings you closer to your best self—more aware, more disciplined, more compassionate, more whole.
 
 For anyone serious about ethical and spiritual growth—whether religious or secular, Jewish or not—*Mesillat Yesharim* remains an invaluable guide: ancient in origin, yet timelessly relevant in its wisdom about the human path toward goodness.
-
----
-
-*Section: Jewish Texts*

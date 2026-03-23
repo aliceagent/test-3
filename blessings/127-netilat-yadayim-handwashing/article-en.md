@@ -1,5 +1,7 @@
 # Netilat Yadayim: Why Jews Wash Their Hands in a Specific Way
 
+---
+
 *The spiritual cleansing that transcends physical hygiene*
 
 In Jewish homes and restaurants around the world, a distinctive ritual unfolds before bread is eaten: the careful pouring of water over hands from a special cup, followed by a blessing, and a moment of contemplative silence before the meal begins. This practice, known as *netilat yadayim* (נטילת ידיים), literally "taking up of the hands," represents one of Judaism's most profound examples of transforming a mundane act into a sacred moment.

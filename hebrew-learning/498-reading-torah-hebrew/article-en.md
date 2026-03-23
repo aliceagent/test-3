@@ -1,6 +1,7 @@
 # Reading the Torah in Hebrew: A Beginner's Decoding Guide
 
-**Section: Hebrew Learning**
+
+---
 
 You've learned the Hebrew alphabet. You recognize some words. Now you open a Torah scroll or prayer book—and suddenly you're lost. The letters blur together, vowel marks confuse you, and words seem impossible to decode. Don't worry. Reading Hebrew fluently takes time, but with the right approach, you can start reading Torah texts confidently, even as a beginner.
 

@@ -1,4 +1,6 @@
 # The Golem of Prague: Legend, Mysticism, and Meaning
+---
+
 # 布拉格魔像：传说、神秘主义与深层意义
 
 > **Header Image Description (DALL-E prompt):** A misty medieval Prague cityscape at twilight in traditional Chinese shan shui (山水) ink wash style. The silhouette of the Prague Castle looms above the old Jewish quarter, where a shadowy clay figure stands in the foreground, its crude features barely illuminated by the moonlight. Ancient cobblestone streets wind through the scene, with the Old-New Synagogue's Gothic spires rising in the background. Muted earth tones of charcoal grey, sepia, and midnight blue dominate the palette, with subtle accents of warm amber suggesting candlelight from synagogue windows. The mood is contemplative, mysterious, and slightly ominous — capturing the boundary between divine creation and human ambition.

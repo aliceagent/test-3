@@ -1,5 +1,7 @@
 # The Omer Period: Why 33 Days of Semi-Mourning?
 
+---
+
 > **Header Image Description (DALL-E prompt):** Traditional Chinese shan shui (山水) ink landscape depicting a misty valley between steep mountains, with a winding path ascending from shadowed lowlands toward a bright summit. Along the path, scattered candles or small flames create points of light in the darkness. Rendered in classic water-ink technique with deep blacks, grays, and touches of golden amber for the flame-light. The composition emphasizes journey through difficulty toward illumination, with the upper mountains bathed in morning light while the valley remains dim. Mood: contemplative sorrow transforming into hope, spiritual ascent through challenge.
 
 ---

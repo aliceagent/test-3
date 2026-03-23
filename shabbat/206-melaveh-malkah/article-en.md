@@ -2,6 +2,8 @@
 
 ## The Final Gift of Shabbat
 
+---
+
 As Saturday night falls and three stars appear in the sky, Orthodox Jews around the world perform one last beautiful ritual to conclude Shabbat: Melaveh Malkah, literally "escorting the queen." Just as we welcomed Shabbat as a queen on Friday evening with songs and ceremony, we now bid her farewell with a special meal, reluctant to let her go.
 
 This custom, often overlooked by those new to Jewish observance, represents something profound: the Jewish instinct to extend sacred moments as long as possible, to hold onto holiness even as it departs.

@@ -1,5 +1,7 @@
 # Nitzavim: You Are All Standing Here Today — Jewish Unity Before Entering Israel
 
+---
+
 > **Header Image Description (DALL-E prompt):** A breathtaking Chinese shan shui landscape showing thousands of diverse figures standing together on rolling hills before a great river. Men, women, children, elders, and leaders from all walks of life face toward a promised land across the water. Above them, ancient covenant scrolls float in misty clouds, while below, the earth shows both wilderness stones and fertile soil. The composition uses traditional ink wash techniques with flowing brushstrokes, muted earth tones of charcoal gray, warm browns, and touches of sage green. The scene captures unity in diversity, with each figure distinct yet part of a greater whole. Style: Classical Chinese landscape painting with emphasis on human harmony within nature.
 
 ---

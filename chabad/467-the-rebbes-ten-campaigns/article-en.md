@@ -2,6 +2,8 @@
 
 ## From Shabbat Candles to Tefillin to Mezuzah—Making Core Mitzvot Accessible
 
+---
+
 In 1967, on the eve of the Six-Day War, the Lubavitcher Rebbe made an unusual request. He asked Jewish men around the world—whether religiously observant or not—to put on tefillin (phylacteries), the black leather boxes containing Torah verses that traditional Jews wear during morning prayers. The Rebbe believed this simple act would create spiritual protection for Israeli soldiers entering battle. Thousands responded. Chabad emissaries fanned out across airports, streets, and public squares asking Jewish men: "Are you Jewish? Would you like to put on tefillin?"
 
 This tefillin campaign became the first of what would eventually be known as the Rebbe's "Ten Campaigns"—focused initiatives to encourage all Jews, regardless of background or observance level, to perform specific mitzvot (commandments). These campaigns were revolutionary in their simplicity, accessibility, and universal reach. Rather than demanding comprehensive religious transformation, the Rebbe said: Start with one action. One mitzvah. One connection. That's enough to begin.

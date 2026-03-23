@@ -1,5 +1,7 @@
 # The Pale of Settlement: Jewish Life in Eastern Europe
 
+---
+
 > **Header Image Description (DALL-E prompt):** A Chinese brushstroke landscape in traditional shan shui (山水) style depicting a vast, cold Eastern European plain with simple wooden villages scattered across rolling hills. In the foreground, a small shtetl with modest houses and a wooden synagogue sits beneath a grey winter sky. Ink wash technique in muted earth tones—charcoal greys, sepia browns, and touches of pale blue—creating a contemplative, melancholic mood. The composition emphasizes the vastness of the landscape against the smallness of human settlements, suggesting both isolation and resilient community.
 
 ---
@@ -202,5 +204,3 @@ What can we learn from the Pale?
 ## Tags
 
 #PaleOfSettlement #JewishHistory #EasternEurope #Shtetl #Pogroms #Immigration #YiddishCulture #RussianEmpire #清朝 #Persecution #Resilience #Diaspora #AmericanJews #Zionism #JewishIdentity
-
----

@@ -1,8 +1,9 @@
 # Ein Yaakov: The Aggadic Stories of the Talmud
 
-**Section: Jewish Texts**
 
 ## Introduction: When the Law Tells Stories
+
+---
 
 The Talmud is famous for its legal debates — intricate discussions of kosher laws, Shabbat regulations, and civil jurisprudence. But scattered throughout its pages are stories, parables, ethical teachings, theological discussions, and mystical ideas that have nothing to do with legal rulings.
 

@@ -1,5 +1,7 @@
 # Blessings on Nature: What to Say When You See Lightning, a Rainbow, or the Ocean
 
+---
+
 > **Header Image Description (DALL-E prompt):** Traditional Chinese ink wash (水墨) landscape painting featuring a dramatic mountain vista with a rainbow arcing over misty peaks after rain, lightning illuminating dark storm clouds in the distance, and in the foreground a vast ocean meeting rocky shores with ancient pine trees. Style: shan shui (山水) landscape with subtle blue-violet rainbow colors against monochromatic grays, spontaneous brushstrokes capturing both power and serenity of natural wonders. Mood: awe-inspiring, contemplative, harmonious.
 
 ---
@@ -238,5 +240,3 @@ Judaism gives you words to match that feeling. Use them. Let the natural world b
 ## Tags
 
 #Blessings #Nature #Lightning #Thunder #Rainbow #Ocean #Gratitude #Creation #NoahsCovenant #NaturalWonders #Berachot #祝福 #自然 #闪电 #彩虹 #海洋 #感恩 #创世
-
----

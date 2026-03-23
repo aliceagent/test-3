@@ -1,5 +1,7 @@
 # Counting the Omer: The 49-Day Journey from Pesach to Shavuot
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese shan shui (山水) ink wash landscape showing 49 stone steps winding up through misty mountains from a valley floor (representing Pesach) to a glowing mountaintop (representing Mount Sinai/Shavuot). Each step is faintly numbered in Hebrew letters. Spring blossoms dot the lower steps while wheat stalks appear near the summit. The composition flows diagonally upward from right to left, with layers of mountains fading into the mist behind. Muted earth tones (blacks, grays, soft browns) with subtle golden highlights on the mountaintop. Style: traditional Chinese brushwork with minimalist composition. Mood: contemplative, gradual ascent, spiritual journey.
 
 ---
@@ -188,5 +190,3 @@ And when you reach the top — when Shavuot arrives — you'll realize the trans
 ## Tags
 
 #Omer #CountingTheOmer #Pesach #Passover #Shavuot #JewishCalendar #SpiritualGrowth #Sefirot #Kabbalah #SelfImprovement #修身 #Chesed #Gevurah #Tiferet #49Days #DailyPractice #RabbiAkiva #LagBaOmer #TorahReception #MountSinai #商朝
-
----

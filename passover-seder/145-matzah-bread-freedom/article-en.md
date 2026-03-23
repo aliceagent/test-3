@@ -1,5 +1,7 @@
 # Matzah: The Bread of Affliction and Freedom
 
+---
+
 > **Header Image Description (DALL-E prompt):** Traditional Chinese shan shui (山水) ink wash landscape featuring a rustic stone millhouse beside a flowing stream, with wheat fields in the foreground. Ancient gnarled hands work with dough on a wooden table in the scene's focus, while an hourglass sits nearby marking time. Rendered in gentle ink gradations with touches of warm amber and earth tones. Broken matzah pieces arranged in a subtle circle pattern echo the moon's phases in the sky above. Mood: ancient wisdom, transformation through time, humble dignity. The composition balances agricultural labor with spiritual purpose.
 
 ---
@@ -97,5 +99,3 @@ Matzah whispers to us: your current constraints are not your final definition. Y
 ## Tags
 
 #Matzah #Passover #Exodus #Slavery #Freedom #Redemption #EighteenMinutes #ShmurahMatzah #BreadOfAffliction #UnleavenedBread #Transformation #商朝 #道家 #易经 #阴阳 #佛教 #莲花
-
----

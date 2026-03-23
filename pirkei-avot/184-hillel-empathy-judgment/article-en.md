@@ -2,6 +2,8 @@
 
 ## Introduction: A Teaching That Transforms How We See Others
 
+---
+
 "Al tadin et chaveircha ad she'tagia limkomo" — "Do not judge your fellow until you have reached their place." These words from Hillel the Elder in Pirkei Avot (Ethics of the Fathers) 2:5 contain one of Judaism's most profound lessons about empathy, humility, and human relationships.
 
 In a world where snap judgments fill our social media feeds and instant opinions dominate conversations, this ancient wisdom challenges us to pause, reflect, and recognize the complexity of every human story. But what does it really mean to "reach someone's place"? And how can we possibly apply this teaching when we're constantly asked to form opinions and make decisions?

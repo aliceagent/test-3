@@ -1,6 +1,7 @@
 # The Messianic Era vs. the World to Come: What's the Difference?
 
-**Section: Messiah**
+
+---
 
 Jewish tradition speaks of both *Yemot HaMashiach* (the Days of the Messiah) and *Olam HaBa* (the World to Come). These terms are often confused or used interchangeably, but they represent fundamentally different concepts. Understanding the distinction is crucial for grasping Jewish eschatology—the vision of humanity's ultimate destiny.
 

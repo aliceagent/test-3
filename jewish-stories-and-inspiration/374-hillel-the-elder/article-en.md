@@ -1,4 +1,6 @@
 # Hillel the Elder: "What is Hateful to You, Do Not Do to Others"
+---
+
 # 希勒尔长老："己所不欲，勿施于人"
 
 > **Header Image Description (DALL-E prompt):** A traditional Chinese ink wash (水墨) landscape depicting an elderly sage with a long white beard sitting under a gnarled pine tree, teaching a young student. The sage wears simple robes suggesting poverty and humility. In the background, snow-capped mountains rise in the mist (shanshui style). A small oil lamp burns beside him, symbolizing his dedication to Torah study. Muted earth tones of grey, black, and subtle gold accents. Mood: serene, contemplative, wise, with the timeless quality of ancient wisdom being transmitted across generations.
@@ -100,5 +102,3 @@ In daily life, we can practice Hillel's "Golden Rule" by pausing before acting a
 ## Tags
 
 #Hillel #HillelTheElder #GoldenRule #Ethics #PirkeiAvot #TorahStudy #Humility #Patience #Convert #Judaism #JewishValues #希勒尔 #己所不欲勿施于人 #道德 #犹太教 #汉朝 #HanDynasty #JewishStoriesAndInspiration #Torah之光
-
----

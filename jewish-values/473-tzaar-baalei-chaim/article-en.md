@@ -1,8 +1,9 @@
 # Tzaar Baalei Chaim: Jewish Ethics of Animal Welfare
 
-**Section: Jewish Values**
 
 ## Introduction: Before You Eat
+
+---
 
 There's a curious detail in the Talmud's discussion of daily priorities. When a person wakes up hungry, which comes first: feeding yourself or feeding your animals?
 

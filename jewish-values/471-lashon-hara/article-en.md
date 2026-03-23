@@ -1,8 +1,9 @@
 # Lashon Hara: The Jewish Laws of Speech
 
-**Section: Jewish Values**
 
 ## Introduction: The Power of Words
+
+---
 
 In Jewish tradition, speech is considered one of the most powerful forces in the world. The Talmud teaches that "life and death are in the power of the tongue" (Proverbs 18:21). While this might sound dramatic, Jewish law takes speech so seriously that an entire body of halacha (Jewish law) has developed around it. At the center of these laws is the concept of *lashon hara* — literally "evil tongue" — which is often called one of the hardest commandments to keep.
 

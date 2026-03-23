@@ -1,5 +1,7 @@
 # What is Kabbalah? The Authentic Jewish Mystical Tradition
 
+---
+
 > **Header Image Description (DALL-E prompt):** A Chinese ink wash (水墨) style landscape depicting an ancient scholar seated in meditation within a misty mountain pavilion. The mountains fade into layers of ethereal clouds, with subtle rays of divine light filtering through. In the foreground, a flowing stream cascades over smooth stones, symbolizing the flow of wisdom. Traditional pine trees frame the scene, their branches reaching skyward. The color palette features muted grays, soft blues, and touches of gold light. Mood: contemplative, mystical, seeking transcendence. Style: traditional shan shui (山水) landscape with Taoist/Buddhist aesthetic influences merged with Jewish mystical symbolism.
 
 ---
@@ -221,5 +223,3 @@ If someone offers you "Kabbalah" without requiring you to keep Shabbat, study To
 ## Tags
 
 #Kabbalah #JewishMysticism #Philosophy #Chassidism #Sefirot #EinSof #Tzimtzum #TikkunOlam #Tanya #Zohar #Spirituality #Torah #InnerDimension #DivineWisdom #神秘主义 #卡巴拉 #道 #阴阳 #修身 #Chabad #BaalShemTov #AlterRebbe #Arizal
-
----

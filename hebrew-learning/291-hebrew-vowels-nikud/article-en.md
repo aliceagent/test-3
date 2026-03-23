@@ -1,4 +1,6 @@
 # Hebrew Vowels (Nikud): The Dots and Dashes Decoded
+---
+
 # 希伯来元音(Nikud):解密点和线
 
 > **Header Image Description (DALL-E prompt):** A serene Chinese ink wash (水墨) style landscape featuring an ancient scroll floating above a misty mountain valley. The scroll displays Hebrew letters with nikud (vowel points) that shimmer like dewdrops on bamboo leaves. In the foreground, a scholar's desk with an inkstone and brush sits on a rock outcropping. Soft golden light filters through clouds, illuminating the sacred letters. Style: traditional shan shui (山水) with delicate brushstrokes, muted earth tones of gray, sepia, and subtle gold accents. Mood: contemplative and reverent, suggesting the wisdom contained in these ancient marks.
@@ -246,5 +248,3 @@ Whether you're learning to read a siddur, preparing for a bar mitzvah, or simply
 ## Tags
 
 #HebrewLearning #Nikud #Vowels #Masoretes #HebrewLanguage #JewishEducation #Torah #BiblicalHebrew #LanguagePreservation #希伯来语学习 #元音系统 #犹太教育
-
----

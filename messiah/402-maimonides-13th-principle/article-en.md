@@ -1,6 +1,7 @@
 # Maimonides' 13th Principle: "I Believe in the Coming of the Messiah"
 
-**Section: Messiah**
+
+---
 
 In the 12th century, Rabbi Moses ben Maimon—known as Maimonides or the Rambam (1138-1204)—crystallized Jewish belief into thirteen fundamental principles. The 13th and final principle addresses belief in the Messiah: "I believe with perfect faith in the coming of the Messiah, and even though he may tarry, nevertheless I await his coming every day."
 

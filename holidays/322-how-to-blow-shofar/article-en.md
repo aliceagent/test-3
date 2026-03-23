@@ -1,5 +1,7 @@
 # How to Blow the Shofar: A Technical Guide
 
+---
+
 > **Header Image Description (DALL-E prompt):** A Chinese brushstroke landscape in traditional shan shui (山水) style, showing a solitary figure standing on a misty mountain peak at dawn, holding a ram's horn (shofar) to his lips. The scene captures the moment before sound breaks the silence — distant mountains fade into fog, a few pine trees cling to rocky cliffs, and the sky transitions from deep ink to pale morning light. Muted grays, soft browns, touches of gold. Contemplative, solemn, anticipatory mood. The figure wears simple robes that blend traditional Chinese and ancient Middle Eastern elements.
 
 ---
@@ -400,5 +402,3 @@ The shofar is a mitzvah that literally takes your breath — and gives it sacred
 ## Tags
 
 #Shofar #RoshHashana #HighHolidays #JewishRitualObjects #Tekiah #Shevarim #Teruah #吹羊角号 #赎罪日 #犹太新年 #BaalTekiah #MitzvahTechnique #PracticalHalacha #JewishPrayer #BreathControl
-
----

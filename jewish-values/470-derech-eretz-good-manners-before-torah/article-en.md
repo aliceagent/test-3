@@ -2,6 +2,8 @@
 
 ## Why the Rabbis Insisted Proper Conduct Is a Prerequisite for Torah Study—and Parallels with Chinese Li (礼)
 
+---
+
 In one of Judaism's most striking teachings, the ancient rabbis declared: *"Derech eretz kadma laTorah"*—"Proper behavior preceded the Torah" (Vayikra Rabbah 9:3). The statement appears paradoxical. If Torah is divine revelation, the foundation of Jewish life, how could anything come before it? Yet this principle—that basic decent behavior, proper conduct, and good manners are prerequisites for meaningful Torah study—runs through Jewish tradition. It suggests something profound: religious learning divorced from ethical behavior and respectful conduct is not just incomplete; it's fundamentally corrupted.
 
 For Chinese readers, this concept will likely resonate deeply. Confucius taught that ritual propriety (*li* 礼) and proper conduct must be cultivated before one can truly understand deeper wisdom. Mencius emphasized that without basic human feelings and moral cultivation, intellectual learning becomes dangerous. The parallel between Jewish *derech eretz* and Confucian *li* offers a bridge for understanding how two ancient civilizations, separated by geography but united in wisdom, reached remarkably similar insights about the relationship between behavior and learning, manners and meaning.

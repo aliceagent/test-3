@@ -1,5 +1,7 @@
 # The Vilna Gaon vs. the Baal Shem Tov: The Great Debate
 
+---
+
 > **Header Image Description (DALL-E prompt):** A Chinese shan shui (山水) landscape split down the center by a misty mountain ridge. On the left side, rendered in cool blues and grays, stands a solitary figure in a study chamber surrounded by towering stacks of ancient texts, candlelight illuminating geometric Hebrew letters floating in the air. On the right side, in warm ochres and soft greens, a gathering of joyful figures dance in a forest clearing, musical notes and flames rising toward heaven. The mountain ridge between them is neither barrier nor bridge, simply presence. Traditional ink wash technique with subtle gold accents where the two sides meet. Mood: tension and respect, difference and shared purpose.
 
 ---
@@ -170,5 +172,3 @@ This means:
 ## Tags
 
 #VilnaGaon #BaalShemTov #Chassidism #Mitnagdim #JewishHistory #TorahStudy #JewishPhilosophy #Kabbalah #18thCentury #清朝 #儒家道家 #犹太思想 #哈西迪 #JewishIntellectual #Spirituality #LithuanianJudaism #EasternEuropeanJewry #Orthodoxy #ReligiousDebate
-
----

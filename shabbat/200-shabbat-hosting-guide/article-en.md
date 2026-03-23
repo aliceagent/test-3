@@ -1,5 +1,7 @@
 # Shabbat Hosting 101: How to Invite Guests and Run a Beautiful Meal
 
+---
+
 *Article #200 — The Final Lesson*
 
 There's an ancient Jewish teaching: "Hospitality is greater than receiving the Divine Presence" (*Talmud Shavuot 35b*). When Abraham saw three strangers approaching his tent, he ran to greet them — even though he was recovering from circumcision and God Himself was visiting him. He left God waiting to welcome guests.

@@ -1,5 +1,7 @@
 # Muktzeh: The Things You Can't Move on Shabbat
 
+---
+
 On Shabbat, you can't turn on lights, cook food, or use your phone. Most people know this. But did you know that even *touching* certain objects is forbidden—even if you don't use them?
 
 This is called *muktzeh* (מוקצה), which literally means "set aside" or "removed." These are items that Jewish law designates as off-limits to move or handle on Shabbat and holidays. Understanding muktzeh transforms your Shabbat experience: suddenly, your home is divided into "touchable" and "untouchable" zones, and you develop a sixth sense for what you can and cannot pick up.

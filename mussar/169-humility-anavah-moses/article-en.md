@@ -2,6 +2,8 @@
 
 ## The Greatest Compliment in the Torah
 
+---
+
 In the entire Torah, only one person receives a superlative description of their character traits. Not Abraham, known for his kindness. Not Sarah, praised for her beauty and wisdom. Not Jacob, who wrestled with angels. The Torah reserves its most extraordinary compliment for Moses, and it's surprising: "Now Moses was very humble (*anav me'od*), more than any other person on the face of the earth" (Numbers 12:3).
 
 This is remarkable for several reasons. First, Moses was the greatest prophet who ever lived, the one who spoke to God "face to face." Second, he led millions of people out of slavery and through the wilderness. Third, he received and transmitted the entire Torah. Yet the Torah doesn't emphasize his wisdom, courage, or leadership—it emphasizes his humility.

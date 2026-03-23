@@ -1,5 +1,7 @@
 # Sephardi Halachic Authorities: From the Shulchan Aruch to Rav Ovadia Yosef
 
+---
+
 When an observant Jew faces a halachic question—Can I use this medicine on Shabbat? Is this business practice permitted? How do I observe this holiday?—they consult a *posek* (פוסק), a rabbi qualified to render halachic decisions.
 
 But halachic authorities are not uniform. A Sephardi Jew and an Ashkenazi Jew asking the same question may receive different answers because they follow different *poskim* (plural), who represent distinct methodologies, precedents, and traditions.

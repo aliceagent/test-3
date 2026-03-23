@@ -1,5 +1,7 @@
 # Ethiopian Jewish Traditions: The Beta Israel Heritage
 
+---
+
 Hidden in the highlands of Ethiopia, practicing an ancient form of Judaism without knowledge of the Talmud or later rabbinical developments, the Beta Israel — Ethiopian Jews — preserved their faith in near-total isolation for centuries. Their story is one of the most remarkable in Jewish history: a community that maintained Jewish identity, biblical practices, and messianic hope while cut off from the rest of the Jewish world, and their dramatic modern journey to reconnection and immigration to Israel.
 
 For Chinese readers, the Beta Israel story might resonate: imagine discovering a community that had preserved Confucian or Buddhist practice in complete isolation for two thousand years, practicing rituals described in ancient texts but unknown to modern practitioners. That's the astonishment the Jewish world felt when Ethiopian Jews reemerged into global Jewish consciousness.

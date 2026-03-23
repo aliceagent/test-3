@@ -1,5 +1,7 @@
 # Finding a Rabbi and Community When You Live in Asia
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese brushstroke landscape showing a traditional scholar's study pavilion set on a misty hillside, with delicate ink-wash mountains in the background. In the foreground, a small wooden desk holds an open Torah scroll and a laptop computer side by side, symbolizing the bridge between ancient wisdom and modern technology. Soft morning light filters through latticed windows. A winding path leads from the pavilion down to a distant city skyline barely visible through the mist, representing the connection between solitary study and distant community. Color palette: grays, soft blues, warm amber accents. Style: traditional shan shui (山水) with subtle contemporary elements. Mood: contemplative, hopeful, bridging distance.
 
 ---

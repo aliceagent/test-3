@@ -1,6 +1,7 @@
 # What Does the Torah Actually Say About the Messiah?
 
-**Section: Messiah**
+
+---
 
 When many people think of the Messiah (Mashiach in Hebrew, מָשִׁיחַ), they imagine a figure shrouded in mystery and supernatural powers. But what does the Torah—the Jewish Bible—actually say? Let's examine every significant mention of the Messiah in the Torah, Prophets (Nevi'im), and Writings (Ketuvim), separating documented sources from later interpretation.
 

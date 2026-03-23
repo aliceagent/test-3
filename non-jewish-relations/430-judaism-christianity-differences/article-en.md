@@ -1,5 +1,7 @@
 # Judaism and Christianity: Key Theological Differences Explained Respectfully
 
+---
+
 Judaism and Christianity share profound connections: the same biblical patriarchs, many of the same sacred texts, belief in the God of Israel, and intertwined historical development. Yet they diverge dramatically on fundamental theological questions. For nearly two millennia, these two faiths have existed side by side — sometimes in peaceful coexistence, sometimes in tragic conflict — each claiming to represent authentic relationship with God.
 
 Understanding where Judaism and Christianity differ — respectfully and clearly — matters for interfaith dialogue, mutual understanding, and reducing prejudice. This article explains the key theological differences without claiming one is "right" and the other "wrong," but rather clarifying what each tradition believes and why.

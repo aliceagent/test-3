@@ -1,5 +1,7 @@
 # Ashkenazi Prayer Nusach vs. Sephardi Nusach: What's Different and Why
 
+---
+
 When a Jew walks into an unfamiliar synagogue, one of the first things they might notice is whether the prayers sound "right." Not right as in correct — both are fully legitimate — but familiar. An Ashkenazi Jew visiting a Sephardi synagogue might feel momentarily lost, and vice versa. The words are mostly the same, the structure is similar, but something feels different. That something is "nusach" — the specific version of the prayer liturgy.
 
 Understanding nusach differences helps us appreciate how Jewish prayer developed, how communities maintained distinct identities while sharing core texts, and how tradition allows for both unity and diversity.

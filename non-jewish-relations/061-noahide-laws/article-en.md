@@ -1,4 +1,6 @@
 # The Noahide Laws: Judaism's Universal Moral Code
+---
+
 # 诺亚七律:犹太教的普世道德准则
 # שבע מצוות בני נח: קוד המוסר האוניברסלי של היהדות
 

@@ -1,6 +1,7 @@
 # The Role of Elijah the Prophet in Messianic Tradition
 
-**Section: Messiah**
+
+---
 
 At every Passover Seder, Jewish families pour a special cup of wine for Elijah the Prophet and open the door, welcoming him in. Children watch eagerly to see if the level of wine drops—did Elijah come? This beloved tradition points to a profound belief: Elijah will return before the Messiah arrives, preparing the way for redemption.
 

@@ -1,5 +1,7 @@
 # The Five Prohibitions of Yom Kippur and Their Deeper Meaning
 
+---
+
 > **Header Image Description (DALL-E prompt):** A Chinese ink wash (水墨) painting in traditional shan shui (山水) style depicting five symbolic elements arranged in a meditative landscape. A mountain spring represents drinking; a simple wooden table with earthenware bowls represents eating; a clear pond reflects the moon, representing washing; leather sandals rest beside a stone path, representing shoes; and two separate pavilions on distant hills connected by a bridge represent the prohibition of marital relations. The scene is rendered in soft greys and subtle earth tones, with mist flowing between elements, suggesting spiritual elevation and the temporary separation from physical needs during the Day of Atonement.
 
 ---

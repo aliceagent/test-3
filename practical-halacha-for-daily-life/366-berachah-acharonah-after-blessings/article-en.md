@@ -1,5 +1,7 @@
 # The Berachah Acharonah: After-Blessings Beyond Birkat HaMazon
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese shan shui (山水) landscape in traditional ink wash style showing a peaceful table setting on a mountainside pavilion. A person sits contemplatively after a meal, with remnants of bread and fruit visible. Wisps of mist rise from teacups, and calligraphy scrolls hang on distant peaks. Muted earth tones with touches of warm amber and soft gray. The scene conveys gratitude, mindfulness, and the completion of a spiritual act. Style: traditional Chinese brushstroke painting with Jewish symbolism integrated naturally.
 
 ---
@@ -305,5 +307,3 @@ So the next time you finish eating an apple, drinking tea, or enjoying a piece o
 ## Tags
 
 #AfterBlessings #BirkatHaMazon #BerachahAcharonah #AlHaMichyah #BoreiNefashot #PracticalHalacha #Gratitude #Blessings #DailyPractice #JewishLaw #感恩 #祝福 #犹太律法 #餐后祷告
-
----

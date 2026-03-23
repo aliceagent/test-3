@@ -1,4 +1,6 @@
 # The Western Wall: Why Jews Pray at an Ancient Stone Wall
+---
+
 # 西墙：犹太人为何在古老的石墙前祈祷
 # הכותל המערבי: למה יהודים מתפללים ליד חומת אבן עתיקה
 
@@ -287,5 +289,3 @@ As the Talmud teaches: "Ten measures of beauty were given to the world; nine wer
 ## Tags
 
 #WesternWall #Kotel #Jerusalem #Israel #HolyTemple #SecondTemple #JewishHistory #TishaBav #Redemption #Prayer #西墙 #耶路撒冷 #圣殿 #犹太历史 #SacredSites #Pilgrimage #汉朝 #唐朝 #周朝
-
----

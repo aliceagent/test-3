@@ -1,5 +1,7 @@
 # Shabbat in the Summer vs. Winter: Adjusting When Days Are Long or Short
 
+---
+
 When I first learned about keeping Shabbat, I imagined the same peaceful rhythm every week: light candles Friday evening, enjoy dinner, rest, and welcome three stars Saturday night. Simple, consistent, eternal.
 
 Then I experienced my first summer Shabbat in Jerusalem, where sunset occurs around 7:45 PM and Shabbat doesn't end until nearly 9:00 PM. A few months later came winter, with candle lighting at 4:00 PM and Shabbat ending by 5:15 PM. Same observance, wildly different schedules—and both completely valid according to Jewish law.

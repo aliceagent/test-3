@@ -1,5 +1,7 @@
 # Interfaith Dialogue: What's Permitted and What's Not in Jewish Law
 
+---
+
 As Jewish communities emerge in China and other parts of Asia where Jews are a tiny minority surrounded by other faith traditions, questions of interfaith engagement become practical and urgent. Can a Jew attend a Buddhist meditation session? Help build a mosque? Participate in interfaith dialogue? Join Christian neighbors for community service? Jewish law (halacha) provides nuanced guidance that seeks to maintain Jewish identity while respecting others and contributing to society.
 
 ## The Foundations: Biblical Prohibitions

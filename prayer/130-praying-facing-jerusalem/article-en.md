@@ -1,5 +1,7 @@
 # Praying Facing Jerusalem: Why Direction Matters
 
+---
+
 *The halachic requirement to face Jerusalem during the Amidah, how to determine the direction from anywhere in the world, and useful apps.*
 
 ## Introduction

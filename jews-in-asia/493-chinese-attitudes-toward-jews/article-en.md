@@ -1,6 +1,7 @@
 # Chinese Attitudes Toward Jews: Philosemitism, Stereotypes, and Reality
 
-**Section: Jews in Asia**
+
+---
 
 In Chinese culture, Jews occupy a peculiar place—simultaneously admired, misunderstood, stereotyped, and studied. Unlike in Western societies where antisemitism has deep historical roots, Chinese attitudes toward Jews developed largely in the modern era, shaped by admiration for Jewish achievement, imported Western stereotypes, and political calculations. Understanding these attitudes—both positive and problematic—is essential for Chinese readers exploring Judaism and for anyone navigating the complex cross-cultural dynamics.
 

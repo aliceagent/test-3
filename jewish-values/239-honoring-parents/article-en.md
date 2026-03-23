@@ -1,5 +1,7 @@
 # Kibbud Av Va'Em: Honoring Parents in Jewish Law
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese ink wash (水墨) landscape in shan shui style showing an elderly parent and adult child walking together along a mountain path, their figures small against towering misty peaks. Traditional architecture of a home nestled in the hillside. Gentle bamboo groves frame the scene. Muted earth tones with subtle touches of warm amber. The mood is contemplative, warm, and reverent — conveying intergenerational connection and respect. Style evokes classical Song Dynasty landscape painting with Jewish symbolism subtly integrated (perhaps a mezuzah on the distant doorway).
 
 ---
@@ -282,5 +284,3 @@ Your parents gave you life. God gave you both the commandment and the ability to
 ## Tags
 
 #KibbudAvVaEm #HonoringParents #FifthCommandment #ParentChildRelationships #Respect #Reverence #Gratitude #HakaratHaTov #Xiao #孝 #FilialPiety #Family #JewishValues #Mitzvot #TenCommandments #Talmud #Halacha #JewishLaw #ShulchanAruch #LifeCycle #ElderCare #ConvertLife #ChineseJews #Confucianism #IntergenerationalLove #JewishEthics #Mussar
-
----

@@ -1,5 +1,7 @@
 # What is a Minyan and Why Does It Matter?
 
+---
+
 *Understanding the sacred requirement of ten for Jewish communal prayer*
 
 ## The Foundation of Jewish Communal Prayer

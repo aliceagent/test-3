@@ -1,6 +1,7 @@
 # Online Jewish Communities: Staying Connected in the Digital Age
 
-*Section: Community*
+
+---
 
 For thousands of years, Jewish life centered on physical proximity. The synagogue, the study house, the marketplace—these were the spaces where Jewish community happened. You needed to live within walking distance of other Jews to maintain a Jewish life, which is why Jews historically clustered in neighborhoods and why the idea of a Jewish "quarter" became common across Europe, North Africa, and the Middle East.
 

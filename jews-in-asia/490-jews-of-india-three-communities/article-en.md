@@ -1,5 +1,7 @@
 # Jews of India: Cochin, Bene Israel, and Baghdadi Communities
 
+---
+
 When people think of Jewish history, India rarely comes to mind. Yet for over two millennia, Jewish communities have thrived on the Indian subcontinent, creating unique traditions that blend Jewish law with Indian culture. Unlike many places where Jewish history is marked by persecution and expulsion, India offered Jews remarkable acceptance, allowing them to flourish while maintaining their distinct identity.
 
 India's Jewish story is actually three stories—three distinct communities with separate origins, customs, and histories: the ancient **Cochin Jews** of Kerala, the mysterious **Bene Israel** of Maharashtra, and the modern **Baghdadi Jews** of Bombay and Calcutta. Together, they represent one of Judaism's most fascinating and peaceful diaspora experiences.
@@ -179,7 +181,3 @@ For Jews worldwide, India's Jewish communities are a reminder that diaspora didn
 Today, these communities have largely disappeared from India, with most members now living in Israel. But their legacy remains—in the synagogues of Cochin, Mumbai, and Kolkata, in the memories of elderly community members, in the cultural synthesis of Indian Jewish cuisine and music, and in the historical record of how Jews and Indians lived together peacefully for millennia.
 
 The story of India's Jews is ultimately a story of coexistence—proof that religious difference need not breed conflict, that diversity can enrich rather than threaten society, and that even a tiny minority can thrive when given the chance to live freely and contribute their gifts to the societies that welcome them.
-
----
-
-*Section: Jews in Asia*

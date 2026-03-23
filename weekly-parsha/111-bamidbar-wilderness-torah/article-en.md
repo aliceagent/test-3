@@ -1,5 +1,7 @@
 # Bamidbar: Why the Torah Was Given in the Wilderness
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese shan shui (山水) landscape painted in traditional ink wash style showing a vast desert wilderness with rolling sand dunes under a clear sky. In the distance, Mount Sinai rises majestically with soft clouds around its peak. Scattered throughout the desert are small groups of tents representing the Israelite camp. The composition uses muted earth tones of ochre, burnt sienna, and warm grays, with delicate brushstrokes creating texture in the sand and mountains. The mood is contemplative and spiritual, emphasizing the emptiness and openness of the wilderness as a place of divine encounter.
 
 ---
@@ -101,5 +103,3 @@ When you sit down to learn Torah or any sacred wisdom:
 ## Tags
 
 #Bamidbar #TorahGiven #Wilderness #Humility #SpiralGrowth #MountSinai #Revelation #Emptiness #Openness #商朝 #虛無 #謙遜 #TorahStudy #WeeklyParsha
-
----

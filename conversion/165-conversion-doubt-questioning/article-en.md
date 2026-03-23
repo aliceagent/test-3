@@ -1,5 +1,7 @@
 # Dealing with Doubt: Is Questioning Normal During Conversion?
 
+---
+
 *"Rabbi, I need to be honest with you. Sometimes I wake up in the middle of the night wondering if I'm making a huge mistake. Is this normal? Am I supposed to feel certain all the time?"*
 
 This confession, whispered across a study table during a conversion meeting, is one of the most common—and most important—conversations that happen during the journey to Judaism. The answer might surprise you: doubt isn't a sign that you're failing. In many ways, it's a sign that you're taking this seriously.

@@ -1,6 +1,7 @@
 # Anti-Zionism and Antisemitism: Where Criticism of Israel Crosses the Line
 
-*Section: Antisemitism*
+
+---
 
 Few questions generate more heated debate than this: When does criticism of Israel become antisemitism? Pro-Palestinian activists insist they oppose Israeli policies, not Jews. Jewish organizations argue that much anti-Israel rhetoric crosses into antisemitism. Both sides accuse the other of bad faith.
 

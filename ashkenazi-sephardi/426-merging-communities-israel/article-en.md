@@ -1,5 +1,7 @@
 # How Sephardi and Ashkenazi Communities Are Merging in Modern Israel
 
+---
+
 On a typical Friday evening in Tel Aviv, an Israeli family gathers for Shabbat dinner. The father, whose grandparents fled Poland during the Holocaust, recites Kiddush in Ashkenazi pronunciation. The mother, whose parents immigrated from Morocco, serves both gefilte fish and Moroccan fish in spicy tomato sauce. Their children speak Hebrew with an Israeli accent that belongs to neither tradition. At synagogue the next morning, they attend a congregation using Nusach Sefard — a hybrid prayer rite. This family's story repeats millions of times across Israel: the blending of two great Jewish traditions into something new.
 
 For centuries, Ashkenazi and Sephardi Jews lived separate lives in different continents. Today, particularly in Israel, these communities are merging, intermarrying, and creating new hybrid traditions. This transformation raises profound questions about Jewish identity, unity, and the future of distinct traditions.

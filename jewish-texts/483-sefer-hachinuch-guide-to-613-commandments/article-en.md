@@ -1,5 +1,7 @@
 # Sefer HaChinuch: A Mitzvah-by-Mitzvah Guide to the 613 Commandments
 
+---
+
 Jewish tradition teaches that the Torah contains 613 commandments—248 positive commands ("do this") and 365 negative commands ("don't do that"). But reading through the Five Books of Moses, it's not always obvious which verses are commandments, why they're important, or how they apply to daily life. That's where the *Sefer HaChinuch* comes in.
 
 The *Sefer HaChinuch* (literally "Book of Education") is a medieval masterpiece that systematically walks through all 613 commandments in the order they appear in the Torah, explaining each one's biblical source, practical application, and underlying spiritual purpose. For over 700 years, it has served as one of Judaism's most accessible and beloved guides to the mitzvot.
@@ -132,7 +134,3 @@ For Chinese readers exploring Judaism, the *Sefer HaChinuch* offers valuable ins
 The book's enduring popularity testifies to a deep human need: we want to know not just what we should do, but why it matters. The *Sefer HaChinuch* provides both—practical guidance and profound purpose, legal detail and spiritual vision, ancient commandment and timeless wisdom.
 
 In teaching the 613 mitzvot with love, clarity, and reason, the *Sefer HaChinuch* shows that Jewish law, far from being a burden, is a path to the good life—a comprehensive guide to becoming the people we're meant to be.
-
----
-
-*Section: Jewish Texts*

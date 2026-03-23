@@ -1,5 +1,7 @@
 # Adar: The Happiest Month in the Jewish Calendar
 
+---
+
 When the Hebrew month of Adar arrives, something shifts in the Jewish consciousness. The Talmud teaches us a simple but profound instruction: "Mishenichnas Adar marbim b'simcha" — "When Adar enters, we increase in joy" (Ta'anit 29a). But what makes this particular month so special? Why does Judaism single out these twenty-nine or thirty days as a time for elevated happiness?
 
 ## The Calendar Context

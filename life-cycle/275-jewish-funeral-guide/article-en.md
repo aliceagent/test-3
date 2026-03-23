@@ -1,5 +1,7 @@
 # What Happens at a Jewish Funeral? A Complete Guide
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese ink wash (水墨) landscape depicting a misty mountain valley with ancient cypress trees lining a peaceful path. In the distance, small figures walk along the path toward a hillside, symbolizing the journey of life. The scene uses muted grays, deep blacks, and touches of soft sepia. The composition is vertical, with mountains rising into clouds, suggesting both earthly passage and spiritual ascent. The mood is contemplative and dignified, blending the eternal nature of mountains with the temporary passage of human life. Traditional shan shui (山水) style with minimal detail, emphasizing negative space and quiet reverence.
 
 ---

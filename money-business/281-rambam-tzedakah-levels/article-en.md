@@ -1,5 +1,7 @@
 # Rambam's Eight Levels of Tzedakah: Which Level Are You On?
 
+---
+
 > **Header Image Description (DALL-E prompt):** A Chinese ink wash (水墨) landscape in shan shui (山水) style depicting a mountain path ascending through eight terraced levels, each level marked by a simple stone pavilion. At each level, subtle figures in traditional Chinese robes engage in acts of giving—some offering coins anonymously through bamboo tubes, others helping someone build a small workshop. The highest level shows two figures as equals, one helping the other establish a garden. Muted earth tones with soft greens and subtle gold accents. The atmosphere is contemplative and serene, suggesting spiritual ascent through generosity. Morning mist softens the transitions between levels.
 
 ---

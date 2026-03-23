@@ -1,5 +1,7 @@
 # The Shehehecheyanu: Celebrating Life's Special Moments
 
+---
+
 > **Header Image Description (DALL-E prompt):** Traditional Chinese shan shui (山水) ink landscape featuring a garden pavilion where seasonal fruits hang from branches — peaches, pomegranates, citrus — rendered in delicate ink with touches of natural color. A figure in traditional robes reaches toward the first ripe fruit of the season, hand extended in a gesture of gratitude and wonder. Morning light filters through leaves. Rendered in gentle ink wash with deep blacks, soft grays, and warm amber and subtle fruit colors. Mood: gratitude for abundance, wonder at renewal, mindful appreciation for life's gifts. The composition emphasizes the sacred ordinary — everyday blessings recognized as extraordinary.
 
 ---

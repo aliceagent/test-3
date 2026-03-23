@@ -1,5 +1,7 @@
 # How to Pray When You Don't Know Hebrew Yet
 
+---
+
 > **Header Image Description (DALL-E prompt):** A peaceful Chinese ink wash (水墨) landscape in traditional shan shui (山水) style showing an ancient library or study hall with scrolls and books in multiple languages scattered on wooden tables. Through large windows, misty mountains are visible in the distance. A figure sits contemplatively among the texts, with both Hebrew scrolls and Chinese calligraphy visible. Morning light filters through the scene, casting gentle shadows. The composition includes bamboo plants and a small garden courtyard visible through doorways. Colors: soft greys, warm earth tones, gentle golden light, touches of deep blue ink. Mood: scholarly devotion, cross-cultural learning, patience in study, spiritual seeking across language barriers.
 
 ---
@@ -256,5 +258,3 @@ The rest will follow.
 ## Tags
 
 #Prayer #Hebrew #Davening #Tefilah #BeginnerJudaism #Synagogue #PrayerBook #Siddur #Modeh-Ani #Shema #Amidah #Kaddish #HebrewLearning #Transliteration #Jewish-Community #Hitbodedut #Hakarat-HaTov #Eastern-Han-Dynasty #Tang-Dynasty #Song-Dynasty #Zhu-Xi #Li-Bai #Prayer-Translation #Personal-Prayer #Liturgy #Hebrew-Alphabet #Jewish-Learning #Spiritual-Practice #Cross-Cultural-Wisdom
-
----

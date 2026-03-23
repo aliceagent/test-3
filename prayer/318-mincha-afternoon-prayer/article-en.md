@@ -1,5 +1,7 @@
 # Mincha: Why the Afternoon Prayer Is Considered the Hardest — and Most Powerful
 
+---
+
 > **Header Image Description (DALL-E prompt):** A tranquil Chinese ink wash (水墨) landscape showing a solitary figure pausing at mid-journey on a mountain path, late afternoon sun filtering through pine branches. The figure stands at a stone rest pavilion (亭子) with prayer shawl visible, surrounded by autumn mist. Muted earth tones of amber, ochre, and soft grey evoke the contemplative challenge of stopping amidst life's momentum. Style: traditional shan shui (山水) with emphasis on the tension between motion and stillness, journey and pause. Mood: reflective, quietly determined.
 
 ---
@@ -203,5 +205,3 @@ Even on the busiest Tuesday afternoon.
 ## Tags
 
 #Mincha #Prayer #Elijah #Gevurah #DailyPractice #Discipline #SpiritualWarfare #Amidah #Isaac #MountCarmel #午时 #未时 #氣 #Interruption #Consistency #Shacharit #Maariv #Talmud
-
----

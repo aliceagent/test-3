@@ -1,5 +1,7 @@
 # Tzniut in the Home: Modesty, Privacy, and Sacred Space
 
+---
+
 When most people hear *tzniut* (צניעות), they think of modest dress—women's skirt lengths, sleeve coverage, hair covering. These are indeed part of tzniut, but they're only the surface. Tzniut is a profound Jewish value encompassing modesty, privacy, dignity, and humility—and it extends far beyond clothing into how we design our homes, conduct ourselves within them, and interact with family members.
 
 The root of tzniut is *tzana* (צנע), meaning "hidden" or "private." The prophet Micah (6:8) captures its essence: "What does God require of you? Only to do justice, love kindness, and walk humbly (*hatznei'a lechet*) with your God." Tzniut is about walking humbly—not seeking attention, not broadcasting every private matter, conducting yourself with dignity.

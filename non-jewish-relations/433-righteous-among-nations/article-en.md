@@ -1,5 +1,7 @@
 # Righteous Among the Nations: Non-Jews Who Saved Jewish Lives
 
+---
+
 In humanity's darkest hour, when Nazi Germany systematically murdered six million Jews, thousands of non-Jews risked everything to save their neighbors. They weren't soldiers or politicians—they were farmers, teachers, diplomats, and factory workers who chose conscience over safety. Israel honors these heroes with the title "Righteous Among the Nations" (Chasidei Umot Ha'Olam), recognizing that even in the darkest evil, human goodness persists.
 
 ## A Recognition Born from Gratitude

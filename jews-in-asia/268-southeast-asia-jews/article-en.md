@@ -1,5 +1,7 @@
 # Modern Jewish Communities Across Southeast Asia
 
+---
+
 > **Header Image Description (DALL-E prompt):** A Chinese brushstroke landscape painting in traditional shan shui (山水) style depicting Southeast Asian scenery: lush tropical mountains shrouded in mist, palm trees bending in ocean breeze, and a serene coastline with traditional boats. In the foreground, subtle architectural elements blend a Southeast Asian temple roof line with a Star of David motif woven into decorative lattice work. The color palette features soft grays and blacks for ink wash, with touches of warm amber for tropical sunset glow and deep teal for the sea. The mood is contemplative and welcoming, suggesting the meeting of ancient traditions in modern times.
 
 ---
@@ -198,5 +200,3 @@ The experience of Jewish communities in Southeast Asia mirrors several aspects o
 ## Tags
 
 #JewsInAsia #SoutheastAsia #Singapore #Thailand #Philippines #Vietnam #Indonesia #JewishDiaspora #ModernJewishLife #KosherTravel #Chabad #BaghdadiJews #OverseasCommunities #华侨 #犹太社区 #东南亚 #新加坡
-
----

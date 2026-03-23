@@ -2,6 +2,8 @@
 
 ## Introduction
 
+---
+
 In Jewish communities around the world, a special milestone awaits every young boy as he reaches his third birthday: the *upsherin* (אָפּשערן), a Yiddish term meaning "to shear" or "to cut off." This beloved custom marks the child's transition from infancy to boyhood through his very first haircut. The ceremony is filled with joy, meaning, and spiritual significance, representing the beginning of a child's formal Jewish education and his entry into a life devoted to Torah study and mitzvot.
 
 While not mentioned explicitly in the Torah or Talmud, the upsherin has become a cherished tradition particularly among Chassidic and Sephardic communities, though it has spread to many other Jewish circles in recent decades. The custom beautifully combines elements of celebration, education, and spiritual awakening.

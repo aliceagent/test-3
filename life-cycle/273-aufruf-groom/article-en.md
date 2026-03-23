@@ -1,5 +1,7 @@
 # The Aufruf: Celebrating the Groom Before the Wedding
 
+---
+
 > **Header Image Description (DALL-E prompt):** A Chinese brushstroke landscape in soft ink wash style depicting a joyful gathering in a traditional synagogue courtyard during Shabbat morning. The scene shows a young man wrapped in a tallit standing at a Torah scroll as friends and family gather around. Pomegranate branches and colorful candies float gently through the air in celebration. The composition uses flowing lines characteristic of shan shui painting, with muted earth tones—soft browns, gentle blues, and warm golds—creating a serene yet celebratory atmosphere. In the background, architectural elements blend Chinese and Middle Eastern design. The mood is one of anticipation, community, and sacred joy.
 
 ---

@@ -1,8 +1,9 @@
 # The Mishnah: Structure, History, and How to Start Learning
 
-**Section: Jewish Texts**
 
 ## Introduction: The First Great Code
+
+---
 
 Around the year 200 CE, Rabbi Yehuda HaNasi ("the Prince") completed one of the most consequential projects in Jewish history: he organized centuries of oral tradition into a structured, written text.
 

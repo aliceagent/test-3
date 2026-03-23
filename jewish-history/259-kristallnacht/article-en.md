@@ -1,4 +1,6 @@
 # Kristallnacht: The Night of Broken Glass
+---
+
 # 水晶之夜：碎玻璃之夜
 
 > **Header Image Description (DALL-E prompt):** A somber Chinese ink wash landscape showing a traditional European street corner at night, rendered in muted grays and blacks. Broken glass fragments catch moonlight like scattered crystals on cobblestones. In the background, the silhouette of a building with shattered windows. A lone figure stands in traditional Jewish attire, head bowed. The composition conveys quiet tragedy rather than explicit violence. Style: traditional shan shui (山水) with European architectural elements, minimal color except for subtle amber tones suggesting distant fire. Mood: contemplative grief, historical weight, dignified mourning.

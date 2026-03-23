@@ -1,5 +1,7 @@
 # Korean Interest in Judaism and the Talmud: Separating Fact from Myth
 
+---
+
 > **Header Image Description (DALL-E prompt):** A Chinese brushstroke shan shui landscape showing two paths converging at a peaceful mountain temple. On one path, Korean and Hebrew books float gently through mist; on the other, traditional Asian scholars and modern students gather around ancient texts. Style: traditional ink wash with subtle earth tones (sepia, charcoal, soft gold accents). Mood: contemplative, bridging ancient wisdom with modern curiosity. Cherry blossoms and pine trees frame the scene, symbolizing both cultures' reverence for learning.
 
 ---
@@ -153,5 +155,3 @@ For Koreans, Chinese, or anyone genuinely interested in Jewish learning: the doo
 ## Tags
 
 #KoreanJewishRelations #Talmud #JewishEducation #CrossCulturalLearning #Stereotyping #Philosemitism #JewsInAsia #韩国 #塔木德 #犹太教育 #跨文化学习 #亚洲犹太人
-
----

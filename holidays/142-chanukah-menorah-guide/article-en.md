@@ -2,6 +2,8 @@
 
 ## Overview
 
+---
+
 The lighting of the Chanukah menorah (Chanukiah) is one of the most beloved and widely observed Jewish rituals. This mitzvah commemorates the miracle of the oil in the Temple, when one day's worth of pure oil lasted for eight days. The halachic requirements for proper observance are detailed and specific, encompassing placement, timing, procedure, and blessings.
 
 ## The Menorah Itself

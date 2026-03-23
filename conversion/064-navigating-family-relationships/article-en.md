@@ -1,5 +1,7 @@
 # Navigating Family Relationships When You Become Jewish
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese ink wash (水墨) landscape depicting two paths merging at a bridge over a gentle stream. On one side, traditional family home with warm lantern light; on the other, a Jewish home with mezuzah visible on doorpost. Figure standing on bridge between both worlds, looking peaceful. Soft gray and sepia tones with subtle gold highlights from lanterns. Mountains in misty background symbolizing ancestral heritage. Style: traditional shan shui (山水) with contemplative, harmonious mood. The bridge represents honoring both identities.
 
 ---
@@ -190,5 +192,3 @@ You can do the same.
 ## Tags
 
 #Conversion #FamilyRelationships #HonoringParents #Ruth #Ger #ConvertToJudaism #孝 #FilialPiety #Shulchan Aruch #Talmud #NonJewishFamily #ChineseJews #Naomi #BookOfRuth #RabbiJosephCaro #明朝 #西周 #汉朝 #Xiào #ConfucianValues #NewbornChild #SpiritualRebirth #JewishIdentity
-
----

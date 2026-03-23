@@ -1,5 +1,7 @@
 # Sukkot's Hidden Holiday: Shemini Atzeret Explained
 
+---
+
 *Header Image: A serene, intimate scene of a small Jewish family gathering at dusk, standing quietly outside their sukkah as autumn leaves fall gently around them. The sukkah's decorations are visible but the family faces away toward the horizon, suggesting transition. Soft golden light filters through clouds as the first drops of rain begin to fall, symbolizing the prayers for rain that begin on Shemini Atzeret. The atmosphere is contemplative, peaceful, and deeply personal.*
 
 ## The Mystery of the Eighth Day

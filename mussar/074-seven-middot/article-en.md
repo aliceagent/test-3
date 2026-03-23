@@ -1,5 +1,7 @@
 # The Seven Middot (Character Traits) and How to Develop Them
 
+---
+
 > **Header Image Description (DALL-E prompt):** A Chinese ink wash (水墨) landscape in traditional shan shui (山水) style featuring seven distinct elements arranged harmoniously across the composition. In the center, a towering mountain (representing Chesed) with flowing waterfalls cascading down. To the right, strong angular rocks and cliffs (Gevurah). A perfectly balanced bridge spans a river (Tiferet) connecting two banks. An ancient, enduring tree with deep roots (Netzach) stands on one side. On the opposite bank, delicate cherry blossoms in early bloom (Hod) create elegant reflections in still water. A solid foundation stone platform (Yesod) sits in the foreground. The entire scene is unified under a vast, serene sky (Malchut). Colors: muted greys, earth tones, touches of soft green and pale pink. Mood: balanced, harmonious, complete. The composition emphasizes the integration of diverse qualities into a unified whole.
 
 ---
@@ -305,5 +307,3 @@ This is the path of the Jewish sages, walked for thousands of years—and now, i
 ## Tags
 
 #Middot #SevenMiddot #Chesed #Gevurah #Tiferet #Netzach #Hod #Yesod #Malchut #Mussar #CharacterDevelopment #TikkunHamiddot #Kabbalah #Sefirot #SelfImprovement #JewishEthics #中庸 #ZhongYong #仁 #Ren #Humility #Kindness #Discipline #Balance #Perseverance #Integrity #Actualization #Abraham #Isaac #Jacob #Moses #Aaron #Joseph #David #MussarMovement #Spirituality #PersonalGrowth
-
----

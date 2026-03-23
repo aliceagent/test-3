@@ -1,4 +1,6 @@
 # Gilgul Neshamot: The Jewish Concept of Reincarnation
+---
+
 # 灵魂轮回：犹太教的转世观念
 
 > **Header Image Description (DALL-E prompt):** A serene Chinese shan shui landscape in traditional ink wash style showing a winding river flowing through misty mountains, with the same water appearing at different elevations — cascading down from snowy peaks, flowing through a valley, and pooling in a calm lake below. Small boats at different stages of their journey dot the water. The composition suggests cyclical return and spiritual progression. Muted grays, soft blues, and earth tones. Mood: contemplative, mystical, suggesting eternal cycles and soul journeys.

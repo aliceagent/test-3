@@ -1,5 +1,7 @@
 # The Modim Prayer: Why We Bow and Give Thanks
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese ink wash landscape in traditional shan shui (山水) style featuring a figure bowing gently before a misty mountain at dawn. The scene shows soft morning light breaking through clouds over layered mountains, with a small human figure in humble posture on a stone path beside flowing water. Style: delicate brushwork with subtle gradations from dark ink to pale washes. Color palette: deep charcoal blacks, soft grays, touches of warm amber in the sky. Mood: contemplative reverence, quiet gratitude, the smallness of humanity before the vastness of creation.
 
 ---

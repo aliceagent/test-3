@@ -1,5 +1,7 @@
 # Molad and Kiddush Levanah: Sanctifying the New Moon
 
+---
+
 *The ancient science of lunar calculation meets the spiritual poetry of moonlight blessings*
 
 ## The Precision of Molad

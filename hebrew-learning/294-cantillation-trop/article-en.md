@@ -1,4 +1,6 @@
 # Cantillation Marks (Trop): Reading Torah Like a Pro
+---
+
 # 托拉诵读记号(Ta'amei HaMikra):像专业人士一样诵读托拉
 
 > **Header Image Description (DALL-E prompt):** A serene Chinese ink wash landscape in traditional shan shui (山水) style showing a wise scholar sitting at a wooden desk beneath a gnarled pine tree, carefully reading from an ancient scroll with musical notation marks floating ethereally above the text like morning mist. In the background, gentle mountains fade into cloudy horizons. The scroll shows Hebrew letters with delicate cantillation marks rendered as flowing brushstrokes. Color palette: deep blacks and grays with subtle touches of sepia and gold. Mood: contemplative, scholarly, harmonious — capturing the marriage of ancient wisdom and musical tradition.
@@ -238,5 +240,3 @@ Start with one verse. Learn its marks. Practice its melody. Before long, you'll 
 ## Tags
 
 #Trop #Cantillation #TorahReading #HebrewLearning #Ta'ameiHaMikra #Masoretes #JewishMusic #OralTradition #BaalKriah #BarMitzvah #BatMitzvah #SacredText #唐朝 #音乐传统 #托拉 #HebrewLearning
-
----

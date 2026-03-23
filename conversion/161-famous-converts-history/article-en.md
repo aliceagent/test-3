@@ -1,5 +1,7 @@
 # Onkelos, Aquila, and Other Famous Converts Who Shaped Judaism
 
+---
+
 When you begin your journey toward conversion, you join a remarkable lineage of individuals who came from outside the Jewish people yet became some of its most influential voices. From the translator who made Torah accessible to millions, to the scholar who challenged the sages, to a medieval poet whose words still echo in synagogues today—converts have shaped Judaism in profound and lasting ways.
 
 Let's meet some of these extraordinary individuals whose stories remind us that Judaism has always welcomed those who choose to join the covenant.

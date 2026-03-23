@@ -1,4 +1,6 @@
 # The Four Species (Arba Minim): How to Choose and Use Them
+---
+
 # 四種植物(Arba Minim):如何選擇和使用
 # ארבעת המינים: כיצד לבחור ולהשתמש בהם
 
@@ -169,5 +171,3 @@ This is especially meaningful for those converting to Judaism or new to observan
 ## Tags
 
 #Sukkot #FourSpecies #ArbaMinim #Lulav #Etrog #JewishUnity #Mitzvah #Holidays #TorahStudy #GoodDeeds #四種植物 #住棚節 #Unity #Diversity #和 #HighHolidays #Tishrei #BeautifyingMitzvot #HiddurMitzvah
-
----

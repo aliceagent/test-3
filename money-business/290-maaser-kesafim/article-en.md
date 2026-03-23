@@ -1,5 +1,7 @@
 # Ma'aser Kesafim: Should You Tithe 10% or 20% of Your Income?
 
+---
+
 > **Header Image Description (DALL-E prompt):** A traditional Chinese ink wash landscape in muted earth tones showing a scholar's desk with an abacus and scrolls on the left side, while through an open window on the right, farmers can be seen working in terraced fields. The composition balances material prosperity (the desk) with social responsibility (the fields). Include subtle imagery of coins or grain flowing from the prosperous space toward those in need. Style: classical shan shui (山水) with fine detail work, serene and contemplative mood, colors of black ink with touches of warm amber and soft green.
 
 ---
@@ -231,5 +233,3 @@ Buddhist *dana* (generosity) emphasizes giving freely without expectation of ret
 ## Tags
 
 #MaaserKesafim #Tzedakah #CharityLaw #JewishEthics #MoneyAndBusiness #Tithing #Generosity #JewishLaw #SocialJustice #义 #儒家 #宋朝 #MoneyBusiness
-
----

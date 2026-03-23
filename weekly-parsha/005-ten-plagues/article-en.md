@@ -1,4 +1,6 @@
 # The Ten Plagues: What Each Plague Teaches About Justice
+---
+
 # 十灾:每一灾教导我们关于正义的什么
 
 > **Header Image Description (DALL-E prompt):** A Chinese shan shui (山水) landscape painting showing ten distinct natural phenomena flowing across a horizontal scroll: blood-red waters, frogs in bamboo groves, swarms depicted as dark clouds, diseased livestock silhouettes, fiery hail streaking across mountains, locusts as brushstrokes over fields, and darkness engulfing distant peaks. Traditional ink wash style with dramatic red accents for blood, deep blacks for darkness, and muted earth tones. The composition moves from left (water) to right (shrouded mountains), capturing the escalating intensity of divine judgment while maintaining the serene aesthetic of classical Chinese landscape art. Mood: majestic, foreboding, contemplative.

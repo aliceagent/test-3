@@ -1,6 +1,7 @@
 # Finding a Jewish Mentor: Why Every Learner Needs a Guide
 
-**Section: Mentorship**
+
+---
 
 The Talmud offers timeless advice for anyone beginning a journey of learning: **"Aseh lecha rav"—Acquire for yourself a teacher** (Pirkei Avot 1:6). This isn't optional guidance; it's a foundational principle of Jewish education. Judaism is not a religion learned in isolation. It's transmitted person-to-person, generation-to-generation, through relationships built on trust, questioning, and shared commitment.
 

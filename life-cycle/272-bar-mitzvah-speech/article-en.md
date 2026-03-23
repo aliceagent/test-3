@@ -1,5 +1,7 @@
 # Writing a Bar Mitzvah Speech: A Guide for Boys and Their Fathers
 
+---
+
 > **Header Image Description (DALL-E prompt):** A traditional Chinese ink wash (山水) landscape showing a young bamboo shoot growing tall beside a mature bamboo tree on a mountainside. Morning mist rises through the valley below. In the foreground, an open scroll with Hebrew letters floats gently. The scene suggests continuity between generations, growth, and learning. Muted greens and grays with touches of gold for the scroll. Mood: contemplative, hopeful, dignified.
 
 ---
@@ -220,5 +222,3 @@ Write it with care. Speak it with confidence. And then live it with commitment.
 ## Tags
 
 #BarMitzvah #LifeCycle #TorahStudy #Gratitude #Parenting #ComingOfAge #PublicSpeaking #FatherAndSon #HonoringParents #孝 #成人礼 #JewishEducation #Commitment #Responsibility #DvarTorah #FamilyValues #Tradition #JewishIdentity
-
----

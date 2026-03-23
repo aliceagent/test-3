@@ -1,5 +1,7 @@
 # Jewish Communities in Southeast Asia: Singapore, Bangkok, and Beyond
 
+---
+
 > **Header Image Description (DALL-E prompt):** A Chinese brushstroke landscape (山水) depicting Southeast Asian architectural elements — a colonial-era synagogue with distinctive turquoise dome nestled among tropical palm trees and monsoon clouds, with the silhouette of a modern Asian city skyline in the misty background. Style: traditional ink wash with subtle watercolor accents in turquoise and gold. Composition: synagogue in middle ground, lush vegetation in foreground, city emerging from clouds in background. Mood: contemplative fusion of tradition and modernity, East meets West. Muted earth tones (sepia, soft greens) with accents of turquoise for the dome and warm gold for windows.
 
 ---

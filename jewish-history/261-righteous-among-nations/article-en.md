@@ -1,5 +1,7 @@
 # Righteous Among the Nations: Non-Jews Who Saved Jewish Lives
 
+---
+
 > **Header Image Description (DALL-E prompt):** A Chinese brushstroke landscape depicting a lone figure standing at a crossroads in misty mountains, holding a lantern that illuminates the darkness. The scene should evoke moral courage and selfless choice. Traditional shan shui (山水) style with subtle ink washes, showing one path leading into shadow and another toward light. A distant bridge spans a chasm, symbolizing connection between peoples. Muted grays and blues with warm golden light from the lantern. Mood: contemplative, courageous, hopeful.
 
 ---

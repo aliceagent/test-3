@@ -1,5 +1,7 @@
 # Birkat HaMazon: The Complete Grace After Meals Explained
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese brushstroke landscape in traditional shan shui style showing a peaceful dinner table overlooking rolling mountains and flowing water, with wisps of incense smoke rising toward the heavens. The scene captures both earthly abundance (a simple meal with bread) and spiritual elevation, painted in muted earth tones of brown, ochre, and sage green, with subtle touches of gold in the distant sky. The composition suggests gratitude flowing upward from the meal toward the divine, in the contemplative mood of traditional Chinese landscape painting.
 
 ---
@@ -155,5 +157,3 @@ The four-stage progression of Birkat HaMazon resonates with several Chinese phil
 ## Tags
 
 #BirkatHaMazon #GraceAfterMeals #Blessings #Torah #Prayer #Gratitude #Zimmun #Judaism101 #Jewish Practice #四个祝福 #感恩 #餐后祈祷 #犹太传统
-
----

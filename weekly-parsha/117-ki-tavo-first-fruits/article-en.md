@@ -1,5 +1,7 @@
 # Ki Tavo: The First Fruits and the Power of Gratitude
 
+---
+
 > **Header Image Description (DALL-E prompt):** Traditional Chinese shan shui (山水) ink wash landscape showing a winding path ascending toward a distant temple on a mountain peak. Farmers carry decorated baskets overflowing with fruits and grain, their procession winding through misty valleys. Seven species of the Land of Israel (wheat, barley, grapes, figs, pomegranates, olives, dates) rendered in Chinese brushstroke style frame the scene. Golden accents on basket decorations, soft greens and earth tones, joyful and reverent mood, Song Dynasty painting style.
 
 ---
@@ -95,5 +97,3 @@ As we live in an age of unprecedented abundance for many (though certainly not a
 ## Tags
 
 #KiTavo #Bikkurim #FirstFruits #Gratitude #ThankfulnessOffering #TempleService #商朝 #ShangDynasty #春秋 #汉朝 #Pilgrimage #Berakhot #Blessings #Confession #WeeklyParsha #TorahStudy #孝 #FilialPiety
-
----

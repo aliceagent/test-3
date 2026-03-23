@@ -1,4 +1,6 @@
 # The Aleph-Bet: Learn the Hebrew Alphabet in One Week
+---
+
 # 希伯来字母表：一周内掌握阿列夫-贝特
 
 > **Header Image Description (DALL-E prompt):** A tranquil Chinese brushstroke (shan shui 山水) landscape painting in traditional ink wash style. In the foreground, a weathered stone tablet stands beside a gently flowing stream, carved with large, elegant Hebrew letters (א ב ג ד ה ו ז ח) that seem to glow softly with golden light. Behind it, a scholar in traditional robes stands with a bamboo brush, writing Hebrew characters in the air as they transform into floating lotus petals. Misty mountains rise in the background under a dawn sky. Ancient pine trees frame the scene. Color palette: sepia, soft gold, pale blue, forest green. Mood: mystical, reverent, the meeting of calligraphy and sacred text.
@@ -598,5 +600,3 @@ Since this is a written guide, **audio practice is essential** for the guttural 
 ## Tags
 
 #Hebrew #Alephbet #字母表 #אלפבית #LanguageLearning #HebrewAlphabet #希伯来语 #עברית #BeginnerHebrew #初学者 #7DayChallenge #一周挑战 #WritingPractice #书写练习 #Pronunciation #发音 #TorahStudy #Study #CalligraphyAsArt #书法 #SacredLetters #神圣文字 #ChineseJews #中国犹太人
-
----

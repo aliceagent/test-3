@@ -1,5 +1,7 @@
 # What is a Mezuzah and Why is it on Every Jewish Doorpost?
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese ink wash painting depicting a traditional Jewish home doorway with a mezuzah visible on the doorpost. In the foreground, an ancient scroll partially unrolled shows Hebrew calligraphy flowing like Chinese characters. The scene blends Jewish architectural elements with Chinese artistic style - distant mountains in misty brushstrokes, a flowering tree beside the doorway, and soft earth tones of black ink, sepia, and touches of deep red. The composition suggests harmony between two ancient traditions of marking sacred thresholds, rendered in contemplative shan shui landscape style.
 
 ---
@@ -122,5 +124,3 @@ This consciousness extends beyond the home. Just as houses have doorways, human 
 ## Tags
 
 #Mezuzah #MitzvahObjects #JewishHome #DoorpostTradition #Shema #Deuteronomy #门柱传统 #犹太家庭 #春联 #ThresholdSacred #TorahCommandments #HomeSanctification #JewishIdentity #DivinePresence
-
----

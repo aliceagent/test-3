@@ -1,5 +1,7 @@
 # The Chafetz Chaim: The Man Who Changed How Jews Speak
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese ink wash landscape depicting a humble scholar's study in traditional shan shui style. In the foreground, an elderly figure with a white beard sits at a simple wooden desk covered with ancient books and scrolls, writing by candlelight. Through the window, mist-covered mountains fade into the distance. A single plum blossom branch extends into the frame from the left, symbolizing perseverance and purity. The color palette features soft grays, subtle browns, and touches of warm amber from the candle. The mood is contemplative and peaceful, capturing the quiet revolution of words and wisdom. Traditional Chinese calligraphy brushstrokes create gentle movement throughout the composition.
 
 ---
@@ -172,5 +174,3 @@ The Chafetz Chaim would recognize our digital age as a test more severe than any
 ## Tags
 
 #ChafetzChaim #LashonHara #SpeechEthics #JewishStories #Inspiration #Mussar #RabbiYisraelMeirKagan #ProperSpeech #Gossip #清朝 #言语 #道德 #智慧 #儒家 #正语
-
----

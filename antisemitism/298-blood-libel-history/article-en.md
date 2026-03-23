@@ -1,5 +1,7 @@
 # Blood Libel: The Accusation That Haunted Jews for Centuries
 
+---
+
 > **Header Image Description (DALL-E prompt):** A haunting Chinese brushstroke landscape showing a medieval European village in the foreground with a small synagogue, set against towering misty mountains in the background. Dark storm clouds gather overhead while a single ray of light breaks through, illuminating a Torah scroll. The composition uses dramatic contrast between dark ink washes and ethereal white space, with muted grays, deep blacks, and a subtle golden accent for the light beam. Style: traditional shan shui (山水) with somber, contemplative mood suggesting both persecution and endurance.
 
 ---

@@ -1,5 +1,7 @@
 # Sephardi Shabbat: Customs, Songs, and Foods from the Mediterranean World
 
+---
+
 Walk into a Sephardi synagogue before dawn on Shabbat morning, and you'll encounter something remarkable: a gathering of worshippers singing elaborate poetic hymns by candlelight, their melodies echoing centuries of Jewish life in Spain, Morocco, Syria, and Turkey. This is Baqashot — just one of many distinctive Sephardi Shabbat customs that have enriched Jewish life for generations.
 
 While all Jews observe the same Shabbat — resting on the seventh day, lighting candles, sharing festive meals — the specific ways communities celebrate this holy day vary beautifully. Sephardi Shabbat traditions, shaped by Mediterranean and Middle Eastern cultures, offer a fascinating contrast to the more widely known Ashkenazi practices.

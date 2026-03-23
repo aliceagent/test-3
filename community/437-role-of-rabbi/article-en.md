@@ -1,5 +1,7 @@
 # The Role of the Rabbi: Teacher, Judge, and Community Leader
 
+---
+
 When many people think of a rabbi, they imagine someone like a priest or imam—a religious intermediary between humans and God who performs sacred rituals others can't. But that's not what a rabbi is. Understanding the rabbi's actual role reveals something fundamental about Judaism itself: it's a tradition of study and law, not of priestly mediation.
 
 For someone in China or another place far from established Jewish communities, understanding what a rabbi does (and doesn't do) helps you know when you need one—and when you don't.

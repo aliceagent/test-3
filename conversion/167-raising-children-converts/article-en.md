@@ -1,5 +1,7 @@
 # Raising Jewish Children When You're a Convert
 
+---
+
 When you choose to become Jewish as an adult, you make that decision with full awareness, deep thought, and personal conviction. But what happens when you become a parent? How do you raise children in a tradition you didn't grow up with yourself? How do you answer their questions when you're still learning the answers? And how do you give them the confidence of heritage when yours is freshly minted?
 
 These questions keep many converts awake at night. The good news is that you're not alone, and you have unique strengths that born Jews sometimes take for granted.

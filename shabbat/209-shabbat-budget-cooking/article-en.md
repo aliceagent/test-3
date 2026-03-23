@@ -2,6 +2,8 @@
 
 ## Introduction
 
+---
+
 One of the most beautiful aspects of Shabbat is the emphasis on special meals — three festive occasions that bring family and community together around the table. Yet for many families, especially those new to observance or living on limited incomes, the question arises: how can we honor Shabbat with beautiful meals without straining our finances?
 
 The good news is that preparing delicious, meaningful Shabbat meals on a budget is not only possible — it's a time-honored Jewish tradition. Throughout history, Jewish communities worldwide have faced economic hardships, yet they never compromised on the sanctity and joy of Shabbat. From the shtetls of Eastern Europe to modern Jewish communities around the globe, resourcefulness and creativity have always been part of the Shabbat cooking tradition.

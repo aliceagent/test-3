@@ -1,5 +1,7 @@
 # How to Tie Tzitzit: A Step-by-Step Guide with Diagrams
 
+---
+
 The first time you hold the four strings and corner of a tallit in your hands, you might feel a bit overwhelmed. Eight strings, specific knots, wrapping patterns—it can seem complicated. But thousands of years of Jewish tradition have preserved this beautiful mitzvah, and with a little patience and practice, you'll find that tying tzitzit becomes almost meditative.
 
 This guide will walk you through the process step by step, explaining not just *how* to tie tzitzit, but *why* we tie them this way.

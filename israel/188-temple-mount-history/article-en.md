@@ -2,6 +2,8 @@
 
 ## Introduction
 
+---
+
 There is no location on Earth more sacred to the Jewish people than the Temple Mount in Jerusalem. Known in Hebrew as *Har HaBayit* (הר הבית), this 37-acre plaza sits at the spiritual heart of Judaism. It is the site where Abraham bound Isaac, where Jacob dreamed of angels ascending and descending, and where both the First and Second Temples stood for nearly a thousand years. For Jews around the world, the Temple Mount represents not only historical memory but also messianic hope—the belief that one day, the Third Temple will be rebuilt and divine service will be restored.
 
 Understanding the Temple Mount requires exploring its remarkable past, its complex present, and the Jewish vision for its future.

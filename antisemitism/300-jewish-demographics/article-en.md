@@ -1,5 +1,7 @@
 # Why Are There So Few Jews? Understanding Jewish Demographics
 
+---
+
 > **Header Image Description (DALL-E prompt):** A contemplative Chinese ink wash (山水) landscape showing a solitary ancient tree on a mountainside, its branches spreading wide despite harsh winds. The tree is small against vast mountains shrouded in mist, symbolizing resilience and continuity. Traditional shan shui style with subtle earth tones—gray, sepia, and muted greens. A winding path leads to the tree, suggesting endurance through difficulty. Mood: serene yet powerful, emphasizing quality over quantity, persistence through adversity.
 
 ---

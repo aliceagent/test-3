@@ -1,5 +1,7 @@
 # Ha'azinu: Moses's Song — Poetry as Prophecy
 
+---
+
 > **Header Image Description (DALL-E prompt):** Traditional Chinese shan shui (山水) landscape in ink wash style showing mountains meeting sky at the horizon, with ancient scrolls floating in misty clouds above and the earth below. A solitary figure stands on a mountain peak addressing both heaven and earth. Muted earth tones with subtle blue-grey washes, contemplative and majestic mood, classical Song Dynasty painting style.
 
 *"Give ear, O heavens, and I will speak; Let the earth hear the words of my mouth."* (Deuteronomy 32:1)
@@ -90,5 +92,3 @@ As we read these verses today, we become part of the chain of witnesses Moses in
 ## Tags
 
 #Haazinu #MosesSong #HebrewPoetry #Prophecy #CovenantLawsuit #DivineLawsuit #周朝 #ZhouDynasty #ClassicalPoetry #诗经 #ShangDynasty #商朝 #PropheticMemory #WeeklyParsha #TorahStudy
-
----

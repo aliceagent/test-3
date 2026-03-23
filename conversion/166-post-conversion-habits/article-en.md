@@ -1,5 +1,7 @@
 # After Conversion: Building Jewish Habits That Stick
 
+---
+
 Congratulations! You've emerged from the mikvah, stood before the beit din, and officially joined the Jewish people. The journey you've been on—studying, preparing, transforming—has reached its milestone. But here's the truth that nobody tells you loud enough: conversion isn't the finish line. It's the starting line.
 
 The real work begins now.

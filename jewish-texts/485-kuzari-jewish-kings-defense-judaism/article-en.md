@@ -1,5 +1,7 @@
 # The Kuzari: A Jewish King's Defense of Judaism
 
+---
+
 Imagine a king troubled by recurring dreams commanding him to seek the truth. He consults a philosopher who teaches abstract theology, but the dreams continue. He turns to a Christian, then a Muslim—each claims to possess God's true revelation. Finally, reluctantly, he summons a Jewish scholar, expecting little from a people downtrodden and dispersed. But what follows transforms not only the king but the history of Jewish thought.
 
 This is the framing story of *Sefer HaKuzari* (The Book of the Khazar), written by Rabbi Yehuda HaLevi around 1140 CE. Part philosophical dialogue, part theological defense, part poetic meditation, the *Kuzari* is one of Judaism's most elegant and influential philosophical works—a passionate argument for Jewish faith that has inspired generations.
@@ -125,7 +127,3 @@ For Chinese readers, the *Kuzari*'s emphasis on historical continuity and lived 
 HaLevi's answer: Look not just for logical arguments but for historical testimony, lived tradition, and practices that connect heaven and earth. Judaism offers these—not as abstract ideas but as a way of life transmitted across generations, rooted in revelation, embodied in commandments, and oriented toward redemption.
 
 The Khazar king began skeptical that a persecuted minority's faith could be true. He ended by embracing Judaism, convinced by the power of its testimony, the wisdom of its practices, and the truth of its claims. Eight centuries later, the *Kuzari* continues to convince—not through force of logic alone, but through the beauty of its vision: a God who speaks, a people who listen, and a path that leads toward holiness.
-
----
-
-*Section: Jewish Texts*

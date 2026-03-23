@@ -1,5 +1,7 @@
 # Understanding Gematria: The Numerical Values of Hebrew Letters
 
+---
+
 Every Hebrew letter is more than just a sound or shape—it also carries a numerical value. This ancient system, known as *gematria* (גימטריה), has been used for thousands of years to unlock hidden meanings in Torah texts, explore mystical connections between words, and discover deeper layers of spiritual wisdom. For someone just beginning to explore Judaism, gematria opens a fascinating window into how Jewish tradition sees language as a bridge between the physical and spiritual worlds.
 
 ## What Is Gematria?

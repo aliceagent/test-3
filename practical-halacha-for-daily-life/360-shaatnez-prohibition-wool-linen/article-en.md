@@ -1,4 +1,6 @@
 # Sha'atnez: The Prohibition of Mixing Wool and Linen
+---
+
 # 沙特涅兹：禁止混合羊毛和亚麻
 
 > **Header Image Description (DALL-E prompt):** A serene Chinese ink wash (水墨画) landscape showing a traditional weaver's workshop by a mountain stream. In the foreground, delicate strands of white wool and golden linen are kept separate on wooden frames, rendered in minimalist brushstrokes. The background features misty mountains and bamboo groves in varying shades of gray. Include traditional textile tools (spindle, loom) painted with subtle detail. A wise figure in traditional scholarly robes examines fabric with careful attention. Style: classical shan shui technique with emphasis on empty space (留白), muted earth tones with touches of ochre and pale blue, contemplative and meditative mood.
@@ -249,5 +251,3 @@ That is the deep meaning of sha'atnez.
 ## Tags
 
 #Shaatnez #Shatnez #Chukim #PracticalHalacha #Mitzvot #Clothing #WoolAndLinen #JewishLaw #Halacha #Mindfulness #DivineCommand #ObservantJudaism #TextileLaws #KosherLiving #禁令 #服装律法 #犹太律法 #חוקים #שעטנז #הלכה
-
----

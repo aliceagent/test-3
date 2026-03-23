@@ -1,8 +1,9 @@
 # Dan L'Kaf Zechut: Judging Others Favorably
 
-**Section: Jewish Values**
 
 ## Introduction: The Scale of Judgment
+
+---
 
 Imagine seeing your neighbor carrying expensive shopping bags home — the same neighbor who recently asked to borrow money because they couldn't pay rent. What's your first thought?
 

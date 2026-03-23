@@ -1,5 +1,7 @@
 # Apple and Honey: The Rosh Hashana Simanim and Their Meanings
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese brushstroke landscape in traditional shan shui (山水) style featuring a festive table set outdoors in early autumn. In the foreground, a round table holds symbolic foods arranged artistically: sliced apples with honey in a porcelain bowl, a whole pomegranate split open revealing ruby seeds, dates, colorful beets, and a decorative fish on a platter. The middle ground shows rolling hills with fruit trees bearing autumn harvest, their leaves beginning to turn golden. In the background, distant mountains fade into mist under a crescent moon. The color palette features warm earth tones—ochre, sienna, and deep burgundy—with touches of gold and silver. The mood is contemplative and hopeful, capturing the spirit of renewal and sweet beginnings. Painted with delicate ink wash technique and subtle watercolor accents.
 
 ---

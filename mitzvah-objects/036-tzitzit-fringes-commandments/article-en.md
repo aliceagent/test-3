@@ -1,5 +1,7 @@
 # Tzitzit: The Fringes That Remind You of God's Commandments
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese ink wash landscape depicting a traditional figure in flowing robes with subtle fringes at the corners, standing on a mountain peak overlooking misty valleys. The composition uses traditional shan shui style with muted earth tones and soft blues, suggesting contemplation and spiritual connection. Ethereal threads or tassels flow gracefully in the wind, symbolizing the connection between heaven and earth, rendered in traditional Chinese brushstroke technique.
 
 ---
@@ -141,5 +143,3 @@ The commandment of tzitzit was given during the Israelites' desert wandering —
 ## Tags
 
 #Tzitzit #Mitzvah #Fringes #TallitKatan #TallitGadol #Numbers #Torah #MitzvahObjects #PhysicalReminders #Mindfulness #SpiritualDiscipline #JewishPractice #BiblicalCommandments #ShangDynasty #商朝 #念珠 #玉 #精神修养
-
----

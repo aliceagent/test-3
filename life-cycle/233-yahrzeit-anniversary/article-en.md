@@ -2,6 +2,8 @@
 
 ## Introduction
 
+---
+
 When someone we love passes away, the pain of loss can feel overwhelming. Yet Jewish tradition offers a profound framework for honoring their memory year after year through a practice called *yahrzeit* (Yiddish: יאָרצײַט, meaning "year-time" or "anniversary"). This annual observance transforms grief into remembrance, ensuring that those who have died remain woven into the fabric of our ongoing lives.
 
 The yahrzeit is observed on the Hebrew calendar anniversary of a person's death. On this day, immediate family members—children, parents, spouses, and siblings—perform specific rituals to honor the deceased. Far from being merely a day of sadness, the yahrzeit becomes an opportunity to elevate the soul of the departed through prayer, good deeds, and spiritual connection.

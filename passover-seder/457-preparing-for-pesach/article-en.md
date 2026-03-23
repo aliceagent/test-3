@@ -1,6 +1,7 @@
 # Preparing for Pesach: Cleaning, Kashering, and Selling Chametz
 
-**Section: Passover Seder**
+
+---
 
 Passover preparation is a major undertaking that transforms the entire household. For weeks before the holiday, observant Jewish families clean, kasher (ritually purify) their kitchens, and remove or sell all leavened products (*chametz*). To outsiders, this can seem excessive — why such elaborate preparation for a week-long holiday? But for practitioners, Pesach preparation is itself a spiritual practice, combining physical labor with symbolic cleansing, legal ingenuity, and communal renewal.
 

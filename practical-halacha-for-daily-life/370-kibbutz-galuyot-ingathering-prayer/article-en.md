@@ -1,5 +1,7 @@
 # Kibbutz Galuyot: The Ingathering of Exiles as a Daily Prayer
 
+---
+
 > **Header Image Description (DALL-E prompt):** A Chinese ink wash (水墨) landscape depicting streams and rivers from different directions converging into a great river flowing toward distant mountains. In the traditional shan shui (山水) style, show small boats and figures traveling along these waterways from various terrains — desert, forest, mountains — all heading toward a central point where golden light breaks through clouds over a hillside city. The composition should emphasize movement and gathering, with subtle earth tones of sepia, indigo, and hints of gold. The mood is hopeful and anticipatory, suggesting journey's end and homecoming. Style: classical Chinese brushwork with soft gradations and minimal detail, evoking both displacement and return.
 
 ---
@@ -221,5 +223,3 @@ Many Jews have found rich spiritual and cultural life in diaspora. The prayer do
 ## Tags
 
 #KibbutzGaluyot #Ingathering #Amidah #Prayer #Exile #Diaspora #Israel #Redemption #Messianic #Hope #PracticalHalacha #DailyLife #Jewish #Identity #落叶归根 #天下大同 #祈祷
-
----

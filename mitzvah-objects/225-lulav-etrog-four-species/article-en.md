@@ -2,6 +2,8 @@
 
 ## Introduction
 
+---
+
 During the festival of Sukkot, Jewish communities around the world perform one of the most visually distinctive mitzvot: holding and waving the Four Species—lulav (palm branch), etrog (citron), hadass (myrtle), and aravah (willow). This seemingly simple agricultural ritual connects us to ancient Temple practices, the Land of Israel, and profound spiritual truths about Jewish unity and relationship with God.
 
 For someone encountering this tradition for the first time, the Four Species might appear unusual—why these specific plants? Why wave them in six directions? What makes an etrog kosher or pasul (invalid)? This article will guide you through the halachic requirements, symbolic meanings, and practical how-to of this beautiful mitzvah.

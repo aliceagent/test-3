@@ -1,5 +1,7 @@
 # Modeh Ani: The First Words a Jew Says Every Morning
 
+---
+
 > **Header Image Description (DALL-E prompt):** A traditional Chinese ink wash (水墨) landscape painting in serene dawn colors showing a misty mountain horizon with the first rays of sunlight breaking through clouds. In the foreground, cherry blossoms and bamboo frame a tranquil courtyard where a figure sits peacefully in meditation posture on a simple mat. Soft golden light streams through the scene, creating a sense of gratitude and morning renewal. The composition includes flowing water and distant pagoda silhouettes, rendered in muted earth tones of grey, soft gold, and pale rose, conveying a mood of quiet thankfulness and spiritual awakening.
 
 ---
@@ -109,5 +111,3 @@ The practice works because it interrupts our default mode of waking up already s
 ## Tags
 
 #ModehAni #Prayer #MorningPractice #Gratitude #感恩 #SpiralDevelopment #JewishWisdom #Daily #Routine #Mindfulness #正念 #ChineseTradition #Confucius #孔子 #Spirituality #Awakening #Renewal #Ming朝 #ShangDynasty #商朝
-
----

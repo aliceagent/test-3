@@ -1,5 +1,7 @@
 # Brit Milah (Circumcision): The Covenant in the Flesh
 
+---
+
 When a Jewish baby boy is eight days old, his family gathers for one of Judaism's most ancient and meaningful ceremonies: brit milah, the covenant of circumcision. This mitzvah (commandment) has been performed continuously for nearly four thousand years, linking Jewish fathers to their sons in an unbroken chain stretching back to Abraham himself.
 
 ## The Biblical Foundation

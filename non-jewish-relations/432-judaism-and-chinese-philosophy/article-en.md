@@ -1,5 +1,7 @@
 # Judaism and Chinese Philosophy: Surprising Parallels
 
+---
+
 When Chinese readers first encounter Judaism, they often find it surprisingly familiar. While the religions developed in completely different parts of the world without historical contact until recent centuries, Jewish and Chinese thought share striking parallels in ethics, family structure, education, and the relationship between heaven and earth.
 
 ## Respect for Elders: Confucian Filial Piety and the Fifth Commandment

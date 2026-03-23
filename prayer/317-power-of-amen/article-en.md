@@ -1,4 +1,6 @@
 # The Power of Amen: What You're Really Saying
+---
+
 # 阿们的力量：你真正在说什么
 
 > **Header Image Description (DALL-E prompt):** A traditional Chinese ink wash (水墨) landscape in serene shan shui (山水) style showing a misty temple courtyard at dawn. In the foreground, a solitary figure stands with head slightly bowed in contemplative prayer. Behind them, concentric ripples emanate outward across a still pond, symbolizing the waves of spiritual impact from a single word. Distant mountains fade into pale mist. Style: subtle gradations of black ink with minimal blue-grey wash, empty space (留白) emphasized. Mood: quiet reverence, the weight of simple words, interconnection.

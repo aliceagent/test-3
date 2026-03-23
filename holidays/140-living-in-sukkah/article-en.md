@@ -1,5 +1,7 @@
 # Living in the Sukkah: A Week of Radical Trust
 
+---
+
 > **Header Image Description (DALL-E prompt):** Traditional Chinese shan shui (山水) ink wash painting showing a simple rustic hut built of bamboo and natural materials under a starry sky. The roof is semi-open with bamboo slats allowing starlight to filter through. A family is gathered around a low table for a meal, with soft lantern light glowing inside the structure. Mountains in misty background, trees with falling autumn leaves, gentle moon visible through the roof. Earth tones with touches of warm golden light, serene and contemplative mood, Song Dynasty landscape style emphasizing simplicity and impermanence.
 
 *The experience of eating, sleeping, and living in a temporary hut — practical building tips and the spiritual lesson of impermanence*
@@ -125,5 +127,3 @@ Next time rain falls through your sukkah roof onto your dinner—and it will—d
 ## Tags
 
 #Sukkot #Sukkah #TemporaryDwelling #Bitachon #Trust #Impermanence #Wilderness #商朝 #ShangDynasty #Vulnerability #SacredSpace #JewishHolidays #Holidays #Pilgrimage #Buddhism #Daoism #道家 #SimpleLiving
-
----

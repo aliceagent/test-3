@@ -1,5 +1,7 @@
 # Tu BiShvat Seder: The New Year for Trees
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese brushstroke landscape (山水画) depicting a mystical garden with seven species of Middle Eastern trees (olive, date palm, fig, pomegranate, grape vines) rendered in traditional ink wash style. In the foreground, a round wooden table set with four wine cups (progressing from white to deep red), bowls of dried fruits, pomegranates, and figs. Misty mountains in the background with delicate bamboo-like date palm fronds. Muted earth tones (sepia, sage green, burgundy) with golden accents on fruit. Mood: contemplative, reverent, celebrating the harmony between human ritual and natural cycles. Style: Song Dynasty shan shui aesthetics merged with Kabbalistic symbolism.
 
 ---
@@ -295,5 +297,3 @@ You don't need to be in Israel or part of a large Jewish community to observe Tu
 ## Tags
 
 #TuBiShvat #NewYearForTrees #Holidays #SevenSpecies #JewishCalendar #Environment #Kabbalah #BalTashchit #清明节 #树木 #农业节日 #环境保护 #七种物种
-
----

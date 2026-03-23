@@ -1,6 +1,7 @@
 # The Ten Plagues at the Seder: Ritual, Memory, and Empathy
 
-**Section: Passover Seder**
+
+---
 
 The recitation of the Ten Plagues is one of the Seder's most dramatic moments. As each plague is named — blood, frogs, lice, wild beasts, pestilence, boils, hail, locusts, darkness, death of the firstborn — participants remove a drop of wine from their cups, either with a finger or by pouring. This ancient custom, rooted in rabbinic tradition, transforms the plagues from distant biblical narrative into embodied ritual. More remarkably, it teaches one of Judaism's most profound ethical lessons: we diminish our joy when recalling our enemies' suffering.
 

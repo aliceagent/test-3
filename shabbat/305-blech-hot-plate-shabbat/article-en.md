@@ -1,5 +1,7 @@
 # The Blech and the Hot Plate: Keeping Food Warm on Shabbat
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese brushstroke (水墨) landscape in traditional shan shui (山水) style depicting a tranquil home interior. In the foreground, a simple metal covering (representing the blech) sits atop a cooking surface with warm wisps of steam rising gently. Through an open window, a peaceful Friday evening scene unfolds with fading golden light. The composition uses muted earth tones—soft grays, warm browns, and gentle amber highlights—evoking warmth, rest, and preparation. The style combines the minimalism of Chinese ink wash painting with the intimate warmth of Shabbat. Mood: peaceful, contemplative, warm.
 
 ---

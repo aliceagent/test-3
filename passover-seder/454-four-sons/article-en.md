@@ -1,6 +1,7 @@
 # The Four Sons: A Guide to Teaching Different Types of Learners
 
-**Section: Passover Seder**
+
+---
 
 In the Passover Haggadah, after the Four Questions launch the storytelling, we encounter a remarkable educational framework: the teaching of four sons. Each son represents a different type of learner with distinct attitudes, questions, and needs. This ancient paradigm, rooted in the Torah and elaborated by the Rabbis, offers profound insights into how we teach, learn, and transmit values across differences in personality, ability, and engagement.
 

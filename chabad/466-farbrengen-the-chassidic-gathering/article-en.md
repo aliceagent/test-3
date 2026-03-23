@@ -2,6 +2,8 @@
 
 ## The Singing, Stories, Mashke, and Soul-Searching That Make Farbrengens Powerful
 
+---
+
 Imagine a crowded room, late at night. Around a long table sit dozens or hundreds of people—men with beards and traditional clothing, some young, some old, from many different backgrounds. In the center, a Chassidic rebbe or elder sits, a small glass of vodka before him. Someone starts singing a melody without words—a *niggun*—and the entire room joins in, swaying together, voices rising and falling in haunting harmonies. After the singing subsides, the rebbe begins to speak, sharing a Torah thought, a story, or a insight about life and service to God. More singing follows. Someone shares a personal story. The rebbe responds. Hours pass. The atmosphere is simultaneously joyful and serious, intimate and transcendent, rowdy and sacred.
 
 This is a *farbrengen* (from the Yiddish word meaning "to bring together" or "to gather"), one of the most distinctive and powerful practices in Chassidic life. For those unfamiliar with Chassidic culture, a farbrengen can seem strange—a mix of religious gathering, group therapy session, philosophy seminar, and joyful celebration. Yet for those who experience it, farbrengens are transformative events that create deep bonds, inspire spiritual growth, and generate moments of profound insight and connection.

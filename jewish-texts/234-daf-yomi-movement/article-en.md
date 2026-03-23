@@ -1,5 +1,7 @@
 # Daf Yomi: The Global Movement to Study One Page of Talmud Daily
 
+---
+
 Imagine a movement so powerful that it connects Jews across every continent, time zone, and language — all studying the exact same page of Talmud on the exact same day. This is Daf Yomi (דף יומי), which literally means "daily page" in Hebrew. Since 1923, this revolutionary program has united the Jewish people in a shared intellectual and spiritual journey through the entire Babylonian Talmud, one page at a time.
 
 ## What is Daf Yomi?

@@ -1,5 +1,7 @@
 # Ushpizin: The Seven Mystical Guests of the Sukkah
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese brushstroke (山水) landscape showing a rustic sukkah shelter made of bamboo and branches under a crescent moon. Seven translucent, ethereal figures in ancient robes stand in a gentle arc around the entrance, barely visible like morning mist. The scene is painted in traditional ink wash style with muted earth tones — soft grays, browns, and touches of warm amber light from inside the sukkah. The mood is contemplative and mystical, suggesting the boundary between the physical and spiritual worlds. Include delicate pine trees in the background and fallen autumn leaves.
 
 ---
@@ -202,5 +204,3 @@ In a world that often feels spiritually empty, where the sacred seems distant or
 ## Tags
 
 #Ushpizin #Sukkot #JewishMysticism #Kabbalah #SevenSefirot #Abraham #Isaac #Jacob #Moses #Aaron #Joseph #David #Hospitality #AncestorVeneration #Zohar #住棚节 #犹太神秘主义 #祖先 #款待
-
----

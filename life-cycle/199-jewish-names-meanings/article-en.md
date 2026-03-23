@@ -1,5 +1,7 @@
 # Jewish Names and Their Meanings: A Guide for Naming Children
 
+---
+
 Choosing a name for your child is one of the most meaningful decisions Jewish parents make. In Judaism, a name is far more than an identifier—it's believed to carry spiritual significance, influence character development, and connect a person to their heritage and destiny. The Talmud teaches that parents receive a degree of prophetic inspiration when naming their children, suggesting the name chosen will somehow reflect the child's essence and life path.
 
 ## The Spiritual Power of a Name

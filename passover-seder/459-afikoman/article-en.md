@@ -1,6 +1,7 @@
 # The Afikoman: Why We Hide Matzah and What It Represents
 
-**Section: Passover Seder**
+
+---
 
 One of the Passover Seder's most beloved customs, especially for children, is the hiding and finding of the afikoman — a piece of matzah broken off early in the Seder, hidden, and retrieved at the end. To outsiders, this might seem like a strange interruption of a solemn religious ritual: Why hide food? Why turn the ceremony into a game? But like so much in Judaism, the afikoman operates on multiple levels simultaneously — practical, symbolic, educational, and mystical. Understanding this curious custom opens windows into Jewish pedagogy, theology, and the art of making sacred moments memorable.
 

@@ -1,6 +1,7 @@
 # Shanghai Ghetto: How China Saved 20,000 Jewish Refugees
 
-*Section: Antisemitism*
+
+---
 
 While six million Jews perished in the Holocaust, there is a remarkable chapter in this dark history where China played a heroic role: the story of Shanghai, which became a refuge for approximately 20,000 Jewish refugees fleeing Nazi persecution when almost every other country in the world closed its doors.
 

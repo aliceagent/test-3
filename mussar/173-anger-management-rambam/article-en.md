@@ -1,5 +1,7 @@
 # Anger Management the Jewish Way: What the Rambam Taught
 
+---
+
 Anger is universal. Whether you live in Jerusalem, Beijing, or New York, everyone knows what it feels like when fury rises in your chest—when someone cuts you off in traffic, when a colleague takes credit for your work, when your child refuses to listen for the tenth time.
 
 But while anger is universal, the ways we handle it differ dramatically across cultures. In Jewish tradition, one of the most profound guides to managing anger comes from the Rambam (Rabbi Moses Maimonides, 1138-1204), the great medieval philosopher and Torah scholar whose teachings continue to shape Jewish life today.

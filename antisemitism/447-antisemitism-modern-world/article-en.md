@@ -1,6 +1,7 @@
 # Antisemitism in the Modern World: From the Far Right to the Far Left
 
-*Section: Antisemitism*
+
+---
 
 Many people assume that antisemitism is primarily a problem of the far right—neo-Nazis, white supremacists, and fascist movements. While these groups are indeed antisemitic, Jew-hatred in the 21st century is far more complex. It appears across the political spectrum, takes different forms in different contexts, and has adapted to modern technologies and political movements.
 

@@ -2,6 +2,8 @@
 
 ## What Tikkun Olam Actually Means in Jewish Law and Mysticism—Beyond the Popular Misconception
 
+---
+
 If you've encountered Judaism through progressive Jewish communities, social justice organizations, or liberal synagogues, you've probably heard the phrase *tikkun olam* translated as "repairing the world" and understood as a mandate for social activism, environmentalism, and progressive causes. Many Jews today describe their commitment to human rights, poverty relief, or climate action as "doing tikkun olam." This usage is so widespread that it has become perhaps the most frequently cited Jewish concept in contemporary liberal discourse.
 
 There's just one problem: this isn't what *tikkun olam* meant for most of Jewish history. The term has been dramatically reinterpreted—some would say misappropriated—from its original legal and mystical contexts. Understanding the actual meaning of *tikkun olam*, and how it evolved to its contemporary usage, offers fascinating insights into how religious concepts transform across time, how language shapes understanding, and what authentic Jewish tradition says about our responsibility to improve the world.

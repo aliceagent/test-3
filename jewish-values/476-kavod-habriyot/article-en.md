@@ -1,8 +1,9 @@
 # Kavod HaBriyot: Human Dignity in Jewish Law
 
-**Section: Jewish Values**
 
 ## Introduction: The Power of Dignity
+
+---
 
 The Mishnah presents a startling legal scenario:
 

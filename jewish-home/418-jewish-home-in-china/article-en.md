@@ -1,5 +1,7 @@
 # A Jewish Home in China: Practical Challenges and Creative Solutions
 
+---
+
 Building a Jewish home is challenging anywhere in the modern world. But in China—where Jews number in the low thousands among 1.4 billion people, where kosher infrastructure is minimal, where Jewish communities are small and scattered, and where cultural and linguistic barriers can be significant—the challenges multiply.
 
 Yet Chinese Jews (both those born Jewish and living in China, and those who've chosen Judaism) succeed in creating vibrant Jewish homes. This article shares their stories, strategies, and creative solutions to the practical obstacles they face.

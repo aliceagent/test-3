@@ -1,5 +1,7 @@
 # Chevra Kadisha: The Holy Society That Cares for the Dead
 
+---
+
 In Jewish communities worldwide, from the largest cities to the smallest towns, a quiet group operates behind the scenes. They receive no applause, seek no recognition, and perform one of Judaism's most sacred tasks: preparing the deceased for burial. This group—the chevra kadisha (holy society)—embodies a profound truth: the greatest kindness is one that can never be repaid.
 
 ## The Ultimate Act of Kindness

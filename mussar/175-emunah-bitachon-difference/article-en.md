@@ -1,5 +1,7 @@
 # Emunah (Faith) vs. Bitachon (Trust): Understanding the Difference
 
+---
+
 When you first begin learning about Judaism, you'll encounter two Hebrew words that seem almost identical in English: *emunah* (אמונה) and *bitachon* (בטחון). Both are often translated as "faith" or "trust," yet Jewish tradition treats them as distinct concepts with different meanings and applications in daily life. Understanding the difference between these two ideas is crucial for developing a mature spiritual life.
 
 ## What is Emunah? The Foundation of Belief

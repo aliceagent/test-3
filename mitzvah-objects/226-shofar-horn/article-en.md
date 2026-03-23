@@ -1,5 +1,7 @@
 # The Shofar: Ancient Horn That Calls the Soul to Wake Up
 
+---
+
 The first time you hear a shofar blast, you'll never forget it. It's not music. It's not melodious. It's a raw, primal sound—something between an alarm clock and a battle cry, between a cry for help and a shout of joy. The shofar is one of Judaism's most ancient instruments, and its sound has been waking up Jewish souls for over 3,000 years.
 
 ## What Exactly Is a Shofar?

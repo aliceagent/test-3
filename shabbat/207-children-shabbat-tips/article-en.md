@@ -1,5 +1,7 @@
 # Teaching Children to Love Shabbat: Practical Tips by Age Group
 
+---
+
 Shabbat is meant to be a delight, but for many parents, the reality can feel different. Young children struggle with the "no screen time" rule. Teenagers resist family meals. Toddlers melt down during long Friday night prayers. Yet across Jewish communities worldwide, countless families have discovered the secret: when Shabbat is introduced with wisdom, patience, and joy, children don't just tolerate it—they treasure it.
 
 The key lies in meeting each child where they are developmentally, creating positive associations, and gradually building a foundation of genuine love for Shabbat. This article offers practical, age-appropriate strategies to help your children embrace the weekly day of rest as a highlight of their week rather than a burden.

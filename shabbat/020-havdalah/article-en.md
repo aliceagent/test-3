@@ -1,5 +1,7 @@
 # Havdalah: How to End Shabbat Beautifully
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese ink wash (shan shui) landscape depicting the transition from sacred to ordinary time. The scene shows dusk in a traditional courtyard setting, rendered in subtle gradations from deep indigo to warm amber. In the foreground, three ceremonial objects rest on a simple wooden table: a braided candle with intertwined flames casting dancing shadows, a silver cup overflowing with wine, and a delicate spice box releasing wisps of fragrant smoke. The middle ground features a traditional Chinese pavilion framed by plum blossoms, symbolizing the boundary between the holy and the mundane. Mountains fade into misty twilight in the background, representing the gradual return to the workweek. The overall mood is contemplative and bittersweet, capturing the moment of transition between the sacred Shabbat and everyday life. Style: traditional Chinese brushstroke painting (水墨画) with muted earth tones—charcoal blacks, slate grays, warm amber highlights, and subtle touches of silver.
 
 ---
@@ -365,5 +367,3 @@ Halachic opinions vary. However, from a spiritual perspective, Havdalah can serv
 ## Tags
 
 #Havdalah #Shabbat #ShabbatEnd #Blessings #Wine #Spices #Fire #CandleLighting #JewishRitual #Transition #SacredAndMundane #Boundaries #RestAndWork #MultiSensory #ShabbatObservance #BeginnerFriendly #TalmudPesachim #TalmudShabbat #NeshamahYeteirah #AdditionalSoul #ChineseDynastyParallel #HanDynasty #汉朝 #YinYang #阴阳 #RitualPropriety #礼 #TeaCeremony #IncenseTradition
-
----

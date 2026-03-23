@@ -1,6 +1,7 @@
 # How Will We Know When the Messiah Comes? The Halachic Criteria
 
-**Section: Messiah**
+
+---
 
 In an age of false claims and genuine confusion, Judaism offers something remarkable: clear, verifiable criteria for identifying the Messiah. These standards, codified by Maimonides in his legal code (*Mishneh Torah*, Laws of Kings, chapters 11-12), are not mystical or subjective. They're practical, observable achievements that will be unmistakable when they occur.
 

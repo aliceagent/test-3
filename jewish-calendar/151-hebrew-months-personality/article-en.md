@@ -1,5 +1,7 @@
 # The Hebrew Months: A Personality Profile for Each Month
 
+---
+
 *Header Image Description: A circular mandala featuring twelve segments, each representing a Hebrew month with its corresponding zodiac symbol, Hebrew letters, and seasonal imagery. The center displays the Hebrew word "שנה" (Shanah - Year) in elegant calligraphy, surrounded by flowing geometric patterns inspired by ancient Jewish manuscripts.*
 
 The Hebrew calendar is more than a system for tracking time—it's a spiritual roadmap that reveals the unique character and energy of each month. Like the Chinese dynasties that understood the cyclical nature of time and governance, Jewish tradition recognizes that each of the twelve Hebrew months carries its own distinct personality, spiritual opportunities, and challenges.

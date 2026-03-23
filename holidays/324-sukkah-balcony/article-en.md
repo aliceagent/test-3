@@ -1,5 +1,7 @@
 # Building Your First Sukkah on a Chinese Apartment Balcony
 
+---
+
 > **Header Image Description (DALL-E prompt):** A Chinese ink wash landscape depicting a modern high-rise apartment balcony transformed into a sukkah during twilight. The scene shows a compact sukkah structure with bamboo poles forming walls and natural palm fronds creating shade on top, with gaps revealing stars beginning to appear in the evening sky. Traditional Chinese architectural elements blend with Jewish symbolism — hanging gourds and decorations reminiscent of Mid-Autumn Festival lanterns. The cityscape of Shanghai or Beijing glows softly in the background. Color palette: soft grays, warm amber light from inside the sukkah, deep blues of dusk, touches of green from the s'chach (covering). Mood: peaceful, resourceful, bridging cultures, finding sacred space in urban life.
 
 ---
@@ -398,5 +400,3 @@ That's what the sukkah is about.
 ## Tags
 
 #Sukkot #Sukkah #Holidays #PracticalHalacha #JewsInChina #UrbanJudaism #ChineseApartment #SmallSpaces #DIY #住棚节 #犹太节日 #阳台 #临时住所 #信仰实践 #中国生活
-
----

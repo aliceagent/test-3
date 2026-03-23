@@ -1,4 +1,6 @@
 # Lashon Hara in the Digital Age: Jewish Speech Ethics Online
+---
+
 # 数字时代的恶语:犹太网络言论伦理
 
 > **Header Image Description (DALL-E prompt):** A Chinese brushstroke (水墨) landscape showing a serene mountain valley with a flowing stream. In the foreground, traditional ink-style calligraphy brushes rest beside smooth stones with ancient Hebrew letters faintly visible in the mist. A single crane takes flight, symbolizing words released into the digital clouds above. The composition flows from dark ink at the base (representing careful thought) to lighter washes ascending into the sky (words once spoken). Muted earth tones with subtle touches of gold in the mist. Mood: contemplative, cautionary, emphasizing the irreversibility of speech.
@@ -277,5 +279,3 @@ Many people report that this practice transforms not just their online behavior,
 ## Tags
 
 #LashonHara #SpeechEthics #Mussar #DigitalAge #SocialMedia #JewishLaw #ChofetzChaim #ShmirathHaLashon #恶语 #言论伦理 #社交媒体 #犹太法 #Gossip #Slander #OnlineEthics #Compassion #Mindfulness #慈悲 #正语 #儒家 #Teshuvah
-
----

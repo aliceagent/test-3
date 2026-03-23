@@ -1,5 +1,7 @@
 # Life as a Ger: Stories from Jewish Converts Around the World
 
+---
+
 > **Header Image Description (DALL-E prompt):** A Chinese brushstroke landscape in muted earth tones showing multiple paths converging toward a single glowing summit. In the foreground, several small figures in traditional dress from different cultures (Chinese hanfu, Western clothing, Middle Eastern robes) walk separate winding mountain paths that gradually merge. Above them, golden light breaks through mist. The style should be shan shui (山水) with delicate ink wash strokes, capturing both the individuality of each journey and the shared destination. Serene and contemplative mood with subtle warm gold accents.
 
 ---
@@ -229,5 +231,3 @@ Welcome home.
 ## Tags
 
 #Conversion #Ger #Gerim #RuthTheConvert #JewishIdentity #BecomingJewish #ConversionStories #ChineseLearners #AsianJews #MikvahImmersion #BeitDin #ChosenPeople #ConvertLife #ShanghaiJews #KoreanJews #BrazilianJews #InterculturalJudaism #JewishCommunity #NewJew #ConversionJourney #犹太皈依 #改宗 #选择犹太教
-
----

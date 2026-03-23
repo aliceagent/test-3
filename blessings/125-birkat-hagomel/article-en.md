@@ -1,5 +1,7 @@
 # Birkat HaGomel: The Blessing After Surviving Danger
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese landscape in traditional shan shui style showing a lone traveler safe on a mountain path after crossing turbulent waters, with peaceful clouds clearing after a storm. The scene depicts four symbolic elements: a distant ship safely harbored (sea journey), footprints in desert sand (wilderness travel), a figure emerging from shadows into light (illness recovery), and opened gates with morning light (freedom from confinement). Painted in contemplative earth tones of deep blues, gentle greens, and warm ochre, with touches of golden light suggesting divine protection and gratitude.
 
 ---
@@ -254,5 +256,3 @@ If yes to all three, consult with a knowledgeable community member or rabbi abou
 ## Tags
 
 #BirkatHaGomel #Thanksgiving #Blessings #Trauma #Survival #Gratitude #Prayer #Talmud #Judaism101 #Jewish Practice #感恩祝福 #大难不死 #犹太祈祷 #劫后余生 #ברכתהגומל #תודה #ברכות #ניצול #הכרתהטוב #תלמוד #הלכה
-
----

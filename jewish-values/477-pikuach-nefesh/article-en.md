@@ -1,8 +1,9 @@
 # Pikuach Nefesh: Why Saving a Life Overrides Almost Everything
 
-**Section: Jewish Values**
 
 ## Introduction: Shabbat in the Emergency Room
+
+---
 
 It's Friday night. The Shabbat candles are lit, dinner is on the table, and your phone rings. (Yes, you're not supposed to use phones on Shabbat, but bear with this scenario.)
 

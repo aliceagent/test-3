@@ -1,5 +1,7 @@
 # The Fast of Gedaliah and the Minor Fast Days Explained
 
+---
+
 > **Header Image Description (DALL-E prompt):** Traditional Chinese shan shui (山水) ink wash painting showing four distinct scenes in seasonal progression, each representing a fast day. Ancient Jerusalem walls in various states (whole, breached, destroyed) rendered in Chinese architectural style. Scrolls and tablets in the foreground, mourning figures in traditional robes, broken stone tablets, siege imagery, a solitary figure before a palace. Muted greys, sepia tones, deep blues suggesting mourning, solemn and contemplative mood, Northern Song Dynasty painting style emphasizing historical gravity and spiritual reflection.
 
 ---
@@ -122,5 +124,3 @@ As we observe these fasts, we join generations of Jews who have maintained this 
 ## Tags
 
 #FastDays #MinorFasts #TzomGedaliah #FastOfGedaliah #TenthOfTevet #SeventeenthOfTammuz #FastOfEsther #JewishHistory #TempleDestruction #春秋 #战国 #汉朝 #商朝 #Repentance #Teshuva #Mourning #Holidays #JewishCalendar #HistoricalMemory
-
----

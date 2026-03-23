@@ -2,6 +2,8 @@
 
 ## The Life, Teachings, and Global Impact of the Seventh Lubavitcher Rebbe
 
+---
+
 In the late 20th century, a bearded rabbi living in Brooklyn became one of the most influential Jewish leaders in history. Rabbi Menachem Mendel Schneerson, known simply as "the Rebbe," transformed Chabad-Lubavitch from a small Chassidic sect into a global movement that today operates in over 100 countries. His story is remarkable—a man who never visited Israel as an adult, yet shaped Jewish life worldwide; a leader who lived modestly in Crown Heights yet advised presidents and prime ministers; a scholar fluent in multiple languages who insisted that every Jew, regardless of education, could connect with God.
 
 ## Early Life: From Russia to Berlin to Paris

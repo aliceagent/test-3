@@ -1,5 +1,7 @@
 # Shalom Bayit: The Jewish Path to a Peaceful Home
 
+---
+
 In Jewish thought, few concepts are as sacred as *shalom bayit* (שלום בית)—literally, "peace of the home." This is not merely the absence of conflict but the presence of harmony, respect, love, and mutual support between husband and wife. The Talmud treats shalom bayit with such reverence that it permits certain actions otherwise forbidden, all to preserve domestic peace.
 
 The stakes are high. The Talmud (Sotah 17a) teaches: "When a husband and wife are worthy, the Divine Presence dwells between them. If they are not worthy, fire consumes them." The home is meant to be a sanctuary where God's presence resides. For this to happen, the relationship between husband and wife must embody holiness.

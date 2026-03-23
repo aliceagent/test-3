@@ -1,5 +1,7 @@
 # Is Soy Sauce Kosher? Common Asian Ingredients Under the Halachic Microscope
 
+---
+
 > **Header Image Description (DALL-E prompt):** A traditional Chinese shan shui (山水) ink wash landscape depicting a serene bamboo grove with misty mountains in the background. In the foreground, stylized ceramic vessels and traditional Asian condiment bottles are artfully arranged on a stone table, rendered in elegant brushwork. Muted earth tones of gray, black, and subtle amber accents. The composition bridges Eastern aesthetics with the theme of examining ingredients with care and mindfulness. Mood: contemplative and harmonious.
 
 ---

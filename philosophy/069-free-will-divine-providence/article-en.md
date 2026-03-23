@@ -1,4 +1,6 @@
 # Free Will vs. Divine Providence: How Both Can Be True
+---
+
 # רצון חופשי מול השגחה אלוהית: איך שניהם יכולים להיות אמת
 # 自由意志与神意:两者如何并存
 
@@ -251,5 +253,3 @@ As the Psalmist wrote: "Commit your way to the LORD; trust in Him, and He will a
 ## Tags
 
 #FreeWill #DivinePprovidence #Paradox #Philosophy #Maimonides #Rambam #Tanya #Chassidus #Kabbalah #Tzimtzum #BaalShemTov #Teshuvah #Prayer #Emunah #ChinesePhilosophy #Confucianism #Daoism #Buddhism #天命 #無為 #道 #WesternZhouDynasty #西周 #SongDynasty #南宋 #QingDynasty #清朝 #YuanDynasty #元朝
-
----

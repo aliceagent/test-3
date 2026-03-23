@@ -1,5 +1,7 @@
 # It Is Not Your Duty to Complete the Work, But Neither Are You Free to Desist From It
 
+---
+
 **Rabbi Tarfon's Timeless Teaching on Effort, Responsibility, and Finding Your Place in an Unfinished World**
 
 *Pirkei Avot 2:16*

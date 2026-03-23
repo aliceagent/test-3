@@ -1,5 +1,7 @@
 # Returning Lost Objects: The Mitzvah of Hashavat Aveidah
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese ink wash (水墨) landscape featuring a winding mountain path where a traveler discovers a small pouch lying on the ground. In the distance, another figure walks away unaware. The scene includes pine trees, misty mountains, and a village visible in the valley below. The composition uses traditional shan shui (山水) style with muted earth tones — soft grays, subtle browns, and gentle greens. The mood is contemplative and ethical, emphasizing the moral crossroads moment. Style: traditional Song Dynasty landscape painting aesthetic.
 
 ---

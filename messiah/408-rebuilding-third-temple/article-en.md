@@ -1,6 +1,7 @@
 # Rebuilding the Holy Temple: What Would It Look Like?
 
-**Section: Messiah**
+
+---
 
 The rebuilding of the Holy Temple in Jerusalem is central to Jewish messianic belief. It appears in daily prayers, messianic criteria, and prophetic visions. But what exactly would this Third Temple be? Where would it stand? What would happen there? And why does it matter to Jews today, especially those who've never seen a Temple?
 

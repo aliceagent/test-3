@@ -1,5 +1,7 @@
 # Pinchas: Zealotry, Leadership Transitions, and the Daughters of Tzelafchad
 
+---
+
 > **Header Image Description (DALL-E prompt):** A traditional Chinese shan shui (山水) style landscape depicting three distinct scenes woven together: In the foreground, a solitary figure stands boldly on a mountain peak, representing righteous courage. In the middle ground, an elderly sage passes a staff to a younger leader beneath ancient pine trees, symbolizing the transfer of wisdom and authority. In the distant background, five graceful figures in flowing robes approach a grand pavilion, representing the daughters seeking justice. The composition uses soft ink washes in earth tones (grey, brown, sepia) with subtle gold accents on the pavilion and staff. Misty clouds separate the three narrative elements, creating a contemplative, interconnected mood that speaks to courage, transition, and justice.
 
 ---
@@ -211,5 +213,3 @@ Both cultures were grappling with similar questions: How do societies maintain s
 ## Tags
 
 #Pinchas #Zealotry #Leadership #WomensRights #Justice #CourageousAction #SuccessionPlanning #BiblicalLaw #TzelafchadDaughters #Moses #Joshua #RighteousIndignation #LegalPrecedent #DivineJustice #商朝 #正义 #领导力 #妇女权利 #勇气
-
----

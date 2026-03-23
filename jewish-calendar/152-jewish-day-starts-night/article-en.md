@@ -1,5 +1,7 @@
 # Why the Jewish Day Starts at Night
 
+---
+
 > **Header Image Description (DALL-E prompt):** Traditional Chinese shan shui (山水) ink landscape depicting twilight over ancient Jerusalem, with the first three stars visible in the deepening blue-purple sky above stone walls and hills. Rendered in gentle ink wash with deep blacks transitioning to soft grays and warm amber tones where the last sunlight touches the horizon. A single candle or lamp being lit in the foreground symbolizes the transition moment. The composition emphasizes the threshold between day and night, the liminal space of transformation. Mood: serene transition, sacred threshold, the quiet power of beginnings in darkness.
 
 ---
@@ -126,5 +128,3 @@ The next time you experience a difficult period — a dark night of uncertainty,
 ## Tags
 
 #JewishCalendar #Time #Shabbat #Evening #Sunset #Creation #Genesis #BereshitDarkness #Light #Transformation #Tzimtzum #Kabbalah #阴阳 #道家 #周朝 #汉朝 #清朝 #易经 #老子
-
----

@@ -1,5 +1,7 @@
 # Shabbat Salads: 10 Make-Ahead Recipes for the Friday Night Table
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese ink wash painting depicting a traditional dining table set for a festive meal, rendered in shan shui style. The composition shows various bowls and plates arranged harmoniously on a wooden table, with delicate wisps of steam rising like morning mist over mountains. In the background, subtle brushstrokes suggest a window view of twilight. The color palette features muted earth tones with touches of deep green (from fresh herbs), warm amber (from oil), and gentle crimson (from tomatoes). The mood is peaceful and anticipatory, evoking the calm preparation before a sacred gathering.
 
 ---
@@ -194,5 +196,3 @@ This mirrors the Daoist concept of 無為 (wú wéi, effortless action) — the 
 ## Tags
 
 #Shabbat #ShabbatMeals #KosherFood #MakeAheadRecipes #IsraeliSalad #MoroccanCarrotSalad #Matbucha #Coleslaw #Tabbouleh #SaladsForShabbat #入味 #涼菜 #OnegShabbat #HalachaAndCooking #Borer #ChineseJewishBridge #FridayNightDinner #ShabbatPreparation #SephardiCuisine #AshkenaziCuisine #涼拌 #安息日
-
----

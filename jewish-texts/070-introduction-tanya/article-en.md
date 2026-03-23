@@ -1,5 +1,7 @@
 # Introduction to Tanya: Chabad's Foundational Text
 
+---
+
 > **Header Image Description (DALL-E prompt):** A traditional Chinese shan shui (山水) ink wash landscape depicting a serene mountain peak emerging through morning mist, with a narrow winding path leading upward through pine trees. In the foreground, a solitary scholar figure in traditional robes sits on a stone outcropping, contemplating a scroll. The style uses bold black ink strokes with subtle gray washes, creating depth through layered mountains. Include delicate pine branches in the foreground framing the scene. The mood is contemplative and introspective, suggesting the inner journey of self-understanding. Color palette: deep blacks, soft grays, with touches of warm sepia on the aged scroll. The composition follows classical Chinese landscape principles with mountains representing the spiritual heights one can reach through study and self-reflection.
 
 ---
@@ -252,5 +254,3 @@ Pick up a copy. Read a chapter. Join a class. You might just discover the map yo
 ## Tags
 
 #Tanya #Chabad #JewishMysticism #Kabbalah #Soul #Chassidism #RabbiSchneurZalman #Torah #SelfImprovement #JewishPhilosophy #Mussar #修身 #清朝 #Spirituality #JewishTexts #ChineseCulture #DivineService
-
----

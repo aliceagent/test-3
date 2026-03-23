@@ -2,6 +2,8 @@
 
 ## Why Chabad Reaches Out with Warmth Rather Than Judgment—and the Philosophy Behind It
 
+---
+
 Picture this scene: A young man walks past a street corner in Manhattan, Tokyo, or Tel Aviv. He's not wearing any visible Jewish symbols. He hasn't attended synagogue in years. He's not even sure he believes in God. Suddenly, a bearded rabbi approaches him with a broad smile: "Excuse me, are you Jewish?" When he nods hesitantly, the rabbi doesn't ask about his level of observance or membership in a synagogue. Instead: "Would you like to put on tefillin (phylacteries)?"
 
 This simple interaction—repeated millions of times across the globe—encapsulates the Chabad approach to Jewish outreach. It's an approach built not on judgment, coercion, or preaching, but on unconditional love and the firm belief that every Jewish soul is precious, regardless of current practice or belief. For Chinese readers, this might seem counterintuitive: How can a religious movement focused on tradition and observance welcome those who don't follow its practices? The answer lies in a profound philosophy called Ahavat Yisrael—Love of Israel.

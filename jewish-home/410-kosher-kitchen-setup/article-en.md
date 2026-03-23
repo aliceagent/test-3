@@ -1,6 +1,7 @@
 # Setting Up a Kosher Kitchen from Scratch
 
-**Section: Jewish Home**
+
+---
 
 Creating a kosher kitchen can seem daunting, especially if you're new to kashrut (Jewish dietary laws) or living in a place where kosher infrastructure is limited—like many parts of Asia. But with proper planning and understanding, you can establish a fully functional kosher kitchen even in a small apartment far from major Jewish communities.
 

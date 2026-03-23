@@ -1,6 +1,7 @@
 # Prayer Hebrew vs. Modern Hebrew: What's the Difference?
 
-**Section: Hebrew Learning**
+
+---
 
 You open a prayer book (Siddur) in the synagogue and see Hebrew text. Later, you watch an Israeli TV show or read an Israeli news article—also in Hebrew. The script looks the same, but something feels different. The rhythm, vocabulary, and even grammar don't quite match. What's going on?
 

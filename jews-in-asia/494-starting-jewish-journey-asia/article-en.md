@@ -1,6 +1,7 @@
 # Starting Your Jewish Journey in Asia: A Practical Roadmap
 
-**Section: Jews in Asia**
+
+---
 
 You're in Beijing, Mumbai, Seoul, or Singapore. You're drawn to Judaism—maybe you're a Jew reconnecting with heritage, a person of Jewish ancestry exploring roots, or simply curious about this ancient tradition. But you're far from Jerusalem, Brooklyn, or London. How do you begin?
 

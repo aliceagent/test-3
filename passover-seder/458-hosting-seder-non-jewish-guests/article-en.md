@@ -1,6 +1,7 @@
 # Hosting a Seder for Non-Jewish Guests: Tips and Etiquette
 
-**Section: Passover Seder**
+
+---
 
 The Passover Seder is one of Judaism's most beautiful, accessible, and educational rituals. Many Jews invite non-Jewish friends, colleagues, and neighbors to experience it — and many non-Jews are curious to participate. For Chinese readers who might attend a Seder as guests, or for Jewish readers hosting Chinese friends, understanding how to navigate this cross-cultural encounter makes the experience meaningful and comfortable for everyone. This article explores how to make your Seder welcoming and educational while maintaining halachic (Jewish legal) standards.
 

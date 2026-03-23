@@ -2,6 +2,8 @@
 
 ## Introduction: The Power of Words
 
+---
+
 In the Jewish tradition, words hold extraordinary power. The Talmud teaches that "death and life are in the power of the tongue" (Proverbs 18:21). While physical wounds may heal, the damage caused by harmful speech can last a lifetime. The concept of *Shmirat HaLashon* — literally "guarding your tongue" — represents one of Judaism's most important ethical teachings, addressing how we speak about others when they're not present to defend themselves.
 
 The Hebrew term *lashon hara* (literally "evil tongue") refers to true but derogatory speech about another person. It's distinct from slander, which is false. Remarkably, Judaism considers speaking truthful but damaging information about someone to be even more serious than lying, because the victim has no recourse — they cannot defend themselves by claiming the statement is untrue.

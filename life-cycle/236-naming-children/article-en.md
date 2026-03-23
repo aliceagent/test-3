@@ -1,4 +1,6 @@
 # Naming Jewish Children: Traditions and Meanings
+---
+
 # 犹太儿童命名：传统与意义
 
 > **Header Image Description (DALL-E prompt):** A Chinese brushstroke (shan shui 山水) landscape in soft ink wash style depicting a serene scene: an ancient scroll unfurling beside a gentle stream, with Hebrew letters floating like birds above the water, transforming into delicate cherry blossoms. In the background, misty mountains frame a small family silhouette looking at a distant sunrise. Muted earth tones with subtle touches of soft gold and pale blue. Style: traditional Chinese ink painting meets Jewish mystical imagery. Mood: contemplative, hopeful, timeless.
@@ -289,5 +291,3 @@ May all our children be blessed to live up to their names, to fulfill their uniq
 ## Tags
 
 #JewishNames #NamingTraditions #HebrewNames #BritMilah #SimchatBat #Ashkenazi #Sephardi #LifeCycle #FamilyTraditions #Conversion #Spirituality #Identity #起名 #命名传统 #犹太传统
-
----

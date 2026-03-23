@@ -1,5 +1,7 @@
 # What Happens When Moshiach Comes? A Detailed Picture
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese brushstroke shan shui (山水) landscape depicting Jerusalem on a hilltop bathed in golden dawn light. In the foreground, paths from all four directions converge toward the city, with small figures traveling together peacefully. The Third Temple sits majestically at the center, rendered in elegant ink strokes with subtle gold accents. Soft mist surrounds the base of the mountain while the sky above glows with ethereal light. The mood is contemplative and filled with hope. Traditional ink wash technique with muted earth tones — grey, sepia, soft gold, and gentle blue. Style: Song Dynasty (宋朝) landscape painting meets prophetic vision.
 
 ---
@@ -303,5 +305,3 @@ May that day come speedily and in our time.
 ## Tags
 
 #Moshiach #Messiah #Redemption #PropheticVision #ThirdTemple #Resurrection #UniversalPeace #EndOfDays #JewishEschatology #KibbutzGaluyot #TechiyatHaMetim #Maimonides #Isaiah #大同 #儒家 #救世主 #JewishPhilosophy #BigQuestions #Hope #Prophecy #TempleMount #WorldToCome
-
----

@@ -1,5 +1,7 @@
 # Tzaar Baalei Chaim: The Torah's Animal Welfare Laws
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese brushstroke landscape in shan shui (山水) style showing a shepherd gently tending to animals in a peaceful valley. In the foreground, a man helps an overburdened donkey carrying supplies, while nearby, sheep graze peacefully. The scene includes rolling hills with sparse pine trees, rendered in traditional ink wash technique with muted earth tones — soft grays, browns, and hints of sage green. The composition conveys compassion, gentleness, and the harmonious relationship between humans and animals. Mood: contemplative, peaceful, emphasizing kindness to all living creatures.
 
 ---
@@ -196,5 +198,3 @@ These aren't abstract philosophical questions. They're the daily practice of *tz
 ## Tags
 
 #TzaarBaaleiChaim #AnimalWelfare #JewishLaw #Compassion #Halacha #PracticalHalacha #JewishEthics #Shechita #KosherSlaughter #PetOwnership #FactoryFarming #MoralRefinement #Stewardship #动物福利 #仁 #DailyPractice #BiblicalLaw #TalmudWisdom #ContemporaryJudaism #LivingJewishly
-
----

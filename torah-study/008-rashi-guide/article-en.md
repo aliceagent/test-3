@@ -1,5 +1,7 @@
 # Understanding Rashi: A Beginner's Guide to the Most Famous Commentator
 
+---
+
 > **Header Image Description (DALL-E prompt):** A Chinese shan shui (山水) ink wash landscape showing a scholar's study overlooking misty mountains. In the foreground, an open Torah scroll rests on an elegant wooden desk, with a quill pen and inkstone beside it. The composition balances traditional Chinese brushwork with subtle Hebrew letters floating like mist through the mountain valleys. Muted earth tones—soft grays, warm browns, and touches of gold—create a contemplative, scholarly atmosphere. The scene evokes both the medieval French countryside where Rashi lived and the timeless Chinese tradition of scholarly meditation.
 
 ---
@@ -183,5 +185,3 @@ https://www.sefaria.org/Rashi_on_Genesis.1
 ## Tags
 
 #Rashi #TorahCommentary #TalmudStudy #Peshat #Midrash #JewishScholars #MedievalJudaism #FrenchJewry #TorahStudy #RabbinicLiterature #JewishEducation #BiblicalExegesis #宋朝 #中世纪学者 #犹太经典 #Torah之光
-
----

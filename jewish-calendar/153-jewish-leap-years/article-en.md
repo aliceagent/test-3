@@ -1,5 +1,7 @@
 # Leap Years in the Jewish Calendar: Adding a Whole Month
 
+---
+
 > **Header Image Description (DALL-E prompt):** Traditional Chinese shan shui (山水) ink wash painting showing a circular astronomical diagram floating in misty clouds, with Hebrew and Chinese characters spiraling around it. Ancient scrolls unfurl at the edges, and a crescent moon transforms into a full moon across the composition. Muted greys, blues, and soft gold accents for the highlighted months. Contemplative, scholarly mood in Song Dynasty painting style with scientific instruments rendered in classical Chinese artistic style.
 
 ---
@@ -107,5 +109,3 @@ The extra month of Adar teaches us that sacred timing requires patient calculati
 ## Tags
 
 #JewishCalendar #LeapYear #AdarII #MetonicCycle #LunarCalendar #SolarCalendar #HillelII #Intercalation #闰月 #ChineseCalendar #汉朝 #HanDynasty #春秋 #AstronomicalWisdom #JewishTime
-
----

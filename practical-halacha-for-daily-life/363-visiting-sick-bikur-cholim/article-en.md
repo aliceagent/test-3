@@ -1,5 +1,7 @@
 # Visiting the Sick (Bikur Cholim): One of Judaism's Greatest Mitzvot
 
+---
+
 > **Header Image Description (DALL-E prompt):** Traditional Chinese ink wash (水墨) landscape depicting a serene bedroom scene with soft morning light filtering through a latticed window. A visitor sits beside a resting figure, bringing a basket of fruit. Delicate brushstrokes suggest warmth and connection. Muted earth tones with touches of soft blue and green. The composition conveys quiet compassion and healing presence. Style: classical shan shui (山水) with subtle human elements, contemplative mood.
 
 ---
@@ -154,5 +156,3 @@ But perhaps the deepest reward is intangible: the awareness that you've particip
 ## Tags
 
 #BikurCholim #VisitingTheSick #Mitzvah #Compassion #Chesed #Healing #PracticalHalacha #Community #Prayer #MiSheberach #Talmud #Rambam #仁 #孝 #身心合一 #JewishEthics #DailyLife
-
----

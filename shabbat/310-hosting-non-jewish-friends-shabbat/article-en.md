@@ -1,5 +1,7 @@
 # Hosting Non-Jewish Friends for Shabbat Dinner: A Guide
 
+---
+
 > **Header Image Description (DALL-E prompt):** A warm Chinese brushstroke landscape in traditional shan shui style depicting a glowing home on a hillside at dusk. Through the illuminated windows, silhouettes of people gathered around a table are visible. The scene uses soft ink washes in warm earth tones — burnt sienna, amber, and deep indigo for the twilight sky. In the foreground, a winding path leads to the home, symbolizing invitation and welcome. Two candles glow in one window, rendered with delicate gold highlights. The composition evokes intimacy, hospitality, and the meeting of different worlds. Style: contemplative, serene, with subtle details suggesting both Jewish and universal hospitality traditions.
 
 ---
@@ -275,5 +277,3 @@ Hosting non-Jewish friends for Shabbat isn't about conversion or performance. It
 ## Tags
 
 #Shabbat #Hospitality #HachnasatOrchim #Kiddush #ChallahBread #ShabbatDinner #JewishCulture #CulturalBridge #ChineseJewishDialogue #好客 #安息日 #犹太传统 #ShabbatShalom #InterfaithFriendship #TorahWisdom
-
----

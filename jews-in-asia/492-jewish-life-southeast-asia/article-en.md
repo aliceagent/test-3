@@ -1,6 +1,7 @@
 # Jewish Life in Singapore, Hong Kong, and Southeast Asia Today
 
-**Section: Jews in Asia**
+
+---
 
 While Asia is home to the world's smallest Jewish populations, vibrant Jewish communities thrive in cities across Southeast Asia. For travelers, expatriates, and local Jews, these communities offer synagogues, kosher food, holiday celebrations, and educational programs—proof that Jewish life can flourish anywhere committed Jews build it.
 

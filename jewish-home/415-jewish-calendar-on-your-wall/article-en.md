@@ -1,5 +1,7 @@
 # The Jewish Calendar on Your Wall: Structuring the Year at Home
 
+---
+
 In most modern homes, a calendar hangs on the kitchen wall or lives on a smartphone—a grid marking appointments, birthdays, and deadlines. For a Jewish home, the calendar is something more: it's a spiritual roadmap, a rhythm connecting the family to thousands of years of history, and a framework that transforms time itself into something sacred.
 
 Hanging a Jewish calendar in your home—and actually using it—is one of the simplest yet most transformative steps in building a Jewish life.

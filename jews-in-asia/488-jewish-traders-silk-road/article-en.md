@@ -1,5 +1,7 @@
 # Jewish Traders on the Silk Road: Commerce, Culture, and Connection
 
+---
+
 Long before globalization became a buzzword, before multinational corporations and air travel, a network of trade routes connected East and West across thousands of miles—the legendary Silk Road. Along these routes, caravans carried silk from China, spices from India, precious metals from Central Asia, and ideas from every corner of the known world.
 
 Among the merchants, missionaries, and adventurers who braved these routes were Jews—traders who established communities from Persia to China, creating a commercial and cultural bridge between civilizations. Their story reveals a chapter of Jewish history often overshadowed by European narratives but equally rich in adventure, achievement, and cultural synthesis.
@@ -178,7 +180,3 @@ For Chinese readers, this history offers a different perspective on Jewish-Chine
 For Jews worldwide, it's a reminder that Jewish history is global history, that our ancestors traveled the world's most challenging routes, and that the Jewish capacity to maintain identity while engaging diverse cultures has deep historical roots.
 
 The Silk Road may have faded as a commercial route, but the story of the Jews who traveled it continues to inspire—a tale of courage, adaptability, and the enduring human drive to connect across boundaries of geography, culture, and faith.
-
----
-
-*Section: Jews in Asia*

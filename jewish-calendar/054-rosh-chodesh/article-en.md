@@ -1,4 +1,6 @@
 # Rosh Chodesh: Celebrating the New Month
+---
+
 # 新月节：庆祝新的月份
 
 > **Header Image Description (DALL-E prompt):** A Chinese shan shui (山水) ink wash landscape under a delicate crescent moon rising above misty mountain peaks. In the foreground, ethereal figures in traditional robes gather by a reflective pool, their faces turned upward toward the new moon. Soft moonlight creates gentle silver highlights on the water and mountain silhouettes. The composition features traditional ink brush strokes with subtle gradations from deep blacks to pale grays, with a touch of silver highlighting the crescent moon. The mood is serene, contemplative, and filled with quiet renewal — capturing the essence of monthly rebirth and feminine spirituality.

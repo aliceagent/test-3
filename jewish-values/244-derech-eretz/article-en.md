@@ -1,4 +1,6 @@
 # Derech Eretz: Good Manners Before Torah
+---
+
 # 礼仪先于律法：德里奇·艾雷茨
 
 > **Header Image Description (DALL-E prompt):** Traditional Chinese shan shui (山水) ink wash landscape depicting a serene courtyard garden with a traditional study pavilion. In the foreground, two scholars bow respectfully to each other before entering the study hall, one elder and one younger. Cherry blossoms gently fall around them. The scene blends elements of a traditional Chinese scholar's garden with subtle Middle Eastern architectural details (arched doorways). Muted earth tones with soft pink cherry blossoms and deep indigo robes. Mood: reverent, contemplative, emphasizing respect and humility in the pursuit of wisdom.
@@ -195,5 +197,3 @@ In doing so, you'll discover that the ancient sages were right: Good manners don
 ## Tags
 
 #DerechEretz #JewishEthics #GoodManners #Torah #Mussar #礼 #Confucianism #EthicsBeforeReligion #Hillel #CharacterDevelopment #JewishValues #PirkeiAvot #Respect #Integrity #CrossCulturalWisdom
-
----

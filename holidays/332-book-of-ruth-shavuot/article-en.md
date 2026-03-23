@@ -1,5 +1,7 @@
 # The Book of Ruth on Shavuot: Why This Story on This Holiday?
 
+---
+
 > **Header Image Description (DALL-E prompt):** A Chinese brushstroke landscape in shan shui (山水) style depicting rolling wheat fields in the foreground with golden harvest stalks swaying gently, transitioning into distant misty mountains. A lone female figure in flowing robes walks through the fields carrying bundled grain sheaves. The composition uses soft earth tones—ochre, sienna, jade greens—with delicate ink wash techniques. Mount Sinai rises ethereally in the background with subtle lightning suggesting divine revelation. The mood is serene yet purposeful, combining agricultural abundance with spiritual elevation. Traditional Chinese seal stamps in the corners.
 
 ---
@@ -157,5 +159,3 @@ This Shavuot, when you hear Ruth's story, remember: you too are standing at Sina
 ## Tags
 
 #Shavuot #BookOfRuth #Conversion #Chesed #KingDavid #MessianicLineage #Harvest #TorahAcceptance #LovingKindness #Moabites #Boaz #Naomi #Holidays #周朝 #商朝 #Tikkun #仁
-
----

@@ -1,4 +1,6 @@
 # The Kuzari: A King's Search for Truth
+---
+
 # הכוזרי: חיפוש המלך אחר האמת  
 # 《哈萨尔之书》:国王的真理探索
 
@@ -326,5 +328,3 @@ The king of the Khazars began with a dream and ended with a decision that transf
 ## Tags
 
 #Kuzari #JudahHalevi #JewishPhilosophy #Revelation #MountSinai #Prophecy #Khazars #ChosennessOfIsrael #LandOfIsrael #JewishHistory #Mesorah #Conversion #InterfaithDialogue #JewishApologetics #Torah #Mitzvot #GodOfAbraham #PhilosophyVsRevelation #PublicRevelation #JewishTexts #Particularism #Universalism #犹太哲学 #哈萨尔 #启示 #西奈山 #预言 #犹太历史 #传统链 #皈依犹太教 #הכוזרי #יהודה_הלוי #פילוסופיה_יהודית #נבואה #הר_סיני
-
----

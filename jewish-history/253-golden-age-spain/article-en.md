@@ -1,4 +1,6 @@
 # The Golden Age of Spain: When Jews Thrived Under Muslim Rule
+---
+
 # 西班牙黄金时代:犹太人在穆斯林统治下的繁荣
 
 > **Header Image Description (DALL-E prompt):** A serene Chinese brushstroke landscape in the shan shui (山水) style depicting a medieval Iberian city on rolling hills. In the foreground, scholars of different faiths gather in a peaceful garden, studying scrolls and manuscripts together. The architecture blends Moorish arches with traditional Chinese pavilion elements. The scene features olive trees rendered in delicate ink wash, a distant minaret-like tower, and warm earth tones of ochre, sepia, and soft gold. The mood is contemplative and harmonious, suggesting cultural flowering and intellectual exchange. Mist gently obscures the background mountains, creating depth and tranquility.
@@ -234,5 +236,3 @@ What does the golden age teach us about being Jewish in the modern world?
 ## Tags
 
 #GoldenAge #Al-Andalus #SpanishJewry #IslamicSpain #MuslimJewishRelations #Maimonides #JudahHalevi #HebrewPoetry #JewishPhilosophy #Dhimmi #MedievalHistory #JewishHistory #Convivencia #唐朝 #宋朝 #TangDynasty #SongDynasty #CulturalFlourishing #Tolerance #Coexistence #ReligiousFundamentalism #Almoravids #Almohads #SamuelHaNagid #JewishGoldenAge
-
----

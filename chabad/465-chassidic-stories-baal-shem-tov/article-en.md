@@ -2,6 +2,8 @@
 
 ## Five Beloved Stories That Illustrate Core Teachings About Joy, Faith, and Hidden Holiness
 
+---
+
 Stories are the lifeblood of Chassidic Judaism. While scholars study texts and philosophers construct systems, Chassidim tell stories—simple, memorable tales that convey profound truths in ways that touch the heart, not just the mind. These stories have been passed down for generations, told around Shabbat tables, at gatherings (farbrengens), and to children before bed. They're teaching tools, sources of inspiration, and windows into a worldview that sees divine sparks hidden in everything.
 
 The most beloved stories center on Rabbi Israel Baal Shem Tov (1698-1760), the founder of the Chassidic movement. Known simply as the Besht (an acronym of Baal Shem Tov, meaning "Master of the Good Name"), he revolutionized Judaism with a simple yet radical message: God can be found everywhere, every person has value, and joy is the highest form of worship. His life was filled with miracles, mystical insights, and encounters that revealed the divine in the ordinary.

@@ -1,5 +1,7 @@
 # The Shofar: How a Ram's Horn Wakes Up Your Soul
 
+---
+
 *Header Image: A curved ram's horn (shofar) resting on an ornate white and gold prayer shawl, with golden autumn leaves scattered around, symbolizing the High Holy Days season and spiritual awakening.*
 
 ## Introduction

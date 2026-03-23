@@ -2,6 +2,8 @@
 
 ## Introduction
 
+---
+
 In Jewish thought, there is one character trait so fundamental that the Talmud teaches the entire world stands upon it: *chesed* (חסד), often translated as loving-kindness or benevolence. Unlike charity, which focuses on giving material goods, chesed encompasses a broader sphere of compassionate action—helping others through kindness, time, emotional support, and physical presence.
 
 The word *chesed* appears hundreds of times in the Hebrew Bible, describing both God's relationship with humanity and the ideal human relationship with others. To understand chesed is to grasp one of Judaism's most essential values, a trait that transforms individuals and sustains communities.

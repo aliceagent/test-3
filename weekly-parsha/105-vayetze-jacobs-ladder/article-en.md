@@ -1,5 +1,7 @@
 # Vayetze: Jacob's Ladder and the Connection Between Heaven and Earth
 
+---
+
 > **Header Image Description (DALL-E prompt):** A traditional Chinese ink wash (水墨) landscape painting in shan shui (山水) style, depicting a ethereal stone stairway winding up through layered mountains and mist toward heaven. Angels with flowing robes ascend and descend the misty stairway, rendered in delicate brushstrokes reminiscent of Tang Dynasty art. The composition features dramatic vertical movement with soft earth tones of grey, brown, and muted gold, capturing a serene yet mystical mood. Pine trees cling to rocky outcrops, and wispy clouds partially obscure the upper reaches of the celestial stairway. The scene evokes both the biblical ladder to heaven and the Chinese concept of connecting earthly and divine realms.
 
 ---

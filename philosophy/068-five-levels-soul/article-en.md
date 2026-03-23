@@ -1,5 +1,7 @@
 # The Jewish Soul: Five Levels of the Neshamah
 
+---
+
 > **Header Image Description (DALL-E prompt):** A Chinese brushstroke (水墨) landscape painting showing five ascending mountain peaks shrouded in mist, each peak glowing with increasingly radiant light from earthly amber at the lowest peak to transcendent white-gold at the highest. A single winding path connects all five summits. Traditional shan shui (山水) style with subtle gradations of ink wash, flowing water at the base, wisps of cloud between peaks. Serene and contemplative mood with muted earth tones (brown, grey, soft blue) and luminous golden accents at the highest peaks. Symbolizes the five levels of the soul ascending toward divine unity.
 
 ---

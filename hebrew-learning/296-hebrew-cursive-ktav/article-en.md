@@ -1,5 +1,7 @@
 # Hebrew Handwriting: Learning Ktav (Cursive Script)
 
+---
+
 > **Header Image Description (DALL-E prompt):** A traditional Chinese ink wash landscape in serene earth tones, featuring a scholarly study room with an open window overlooking misty mountains. On a wooden desk, a hand holding a calligraphy brush writes flowing Hebrew cursive letters on parchment, the letters appearing to float and dance like wisps of smoke. The composition blends Chinese scholarly aesthetics with Hebrew script, showing scrolls with both Chinese characters and Hebrew ktav in the background. Muted grays, warm beiges, and soft blacks dominate, with touches of deep blue ink. The mood is contemplative and meditative, celebrating the art of handwritten language.
 
 ---

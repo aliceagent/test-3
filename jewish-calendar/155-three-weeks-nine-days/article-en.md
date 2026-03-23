@@ -1,5 +1,7 @@
 # The Three Weeks and Nine Days: From 17 Tammuz to Tisha B'Av
 
+---
+
 *Header Image: A somber image showing the Western Wall in Jerusalem at twilight, with people in prayer shawls standing before the ancient stones, symbolizing mourning and remembrance for the destroyed Temples.*
 
 ## The Escalating Journey of Mourning

@@ -1,5 +1,7 @@
 # Jewish Bookshelf Essentials: What Every Home Should Have
 
+---
+
 Walk into a traditional Jewish home, and you'll likely find a bookshelf—or several—filled with sacred texts, some worn from use, some pristine and waiting, some inherited from grandparents who brought them across oceans. This library isn't decorative; it's a working collection, consulted for daily prayers, holiday preparations, life cycle events, and study.
 
 But if you're just starting to build a Jewish home, what books do you actually need? Which are essential, which are helpful, and how can you build this library affordably, especially in places like China where Jewish books may be hard to find?

@@ -1,5 +1,7 @@
 # Hamantaschen: The Classic Purim Cookie and Its Symbolism
 
+---
+
 > **Header Image Description (DALL-E prompt):** Traditional Chinese ink wash (水墨) landscape featuring a scholar's study table arranged for a spring celebration. In the foreground, a wooden tray holds three-cornered pastries arranged like lotus blossoms, their edges golden-brown and centers filled with dark preserves and light bean paste. Delicate plum branches with early blooms frame the upper corners. Soft scroll paintings depicting the story of Esther hang on silk in the background. The color palette is warm earth tones—amber, sepia, soft rose—with subtle touches of gold leaf. The mood is festive yet contemplative, celebrating wisdom and joy. Rendered in shan shui (山水) style with fine brushwork details.
 
 ---
@@ -203,5 +205,3 @@ There are fascinating parallels between Purim and certain Chinese holidays:
 ## Tags
 
 #Purim #Hamantaschen #JewishHolidays #MishloachManot #BookOfEsther #Haman #Esther #Mordechai #JewishFood #Baking #RedBean #Matcha #BlackSesame #豆沙 #抹茶 #黑芝麻 #战国时代 #HiddenMiracles #TriangularCookie #JewishCooking
-
----

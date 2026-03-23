@@ -1,6 +1,7 @@
 # Jewish Resilience: How the Jewish People Survived 2,000 Years of Persecution
 
-**Section: Antisemitism**
+
+---
 
 The survival of the Jewish people is one of history's most remarkable stories. For over two millennia, Jews have faced expulsion, forced conversion, inquisition, pogroms, and ultimately genocide — yet they remain a vibrant, thriving people. How did this small nation endure when countless empires that persecuted them have crumbled to dust? The answer lies in four interconnected pillars: faith, community, law, and hope.
 

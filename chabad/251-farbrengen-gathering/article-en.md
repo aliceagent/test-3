@@ -1,5 +1,7 @@
 # Farbrengen: The Chassidic Gathering That Transforms
 
+---
+
 > **Header Image Description (DALL-E prompt):** Traditional Chinese shan shui (山水) ink wash landscape showing a serene gathering space — perhaps a pavilion or open clearing by moonlight, where silhouettes of people sit in a circle around a simple table. Wisps of steam rise from tea cups or small flames from candles. The brushwork is loose and expressive, capturing the sense of intimate connection and spiritual elevation. Muted grays, deep blues, and warm amber accents. The mood is contemplative yet joyful, with subtle energy flowing between the gathered figures. Mountains fade into mist in the background, symbolizing transcendence.
 
 ---

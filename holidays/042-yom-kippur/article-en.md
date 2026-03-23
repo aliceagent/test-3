@@ -1,5 +1,7 @@
 # Yom Kippur: The Holiest Day of the Year
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese ink wash (水墨) landscape in the shan shui (山水) style depicting a solitary figure in white robes standing on a mountain peak at dawn, surrounded by misty clouds. Below, a river flows through valleys representing the year past. Above, the sky transitions from deep indigo to soft morning light, symbolizing spiritual purification and renewal. The composition uses muted grays, whites, and subtle touches of gold in the emerging sunlight. The mood is deeply contemplative and sacred, with empty space (留白) emphasizing solitude and introspection.
 
 ---

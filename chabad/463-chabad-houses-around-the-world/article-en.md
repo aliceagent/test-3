@@ -2,6 +2,8 @@
 
 ## How Chabad Emissaries Established Centers in Over 100 Countries—Including China
 
+---
+
 In a small apartment in Kathmandu, Nepal, a young couple serves Shabbat dinner to Israeli backpackers who've just finished trekking the Himalayas. In Beijing, a rabbi leads a Passover Seder for businesspeople, diplomats, and students from around the world. In a rural town in Montana, USA, a family opens their home every Friday night to the only other Jewish family within 200 miles. What connects these seemingly disparate scenes? They're all Chabad Houses—a global network of Jewish centers that has revolutionized how Judaism reaches Jews wherever they are.
 
 Today, there are over 5,000 Chabad institutions in more than 100 countries, run by over 5,000 emissary couples (shluchim and shluchos) who have dedicated their lives to serving Jewish communities worldwide. This remarkable network, all traceable to the vision of one leader—the Lubavitcher Rebbe, Rabbi Menachem Mendel Schneerson—represents one of the most successful grassroots religious movements in modern history.

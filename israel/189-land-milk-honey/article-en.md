@@ -1,5 +1,7 @@
 # The Land of Milk and Honey: What the Torah Means
 
+---
+
 The phrase "land flowing with milk and honey" appears repeatedly in the Torah — more than twenty times. God uses these words when promising the Land of Israel to the Jewish people. But what exactly does this phrase mean? Why milk and honey specifically? And what deeper message lies beneath this beautiful description?
 
 ## The Promise Itself

@@ -1,5 +1,7 @@
 # Sephardi Chamin and Dafina: Shabbat Stews from the Mediterranean
 
+---
+
 > **Header Image Description (DALL-E prompt):** A traditional Chinese shan shui landscape rendered in warm ochre, saffron yellow, and deep amber tones. In the foreground, a clay cooking pot rests on glowing embers beneath a starlit Middle Eastern sky, with wisps of aromatic steam rising into the night. The background shows rolling Mediterranean hills dotted with olive trees in Chinese brushstroke style. The composition evokes warmth, patience, and the slow passage of time. The mood is contemplative and aromatic, with a golden glow emanating from the pot suggesting the treasure within. Traditional ink wash technique with selective warm color accents.
 
 ---
@@ -237,5 +239,3 @@ Having a hot meal on Shabbat—when cooking is forbidden—is considered a mitzv
 ## Tags
 
 #Shabbat #SephardiCuisine #MoroccanJewish #Chamin #Dafina #ShabbatStew #SlowCooking #KosherFood #JewishLaw #MediterraneanJewish #NorthAfricanJewish #沙巴特 #犹太美食 #慢炖 #地中海 #摩洛哥 #香料 #米饭 #鸡豆
-
----

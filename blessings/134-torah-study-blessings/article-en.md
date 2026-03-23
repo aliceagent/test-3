@@ -1,5 +1,7 @@
 # Birchot HaTorah: The Sacred Blessings of Torah Study
 
+---
+
 > **Header Image Description (DALL-E prompt):** Traditional Chinese shan shui (山水) ink landscape featuring an ancient study pavilion nestled on a mountainside, with scrolls and books visible through open windows. Morning light streams through mist, illuminating the pages. Rendered in gentle ink wash with deep blacks, soft grays, and warm golden amber for the sunrise. A winding path leads up the mountain toward the pavilion, symbolizing the journey of learning. Distant peaks fade into clouds. Mood: serene contemplation, sacred study, the sweetness of wisdom. The composition emphasizes elevation — physically climbing toward knowledge and spiritually ascending through learning.
 
 ---
@@ -136,5 +138,3 @@ This humility paradoxically empowers us. If Torah wisdom comes ultimately from G
 ## Tags
 
 #BirchotHaTorah #TorahStudy #Blessings #Learning #Mitzvah #Talmud #Kavanah #Sweetness #DivineWisdom #JewishEducation #MorningPrayers #商朝 #三国 #晋朝 #唐朝 #君子 #儒家 #读书
-
----

@@ -1,5 +1,7 @@
 # Making Kosher Chinese Food: A Complete Guide
 
+---
+
 > **Header Image Description (DALL-E prompt):** Traditional Chinese ink wash (水墨) landscape in shan shui (山水) style showing a serene mountain valley with a small traditional home, wisps of cooking smoke rising from the chimney. In the foreground, a peaceful river with floating lotus leaves. Mid-ground features a simple wooden table set with steaming dishes and chopsticks, surrounded by plum blossoms. Muted earth tones (gray, soft brown, touches of red and green), contemplative and warm mood, suggesting the harmony of bringing two ancient culinary traditions together.
 
 ---
@@ -358,5 +360,3 @@ So fire up that wok, invite your family into the kitchen, and create memories ar
 ## Tags
 
 #KosherFood #ChineseCuisine #KosherKitchen #Kashrut #ShabbatMeals #犹太洁食 #中餐 #文化融合 #饮食法规 #家庭料理 #TorahDietaryLaws #CulturalBridge #HomeCooking #JewishCooking #AsianFusion
-
----

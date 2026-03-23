@@ -1,5 +1,7 @@
 # Starting a Jewish Community Where None Exists
 
+---
+
 You're Jewish—or converting, or married to a Jew, or deeply connected to Judaism—and you live in a city with no organized Jewish community. Maybe you're in a tier-two Chinese city, a remote area of Southeast Asia, or anywhere the Jewish population is sparse or scattered. You feel isolated. You wonder: Can I maintain Jewish life here? Can I create community where none exists?
 
 The answer is yes. Throughout history, small groups of Jews in unlikely places have built thriving communities from nothing. You can too. It requires vision, effort, and patience—but it's absolutely possible.

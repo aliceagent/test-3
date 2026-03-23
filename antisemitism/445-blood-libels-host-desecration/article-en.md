@@ -1,6 +1,7 @@
 # Blood Libels and Host Desecration: The Medieval Lies That Killed Thousands
 
-*Section: Antisemitism*
+
+---
 
 In 1144, in the English town of Norwich, a twelve-year-old boy named William disappeared during Easter week. His body was found in the woods days later. The local monks, led by a man named Thomas of Monmouth, began circulating an extraordinary claim: the Jews of Norwich had murdered William in a ritual reenactment of the crucifixion of Jesus, using his blood for religious purposes.
 

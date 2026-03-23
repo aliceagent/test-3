@@ -1,5 +1,7 @@
 # Paying Workers on Time: A Torah Obligation
 
+---
+
 > **Header Image Description (DALL-E prompt):** A Chinese brushstroke ink wash (水墨画) landscape showing a peaceful village workshop scene at sunset. In the foreground, a merchant respectfully hands a small pouch of coins to a craftsman who has just finished his day's work. The scene is rendered in traditional shan shui style with soft earth tones—sepia, ochre, and subtle blue-grays. Cherry blossom branches frame the top of the composition. In the background, misty mountains fade into the distance, and small figures can be seen traveling home along a winding path. The mood is serene and honorable, emphasizing the dignity of labor and the integrity of fair payment. The style evokes Song Dynasty (宋朝) painting traditions with delicate brushwork and atmospheric perspective.
 
 ---

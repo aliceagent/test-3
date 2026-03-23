@@ -1,5 +1,7 @@
 # Converting Dates: How to Find Your Hebrew Birthday
 
+---
+
 When you first begin exploring Judaism, one of the most fascinating discoveries is that you actually have *two* birthdays: the one you've celebrated your whole life on the Gregorian calendar, and another one on the Hebrew calendar that you've never even known about. This Hebrew birthday isn't just a curiosity—it holds deep spiritual significance in Jewish tradition and becomes an important milestone to observe as you deepen your Jewish practice.
 
 ## Why Your Hebrew Birthday Matters

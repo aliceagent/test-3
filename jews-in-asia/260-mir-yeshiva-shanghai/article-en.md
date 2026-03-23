@@ -1,5 +1,7 @@
 # The Mir Yeshiva's Miraculous Journey Through Shanghai
 
+---
+
 > **Header Image Description (DALL-E prompt):** A Chinese brushstroke (shan shui 山水) style landscape depicting Shanghai's Bund waterfront in the 1940s, rendered in traditional ink wash technique. In the foreground, a group of scholarly figures in dark coats carrying books walk along the riverfront, their forms suggested rather than detailed. Behind them, the iconic colonial buildings of the Bund rise in misty silhouette. A traditional Chinese junk boat shares the Huangpu River with a modern steamship, symbolizing the meeting of cultures. The sky shows dawn breaking through morning mist. Color palette: deep charcoal blacks, soft grays, hints of sepia and pale gold. Mood: contemplative, hopeful, emphasizing refuge and continuity of learning amid displacement.
 
 ---

@@ -1,5 +1,7 @@
 # The Niggun: Chassidic Melodies That Elevate the Soul
 
+---
+
 > **Header Image Description (DALL-E prompt):** A Chinese shan shui (山水) landscape in traditional ink wash style showing a mountain peak reaching through morning mist toward golden dawn light above. In the foreground, subtle ripples on still water reflect the mountains, suggesting sound waves and musical vibrations. The composition flows upward in spiraling curves, echoing musical movement. Muted grays and blacks with touches of soft gold in the sky. Mood: transcendent, uplifting, spiritual ascent through pure form.
 
 ---
@@ -237,5 +239,3 @@ You don't need to be Chassidic—or even Jewish—to experience the power of a n
 ## Tags
 
 #Niggun #ChassidusMusic #BaalShemTov #AlterRebbe #Chabad #SoulSong #Meditation #CommunalSinging #JewishMysticism #Farbrengen #清朝 #音樂修身 #ניגון #חסידות
-
----

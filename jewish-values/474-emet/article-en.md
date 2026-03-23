@@ -1,8 +1,9 @@
 # Emet: Truth-Telling as a Jewish Value
 
-**Section: Jewish Values**
 
 ## Introduction: The Seal of God
+
+---
 
 The Talmud makes a striking statement: **"The seal of the Holy One, blessed be He, is truth (*emet*)"** (Shabbat 55a).
 

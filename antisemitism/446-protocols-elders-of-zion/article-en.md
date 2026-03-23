@@ -1,6 +1,7 @@
 # The Protocols of the Elders of Zion: The Most Dangerous Forgery in History
 
-*Section: Antisemitism*
+
+---
 
 In 1903, a Russian newspaper published a sensational document claiming to reveal a secret Jewish conspiracy to control the world. Titled "The Protocols of the Elders of Zion," it purported to be the minutes of secret meetings where Jewish leaders outlined their plan to destroy Christian civilization, manipulate economies, control governments, and establish a Jewish world empire.
 

@@ -1,8 +1,9 @@
 # Hachnassat Kallah: Helping a Bride and Groom — The Ultimate Chesed
 
-**Section: Jewish Values**
 
 ## Introduction: Greater Than Welcoming the Divine Presence
+
+---
 
 The Talmud tells an astonishing story about Rabbi Tarfon, a sage of the first century CE:
 

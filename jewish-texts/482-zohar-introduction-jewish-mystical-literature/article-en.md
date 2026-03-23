@@ -1,5 +1,7 @@
 # The Zohar: An Introduction to Jewish Mystical Literature
 
+---
+
 In the history of Jewish thought, few books have sparked as much fascination, controversy, and devotion as the Zohar. Called the "Book of Radiance" or "Book of Splendor," the Zohar is the central text of Kabbalah—Jewish mysticism. For centuries, it has been studied in secret, whispered about in awe, and treated as a gateway to the hidden dimensions of Torah and reality itself.
 
 But what exactly is the Zohar? Who wrote it? And what does it teach? For readers encountering this mystical masterpiece for the first time, these questions open a door to one of Judaism's most profound and mysterious traditions.
@@ -83,7 +85,3 @@ The Zohar represents Judaism's mystical heart—the tradition's insistence that 
 For Chinese readers encountering the Zohar, parallels might be drawn with Daoist mystical texts or Buddhist explorations of consciousness and reality. Like these traditions, the Zohar speaks of hidden dimensions, subtle energies, and the interconnection of all things. Yet it remains distinctly Jewish—rooted in Torah, expressed through commandments, and aimed at sanctifying this world rather than escaping it.
 
 The "Book of Radiance" continues to shine, illuminating Jewish spirituality with its vision of a world charged with divine presence, waiting to be revealed by those who seek with open hearts and awakened minds.
-
----
-
-*Section: Jewish Texts*

@@ -1,5 +1,7 @@
 # Checking Tefillin and Mezuzot: When and How Often
 
+---
+
 > **Header Image Description (DALL-E prompt):** A serene Chinese brushstroke (水墨) scene depicting a traditional scholar's study. In the foreground, an ancient wooden desk holds carefully unrolled parchment scrolls with Hebrew letters, beside traditional writing implements. Through a circular moon gate window, a misty mountain landscape is visible. The composition uses muted ink tones — deep blacks, warm sepias, and soft grays — with delicate touches of vermillion red on scroll ribbons. The mood is contemplative and reverent, emphasizing the sacred nature of preserving ancient texts. Style: traditional shan shui (山水) landscape merged with interior scholarly scene, focusing on the intersection of written word and spiritual practice.
 
 ---
@@ -317,5 +319,3 @@ Next time you pass your mezuzah or open your tefillin bag, remember: you're not 
 ## Tags
 
 #Tefillin #Mezuzah #Sofer #STaM #PracticalHalacha #DailyJewishLife #MitzvahObjects #SacredTexts #Kashrut #JewishLaw #Halacha #TefillinChecking #MezuzahChecking #JewishRituals #TorahObservance
-
----

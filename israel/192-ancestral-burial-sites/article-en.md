@@ -1,5 +1,7 @@
 # Rachel's Tomb, the Cave of Machpelah, and Other Ancestral Sites
 
+---
+
 In Judaism, certain places hold immense spiritual significance not because of magnificent architecture or ancient ruins, but because of who rests there. These are the burial sites of our patriarchs and matriarchs—the founding generation whose lives shaped the destiny of the Jewish people. For thousands of years, Jews have made pilgrimages to these locations to pray, to seek inspiration, and to connect with their spiritual roots.
 
 This isn't a uniquely Jewish impulse. Many cultures throughout history have honored the graves of their ancestors and founders. What makes the Jewish approach distinctive is the theological meaning we attach to these visits and the continuous chain of tradition that has kept these sites sacred for millennia.

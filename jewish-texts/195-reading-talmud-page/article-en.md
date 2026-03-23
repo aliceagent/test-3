@@ -1,5 +1,7 @@
 # How to Read a Page of Talmud
 
+---
+
 The first time you open a page of Talmud, you might feel overwhelmed. The text seems to spiral around itself, with multiple voices arguing across centuries, layered commentaries framing the central discussion, and an entirely foreign layout unlike any book you've ever read. This isn't a bug—it's a feature. The Talmud's unique structure reflects its essence: a living conversation across time, a record of how Jewish law and wisdom evolved through rigorous debate and analysis.
 
 This guide will help you understand what you're looking at when you open a page of Talmud, how to navigate its distinctive layout, and most importantly, how to enter this ancient conversation as an active participant rather than a confused observer.

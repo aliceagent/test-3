@@ -1,5 +1,7 @@
 # Midrash: How the Rabbis Filled in the Torah's Gaps
 
+---
+
 The Torah is famously concise. In just five books, it covers the creation of the universe, the formation of the Jewish people, and hundreds of laws that govern every aspect of life. But this brevity leaves many questions unanswered. What did Abraham think when God commanded him to sacrifice Isaac? Why did Moses break the tablets when he saw the Golden Calf? What conversations took place between Jacob and Esau before their emotional reunion?
 
 These gaps are not accidents—they're invitations. For thousands of years, Jewish sages have filled these silences with imaginative, profound, and sometimes playful interpretations called *midrash*.
@@ -75,7 +77,3 @@ Midrash is the Jewish art of reading between the lines. It takes the Torah's con
 For readers new to Judaism, midrash offers a window into the rabbinic mind: creative, questioning, devoted to tradition yet constantly innovating. It shows that Judaism is not about passively accepting what is written, but actively engaging with it—seeking, interpreting, and finding new truth in old words.
 
 The midrashic tradition teaches us that sacred texts are not meant to be sealed under glass, but held, turned over, examined from every angle, and made to speak to each generation anew. In this way, the Torah remains eternally fresh, and we become partners with our ancestors in the unending search for meaning.
-
----
-
-*Section: Jewish Texts*

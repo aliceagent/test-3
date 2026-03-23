@@ -1,6 +1,7 @@
 # Jews in Japan: From Meiji-Era Traders to the Fugu Plan
 
-**Section: Jews in Asia**
+
+---
 
 The story of Jews in Japan is one of the most unusual chapters in the Jewish diaspora—a tale of merchants, refugees, wartime intrigue, and an audacious plan to settle tens of thousands of Jews in Japanese-controlled territory. While Japan has never had a large Jewish population, the encounters between Japanese and Jewish cultures reveal fascinating attitudes, desperate survival strategies, and unexpected moments of rescue.
 

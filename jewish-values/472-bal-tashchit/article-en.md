@@ -1,8 +1,9 @@
 # Bal Tashchit: The Torah's Environmental Ethic
 
-**Section: Jewish Values**
 
 ## Introduction: A Tree in Wartime
+
+---
 
 Imagine an army laying siege to a city. Food is scarce, soldiers need resources, and the temptation to cut down fruit trees for timber or siege weapons is strong. Yet the Torah commands:
 
