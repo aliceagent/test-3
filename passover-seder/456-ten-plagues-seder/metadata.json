@@ -1,0 +1,27 @@
+{
+  "id": 456,
+  "title": {
+    "en": "The Ten Plagues at the Seder: Ritual, Memory, and Empathy",
+    "zh": "",
+    "he": ""
+  },
+  "slug": "ten-plagues-seder",
+  "section": "passover-seder",
+  "section_display": "Passover Seder",
+  "batch": "500",
+  "author": "Torah Light Project",
+  "dateCreated": "2026-03-23",
+  "languages": [
+    "en"
+  ],
+  "wordCount": {
+    "en": 2026
+  },
+  "status": "english_only",
+  "tags": [],
+  "summary": {
+    "en": "",
+    "zh": "",
+    "he": ""
+  }
+}
