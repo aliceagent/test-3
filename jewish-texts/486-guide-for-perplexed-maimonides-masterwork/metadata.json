@@ -1,0 +1,27 @@
+{
+  "id": 486,
+  "title": {
+    "en": "Guide for the Perplexed: Maimonides' Philosophical Masterwork",
+    "zh": "",
+    "he": ""
+  },
+  "slug": "guide-for-perplexed-maimonides-masterwork",
+  "section": "jewish-texts",
+  "section_display": "Jewish Texts",
+  "batch": "500",
+  "author": "Torah Light Project",
+  "dateCreated": "2026-03-23",
+  "languages": [
+    "en"
+  ],
+  "wordCount": {
+    "en": 1899
+  },
+  "status": "english_only",
+  "tags": [],
+  "summary": {
+    "en": "",
+    "zh": "",
+    "he": ""
+  }
+}
