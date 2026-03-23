@@ -1,6 +1,9 @@
 # Chinuch: Raising Children with Torah Values
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A tender shan shui ink wash painting showing a parent and young child seated together on a stone bench beneath an ancient pine tree on a mountainside, the parent pointing to an open scroll while the child listens with wide-eyed attention. Misty peaks layer into the distance behind them, and a gentle stream flows nearby with stepping stones, symbolizing the guided path of Torah education. The palette is warm and nurturing — soft ochre, moss green, and pale amber — with delicate brushwork capturing the intimacy of transmission between generations. Wildflowers grow at their feet and birds perch in the branches above.
 
 The Hebrew word *chinuch* (חינוך) means education, but it encompasses far more than academics. It refers to the entire process of raising children—shaping their character, transmitting values, teaching them to navigate the world as moral beings, and connecting them to the chain of Jewish tradition stretching back thousands of years.
 

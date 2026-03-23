@@ -1,6 +1,9 @@
 # Judaism and Islam: Shared Roots and Important Differences
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A serene shan shui ink wash painting of a vast night sky over layered misty mountains, where a crescent moon and a Star of David appear as celestial bodies casting parallel silver light across the landscape. Both symbols are rendered in delicate brushstrokes, shimmering above desert-like peaks that transition into traditional Chinese mountain forms in muted earth and sand tones. A shared oasis with date palms and flowing water rests in the valley between the mountains, reflecting both celestial symbols. Ancient scrolls and open books rest on stones beside the water, suggesting shared scriptural traditions beneath the same heavens.
 
 When Muslims and Jews meet today, they often discover surprising connections. Both communities pray facing a specific direction, avoid pork, circumcise their sons, and follow detailed dietary laws. These aren't coincidences—they reflect a shared heritage that stretches back thousands of years.
 

@@ -1,6 +1,9 @@
 # Judaism and Chinese Philosophy: Surprising Parallels
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A harmonious shan shui ink wash painting where a yin-yang symbol and a Star of David gradually merge within a swirling mist at the center of a mountain landscape, their lines dissolving into one another like ink in water. Misty peaks rise on all sides in classic Chinese brushwork with muted earth tones, while a scholar's pavilion sits beside a tranquil pond reflecting both symbols. Bamboo and pine trees frame the scene alongside subtle Torah scroll motifs woven into the rocky cliff faces. Flowing water connects all elements, suggesting the deep philosophical currents that run beneath both ancient traditions.
 
 When Chinese readers first encounter Judaism, they often find it surprisingly familiar. While the religions developed in completely different parts of the world without historical contact until recent centuries, Jewish and Chinese thought share striking parallels in ethics, family structure, education, and the relationship between heaven and earth.
 

@@ -1,6 +1,9 @@
 # Kitniyot on Pesach: Why Ashkenazim and Sephardim Eat Differently
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A playful yet thoughtful shan shui ink wash painting depicting a visual contrast between two mountain-valley scenes — one side shows bowls of rice, lentils, and legumes arranged on a rustic table surrounded by lush green fields, while the other side shows stacks of matzah on a simple stone surface with wheat fields stretching toward barren, austere peaks. A gentle river divides the two scenes but connects them at the base, and mist softens the boundary between abundance and restraint. The palette uses muted earth tones of golden grain, soft green, and warm brown, with delicate brushwork capturing the texture of each food.
 
 One of the most visible differences between Ashkenazi and Sephardi Jewish practice appears on the Passover dinner table. While both communities meticulously avoid chametz (leavened bread products made from wheat, barley, rye, oats, or spelt), Ashkenazi Jews add another layer of restriction: kitniyot — rice, beans, corn, lentils, peas, and similar legumes and grains.
 

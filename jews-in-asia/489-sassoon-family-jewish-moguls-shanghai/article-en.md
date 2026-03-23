@@ -1,6 +1,9 @@
 # The Sassoon Family: Jewish Moguls Who Built Shanghai
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A grand shan shui ink wash painting of the Shanghai Bund waterfront, with the distinctive Sassoon House and other stately buildings rising along the Huangpu River, rendered in a fusion of Art Deco architecture and classical Chinese brush technique. Misty mountains appear faintly behind the city skyline, and traditional Chinese junks share the river with modern steamships, all painted in muted tones of slate grey, warm sepia, and touches of gold. A Star of David is subtly incorporated into the architectural detailing of the grandest building's facade. The scene captures the remarkable era when the Sassoon family and other Jewish entrepreneurs helped shape modern Shanghai, bridging Eastern and Western worlds.
 
 Walk through Shanghai today and you'll see gleaming skyscrapers, luxury hotels, and a skyline that rivals New York or Hong Kong. But look closer at the historic Bund—the famous waterfront boulevard—and you'll notice elegant colonial-era buildings bearing names like "Sassoon House" and "Cathay Hotel." These architectural treasures tell the story of a remarkable Jewish family whose vision and enterprise helped transform Shanghai from a modest port into one of Asia's greatest commercial centers.
 

@@ -3,7 +3,10 @@
 
 ## Introduction: When the Law Tells Stories
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A richly imaginative shan shui ink wash painting of an elderly storyteller seated on a mossy boulder beside a winding stream, gesturing expressively as fantastical imagery swirls around him in the mist — lions, ladders reaching into clouds, foxes, and luminous angelic figures all rendered in translucent ink washes. Muted earth tones of sienna, slate, and sage dominate, with occasional warm gold highlights where the stories seem to glow with life. Distant mountains and pine forests frame the scene in classical Chinese landscape style, while a faint menorah shape emerges in the cloud formations above. The painting captures the magical, parable-rich world of the Aggadic traditions, where ancient Jewish wisdom is transmitted through wonder and narrative.
 
 The Talmud is famous for its legal debates — intricate discussions of kosher laws, Shabbat regulations, and civil jurisprudence. But scattered throughout its pages are stories, parables, ethical teachings, theological discussions, and mystical ideas that have nothing to do with legal rulings.
 

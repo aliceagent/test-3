@@ -1,6 +1,9 @@
 # The Kaifeng Jews: A Thousand Years of Jewish Life in China
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A historically evocative shan shui ink wash painting of an ancient Chinese synagogue nestled along the banks of the Yellow River, its architecture blending traditional Chinese curved rooflines with subtle Jewish design elements such as a menorah carved into the entrance gate. Misty mountains rise behind the river, and willow trees line the banks where small figures in Song Dynasty-era clothing walk toward the synagogue carrying Torah scrolls. The palette uses warm earth tones of amber, soft brown, and muted jade green, with the Yellow River rendered in flowing golden-ochre ink washes. The scene evokes a thousand years of quiet Jewish life in Kaifeng, where two ancient civilizations met and coexisted along China's great waterway.
 
 In the heart of China's Henan Province lies Kaifeng, an ancient city that was once the glorious capital of the Northern Song Dynasty. Among its historical treasures is a remarkable story largely unknown to the outside world: for over a thousand years, a Jewish community lived, thrived, and maintained their traditions in this Chinese city—a community that built magnificent synagogues, studied Torah in Chinese, and created a unique synthesis of Jewish and Chinese culture.
 

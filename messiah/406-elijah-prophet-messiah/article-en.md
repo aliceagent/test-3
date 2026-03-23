@@ -1,7 +1,10 @@
 # The Role of Elijah the Prophet in Messianic Tradition
 
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A mystical shan shui ink wash painting depicting a solitary prophetic figure in flowing robes standing at the edge of a misty mountain cliff, holding a staff aloft as wind swirls around him, with a fiery chariot faintly traced in the clouds above. Below in a valley, a traditional Seder table is set with a prominent ornate cup placed at its center, glowing with a subtle inner light. The landscape unfolds in layers of pine-covered mountains, flowing streams, and ancient stones in muted tones of charcoal, burnt sienna, and soft jade. Wisps of smoke or spirit rise from the cup toward the mountain figure, connecting the domestic ritual to the prophetic tradition.
 
 At every Passover Seder, Jewish families pour a special cup of wine for Elijah the Prophet and open the door, welcoming him in. Children watch eagerly to see if the level of wine drops—did Elijah come? This beloved tradition points to a profound belief: Elijah will return before the Messiah arrives, preparing the way for redemption.
 

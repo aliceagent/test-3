@@ -2,7 +2,10 @@
 
 ## Why the Rabbis Insisted Proper Conduct Is a Prerequisite for Torah Study—and Parallels with Chinese Li (礼)
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A scholar in flowing robes bows respectfully before a mountain gate inscribed with Hebrew letters, painted in traditional Chinese shan shui ink wash style with soft earth tones and gentle mist. Beyond the gate, sacred scrolls and books are visible on a study table beneath ancient pine trees. The scholar's posture conveys deep humility and proper conduct before the pursuit of wisdom. Flowing water passes beneath a stone bridge in the foreground, and distant mountain peaks fade into clouds, suggesting that the path of good character is the essential gateway to Torah learning.
 
 In one of Judaism's most striking teachings, the ancient rabbis declared: *"Derech eretz kadma laTorah"*—"Proper behavior preceded the Torah" (Vayikra Rabbah 9:3). The statement appears paradoxical. If Torah is divine revelation, the foundation of Jewish life, how could anything come before it? Yet this principle—that basic decent behavior, proper conduct, and good manners are prerequisites for meaningful Torah study—runs through Jewish tradition. It suggests something profound: religious learning divorced from ethical behavior and respectful conduct is not just incomplete; it's fundamentally corrupted.
 

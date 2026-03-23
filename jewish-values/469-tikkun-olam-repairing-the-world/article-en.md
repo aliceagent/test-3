@@ -2,7 +2,10 @@
 
 ## What Tikkun Olam Actually Means in Jewish Law and Mysticism—Beyond the Popular Misconception
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A pair of luminous hands gently pieces together fragments of a shattered golden vessel high atop a misty mountain, rendered in traditional Chinese shan shui ink wash style with muted earth tones and delicate gold accents. Divine light spills from the cracks as the vessel is reassembled, cascading down the mountainside and illuminating pine forests, rivers, and villages below. Each restored fragment radiates warmth into the surrounding mist. The composition evokes the Kabbalistic imagery of tikkun — sacred repair — merged with the Chinese aesthetic of harmony between heaven, earth, and humanity.
 
 If you've encountered Judaism through progressive Jewish communities, social justice organizations, or liberal synagogues, you've probably heard the phrase *tikkun olam* translated as "repairing the world" and understood as a mandate for social activism, environmentalism, and progressive causes. Many Jews today describe their commitment to human rights, poverty relief, or climate action as "doing tikkun olam." This usage is so widespread that it has become perhaps the most frequently cited Jewish concept in contemporary liberal discourse.
 

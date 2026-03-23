@@ -1,6 +1,9 @@
 # The Zohar: An Introduction to Jewish Mystical Literature
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A luminous shan shui ink wash painting of an ancient leather-bound book resting open in a mountain cave, from which brilliant rays of golden and white light emanate outward, illuminating the surrounding misty peaks, waterfalls, and pine forests in an ethereal glow. The light refracts into subtle prismatic colors at its edges, suggesting hidden mystical dimensions, while the cave itself is rendered in deep charcoal and indigo ink washes. A faint Tree of Life diagram — the kabbalistic sefirot — appears traced in the patterns of light spreading across the landscape. The scene conveys the Zohar's reputation as a radiant source of hidden wisdom, merging Jewish mystical imagery with the contemplative depth of traditional Chinese mountain-and-water painting.
 
 In the history of Jewish thought, few books have sparked as much fascination, controversy, and devotion as the Zohar. Called the "Book of Radiance" or "Book of Splendor," the Zohar is the central text of Kabbalah—Jewish mysticism. For centuries, it has been studied in secret, whispered about in awe, and treated as a gateway to the hidden dimensions of Torah and reality itself.
 

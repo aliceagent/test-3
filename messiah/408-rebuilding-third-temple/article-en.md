@@ -1,7 +1,10 @@
 # Rebuilding the Holy Temple: What Would It Look Like?
 
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A grand shan shui ink wash painting centered on a magnificent Temple structure rising from the summit of a sacred mountain, its pillars and courtyards rendered in fine architectural detail with golden accents against stone. Terraced steps ascend through layers of mist, flanked by ancient cedar and pine trees, while a great altar sends a thin column of smoke into the heavens. The surrounding landscape stretches in classic layered mountain composition with muted tones of charcoal, warm stone grey, and touches of gold leaf. Flowing water from a mountain spring feeds a mikveh pool at the Temple's base, symbolizing purity and renewal.
 
 The rebuilding of the Holy Temple in Jerusalem is central to Jewish messianic belief. It appears in daily prayers, messianic criteria, and prophetic visions. But what exactly would this Third Temple be? Where would it stand? What would happen there? And why does it matter to Jews today, especially those who've never seen a Temple?
 

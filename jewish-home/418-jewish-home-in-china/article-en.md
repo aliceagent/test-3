@@ -1,6 +1,9 @@
 # A Jewish Home in China: Practical Challenges and Creative Solutions
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A unique shan shui ink wash painting blending Chinese urban and Jewish domestic life — a modern Chinese apartment interior with a mezuzah on the door frame, a menorah on the windowsill, and Hebrew calligraphy beside a Chinese landscape scroll on the wall. Through the apartment window, a cityscape of traditional Chinese rooftops transitions into misty mountains in classic shan shui style. The palette merges muted earth tones with touches of Chinese red and Jerusalem gold, creating a warm bicultural harmony. A Shabbat table is set with both Chinese tea and challah, embodying the fusion of two ancient civilizations.
 
 Building a Jewish home is challenging anywhere in the modern world. But in China—where Jews number in the low thousands among 1.4 billion people, where kosher infrastructure is minimal, where Jewish communities are small and scattered, and where cultural and linguistic barriers can be significant—the challenges multiply.
 

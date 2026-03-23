@@ -1,7 +1,10 @@
 # The Holocaust: A Concise History for Chinese Readers
 
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A deeply somber shan shui ink wash painting of a vast, empty landscape in muted grey and earth tones, where six memorial candles burn on a stone altar at the base of barren mountains shrouded in heavy mist. The candles cast a warm but sorrowful light that barely penetrates the surrounding darkness, their flames reflected in a still, dark pool. Bare trees stand like silent witnesses on the hillsides, stripped of leaves yet still standing. A faint path leads from the memorial toward a distant horizon where the slightest suggestion of dawn appears, carrying the imperative to remember and the fragile but unextinguished hope that follows even the deepest devastation.
 
 Between 1933 and 1945, Nazi Germany and its collaborators systematically murdered six million Jews—two-thirds of Europe's Jewish population. This genocide, known as the Holocaust (or in Hebrew, the *Shoah*, meaning "catastrophe"), represents one of the darkest chapters in human history.
 

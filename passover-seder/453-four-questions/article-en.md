@@ -1,7 +1,10 @@
 # The Four Questions (Ma Nishtana): Text, Translation, and Deeper Meaning
 
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A young child sits at a low wooden table draped in white linen, raising one hand with an inquisitive expression, depicted in traditional Chinese shan shui ink wash painting style with muted earth tones and soft washes of indigo. The Seder table is set with matzah, wine cups, and a Haggadah, all rendered with fine brushwork against a backdrop of misty mountains and gently swaying pine trees. Elders in traditional robes lean forward to listen, their figures dissolving softly into the fog like scholars in a mountain retreat. Faint Hebrew characters float upward from the child's lips like wisps of cloud, merging with the mountain mist above.
 
 The Four Questions — *Ma Nishtana* in Hebrew — form one of the most recognized moments of the Passover Seder. Traditionally asked by the youngest person capable of reading them, these questions launch the telling of the Exodus story. But they are far more than a script for children; they embody a revolutionary educational philosophy that has sustained Jewish learning for millennia.
 

@@ -1,7 +1,10 @@
 # False Messiahs in Jewish History: Lessons from Shabbetai Zevi and Others
 
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A somber shan shui ink wash painting depicting broken golden crowns scattered across jagged mountain rocks, half-submerged in dark rushing waters beneath a stormy, mist-laden sky. Withered pine trees cling to crumbling cliffs, and torn banners flutter in the wind, evoking the wreckage of false hopes and deceptive claims throughout Jewish history. The palette is heavy with dark charcoal, deep indigo, and faded rust tones, with only a faint shaft of true light visible on the far horizon beyond the chaos. Shattered tablets and extinguished torches lie among the rocks as silent warnings.
 
 Throughout Jewish history, numerous individuals have claimed—or been proclaimed—as the Messiah. Most caused disappointment; some caused disaster. Understanding these false messianic movements teaches us not only about Jewish history but about human nature, the power of hope, and the criteria for authentic redemption.
 

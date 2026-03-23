@@ -1,6 +1,9 @@
 # Sephardi Shabbat: Customs, Songs, and Foods from the Mediterranean World
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A warm and aromatic shan shui ink wash painting depicting a Mediterranean-style Shabbat table set outdoors on a stone terrace overlooking misty coastal mountains and a calm sea. The table is laden with round challah, fragrant dishes in painted ceramic bowls, and ornate silver candlesticks, rendered in rich earth tones of saffron gold, terracotta, and deep olive green. Grapevines climb the terrace columns and lanterns cast warm light as family members gather in flowing garments. The distant layered mountains and pine trees anchor the scene in shan shui tradition while the Mediterranean warmth infuses every detail.
 
 Walk into a Sephardi synagogue before dawn on Shabbat morning, and you'll encounter something remarkable: a gathering of worshippers singing elaborate poetic hymns by candlelight, their melodies echoing centuries of Jewish life in Spain, Morocco, Syria, and Turkey. This is Baqashot — just one of many distinctive Sephardi Shabbat customs that have enriched Jewish life for generations.
 

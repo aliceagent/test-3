@@ -3,7 +3,10 @@
 
 ## Introduction: A Tree in Wartime
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A walled garden flourishes abundantly within a mountain valley, rendered in traditional Chinese shan shui ink wash style with lush earth tones and verdant ink washes. Fruit trees, flowing streams, and thriving plants fill the protected space, while a gentle figure tends the garden with care, leaving the edges of the field unharvested. Beyond the garden walls, misty mountains and pine forests stretch endlessly, untouched and pristine. The composition conveys the Torah's environmental ethic of stewardship and restraint, harmonized with the Chinese reverence for nature's balance and the beauty of a well-tended natural world.
 
 Imagine an army laying siege to a city. Food is scarce, soldiers need resources, and the temptation to cut down fruit trees for timber or siege weapons is strong. Yet the Torah commands:
 

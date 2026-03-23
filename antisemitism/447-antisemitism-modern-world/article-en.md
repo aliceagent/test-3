@@ -1,7 +1,10 @@
 # Antisemitism in the Modern World: From the Far Right to the Far Left
 
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A resolute shan shui ink wash painting of a large ornate shield planted firmly on a mountain ridge, its surface bearing a subtle Star of David as it stands against a wall of encroaching darkness rolling in from the horizon. The shield glows with an inner warm light in muted earth and bronze tones, pushing back the shadows that take the form of storm clouds and creeping ink. Behind the shield, a peaceful valley with homes, a synagogue, and figures going about daily life remains untouched and serene. Pine trees bend in the wind on either side but do not break, embodying steadfast resilience against the recurring darkness of hatred.
 
 Many people assume that antisemitism is primarily a problem of the far right—neo-Nazis, white supremacists, and fascist movements. While these groups are indeed antisemitic, Jew-hatred in the 21st century is far more complex. It appears across the political spectrum, takes different forms in different contexts, and has adapted to modern technologies and political movements.
 

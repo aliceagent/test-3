@@ -3,7 +3,10 @@
 
 ## Introduction: The Scale of Judgment
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A pair of balanced scales hovers above a mountain valley in traditional Chinese shan shui ink wash style with muted earth tones and gentle golden light. On one side rest dark stones representing harsh judgment, on the other side bright jade pieces representing mercy and favorable interpretation — the scales tilt gently toward the side of merit. A wise figure observes from a pine-shaded cliff, hand raised in a gesture of thoughtful deliberation. Misty rivers and layered mountain ridges stretch behind the scales, and soft light breaks through the clouds above, conveying the Jewish principle of judging others favorably within a landscape of balance and compassion.
 
 Imagine seeing your neighbor carrying expensive shopping bags home — the same neighbor who recently asked to borrow money because they couldn't pay rent. What's your first thought?
 

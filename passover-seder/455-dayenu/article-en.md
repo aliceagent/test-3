@@ -1,7 +1,10 @@
 # Dayenu: Gratitude as a Jewish Practice
 
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A grand staircase of natural stone ascends through layers of misty mountains, each step inscribed with a Hebrew word of blessing, rendered in traditional Chinese shan shui ink wash painting with muted earth tones. On each ascending level, small symbolic vignettes appear — parting waters, falling manna, a glowing mountain of revelation — growing brighter as the steps rise. Pine trees and flowing streams accompany the path upward, and a golden light breaks through the clouds at the summit. The composition conveys the cumulative joy of gratitude, with each step both sufficient and leading to something greater.
 
 "Dayenu" (דַּיֵּנוּ) — "It would have been enough for us" — is one of the most beloved songs of the Passover Seder. Its catchy melody and repetitive structure make it a favorite, especially for children. But beneath the joyful singing lies a profound meditation on gratitude, divine grace, and the Jewish art of appreciating incremental blessings. For Chinese readers encountering this song, Dayenu offers insights into how Judaism cultivates contentment without complacency.
 

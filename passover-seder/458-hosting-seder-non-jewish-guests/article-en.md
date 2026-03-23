@@ -1,7 +1,10 @@
 # Hosting a Seder for Non-Jewish Guests: Tips and Etiquette
 
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A welcoming Seder table is set in an open mountain pavilion overlooking misty valleys and pine ridges, painted in traditional Chinese shan shui ink wash style with soft earth tones. Guests of diverse backgrounds gather around the long table draped in white cloth, with matzah, wine, and Haggadot arranged carefully before each seat. The host figure stands with arms open in a gesture of warm invitation, wearing robes that blend Chinese and Jewish traditional elements. Lanterns and candles illuminate the scene against the fading twilight, as mountain mist drifts gently through the pavilion pillars.
 
 The Passover Seder is one of Judaism's most beautiful, accessible, and educational rituals. Many Jews invite non-Jewish friends, colleagues, and neighbors to experience it — and many non-Jews are curious to participate. For Chinese readers who might attend a Seder as guests, or for Jewish readers hosting Chinese friends, understanding how to navigate this cross-cultural encounter makes the experience meaningful and comfortable for everyone. This article explores how to make your Seder welcoming and educational while maintaining halachic (Jewish legal) standards.
 

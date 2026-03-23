@@ -1,6 +1,9 @@
 # Mesillat Yesharim: The Path of the Just — A Roadmap for Self-Improvement
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A meditative shan shui ink wash painting of a winding mountain path ascending through distinct stages — from a lush valley floor through misty bamboo groves, past rocky outcrops, and upward toward a radiant summit bathed in golden light. Each stage of the path is subtly marked with small stone markers bearing faint Hebrew letters, representing the progressive spiritual levels described in Mesillat Yesharim. The palette uses muted earth tones of warm brown, sage green, and soft grey, with the golden summit providing a beacon of aspiration. A lone traveler with a walking staff ascends the path with quiet determination, embodying the steady, disciplined pursuit of righteousness in Jewish ethical teaching.
 
 How do you become a better person? It's one of humanity's oldest questions, relevant across cultures and centuries. Jewish tradition offers many answers, but few as clear, systematic, and practical as Rabbi Moshe Chaim Luzzatto's *Mesillat Yesharim* (The Path of the Just).
 

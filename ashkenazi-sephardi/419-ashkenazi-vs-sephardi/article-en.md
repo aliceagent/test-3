@@ -1,6 +1,9 @@
 # Ashkenazi vs. Sephardi: Understanding the Two Great Traditions
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A sweeping shan shui ink wash painting depicting two distinct mountain paths — one winding through European pine forests and snowy peaks, the other through Mediterranean olive groves and sun-warmed hills — that gradually converge into a single river valley where they meet at a shared Torah ark beneath an ancient tree. The palette contrasts cool charcoal and blue-grey tones for the Ashkenazi path with warm ochre, terracotta, and gold for the Sephardi path, all blending harmoniously at the center. Mist connects the two landscapes, and the flowing water that joins them symbolizes the unity of Torah tradition across diverse customs.
 
 Judaism is one religion with one Torah, given to one people at one mountain. Yet walk into two different synagogues—one Ashkenazi, one Sephardi—and you might think you're witnessing two different faiths. The melodies are different, the pronunciation of Hebrew is different, some prayers are in different orders, holiday customs vary, and even the food served afterward is entirely distinct.
 

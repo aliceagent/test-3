@@ -1,6 +1,9 @@
 # Tzniut in the Home: Modesty, Privacy, and Sacred Space
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A contemplative shan shui ink wash painting depicting a serene interior space — a room with paper screen partitions, soft fabric curtains, and a simple wooden table with a lit candle and a closed prayer book. The composition conveys modest beauty and intentional privacy, with muted earth tones of warm cream, soft charcoal, and pale lavender. Beyond a latticed window, misty mountains and bamboo groves are visible but veiled, suggesting the boundary between public and private, outer and inner sanctity. The room itself feels like a sacred enclosure, quiet and dignified.
 
 When most people hear *tzniut* (צניעות), they think of modest dress—women's skirt lengths, sleeve coverage, hair covering. These are indeed part of tzniut, but they're only the surface. Tzniut is a profound Jewish value encompassing modesty, privacy, dignity, and humility—and it extends far beyond clothing into how we design our homes, conduct ourselves within them, and interact with family members.
 

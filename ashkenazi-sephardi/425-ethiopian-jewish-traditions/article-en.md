@@ -1,6 +1,9 @@
 # Ethiopian Jewish Traditions: The Beta Israel Heritage
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A striking shan shui ink wash painting depicting the Ethiopian highlands — dramatic flat-topped mountains (ambas) rendered in classic Chinese layered landscape style, with eucalyptus trees replacing pines and a thatched-roof synagogue (mesgid) nestled in the valley. Beta Israel figures in white traditional garments carry the Orit (Torah) in procession along a mountain path, while the Sigd holiday is evoked by a gathering on a high peak facing Jerusalem's direction. The palette blends muted earth tones of rich brown, terracotta, and indigo with the soft grey mists of shan shui tradition, creating a bridge between Ethiopian and East Asian artistic sensibilities.
 
 Hidden in the highlands of Ethiopia, practicing an ancient form of Judaism without knowledge of the Talmud or later rabbinical developments, the Beta Israel — Ethiopian Jews — preserved their faith in near-total isolation for centuries. Their story is one of the most remarkable in Jewish history: a community that maintained Jewish identity, biblical practices, and messianic hope while cut off from the rest of the Jewish world, and their dramatic modern journey to reconnection and immigration to Israel.
 

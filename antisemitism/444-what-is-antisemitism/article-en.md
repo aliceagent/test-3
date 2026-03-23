@@ -1,7 +1,10 @@
 # What Is Antisemitism? A Clear Definition and Historical Overview
 
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A somber yet resilient shan shui ink wash painting of a single ancient tree with deep, powerful roots standing firm on a mountainside as dark storm clouds gather and swirl overhead in heavy ink washes. The tree's trunk is scarred and weathered but its branches remain green with life, reaching upward through the oppressive darkness. Muted earth tones ground the landscape while the storm's shadows cast threatening shapes across the rocks and valleys below. Yet at the tree's base, small flowers bloom and a clear spring flows outward, suggesting that despite centuries of hatred, the living roots endure and continue to nourish new growth.
 
 Antisemitism is hatred of Jews as Jews. This simple definition conceals extraordinary complexity, because antisemitism has shape-shifted across centuries and civilizations, adapting to different cultures and ideologies while maintaining a consistent core: the idea that Jews are fundamentally different, dangerous, and deserving of hostility.
 

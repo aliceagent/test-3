@@ -1,7 +1,10 @@
 # The Synagogue: More Than a Place of Prayer
 
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A striking shan shui ink wash painting of a synagogue that blends Jewish and Chinese architectural elements, with curved Chinese rooftops supporting a Star of David at its peak, nestled among misty mountains in muted earth tones. The building sits beside a tranquil pond reflecting its unique form, with traditional Chinese moon gates leading into a courtyard where figures gather for prayer and study. Pine trees and bamboo surround the structure while Torah scrolls are visible through open windows alongside hanging Chinese lanterns. The synagogue glows with warm interior light, suggesting it serves as the heart of community life far beyond prayer alone.
 
 When most people think of a synagogue, they imagine a place where Jews gather to pray. While this is certainly true, it tells only part of the story. The synagogue — called *shul* in Yiddish, *beit knesset* (בית כנסת) in Hebrew, or *kehilla* when referring to the community itself — has always served three distinct and equally important functions in Jewish life.
 

@@ -1,6 +1,9 @@
 # The Kuzari: A Jewish King's Defense of Judaism
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A stately shan shui ink wash painting of a king seated on an elegant throne atop a terraced mountain pavilion, listening intently to a group of scholars — a rabbi, a philosopher, and a theologian — who stand before him in respectful debate. The scene is framed by ancient pine trees and cascading waterfalls, rendered in muted tones of charcoal, warm ochre, and deep green. The king wears a crown with a subtle Star of David motif, and the pavilion architecture blends Chinese and ancient Middle Eastern design elements. Scrolls and books are spread on a low table between them, and the misty mountain backdrop suggests the vast intellectual landscape being explored in their dialogue about the truth of Judaism.
 
 Imagine a king troubled by recurring dreams commanding him to seek the truth. He consults a philosopher who teaches abstract theology, but the dreams continue. He turns to a Christian, then a Muslim—each claims to possess God's true revelation. Finally, reluctantly, he summons a Jewish scholar, expecting little from a people downtrodden and dispersed. But what follows transforms not only the king but the history of Jewish thought.
 

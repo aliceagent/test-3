@@ -1,7 +1,10 @@
 # Setting Up a Kosher Kitchen from Scratch
 
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A traditional Chinese ink wash painting depicting a spacious kitchen scene rendered in shan shui style, where countertops of natural stone are clearly divided into two harmonious but separate preparation areas, marked by distinct ceramic vessels in warm red and cool blue tones. Through a wide window, misty mountains and pine forests provide a serene backdrop, grounding the domestic scene in nature. The palette uses muted earth tones of ochre, charcoal, and soft cream, with neatly arranged pots, cutting boards, and utensils suggesting careful order and intention. A small Hebrew blessing plaque hangs on the wall between the two areas, bridging the sacred and the practical.
 
 Creating a kosher kitchen can seem daunting, especially if you're new to kashrut (Jewish dietary laws) or living in a place where kosher infrastructure is limited—like many parts of Asia. But with proper planning and understanding, you can establish a fully functional kosher kitchen even in a small apartment far from major Jewish communities.
 

@@ -3,7 +3,10 @@
 
 ## Introduction: The Power of Words
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** Words materialize as birds taking flight from a figure's lips atop a misty mountain ridge, rendered in traditional Chinese shan shui ink wash style with muted earth tones. Some birds glow with soft white light and soar gracefully among the pine branches, while others are dark and jagged, descending heavily into thorny thickets below. The contrast between the luminous and shadowed birds illustrates the power of speech for good and harm. A tranquil stream below reflects only the bright birds, and distant mountains fade into gentle mist, conveying the Jewish teaching that guarding one's tongue preserves the beauty of the world.
 
 In Jewish tradition, speech is considered one of the most powerful forces in the world. The Talmud teaches that "life and death are in the power of the tongue" (Proverbs 18:21). While this might sound dramatic, Jewish law takes speech so seriously that an entire body of halacha (Jewish law) has developed around it. At the center of these laws is the concept of *lashon hara* — literally "evil tongue" — which is often called one of the hardest commandments to keep.
 

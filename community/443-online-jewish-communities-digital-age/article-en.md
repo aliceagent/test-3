@@ -1,7 +1,10 @@
 # Online Jewish Communities: Staying Connected in the Digital Age
 
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A creative shan shui ink wash painting where traditional mountain scenery in muted earth tones gradually transforms into flowing digital patterns and luminous connection lines at the horizon, linking distant mountain hermitages to one another. Scholars sit in separate pavilions across the peaks yet are connected by glowing threads of light that weave through the mist like silk strands. A Torah scroll in one pavilion and a glowing screen in another both display the same sacred text. The fusion of ancient brushwork with subtle modern luminescence suggests that technology extends rather than replaces the timeless Jewish commitment to learning and community.
 
 For thousands of years, Jewish life centered on physical proximity. The synagogue, the study house, the marketplace—these were the spaces where Jewish community happened. You needed to live within walking distance of other Jews to maintain a Jewish life, which is why Jews historically clustered in neighborhoods and why the idea of a Jewish "quarter" became common across Europe, North Africa, and the Middle East.
 

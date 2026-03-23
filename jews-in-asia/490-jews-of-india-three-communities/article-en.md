@@ -1,6 +1,9 @@
 # Jews of India: Cochin, Bene Israel, and Baghdadi Communities
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A vibrant yet restrained shan shui ink wash painting of an Indian synagogue with distinctly South Asian architectural elements — arched windows, tropical foliage, and colorful but muted textile patterns — set against a backdrop of misty Western Ghats mountains and coconut palms along a Kerala coastline. The synagogue interior is glimpsed through an open doorway, revealing a Torah ark adorned with both Jewish and Indian decorative motifs. Figures in traditional Indian dress approach the synagogue, some carrying prayer books. The palette blends warm spice tones of turmeric, cinnamon, and indigo with the classic grey-green mists of shan shui painting, celebrating the unique fusion of Jewish and Indian cultures across the Cochin, Bene Israel, and Baghdadi communities.
 
 When people think of Jewish history, India rarely comes to mind. Yet for over two millennia, Jewish communities have thrived on the Indian subcontinent, creating unique traditions that blend Jewish law with Indian culture. Unlike many places where Jewish history is marked by persecution and expulsion, India offered Jews remarkable acceptance, allowing them to flourish while maintaining their distinct identity.
 

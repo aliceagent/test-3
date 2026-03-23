@@ -2,7 +2,10 @@
 
 ## The Singing, Stories, Mashke, and Soul-Searching That Make Farbrengens Powerful
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A joyous gathering of men sit around a long wooden table laden with bread, wine, and candles inside a rustic mountain hall, painted in traditional Chinese shan shui ink wash style with warm, muted earth tones. Arms are linked in song, faces lit by flickering candlelight, and a sense of deep camaraderie fills the room. Through open windows, misty mountain peaks and pine forests are visible under a starlit sky. The warmth of the interior contrasts with the cool mountain air, and faint musical notes drift upward like wisps of ink, blending the Chassidic farbrengen tradition with the convivial spirit of a Chinese mountain hermitage.
 
 Imagine a crowded room, late at night. Around a long table sit dozens or hundreds of people—men with beards and traditional clothing, some young, some old, from many different backgrounds. In the center, a Chassidic rebbe or elder sits, a small glass of vodka before him. Someone starts singing a melody without words—a *niggun*—and the entire room joins in, swaying together, voices rising and falling in haunting harmonies. After the singing subsides, the rebbe begins to speak, sharing a Torah thought, a story, or a insight about life and service to God. More singing follows. Someone shares a personal story. The rebbe responds. Hours pass. The atmosphere is simultaneously joyful and serious, intimate and transcendent, rowdy and sacred.
 

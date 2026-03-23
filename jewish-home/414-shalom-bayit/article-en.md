@@ -1,6 +1,9 @@
 # Shalom Bayit: The Jewish Path to a Peaceful Home
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A serene shan shui ink wash painting depicting a harmonious traditional home nestled in a mountain valley, with warm light glowing from its windows and smoke curling gently from the chimney into misty air. Two figures walk side by side along a garden path toward the entrance, surrounded by balanced plantings of bamboo and pine that mirror the partnership of husband and wife. The palette is peaceful — muted earth tones of soft grey, warm honey, and sage green — with a still reflecting pool before the house doubling the scene in tranquil symmetry. A dove rests on the rooftop, and the mountains cradle the home in protective layers.
 
 In Jewish thought, few concepts are as sacred as *shalom bayit* (שלום בית)—literally, "peace of the home." This is not merely the absence of conflict but the presence of harmony, respect, love, and mutual support between husband and wife. The Talmud treats shalom bayit with such reverence that it permits certain actions otherwise forbidden, all to preserve domestic peace.
 

@@ -1,7 +1,10 @@
 # Starting Your Jewish Journey in Asia: A Practical Roadmap
 
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** An inviting shan shui ink wash painting of a lone traveler standing at the beginning of a winding mountain path, gazing ahead toward a landscape dotted with Jewish landmarks — a distant synagogue, a study hall perched on a hillside, a Shabbat table glowing with candlelight in a valley clearing, and a mikveh fed by a mountain stream. The path stretches through misty peaks and pine forests rendered in muted earth tones of warm brown, soft green, and gentle gold. The traveler carries a small backpack and a book, suggesting the start of a spiritual journey. The Asian landscape setting roots the scene firmly in the experience of beginning a Jewish journey in the East, where ancient traditions meet new seekers.
 
 You're in Beijing, Mumbai, Seoul, or Singapore. You're drawn to Judaism—maybe you're a Jew reconnecting with heritage, a person of Jewish ancestry exploring roots, or simply curious about this ancient tradition. But you're far from Jerusalem, Brooklyn, or London. How do you begin?
 

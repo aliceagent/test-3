@@ -1,7 +1,10 @@
 # Chad Gadya and Echad Mi Yodea: The Seder Songs Decoded
 
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A fantastical chain of creatures spirals upward through a misty mountain landscape in traditional Chinese shan shui ink wash style — a small goat, a cat, a dog, a stick, fire, water, an ox, a butcher, and an angel — each linked to the next in a flowing compositional ribbon. Musical notes rendered as delicate ink brush strokes drift through pine branches and swirl among the clouds like birds in flight. At the base of the composition, figures sing around a Seder table while the chain of creatures ascends toward a radiant peak shrouded in golden mist. The muted earth tones and whimsical energy blend Haggadah storytelling with the lyrical tradition of Chinese scroll painting.
 
 As the Passover Seder draws to a close, bellies full and cups nearly empty, the gathering often breaks into song. Two songs in particular close many Seders: *Echad Mi Yodea* ("Who Knows One?") and *Chad Gadya* ("One Little Goat"). To the uninitiated, these songs seem simple, even childish — counting songs and a cumulative nursery rhyme. But beneath their playful melodies and repetitive structures lie layers of meaning: Jewish theology, historical allegory, mystical symbolism, and existential questions about justice, power, and divine providence. For Chinese readers encountering these songs, they offer windows into how Judaism embeds profound teachings in accessible, memorable forms.
 

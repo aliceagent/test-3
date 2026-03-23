@@ -2,7 +2,10 @@
 
 ## Five Beloved Stories That Illustrate Core Teachings About Joy, Faith, and Hidden Holiness
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A mystical forest clearing deep within misty mountains hosts an elderly storyteller seated on a moss-covered rock, rendered in traditional Chinese shan shui ink wash style with rich earth tones and ethereal mist. The Baal Shem Tov figure, with a long beard and gentle eyes, speaks to gathered listeners as magical imagery — glowing animals, dancing flames, floating Hebrew letters — materializes among the pine branches above. A stream winds past the gathering, its waters shimmering with reflected starlight. The scene merges Chassidic wonder tales with the enchanted wilderness of Chinese landscape painting, evoking mystery and spiritual warmth.
 
 Stories are the lifeblood of Chassidic Judaism. While scholars study texts and philosophers construct systems, Chassidim tell stories—simple, memorable tales that convey profound truths in ways that touch the heart, not just the mind. These stories have been passed down for generations, told around Shabbat tables, at gatherings (farbrengens), and to children before bed. They're teaching tools, sources of inspiration, and windows into a worldview that sees divine sparks hidden in everything.
 

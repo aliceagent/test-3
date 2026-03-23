@@ -1,6 +1,9 @@
 # Ger Toshav: The Concept of the Righteous Non-Jew Living Among Israel
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A welcoming shan shui ink wash painting of an open gate in a village wall set against misty mountains, where a robed figure stands at the threshold gesturing warmly to an approaching traveler on a winding mountain path. The gate is adorned with a simple mezuzah and flanked by pine trees, rendered in muted earth tones with soft grey mist. Inside the gate, a community is visible with modest homes, a study hall, and figures going about daily life in peaceful routine. The path leading to the gate winds through classic Chinese mountain scenery, suggesting the long and earnest journey of one who seeks to dwell righteously among Israel.
 
 Judaism developed a unique category for righteous non-Jews who choose to live ethically according to universal moral laws without converting to Judaism. This concept—ger toshav (literally "resident stranger")—creates a formal place within the Jewish framework for non-Jews who wish to live in alignment with Jewish values while maintaining their own identity. For non-Jewish people in China or elsewhere exploring Judaism without necessarily seeking conversion, understanding ger toshav offers a legitimate path of connection.
 

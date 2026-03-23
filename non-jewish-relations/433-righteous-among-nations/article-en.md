@@ -1,6 +1,9 @@
 # Righteous Among the Nations: Non-Jews Who Saved Jewish Lives
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A moving shan shui ink wash painting depicting protective figures standing like ancient pines on a mountainside, their forms sheltering smaller figures huddled beneath their outstretched arms during a storm rendered in dark ink washes. The protectors stand firm against swirling dark clouds and rain while creating a calm, dry space of safety in warm earth tones below. A faint light breaks through the storm clouds above the mountain peak, suggesting hope and divine witness. The mountain path behind the sheltered figures leads downward to a distant peaceful village, its lights glowing softly through the mist.
 
 In humanity's darkest hour, when Nazi Germany systematically murdered six million Jews, thousands of non-Jews risked everything to save their neighbors. They weren't soldiers or politicians—they were farmers, teachers, diplomats, and factory workers who chose conscience over safety. Israel honors these heroes with the title "Righteous Among the Nations" (Chasidei Umot Ha'Olam), recognizing that even in the darkest evil, human goodness persists.
 

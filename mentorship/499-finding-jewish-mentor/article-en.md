@@ -1,7 +1,10 @@
 # Finding a Jewish Mentor: Why Every Learner Needs a Guide
 
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A warm and intimate shan shui ink wash painting of two figures — an elder with a long beard and a younger person — walking together along a narrow mountain path that winds through misty pine forests and beside a gently flowing stream. The elder gestures toward the landscape ahead as if sharing wisdom, while the younger figure listens attentively, carrying a book under one arm. The palette uses muted earth tones of warm brown, soft sage, and gentle grey, with a faint golden light on the distant peak they walk toward. The path behind them fades into mist while the way forward is illuminated, capturing the Jewish tradition of mentorship — the chain of transmission from teacher to student — set within the contemplative beauty of a Chinese mountain landscape.
 
 The Talmud offers timeless advice for anyone beginning a journey of learning: **"Aseh lecha rav"—Acquire for yourself a teacher** (Pirkei Avot 1:6). This isn't optional guidance; it's a foundational principle of Jewish education. Judaism is not a religion learned in isolation. It's transmitted person-to-person, generation-to-generation, through relationships built on trust, questioning, and shared commitment.
 

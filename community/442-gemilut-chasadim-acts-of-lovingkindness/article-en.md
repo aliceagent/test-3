@@ -1,7 +1,10 @@
 # Gemilut Chasadim: Acts of Lovingkindness That Build Community
 
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A tender shan shui ink wash painting of multiple pairs of hands reaching out to help one another across a flowing mountain stream, rendered in warm muted earth tones with soft grey mist. Some hands offer food, others extend cloth or tools, while figures on both banks work together to build a small bridge of kindness across the water. The surrounding mountains are gentle and rolling, with pine trees bowing slightly as if in approval. Downstream, the river widens and nourishes fields and villages, suggesting that each small act of lovingkindness flows outward to sustain the entire world below.
 
 In many cultures, helping others is considered praiseworthy but optional—a nice thing to do when you have extra time or resources. Judaism takes a radically different approach. Acts of lovingkindness, known in Hebrew as *gemilut chasadim* (גמילות חסדים), are not optional extras but fundamental obligations that sit at the very heart of what it means to live a Jewish life.
 

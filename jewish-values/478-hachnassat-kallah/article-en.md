@@ -3,7 +3,10 @@
 
 ## Introduction: Greater Than Welcoming the Divine Presence
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A serene shan shui ink wash painting of a wedding chuppah (canopy) set on a gentle hillside, its four poles draped with a flowing white cloth that catches a soft breeze, surrounded by a warm gathering of community members rendered in delicate brushwork. Misty mountains and cascading waterfalls form the backdrop, while pine trees and bamboo frame the joyful scene in muted tones of warm brown, soft green, and gentle gold. Subtle Hebrew lettering adorns the edges of the canopy fabric, and small lanterns glow with a warm amber light among the guests. The composition conveys the communal mitzvah of helping a bride and groom celebrate, uniting Jewish tradition with the harmonious spirit of Chinese landscape painting.
 
 The Talmud tells an astonishing story about Rabbi Tarfon, a sage of the first century CE:
 

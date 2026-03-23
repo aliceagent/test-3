@@ -2,7 +2,10 @@
 
 ## A Beginner-Friendly Guide to the Masterwork of Chabad Thought
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A large open book rests on a stone altar in a mountain clearing, its pages glowing with warm golden and white light that rises upward like incense smoke, painted in traditional Chinese shan shui ink wash style with muted earth tones. Within the rising light, translucent imagery of the soul's journey appears — a divine spark, an animal spirit, and an intellectual flame layered like mountain ridges. Misty peaks and ancient pine trees frame the scene, and a quiet stream reflects the book's glow. The composition merges the mystical depth of Tanya's teachings on the soul with the contemplative stillness of a scholar's mountain retreat.
 
 Imagine opening a book and discovering a complete map of your inner world—your struggles, your potential, your purpose, and your connection to the infinite. This is the Tanya, the foundational text of Chabad philosophy, written over 200 years ago yet startlingly relevant to modern psychological and spiritual questions. For Chinese readers encountering this text, you might find surprising parallels to concepts in Confucianism, Buddhism, and Daoism, yet with distinctly Jewish perspectives.
 

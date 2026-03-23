@@ -1,6 +1,9 @@
 # Interfaith Dialogue: What's Permitted and What's Not in Jewish Law
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A tranquil shan shui ink wash painting of scholars from different traditions seated together in an open mountain pavilion beside a still lake, sharing tea and studying scrolls in muted earth tones. The pavilion bridges a gentle stream where the reflections of the scholars merge together in the water below. Each figure is distinct in dress and bearing yet all lean inward in mutual respect, their scrolls and texts spread across a shared stone table. Misty mountains rise in layered ink washes behind them, with pine trees and cranes suggesting wisdom, longevity, and the patient pursuit of truth.
 
 As Jewish communities emerge in China and other parts of Asia where Jews are a tiny minority surrounded by other faith traditions, questions of interfaith engagement become practical and urgent. Can a Jew attend a Buddhist meditation session? Help build a mosque? Participate in interfaith dialogue? Join Christian neighbors for community service? Jewish law (halacha) provides nuanced guidance that seeks to maintain Jewish identity while respecting others and contributing to society.
 

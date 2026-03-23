@@ -1,6 +1,9 @@
 # How Jews Should Treat Non-Jews: Halachic and Ethical Guidelines
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A Chinese ink wash painting of an elegant arched stone bridge spanning a deep gorge between two mountainside villages, rendered in muted earth tones and soft grey mists. One village features traditional Chinese architecture with curved rooftops while the other displays modest buildings adorned with mezuzot and a Star of David, both nestled among pine trees. Figures from both communities walk toward each other across the bridge, meeting at its center where lanterns hang alongside a menorah. The flowing river below reflects both settlements, suggesting a shared foundation beneath their distinct traditions.
 
 One of the most important questions in any religious tradition is: how should believers treat those outside their faith? In an age of globalization and multiculturalism, understanding how Judaism views relations with non-Jews is crucial for both Jews and those seeking to understand Jewish ethics.
 

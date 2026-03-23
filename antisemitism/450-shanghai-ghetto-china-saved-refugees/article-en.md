@@ -1,7 +1,10 @@
 # Shanghai Ghetto: How China Saved 20,000 Jewish Refugees
 
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A historically evocative shan shui ink wash painting of the Shanghai Bund waterfront rendered in muted earth tones and misty washes, where ships arrive carrying Jewish refugees who step onto the dock and are met by welcoming Chinese figures extending hands of aid. The distinctive Art Deco buildings of 1940s Shanghai blend with traditional Chinese architectural elements along the waterfront, while in the background, misty mountains in classic shan shui style rise beyond the city. A warm glow emanates from the Hongkou district where doors stand open in welcome. The scene captures the extraordinary moment when East met West in compassion, with flowing water symbolizing both the perilous journey and the safe harbor found in China.
 
 While six million Jews perished in the Holocaust, there is a remarkable chapter in this dark history where China played a heroic role: the story of Shanghai, which became a refuge for approximately 20,000 Jewish refugees fleeing Nazi persecution when almost every other country in the world closed its doors.
 

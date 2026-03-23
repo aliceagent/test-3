@@ -1,7 +1,10 @@
 # Maimonides' 13th Principle: "I Believe in the Coming of the Messiah"
 
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A shan shui ink wash painting showing a medieval scholar seated in a stone study perched on a mountainside, surrounded by towering bamboo and ancient pines shrouded in mist. Open manuscripts and a quill rest before him as he gazes contemplatively toward distant peaks half-hidden in clouds, representing the philosophical depth of faith in redemption. The palette is muted earth tones with washes of warm brown and soft grey, and a single oil lamp casts a gentle amber glow across Hebrew texts. Flowing water cascades down the rocks below, symbolizing the continuous stream of Jewish thought across centuries.
 
 In the 12th century, Rabbi Moses ben Maimon—known as Maimonides or the Rambam (1138-1204)—crystallized Jewish belief into thirteen fundamental principles. The 13th and final principle addresses belief in the Messiah: "I believe with perfect faith in the coming of the Messiah, and even though he may tarry, nevertheless I await his coming every day."
 

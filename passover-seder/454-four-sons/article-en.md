@@ -1,7 +1,10 @@
 # The Four Sons: A Guide to Teaching Different Types of Learners
 
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** Four distinct figures stand along a winding mountain path in traditional Chinese shan shui ink wash style, each representing a different type of learner. The wise son studies an open scroll beneath a towering pine, the wicked son turns away toward a stormy ridge, the simple son gazes wide-eyed at a flowing waterfall, and the youngest sits silently among wildflowers in a misty valley. Each figure is dressed in robes blending Chinese and Jewish traditional garments, with subtle tzitzit fringes visible. The muted earth tones and layered mountain ranges connect all four in one harmonious yet varied landscape.
 
 In the Passover Haggadah, after the Four Questions launch the storytelling, we encounter a remarkable educational framework: the teaching of four sons. Each son represents a different type of learner with distinct attitudes, questions, and needs. This ancient paradigm, rooted in the Torah and elaborated by the Rabbis, offers profound insights into how we teach, learn, and transmit values across differences in personality, ability, and engagement.
 

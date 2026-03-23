@@ -2,7 +2,10 @@
 
 ## How Chabad Emissaries Established Centers in Over 100 Countries—Including China
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A panoramic mountain landscape in traditional Chinese shan shui ink wash style shows dozens of small, warmly lit houses scattered across valleys, ridges, and riverbanks throughout the world's terrain — deserts, forests, coastlines, and mountain passes. Each house glows with candlelight from its windows and bears a small menorah by the door, connected to the others by winding paths and flowing streams. The muted earth tones create unity across the diverse geography, and misty clouds link distant houses like a spiritual network. Pine trees and bamboo groves shelter the houses, conveying the global reach of welcoming Jewish homes.
 
 In a small apartment in Kathmandu, Nepal, a young couple serves Shabbat dinner to Israeli backpackers who've just finished trekking the Himalayas. In Beijing, a rabbi leads a Passover Seder for businesspeople, diplomats, and students from around the world. In a rural town in Montana, USA, a family opens their home every Friday night to the only other Jewish family within 200 miles. What connects these seemingly disparate scenes? They're all Chabad Houses—a global network of Jewish centers that has revolutionized how Judaism reaches Jews wherever they are.
 

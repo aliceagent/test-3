@@ -1,7 +1,10 @@
 # The Hebrew Alphabet for Chinese Speakers: A Systematic Approach
 
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** An elegant shan shui ink wash painting showing Hebrew letters and Chinese characters arranged side by side on tall stone steles standing in a misty mountain valley, as if they were ancient calligraphic monuments communing across civilizations. The Hebrew aleph-bet flows down one stone in careful brushwork while Chinese radicals grace the neighboring stone, both rendered in rich black ink against the pale stone surfaces. Pine trees, flowing streams, and layered mountain peaks surround the steles in classic Chinese landscape style, painted in muted tones of charcoal, moss green, and warm sand. The scene suggests the beauty and kinship of two ancient writing systems meeting in a timeless landscape.
 
 Learning the Hebrew alphabet (Alef-Bet) is the essential first step in accessing Jewish texts, prayers, and Hebrew language. For Mandarin speakers, this can feel daunting—a completely new script with unfamiliar sounds and reading direction. But Chinese learners have unique advantages: experience mastering complex writing systems, comfort with memorization, and appreciation for the connection between writing and meaning.
 

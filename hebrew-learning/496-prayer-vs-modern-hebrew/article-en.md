@@ -1,7 +1,10 @@
 # Prayer Hebrew vs. Modern Hebrew: What's the Difference?
 
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A contemplative shan shui ink wash painting divided by a gentle stream into two harmonious halves — on one side, an ancient prayer scroll unfurls from a mountain cave, its Hebrew text glowing with warm golden light suggesting sacred antiquity; on the other side, a modern Israeli street scene with Hebrew shop signs and street markers is suggested in lighter, more contemporary brushwork. Misty mountains connect both halves in the background, symbolizing the continuity of the Hebrew language across millennia. The palette uses muted earth tones with gold highlights on the ancient side and cooler blue-grey tones on the modern side. The flowing stream between them represents the living current of Hebrew evolving from liturgy to daily speech.
 
 You open a prayer book (Siddur) in the synagogue and see Hebrew text. Later, you watch an Israeli TV show or read an Israeli news article—also in Hebrew. The script looks the same, but something feels different. The rhythm, vocabulary, and even grammar don't quite match. What's going on?
 

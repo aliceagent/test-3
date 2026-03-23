@@ -1,6 +1,9 @@
 # Mizrachi Jews: The Forgotten Third Stream
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A vibrant yet mist-softened shan shui ink wash painting depicting Middle Eastern Jewish life — a bustling market scene in a mountain city with arched doorways, palm trees, and merchants in traditional garments, transitioning into classic layered misty peaks in the background. Synagogue architecture with distinctive Mizrachi design elements is visible among the buildings, and Hebrew script adorns a stone gateway. The palette is rich with warm earth tones of desert sand, date-palm brown, and pomegranate red, balanced by the cool misty greys of distant mountains. A forgotten river flows through the city center, carrying ancient memories downstream.
 
 When people speak of Jewish diversity, they often mention Ashkenazi and Sephardi traditions. But this binary oversimplifies Jewish history. There exists a third major stream, often overlooked: Mizrachi Jews — the ancient communities of the Middle East and Central Asia who never left the region where Judaism was born.
 

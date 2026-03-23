@@ -1,6 +1,9 @@
 # Jewish Community Organizations: From Federation to Chabad to JCC
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A sprawling shan shui ink wash painting of multiple mountain villages connected by bridges, paths, and flowing waterways that form a visible network across a vast misty landscape in muted earth tones. Each village has its own character, with synagogues, study halls, and gathering places visible among the buildings, yet all are linked by the waterways that carry boats bearing goods and messages between them. Stars of David appear subtly on banners and doorways throughout the settlements. The interconnected rivers and paths suggest the vital bonds that unite Jewish communities across distances, all flowing from and returning to shared mountain springs.
 
 For someone new to Judaism, especially in a place without established Jewish infrastructure like many cities in China, the landscape of Jewish organizations can seem bewildering. Federation? Chabad? JCC? Hillel? What do these organizations do, and how can they help you connect to Jewish life?
 

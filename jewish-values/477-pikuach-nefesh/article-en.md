@@ -3,7 +3,10 @@
 
 ## Introduction: Shabbat in the Emergency Room
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A dramatic shan shui ink wash scene showing a lone rescuer on a rocky outcrop reaching a hand across turbulent, swirling waters toward a struggling figure, rendered in bold black ink strokes with splashes of deep indigo and warm amber. Misty mountains rise in the background beneath a parting sky, suggesting urgency giving way to hope. A subtle Torah scroll pattern is etched into the rock face beneath the rescuer's feet, symbolizing the commandment that saving a life overrides nearly all other laws. Pine trees bend in the wind along the shore, and the rushing water is painted with the dynamic energy of traditional Chinese brush technique, blending the gravity of pikuach nefesh with the timeless beauty of shan shui art.
 
 It's Friday night. The Shabbat candles are lit, dinner is on the table, and your phone rings. (Yes, you're not supposed to use phones on Shabbat, but bear with this scenario.)
 

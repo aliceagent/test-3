@@ -2,7 +2,10 @@
 
 ## Why Chabad Reaches Out with Warmth Rather Than Judgment—and the Philosophy Behind It
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A robed figure stands at the entrance of a mountain pass with arms wide open, welcoming weary travelers emerging from misty pine forests, rendered in traditional Chinese shan shui ink wash painting with warm earth tones. The figure's robe subtly features tzitzit fringes, and a Shabbat candle glows in one hand. Travelers of varied appearance approach along winding paths through the mountains, their expressions shifting from uncertainty to warmth. The open gesture against the vast, serene landscape conveys boundless hospitality, blending the Chabad philosophy of outreach with the Chinese artistic tradition of the welcoming sage.
 
 Picture this scene: A young man walks past a street corner in Manhattan, Tokyo, or Tel Aviv. He's not wearing any visible Jewish symbols. He hasn't attended synagogue in years. He's not even sure he believes in God. Suddenly, a bearded rabbi approaches him with a broad smile: "Excuse me, are you Jewish?" When he nods hesitantly, the rabbi doesn't ask about his level of observance or membership in a synagogue. Instead: "Would you like to put on tefillin (phylacteries)?"
 

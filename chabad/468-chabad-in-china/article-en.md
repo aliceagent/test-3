@@ -2,7 +2,10 @@
 
 ## The Story of Chabad's Presence and How to Connect If You're Living in a Chinese City
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A Chabad house rendered with traditional Chinese architectural elements — curved tiled roofs, red pillars, and latticed windows — sits nestled among misty mountains and bamboo groves in shan shui ink wash painting style with muted earth tones. A menorah glows warmly in the doorway, and Hebrew and Chinese characters are inscribed on a wooden plaque above the entrance. Visitors approach along a stone bridge over a flowing stream, carrying both backpacks and prayer books. The blending of Chinese pavilion architecture with Jewish sacred symbols creates a harmonious scene of cultural meeting in a serene mountain landscape.
 
 In the heart of Shanghai's bustling Hongqiao district, a building houses a surprising institution: a fully functioning synagogue with Torah scrolls, prayer books, and a dedicated rabbi who leads services every Shabbat. In Beijing's diplomatic quarter, Jewish families gather for Passover Seders featuring both matzah and discussions about Chinese-Jewish cultural bridges. In Hong Kong, multiple Chabad centers serve a diverse community of businesspeople, students, longtime residents, and curious visitors. These contemporary scenes represent the latest chapter in a remarkable story—the presence of Jewish life in China, a land where Jews have lived, fled to, and rebuilt community for over a millennium.
 

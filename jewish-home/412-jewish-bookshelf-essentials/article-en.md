@@ -1,6 +1,9 @@
 # Jewish Bookshelf Essentials: What Every Home Should Have
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A scholarly shan shui ink wash painting depicting a tall wooden bookshelf built into a mountainside study, its shelves filled with sacred texts — a Chumash, Talmud volumes, Siddur, and Mishneh Torah — their spines lettered in Hebrew and rendered in fine detail. Mist drifts through an open window behind the shelf, revealing distant peaks and pine forests in classic layered composition. The palette is rich with muted earth tones of walnut brown, aged parchment cream, and soft charcoal, while a reading lamp and an open volume on a desk suggest active, living study. A flowering branch in a simple vase beside the books connects wisdom to the natural world.
 
 Walk into a traditional Jewish home, and you'll likely find a bookshelf—or several—filled with sacred texts, some worn from use, some pristine and waiting, some inherited from grandparents who brought them across oceans. This library isn't decorative; it's a working collection, consulted for daily prayers, holiday preparations, life cycle events, and study.
 

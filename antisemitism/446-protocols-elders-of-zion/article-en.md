@@ -1,7 +1,10 @@
 # The Protocols of the Elders of Zion: The Most Dangerous Forgery in History
 
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A dramatic shan shui ink wash painting of a forged document crumbling and burning at the edges as it falls from a mountain cliff into a rushing river below, rendered in muted earth tones with bursts of ember-orange. The pages scatter in the wind, their false words dissolving into ash and mist against the mountainous backdrop. Below, the clean river washes the remnants away while pine trees on the far bank stand straight and unshaken by the falling debris. A scholar on a distant peak holds up a lamp of truth, its steady light cutting through the smoke, suggesting that forgeries may cause great harm but cannot withstand the patient force of truth.
 
 In 1903, a Russian newspaper published a sensational document claiming to reveal a secret Jewish conspiracy to control the world. Titled "The Protocols of the Elders of Zion," it purported to be the minutes of secret meetings where Jewish leaders outlined their plan to destroy Christian civilization, manipulate economies, control governments, and establish a Jewish world empire.
 

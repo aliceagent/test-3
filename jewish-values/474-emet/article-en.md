@@ -3,7 +3,10 @@
 
 ## Introduction: The Seal of God
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A perfectly clear crystal or mirror stands upright on a stone pedestal beside a mountain lake, reflecting the surrounding peaks, pine trees, and sky with absolute fidelity, rendered in traditional Chinese shan shui ink wash style with muted earth tones. The reflection is undistorted and true, while the mist around it parts to reveal clarity. Faint Hebrew letters spelling emet (truth) shimmer on the crystal's surface. The still lake below mirrors the same truthful image, and the composition conveys the Jewish value of honesty as a form of spiritual clarity, harmonized with the shan shui ideal of seeing nature as it truly is.
 
 The Talmud makes a striking statement: **"The seal of the Holy One, blessed be He, is truth (*emet*)"** (Shabbat 55a).
 

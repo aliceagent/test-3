@@ -1,6 +1,9 @@
 # Guide for the Perplexed: Maimonides' Philosophical Masterwork
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A philosophical shan shui ink wash painting of a robed scholar standing at a crossroads where two mountain paths diverge — one leading toward a glowing temple of reason with geometric forms, the other toward a radiant pillar of divine light emerging from clouds. The scholar, reminiscent of Maimonides, holds a book to his chest and gazes thoughtfully at both paths, which ultimately converge again at a distant summit shrouded in golden mist. Pine trees and flowing streams surround the crossroads in classic Chinese landscape style, rendered in muted earth tones of sienna, slate, and sage. The composition captures the central tension and ultimate harmony between faith and philosophical inquiry that defines the Guide for the Perplexed.
 
 In the 12th century, a crisis shook the Jewish intellectual world. Educated Jews studying Greek philosophy—especially Aristotle—found themselves torn between two seemingly incompatible truths: the teachings of Torah and the conclusions of reason. Scripture speaks of God's "hand," "face," and "anger," describing Him in human terms. It tells of creation from nothing, miracles, and prophecy. But philosophy teaches that God is utterly transcendent, without body or emotion; that the universe may be eternal; that natural law is unchanging.
 

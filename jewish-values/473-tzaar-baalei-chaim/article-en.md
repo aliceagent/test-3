@@ -3,7 +3,10 @@
 
 ## Introduction: Before You Eat
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** Gentle hands cradle a small lamb near a mountain stream while birds perch trustingly on an outstretched arm, rendered in traditional Chinese shan shui ink wash style with soft, muted earth tones. A donkey rests beneath a pine tree unburdened, and fish swim freely in the clear flowing water below. The figure tending the animals wears robes with subtle tzitzit fringes, connecting the scene to Jewish law. Misty mountains rise peacefully in the background, and the overall atmosphere radiates compassion and care, blending the Jewish ethic of animal welfare with the Chinese artistic tradition of harmony between humans and the natural world.
 
 There's a curious detail in the Talmud's discussion of daily priorities. When a person wakes up hungry, which comes first: feeding yourself or feeding your animals?
 

@@ -1,7 +1,10 @@
 # Reading the Torah in Hebrew: A Beginner's Decoding Guide
 
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A reverent shan shui ink wash painting of an open Torah scroll resting on an ornate reading table in an outdoor mountain pavilion, with a large magnifying glass hovering above the parchment to reveal the intricate details of Hebrew letters and cantillation marks. Misty peaks and ancient pine trees frame the pavilion, and soft golden light falls across the scroll's surface, illuminating the sacred text. The palette is restrained — warm parchment tones, deep ink black for the letters, and the muted greens and greys of the mountain landscape. A sense of quiet discovery pervades the scene, as though the viewer is learning to decode the Torah's Hebrew for the very first time, guided by the magnifying lens of patient study.
 
 You've learned the Hebrew alphabet. You recognize some words. Now you open a Torah scroll or prayer book—and suddenly you're lost. The letters blur together, vowel marks confuse you, and words seem impossible to decode. Don't worry. Reading Hebrew fluently takes time, but with the right approach, you can start reading Torah texts confidently, even as a beginner.
 

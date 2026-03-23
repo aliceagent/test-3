@@ -1,7 +1,10 @@
 # Living with Messianic Anticipation: How Belief in Mashiach Affects Daily Life
 
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A warm and luminous shan shui ink wash painting depicting everyday life in a mountain village — figures tending gardens, studying texts under pine trees, and walking along stone paths — all beneath a sky where the clouds part to reveal a distant, radiant horizon of golden promise. A mezuzah is visible on a humble doorpost in the foreground, and a child points toward the glowing horizon while holding a parent's hand. The palette uses gentle earth tones of warm ochre, soft moss green, and pale amber, with flowing water and blossoming plum trees suggesting quiet, persistent hope woven into daily routine.
 
 "I believe with perfect faith in the coming of the Messiah, and even though he may tarry, nevertheless I await his coming every day." These words, from Maimonides' 13th Principle of Faith, are not just theology—they're a call to a specific way of living. But what does it mean practically to "await his coming every day"? How does messianic belief shape Jewish life, ethics, and worldview?
 

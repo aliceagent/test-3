@@ -1,7 +1,10 @@
 # How Will We Know When the Messiah Comes? The Halachic Criteria
 
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A majestic shan shui ink wash painting showing a rebuilt Holy Temple gleaming in soft gold atop a sacred mountain, with streams of people from all directions making pilgrimage along winding mountain paths through pine forests and across stone bridges. Misty peaks surround the scene in layers of depth, rendered in muted earth tones of warm grey, ochre, and sage, while banners bearing the Lion of Judah flutter along the pathways. The gathering of exiles is depicted as diverse figures converging toward the mountain from valleys, rivers, and distant horizons, their forms rendered in delicate brushstrokes that dissolve into the mist.
 
 In an age of false claims and genuine confusion, Judaism offers something remarkable: clear, verifiable criteria for identifying the Messiah. These standards, codified by Maimonides in his legal code (*Mishneh Torah*, Laws of Kings, chapters 11-12), are not mystical or subjective. They're practical, observable achievements that will be unmistakable when they occur.
 

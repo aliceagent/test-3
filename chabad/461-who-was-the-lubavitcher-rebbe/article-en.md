@@ -2,7 +2,10 @@
 
 ## The Life, Teachings, and Global Impact of the Seventh Lubavitcher Rebbe
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A distinguished rabbi figure with a white beard and dark fedora stands atop a misty mountain peak, rendered in traditional Chinese shan shui ink wash painting with muted earth tones and flowing brush strokes. Rays of warm light radiate outward from his figure like the glow of wisdom, illuminating the pine forests and winding rivers below. Students and followers gather along the mountain paths leading upward, drawn toward the light. His outstretched hand gestures with quiet authority and compassion, and faint Hebrew letters shimmer in the mist around him, blending the image of a Chassidic leader with the revered sage archetype of Chinese landscape art.
 
 In the late 20th century, a bearded rabbi living in Brooklyn became one of the most influential Jewish leaders in history. Rabbi Menachem Mendel Schneerson, known simply as "the Rebbe," transformed Chabad-Lubavitch from a small Chassidic sect into a global movement that today operates in over 100 countries. His story is remarkable—a man who never visited Israel as an adult, yet shaped Jewish life worldwide; a leader who lived modestly in Crown Heights yet advised presidents and prime ministers; a scholar fluent in multiple languages who insisted that every Jew, regardless of education, could connect with God.
 

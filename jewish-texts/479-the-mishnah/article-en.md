@@ -3,7 +3,10 @@
 
 ## Introduction: The First Great Code
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A contemplative shan shui ink wash painting showing an ancient open codex resting on a stone table beside a still mountain lake, its pages clearly divided into six organized sections radiating outward like petals. The book glows faintly with warm ochre and gold tones against a backdrop of layered misty peaks, pine forests, and a gentle waterfall rendered in classic Chinese brush technique. Tiny Hebrew characters float upward from the pages like birds taking flight, symbolizing the Mishnah's oral teachings being committed to writing. The careful geometric divisions within the book contrast with the organic, flowing landscape, representing the structured wisdom of the Mishnah within the natural order of creation.
 
 Around the year 200 CE, Rabbi Yehuda HaNasi ("the Prince") completed one of the most consequential projects in Jewish history: he organized centuries of oral tradition into a structured, written text.
 

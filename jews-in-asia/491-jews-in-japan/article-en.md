@@ -1,7 +1,10 @@
 # Jews in Japan: From Meiji-Era Traders to the Fugu Plan
 
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A poignant shan shui ink wash painting of a Japanese harbor town during the early twentieth century, with arriving ships carrying Jewish refugee families who gaze out at the unfamiliar landscape of terraced hills, torii gates visible on distant peaks, and cherry blossom trees lining the waterfront. The scene is rendered in muted tones of soft grey, blush pink, and warm brown, blending Japanese ukiyo-e sensibility with Chinese shan shui brushwork. A small child clutches a siddur (prayer book) while looking at the new shore with a mixture of hope and uncertainty. The harbor waters are calm and reflective, symbolizing the complex story of Jewish refuge in Japan from the Meiji era through the remarkable Fugu Plan.
 
 The story of Jews in Japan is one of the most unusual chapters in the Jewish diaspora—a tale of merchants, refugees, wartime intrigue, and an audacious plan to settle tens of thousands of Jews in Japanese-controlled territory. While Japan has never had a large Jewish population, the encounters between Japanese and Jewish cultures reveal fascinating attitudes, desperate survival strategies, and unexpected moments of rescue.
 

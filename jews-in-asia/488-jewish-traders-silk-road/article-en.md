@@ -1,6 +1,9 @@
 # Jewish Traders on the Silk Road: Commerce, Culture, and Connection
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A sweeping shan shui ink wash painting of a merchant caravan traveling along the ancient Silk Road through dramatic mountain passes and vast desert landscapes, with a Jewish trader identifiable by a small Star of David pendant riding among camels laden with silk, spices, and goods. Distant misty peaks and oasis towns dot the horizon, rendered in muted tones of sandy ochre, warm brown, and soft indigo. The winding road stretches from one edge of the painting to the other, connecting East and West. Subtle details — a mezuzah hanging from a caravansary doorpost, Hebrew script on a merchant's ledger — weave Jewish presence into the grand tapestry of Silk Road trade and cultural exchange.
 
 Long before globalization became a buzzword, before multinational corporations and air travel, a network of trade routes connected East and West across thousands of miles—the legendary Silk Road. Along these routes, caravans carried silk from China, spices from India, precious metals from Central Asia, and ideas from every corner of the known world.
 

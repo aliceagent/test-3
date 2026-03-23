@@ -1,6 +1,9 @@
 # Sefer HaChinuch: A Mitzvah-by-Mitzvah Guide to the 613 Commandments
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A vast and intricate shan shui ink wash painting of a night sky above a mountain range, filled with exactly six hundred and thirteen small stars or lantern-lights arranged in a spiraling, organic pattern that echoes the shape of a Torah scroll unfurling. The lights glow in warm gold and soft amber against a deep indigo sky, while below them misty peaks, pine forests, and a tranquil river are rendered in classic Chinese brush technique with muted earth tones. Each light seems unique in size and brightness, representing the individual commandments catalogued in the Sefer HaChinuch. The overall effect is one of cosmic order and sacred completeness, connecting the vastness of heaven with the detailed path of Jewish law.
 
 Jewish tradition teaches that the Torah contains 613 commandments—248 positive commands ("do this") and 365 negative commands ("don't do that"). But reading through the Five Books of Moses, it's not always obvious which verses are commandments, why they're important, or how they apply to daily life. That's where the *Sefer HaChinuch* comes in.
 

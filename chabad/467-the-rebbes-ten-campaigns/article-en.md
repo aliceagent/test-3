@@ -2,7 +2,10 @@
 
 ## From Shabbat Candles to Tefillin to Mezuzah—Making Core Mitzvot Accessible
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** Ten symbolic objects are arranged along a winding mountain path ascending through misty peaks in traditional Chinese shan shui ink wash style with muted earth tones — Shabbat candles, a pair of tefillin, a mezuzah, a charity box, bookshelves of sacred texts, a Torah scroll, Shabbat candlesticks, a family purity vessel, a letter of the aleph-bet, and a menorah. Each object rests on a natural stone pedestal at a turn in the path, glowing softly against the surrounding pine forests and flowing streams. The ascending composition suggests a spiritual campaign moving upward toward illumination. Mountain mist connects all ten stations into one unified journey of mitzvot.
 
 In 1967, on the eve of the Six-Day War, the Lubavitcher Rebbe made an unusual request. He asked Jewish men around the world—whether religiously observant or not—to put on tefillin (phylacteries), the black leather boxes containing Torah verses that traditional Jews wear during morning prayers. The Rebbe believed this simple act would create spiritual protection for Israeli soldiers entering battle. Thousands responded. Chabad emissaries fanned out across airports, streets, and public squares asking Jewish men: "Are you Jewish? Would you like to put on tefillin?"
 

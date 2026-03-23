@@ -1,6 +1,9 @@
 # Chevra Kadisha: The Holy Society That Cares for the Dead
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A solemn and dignified shan shui ink wash painting of robed figures performing sacred preparation in a quiet stone chamber nestled at the base of misty mountains, rendered in muted earth tones and deep grey ink. Candles cast soft warm light across the scene as the chevra kadisha members work with reverent, careful hands, their postures conveying deep honor and tenderness. White linen cloth is draped with precision while water flows from a ritual vessel. Outside the chamber, pine trees stand like sentinels in the mist and a still mountain lake reflects the quiet sky, evoking the profound dignity of caring for the departed in their final journey.
 
 In Jewish communities worldwide, from the largest cities to the smallest towns, a quiet group operates behind the scenes. They receive no applause, seek no recognition, and perform one of Judaism's most sacred tasks: preparing the deceased for burial. This group—the chevra kadisha (holy society)—embodies a profound truth: the greatest kindness is one that can never be repaid.
 

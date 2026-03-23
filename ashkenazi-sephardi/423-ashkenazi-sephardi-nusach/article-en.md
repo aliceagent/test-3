@@ -1,6 +1,9 @@
 # Ashkenazi Prayer Nusach vs. Sephardi Nusach: What's Different and Why
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A contemplative shan shui ink wash painting showing two open prayer books resting on separate reading stands in a misty mountain study — one ornate with Sephardi decorative motifs and warm golden tones, the other with Ashkenazi Gothic-style Hebrew lettering in cool blue-grey ink. Between them, incense smoke or prayer-mist rises and intertwines, ascending toward mountain peaks that disappear into clouds, symbolizing how different words reach the same heaven. The palette uses muted earth tones with subtle contrasts of warm and cool, and pine branches frame the scene from above.
 
 When a Jew walks into an unfamiliar synagogue, one of the first things they might notice is whether the prayers sound "right." Not right as in correct — both are fully legitimate — but familiar. An Ashkenazi Jew visiting a Sephardi synagogue might feel momentarily lost, and vice versa. The words are mostly the same, the structure is similar, but something feels different. That something is "nusach" — the specific version of the prayer liturgy.
 

@@ -1,7 +1,10 @@
 # The Messianic Era vs. the World to Come: What's the Difference?
 
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A traditional Chinese ink wash landscape divided by a flowing river into two contrasting realms — on one side, a vibrant earthly scene of terraced fields, rebuilt cities, and figures living in peace beneath pine-covered mountains representing the Messianic Era; on the other, an ethereal, luminous realm of pure mist, golden light, and transcendent mountain peaks dissolving into the heavens representing the World to Come. Muted earth tones of sage green, warm ochre, and soft charcoal give way to radiant pearl and gold on the spiritual side. A delicate stone bridge arches over the water connecting both worlds, with a menorah subtly carved into its keystone.
 
 Jewish tradition speaks of both *Yemot HaMashiach* (the Days of the Messiah) and *Olam HaBa* (the World to Come). These terms are often confused or used interchangeably, but they represent fundamentally different concepts. Understanding the distinction is crucial for grasping Jewish eschatology—the vision of humanity's ultimate destiny.
 

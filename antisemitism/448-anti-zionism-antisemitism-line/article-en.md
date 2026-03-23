@@ -1,7 +1,10 @@
 # Anti-Zionism and Antisemitism: Where Criticism of Israel Crosses the Line
 
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A nuanced shan shui ink wash painting of a razor-thin mountain ridge forming a precise boundary line between two vast valleys, rendered in muted earth tones with careful, deliberate brushwork. On one side, legitimate discourse is represented by scholars debating respectfully in a pavilion; on the other, dark ink washes suggest hatred disguised as argument. The ridge itself is marked with subtle boundary stones and is barely wide enough to walk, requiring careful, honest footing. Mist obscures portions of both valleys, suggesting the difficulty of seeing clearly, while a single figure walks the ridge with a lantern, illuminating the fine but crucial line between criticism and bigotry.
 
 Few questions generate more heated debate than this: When does criticism of Israel become antisemitism? Pro-Palestinian activists insist they oppose Israeli policies, not Jews. Jewish organizations argue that much anti-Israel rhetoric crosses into antisemitism. Both sides accuse the other of bad faith.
 

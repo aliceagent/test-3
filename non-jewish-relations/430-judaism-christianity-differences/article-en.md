@@ -1,6 +1,9 @@
 # Judaism and Christianity: Key Theological Differences Explained Respectfully
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A shan shui ink wash landscape showing a single ancient, gnarled tree with deep roots visible in the earth, its trunk splitting into two distinct branches that grow in diverging directions across a misty mountain scene. One branch extends toward a hilltop bearing a modest stone synagogue, the other toward a distant steepled structure, both rendered subtly in muted earth tones. The shared roots are thick and intertwined, reaching deep into rocky ground beside a flowing stream. Mist drifts between the two paths while pine trees dot the slopes, emphasizing both the common origin and the separate journeys taken.
 
 Judaism and Christianity share profound connections: the same biblical patriarchs, many of the same sacred texts, belief in the God of Israel, and intertwined historical development. Yet they diverge dramatically on fundamental theological questions. For nearly two millennia, these two faiths have existed side by side — sometimes in peaceful coexistence, sometimes in tragic conflict — each claiming to represent authentic relationship with God.
 

@@ -1,6 +1,9 @@
 # Building a Minyan: How Ten Jews Change Everything
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A powerful shan shui ink wash painting of ten figures standing in a prayer circle atop a mountain plateau, their forms rendered in flowing brushstrokes as mist swirls around them in muted earth tones. Each figure holds a prayer shawl that catches the wind, the tallitot connecting them like threads in a sacred web. Above the circle, the clouds part to reveal a shaft of golden light descending onto the gathered group, illuminating them against the vast mountain landscape. Pine trees ring the plateau like silent witnesses while a river flows around the mountain's base, suggesting that this small gathering transforms the entire landscape.
 
 In Jewish tradition, there's something almost magical about the number ten. When ten Jewish adults gather, something shifts. Prayers that were recited individually suddenly become communal. Words that were private become public. A group of individuals transforms into a community—a minyan.
 

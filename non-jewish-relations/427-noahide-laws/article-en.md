@@ -1,6 +1,9 @@
 # The Seven Noahide Laws: God's Universal Moral Code
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A majestic shan shui ink wash landscape of layered misty mountains beneath a luminous rainbow that arcs across the entire sky, rendered in soft earth tones with washes of prismatic color. At the base of the tallest peak, two stone tablets inscribed with ancient lettering rest against weathered rock, partially veiled by drifting clouds. A single dove perches atop the tablets while pine trees cling to the mountainside, their branches bending toward the rainbow's light. Flowing water cascades down the rocks past the tablets, symbolizing universal moral law descending from heaven to nourish all the earth below.
 
 While the Torah contains 613 commandments binding on Jews, Jewish tradition teaches that God gave a smaller, universal code to all humanity: the Seven Noahide Laws. These laws, according to the Talmud, were commanded to Noah and his descendants after the Flood — meaning they apply to every human being, regardless of religion or ethnicity.
 

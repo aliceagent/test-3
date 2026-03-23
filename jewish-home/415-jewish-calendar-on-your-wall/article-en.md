@@ -1,6 +1,9 @@
 # The Jewish Calendar on Your Wall: Structuring the Year at Home
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A whimsical yet scholarly shan shui ink wash painting showing a large decorative scroll calendar hanging on a stone wall, with Hebrew month names and lunar cycle illustrations painted in traditional Chinese brush technique. Through an adjacent window, the four seasons are visible simultaneously in layered mountain landscapes — spring blossoms, summer fullness, autumn harvest, and winter snow — representing the cycle of the Jewish year. The palette uses muted earth tones of ink black, parchment gold, and seasonal washes of pink, green, amber, and white. A hand holds a brush, marking the current date beside a small menorah symbol.
 
 In most modern homes, a calendar hangs on the kitchen wall or lives on a smartphone—a grid marking appointments, birthdays, and deadlines. For a Jewish home, the calendar is something more: it's a spiritual roadmap, a rhythm connecting the family to thousands of years of history, and a framework that transforms time itself into something sacred.
 

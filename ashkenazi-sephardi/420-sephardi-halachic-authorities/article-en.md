@@ -1,6 +1,9 @@
 # Sephardi Halachic Authorities: From the Shulchan Aruch to Rav Ovadia Yosef
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A distinguished shan shui ink wash painting depicting Mediterranean scholars seated in an open courtyard overlooking a sun-drenched coastal landscape of terraced hills, olive trees, and a distant sea rendered in soft blue-grey washes. The scholars are gathered around manuscripts and legal texts, their robes and turbans suggesting the golden age of Sephardic scholarship, while arched stone columns frame the scene. The palette blends warm earth tones of terracotta, sand, and golden ochre with the misty layered mountains of traditional Chinese landscape painting. Citrus trees and flowering jasmine add touches of organic life to the intellectual setting.
 
 When an observant Jew faces a halachic question—Can I use this medicine on Shabbat? Is this business practice permitted? How do I observe this holiday?—they consult a *posek* (פוסק), a rabbi qualified to render halachic decisions.
 

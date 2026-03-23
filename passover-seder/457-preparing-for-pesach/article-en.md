@@ -1,7 +1,10 @@
 # Preparing for Pesach: Cleaning, Kashering, and Selling Chametz
 
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A family works together inside a traditional courtyard home rendered in Chinese shan shui ink wash style with warm, muted earth tones, sweeping shelves clean and searching corners by candlelight for crumbs of chametz. A father holds a feather and wooden spoon, guiding children who peer beneath furniture and into ceramic jars with focused determination. Through an open doorway, misty mountains and pine forests are visible under a pale moon, grounding the domestic scene in the classic landscape tradition. The warm glow of the candle contrasts with the cool mountain mist outside, blending the intimacy of Pesach preparation with serene natural beauty.
 
 Passover preparation is a major undertaking that transforms the entire household. For weeks before the holiday, observant Jewish families clean, kasher (ritually purify) their kitchens, and remove or sell all leavened products (*chametz*). To outsiders, this can seem excessive — why such elaborate preparation for a week-long holiday? But for practitioners, Pesach preparation is itself a spiritual practice, combining physical labor with symbolic cleansing, legal ingenuity, and communal renewal.
 

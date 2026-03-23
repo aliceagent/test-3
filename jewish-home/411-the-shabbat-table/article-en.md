@@ -1,6 +1,9 @@
 # The Shabbat Table: Creating a Weekly Family Sanctuary
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A warm and intimate shan shui ink wash painting depicting a family gathered around a beautifully set Shabbat table, with twin candles glowing softly, braided challah loaves, and a silver kiddush cup, all rendered in delicate brushwork. The table sits in a room whose open windows reveal layered misty mountains, pine trees, and a setting sun casting amber light across the scene. The palette blends muted earth tones of warm honey, soft charcoal, and gentle rose, with the candlelight creating a golden sanctuary within the surrounding landscape. Children lean close to parents, and the white tablecloth flows like water in the composition.
 
 Every Friday evening, as the sun sets, millions of Jewish families around the world gather around a table transformed into something sacred. The Shabbat table is not merely where we eat—it becomes a sanctuary, a place where heaven and earth meet, where the week's stress dissolves, and where families reconnect with each other and with God.
 

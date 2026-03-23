@@ -1,7 +1,10 @@
 # Blood Libels and Host Desecration: The Medieval Lies That Killed Thousands
 
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A haunting shan shui ink wash painting of a medieval village rendered in heavy shadows and muted earth tones, where dark accusatory figures point toward a small illuminated Jewish quarter glowing with the warm light of truth and innocence. Grotesque shadow forms loom in the dark alleys representing the false accusations, but they dissolve where the light touches them. A Torah scroll radiates gentle light from within a modest home while fearful figures huddle inside. Beyond the village, misty mountains and pine trees stand as silent witnesses to history, and a single shaft of light breaks through the oppressive clouds above, piercing the darkness of medieval lies.
 
 In 1144, in the English town of Norwich, a twelve-year-old boy named William disappeared during Easter week. His body was found in the woods days later. The local monks, led by a man named Thomas of Monmouth, began circulating an extraordinary claim: the Jews of Norwich had murdered William in a ritual reenactment of the crucifixion of Jesus, using his blood for religious purposes.
 

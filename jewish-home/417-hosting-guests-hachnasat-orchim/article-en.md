@@ -1,6 +1,9 @@
 # Hosting Guests (Hachnasat Orchim): The Art of Jewish Hospitality
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A generous and lively shan shui ink wash painting depicting the tent of Abraham reimagined as a Chinese mountain pavilion open on all four sides, with travelers arriving from winding paths through misty pine forests. A host figure warmly welcomes guests at the entrance while a table inside is laden with food and drink rendered in warm earth tones of ochre, amber, and soft red. The surrounding landscape of layered mountains, flowing streams, and ancient trees creates a sense of refuge and abundance. Lanterns hang from the pavilion eaves, and the open architecture symbolizes radical hospitality from every direction.
 
 The Talmud (Shabbat 127a) teaches: "Welcoming guests is greater than receiving the Divine Presence." This extraordinary statement is based on Abraham's behavior in Genesis 18. Abraham was sitting at the entrance to his tent—just three days after his circumcision at age 99, in intense heat—when he saw three travelers. The text says, "And God appeared to him... and he lifted his eyes and saw, and behold, three men..." Abraham literally interrupted a divine visitation to run and welcome strangers, prepare a feast, and ensure their comfort.
 

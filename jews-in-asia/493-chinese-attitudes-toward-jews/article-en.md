@@ -1,7 +1,10 @@
 # Chinese Attitudes Toward Jews: Philosemitism, Stereotypes, and Reality
 
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A dignified shan shui ink wash painting of two scholars — one Chinese and one Jewish — meeting respectfully in a traditional Chinese garden pavilion beside a lotus pond, with scrolls and books spread between them on a stone table. Misty mountains and bamboo groves form the backdrop, rendered in muted tones of sage green, warm grey, and soft gold. Both figures are depicted with equal stature and mutual regard, bowing slightly toward one another in a gesture of intellectual exchange. A subtle interweaving of Hebrew and Chinese calligraphy adorns the pavilion's pillars, symbolizing the long and complex history of Chinese attitudes toward Jewish people and the potential for cross-cultural understanding.
 
 In Chinese culture, Jews occupy a peculiar place—simultaneously admired, misunderstood, stereotyped, and studied. Unlike in Western societies where antisemitism has deep historical roots, Chinese attitudes toward Jews developed largely in the modern era, shaped by admiration for Jewish achievement, imported Western stereotypes, and political calculations. Understanding these attitudes—both positive and problematic—is essential for Chinese readers exploring Judaism and for anyone navigating the complex cross-cultural dynamics.
 

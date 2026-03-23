@@ -1,7 +1,10 @@
 # The Ten Plagues at the Seder: Ritual, Memory, and Empathy
 
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A dramatic river scene in traditional Chinese shan shui ink wash style where crystal-clear mountain water transforms into deep crimson as it flows downstream through a rocky gorge. Dark storm clouds gather above jagged peaks, and frogs emerge from misty reeds along the riverbank while locusts swirl in the turbulent sky. The muted earth tones shift to deeper reds and shadows, conveying an atmosphere of awe and divine power across the landscape. In the foreground, drops of red wine fall from a tilted cup onto a porcelain plate, bridging the Seder ritual with the sweeping natural imagery of the plagues.
 
 The recitation of the Ten Plagues is one of the Seder's most dramatic moments. As each plague is named — blood, frogs, lice, wild beasts, pestilence, boils, hail, locusts, darkness, death of the firstborn — participants remove a drop of wine from their cups, either with a finger or by pouring. This ancient custom, rooted in rabbinic tradition, transforms the plagues from distant biblical narrative into embodied ritual. More remarkably, it teaches one of Judaism's most profound ethical lessons: we diminish our joy when recalling our enemies' suffering.
 

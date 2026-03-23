@@ -1,6 +1,9 @@
 # Starting a Jewish Community Where None Exists
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A hopeful shan shui ink wash painting of a lone figure planting seedlings in fresh earth on a bare but promising hillside, surrounded by vast misty mountains in muted earth tones. A small spring has just begun to flow from between the rocks nearby, its water reaching the newly planted ground. In the figure's other hand rests a Torah scroll, and a tiny wooden frame of a future building stands behind them on the hill. Distant mountains fade into layers of mist while a single pine tree, already established, offers shade to the planter, suggesting that from this humble beginning an entire community will one day flourish.
 
 You're Jewish—or converting, or married to a Jew, or deeply connected to Judaism—and you live in a city with no organized Jewish community. Maybe you're in a tier-two Chinese city, a remote area of Southeast Asia, or anywhere the Jewish population is sparse or scattered. You feel isolated. You wonder: Can I maintain Jewish life here? Can I create community where none exists?
 

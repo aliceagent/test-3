@@ -1,7 +1,10 @@
 # The Seder Plate Explained: Every Item and Its Meaning
 
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** An ornate Seder plate rests on a stone table at the edge of a misty mountain pavilion, painted in traditional Chinese shan shui ink wash style with soft earth tones and gentle brush strokes. The six ceremonial items — a roasted shankbone, egg, bitter herbs, charoset, karpas, and chazeret — are rendered with delicate detail, each placed in a carved porcelain compartment adorned with Hebrew lettering. Wisps of mountain fog drift through pine branches overhead, framing the plate in natural serenity. A waterfall cascades in the background, its flowing waters symbolizing the tears and liberation of the Exodus story.
 
 The Seder plate (*ke'arah* in Hebrew) sits at the center of the Passover table like a symbolic map of Jewish history. This special plate holds six items, each representing a different aspect of the Exodus story and carrying layers of meaning developed over thousands of years. For Chinese readers encountering the Seder for the first time, understanding these symbols opens a window into how Judaism uses physical objects to teach, remember, and transmit values across generations.
 

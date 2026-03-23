@@ -1,6 +1,9 @@
 # Midrash: How the Rabbis Filled in the Torah's Gaps
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A mysterious shan shui ink wash painting showing a large magnifying lens or circular window hovering over an ancient Torah scroll spread across a stone altar, revealing hidden text and illustrations that glow with warm amber light beneath the surface. Misty mountains recede into the distance behind layers of pine trees and flowing water, all rendered in soft charcoal, moss green, and muted gold tones. Through the lens, miniature scenes of biblical narrative appear — gardens, rivers, figures — that are invisible to the naked eye on the scroll itself. The composition evokes the rabbinic art of Midrash, where careful examination of the Torah's words reveals deeper stories and meanings hidden between the lines.
 
 The Torah is famously concise. In just five books, it covers the creation of the universe, the formation of the Jewish people, and hundreds of laws that govern every aspect of life. But this brevity leaves many questions unanswered. What did Abraham think when God commanded him to sacrifice Isaac? Why did Moses break the tablets when he saw the Golden Calf? What conversations took place between Jacob and Esau before their emotional reunion?
 

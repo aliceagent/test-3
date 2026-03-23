@@ -1,7 +1,10 @@
 # 100 Essential Hebrew Words Every Jewish Learner Should Know
 
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A whimsical yet serene shan shui ink wash painting of a terraced garden on a mountainside where Hebrew letters grow like flowers, vines, and trees — each letter taking on an organic, botanical form while remaining recognizable. Some letters bloom with small golden blossoms, others climb like ivy up ancient stone walls, and still others stand like young saplings along a garden path. The surrounding landscape features misty peaks, flowing water, and pine trees in muted tones of sage green, warm brown, and soft amber. A gardener figure tends the letter-garden with care, suggesting the patient cultivation of vocabulary. The scene merges the living beauty of language learning with the tranquil artistry of Chinese landscape painting.
 
 Learning a language can feel overwhelming—thousands of words, endless grammar rules. But here's the secret: a small core vocabulary gives you enormous comprehension. In Hebrew, roughly 100 essential words unlock most Jewish prayers, blessings, and Torah study basics.
 

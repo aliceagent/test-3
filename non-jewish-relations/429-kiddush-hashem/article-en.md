@@ -1,6 +1,9 @@
 # Kiddush Hashem: Sanctifying God's Name Through Ethical Behavior
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A contemplative shan shui ink wash painting of a solitary figure standing atop a mountain ridge, emanating gentle golden light that illuminates the surrounding misty peaks and pine forests in warm earth tones. The light radiates outward like sunrise, casting long rays through layered clouds and touching distant villages in the valleys below. Hebrew letters shimmer faintly within the beams of light, dissolving into the mist. A waterfall flows down from the illuminated peak, carrying the reflected glow into a tranquil river below, suggesting holiness flowing from righteous action into the wider world.
 
 In the crowded streets of 1930s Shanghai, a Chinese merchant discovered he had accidentally been overpaid by a Jewish refugee businessman. The merchant expected the Jew to quietly pocket the error. Instead, the refugee immediately returned the extra money, saying, "My religion teaches honesty above profit." The Chinese merchant, impressed, later told others: "The Jews must worship a great God, if He inspires such integrity in His followers."
 

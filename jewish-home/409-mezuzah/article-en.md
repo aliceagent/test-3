@@ -1,7 +1,10 @@
 # Mezuzah: The Doorpost That Defines a Jewish Home
 
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A delicate shan shui ink wash painting focusing on an elegant wooden doorway framed by climbing wisteria and bamboo, with a small mezuzah scroll case mounted on the right doorpost, rendered in fine detail with Hebrew letters faintly visible on the parchment within. Beyond the doorway, a serene mountain landscape of misty peaks and flowing water unfolds, suggesting that the threshold between home and world is sanctified. The palette is soft — muted earth tones of warm cedar, sage green, and gentle grey — with the mezuzah itself highlighted by a subtle golden glow. Pine branches arch over the entrance like a natural canopy of blessing.
 
 Walk into any traditional Jewish home and you'll notice something on the doorframe: a small case, slightly tilted, about a hand's width from the top of the doorpost. This is a mezuzah (מְזוּזָה, plural: mezuzot), and its presence transforms an ordinary dwelling into a Jewish home. But what makes this small object so significant? What's inside it, why is it there, and what does it mean?
 

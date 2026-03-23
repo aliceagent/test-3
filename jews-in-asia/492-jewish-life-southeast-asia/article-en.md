@@ -1,7 +1,10 @@
 # Jewish Life in Singapore, Hong Kong, and Southeast Asia Today
 
 
+
 ---
+
+> **Header Image Description (DALL-E prompt):** A lush shan shui ink wash painting of a tropical port city where a small but elegant synagogue with a Star of David above its entrance sits among palm trees, colonial-era shophouses, and a busy harbor filled with trading vessels. Misty tropical mountains rise in the background, and the warm humid atmosphere is suggested through soft washes of jade green, warm amber, and hazy blue-grey. Diverse figures — Chinese, Malay, Indian, and Jewish merchants — mingle in a vibrant marketplace near the waterfront. The scene evokes the multicultural Jewish communities that flourished in Singapore, Hong Kong, and across Southeast Asia, painted in the contemplative style of classical Chinese landscape art.
 
 While Asia is home to the world's smallest Jewish populations, vibrant Jewish communities thrive in cities across Southeast Asia. For travelers, expatriates, and local Jews, these communities offer synagogues, kosher food, holiday celebrations, and educational programs—proof that Jewish life can flourish anywhere committed Jews build it.
 
