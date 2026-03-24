@@ -102,7 +102,7 @@ export default function AdminPage() {
   const [processingEdit, setProcessingEdit] = useState(false);
   const [seeding, setSeeding] = useState(false);
 
-  // Fetch articles (auto-seeds missing articles from static JSON)
+  // Fetch articles (auto-syncs from static JSON: inserts missing + updates stale)
   useEffect(() => {
     if (!authenticated) return;
     let cancelled = false;
@@ -116,39 +116,76 @@ export default function AdminPage() {
       const dbArticles = data || [];
       const staticArticles = getAllArticles();
 
-      // Auto-seed: insert any static articles missing from the database
-      if (dbArticles.length < staticArticles.length) {
-        const existingSet = new Set(
-          dbArticles.map((a: Article) => `${a.section}::${a.title_en}`)
-        );
-        const missing = staticArticles.filter(
-          (a) => !existingSet.has(`${a.section}::${a.title_en}`)
-        );
+      // Build lookup of DB articles by section::title_en
+      const dbMap = new Map<string, Article>();
+      for (const a of dbArticles) {
+        dbMap.set(`${a.section}::${a.title_en}`, a);
+      }
 
-        if (missing.length > 0) {
-          setSeeding(true);
-          const BATCH = 50;
-          for (let i = 0; i < missing.length; i += BATCH) {
-            const batch = missing.slice(i, i + BATCH).map((a) => ({
-              section: a.section,
-              title_en: a.title_en || "",
-              title_zh: a.title_zh || "",
-              title_he: a.title_he || "",
-              body_en: a.body_en || "",
-              body_zh: a.body_zh || "",
-              body_he: a.body_he || "",
-            }));
-            await supabase.from("articles").insert(batch);
-          }
-          setSeeding(false);
-          // Re-fetch after seeding
-          const { data: refreshed } = await supabase
-            .from("articles")
-            .select("*")
-            .order("created_at", { ascending: false });
-          if (!cancelled && refreshed) setArticles(refreshed);
-          return;
+      const toInsert: typeof staticArticles = [];
+      const toUpdate: { id: number; data: Omit<Article, "id" | "created_at" | "updated_at"> }[] = [];
+
+      for (const sa of staticArticles) {
+        const key = `${sa.section}::${sa.title_en}`;
+        const existing = dbMap.get(key);
+        if (!existing) {
+          toInsert.push(sa);
+        } else if (
+          existing.body_en !== sa.body_en ||
+          existing.body_zh !== sa.body_zh ||
+          existing.body_he !== sa.body_he ||
+          existing.title_zh !== sa.title_zh ||
+          existing.title_he !== sa.title_he
+        ) {
+          toUpdate.push({
+            id: existing.id!,
+            data: {
+              section: sa.section,
+              title_en: sa.title_en || "",
+              title_zh: sa.title_zh || "",
+              title_he: sa.title_he || "",
+              body_en: sa.body_en || "",
+              body_zh: sa.body_zh || "",
+              body_he: sa.body_he || "",
+            },
+          });
         }
+      }
+
+      if (toInsert.length > 0 || toUpdate.length > 0) {
+        setSeeding(true);
+
+        // Insert missing articles
+        const BATCH = 50;
+        for (let i = 0; i < toInsert.length; i += BATCH) {
+          const batch = toInsert.slice(i, i + BATCH).map((a) => ({
+            section: a.section,
+            title_en: a.title_en || "",
+            title_zh: a.title_zh || "",
+            title_he: a.title_he || "",
+            body_en: a.body_en || "",
+            body_zh: a.body_zh || "",
+            body_he: a.body_he || "",
+          }));
+          await supabase.from("articles").insert(batch);
+        }
+
+        // Update stale articles
+        for (const item of toUpdate) {
+          await supabase
+            .from("articles")
+            .update({ ...item.data, updated_at: new Date().toISOString() })
+            .eq("id", item.id);
+        }
+
+        setSeeding(false);
+        // Re-fetch after sync
+        const { data: refreshed } = await supabase
+          .from("articles")
+          .select("*")
+          .order("created_at", { ascending: false });
+        if (!cancelled && refreshed) setArticles(refreshed);
+        return;
       }
 
       setArticles(dbArticles);
@@ -761,7 +798,7 @@ export default function AdminPage() {
       {seeding && (
         <div className="bg-blue-50 border border-blue-200 text-blue-800 rounded-lg p-3 mb-4 text-sm flex items-center gap-2">
           <svg className="animate-spin h-4 w-4" viewBox="0 0 24 24"><circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4" fill="none"/><path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4z"/></svg>
-          Syncing articles to database...
+          Syncing articles to database — inserting new and updating changed articles...
         </div>
       )}
 
