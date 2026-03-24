@@ -6,6 +6,7 @@ import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
 import { supabase } from "@/lib/supabase";
 import { diffLines, hasChanges } from "@/lib/diff";
+import { getAllArticles } from "@/lib/articles";
 
 interface Article {
   id?: number;
@@ -101,7 +102,7 @@ export default function AdminPage() {
   const [processingEdit, setProcessingEdit] = useState(false);
   const [seeding, setSeeding] = useState(false);
 
-  // Fetch articles
+  // Fetch articles (auto-seeds missing articles from static JSON)
   useEffect(() => {
     if (!authenticated) return;
     let cancelled = false;
@@ -110,9 +111,47 @@ export default function AdminPage() {
         .from("articles")
         .select("*")
         .order("created_at", { ascending: false });
-      if (!cancelled) {
-        if (data) setArticles(data);
+      if (cancelled) return;
+
+      const dbArticles = data || [];
+      const staticArticles = getAllArticles();
+
+      // Auto-seed: insert any static articles missing from the database
+      if (dbArticles.length < staticArticles.length) {
+        const existingSet = new Set(
+          dbArticles.map((a: Article) => `${a.section}::${a.title_en}`)
+        );
+        const missing = staticArticles.filter(
+          (a) => !existingSet.has(`${a.section}::${a.title_en}`)
+        );
+
+        if (missing.length > 0) {
+          setSeeding(true);
+          const BATCH = 50;
+          for (let i = 0; i < missing.length; i += BATCH) {
+            const batch = missing.slice(i, i + BATCH).map((a) => ({
+              section: a.section,
+              title_en: a.title_en || "",
+              title_zh: a.title_zh || "",
+              title_he: a.title_he || "",
+              body_en: a.body_en || "",
+              body_zh: a.body_zh || "",
+              body_he: a.body_he || "",
+            }));
+            await supabase.from("articles").insert(batch);
+          }
+          setSeeding(false);
+          // Re-fetch after seeding
+          const { data: refreshed } = await supabase
+            .from("articles")
+            .select("*")
+            .order("created_at", { ascending: false });
+          if (!cancelled && refreshed) setArticles(refreshed);
+          return;
+        }
       }
+
+      setArticles(dbArticles);
     };
     load();
     return () => { cancelled = true; };
@@ -717,6 +756,14 @@ export default function AdminPage() {
           )}
         </button>
       </div>
+
+      {/* Auto-seed banner */}
+      {seeding && (
+        <div className="bg-blue-50 border border-blue-200 text-blue-800 rounded-lg p-3 mb-4 text-sm flex items-center gap-2">
+          <svg className="animate-spin h-4 w-4" viewBox="0 0 24 24"><circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4" fill="none"/><path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4z"/></svg>
+          Syncing articles to database...
+        </div>
+      )}
 
       {/* ===== Articles Tab ===== */}
       {adminView === "articles" && (
