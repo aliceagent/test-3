@@ -48,12 +48,12 @@ export default function LanguageSwitcher() {
       {open && (
         <>
           <div className="fixed inset-0 z-40" onClick={() => setOpen(false)} />
-          <div className="absolute right-0 top-full mt-1 bg-white text-[var(--color-text)] rounded-lg shadow-xl z-50 min-w-[140px] overflow-hidden">
+          <div className="absolute end-0 top-full mt-1 bg-white text-[var(--color-text)] rounded-lg shadow-xl z-50 min-w-[140px] overflow-hidden">
             {languages.map((lang) => (
               <button
                 key={lang.code}
                 onClick={() => switchLanguage(lang.code)}
-                className={`w-full text-left px-4 py-2.5 text-sm flex items-center gap-2 hover:bg-[var(--color-cream)] transition-colors ${
+                className={`w-full text-start px-4 py-2.5 text-sm flex items-center gap-2 hover:bg-[var(--color-cream)] transition-colors ${
                   locale === lang.code
                     ? "bg-[var(--color-cream)] font-semibold"
                     : ""
