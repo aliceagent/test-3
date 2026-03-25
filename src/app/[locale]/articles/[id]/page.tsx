@@ -60,25 +60,37 @@ export default function ArticlePage() {
   }
 
   function stripImageDescription(body: string): string {
-    const patterns = [
-      /^>\s*\*\*Header Image Description \(DALL-E prompt\):\*\*[\s\S]*?(?=\n\n|\n(?!(?:>\s*)?$)|$)/gm,
-      /^>\s*\*\*题图描述（DALL-E提示）：\*\*[\s\S]*?(?=\n\n|\n(?!(?:>\s*)?$)|$)/gm,
-      /^>\s*\*\*תיאור תמונת כותרת \(DALL-E prompt\):\*\*[\s\S]*?(?=\n\n|\n(?!(?:>\s*)?$)|$)/gm,
-      /^\*Header Image Description:[\s\S]*?\*(?=\n\n|$)/gm,
-      /^\*标题图片描述：[\s\S]*?\*(?=\n\n|$)/gm,
-      /^\*标题图像描述：[\s\S]*?\*(?=\n\n|$)/gm,
-      /^\*头图描述：[\s\S]*?\*(?=\n\n|$)/gm,
-      /^\*תיאור תמונת הכותרת:[\s\S]*?\*(?=\n\n|$)/gm,
-      /^\*תיאור תמונה לכותרת:[\s\S]*?\*(?=\n\n|$)/gm,
-      /^\*תיאור תמונת כותרת:[\s\S]*?\*(?=\n\n|$)/gm,
-    ];
+    // Remove any blockquote block that mentions DALL-E (covers all language variants)
+    const lines = body.split("\n");
+    const result: string[] = [];
+    let skipping = false;
 
-    let stripped = body;
-    for (const pattern of patterns) {
-      stripped = stripped.replace(pattern, "");
+    for (const line of lines) {
+      const isBlockquote = line.startsWith(">");
+      const isDallE = /dall-e/i.test(line);
+
+      if (isBlockquote && isDallE) {
+        skipping = true;
+        continue;
+      }
+      if (skipping) {
+        // Continue skipping continuation lines of the same blockquote
+        if (isBlockquote || line.trim() === "") {
+          continue;
+        }
+        skipping = false;
+      }
+
+      // Also strip non-blockquote italic DALL-E descriptions: *Header Image Description: ...*
+      if (/^\*[^*]*dall-e/i.test(line) || /^\*.*image\s*description/i.test(line)) {
+        skipping = true;
+        continue;
+      }
+
+      result.push(line);
     }
 
-    return stripped.replace(/\n{3,}/g, "\n\n").trim();
+    return result.join("\n").replace(/\n{3,}/g, "\n\n").trim();
   }
 
   function startEditing() {
