@@ -147,7 +147,7 @@ export default function Navigation() {
               <button className="px-3 py-3 text-sm font-medium hover:bg-[var(--color-primary-light)] rounded-t transition-colors">
                 {tCat(section.category)}
               </button>
-              <div className="absolute left-0 top-full hidden group-hover:block bg-white text-[var(--color-text)] shadow-xl rounded-b-lg min-w-[220px] z-50">
+              <div className="absolute start-0 top-full hidden group-hover:block bg-white text-[var(--color-text)] shadow-xl rounded-b-lg min-w-[220px] z-50">
                 {section.items.map((item) => (
                   <Link
                     key={item.key}
@@ -164,7 +164,7 @@ export default function Navigation() {
               </div>
             </div>
           ))}
-          <div className="ml-auto flex gap-1">
+          <div className="ms-auto flex gap-1">
             <Link
               href="/bibliography"
               className={`px-3 py-3 text-sm font-medium hover:bg-[var(--color-primary-light)] rounded-t transition-colors ${
@@ -205,7 +205,7 @@ export default function Navigation() {
                       : section.category
                   )
                 }
-                className="w-full text-left px-4 py-3 text-sm font-semibold text-[var(--color-gold)] hover:bg-[var(--color-primary-light)] flex justify-between items-center"
+                className="w-full text-start px-4 py-3 text-sm font-semibold text-[var(--color-gold)] hover:bg-[var(--color-primary-light)] flex justify-between items-center"
               >
                 {tCat(section.category)}
                 <svg
@@ -230,7 +230,7 @@ export default function Navigation() {
                     key={item.key}
                     href={item.href}
                     onClick={() => setMobileOpen(false)}
-                    className={`block px-8 py-2.5 text-sm hover:bg-[var(--color-primary-light)] ${
+                    className={`block ps-8 pe-4 py-2.5 text-sm hover:bg-[var(--color-primary-light)] ${
                       pathname === item.href ? "text-[var(--color-gold)]" : ""
                     }`}
                   >
