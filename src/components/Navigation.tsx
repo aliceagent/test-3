@@ -17,11 +17,25 @@ const navSections = [
     ],
   },
   {
+    category: "holidays",
+    items: [
+      { key: "allHolidays", href: "/holidays" },
+      { key: "navShabbat", href: "/holidays/shabbat" },
+      { key: "navRoshHashana", href: "/holidays/rosh-hashana" },
+      { key: "navYomKippur", href: "/holidays/yom-kippur" },
+      { key: "navSukkot", href: "/holidays/sukkot" },
+      { key: "navChanukah", href: "/holidays/chanukah" },
+      { key: "navPurim", href: "/holidays/purim" },
+      { key: "navPassover", href: "/holidays/passover" },
+      { key: "navShavuot", href: "/holidays/shavuot" },
+      { key: "navTuBishvat", href: "/holidays/tu-bishvat" },
+      { key: "navLagBaomer", href: "/holidays/lag-baomer" },
+      { key: "navTishaBav", href: "/holidays/tisha-bav" },
+    ],
+  },
+  {
     category: "dailyLiving",
     items: [
-      { key: "shabbat", href: "/shabbat" },
-      { key: "holidays", href: "/holidays" },
-      { key: "passoverSeder", href: "/passover-seder" },
       { key: "prayer", href: "/prayer" },
       { key: "kosherFood", href: "/kosher-food" },
       { key: "blessings", href: "/blessings" },
