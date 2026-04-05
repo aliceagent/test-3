@@ -2,24 +2,31 @@
 @plugin "@tailwindcss/typography";
 
 @theme inline {
-  --color-primary: #1a365d;
-  --color-primary-light: #2a4a7f;
-  --color-primary-dark: #0f2440;
-  --color-gold: #c6973f;
-  --color-gold-light: #dbb065;
-  --color-cream: #faf8f0;
-  --color-cream-dark: #f0ead6;
+  --color-primary: #1a2332;
+  --color-primary-light: #2d3f56;
+  --color-primary-dark: #0e1520;
+  --color-gold: #c49a3c;
+  --color-gold-light: #d4ad5a;
+  --color-cream: #faf9f6;
+  --color-cream-dark: #f0ede6;
   --color-text: #1a1a2e;
-  --color-text-light: #4a4a6a;
+  --color-text-light: #64648a;
   --color-bg: #ffffff;
-  --color-bg-alt: #f5f3eb;
-  --font-sans: "Noto Sans SC", "Noto Sans Hebrew", Arial, sans-serif;
+  --color-bg-alt: #f7f6f3;
+  --color-surface: #ffffff;
+  --color-border: #e8e6e1;
+  --font-sans: "Inter", "Noto Sans SC", "Noto Sans Hebrew", system-ui, sans-serif;
+  --font-serif: "Georgia", "Noto Serif SC", serif;
 }
 
+/* Modern base */
 body {
   background: var(--color-bg);
   color: var(--color-text);
   font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  letter-spacing: -0.011em;
 }
 
 [dir="rtl"] {
@@ -30,23 +37,77 @@ html {
   scroll-behavior: smooth;
 }
 
-/* Scrollbar styling */
+/* Modern scrollbar */
 ::-webkit-scrollbar {
-  width: 8px;
+  width: 6px;
 }
 ::-webkit-scrollbar-track {
-  background: var(--color-cream);
+  background: transparent;
 }
 ::-webkit-scrollbar-thumb {
-  background: var(--color-gold);
+  background: #c4c0b8;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #a8a49c;
+}
+
+/* Focus styles */
+:focus-visible {
+  outline: 2px solid var(--color-gold);
+  outline-offset: 2px;
   border-radius: 4px;
 }
 
-/* Star of David decorative element */
-.star-decoration::before {
-  content: "✡";
-  color: var(--color-gold);
-  margin-right: 0.5rem;
+/* Modern card shadow system */
+.shadow-card {
+  box-shadow:
+    0 0 0 1px rgba(0, 0, 0, 0.04),
+    0 1px 2px rgba(0, 0, 0, 0.04),
+    0 4px 8px rgba(0, 0, 0, 0.02);
+}
+.shadow-card-hover {
+  box-shadow:
+    0 0 0 1px rgba(0, 0, 0, 0.06),
+    0 4px 12px rgba(0, 0, 0, 0.06),
+    0 8px 24px rgba(0, 0, 0, 0.04);
+}
+.shadow-elevated {
+  box-shadow:
+    0 0 0 1px rgba(0, 0, 0, 0.04),
+    0 8px 24px rgba(0, 0, 0, 0.08),
+    0 16px 48px rgba(0, 0, 0, 0.04);
+}
+
+/* Typography helpers */
+.heading-display {
+  letter-spacing: -0.035em;
+  line-height: 1.08;
+}
+.heading-section {
+  letter-spacing: -0.025em;
+  line-height: 1.15;
+}
+
+/* Prose overrides for articles */
+.prose h2 {
+  letter-spacing: -0.02em;
+  margin-top: 2.5em;
+}
+.prose h3 {
+  letter-spacing: -0.015em;
+}
+.prose p {
+  line-height: 1.75;
+}
+.prose blockquote {
+  border-inline-start-width: 3px;
+  font-style: normal;
+}
+
+/* Transition defaults */
+.transition-smooth {
+  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 /* Audio player custom styling */

@@ -169,40 +169,41 @@ export default function ArticlePage() {
     .join(" ");
 
   return (
-    <div className="max-w-4xl mx-auto px-4 py-8">
+    <div className="max-w-3xl mx-auto px-4 sm:px-6 py-10">
       {/* Breadcrumb */}
-      <nav className="mb-6 text-sm text-[var(--color-text-light)]">
-        <Link href="/" className="hover:text-[var(--color-primary)]">
+      <nav className="mb-8 text-sm text-[var(--color-text-light)]">
+        <Link href="/" className="hover:text-[var(--color-text)] transition-colors">
           Home
         </Link>
-        <span className="mx-2">/</span>
+        <span className="mx-1.5 text-[var(--color-border)]">/</span>
         <Link
           href={`/${article.section}`}
-          className="hover:text-[var(--color-primary)]"
+          className="hover:text-[var(--color-text)] transition-colors"
         >
           {sectionLabel}
         </Link>
-        <span className="mx-2">/</span>
-        <span className="text-[var(--color-text)]">{title}</span>
       </nav>
 
       {/* Article Header */}
-      <header className="mb-8" dir={isRtl ? "rtl" : "ltr"}>
-        <div className="flex items-center justify-between mb-3">
-          <div className="flex items-center gap-2">
-            <span className="px-3 py-1 bg-[var(--color-cream)] rounded-full text-xs text-[var(--color-text-light)]">
-              {sectionLabel}
+      <header className="mb-10" dir={isRtl ? "rtl" : "ltr"}>
+        <div className="flex items-center gap-2 mb-4">
+          <span className="px-2.5 py-0.5 bg-[var(--color-bg-alt)] rounded-full text-xs font-medium text-[var(--color-text-light)] border border-[var(--color-border)]">
+            {sectionLabel}
+          </span>
+          {article.updated_at && (
+            <span className="text-xs text-[var(--color-text-light)]">
+              {new Date(article.updated_at).toLocaleDateString()}
             </span>
-            {article.updated_at && (
-              <span className="text-xs text-[var(--color-text-light)]">
-                {new Date(article.updated_at).toLocaleDateString()}
-              </span>
-            )}
-          </div>
-          {!editing && !submitted && (
-            <button
-              onClick={startEditing}
-              className="inline-flex items-center gap-1.5 px-4 py-2 text-sm bg-[var(--color-bg-alt)] text-[var(--color-text-light)] hover:bg-[var(--color-cream)] hover:text-[var(--color-primary)] rounded-lg transition-colors border border-transparent hover:border-[var(--color-cream-dark)]"
+          )}
+        </div>
+        <h1 className="heading-display text-3xl md:text-4xl font-bold text-[var(--color-text)] mb-4">
+          {title}
+        </h1>
+        <div className="h-0.5 w-16 bg-[var(--color-gold)] rounded-full" />
+        {!editing && !submitted && (
+          <button
+            onClick={startEditing}
+              className="mt-4 inline-flex items-center gap-1.5 px-4 py-2 text-sm text-[var(--color-text-light)] hover:text-[var(--color-text)] rounded-lg transition-colors border border-[var(--color-border)] hover:border-[var(--color-text-light)]"
             >
               <svg className="w-4 h-4" fill="none" stroke="currentColor" strokeWidth={2} viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" d="m16.862 4.487 1.687-1.688a1.875 1.875 0 1 1 2.652 2.652L10.582 16.07a4.5 4.5 0 0 1-1.897 1.13L6 18l.8-2.685a4.5 4.5 0 0 1 1.13-1.897l8.932-8.931Zm0 0L19.5 7.125M18 14v4.75A2.25 2.25 0 0 1 15.75 21H5.25A2.25 2.25 0 0 1 3 18.75V8.25A2.25 2.25 0 0 1 5.25 6H10" />
@@ -210,11 +211,6 @@ export default function ArticlePage() {
               Suggest Edit
             </button>
           )}
-        </div>
-        <h1 className="text-3xl md:text-4xl font-bold text-[var(--color-primary)] mb-3">
-          {title}
-        </h1>
-        <div className="h-1 w-20 bg-[var(--color-gold)] rounded" />
       </header>
 
       {articleImageMap[article.id] && (
@@ -372,7 +368,7 @@ export default function ArticlePage() {
       {/* Article Body */}
       {!editing && (
         <div
-          className="prose prose-lg max-w-none text-[var(--color-text)] prose-headings:text-[var(--color-primary)] prose-a:text-[var(--color-primary-light)] prose-img:rounded-xl prose-img:shadow-md prose-blockquote:border-[var(--color-gold)] prose-strong:text-[var(--color-primary)] mb-10"
+          className="prose prose-lg max-w-none text-[var(--color-text)] prose-headings:text-[var(--color-text)] prose-headings:font-bold prose-a:text-[var(--color-primary-light)] prose-a:no-underline hover:prose-a:underline prose-img:rounded-xl prose-img:shadow-card prose-blockquote:border-[var(--color-gold)] prose-blockquote:text-[var(--color-text-light)] prose-strong:text-[var(--color-text)] prose-strong:font-semibold mb-12"
           dir={isRtl ? "rtl" : "ltr"}
         >
           <ReactMarkdown
@@ -396,7 +392,7 @@ export default function ArticlePage() {
       )}
 
       {/* Feedback */}
-      <div className="border-t border-[var(--color-cream-dark)] pt-6 mb-10">
+      <div className="border-t border-[var(--color-border)] pt-8 mb-12">
         <ArticleFeedback
           sectionId={`article-${article.id}`}
           sectionTitle={title}
@@ -405,16 +401,16 @@ export default function ArticlePage() {
 
       {/* Related Articles */}
       {relatedArticles.length > 0 && (
-        <div className="bg-[var(--color-cream)] rounded-xl p-6 mb-8">
-          <h3 className="font-semibold text-[var(--color-primary)] mb-4">
+        <div className="bg-[var(--color-bg-alt)] rounded-xl p-6 mb-10 border border-[var(--color-border)]">
+          <h3 className="text-sm font-medium text-[var(--color-text-light)] uppercase tracking-wider mb-4">
             More in {sectionLabel}
           </h3>
-          <div className="space-y-2">
+          <div className="space-y-1">
             {relatedArticles.map((related) => (
               <Link
                 key={related.id}
                 href={`/articles/${related.id}`}
-                className="block px-4 py-3 bg-white rounded-lg hover:shadow-sm transition-shadow text-sm text-[var(--color-text)] hover:text-[var(--color-primary)]"
+                className="block px-4 py-2.5 rounded-lg text-sm text-[var(--color-text)] hover:text-[var(--color-primary)] hover:bg-[var(--color-surface)] transition-colors"
               >
                 {getTitle(related)}
               </Link>
@@ -427,7 +423,7 @@ export default function ArticlePage() {
       <div className="text-center">
         <Link
           href={`/${article.section}`}
-          className="text-sm text-[var(--color-primary-light)] hover:text-[var(--color-primary)]"
+          className="text-sm text-[var(--color-text-light)] hover:text-[var(--color-text)] transition-colors"
         >
           &larr; Back to {sectionLabel}
         </Link>

@@ -5,42 +5,12 @@ import { Link } from "@/i18n/navigation";
 import { getAllArticles } from "@/lib/articles";
 
 const featuredSections = [
-  {
-    href: "/torah-study",
-    icon: "📖",
-    nameKey: "torahStudy",
-    description: "Explore the Five Books of Moses and Jewish scripture",
-  },
-  {
-    href: "/shabbat",
-    icon: "🕯️",
-    nameKey: "shabbat",
-    description: "Learn about the Jewish day of rest and its observance",
-  },
-  {
-    href: "/holidays",
-    icon: "✡️",
-    nameKey: "holidays",
-    description: "Discover the meaning of Jewish festivals and holy days",
-  },
-  {
-    href: "/kosher-food",
-    icon: "🍽️",
-    nameKey: "kosherFood",
-    description: "Understand the laws and practice of kosher eating",
-  },
-  {
-    href: "/prayer",
-    icon: "🙏",
-    nameKey: "prayer",
-    description: "Guide to Jewish prayer, synagogue, and daily blessings",
-  },
-  {
-    href: "/philosophy",
-    icon: "💡",
-    nameKey: "philosophy",
-    description: "Jewish thought, ethics, and philosophical traditions",
-  },
+  { href: "/torah-study", nameKey: "torahStudy", desc: "Explore the Five Books of Moses and Jewish scripture" },
+  { href: "/holidays", nameKey: "holidays", desc: "Discover Jewish festivals, their meaning and observance" },
+  { href: "/shabbat", nameKey: "shabbat", desc: "Learn about the Jewish day of rest" },
+  { href: "/kosher-food", nameKey: "kosherFood", desc: "Understand the laws and practice of kosher eating" },
+  { href: "/prayer", nameKey: "prayer", desc: "Guide to Jewish prayer and daily blessings" },
+  { href: "/philosophy", nameKey: "philosophy", desc: "Jewish thought, ethics, and philosophical traditions" },
 ];
 
 export default function HomePage() {
@@ -50,104 +20,70 @@ export default function HomePage() {
   const articleCount = getAllArticles().length;
 
   return (
-    <main className="min-h-screen" style={{ backgroundColor: "var(--color-cream)" }}>
-      {/* Hero Section */}
-      <section
-        className="relative flex flex-col items-center justify-center px-4 py-20 text-center md:py-32"
-        style={{
-          background: "linear-gradient(135deg, var(--color-primary) 0%, var(--color-primary-dark) 100%)",
-        }}
-      >
-        <div className="mx-auto max-w-4xl">
-          <h1
-            className="mb-6 text-4xl font-bold leading-tight text-white md:text-6xl"
-            style={{ textShadow: "0 2px 4px rgba(0,0,0,0.3)" }}
-          >
+    <main className="min-h-screen">
+      {/* Hero */}
+      <section className="relative overflow-hidden bg-[var(--color-primary)]">
+        <div className="absolute inset-0 bg-gradient-to-br from-[var(--color-primary)] via-[var(--color-primary-dark)] to-[#0a0f18]" />
+        <div className="absolute inset-0 opacity-[0.03]" style={{
+          backgroundImage: "radial-gradient(circle at 1px 1px, white 1px, transparent 0)",
+          backgroundSize: "32px 32px",
+        }} />
+        <div className="relative mx-auto max-w-4xl px-6 py-20 md:py-28 text-center">
+          <p className="text-[var(--color-gold)] text-sm font-medium tracking-widest uppercase mb-6">
+            Torah &#x4E4B;&#x5149;
+          </p>
+          <h1 className="heading-display text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-6">
             {tHome("hero")}
           </h1>
-          <p
-            className="mb-10 text-lg leading-relaxed md:text-xl"
-            style={{ color: "rgba(255,255,255,0.9)" }}
-          >
+          <p className="text-lg md:text-xl text-white/70 leading-relaxed max-w-2xl mx-auto mb-10">
             {tHome("heroSub")}
           </p>
           {articleCount > 0 && (
-            <p
-              className="mb-8 inline-block rounded-full px-5 py-2 text-sm font-medium"
-              style={{
-                backgroundColor: "rgba(255,255,255,0.15)",
-                color: "rgba(255,255,255,0.95)",
-                backdropFilter: "blur(4px)",
-              }}
-            >
+            <p className="inline-block rounded-full px-4 py-1.5 text-sm text-white/60 bg-white/[0.06] border border-white/[0.08] mb-8">
               {articleCount} {tHome("articlesAvailable")}
             </p>
           )}
-          <div className="flex flex-col items-center gap-4 sm:flex-row sm:justify-center">
+          <div className="flex flex-col sm:flex-row items-center gap-3 justify-center">
             <Link
               href="/torah-study"
-              className="inline-block rounded-full px-8 py-4 text-base font-semibold transition-all duration-200 hover:opacity-90 hover:shadow-lg"
-              style={{
-                backgroundColor: "var(--color-gold)",
-                color: "#1a1a1a",
-              }}
+              className="inline-flex items-center rounded-full px-7 py-3 text-[15px] font-semibold bg-[var(--color-gold)] text-[var(--color-primary-dark)] hover:bg-[var(--color-gold-light)] transition-colors"
             >
               {tHome("startLearning")}
             </Link>
             <Link
               href="/community"
-              className="inline-block rounded-full border-2 border-white px-8 py-4 text-base font-semibold text-white transition-all duration-200 hover:bg-white"
-              style={{ color: "#ffffff" }}
+              className="inline-flex items-center rounded-full px-7 py-3 text-[15px] font-medium text-white border border-white/20 hover:bg-white/10 transition-colors"
             >
               {tHome("joinCommunity")}
             </Link>
           </div>
         </div>
-        {/* Decorative overlay */}
-        <div
-          className="absolute inset-0 opacity-10"
-          style={{
-            backgroundImage:
-              "repeating-linear-gradient(45deg, transparent, transparent 20px, rgba(255,255,255,0.05) 20px, rgba(255,255,255,0.05) 40px)",
-          }}
-        />
       </section>
 
-      {/* Featured Sections Grid */}
-      <section className="px-4 py-16 md:py-24">
-        <div className="mx-auto max-w-6xl">
-          <h2
-            className="mb-4 text-center text-3xl font-bold md:text-4xl"
-            style={{ color: "var(--color-text)" }}
-          >
+      {/* Featured Sections */}
+      <section className="px-6 py-16 md:py-24 bg-[var(--color-bg)]">
+        <div className="mx-auto max-w-5xl">
+          <h2 className="heading-section text-2xl md:text-3xl font-bold text-[var(--color-text)] text-center mb-3">
             {tHome("featuredSections")}
           </h2>
-          <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
+          <p className="text-[var(--color-text-light)] text-center mb-12 max-w-xl mx-auto">
+            Begin your journey into Torah and Jewish wisdom
+          </p>
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             {featuredSections.map((section) => (
               <Link
                 key={section.href}
                 href={section.href}
-                className="group flex flex-col rounded-2xl p-6 shadow-sm transition-all duration-200 hover:-translate-y-1 hover:shadow-md"
-                style={{ backgroundColor: "#ffffff" }}
+                className="group relative flex flex-col rounded-xl p-6 bg-[var(--color-surface)] shadow-card hover:shadow-card-hover transition-all duration-200 hover:-translate-y-0.5 border border-[var(--color-border)]"
               >
-                <div className="mb-4 text-4xl">{section.icon}</div>
-                <h3
-                  className="mb-2 text-xl font-semibold"
-                  style={{ color: "var(--color-text)" }}
-                >
+                <h3 className="text-base font-semibold text-[var(--color-text)] mb-2 group-hover:text-[var(--color-primary)] transition-colors">
                   {tNav(section.nameKey)}
                 </h3>
-                <p
-                  className="text-sm leading-relaxed"
-                  style={{ color: "var(--color-text-light)" }}
-                >
-                  {section.description}
+                <p className="text-sm text-[var(--color-text-light)] leading-relaxed flex-1">
+                  {section.desc}
                 </p>
-                <span
-                  className="mt-4 self-start text-sm font-medium transition-colors duration-200 group-hover:underline"
-                  style={{ color: "var(--color-primary)" }}
-                >
-                  {tCommon("learnMore")} →
+                <span className="mt-4 text-sm font-medium text-[var(--color-gold)] group-hover:text-[var(--color-gold-light)] transition-colors">
+                  {tCommon("learnMore")} &rarr;
                 </span>
               </Link>
             ))}
@@ -155,86 +91,23 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* WhatsApp CTA Banner */}
-      <section
-        className="px-4 py-14"
-        style={{ backgroundColor: "var(--color-bg-alt)" }}
-      >
-        <div
-          className="mx-auto flex max-w-4xl flex-col items-center rounded-3xl px-8 py-12 text-center shadow-md md:flex-row md:gap-10 md:text-left"
-          style={{ backgroundColor: "var(--color-gold)" }}
-        >
-          <div className="mb-6 text-5xl md:mb-0 md:text-6xl">💬</div>
-          <div className="flex-1">
-            <h2
-              className="mb-3 text-2xl font-bold md:text-3xl"
-              style={{ color: "#1a1a1a" }}
-            >
-              {tHome("whatsappJoin")}
-            </h2>
-            <p
-              className="mb-6 text-base leading-relaxed"
-              style={{ color: "rgba(0,0,0,0.75)" }}
-            >
-              {tHome("whatsappDesc")}
-            </p>
-            <a
-              href="https://chat.whatsapp.com/"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="inline-block rounded-full px-8 py-3 text-base font-semibold text-white transition-all duration-200 hover:opacity-90 hover:shadow-lg"
-              style={{ backgroundColor: "#25D366" }}
-            >
-              {tHome("joinCommunity")}
-            </a>
-          </div>
-        </div>
-      </section>
-
-      {/* Video Highlights Section */}
-      <section className="px-4 py-16 md:py-24">
-        <div className="mx-auto max-w-6xl">
-          <h2
-            className="mb-4 text-center text-3xl font-bold md:text-4xl"
-            style={{ color: "var(--color-text)" }}
-          >
-            {tHome("videoHighlights")}
+      {/* WhatsApp CTA */}
+      <section className="px-6 py-12">
+        <div className="mx-auto max-w-3xl rounded-2xl bg-gradient-to-br from-[var(--color-primary)] to-[var(--color-primary-dark)] p-8 md:p-12 text-center">
+          <h2 className="heading-section text-2xl md:text-3xl font-bold text-white mb-3">
+            {tHome("whatsappJoin")}
           </h2>
-          <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
-            {[1, 2, 3].map((i) => (
-              <div
-                key={i}
-                className="flex flex-col overflow-hidden rounded-2xl shadow-sm"
-                style={{ backgroundColor: "#ffffff" }}
-              >
-                {/* Video placeholder */}
-                <div
-                  className="relative flex items-center justify-center"
-                  style={{
-                    aspectRatio: "16/9",
-                    backgroundColor: "var(--color-bg-alt)",
-                  }}
-                >
-                  <div
-                    className="flex h-16 w-16 items-center justify-center rounded-full text-3xl"
-                    style={{ backgroundColor: "var(--color-primary)", color: "#ffffff" }}
-                  >
-                    ▶
-                  </div>
-                </div>
-                <div className="p-4">
-                  <div
-                    className="mb-2 h-4 rounded"
-                    style={{ backgroundColor: "var(--color-bg-alt)", width: "75%" }}
-                  />
-                  <div
-                    className="h-3 rounded"
-                    style={{ backgroundColor: "var(--color-bg-alt)", width: "55%" }}
-                  />
-                </div>
-              </div>
-            ))}
-          </div>
+          <p className="text-white/70 mb-8 max-w-lg mx-auto leading-relaxed">
+            {tHome("whatsappDesc")}
+          </p>
+          <a
+            href="https://chat.whatsapp.com/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-flex items-center rounded-full px-7 py-3 text-[15px] font-semibold text-white bg-[#25D366] hover:bg-[#20bd5a] transition-colors"
+          >
+            {tHome("joinCommunity")}
+          </a>
         </div>
       </section>
     </main>
